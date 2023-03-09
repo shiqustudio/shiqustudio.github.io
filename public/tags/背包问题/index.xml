@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>背包问题 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/</link>
+    <description>背包问题 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 22 Jul 2018 10:55:21 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/" rel="self" type="application/rss+xml" /><item>
+  <title>TaoTao 要吃鸡</title>
+  <link>https://shiqustudio.github.io/taotao%E8%A6%81%E5%90%83%E9%B8%A1/</link>
+  <pubDate>Sun, 22 Jul 2018 10:55:21 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/taotao%E8%A6%81%E5%90%83%E9%B8%A1/</guid>
+  <description><![CDATA[2018 年全国多校算法寒假训练营练习比赛（第二场）B(0 1 背包变化 特殊处理一个物品） 链接：https://www.nowcoder.com/acm]]></description>
+</item>
+<item>
+  <title>简单背包</title>
+  <link>https://shiqustudio.github.io/%E7%AE%80%E5%8D%95%E8%83%8C%E5%8C%85/</link>
+  <pubDate>Sat, 16 Jun 2018 13:18:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/%E7%AE%80%E5%8D%95%E8%83%8C%E5%8C%85/</guid>
+  <description><![CDATA[<p><code>弱鸡还是弱鸡啊最简单的背包问题——。——！</code></p>
+<h2 id="1-问题描述">1) 问题描述：</h2>
+<p>假设有一个能装入总体积为 T 的背包和 n 件体积分别为 W1，W2，···，Wn 的物品，能否从 n 件物品中挑选若干件恰好装满背包，即使 W1+W2+···+Wn=T，要求找出所有满足上述条件的解。例如：当 T=10，共 6 件物品，物品的体积为{1，2，3，4，5，8}，那么可找到下列 4 组解：（1，2，3，4）、（1，4，5）、（2，3，5）、（2、8）。</p>]]></description>
+</item>
+</channel>
+</rss>

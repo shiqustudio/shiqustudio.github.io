@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>ES6 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/es6/</link>
+    <description>ES6 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 May 2022 10:59:36 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/es6/" rel="self" type="application/rss+xml" /><item>
+  <title>重新认识 JavaScript</title>
+  <link>https://shiqustudio.github.io/js-rediscover/</link>
+  <pubDate>Sun, 01 May 2022 10:59:36 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/js-rediscover/</guid>
+  <description><![CDATA[<div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>前言<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>前端框架轮替变化越来越快，JavaScript 也在不断地升级迭代，越来越多的新特性让我们的代码写起来变得简洁有趣。</p>
+<p>每隔一段时间就该重新认识一下 JS，这篇文章会介绍 6 种新特性，一起研究一下吧。</p>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+</channel>
+</rss>

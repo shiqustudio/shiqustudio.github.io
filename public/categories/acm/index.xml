@@ -1,0 +1,103 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>ACM - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/acm/</link>
+    <description>ACM - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 17 May 2019 09:14:16 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/acm/" rel="self" type="application/rss+xml" /><item>
+  <title>最大公约数（二进制算法）</title>
+  <link>https://shiqustudio.github.io/gcd-bit/</link>
+  <pubDate>Fri, 17 May 2019 09:14:16 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/gcd-bit/</guid>
+  <description><![CDATA[<blockquote>
+<p>二进制最大公约数算法避免了欧几里得算法（辗转相除法）的大量取模操作，有效减少了时间消耗，且更为方便。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>HDU 1009 FatMouse&#39; Trade（贪心）</title>
+  <link>https://shiqustudio.github.io/hdu1009/</link>
+  <pubDate>Fri, 12 Apr 2019 16:43:19 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu1009/</guid>
+  <description><![CDATA[题目大意： 题目链接 老鼠有 M 磅猫食 , 有 N 个房间 , 每个房间前有一只猫 , 房间里有老鼠最喜欢的食品 J[i] , 若要得到房间的食物 , 必须付出相应的猫食 F[i] , 当然]]></description>
+</item>
+<item>
+  <title>百钱百鸡（枚举法）</title>
+  <link>https://shiqustudio.github.io/bqbj/</link>
+  <pubDate>Sat, 30 Mar 2019 10:13:33 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/bqbj/</guid>
+  <description><![CDATA[<blockquote>
+<p>我国古代数学家张丘建在《算经》一书中提出的数学问题：鸡翁一值钱五，鸡母一值钱三，鸡雏三值钱一。百钱买百鸡，问鸡翁、鸡母、鸡雏各几何？</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>大数乘法</title>
+  <link>https://shiqustudio.github.io/dacheng/</link>
+  <pubDate>Thu, 28 Mar 2019 22:50:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dacheng/</guid>
+  <description><![CDATA[<blockquote>
+<p>大数乘法 c 版(基础写法)</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>石子阵列（组合数学）</title>
+  <link>https://shiqustudio.github.io/nowcoder157a/</link>
+  <pubDate>Fri, 10 Aug 2018 22:11:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/nowcoder157a/</guid>
+  <description><![CDATA[链接：https://www.nowcoder.com/acm/contest/157/A 来源：牛客网 题目描述 xb 有 m 种石子，每种无限个，Ta]]></description>
+</item>
+<item>
+  <title>Dreamoon and Stairs</title>
+  <link>https://shiqustudio.github.io/codeforces476a/</link>
+  <pubDate>Fri, 10 Aug 2018 20:13:08 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codeforces476a/</guid>
+  <description><![CDATA[题目链接 Dreamoon wants to climb up a stair of n steps. He can climb 1 or 2 steps at each move. Dreamoon wants the number of moves to be a multiple of an integer m. What is the minimal number of moves making him climb to the top of the stairs that satisfies his condition? Input The single line contains two space separated integers n, m (0]]></description>
+</item>
+<item>
+  <title>Dreamoon and WiFi（组合数学）</title>
+  <link>https://shiqustudio.github.io/codeforces476b/</link>
+  <pubDate>Fri, 10 Aug 2018 17:44:47 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codeforces476b/</guid>
+  <description><![CDATA[题目链接 题目大意 就是给定两个字符串，第一个字符串由&quot;+&quot;,&quot;-&ldquo;组成，第二个字符串由&rdquo;]]></description>
+</item>
+<item>
+  <title>The equation-SGU106（扩展欧几里得）</title>
+  <link>https://shiqustudio.github.io/euclid/</link>
+  <pubDate>Fri, 10 Aug 2018 10:32:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/euclid/</guid>
+  <description><![CDATA[题意： 给出 a,b,c,x1,x2,y1,y2，求满足 ax+by+c=0，且 x∈[x1,x2],y∈[y1,y2] 的整数解个数。 分析： 对于解二]]></description>
+</item>
+<item>
+  <title>Leading and Trailing-lightoj1282（快速幂&#43;对数运算）</title>
+  <link>https://shiqustudio.github.io/lightoj1282/</link>
+  <pubDate>Thu, 09 Aug 2018 20:55:26 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/lightoj1282/</guid>
+  <description><![CDATA[<h3 id="题目链接httpsvjudgenetcontest238979probleme"><a href="https://vjudge.net/contest/238979#problem/E"target="_blank" rel="external nofollow noopener noreferrer">题目链接</a></h3>
+<h3 id="题目大意">题目大意：</h3>
+<p>给定两个数 n,k 求 n^k 的前三位和最后三位。</p>
+<h3 id="分析">分析</h3>
+<p>求后三位的话：直接快速幂，对 1000 取模就好了。<br>
+求前三位，对于给定的一个数 n, 它可以写成 n=10^a, 其中这个 a 为浮点数，则<code>t=n^k=(10^a)^k=10^a*k=(10^x)*(10^y);</code>其中 x,y 分别是<code>a*k</code>的整数部分和小数部分，对于 t=n^k 这个数，它的位数由 (10^x) 决定，它的位数上的值则有 (10^y) 决定，因此我们要求 t 的前三位，只需要将 10^y 求出，在乘以 100，就得到了它的前三位。<br>
+分析完，我们再整体看，设 n^k=10^z; 那么<code>z=k*log10(n)</code><br>
+<code>fmod(z,1)</code>可以求出 x 的小数部分。</p>]]></description>
+</item>
+<item>
+  <title>Codeforces Round 502(Div.1 &#43; Div.2)</title>
+  <link>https://shiqustudio.github.io/cfcontest1017/</link>
+  <pubDate>Thu, 09 Aug 2018 10:48:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cfcontest1017/</guid>
+  <description><![CDATA[<h3 id="a-the-rankhttpscodeforcescomcontest1017problema"><a href="https://codeforces.com/contest/1017/problem/A"target="_blank" rel="external nofollow noopener noreferrer">A. The Rank</a></h3>
+<p>题目大意：<br>
+给出 n 个学生的成绩，Thomas Smith 的成绩是第一行，然后要按总成绩进行排序，总分相同的按编号从小到大排；<br>
+开始看还以为要写 sort 的 cmp 函数进行多条件排序，敲完才发现其实只要按总分就可以了，因为托马斯的 id 是一，必然会排在前面。</p>]]></description>
+</item>
+</channel>
+</rss>

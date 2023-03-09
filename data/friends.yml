@@ -1,0 +1,96 @@
+# - nickname: 标题
+#   avatar: 头像
+#   url: 站点
+#   description: 描述
+- nickname: 愛如潮水
+  avatar: https://recell.github.io/images/123.jpg
+  url: https://recell.github.io
+  description: 蒙镛、老铁,一句两句说不清！
+- nickname: DoubleAm
+  avatar: https://a.biugle.cn/images/avatar.jpg
+  url: https://a.biugle.cn/
+  description: 又一个被我带入坑的小伙子！
+- nickname: francs
+  avatar: https://postgres.fun/images/francs.png
+  url: https://postgres.fun
+  description: PostgreSQL中文网。数据库。francs.top
+# - nickname: 赵俊 (未发现友链)
+#   avatar: https://zhaojun.vip/uploads/avatar.gif
+#   url: https://zhaojun.vip
+#   description: 一个Java学习者的博客，分享Java干货，VPS知识，软件推荐等。valine-admin👍
+- nickname: hojun
+  avatar: https://cdn.jsdelivr.net/gh/honjun/ImageHosting/sina/006bYVyvgy1ftand2qurdj303c03cdfv.jpg
+  url: https://www.hojun.cn
+  description: 一个好奇的博客！前端开发。
+- nickname: AnFrank
+  avatar: https://enfangzhong.github.io/images/avatar.jpg
+  url: https://enfangzhong.github.io
+  description: 机器学习，SQL
+- nickname: Domon
+  avatar: https://www.domon.cn/content/images/2019/06/avatar_shiba-1.jpg
+  url: https://www.domon.cn
+  description: 主要涉及 Android 端技术，前沿其他技术和生活吐槽。
+- nickname: mythsman
+  avatar: https://blog.mythsman.com/content/images/2019/07/----_20190713220203.jpg
+  url: https://blog.mythsman.com
+  description: hexo-douban 插件开发者，坐标上海拼多多博客看起来是个很有生活感与学习感的地方。
+- nickname: 在线分享网
+  avatar: https://avatars2.githubusercontent.com/u/49894775?s=460&v=4
+  url: https://me.obey.fun
+  description: 分享，成为你我之间的快乐！
+- nickname: Wizzie
+  avatar: https://wizzie.top/Blog/img/head.jpg
+  url: https://wizzie.top/Blog/
+  description: “Brave, Confident, Come on!”
+- nickname: 星空无限
+  avatar: https://liyangzone.com/medias/avatar.jpg
+  url: https://liyangzone.com
+  description: 前端开发，骑行爱好者，分享技术、分享生活。Front-End Developer
+- nickname: 北宸
+  avatar: https://cdn.jsdelivr.net/gh/leafjame/cdn/img/logo/beichen.png
+  url: https://www.liaofuzhan.com
+  description: “Java狮 北漂男 摄影 旅行 赚钱”
+- nickname: Lars Cheng
+  avatar: https://www.larscheng.com/img/001.png
+  url: https://www.larscheng.com
+  description: 分享Java技术, 记录点滴生活。
+- nickname: CrazyWong
+  avatar: https://crazywong.com/img/avatar.png
+  url: https://crazywong.com
+  description: 熱衷學習，熱衷生活
+- nickname: 辣椒の酱
+  avatar: https://removeif.github.io/images/avatar.jpg
+  url: https://removeif.github.io
+  description: 后端开发，技术分享
+- nickname: 木子雷
+  avatar: https://leishen6.github.io/img/logo.png
+  url: https://leishen6.github.io
+  description: web后端码仔，记录生活，分享技术！
+- nickname: 十年之约
+  avatar: https://www.foreverblog.cn/favicon.ico
+  url: https://www.foreverblog.cn
+  description: 一个人的寂寞，一群人的狂欢。
+- nickname: HominSu
+  avatar: https://www.hauhau.cn/img/logo.png
+  url: https://www.hauhau.cn
+  description: 哈喽啊～各位
+- nickname: Andreo Y.
+  avatar: https://pigco-1313228125.cos.ap-shanghai.myqcloud.com/img/JQAeX6iE9f1RKTu.jpg
+  url: https://andreoy.cn
+  description: To sail beyond the sunset.
+- nickname: Ayou
+  avatar: https://cravatar.cn/avatar/467dd59b914fd9980108b9f7d143d320
+  url: https://ayou10031.com
+  description: Try again,do better.
+- nickname: 浅枫沐雪
+  avatar: https://gravatar.loli.net/avatar/79e7d8047e78c312d4e5951b84089cc9
+  url: https://allms.cn
+  description: 愿时光待你温暖如初
+- nickname: SoulChild 随笔记
+  avatar: https://www.soulchild.cn/images/avatar.png
+  url: https://soulchild.cn
+  description: SoulChild’s blog
+# - nickname: 暂时不接受友链
+#   avatar:
+#   url: https://lruihao.cn
+#   description: 暂时不接受友链！

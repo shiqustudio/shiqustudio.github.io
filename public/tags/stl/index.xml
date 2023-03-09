@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>STL - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/stl/</link>
+    <description>STL - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Jun 2018 20:23:03 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/stl/" rel="self" type="application/rss+xml" /><item>
+  <title>sort 排序</title>
+  <link>https://shiqustudio.github.io/c-sort/</link>
+  <pubDate>Thu, 14 Jun 2018 20:23:03 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/c-sort/</guid>
+  <description><![CDATA[sort 使用#include&lt;algorithm&gt;头文件， sort（开始地址，结束地址，排序方式），其中第三参数可以没有，则默认为升序]]></description>
+</item>
+<item>
+  <title>C&#43;&#43; with STL</title>
+  <link>https://shiqustudio.github.io/c-with-stl/</link>
+  <pubDate>Thu, 14 Jun 2018 20:22:06 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/c-with-stl/</guid>
+  <description><![CDATA[1.swap（交换两元素值，在 algorithm 下，用法：swap(a,b);） 交换两元素的值在 C 语言课上作为指针讲解的典例。 int a=1,b=2; swap(a,b); //此时 a=2,b=1 （可以是其他类]]></description>
+</item>
+</channel>
+</rss>

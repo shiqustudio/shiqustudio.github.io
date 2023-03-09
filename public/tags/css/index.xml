@@ -1,0 +1,46 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>CSS - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/css/</link>
+    <description>CSS - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/css/" rel="self" type="application/rss+xml" /><item>
+  <title>浏览器渲染原理</title>
+  <link>https://shiqustudio.github.io/browser-rendering/</link>
+  <pubDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/browser-rendering/</guid>
+  <description><![CDATA[浏览器是如何渲染页面的？ 当浏览器的网络线程收到 HTML 文档后，会产生一个渲染任务，并将其传递给渲染主线程的消息队列。 在事件循环机制的作用下，渲染主]]></description>
+</item>
+<item>
+  <title>关于 CSS 和 Scss 变量运算那些事</title>
+  <link>https://shiqustudio.github.io/css-scss-var/</link>
+  <pubDate>Sat, 30 Apr 2022 22:04:29 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/css-scss-var/</guid>
+  <description><![CDATA[<h2 id="问题分析">问题分析</h2>
+<p>昨天在开发 FixIt 的时候，在 Scss 中写 <code>max(foo, bar)</code> 函数比较不同的单位变量时报错了，但是在 CSS 中使用 <code>max</code> 或者 <code>min</code> 函数函数比较不同的单位变量是没有问题的。</p>
+<p>造成这一问题的原因是，在 Scss 中，也实现了 <code>max</code> 和 <code>min</code> 函数，但是在 Scss 中，<strong>不同单位的变量是不能进行运算的</strong>，所以使得在 Scss 中直接使用 <code>max</code> 或者 <code>min</code> 函数会提示单位不同的报错。（同类 Less 中的变量运算是支持不同单位的）</p>
+<p>知道造成问题的原因后，解决这个问题就很简单了，有很多种方法，有些方法感觉像在卡 BUG，有点意思，记录一下。</p>]]></description>
+</item>
+<item>
+  <title>Web 开发规则，代码规范</title>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <description><![CDATA[精神 绝不写死代码，硬编码 不留不要用的、垃圾代码 Git Master 的 BUG 必须最少且趋近于零，为最稳定的版本 每次 Commit 信息应该准确填写。不可模棱两可，eg: 修复 BU]]></description>
+</item>
+<item>
+  <title>前端面试题 - HTML&#43;CSS</title>
+  <link>https://shiqustudio.github.io/ms-html-css/</link>
+  <pubDate>Sat, 30 Mar 2019 22:58:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ms-html-css/</guid>
+  <description><![CDATA[<blockquote>
+<p><a href="https://github.com/ltadpoles/web-document/tree/master/Other"target="_blank" rel="external nofollow noopener noreferrer">原文链接</a><br>
+“卓越班”到了大三突然掀起一股毕业慌，一部分人投身于考研的热潮中，一部分人选择了培训机构学习技术。而我出于种种原因既不考研也不培训，选择自学 java 和 web 相关的知识，也希望因此能在以后谋得一份心仪的工作。</p>
+</blockquote>
+<p>如果文章中有出现纰漏、错误之处，还请看到的小伙伴多多指教，先行谢过</p>]]></description>
+</item>
+</channel>
+</rss>

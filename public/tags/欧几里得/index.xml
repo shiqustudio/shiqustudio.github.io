@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>欧几里得 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97/</link>
+    <description>欧几里得 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 17 May 2019 09:14:16 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97/" rel="self" type="application/rss+xml" /><item>
+  <title>最大公约数（二进制算法）</title>
+  <link>https://shiqustudio.github.io/gcd-bit/</link>
+  <pubDate>Fri, 17 May 2019 09:14:16 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/gcd-bit/</guid>
+  <description><![CDATA[<blockquote>
+<p>二进制最大公约数算法避免了欧几里得算法（辗转相除法）的大量取模操作，有效减少了时间消耗，且更为方便。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>The equation-SGU106（扩展欧几里得）</title>
+  <link>https://shiqustudio.github.io/euclid/</link>
+  <pubDate>Fri, 10 Aug 2018 10:32:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/euclid/</guid>
+  <description><![CDATA[题意： 给出 a,b,c,x1,x2,y1,y2，求满足 ax+by+c=0，且 x∈[x1,x2],y∈[y1,y2] 的整数解个数。 分析： 对于解二]]></description>
+</item>
+</channel>
+</rss>

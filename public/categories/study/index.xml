@@ -1,0 +1,64 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Study - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/study/</link>
+    <description>Study - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 22 Dec 2021 20:17:42 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/study/" rel="self" type="application/rss+xml" /><item>
+  <title>Getting Things Done for ios App Reminders and Github issues</title>
+  <link>https://shiqustudio.github.io/gtd/</link>
+  <pubDate>Wed, 22 Dec 2021 20:17:42 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/gtd/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/gtd/images/reminders.png" referrerpolicy="no-referrer">
+      </div><div class="details admonition quote open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-quote-right fa-fw" aria-hidden="true"></i>quote<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p><strong>Getting Things Done (GTD)</strong> is a personal productivity system developed by David Allen and published in a book of the same name. GTD is described as a time management system. Allen states &ldquo;there is an inverse relationship between things on your mind and those things getting done&rdquo;.</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Getting_Things_Done"target="_blank" rel="external nofollow noopener noreferrer">Reference</a></li>
+<li><a href="https://github.com/Lruihao/hugo-blog/issues/20"target="_blank" rel="external nofollow noopener noreferrer">#20</a></li>
+</ul>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>英语语法--主谓一致</title>
+  <link>https://shiqustudio.github.io/subject-verb/</link>
+  <pubDate>Sat, 12 Jan 2019 13:02:49 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/subject-verb/</guid>
+  <description><![CDATA[常见情况 由 and 或 both and 连接的并列主语，谓语动词一般用复数 English and chinese are two quite different languages. Both brother and sister tire of city life. 一但主语前被 no,every,each 所修饰时，谓语动词用单数 No desk and (no) chair is seen in the]]></description>
+</item>
+<item>
+  <title>英语语法--形式倒装</title>
+  <link>https://shiqustudio.github.io/inversion-3/</link>
+  <pubDate>Mon, 10 Dec 2018 21:52:30 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/inversion-3/</guid>
+  <description><![CDATA[形式倒装，句子本不是本来的语序。 may 位于句首，标祝愿 例句 May you succeed. May you have a happy holiday. Long live chairman Mao.（毛主席万古长青） whatever 直接做成分或放在名词之前，howe]]></description>
+</item>
+<item>
+  <title>英语语法--完全倒装</title>
+  <link>https://shiqustudio.github.io/inversion-2/</link>
+  <pubDate>Mon, 10 Dec 2018 21:14:51 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/inversion-2/</guid>
+  <description><![CDATA[完全倒装： 把整个谓语动词放到主语前。 表方位或时间的副词 (adv)、表地点的介词短语位于句首时 例句 Here comes the bus. In the lecture hall of a university sits a professor. Out rushed the children. Now comes your turn.]]></description>
+</item>
+<item>
+  <title>英语语法--部分倒装</title>
+  <link>https://shiqustudio.github.io/inversion-1/</link>
+  <pubDate>Sat, 08 Dec 2018 17:52:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/inversion-1/</guid>
+  <description><![CDATA[<blockquote>
+<p>虽然我英语四级没过，词汇量也不很多，甚至下降了很多，但是对于英语的语法我还是很喜欢的，马上快四级了又，复习整理一下以前的语法笔记。<strong>以下内容纯手打！！</strong>
+先从倒装句开始吧！分为三大类，部分倒装，完全倒装和形式倒装。先复习第一种。</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,124 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/</link>
+    <description>这是我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 08 Mar 2023 09:55:43 &#43;0800</lastBuildDate>
+      <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>cell-blog 功能介绍与安装</title>
+  <link>https://shiqustudio.github.io/books/cell-blog/</link>
+  <pubDate>Sat, 25 Feb 2023 20:51:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/books/cell-blog/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>浏览器 IMG 图片原生懒加载 loading=&#34;lazy&#34;</title>
+  <link>https://shiqustudio.github.io/native-img-loading-lazy/</link>
+  <pubDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/native-img-loading-lazy/</guid>
+  <description><![CDATA[<p>记录使用 HTML 原生方案实现图片的懒加载。</p>]]></description>
+</item>
+<item>
+  <title>浏览器渲染原理</title>
+  <link>https://shiqustudio.github.io/browser-rendering/</link>
+  <pubDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/browser-rendering/</guid>
+  <description><![CDATA[浏览器是如何渲染页面的？ 当浏览器的网络线程收到 HTML 文档后，会产生一个渲染任务，并将其传递给渲染主线程的消息队列。 在事件循环机制的作用下，渲染主]]></description>
+</item>
+<item>
+  <title>中文技术文档的写作规范</title>
+  <link>https://shiqustudio.github.io/document-style-guide/</link>
+  <pubDate>Sat, 04 Feb 2023 16:04:42 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/document-style-guide/</guid>
+  <description><![CDATA[<blockquote>
+<p>以下参考来源：阮一峰的 <a href="https://github.com/ruanyf/document-style-guide"target="_blank" rel="external nofollow noopener noreferrer">中文技术文档的写作规范</a></p>
+</blockquote>
+<p>英语世界里，文档非常受重视，许多公司和组织都有自己的文档规范，清楚地规定写作要求，比如<a href="https://www.microsoftpressstore.com/store/microsoft-manual-of-style-9780735648715"target="_blank" rel="external nofollow noopener noreferrer">微软</a>、<a href="http://styleguide.mailchimp.com/"target="_blank" rel="external nofollow noopener noreferrer">MailChimp</a>、<a href="https://help.apple.com/asg/mac/2013/ASG_2013.pdf"target="_blank" rel="external nofollow noopener noreferrer">Apple</a>、<a href="https://www.amazon.com/dp/B003P8QDFU/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1"target="_blank" rel="external nofollow noopener noreferrer">Yahoo</a>、<a href="https://docs.docker.com/opensource/doc-style/"target="_blank" rel="external nofollow noopener noreferrer">docker</a>、<a href="https://struts.apache.org/docs/documentation-style-guide.html"target="_blank" rel="external nofollow noopener noreferrer">Struts</a> 等等（维基百科有一份完整的<a href="https://en.wikipedia.org/wiki/List_of_style_guides"target="_blank" rel="external nofollow noopener noreferrer">清单</a>）。<a href="https://github.com/ruanyf/document-style-guide/blob/master/docs/reference.md"target="_blank" rel="external nofollow noopener noreferrer">中文的</a>也有不少，但都不令人满意，要么太简单，要么不太适用。</p>
+<p>对于开发者来说，在工作中也需要适当地产出一些技术文档，但是很多人都不知道怎么写文档，都是凭着感觉写。</p>
+<p>对于开发的系统、软件而言，系统用词的准确性和统一性也显得十分重要。</p>
+<p>参考上面的规范，于是有了下面一份中文技术文档的写作规范。</p>]]></description>
+</item>
+<item>
+  <title>浏览器原理 - 事件循环</title>
+  <link>https://shiqustudio.github.io/event-loop/</link>
+  <pubDate>Wed, 11 Jan 2023 11:16:02 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/event-loop/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/images/202208092131410.png" referrerpolicy="no-referrer">
+      </div><p>最近在抖音上刷到很多次 <a href="http://yuanjin.tech/"target="_blank" rel="external nofollow noopener noreferrer">袁进老师</a> 的前端视频，然后就听了一下他的前端大师课，感觉了解一些浏览器原理后，原来工作中的一些疑问也自然解开了。</p>]]></description>
+</item>
+<item>
+  <title>安装 Homebrew 后导致系统中原有的 npm 和 npx 失效</title>
+  <link>https://shiqustudio.github.io/homebrew-npm/</link>
+  <pubDate>Thu, 15 Dec 2022 15:33:30 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/homebrew-npm/</guid>
+  <description><![CDATA[<div class="details admonition question open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">前面一段时间，安装了 Homebrew, 但是今天切换 node 版本到 system version (8.10.0) 后，发现虽然 node 版本切换成功，但是 node 版本对应的 npm 和 npx 版本不相符，下面记录一下问题排查过程。</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>Beego 安装及配置</title>
+  <link>https://shiqustudio.github.io/beego-install/</link>
+  <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/beego-install/</guid>
+  <description><![CDATA[<p>记录 GO 及 Beego 框架安装及基础配置。</p>]]></description>
+</item>
+<item>
+  <title>语义版本控制（SemVer）</title>
+  <link>https://shiqustudio.github.io/semver/</link>
+  <pubDate>Sat, 13 Aug 2022 13:32:03 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/semver/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/images/featured-image.png" referrerpolicy="no-referrer">
+      </div><div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>摘要<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>版本格式：<code>MAJOR.MINOR.PATCH</code>，版本号递增规则如下：</p>
+<ol>
+<li><code>MAJOR</code>: <strong>主版本号</strong>，当你做了不兼容的 API 修改</li>
+<li><code>MINOR</code>: <strong>次版本号</strong>，当你做了向下兼容的功能性新增</li>
+<li><code>PATCH</code>: <strong>修订号</strong>，当你做了向下兼容的问题修正</li>
+</ol>
+<p>先行版本号及版本编译信息可以加到 <code>MAJOR.MINOR.PATCH</code> 的后面，作为延伸。</p>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>Commit Message Spec</title>
+  <link>https://shiqustudio.github.io/commit-spec/</link>
+  <pubDate>Fri, 12 Aug 2022 15:37:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/commit-spec/</guid>
+  <description><![CDATA[<p>Commit messages are short descriptions of changes to a repository. We should follow certain standards to effectively describe changes, such as the <a href="https://www.conventionalcommits.org/en/v1.0.0-beta.4/"target="_blank" rel="external nofollow noopener noreferrer">Conventional Commits</a> specification based on the <a href="https://github.com/angular/angular/blob/68a6a07/CONTRIBUTING.md#commit"target="_blank" rel="external nofollow noopener noreferrer">Angular convention</a> that is most used on GitHub, or each development team can simplify and formulate their own commit specification. This is not only conducive to the automatic generation of Changelog in the later stage, but more importantly, when a bug occurs, the entire warehouse can be quickly checked, the problem point can be accurately located, and the version can be reverted.</p>]]></description>
+</item>
+<item>
+  <title>electron 踩坑总结</title>
+  <link>https://shiqustudio.github.io/electron-summary/</link>
+  <pubDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/electron-summary/</guid>
+  <description><![CDATA[<p>总结一下最近 electron 开发遇到的问题和一些重要知识点。</p>]]></description>
+</item>
+</channel>
+</rss>

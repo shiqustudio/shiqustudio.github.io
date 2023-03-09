@@ -1,0 +1,105 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>C&#43;&#43; - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/c&#43;&#43;/</link>
+    <description>C&#43;&#43; - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 10 Aug 2018 22:11:00 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/c&#43;&#43;/" rel="self" type="application/rss+xml" /><item>
+  <title>石子阵列（组合数学）</title>
+  <link>https://shiqustudio.github.io/nowcoder157a/</link>
+  <pubDate>Fri, 10 Aug 2018 22:11:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/nowcoder157a/</guid>
+  <description><![CDATA[链接：https://www.nowcoder.com/acm/contest/157/A 来源：牛客网 题目描述 xb 有 m 种石子，每种无限个，Ta]]></description>
+</item>
+<item>
+  <title>Dreamoon and Stairs</title>
+  <link>https://shiqustudio.github.io/codeforces476a/</link>
+  <pubDate>Fri, 10 Aug 2018 20:13:08 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codeforces476a/</guid>
+  <description><![CDATA[题目链接 Dreamoon wants to climb up a stair of n steps. He can climb 1 or 2 steps at each move. Dreamoon wants the number of moves to be a multiple of an integer m. What is the minimal number of moves making him climb to the top of the stairs that satisfies his condition? Input The single line contains two space separated integers n, m (0]]></description>
+</item>
+<item>
+  <title>Dreamoon and WiFi（组合数学）</title>
+  <link>https://shiqustudio.github.io/codeforces476b/</link>
+  <pubDate>Fri, 10 Aug 2018 17:44:47 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codeforces476b/</guid>
+  <description><![CDATA[题目链接 题目大意 就是给定两个字符串，第一个字符串由&quot;+&quot;,&quot;-&ldquo;组成，第二个字符串由&rdquo;]]></description>
+</item>
+<item>
+  <title>The equation-SGU106（扩展欧几里得）</title>
+  <link>https://shiqustudio.github.io/euclid/</link>
+  <pubDate>Fri, 10 Aug 2018 10:32:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/euclid/</guid>
+  <description><![CDATA[题意： 给出 a,b,c,x1,x2,y1,y2，求满足 ax+by+c=0，且 x∈[x1,x2],y∈[y1,y2] 的整数解个数。 分析： 对于解二]]></description>
+</item>
+<item>
+  <title>Codeforces Round 502(Div.1 &#43; Div.2)</title>
+  <link>https://shiqustudio.github.io/cfcontest1017/</link>
+  <pubDate>Thu, 09 Aug 2018 10:48:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cfcontest1017/</guid>
+  <description><![CDATA[<h3 id="a-the-rankhttpscodeforcescomcontest1017problema"><a href="https://codeforces.com/contest/1017/problem/A"target="_blank" rel="external nofollow noopener noreferrer">A. The Rank</a></h3>
+<p>题目大意：<br>
+给出 n 个学生的成绩，Thomas Smith 的成绩是第一行，然后要按总成绩进行排序，总分相同的按编号从小到大排；<br>
+开始看还以为要写 sort 的 cmp 函数进行多条件排序，敲完才发现其实只要按总分就可以了，因为托马斯的 id 是一，必然会排在前面。</p>]]></description>
+</item>
+<item>
+  <title>Heavy Transportation-poj1797(dijkstra 或最大生成树）</title>
+  <link>https://shiqustudio.github.io/poj1797/</link>
+  <pubDate>Mon, 06 Aug 2018 09:42:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/poj1797/</guid>
+  <description><![CDATA[<p>题目链接](<a href="http://poj.org/problem?id=1797"target="_blank" rel="external nofollow noopener noreferrer">http://poj.org/problem?id=1797</a>)<br>
+大意：<br>
+要从城市 1 到城市 N 运送货物，有 M 条道路，每条道路都有它的最大载重量，问从城市 1 到城市 N 运送最多的重量是多少。<br>
+其实题意很简单，就是找一条 1&ndash;&gt;N 的路径，在不超过每条路径的最大载重量的情况下，使得运送的货物最多。一条路径上的最大载重量为这个路径上权值最小的边；
+</p>]]></description>
+</item>
+<item>
+  <title>Til the Cows Come Home-poj2387(dijkstra 判断重边）</title>
+  <link>https://shiqustudio.github.io/poj2387/</link>
+  <pubDate>Fri, 03 Aug 2018 21:40:33 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/poj2387/</guid>
+  <description><![CDATA[题目链接 题目大意： 说的是，一只奶牛位于 N 号节点，输入 N 个节点和 T 对双向的边，求出由 N 到 1 的最短的距离，其实就是问的单源最短路问题。 两个点可能]]></description>
+</item>
+<item>
+  <title>牛客暑假多校第五场</title>
+  <link>https://shiqustudio.github.io/nowcodersummer-5th/</link>
+  <pubDate>Thu, 02 Aug 2018 21:27:02 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/nowcodersummer-5th/</guid>
+  <description><![CDATA[<p><a href="https://pan.baidu.com/s/1VP9Wn0OF4SVaqEVwpNralA"target="_blank" rel="external nofollow noopener noreferrer">题目链接 密码：l9sn</a><br>
+终于不爆零了，但是还是 wa 了无数次，有时候代码感觉都差不多</p>]]></description>
+</item>
+<item>
+  <title>食物链-poj1182（带权并查集经典模板）</title>
+  <link>https://shiqustudio.github.io/poj1182/</link>
+  <pubDate>Thu, 02 Aug 2018 11:10:37 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/poj1182/</guid>
+  <description><![CDATA[<p><a href="http://poj.org/problem?id=1182"target="_blank" rel="external nofollow noopener noreferrer">题目链接</a><br>
+<a href="https://blog.csdn.net/freezhanacmore/article/details/8767413"target="_blank" rel="external nofollow noopener noreferrer">思路参考 1</a>,<a href="https://blog.csdn.net/niushuai666/article/details/6981689"target="_blank" rel="external nofollow noopener noreferrer">思路参考 2</a>（没看懂）</p>]]></description>
+</item>
+<item>
+  <title>小希的迷宫-HDU-1272（并查集 or 树性质）</title>
+  <link>https://shiqustudio.github.io/hdu1272/</link>
+  <pubDate>Wed, 01 Aug 2018 21:45:50 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu1272/</guid>
+  <description><![CDATA[<h2 id="题目链接小希的迷宫httpacmhdueducnshowproblemphppid1272">题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=1272"target="_blank" rel="external nofollow noopener noreferrer">小希的迷宫</a></h2>
+<h2 id="并查集">并查集：</h2>
+<ul>
+<li>无回路</li>
+<li>单连通</li>
+</ul>
+<p>并查集做，首先想到的是判断两个点是否连通，不连通就合并，已连通的话说明会形成<strong>回路</strong>，则可以判定 No，交了一发错了。<br>
+想了一下没有考虑到多个连通域的情况，该题必须只有<strong>一个连通域</strong></p>
+<h2 id="树的性质">树的性质：</h2>
+<p>既然单连通无回路，则这肯定是一棵树；那么 edge=v-1;</p>]]></description>
+</item>
+</channel>
+</rss>

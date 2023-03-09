@@ -1,0 +1,71 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>server - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/server/</link>
+    <description>server - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Jul 2019 18:44:36 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/server/" rel="self" type="application/rss+xml" /><item>
+  <title>WAMPServer 自定义网站根目录等设置</title>
+  <link>https://shiqustudio.github.io/wamproot/</link>
+  <pubDate>Fri, 12 Jul 2019 18:44:36 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/wamproot/</guid>
+  <description><![CDATA[<blockquote>
+<p>使用 WAMPServer 时自定义网站根目录。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>本地搭建网站服务器并穿透内网</title>
+  <link>https://shiqustudio.github.io/ngrok/</link>
+  <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <description><![CDATA[<blockquote>
+<p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>vps 配置 ssl 及 https 重定向</title>
+  <link>https://shiqustudio.github.io/http2https/</link>
+  <pubDate>Thu, 28 Mar 2019 19:40:54 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/http2https/</guid>
+  <description><![CDATA[<blockquote>
+<p>记录自己在配置 vps 及博客 SSL 证书时遇到的问题。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>宝塔面板安装</title>
+  <link>https://shiqustudio.github.io/bt/</link>
+  <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/bt/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>]]></description>
+</item>
+<item>
+  <title>caddy-两步搭建超简单云盘</title>
+  <link>https://shiqustudio.github.io/caddy-file/</link>
+  <pubDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/caddy-file/</guid>
+  <description><![CDATA[安装 1 2 cd ~ curl https://getcaddy.com | bash -s personal http.filemanager 编写配置文件 1 vim Caddyfile 内容如下： 1 2 3 4 5 :80 { filemanager / /sdcard timeouts none gzip } 这里的 8080 端口号可以随意指定，如果在手机 termux 等搭建，由于手机权]]></description>
+</item>
+<item>
+  <title>云服务器 CentOS 系统搭建 web 服务</title>
+  <link>https://shiqustudio.github.io/web-server-yun/</link>
+  <pubDate>Mon, 29 Oct 2018 09:15:58 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/web-server-yun/</guid>
+  <description><![CDATA[搭建 Apache web 服务 安装 Apache 超文本传输协议 (HTTP) 服务器的主程序 1 [root@VM_0_6_centos /]# yum install -y httpd 注意安装目录，可通过 cd 命令切换。 启动 HTTP 服务 1 [root@VM_0_6_centos /]# systemctl start httpd.service 如果启动失败，可通过 systemctl status]]></description>
+</item>
+<item>
+  <title>windows 上搭建 web 服务器</title>
+  <link>https://shiqustudio.github.io/web-server-win/</link>
+  <pubDate>Fri, 26 Oct 2018 21:56:18 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/web-server-win/</guid>
+  <description><![CDATA[我用的 win10 打开控制面板 选择并进入“程序”，双击“启用或关闭 Windows 服务”，在弹出的窗口中选择“Internet Information Services”下面所有地选项，点]]></description>
+</item>
+</channel>
+</rss>

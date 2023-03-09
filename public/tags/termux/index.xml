@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>termux - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/termux/</link>
+    <description>termux - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/termux/" rel="self" type="application/rss+xml" /><item>
+  <title>termux 基本使用教程</title>
+  <link>https://shiqustudio.github.io/termux1/</link>
+  <pubDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/termux1/</guid>
+  <description><![CDATA[前面有一篇文章写到一些，在 Android 上搭建 hexo 博客 本文当初摘要自 国光个人博客 如若作者博客 IP 被墙，可前往国光第三方博客诸如 csdn 等。备用 初始化 下载并初始化 termux]]></description>
+</item>
+<item>
+  <title>在 Android 上搭建 hexo 博客</title>
+  <link>https://shiqustudio.github.io/termux/</link>
+  <pubDate>Sat, 11 Aug 2018 16:59:05 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/termux/</guid>
+  <description><![CDATA[<blockquote>
+<p>暑假刚开始的时候放假回家没带电脑，只能玩手机，想折腾一下博客都没有条件，在一个发现一个 app, 卧槽 😱，termux 真的强大！（初始化需要科学上网）安卓手机上的 linux 简直了，在手机就可以搭了一个 hexo 博客，只要在 github 上实现分支管理就可以多终端同步更新了。恕我学疏才浅，还只想到这些！一开始想回校后，折腾一下 hexo-admin 实现类似动态博客一样的多终端管理（手动滑稽），现在发现 termux 这样子的操作也不错嘛，挺装哔 hhhhhh**<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">部署后的效果</a>**</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

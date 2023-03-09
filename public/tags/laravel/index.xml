@@ -1,0 +1,41 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Laravel - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/laravel/</link>
+    <description>Laravel - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 25 Feb 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/laravel/" rel="self" type="application/rss+xml" /><item>
+  <title>cell-blog 功能介绍与安装</title>
+  <link>https://shiqustudio.github.io/books/cell-blog/</link>
+  <pubDate>Sat, 25 Feb 2023 20:51:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/books/cell-blog/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>cell-blog 功能介绍与安装</title>
+  <link>https://shiqustudio.github.io/projects/cell-blog/</link>
+  <pubDate>Sat, 25 Jul 2020 20:51:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/projects/cell-blog/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>cell-blog 开发记录</title>
+  <link>https://shiqustudio.github.io/cell-blog-dev/</link>
+  <pubDate>Sat, 25 Jul 2020 20:42:42 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cell-blog-dev/</guid>
+  <description><![CDATA[<blockquote>
+<p>Cell Blog 开发记录，<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">项目地址</a></p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

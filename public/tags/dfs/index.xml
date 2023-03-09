@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>DFS - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/dfs/</link>
+    <description>DFS - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 22 Jul 2018 11:58:14 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/dfs/" rel="self" type="application/rss+xml" /><item>
+  <title>poj-1321 棋盘问题（dfs）</title>
+  <link>https://shiqustudio.github.io/poj-1321/</link>
+  <pubDate>Sun, 22 Jul 2018 11:58:14 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/poj-1321/</guid>
+  <description><![CDATA[Time Limit: 1000MS Memory Limit: 10000K Total Submissions: 63659 Accepted: 30423 Description 在一个给定形状的棋盘（形状可能是不规则的）上面摆放棋子，棋子没有区别。要求摆放时任意的两个棋子不能放在棋盘中的同一行]]></description>
+</item>
+<item>
+  <title>poj-1426-Find The Multiple(dfs)</title>
+  <link>https://shiqustudio.github.io/poj-1426/</link>
+  <pubDate>Sun, 22 Jul 2018 11:57:13 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/poj-1426/</guid>
+  <description><![CDATA[Find The Multiple Time Limit: 1000MS Memory Limit: 10000K Total Submissions: 40713 Accepted: 17088 Special Judge Description Given a positive integer n, write a program to find out a nonzero multiple m of n whose decimal representation contains only the digits 0 and 1. You may assume that n is not greater than 200 and there is a corresponding m containing no more than 100 decimal digits. Input The input]]></description>
+</item>
+<item>
+  <title>hdu-1241-Oil Deposits (dfs)</title>
+  <link>https://shiqustudio.github.io/hdu-1241/</link>
+  <pubDate>Sun, 22 Jul 2018 11:37:20 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu-1241/</guid>
+  <description><![CDATA[Oil Deposits 翻译 Time Limit: 2000/1000 MS (Java/Others) Memory Limit: 65536/32768 K (Java/Others) Total Submission(s): 41406 Accepted Submission(s): 23977 Problem Description The GeoSurvComp geologic survey company is responsible for detecting underground oil deposits. GeoSurvComp works with one large rectangular region of land at a time, and creates a grid that divides the land into numerous square plots. It then analyzes each plot separately, using sensing equipment to determine whether]]></description>
+</item>
+<item>
+  <title>深搜广搜</title>
+  <link>https://shiqustudio.github.io/dfs_bfs/</link>
+  <pubDate>Sun, 22 Jul 2018 11:25:14 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dfs_bfs/</guid>
+  <description><![CDATA[广度优先搜索（BFS） 广度优先搜索在进一步遍历图中顶点之前，先访问当前顶点的所有邻接结点。访问了就入队。 深度优先搜索（DFS） 深度优先搜索在]]></description>
+</item>
+</channel>
+</rss>

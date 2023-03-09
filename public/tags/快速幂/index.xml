@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>快速幂 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E5%BF%AB%E9%80%9F%E5%B9%82/</link>
+    <description>快速幂 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 09 Aug 2018 20:55:26 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E5%BF%AB%E9%80%9F%E5%B9%82/" rel="self" type="application/rss+xml" /><item>
+  <title>Leading and Trailing-lightoj1282（快速幂&#43;对数运算）</title>
+  <link>https://shiqustudio.github.io/lightoj1282/</link>
+  <pubDate>Thu, 09 Aug 2018 20:55:26 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/lightoj1282/</guid>
+  <description><![CDATA[<h3 id="题目链接httpsvjudgenetcontest238979probleme"><a href="https://vjudge.net/contest/238979#problem/E"target="_blank" rel="external nofollow noopener noreferrer">题目链接</a></h3>
+<h3 id="题目大意">题目大意：</h3>
+<p>给定两个数 n,k 求 n^k 的前三位和最后三位。</p>
+<h3 id="分析">分析</h3>
+<p>求后三位的话：直接快速幂，对 1000 取模就好了。<br>
+求前三位，对于给定的一个数 n, 它可以写成 n=10^a, 其中这个 a 为浮点数，则<code>t=n^k=(10^a)^k=10^a*k=(10^x)*(10^y);</code>其中 x,y 分别是<code>a*k</code>的整数部分和小数部分，对于 t=n^k 这个数，它的位数由 (10^x) 决定，它的位数上的值则有 (10^y) 决定，因此我们要求 t 的前三位，只需要将 10^y 求出，在乘以 100，就得到了它的前三位。<br>
+分析完，我们再整体看，设 n^k=10^z; 那么<code>z=k*log10(n)</code><br>
+<code>fmod(z,1)</code>可以求出 x 的小数部分。</p>]]></description>
+</item>
+</channel>
+</rss>

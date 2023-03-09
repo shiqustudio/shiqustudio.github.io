@@ -1,0 +1,114 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>PHP - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/php/</link>
+    <description>PHP - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 25 Feb 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/php/" rel="self" type="application/rss+xml" /><item>
+  <title>cell-blog 功能介绍与安装</title>
+  <link>https://shiqustudio.github.io/books/cell-blog/</link>
+  <pubDate>Sat, 25 Feb 2023 20:51:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/books/cell-blog/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>cell-blog 功能介绍与安装</title>
+  <link>https://shiqustudio.github.io/projects/cell-blog/</link>
+  <pubDate>Sat, 25 Jul 2020 20:51:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/projects/cell-blog/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>cell-blog 开发记录</title>
+  <link>https://shiqustudio.github.io/cell-blog-dev/</link>
+  <pubDate>Sat, 25 Jul 2020 20:42:42 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cell-blog-dev/</guid>
+  <description><![CDATA[<blockquote>
+<p>Cell Blog 开发记录，<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">项目地址</a></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>php 同时主动推送链接到百度，神马等站长平台</title>
+  <link>https://shiqustudio.github.io/phppushurl/</link>
+  <pubDate>Sat, 28 Sep 2019 18:32:42 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phppushurl/</guid>
+  <description><![CDATA[<blockquote>
+<p>php 主动推送站点链接到百度站长，神马站长进行 SEO。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>php 按行读取文件信息</title>
+  <link>https://shiqustudio.github.io/phpfile/</link>
+  <pubDate>Sat, 28 Sep 2019 17:11:17 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phpfile/</guid>
+  <description><![CDATA[<h2 id="普通方法">普通方法</h2>
+<p>首先采用<code>fopen()</code>函数打开文件，得到返回值的就是资源类型。接着采用 while 循环一行行地读取文件，然后输出每行的文字。<code>feof()</code>判断是否到最后一行，<code>fgets()</code>读取一行文本。</p>]]></description>
+</item>
+<item>
+  <title>NetBeans IDE 开发设置</title>
+  <link>https://shiqustudio.github.io/netbeans/</link>
+  <pubDate>Thu, 15 Aug 2019 18:36:15 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/netbeans/</guid>
+  <description><![CDATA[安裝 官方下載點 擴充功能 安裝擴充功能 下載擴充套件包 官方套件庫 或者在 NetBeans IDE 裏面下載插件（方便） 開啟 NetBeans→Tools→Plugins→D]]></description>
+</item>
+<item>
+  <title>Web 开发规则，代码规范</title>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <description><![CDATA[精神 绝不写死代码，硬编码 不留不要用的、垃圾代码 Git Master 的 BUG 必须最少且趋近于零，为最稳定的版本 每次 Commit 信息应该准确填写。不可模棱两可，eg: 修复 BU]]></description>
+</item>
+<item>
+  <title>简单评论模块--php 表单练习</title>
+  <link>https://shiqustudio.github.io/phpform/</link>
+  <pubDate>Fri, 19 Jul 2019 11:38:59 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phpform/</guid>
+  <description><![CDATA[<blockquote>
+<p>简单模仿了一个评论模板，当然肯定是没有博客的 valine 这么强大的 hhhh，<br>
+<strong>PHP 表单安全性的重要提示</strong><br>
+<code>$_SERVER[&quot;PHP_SELF&quot;]</code>变量能够被黑客利用！<br>
+如果页面中使用了<code>PHP_SELF</code>，用户能够输入下划线然后执行跨站点脚本（XSS）。<br>
+比如说注入 js 脚本等，valine 以前的版本也有过这样的漏洞。</p>
+<p><code>跨站点脚本（Cross-site scripting，XSS）</code>是一种计算机安全漏洞类型，常见于 Web 应用程序。XSS 能够使攻击者向其他用户浏览的网页中输入客户端脚本。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>php 函数学习</title>
+  <link>https://shiqustudio.github.io/phpfunc/</link>
+  <pubDate>Mon, 15 Jul 2019 11:37:33 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phpfunc/</guid>
+  <description><![CDATA[<blockquote>
+<p>练习 php 函数的基本使用。<br>
+注：<br>
+必选参数在可选参数的前面。<br>
+可在函数中定义函数，需要先调用外层函数才能调用内层函数。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>WAMPServer 自定义网站根目录等设置</title>
+  <link>https://shiqustudio.github.io/wamproot/</link>
+  <pubDate>Fri, 12 Jul 2019 18:44:36 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/wamproot/</guid>
+  <description><![CDATA[<blockquote>
+<p>使用 WAMPServer 时自定义网站根目录。</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,53 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>HTML - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/html/</link>
+    <description>HTML - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/html/" rel="self" type="application/rss+xml" /><item>
+  <title>浏览器 IMG 图片原生懒加载 loading=&#34;lazy&#34;</title>
+  <link>https://shiqustudio.github.io/native-img-loading-lazy/</link>
+  <pubDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/native-img-loading-lazy/</guid>
+  <description><![CDATA[<p>记录使用 HTML 原生方案实现图片的懒加载。</p>]]></description>
+</item>
+<item>
+  <title>浏览器渲染原理</title>
+  <link>https://shiqustudio.github.io/browser-rendering/</link>
+  <pubDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/browser-rendering/</guid>
+  <description><![CDATA[浏览器是如何渲染页面的？ 当浏览器的网络线程收到 HTML 文档后，会产生一个渲染任务，并将其传递给渲染主线程的消息队列。 在事件循环机制的作用下，渲染主]]></description>
+</item>
+<item>
+  <title>Web 开发规则，代码规范</title>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <description><![CDATA[精神 绝不写死代码，硬编码 不留不要用的、垃圾代码 Git Master 的 BUG 必须最少且趋近于零，为最稳定的版本 每次 Commit 信息应该准确填写。不可模棱两可，eg: 修复 BU]]></description>
+</item>
+<item>
+  <title>条件注释判断浏览器版本&lt;!--[if lt IE 9]&gt;;</title>
+  <link>https://shiqustudio.github.io/ifzhushi/</link>
+  <pubDate>Fri, 10 May 2019 13:08:27 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ifzhushi/</guid>
+  <description><![CDATA[<blockquote>
+<p><span>&lt;!--[if !IE]&gt;&lt;!--&gt; 除 IE 外都可识别 &lt;!--&lt;![endif]--&gt;</span><br><span>&lt;!--[if IE]&gt; 所有的 IE 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 6]&gt; 仅 IE6 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 6]&gt; IE6 以及 IE6 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 6]&gt; IE6 以及 IE6 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 7]&gt; 仅 IE7 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 7]&gt; IE7 以及 IE7 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 7]&gt; IE7 以及 IE7 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 8]&gt; 仅 IE8 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 9]&gt; 仅 IE9 可识别 &lt;![endif]--&gt;</span></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>前端面试题 - HTML&#43;CSS</title>
+  <link>https://shiqustudio.github.io/ms-html-css/</link>
+  <pubDate>Sat, 30 Mar 2019 22:58:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ms-html-css/</guid>
+  <description><![CDATA[<blockquote>
+<p><a href="https://github.com/ltadpoles/web-document/tree/master/Other"target="_blank" rel="external nofollow noopener noreferrer">原文链接</a><br>
+“卓越班”到了大三突然掀起一股毕业慌，一部分人投身于考研的热潮中，一部分人选择了培训机构学习技术。而我出于种种原因既不考研也不培训，选择自学 java 和 web 相关的知识，也希望因此能在以后谋得一份心仪的工作。</p>
+</blockquote>
+<p>如果文章中有出现纰漏、错误之处，还请看到的小伙伴多多指教，先行谢过</p>]]></description>
+</item>
+</channel>
+</rss>

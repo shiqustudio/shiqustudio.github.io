@@ -1,0 +1,71 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Spec - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/spec/</link>
+    <description>Spec - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 04 Feb 2023 16:04:42 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/spec/" rel="self" type="application/rss+xml" /><item>
+  <title>中文技术文档的写作规范</title>
+  <link>https://shiqustudio.github.io/document-style-guide/</link>
+  <pubDate>Sat, 04 Feb 2023 16:04:42 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/document-style-guide/</guid>
+  <description><![CDATA[<blockquote>
+<p>以下参考来源：阮一峰的 <a href="https://github.com/ruanyf/document-style-guide"target="_blank" rel="external nofollow noopener noreferrer">中文技术文档的写作规范</a></p>
+</blockquote>
+<p>英语世界里，文档非常受重视，许多公司和组织都有自己的文档规范，清楚地规定写作要求，比如<a href="https://www.microsoftpressstore.com/store/microsoft-manual-of-style-9780735648715"target="_blank" rel="external nofollow noopener noreferrer">微软</a>、<a href="http://styleguide.mailchimp.com/"target="_blank" rel="external nofollow noopener noreferrer">MailChimp</a>、<a href="https://help.apple.com/asg/mac/2013/ASG_2013.pdf"target="_blank" rel="external nofollow noopener noreferrer">Apple</a>、<a href="https://www.amazon.com/dp/B003P8QDFU/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1"target="_blank" rel="external nofollow noopener noreferrer">Yahoo</a>、<a href="https://docs.docker.com/opensource/doc-style/"target="_blank" rel="external nofollow noopener noreferrer">docker</a>、<a href="https://struts.apache.org/docs/documentation-style-guide.html"target="_blank" rel="external nofollow noopener noreferrer">Struts</a> 等等（维基百科有一份完整的<a href="https://en.wikipedia.org/wiki/List_of_style_guides"target="_blank" rel="external nofollow noopener noreferrer">清单</a>）。<a href="https://github.com/ruanyf/document-style-guide/blob/master/docs/reference.md"target="_blank" rel="external nofollow noopener noreferrer">中文的</a>也有不少，但都不令人满意，要么太简单，要么不太适用。</p>
+<p>对于开发者来说，在工作中也需要适当地产出一些技术文档，但是很多人都不知道怎么写文档，都是凭着感觉写。</p>
+<p>对于开发的系统、软件而言，系统用词的准确性和统一性也显得十分重要。</p>
+<p>参考上面的规范，于是有了下面一份中文技术文档的写作规范。</p>]]></description>
+</item>
+<item>
+  <title>语义版本控制（SemVer）</title>
+  <link>https://shiqustudio.github.io/semver/</link>
+  <pubDate>Sat, 13 Aug 2022 13:32:03 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/semver/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/images/featured-image.png" referrerpolicy="no-referrer">
+      </div><div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>摘要<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>版本格式：<code>MAJOR.MINOR.PATCH</code>，版本号递增规则如下：</p>
+<ol>
+<li><code>MAJOR</code>: <strong>主版本号</strong>，当你做了不兼容的 API 修改</li>
+<li><code>MINOR</code>: <strong>次版本号</strong>，当你做了向下兼容的功能性新增</li>
+<li><code>PATCH</code>: <strong>修订号</strong>，当你做了向下兼容的问题修正</li>
+</ol>
+<p>先行版本号及版本编译信息可以加到 <code>MAJOR.MINOR.PATCH</code> 的后面，作为延伸。</p>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>Commit Message Spec</title>
+  <link>https://shiqustudio.github.io/commit-spec/</link>
+  <pubDate>Fri, 12 Aug 2022 15:37:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/commit-spec/</guid>
+  <description><![CDATA[<p>Commit messages are short descriptions of changes to a repository. We should follow certain standards to effectively describe changes, such as the <a href="https://www.conventionalcommits.org/en/v1.0.0-beta.4/"target="_blank" rel="external nofollow noopener noreferrer">Conventional Commits</a> specification based on the <a href="https://github.com/angular/angular/blob/68a6a07/CONTRIBUTING.md#commit"target="_blank" rel="external nofollow noopener noreferrer">Angular convention</a> that is most used on GitHub, or each development team can simplify and formulate their own commit specification. This is not only conducive to the automatic generation of Changelog in the later stage, but more importantly, when a bug occurs, the entire warehouse can be quickly checked, the problem point can be accurately located, and the version can be reverted.</p>]]></description>
+</item>
+<item>
+  <title>RESTful</title>
+  <link>https://shiqustudio.github.io/restful/</link>
+  <pubDate>Thu, 14 Nov 2019 19:06:05 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/restful/</guid>
+  <description><![CDATA[<blockquote>
+<p>RESTful 是一种系统开发设计风格、原则。可视情况调整，以下参考来源 <a href="https://www.rfc-editor.org/rfc/rfc5789"target="_blank" rel="external nofollow noopener noreferrer">RFC5789</a></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>Web 开发规则，代码规范</title>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <description><![CDATA[精神 绝不写死代码，硬编码 不留不要用的、垃圾代码 Git Master 的 BUG 必须最少且趋近于零，为最稳定的版本 每次 Commit 信息应该准确填写。不可模棱两可，eg: 修复 BU]]></description>
+</item>
+</channel>
+</rss>

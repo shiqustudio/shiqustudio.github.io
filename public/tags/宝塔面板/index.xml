@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>宝塔面板 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/</link>
+    <description>宝塔面板 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 May 2019 20:31:33 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/" rel="self" type="application/rss+xml" /><item>
+  <title>宝塔面板安装 ImgURL 图床</title>
+  <link>https://shiqustudio.github.io/imgurl/</link>
+  <pubDate>Thu, 16 May 2019 20:31:33 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/imgurl/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/imgurl/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>ImgURL 是一个开源、免费的图床程序，ImgURL 2.x 之后对环境要求更高，尤其是 ImageMagick 组件的支持，很多朋友不清楚怎样安装这个组件，这篇文章分享宝塔面板安装 ImgURL 2.x 图床的过程（包括 ImgURL 2.x 需要的各种组件）
+<a href="https://www.xiaoz.me/archives/12081"target="_blank" rel="external nofollow noopener noreferrer">阅读原文</a></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>本地搭建网站服务器并穿透内网</title>
+  <link>https://shiqustudio.github.io/ngrok/</link>
+  <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <description><![CDATA[<blockquote>
+<p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>宝塔面板安装</title>
+  <link>https://shiqustudio.github.io/bt/</link>
+  <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/bt/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>]]></description>
+</item>
+</channel>
+</rss>

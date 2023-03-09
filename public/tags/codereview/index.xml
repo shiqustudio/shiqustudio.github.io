@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>codereview - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/codereview/</link>
+    <description>codereview - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 04 Mar 2021 21:04:18 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/codereview/" rel="self" type="application/rss+xml" /><item>
+  <title>Code Review 怎麼做？新手工程師如何提升「程式碼品質」</title>
+  <link>https://shiqustudio.github.io/codereview/</link>
+  <pubDate>Thu, 04 Mar 2021 21:04:18 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codereview/</guid>
+  <description><![CDATA[程式碼的持續優化 對一個入門的工程師來說，掌握程式語法與模仿範例實作是基本的能力。那有了這樣的基本能之後，要如何寫出更好的程式呢？怎樣才能夠成]]></description>
+</item>
+</channel>
+</rss>

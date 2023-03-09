@@ -1,0 +1,104 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>他山之石 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E4%BB%96%E5%B1%B1%E4%B9%8B%E7%9F%B3/</link>
+    <description>他山之石 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E4%BB%96%E5%B1%B1%E4%B9%8B%E7%9F%B3/" rel="self" type="application/rss+xml" /><item>
+  <title>linux 文件权限</title>
+  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <pubDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
+</item>
+<item>
+  <title>Sublime Text3 快捷键大全</title>
+  <link>https://shiqustudio.github.io/sublime-text3/</link>
+  <pubDate>Thu, 15 Aug 2019 20:59:10 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/sublime-text3/</guid>
+  <description><![CDATA[<p>Sublime Text3 快捷键一览表</p>]]></description>
+</item>
+<item>
+  <title>条件注释判断浏览器版本&lt;!--[if lt IE 9]&gt;;</title>
+  <link>https://shiqustudio.github.io/ifzhushi/</link>
+  <pubDate>Fri, 10 May 2019 13:08:27 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ifzhushi/</guid>
+  <description><![CDATA[<blockquote>
+<p><span>&lt;!--[if !IE]&gt;&lt;!--&gt; 除 IE 外都可识别 &lt;!--&lt;![endif]--&gt;</span><br><span>&lt;!--[if IE]&gt; 所有的 IE 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 6]&gt; 仅 IE6 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 6]&gt; IE6 以及 IE6 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 6]&gt; IE6 以及 IE6 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 7]&gt; 仅 IE7 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 7]&gt; IE7 以及 IE7 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 7]&gt; IE7 以及 IE7 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 8]&gt; 仅 IE8 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 9]&gt; 仅 IE9 可识别 &lt;![endif]--&gt;</span></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>Python 如何操作 Json？</title>
+  <link>https://shiqustudio.github.io/jsoninfo/</link>
+  <pubDate>Tue, 07 May 2019 18:42:47 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/jsoninfo/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/jsoninfo/images/1.jpg" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>Json（JavaScript Object Notation）它是一种轻量级的数据交换格式，具有数据格式简单，读写方便易懂等很多优点。许多主流的编程语言都在用它来进行前后端的数据传输，大大的简化了服务器和客户端的开发工作量。相对于 XML 来说，更加的轻量级，更方便解析，因此许多开发者都遵循 Json 格式来进行数据的传输和交换。今天我们详细介绍一下 Python 在 Json 的编解码方面的知识。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>python 玩微信：初探 wxpy</title>
+  <link>https://shiqustudio.github.io/wxpy1/</link>
+  <pubDate>Sat, 20 Apr 2019 15:44:57 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/wxpy1/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/wxpy1/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p><strong><em>文中涉及的图片涉及个人隐私，仅做举例，请勿传播</em></strong></p>
+<ul>
+<li>查看微信好友男女比例</li>
+<li>查看好友地区分布</li>
+<li>群性别统计</li>
+</ul>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>还乡</title>
+  <link>https://shiqustudio.github.io/renative/</link>
+  <pubDate>Fri, 01 Feb 2019 20:44:40 &#43;0000</pubDate>
+  <author>map[link:mailto:1845280636@qq.com name:杨灿]</author>
+  <guid>https://shiqustudio.github.io/renative/</guid>
+  <description><![CDATA[<blockquote>
+<p>这不是英国作家哈代的《The Return of Native》, 而是我们这辈的父母所经历的常态。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>js 判断用户设备类型及平台</title>
+  <link>https://shiqustudio.github.io/js-device/</link>
+  <pubDate>Sat, 03 Nov 2018 23:35:44 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/js-device/</guid>
+  <description><![CDATA[<p>前端开发经常遇到需要判断用户的浏览设备，是 pc 端还是移动端，移动端使用的是什么手机系统？android、ios、ipad、windows phone 等等，有时候还需要知道用户浏览页面是在微信中打开还是在移动端浏览器中打开，等等一系列判断做一些相应的处理。</p>]]></description>
+</item>
+<item>
+  <title>云服务器 CentOS 系统搭建 web 服务</title>
+  <link>https://shiqustudio.github.io/web-server-yun/</link>
+  <pubDate>Mon, 29 Oct 2018 09:15:58 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/web-server-yun/</guid>
+  <description><![CDATA[搭建 Apache web 服务 安装 Apache 超文本传输协议 (HTTP) 服务器的主程序 1 [root@VM_0_6_centos /]# yum install -y httpd 注意安装目录，可通过 cd 命令切换。 启动 HTTP 服务 1 [root@VM_0_6_centos /]# systemctl start httpd.service 如果启动失败，可通过 systemctl status]]></description>
+</item>
+<item>
+  <title>使用 js 准确获取当前页面 url 网址信息及 301 重定向实战</title>
+  <link>https://shiqustudio.github.io/href-301/</link>
+  <pubDate>Sun, 28 Oct 2018 14:22:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/href-301/</guid>
+  <description><![CDATA[获取链接（转） 传送门 在 WEB 开发中，时常会用到 javascript 来获取当前页面的 url 网址信息，在这里是我的一些获取 url 信息的小总结。 下面我们举例一个 URL，然后获得]]></description>
+</item>
+<item>
+  <title>Vim 速查表</title>
+  <link>https://shiqustudio.github.io/vim/</link>
+  <pubDate>Fri, 31 Aug 2018 11:46:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/vim/</guid>
+  <description><![CDATA[<p>Vim 速查表-帮你提高 N 倍效率</p>]]></description>
+</item>
+</channel>
+</rss>

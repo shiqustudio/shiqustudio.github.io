@@ -1,0 +1,129 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>JavaScript - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/javascript/</link>
+    <description>JavaScript - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/javascript/" rel="self" type="application/rss+xml" /><item>
+  <title>electron 踩坑总结</title>
+  <link>https://shiqustudio.github.io/electron-summary/</link>
+  <pubDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/electron-summary/</guid>
+  <description><![CDATA[<p>总结一下最近 electron 开发遇到的问题和一些重要知识点。</p>]]></description>
+</item>
+<item>
+  <title>前端页面内容加密总结</title>
+  <link>https://shiqustudio.github.io/encryption-fe/</link>
+  <pubDate>Mon, 08 Aug 2022 13:49:22 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/encryption-fe/</guid>
+  <description><![CDATA[<p>记录一下前端实现页面加密的思路。</p>]]></description>
+</item>
+<item>
+  <title>Node.js &#43; GitHub Actions 自动刷新 CDN</title>
+  <link>https://shiqustudio.github.io/qcloudcdn/</link>
+  <pubDate>Sun, 07 Aug 2022 14:40:33 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/qcloudcdn/</guid>
+  <description><![CDATA[<div class="details admonition question open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">腾讯云云函数从 2022 年 6 月 1 日开始收费了，差不多每个月 12 块，对于可能几个月都用不上一次云函数刷新缓存的人来说，有点太贵了。
+使用 Node.js 和 GitHub Actions 刷新 CDN 的方式，可以节省不少钱。</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>重新认识 JavaScript</title>
+  <link>https://shiqustudio.github.io/js-rediscover/</link>
+  <pubDate>Sun, 01 May 2022 10:59:36 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/js-rediscover/</guid>
+  <description><![CDATA[<div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>前言<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>前端框架轮替变化越来越快，JavaScript 也在不断地升级迭代，越来越多的新特性让我们的代码写起来变得简洁有趣。</p>
+<p>每隔一段时间就该重新认识一下 JS，这篇文章会介绍 6 种新特性，一起研究一下吧。</p>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>Lightbox</title>
+  <link>https://shiqustudio.github.io/lightbox/</link>
+  <pubDate>Mon, 21 Jun 2021 16:18:04 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/lightbox/</guid>
+  <description><![CDATA[簡介 Lightbox （燈箱），用来放大显示图片覆盖于当前页面之上。其是用 CSS 来定义图片容器，用一幅半透明的 png 图片实现渐变阴暗的效果。 一般的網頁，圖片是使用 img]]></description>
+</item>
+<item>
+  <title>Cell Watermark</title>
+  <link>https://shiqustudio.github.io/projects/cell-watermark/</link>
+  <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/projects/cell-watermark/</guid>
+  <description><![CDATA[Create watermark for webpage and automatic adjust when window resize.]]></description>
+</item>
+<item>
+  <title>利用腾讯云为静态页面添加“动态”相册</title>
+  <link>https://shiqustudio.github.io/projects/cos-album/</link>
+  <pubDate>Sun, 24 Nov 2019 10:52:34 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/projects/cos-album/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/projects/cos-album/images/view.png" referrerpolicy="no-referrer">
+      </div><div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">cos 桶相册，终于！！终于来了！！，idea 来自 [兰州小红鸡 - 给 hexo 静态博客添加动态相册功能]，<br>
+<strong><span style="color: #428bca;">功能虽好，但是还是先友情提示！</span></strong><br>
+开放 API 是一个<strong>很危险</strong>的操作，意味着你的 cos 桶里面的所有资源包括目录结构都暴露的整个世界中，所以建议不要放一些比较私密的照片，保护自己的隐私，提防不良用心之人。下面就开始吧！</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>设置网站运行时间</title>
+  <link>https://shiqustudio.github.io/site-time/</link>
+  <pubDate>Thu, 19 Sep 2019 22:03:29 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/site-time/</guid>
+  <description><![CDATA[<blockquote>
+<p>使用<code>javascript</code>计算博客等网站的运行时间。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>script 的三种加载方式 (async, defer)</title>
+  <link>https://shiqustudio.github.io/async-defer/</link>
+  <pubDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/async-defer/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/async-defer/images/async_vs_defer.svg" referrerpolicy="no-referrer">
+      </div><div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">JS 的加载分为两个部分：下载和执行。<br>
+浏览器在执行 HTML 的时候如果遇到<code>&lt;script&gt;</code>时会停止页面的渲染，去下载和执行 js 的文件直接遇见<code>&lt;/scirpt&gt;</code>会继续渲染页面。故浏览器在执行 js 文件的时候浏览器表现为一片空白，为了解决这个问题 ECMAScript 定义了 defer 和 async 两个属性用于控制 JS 的下载和执行。</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>模仿知乎卡片式链接</title>
+  <link>https://shiqustudio.github.io/linkcard/</link>
+  <pubDate>Fri, 15 Mar 2019 15:21:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/linkcard/</guid>
+  <description><![CDATA[<blockquote>
+<p>模仿知乎的卡片式链接，idea 来自 [兰州小红鸡]</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

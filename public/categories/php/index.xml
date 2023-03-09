@@ -1,0 +1,68 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>PHP - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/php/</link>
+    <description>PHP - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 28 Sep 2019 18:32:42 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/php/" rel="self" type="application/rss+xml" /><item>
+  <title>php 同时主动推送链接到百度，神马等站长平台</title>
+  <link>https://shiqustudio.github.io/phppushurl/</link>
+  <pubDate>Sat, 28 Sep 2019 18:32:42 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phppushurl/</guid>
+  <description><![CDATA[<blockquote>
+<p>php 主动推送站点链接到百度站长，神马站长进行 SEO。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>php 按行读取文件信息</title>
+  <link>https://shiqustudio.github.io/phpfile/</link>
+  <pubDate>Sat, 28 Sep 2019 17:11:17 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phpfile/</guid>
+  <description><![CDATA[<h2 id="普通方法">普通方法</h2>
+<p>首先采用<code>fopen()</code>函数打开文件，得到返回值的就是资源类型。接着采用 while 循环一行行地读取文件，然后输出每行的文字。<code>feof()</code>判断是否到最后一行，<code>fgets()</code>读取一行文本。</p>]]></description>
+</item>
+<item>
+  <title>简单评论模块--php 表单练习</title>
+  <link>https://shiqustudio.github.io/phpform/</link>
+  <pubDate>Fri, 19 Jul 2019 11:38:59 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phpform/</guid>
+  <description><![CDATA[<blockquote>
+<p>简单模仿了一个评论模板，当然肯定是没有博客的 valine 这么强大的 hhhh，<br>
+<strong>PHP 表单安全性的重要提示</strong><br>
+<code>$_SERVER[&quot;PHP_SELF&quot;]</code>变量能够被黑客利用！<br>
+如果页面中使用了<code>PHP_SELF</code>，用户能够输入下划线然后执行跨站点脚本（XSS）。<br>
+比如说注入 js 脚本等，valine 以前的版本也有过这样的漏洞。</p>
+<p><code>跨站点脚本（Cross-site scripting，XSS）</code>是一种计算机安全漏洞类型，常见于 Web 应用程序。XSS 能够使攻击者向其他用户浏览的网页中输入客户端脚本。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>php 函数学习</title>
+  <link>https://shiqustudio.github.io/phpfunc/</link>
+  <pubDate>Mon, 15 Jul 2019 11:37:33 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/phpfunc/</guid>
+  <description><![CDATA[<blockquote>
+<p>练习 php 函数的基本使用。<br>
+注：<br>
+必选参数在可选参数的前面。<br>
+可在函数中定义函数，需要先调用外层函数才能调用内层函数。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>宅音乐播放器</title>
+  <link>https://shiqustudio.github.io/player/</link>
+  <pubDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/player/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/player/images/index.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>宅音乐播放器，HTML5 网页播放器，集成后台管理及 API 调用，目前正在开发中，敬请关注~<br>
+<a href="https://github.com/lzx8589561/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">原项目</a> 由 <a href="https://www.ilt.me"target="_blank" rel="external nofollow noopener noreferrer">IT 技术宅</a> 开源，使用 thinkPHP 开发后台。 <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">fork 地址</a> 是我个人学习模仿的库，也是相当于备份源码。<br>
+<em>注： 插件修改于明月浩空免费版，仅用于学习交流，无商业价值，如发现商业传播，将禁止软件的免费使用。</em></p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

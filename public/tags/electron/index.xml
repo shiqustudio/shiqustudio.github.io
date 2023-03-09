@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>electron - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/electron/</link>
+    <description>electron - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/electron/" rel="self" type="application/rss+xml" /><item>
+  <title>electron 踩坑总结</title>
+  <link>https://shiqustudio.github.io/electron-summary/</link>
+  <pubDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/electron-summary/</guid>
+  <description><![CDATA[<p>总结一下最近 electron 开发遇到的问题和一些重要知识点。</p>]]></description>
+</item>
+</channel>
+</rss>

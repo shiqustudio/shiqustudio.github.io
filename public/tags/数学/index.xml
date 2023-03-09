@@ -1,0 +1,112 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>数学 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E6%95%B0%E5%AD%A6/</link>
+    <description>数学 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 17 May 2019 09:14:16 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E6%95%B0%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+  <title>最大公约数（二进制算法）</title>
+  <link>https://shiqustudio.github.io/gcd-bit/</link>
+  <pubDate>Fri, 17 May 2019 09:14:16 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/gcd-bit/</guid>
+  <description><![CDATA[<blockquote>
+<p>二进制最大公约数算法避免了欧几里得算法（辗转相除法）的大量取模操作，有效减少了时间消耗，且更为方便。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>大数乘法</title>
+  <link>https://shiqustudio.github.io/dacheng/</link>
+  <pubDate>Thu, 28 Mar 2019 22:50:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dacheng/</guid>
+  <description><![CDATA[<blockquote>
+<p>大数乘法 c 版(基础写法)</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>石子阵列（组合数学）</title>
+  <link>https://shiqustudio.github.io/nowcoder157a/</link>
+  <pubDate>Fri, 10 Aug 2018 22:11:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/nowcoder157a/</guid>
+  <description><![CDATA[链接：https://www.nowcoder.com/acm/contest/157/A 来源：牛客网 题目描述 xb 有 m 种石子，每种无限个，Ta]]></description>
+</item>
+<item>
+  <title>Dreamoon and Stairs</title>
+  <link>https://shiqustudio.github.io/codeforces476a/</link>
+  <pubDate>Fri, 10 Aug 2018 20:13:08 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codeforces476a/</guid>
+  <description><![CDATA[题目链接 Dreamoon wants to climb up a stair of n steps. He can climb 1 or 2 steps at each move. Dreamoon wants the number of moves to be a multiple of an integer m. What is the minimal number of moves making him climb to the top of the stairs that satisfies his condition? Input The single line contains two space separated integers n, m (0]]></description>
+</item>
+<item>
+  <title>Dreamoon and WiFi（组合数学）</title>
+  <link>https://shiqustudio.github.io/codeforces476b/</link>
+  <pubDate>Fri, 10 Aug 2018 17:44:47 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codeforces476b/</guid>
+  <description><![CDATA[题目链接 题目大意 就是给定两个字符串，第一个字符串由&quot;+&quot;,&quot;-&ldquo;组成，第二个字符串由&rdquo;]]></description>
+</item>
+<item>
+  <title>The equation-SGU106（扩展欧几里得）</title>
+  <link>https://shiqustudio.github.io/euclid/</link>
+  <pubDate>Fri, 10 Aug 2018 10:32:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/euclid/</guid>
+  <description><![CDATA[题意： 给出 a,b,c,x1,x2,y1,y2，求满足 ax+by+c=0，且 x∈[x1,x2],y∈[y1,y2] 的整数解个数。 分析： 对于解二]]></description>
+</item>
+<item>
+  <title>Leading and Trailing-lightoj1282（快速幂&#43;对数运算）</title>
+  <link>https://shiqustudio.github.io/lightoj1282/</link>
+  <pubDate>Thu, 09 Aug 2018 20:55:26 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/lightoj1282/</guid>
+  <description><![CDATA[<h3 id="题目链接httpsvjudgenetcontest238979probleme"><a href="https://vjudge.net/contest/238979#problem/E"target="_blank" rel="external nofollow noopener noreferrer">题目链接</a></h3>
+<h3 id="题目大意">题目大意：</h3>
+<p>给定两个数 n,k 求 n^k 的前三位和最后三位。</p>
+<h3 id="分析">分析</h3>
+<p>求后三位的话：直接快速幂，对 1000 取模就好了。<br>
+求前三位，对于给定的一个数 n, 它可以写成 n=10^a, 其中这个 a 为浮点数，则<code>t=n^k=(10^a)^k=10^a*k=(10^x)*(10^y);</code>其中 x,y 分别是<code>a*k</code>的整数部分和小数部分，对于 t=n^k 这个数，它的位数由 (10^x) 决定，它的位数上的值则有 (10^y) 决定，因此我们要求 t 的前三位，只需要将 10^y 求出，在乘以 100，就得到了它的前三位。<br>
+分析完，我们再整体看，设 n^k=10^z; 那么<code>z=k*log10(n)</code><br>
+<code>fmod(z,1)</code>可以求出 x 的小数部分。</p>]]></description>
+</item>
+<item>
+  <title>欧拉函数</title>
+  <link>https://shiqustudio.github.io/euler/</link>
+  <pubDate>Wed, 08 Aug 2018 17:10:07 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/euler/</guid>
+  <description><![CDATA[<h3 id="_欧拉函数是求小于-x-并且和-x互质httpsbaikebaiducomiteme4ba92e8b4a8577412fraladdin-的数的个数_"><strong><em>欧拉函数是求小于 x 并且和 x<a href="https://baike.baidu.com/item/%E4%BA%92%E8%B4%A8/577412?fr=aladdin"target="_blank" rel="external nofollow noopener noreferrer">互质</a> 的数的个数</em></strong></h3>
+<p>通式：φ(x)=x(1-1/p1)(1-1/p2)(1-1/p3)(1-1/p4)…..(1-1/pn)<br>
+<strong>其中 p1, p2……pn 为 x 的所有质因数，x 是不为 0 的整数</strong><br>
+φ(1)=1（唯一和 1 互质的数就是 1 本身）【注意：每种质因数只一个。比如 12=2<em>2</em>3】</p>
+<h3 id="定理">定理：</h3>
+<ol>
+<li>若 n 是素数 p 的 k 次幂，φ(n)=p^k-p^(k-1)=(p-1)p^(k-1)，因为除了 p 的倍数外，其他数都跟 n 互质 </li>
+<li>欧拉函数是积性函数——若 m,n 互质，φ(mn)=φ(m)φ(n)</li>
+</ol>
+<h3 id="特殊性质">特殊性质：</h3>
+<ol>
+<li>当 n 为奇数时，φ(2n)=φ(n)</li>
+<li>p 是素数，φ(p) = p - 1，φ(p) 称为 p 的欧拉值</li>
+<li>若 a 为素数，b mod a=0,<code>φ(a*b)=φ(b)*a</code></li>
+</ol>]]></description>
+</item>
+<item>
+  <title>杨辉三角</title>
+  <link>https://shiqustudio.github.io/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/</link>
+  <pubDate>Sun, 22 Jul 2018 11:41:15 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/</guid>
+  <description><![CDATA[<p><a href="https://zhidao.baidu.com/question/367384574464313844.html"target="_blank" rel="external nofollow noopener noreferrer">百度知道</a><br>
+1</p>
+<p>1 1</p>
+<p>1 2 1</p>
+<p>1 3 3 1</p>
+<p>1 4 6 4 1</p>
+<p>1 5 10 10 5 1</p>
+<p>1 6 15 20 15 6 1</p>
+<hr>]]></description>
+</item>
+</channel>
+</rss>

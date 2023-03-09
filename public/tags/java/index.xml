@@ -1,0 +1,112 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Java - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/java/</link>
+    <description>Java - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/java/" rel="self" type="application/rss+xml" /><item>
+  <title>Web 开发规则，代码规范</title>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <description><![CDATA[精神 绝不写死代码，硬编码 不留不要用的、垃圾代码 Git Master 的 BUG 必须最少且趋近于零，为最稳定的版本 每次 Commit 信息应该准确填写。不可模棱两可，eg: 修复 BU]]></description>
+</item>
+<item>
+  <title>java 实现一个单线程的资源下载器</title>
+  <link>https://shiqustudio.github.io/singlethreaddown/</link>
+  <pubDate>Wed, 08 May 2019 20:55:02 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/singlethreaddown/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>实现一个简单的基于单线程的资源下载器，如图所示，用户可以任意指定下载资源的链接地址，系统根据该地址判断资源是否存在，如果存在，则将该资源下载到本地。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>java 通过 URL 和 URLConnection 访问网页资源</title>
+  <link>https://shiqustudio.github.io/java-urlreader/</link>
+  <pubDate>Mon, 06 May 2019 17:41:35 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/java-urlreader/</guid>
+  <description><![CDATA[<blockquote>
+<p>该例中首先生成一个 URL 对象 lrh，指向 RUI 豪小栈，然后再调用 lrh.openStream() 方法生成该 URL 的一个输入流，这是一个字节流，在此基础上进一步通过 InputStreamReader 和 BufferedReader 构造一个带缓冲功能的字符流，并通过这个字符流对象读取该 URL 的 html 内容，进而输出到桌面文件和控制台屏幕。URLConnection 类也可以用来对由 URL 引用的资源进行读写操作，前提是先通过 connect() 方法建立连接，然后再去获取响应头信息或响应内容。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>文件加密解密（字节流）</title>
+  <link>https://shiqustudio.github.io/byteio/</link>
+  <pubDate>Thu, 02 May 2019 23:04:32 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/byteio/</guid>
+  <description><![CDATA[<blockquote>
+<p>基本功能： 给定一个密钥，读取文件内容，加密后，输出到另外一个文件。<br/><br/>
+这里使用文件输入流读取文件内容，然后每个字节和密码进行异或简单加密。加密完成，使用文件输出流写入另一个文件中。解密和加密方法一样。利用的是对同一个数异或两遍其值不变的性质。因此一个程序可以完成加密和解密功能。只需修改文件名即可。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>模拟借书系统（java 异常练习）</title>
+  <link>https://shiqustudio.github.io/javaexception/</link>
+  <pubDate>Wed, 01 May 2019 16:52:21 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/javaexception/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/javaexception/images/1.png" referrerpolicy="no-referrer">
+      </div>]]></description>
+</item>
+<item>
+  <title>用记事本编写第一个 java 程序</title>
+  <link>https://shiqustudio.github.io/hellojava/</link>
+  <pubDate>Fri, 19 Apr 2019 19:49:54 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hellojava/</guid>
+  <description><![CDATA[<blockquote>
+<p>之所以用记事本来写不是为了装 X 或者什么的。反而恰恰是返璞归真，因为在用 java 语言进行程序开发时，首先是以纯文本的方式编写所有的 java 源程序，并保存成以<code>.java</code>为后缀的文件；然后将这些源程序用<code>javac</code>编译成<code>.class</code>后缀名的字节代码文件；字节代码不是被本地处理器执行的代码，而是能够被 java 虚拟机（JVM）执行的代码。最后用 java 运行工具在 JVM 执行 java 应用程序。<br>
+由于 JVM 可以运行在不同的操作系统上，因此同一个字节代码文件可以跨平台运行。</p>
+</blockquote>
+<ul>
+<li>javac</li>
+<li>java</li>
+</ul>]]></description>
+</item>
+<item>
+  <title>java 正则表达式练习</title>
+  <link>https://shiqustudio.github.io/java-regex/</link>
+  <pubDate>Thu, 18 Apr 2019 22:04:21 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/java-regex/</guid>
+  <description><![CDATA[邮箱 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 import java.util.regex.Matcher; import java.util.regex.Pattern; public class RegexDemo { public static void main(String[] args) { // Pattern 类 正则表达式的编译表示。 Pattern pattern = Pattern.compile(&#34;^[a-zA-Z0-9_!#$%&amp;&#39;*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$&#34;); String[] emails = {&#34;admin@lruihao.cn&#34;, &#34;lruihao.cn&#34;}; for (String email : emails) { //Matcher 通过解释 Pattern 对字符]]></description>
+</item>
+<item>
+  <title>java 常用类</title>
+  <link>https://shiqustudio.github.io/stringbuffer/</link>
+  <pubDate>Sun, 14 Apr 2019 10:12:44 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/stringbuffer/</guid>
+  <description><![CDATA[StringBuffer/StringBuilder（掌握） StringBuffer 是线程安全的可变字符串。 StringBuilder 是线程不安全的可变字符串。 和 StringBuffer 的功能一样。就是效率高]]></description>
+</item>
+<item>
+  <title>Java 父类子类的对象初始化过程</title>
+  <link>https://shiqustudio.github.io/substatus/</link>
+  <pubDate>Thu, 21 Mar 2019 13:36:25 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/substatus/</guid>
+  <description><![CDATA[<blockquote>
+<p>摘要：Java 基本的对象初始化过程，子类的初始化，以及涉及到父类和子类的转化时可能引起混乱的情况。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>java 泛型 test</title>
+  <link>https://shiqustudio.github.io/fanxing/</link>
+  <pubDate>Sat, 16 Mar 2019 13:56:01 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/fanxing/</guid>
+  <description><![CDATA[<blockquote>
+<ul>
+<li>泛型方法，它在修饰符后，返回值类型前增加了类型参数 (&lt;&gt;)</li>
+<li>类型通配符一般使用问号<code>?</code>代替具体的类型<code>实</code>参，注意不是类型形参。</li>
+</ul>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

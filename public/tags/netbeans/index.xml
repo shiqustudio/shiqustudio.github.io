@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>NetBeans - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/netbeans/</link>
+    <description>NetBeans - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 15 Aug 2019 18:36:15 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/netbeans/" rel="self" type="application/rss+xml" /><item>
+  <title>NetBeans IDE 开发设置</title>
+  <link>https://shiqustudio.github.io/netbeans/</link>
+  <pubDate>Thu, 15 Aug 2019 18:36:15 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/netbeans/</guid>
+  <description><![CDATA[安裝 官方下載點 擴充功能 安裝擴充功能 下載擴充套件包 官方套件庫 或者在 NetBeans IDE 裏面下載插件（方便） 開啟 NetBeans→Tools→Plugins→D]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,75 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Node - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/node/</link>
+    <description>Node - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Aug 2022 14:40:33 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/node/" rel="self" type="application/rss+xml" /><item>
+  <title>Node.js &#43; GitHub Actions 自动刷新 CDN</title>
+  <link>https://shiqustudio.github.io/qcloudcdn/</link>
+  <pubDate>Sun, 07 Aug 2022 14:40:33 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/qcloudcdn/</guid>
+  <description><![CDATA[<div class="details admonition question open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">腾讯云云函数从 2022 年 6 月 1 日开始收费了，差不多每个月 12 块，对于可能几个月都用不上一次云函数刷新缓存的人来说，有点太贵了。
+使用 Node.js 和 GitHub Actions 刷新 CDN 的方式，可以节省不少钱。</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>Mac 上的开发配置总结</title>
+  <link>https://shiqustudio.github.io/config4mac/</link>
+  <pubDate>Fri, 29 Jul 2022 20:22:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/config4mac/</guid>
+  <description><![CDATA[<p>记录一下使用 Mac 作为生产工具开发的一些基本配置和经验。</p>]]></description>
+</item>
+<item>
+  <title>hexo 博客源码备份</title>
+  <link>https://shiqustudio.github.io/blog-backup/</link>
+  <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/blog-backup/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/blog-backup/images/1.png" referrerpolicy="no-referrer">
+      </div>备份 hexo 博客 1 2 3 4 5 6 7 8 9 //如果 themes/next（主题文件）下面有。git，请删除这个。git 文件夹。 cd hexo git init //初始化本地仓库 git]]></description>
+</item>
+<item>
+  <title>termux 基本使用教程</title>
+  <link>https://shiqustudio.github.io/termux1/</link>
+  <pubDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/termux1/</guid>
+  <description><![CDATA[前面有一篇文章写到一些，在 Android 上搭建 hexo 博客 本文当初摘要自 国光个人博客 如若作者博客 IP 被墙，可前往国光第三方博客诸如 csdn 等。备用 初始化 下载并初始化 termux]]></description>
+</item>
+<item>
+  <title>ttf 字体压缩</title>
+  <link>https://shiqustudio.github.io/web-font/</link>
+  <pubDate>Wed, 17 Oct 2018 21:38:06 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/web-font/</guid>
+  <description><![CDATA[安装 nodeJs 这个不多说，都有。 安装字蛛 输入命令 1 npm install font-spider -g 运行 安装成功之后就开始压缩了 我的 css 1 2 3 4 5 6 &lt;style type=&#34;text/css&#34;&gt; @font-face { font-family: MMT; src: url(&#34;font/MMT_579767_SOAJ0_0.ttf&#34;); } &lt;/style&gt; 生成新的字体库，命令行输]]></description>
+</item>
+<item>
+  <title>在 Android 上搭建 hexo 博客</title>
+  <link>https://shiqustudio.github.io/termux/</link>
+  <pubDate>Sat, 11 Aug 2018 16:59:05 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/termux/</guid>
+  <description><![CDATA[<blockquote>
+<p>暑假刚开始的时候放假回家没带电脑，只能玩手机，想折腾一下博客都没有条件，在一个发现一个 app, 卧槽 😱，termux 真的强大！（初始化需要科学上网）安卓手机上的 linux 简直了，在手机就可以搭了一个 hexo 博客，只要在 github 上实现分支管理就可以多终端同步更新了。恕我学疏才浅，还只想到这些！一开始想回校后，折腾一下 hexo-admin 实现类似动态博客一样的多终端管理（手动滑稽），现在发现 termux 这样子的操作也不错嘛，挺装哔 hhhhhh**<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">部署后的效果</a>**</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>hexo&#43;github 搭建个人博客及美化</title>
+  <link>https://shiqustudio.github.io/hexobuild/</link>
+  <pubDate>Fri, 01 Jun 2018 14:34:23 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hexobuild/</guid>
+  <description><![CDATA[更多关于 hexo 首先 官方文档 是我们的第一手资料，也是最好的。 安装 Hexo 相当简单。然而在安装前，您必须检查电脑中是否已安装下列应用程序： Node.js Git hexo 安装 如果您]]></description>
+</item>
+</channel>
+</rss>

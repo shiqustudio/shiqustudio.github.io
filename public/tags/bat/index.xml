@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>bat - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/bat/</link>
+    <description>bat - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 17 Nov 2018 14:25:49 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/bat/" rel="self" type="application/rss+xml" /><item>
+  <title>通过 bat 批处理文件自动提交博客代码</title>
+  <link>https://shiqustudio.github.io/commit-bat/</link>
+  <pubDate>Sat, 17 Nov 2018 14:25:49 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/commit-bat/</guid>
+  <description><![CDATA[<blockquote>
+<p>前面我有文章提到怎么提交本地文件到 github,coding 等远程仓库。每次可以分为三个步骤</p>
+<ul>
+<li>git add * （添加需要提交的文件，这里全选）</li>
+<li>git commit -m &ldquo;提交信息&rdquo;</li>
+<li>git push</li>
+</ul>
+<p>但是这样感觉很麻烦每次都要重复输入提交命令和提示信息。
+这个时候可以用到 windows 批处理 bat 文件 (linux 的话可以用 shell 脚本）。用完发现好用到不行！</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

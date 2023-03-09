@@ -1,0 +1,111 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>linux - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/linux/</link>
+    <description>linux - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/linux/" rel="self" type="application/rss+xml" /><item>
+  <title>linux 文件权限</title>
+  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <pubDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
+</item>
+<item>
+  <title>Cron 表达式的基本语法</title>
+  <link>https://shiqustudio.github.io/cron/</link>
+  <pubDate>Wed, 25 Mar 2020 09:19:44 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cron/</guid>
+  <description><![CDATA[<h2 id="基本语法">基本语法</h2>
+<blockquote>
+<p><code>&lt;秒&gt; &lt;分钟&gt; &lt;小时&gt; &lt;日期 day-of-month&gt; &lt;月份&gt; &lt;星期 day-of-week&gt;</code></p>
+</blockquote>
+<p>Cron 表达式是一个具有时间含义的字符串，字符串以 5 个空格隔开，分为 6 个域，格式为 <code>X X X X X X</code>。其中 X 是一个域的占位符。单个域有多个取值时，使用半角逗号，隔开取值。每个域可以是确定的取值，也可以是具有逻辑意义的特殊字符。</p>]]></description>
+</item>
+<item>
+  <title>HustOJ 基础搭建教程</title>
+  <link>https://shiqustudio.github.io/hustoj/</link>
+  <pubDate>Fri, 17 May 2019 23:08:04 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hustoj/</guid>
+  <description><![CDATA[<blockquote>
+<p>目前 HustOj 在 GitHUb 地址是：<a href="https://github.com/zhblue/hustoj"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/zhblue/hustoj</a><br>
+<strong>安装时注意 ubuntu 版本</strong>，没条件的可以在自己 ubuntu 上尝试，或者虚拟机上（关注公众号回复<code>ubuntu16.04</code>获取 iso 镜像文件），也可以在云实验室的云服务器上做做实验。<br>
+更多说明及 ACM/NOIP 题库下载见官网博客 <a href="http://www.hustoj.com/"target="_blank" rel="external nofollow noopener noreferrer">代码的那些事|程序员回忆录</a></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>本地搭建网站服务器并穿透内网</title>
+  <link>https://shiqustudio.github.io/ngrok/</link>
+  <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <description><![CDATA[<blockquote>
+<p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>ubuntu &#43; windows 双系统默认启动项设置</title>
+  <link>https://shiqustudio.github.io/windefault/</link>
+  <pubDate>Thu, 21 Mar 2019 12:48:30 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/windefault/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/windefault/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>双系统默认启动项是 Ubuntu，而日常使用最多的还是 Windows，所以说很不方便，一不小心就开机到 Ubuntu 去了。今天来设置一下。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>宝塔面板安装</title>
+  <link>https://shiqustudio.github.io/bt/</link>
+  <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/bt/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>]]></description>
+</item>
+<item>
+  <title>win10,ubuntu 双系统时间不一致</title>
+  <link>https://shiqustudio.github.io/ubuntutime/</link>
+  <pubDate>Fri, 15 Mar 2019 14:28:10 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ubuntutime/</guid>
+  <description><![CDATA[<blockquote>
+<p>我的 Ubuntu 和 Windows 双系统是 Ubuntu 是第一启动项，所以总是开机忘记点下键，一进 Ubuntu 系统时间就不对了（总是少了 8 小时），回到 Windows 时间也是错的。知道是错的调整一下还好。忘记调了有时候真的会误事。比如说 git 版本控制提交会遇到问题种种等。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>shell 脚本初体验</title>
+  <link>https://shiqustudio.github.io/shell/</link>
+  <pubDate>Mon, 29 Oct 2018 11:57:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/shell/</guid>
+  <description><![CDATA[<p>今天上机学了几个小命令</p>
+<ul>
+<li>read</li>
+<li>echo</li>
+<li>if</li>
+</ul>
+<p>然后自己写了一个小脚本觉得还挺有趣的</p>]]></description>
+</item>
+<item>
+  <title>云服务器 CentOS 系统搭建 web 服务</title>
+  <link>https://shiqustudio.github.io/web-server-yun/</link>
+  <pubDate>Mon, 29 Oct 2018 09:15:58 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/web-server-yun/</guid>
+  <description><![CDATA[搭建 Apache web 服务 安装 Apache 超文本传输协议 (HTTP) 服务器的主程序 1 [root@VM_0_6_centos /]# yum install -y httpd 注意安装目录，可通过 cd 命令切换。 启动 HTTP 服务 1 [root@VM_0_6_centos /]# systemctl start httpd.service 如果启动失败，可通过 systemctl status]]></description>
+</item>
+<item>
+  <title>termux 基本使用教程</title>
+  <link>https://shiqustudio.github.io/termux1/</link>
+  <pubDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/termux1/</guid>
+  <description><![CDATA[前面有一篇文章写到一些，在 Android 上搭建 hexo 博客 本文当初摘要自 国光个人博客 如若作者博客 IP 被墙，可前往国光第三方博客诸如 csdn 等。备用 初始化 下载并初始化 termux]]></description>
+</item>
+</channel>
+</rss>

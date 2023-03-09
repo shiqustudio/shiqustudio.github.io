@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>ThinkPHP - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/thinkphp/</link>
+    <description>ThinkPHP - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/thinkphp/" rel="self" type="application/rss+xml" /><item>
+  <title>宅音乐播放器</title>
+  <link>https://shiqustudio.github.io/player/</link>
+  <pubDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/player/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/player/images/index.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>宅音乐播放器，HTML5 网页播放器，集成后台管理及 API 调用，目前正在开发中，敬请关注~<br>
+<a href="https://github.com/lzx8589561/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">原项目</a> 由 <a href="https://www.ilt.me"target="_blank" rel="external nofollow noopener noreferrer">IT 技术宅</a> 开源，使用 thinkPHP 开发后台。 <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">fork 地址</a> 是我个人学习模仿的库，也是相当于备份源码。<br>
+<em>注： 插件修改于明月浩空免费版，仅用于学习交流，无商业价值，如发现商业传播，将禁止软件的免费使用。</em></p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

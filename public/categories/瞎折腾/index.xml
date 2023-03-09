@@ -1,0 +1,135 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>瞎折腾 - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/</link>
+    <description>瞎折腾 - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 02 Mar 2021 21:46:40 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/" rel="self" type="application/rss+xml" /><item>
+  <title>基于 leancloud-storage 实现的无后端记账本</title>
+  <link>https://shiqustudio.github.io/projects/bill-note/</link>
+  <pubDate>Tue, 02 Mar 2021 21:46:40 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/projects/bill-note/</guid>
+  <description><![CDATA[<h2 id="起因">起因</h2>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>起因<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>事情是這樣，年前和朋友一起合租了一個房子，然後捏，生活嘛，除了開心，當然是乾飯最大啦！</p>
+<p>自然就會有購物，買菜等日常消費，那就要記賬，一開始是各自記在手機的便簽上，最後再算一下；<br>
+三個人，一共七种組合消費，排除各自消費的三種情況，也有四種 (<code>AB, AC, BC, ABC</code>)。好麻煩啊！！！</p>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>使用 Python 刷 csdn 访问量</title>
+  <link>https://shiqustudio.github.io/csdnvisiter/</link>
+  <pubDate>Thu, 26 Mar 2020 11:08:38 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/csdnvisiter/</guid>
+  <description><![CDATA[<blockquote>
+<p>使用 python 模拟浏览器行为刷 csdn 访问量，脚本仅做学习，请勿滥用~</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>新冠疫情未返校未返工第 N 天之“自动打卡”</title>
+  <link>https://shiqustudio.github.io/daka/</link>
+  <pubDate>Wed, 25 Mar 2020 08:22:42 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/daka/</guid>
+  <description><![CDATA[<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>这件事还得从一只蝙蝠说起 &hellip;<br>
+算了，昨天下午 3 点半，我还在王者峡谷 Timing, 突然潇 X 巴哥打了个电话给我说关于自动打卡的想法 &hellip;<br>
+哎，反正就是由于疫情需要每天健康打卡汇报给学校，然后每天提交一样的太麻烦了，就想写个程序自动打卡 &hellip;<br>
+我和潇 X 巴哥确定思路后兵分两路：</p>
+<ol>
+<li>他用 java 写个后台自动刷多人的，再弄个网页给用户填写账号密码保存在数据库；</li>
+<li>我想的就很直接，只刷一个人的，python 模拟浏览器登录后打卡，再设置定时任务（多人则设定多个）；</li>
+</ol>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>用 MyQR 制作专属动态二维码 (py 和 exe 版本）</title>
+  <link>https://shiqustudio.github.io/qrcode/</link>
+  <pubDate>Sat, 27 Apr 2019 14:16:54 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/qrcode/</guid>
+  <description><![CDATA[<blockquote>
+<p><strong>Python 二维码生成器</strong>是 github 上@sylnsfar 开源的一个 python 生成二维码工具。有 python, 网页及 exe 版本，详见 <a href="https://github.com/sylnsfar/qrcode/"target="_blank" rel="external nofollow noopener noreferrer">sylnsfar/qrcode</a>，本文主要介绍记录一下 python 版本使用。exe 可以去 <a href="https://github.com/sylnsfar/qrcode_win"target="_blank" rel="external nofollow noopener noreferrer">项目开源地址</a> 下载，公众号文章后台回复关键词“qrcode”获取链接。</p>
+</blockquote>
+<p>可生成<em>普通二维码</em>、<em>带图片的艺术二维码（黑白与彩色）</em>、<em>动态二维码（黑白与彩色）</em>。</p>]]></description>
+</item>
+<item>
+  <title>python 爬取网站图片（图片链接相似）</title>
+  <link>https://shiqustudio.github.io/mmtimgpy/</link>
+  <pubDate>Mon, 22 Apr 2019 12:46:34 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/mmtimgpy/</guid>
+  <description><![CDATA[<blockquote>
+<p>以下程序对 <a href="https://hw.xiezixiansheng.com/mobile.php?c=Grzkreader&amp;a=fontshowPics&amp;u=qbfRl8gPF2s-&amp;z=Kqz%2FRroVGYc-&amp;share=1&amp;from=singlemessage"target="_blank" rel="external nofollow noopener noreferrer">该网址</a> 内的手写体图片进行爬取！这个手写体是我在手机上通过《手迹造字》app 书写的，大概 6886 个字符，历时两年多，目前仍在修改中。<a href="/projects/font-mmt/">字体效果查看</a></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>python 玩微信：初探 wxpy</title>
+  <link>https://shiqustudio.github.io/wxpy1/</link>
+  <pubDate>Sat, 20 Apr 2019 15:44:57 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/wxpy1/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/wxpy1/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p><strong><em>文中涉及的图片涉及个人隐私，仅做举例，请勿传播</em></strong></p>
+<ul>
+<li>查看微信好友男女比例</li>
+<li>查看好友地区分布</li>
+<li>群性别统计</li>
+</ul>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>基本 python 实现的爬取微信好友头像，并拼接成大图</title>
+  <link>https://shiqustudio.github.io/wximgpy/</link>
+  <pubDate>Sat, 20 Apr 2019 13:32:58 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/wximgpy/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/wximgpy/images/1.jpg" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>Python 通过 wxpy 登录微信网页版，爬取好友所有头像并拼接成一张大图。然后删除所有子图。（注释相关代码可以不删除）<br>
+<strong><em>文中涉及的图片涉及个人隐私，仅做举例，请勿传播</em></strong><br>
+<strong>文中编码由 Sunbelife 提供，来自他的同名微信公众号，本博仅用于学习，侵删</strong></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>宅音乐播放器</title>
+  <link>https://shiqustudio.github.io/player/</link>
+  <pubDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/player/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/player/images/index.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>宅音乐播放器，HTML5 网页播放器，集成后台管理及 API 调用，目前正在开发中，敬请关注~<br>
+<a href="https://github.com/lzx8589561/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">原项目</a> 由 <a href="https://www.ilt.me"target="_blank" rel="external nofollow noopener noreferrer">IT 技术宅</a> 开源，使用 thinkPHP 开发后台。 <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">fork 地址</a> 是我个人学习模仿的库，也是相当于备份源码。<br>
+<em>注： 插件修改于明月浩空免费版，仅用于学习交流，无商业价值，如发现商业传播，将禁止软件的免费使用。</em></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>“高逼格” C 语言画心</title>
+  <link>https://shiqustudio.github.io/heart/</link>
+  <pubDate>Wed, 15 Aug 2018 16:33:12 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/heart/</guid>
+  <description><![CDATA[<p>七夕又快到了，分享一个曾经玩过的代码，用 C 语言画一个跳动的心，很有逼格有木有。</p>
+<p><figure><a class="lightgallery" href="https://i.loli.net/2018/08/29/5b8680e407e09.gif" data-thumbnail="https://i.loli.net/2018/08/29/5b8680e407e09.gif" data-sub-html="<h2>截图</h2><p>大一在机房拍的图</p>"></a><figcaption class="image-caption">截图</figcaption>
+  </figure></p>]]></description>
+</item>
+</channel>
+</rss>

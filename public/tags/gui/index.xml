@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>GUI - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/gui/</link>
+    <description>GUI - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 08 May 2019 20:55:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/gui/" rel="self" type="application/rss+xml" /><item>
+  <title>java 实现一个单线程的资源下载器</title>
+  <link>https://shiqustudio.github.io/singlethreaddown/</link>
+  <pubDate>Wed, 08 May 2019 20:55:02 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/singlethreaddown/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>实现一个简单的基于单线程的资源下载器，如图所示，用户可以任意指定下载资源的链接地址，系统根据该地址判断资源是否存在，如果存在，则将该资源下载到本地。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>匿名类在可视化界面中的应用</title>
+  <link>https://shiqustudio.github.io/qframe/</link>
+  <pubDate>Fri, 15 Mar 2019 22:31:28 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/qframe/</guid>
+  <description><![CDATA[<blockquote>
+<p>java 中匿名类用的最多的地方就是可视化界面设计中，特别是将<code>事件监听器</code>注册到某个组件上的时候。</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

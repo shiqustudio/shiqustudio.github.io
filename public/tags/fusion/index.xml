@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>fusion - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/fusion/</link>
+    <description>fusion - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 12 Nov 2018 16:04:04 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/fusion/" rel="self" type="application/rss+xml" /><item>
+  <title>博採眾長 app</title>
+  <link>https://shiqustudio.github.io/fas-app/</link>
+  <pubDate>Mon, 12 Nov 2018 16:04:04 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/fas-app/</guid>
+  <description><![CDATA[<h3 id="介绍">介绍</h3>
+<p>使用 fusion app 对网页进行的封装。<br>
+功能：</p>
+<ul>
+<li>浏览本博客，主页</li>
+<li>私人网盘</li>
+<li>2048 等小游戏</li>
+<li>在线客服，QQ 等</li>
+<li>pc 与移动浏览器标识切换</li>
+<li>留言，打赏，博主日志等</li>
+<li>分享功能，分享到 QQ，微信，浏览器打开等</li>
+<li>app 内添加书签，自动记录历史记录，刷新等</li>
+<li><strong>配合博客的<code>PWA + quicklink</code>功能可实现离线浏览</strong></li>
+</ul>]]></description>
+</item>
+</channel>
+</rss>

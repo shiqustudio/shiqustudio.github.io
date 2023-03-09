@@ -1,0 +1,85 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>HDU - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/hdu/</link>
+    <description>HDU - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Apr 2019 16:43:19 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/hdu/" rel="self" type="application/rss+xml" /><item>
+  <title>HDU 1009 FatMouse&#39; Trade（贪心）</title>
+  <link>https://shiqustudio.github.io/hdu1009/</link>
+  <pubDate>Fri, 12 Apr 2019 16:43:19 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu1009/</guid>
+  <description><![CDATA[题目大意： 题目链接 老鼠有 M 磅猫食 , 有 N 个房间 , 每个房间前有一只猫 , 房间里有老鼠最喜欢的食品 J[i] , 若要得到房间的食物 , 必须付出相应的猫食 F[i] , 当然]]></description>
+</item>
+<item>
+  <title>小希的迷宫-HDU-1272（并查集 or 树性质）</title>
+  <link>https://shiqustudio.github.io/hdu1272/</link>
+  <pubDate>Wed, 01 Aug 2018 21:45:50 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu1272/</guid>
+  <description><![CDATA[<h2 id="题目链接小希的迷宫httpacmhdueducnshowproblemphppid1272">题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=1272"target="_blank" rel="external nofollow noopener noreferrer">小希的迷宫</a></h2>
+<h2 id="并查集">并查集：</h2>
+<ul>
+<li>无回路</li>
+<li>单连通</li>
+</ul>
+<p>并查集做，首先想到的是判断两个点是否连通，不连通就合并，已连通的话说明会形成<strong>回路</strong>，则可以判定 No，交了一发错了。<br>
+想了一下没有考虑到多个连通域的情况，该题必须只有<strong>一个连通域</strong></p>
+<h2 id="树的性质">树的性质：</h2>
+<p>既然单连通无回路，则这肯定是一棵树；那么 edge=v-1;</p>]]></description>
+</item>
+<item>
+  <title>How Many Answers Are Wrong-hdu3038（带权并查集）</title>
+  <link>https://shiqustudio.github.io/hdu3038/</link>
+  <pubDate>Wed, 01 Aug 2018 11:45:53 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu3038/</guid>
+  <description><![CDATA[<p>题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=3038"target="_blank" rel="external nofollow noopener noreferrer">How Many Answers Are Wrong</a><br>
+思路参考：<a href="https://blog.csdn.net/duan_1998/article/details/70196576"target="_blank" rel="external nofollow noopener noreferrer">本题直接参考</a>,<a href="https://blog.csdn.net/dextrad_ihacker/article/details/51016017"target="_blank" rel="external nofollow noopener noreferrer">图文解释</a></p>]]></description>
+</item>
+<item>
+  <title>how many tables-HDU-1213（并查集求连通域数目）</title>
+  <link>https://shiqustudio.github.io/how-tables/</link>
+  <pubDate>Tue, 31 Jul 2018 11:12:10 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/how-tables/</guid>
+  <description><![CDATA[<p>并查集求连通域数目，初始化 sum=n；
+题目链接： <a href="http://acm.hdu.edu.cn/showproblem.php?pid=1213"target="_blank" rel="external nofollow noopener noreferrer">how many tables</a></p>]]></description>
+</item>
+<item>
+  <title>畅通工程-HDU-1232（并查集经典模板）</title>
+  <link>https://shiqustudio.github.io/%E7%95%85%E9%80%9A%E5%B7%A5%E7%A8%8B/</link>
+  <pubDate>Tue, 31 Jul 2018 11:08:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/%E7%95%85%E9%80%9A%E5%B7%A5%E7%A8%8B/</guid>
+  <description><![CDATA[<h4 id="并查集入门推荐超有爱的并查集httpsblogcsdnnetniushuai666articledetails6662911">并查集入门推荐：<a href="https://blog.csdn.net/niushuai666/article/details/6662911"target="_blank" rel="external nofollow noopener noreferrer">超有爱的并查集~</a></h4>
+<h4 id="题目链接畅通工程httpacmhdueducnshowproblemphppid1232">题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=1232"target="_blank" rel="external nofollow noopener noreferrer">畅通工程</a></h4>
+<h4 id="题意分析">题意分析：</h4>
+<p>首先在地图上给你若干个城镇，这些城镇都可以看作点，然后告诉你哪些对城镇之间是有道路直接相连的。最后要解决的是整幅图的连通性问题。比如随意给你两个点，让你判断它们是否连通，或者问你整幅图一共有几个连通分支，也就是被分成了几个互相独立的块。像畅通工程这题，问还需要修几条路，实质就是求有几个连通分支。</p>]]></description>
+</item>
+<item>
+  <title>HDU-1495-非常可乐（bfs 模拟倒水 or 数论）</title>
+  <link>https://shiqustudio.github.io/hdu-1495/</link>
+  <pubDate>Tue, 24 Jul 2018 15:34:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu-1495/</guid>
+  <description><![CDATA[非常可乐 大家一定觉的运动以后喝可乐是一件很惬意的事情，但是 seeyou 却不这么认为。因为每次当 seeyou 买了可乐以后，阿牛就要求和 seeyou 一起分享这一瓶可乐，而且一]]></description>
+</item>
+<item>
+  <title>hdu-2612-Find a way（双 bfs）</title>
+  <link>https://shiqustudio.github.io/hdu-2612/</link>
+  <pubDate>Mon, 23 Jul 2018 12:34:42 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu-2612/</guid>
+  <description><![CDATA[Find a way 圣诞节要到了，坤神和瑞瑞这对基佬想一起去召唤师大峡谷开开车。百度地图一下，发现周围的召唤师大峡谷还不少，这对基佬纠结着，该去哪一个。坤]]></description>
+</item>
+<item>
+  <title>hdu-1241-Oil Deposits (dfs)</title>
+  <link>https://shiqustudio.github.io/hdu-1241/</link>
+  <pubDate>Sun, 22 Jul 2018 11:37:20 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/hdu-1241/</guid>
+  <description><![CDATA[Oil Deposits 翻译 Time Limit: 2000/1000 MS (Java/Others) Memory Limit: 65536/32768 K (Java/Others) Total Submission(s): 41406 Accepted Submission(s): 23977 Problem Description The GeoSurvComp geologic survey company is responsible for detecting underground oil deposits. GeoSurvComp works with one large rectangular region of land at a time, and creates a grid that divides the land into numerous square plots. It then analyzes each plot separately, using sensing equipment to determine whether]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>计算机组成与体系结构 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/</link>
+    <description>计算机组成与体系结构 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 09 Oct 2018 16:21:04 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/" rel="self" type="application/rss+xml" /><item>
+  <title>流水线</title>
+  <link>https://shiqustudio.github.io/liushuixian/</link>
+  <pubDate>Tue, 09 Oct 2018 16:21:04 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/liushuixian/</guid>
+  <description><![CDATA[概念 流水线是指在程序执行时多条指令重叠进行操作的一种准并行处理实现技术。各种部件同时处理是针对不同指令而言的，它们可同时为多条指令的不同部分]]></description>
+</item>
+<item>
+  <title>计算机数据</title>
+  <link>https://shiqustudio.github.io/data/</link>
+  <pubDate>Mon, 08 Oct 2018 23:01:10 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/data/</guid>
+  <description><![CDATA[数据的表示 数据的表示可分为：原码，反码和补码。（二进制） 原码： 符号位 0 为正，1 为负。 反码： 符号位 0 为正，1 为负。 正数： 反码同原码。 负数： 符号]]></description>
+</item>
+</channel>
+</rss>

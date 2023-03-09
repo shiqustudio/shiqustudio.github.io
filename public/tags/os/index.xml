@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>OS - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/os/</link>
+    <description>OS - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 04 Mar 2019 23:08:32 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/os/" rel="self" type="application/rss+xml" /><item>
+  <title>磁盘存储器的管理</title>
+  <link>https://shiqustudio.github.io/cipanadmin/</link>
+  <pubDate>Mon, 04 Mar 2019 23:08:32 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cipanadmin/</guid>
+  <description><![CDATA[外存的组织方式 连续组织方式 连续组织方式的优点 顺序访问容易 顺序访问速度快 连续组织方式的缺点 分配连续的存储空间 必须知道文件长度 删除与插入数据不灵]]></description>
+</item>
+</channel>
+</rss>

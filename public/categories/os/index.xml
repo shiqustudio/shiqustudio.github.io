@@ -1,0 +1,116 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>OS - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/os/</link>
+    <description>OS - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/os/" rel="self" type="application/rss+xml" /><item>
+  <title>不同系统的换行符的差异</title>
+  <link>https://shiqustudio.github.io/newline/</link>
+  <pubDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/newline/</guid>
+  <description><![CDATA[<p>换行符（通常称为行尾、行尾 (EOL)、下一行 (NEL) 或换行符）是字符编码规范（例如，ASCII、EBCDIC）中的控制字符或控制字符序列，用于表示一行文本的结尾和新文本的开头。</p>]]></description>
+</item>
+<item>
+  <title>linux 文件权限</title>
+  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <pubDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
+</item>
+<item>
+  <title>Cron 表达式的基本语法</title>
+  <link>https://shiqustudio.github.io/cron/</link>
+  <pubDate>Wed, 25 Mar 2020 09:19:44 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cron/</guid>
+  <description><![CDATA[<h2 id="基本语法">基本语法</h2>
+<blockquote>
+<p><code>&lt;秒&gt; &lt;分钟&gt; &lt;小时&gt; &lt;日期 day-of-month&gt; &lt;月份&gt; &lt;星期 day-of-week&gt;</code></p>
+</blockquote>
+<p>Cron 表达式是一个具有时间含义的字符串，字符串以 5 个空格隔开，分为 6 个域，格式为 <code>X X X X X X</code>。其中 X 是一个域的占位符。单个域有多个取值时，使用半角逗号，隔开取值。每个域可以是确定的取值，也可以是具有逻辑意义的特殊字符。</p>]]></description>
+</item>
+<item>
+  <title>本地搭建网站服务器并穿透内网</title>
+  <link>https://shiqustudio.github.io/ngrok/</link>
+  <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <description><![CDATA[<blockquote>
+<p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>ubuntu &#43; windows 双系统默认启动项设置</title>
+  <link>https://shiqustudio.github.io/windefault/</link>
+  <pubDate>Thu, 21 Mar 2019 12:48:30 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/windefault/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/windefault/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>双系统默认启动项是 Ubuntu，而日常使用最多的还是 Windows，所以说很不方便，一不小心就开机到 Ubuntu 去了。今天来设置一下。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>宝塔面板安装</title>
+  <link>https://shiqustudio.github.io/bt/</link>
+  <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/bt/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>]]></description>
+</item>
+<item>
+  <title>win10,ubuntu 双系统时间不一致</title>
+  <link>https://shiqustudio.github.io/ubuntutime/</link>
+  <pubDate>Fri, 15 Mar 2019 14:28:10 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ubuntutime/</guid>
+  <description><![CDATA[<blockquote>
+<p>我的 Ubuntu 和 Windows 双系统是 Ubuntu 是第一启动项，所以总是开机忘记点下键，一进 Ubuntu 系统时间就不对了（总是少了 8 小时），回到 Windows 时间也是错的。知道是错的调整一下还好。忘记调了有时候真的会误事。比如说 git 版本控制提交会遇到问题种种等。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>磁盘存储器的管理</title>
+  <link>https://shiqustudio.github.io/cipanadmin/</link>
+  <pubDate>Mon, 04 Mar 2019 23:08:32 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cipanadmin/</guid>
+  <description><![CDATA[外存的组织方式 连续组织方式 连续组织方式的优点 顺序访问容易 顺序访问速度快 连续组织方式的缺点 分配连续的存储空间 必须知道文件长度 删除与插入数据不灵]]></description>
+</item>
+<item>
+  <title>通过 bat 批处理文件自动提交博客代码</title>
+  <link>https://shiqustudio.github.io/commit-bat/</link>
+  <pubDate>Sat, 17 Nov 2018 14:25:49 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/commit-bat/</guid>
+  <description><![CDATA[<blockquote>
+<p>前面我有文章提到怎么提交本地文件到 github,coding 等远程仓库。每次可以分为三个步骤</p>
+<ul>
+<li>git add * （添加需要提交的文件，这里全选）</li>
+<li>git commit -m &ldquo;提交信息&rdquo;</li>
+<li>git push</li>
+</ul>
+<p>但是这样感觉很麻烦每次都要重复输入提交命令和提示信息。
+这个时候可以用到 windows 批处理 bat 文件 (linux 的话可以用 shell 脚本）。用完发现好用到不行！</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>shell 脚本初体验</title>
+  <link>https://shiqustudio.github.io/shell/</link>
+  <pubDate>Mon, 29 Oct 2018 11:57:39 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/shell/</guid>
+  <description><![CDATA[<p>今天上机学了几个小命令</p>
+<ul>
+<li>read</li>
+<li>echo</li>
+<li>if</li>
+</ul>
+<p>然后自己写了一个小脚本觉得还挺有趣的</p>]]></description>
+</item>
+</channel>
+</rss>

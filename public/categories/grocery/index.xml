@@ -1,0 +1,112 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Grocery - 分类 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/categories/grocery/</link>
+    <description>Grocery - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 31 Jul 2022 13:54:14 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/grocery/" rel="self" type="application/rss+xml" /><item>
+  <title>自定义 ohmyzsh 主题</title>
+  <link>https://shiqustudio.github.io/ohmyzsh-custom/</link>
+  <pubDate>Sun, 31 Jul 2022 13:54:14 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ohmyzsh-custom/</guid>
+  <description><![CDATA[<p>ohmyzsh 自带了很多主题，也有很多没有收录的扩展主题，我就想要个简约的主题，但是每个都差点意思，干脆改一个主题。</p>]]></description>
+</item>
+<item>
+  <title>判断三角形的黑盒测试</title>
+  <link>https://shiqustudio.github.io/judgetriangle/</link>
+  <pubDate>Sun, 26 May 2019 18:50:53 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/judgetriangle/</guid>
+  <description><![CDATA[<blockquote>
+<p>黑盒测试着重测试软件功能，它并不涉及程序的内部结构和内容特性，主要根据规格说明，只依靠被测试程序的输入和输出之间关系或程序的功能来设计测试用例。<br>
+白盒测试则清楚程序内部的结构以及是如何运作的，因此白盒测试需要对系统内部的结构和工作原理有一个清楚的了解。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>宝塔面板安装 ImgURL 图床</title>
+  <link>https://shiqustudio.github.io/imgurl/</link>
+  <pubDate>Thu, 16 May 2019 20:31:33 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/imgurl/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/imgurl/images/1.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>ImgURL 是一个开源、免费的图床程序，ImgURL 2.x 之后对环境要求更高，尤其是 ImageMagick 组件的支持，很多朋友不清楚怎样安装这个组件，这篇文章分享宝塔面板安装 ImgURL 2.x 图床的过程（包括 ImgURL 2.x 需要的各种组件）
+<a href="https://www.xiaoz.me/archives/12081"target="_blank" rel="external nofollow noopener noreferrer">阅读原文</a></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>条件注释判断浏览器版本&lt;!--[if lt IE 9]&gt;;</title>
+  <link>https://shiqustudio.github.io/ifzhushi/</link>
+  <pubDate>Fri, 10 May 2019 13:08:27 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/ifzhushi/</guid>
+  <description><![CDATA[<blockquote>
+<p><span>&lt;!--[if !IE]&gt;&lt;!--&gt; 除 IE 外都可识别 &lt;!--&lt;![endif]--&gt;</span><br><span>&lt;!--[if IE]&gt; 所有的 IE 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 6]&gt; 仅 IE6 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 6]&gt; IE6 以及 IE6 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 6]&gt; IE6 以及 IE6 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 7]&gt; 仅 IE7 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 7]&gt; IE7 以及 IE7 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 7]&gt; IE7 以及 IE7 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 8]&gt; 仅 IE8 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 9]&gt; 仅 IE9 可识别 &lt;![endif]--&gt;</span></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>vps 配置 ssl 及 https 重定向</title>
+  <link>https://shiqustudio.github.io/http2https/</link>
+  <pubDate>Thu, 28 Mar 2019 19:40:54 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/http2https/</guid>
+  <description><![CDATA[<blockquote>
+<p>记录自己在配置 vps 及博客 SSL 证书时遇到的问题。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>博採眾長 app</title>
+  <link>https://shiqustudio.github.io/fas-app/</link>
+  <pubDate>Mon, 12 Nov 2018 16:04:04 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/fas-app/</guid>
+  <description><![CDATA[<h3 id="介绍">介绍</h3>
+<p>使用 fusion app 对网页进行的封装。<br>
+功能：</p>
+<ul>
+<li>浏览本博客，主页</li>
+<li>私人网盘</li>
+<li>2048 等小游戏</li>
+<li>在线客服，QQ 等</li>
+<li>pc 与移动浏览器标识切换</li>
+<li>留言，打赏，博主日志等</li>
+<li>分享功能，分享到 QQ，微信，浏览器打开等</li>
+<li>app 内添加书签，自动记录历史记录，刷新等</li>
+<li><strong>配合博客的<code>PWA + quicklink</code>功能可实现离线浏览</strong></li>
+</ul>]]></description>
+</item>
+<item>
+  <title>caddy-两步搭建超简单云盘</title>
+  <link>https://shiqustudio.github.io/caddy-file/</link>
+  <pubDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/caddy-file/</guid>
+  <description><![CDATA[安装 1 2 cd ~ curl https://getcaddy.com | bash -s personal http.filemanager 编写配置文件 1 vim Caddyfile 内容如下： 1 2 3 4 5 :80 { filemanager / /sdcard timeouts none gzip } 这里的 8080 端口号可以随意指定，如果在手机 termux 等搭建，由于手机权]]></description>
+</item>
+<item>
+  <title>windows 上搭建 web 服务器</title>
+  <link>https://shiqustudio.github.io/web-server-win/</link>
+  <pubDate>Fri, 26 Oct 2018 21:56:18 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/web-server-win/</guid>
+  <description><![CDATA[我用的 win10 打开控制面板 选择并进入“程序”，双击“启用或关闭 Windows 服务”，在弹出的窗口中选择“Internet Information Services”下面所有地选项，点]]></description>
+</item>
+<item>
+  <title>ttf 字体压缩</title>
+  <link>https://shiqustudio.github.io/web-font/</link>
+  <pubDate>Wed, 17 Oct 2018 21:38:06 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/web-font/</guid>
+  <description><![CDATA[安装 nodeJs 这个不多说，都有。 安装字蛛 输入命令 1 npm install font-spider -g 运行 安装成功之后就开始压缩了 我的 css 1 2 3 4 5 6 &lt;style type=&#34;text/css&#34;&gt; @font-face { font-family: MMT; src: url(&#34;font/MMT_579767_SOAJ0_0.ttf&#34;); } &lt;/style&gt; 生成新的字体库，命令行输]]></description>
+</item>
+<item>
+  <title>流水线</title>
+  <link>https://shiqustudio.github.io/liushuixian/</link>
+  <pubDate>Tue, 09 Oct 2018 16:21:04 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/liushuixian/</guid>
+  <description><![CDATA[概念 流水线是指在程序执行时多条指令重叠进行操作的一种准并行处理实现技术。各种部件同时处理是针对不同指令而言的，它们可同时为多条指令的不同部分]]></description>
+</item>
+</channel>
+</rss>

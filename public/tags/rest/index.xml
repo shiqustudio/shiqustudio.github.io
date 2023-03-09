@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>REST - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/rest/</link>
+    <description>REST - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Nov 2019 19:06:05 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/rest/" rel="self" type="application/rss+xml" /><item>
+  <title>RESTful</title>
+  <link>https://shiqustudio.github.io/restful/</link>
+  <pubDate>Thu, 14 Nov 2019 19:06:05 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/restful/</guid>
+  <description><![CDATA[<blockquote>
+<p>RESTful 是一种系统开发设计风格、原则。可视情况调整，以下参考来源 <a href="https://www.rfc-editor.org/rfc/rfc5789"target="_blank" rel="external nofollow noopener noreferrer">RFC5789</a></p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>Web 开发规则，代码规范</title>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <description><![CDATA[精神 绝不写死代码，硬编码 不留不要用的、垃圾代码 Git Master 的 BUG 必须最少且趋近于零，为最稳定的版本 每次 Commit 信息应该准确填写。不可模棱两可，eg: 修复 BU]]></description>
+</item>
+</channel>
+</rss>

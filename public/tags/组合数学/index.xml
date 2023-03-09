@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>组合数学 - 标签 - 我的 Hugo FixIt 网站</title>
+    <link>https://shiqustudio.github.io/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</link>
+    <description>组合数学 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 10 Aug 2018 22:11:00 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+  <title>石子阵列（组合数学）</title>
+  <link>https://shiqustudio.github.io/nowcoder157a/</link>
+  <pubDate>Fri, 10 Aug 2018 22:11:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/nowcoder157a/</guid>
+  <description><![CDATA[链接：https://www.nowcoder.com/acm/contest/157/A 来源：牛客网 题目描述 xb 有 m 种石子，每种无限个，Ta]]></description>
+</item>
+<item>
+  <title>Dreamoon and WiFi（组合数学）</title>
+  <link>https://shiqustudio.github.io/codeforces476b/</link>
+  <pubDate>Fri, 10 Aug 2018 17:44:47 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/codeforces476b/</guid>
+  <description><![CDATA[题目链接 题目大意 就是给定两个字符串，第一个字符串由&quot;+&quot;,&quot;-&ldquo;组成，第二个字符串由&rdquo;]]></description>
+</item>
+<item>
+  <title>Codeforces Round 502(Div.1 &#43; Div.2)</title>
+  <link>https://shiqustudio.github.io/cfcontest1017/</link>
+  <pubDate>Thu, 09 Aug 2018 10:48:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/cfcontest1017/</guid>
+  <description><![CDATA[<h3 id="a-the-rankhttpscodeforcescomcontest1017problema"><a href="https://codeforces.com/contest/1017/problem/A"target="_blank" rel="external nofollow noopener noreferrer">A. The Rank</a></h3>
+<p>题目大意：<br>
+给出 n 个学生的成绩，Thomas Smith 的成绩是第一行，然后要按总成绩进行排序，总分相同的按编号从小到大排；<br>
+开始看还以为要写 sort 的 cmp 函数进行多条件排序，敲完才发现其实只要按总分就可以了，因为托马斯的 id 是一，必然会排在前面。</p>]]></description>
+</item>
+<item>
+  <title>Wannafly 挑战赛 18-序列</title>
+  <link>https://shiqustudio.github.io/wannafly-18/</link>
+  <pubDate>Wed, 18 Jul 2018 08:40:21 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/wannafly-18/</guid>
+  <description><![CDATA[时间限制：C/C++ 1 秒，其他语言 2 秒 空间限制：C/C++ 262144K，其他语言 524288K 64bit IO Format: %lld 题目描述 有一个长度为 n 的序列 a，已知 a[1]=a]]></description>
+</item>
+</channel>
+</rss>
