@@ -1,0 +1,2 @@
+# shiqustudio.github.io
+hugo
