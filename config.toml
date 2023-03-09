@@ -163,7 +163,7 @@ theme = "FixIt"
   gitRepo = ""
   #  哪种哈希函数用来 SRI, 为空时表示不使用 SRI
   # ["sha256", "sha384", "sha512", "md5"]
-  fingerprint = ""
+  fingerprint = "sha256"
   #  日期格式
   dateFormat = "2006-01-02"
   # 网站图片，用于 Open Graph 和 Twitter Cards
@@ -275,11 +275,11 @@ theme = "FixIt"
     license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
     #  网站创立时间
     [params.footer.siteTime]
-      enable = false
+      enable = true
       animate = true
       icon = "fa-solid fa-heartbeat"
-      pre = ""
-      value = "" # e.g. "2021-12-18T16:15:22+08:00"
+      pre = "博客已运行"
+      value = "2021-05-28T20:01:01+08:00" # e.g. "2021-12-18T16:15:22+08:00"
     #  页面底部行排序，可选值：["first", 0, 1, 2, 3, 4, 5, "last"]
     [params.footer.order]
       powered = 0
@@ -589,7 +589,7 @@ theme = "FixIt"
       Mix = false
     #  评论系统设置
     [params.page.comment]
-      enable = false
+      enable = true
       #  Artalk 评论系统设置 (https://artalk.js.org/)
       [params.page.comment.artalk]
         enable = false
@@ -785,7 +785,7 @@ theme = "FixIt"
   [params.ibruce]
     enable = true
     # 在文章中开启
-    enablePost = false
+    enablePost = true
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
   [params.verification]
