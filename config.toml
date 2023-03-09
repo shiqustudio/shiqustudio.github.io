@@ -284,7 +284,7 @@ theme = "FixIt"
     [params.footer.order]
       powered = 0
       copyright = 0
-      statistics = 0
+      statistics = firsts
       visitor = 0
       beian = 0
 
