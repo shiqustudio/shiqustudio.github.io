@@ -284,7 +284,7 @@ theme = "FixIt"
     [params.footer.order]
       powered = 0
       copyright = 0
-      statistics = firsts
+      statistics = "first"
       visitor = 0
       beian = 0
 
@@ -547,14 +547,14 @@ theme = "FixIt"
       fullscreen = true
     #  赞赏设置
     [params.page.reward]
-      enable = false
-      animation = false
+      enable = true
+      animation = true
       # 相对于页脚的位置，可选值：["before", "after"]
       position = "after"
       # comment = "Buy me a coffee"
       [params.page.reward.ways]
-        # wechatpay = "/images/wechatpay.png"
-        # alipay = "/images/alipay.png"
+        wechatpay = "/images/wechatpay.png"
+        alipay = "/images/alipay.png"
         # paypal = "/images/paypal.png"
         # bitcoin = "/images/bitcoin.png"
     #  文章页面的分享信息设置
@@ -592,7 +592,7 @@ theme = "FixIt"
       enable = true
       #  Artalk 评论系统设置 (https://artalk.js.org/)
       [params.page.comment.artalk]
-        enable = false
+        enable = true
         server = "https://yourdomain/api/"
         site = "默认站点"
         placeholder = ""
