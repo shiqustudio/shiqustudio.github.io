@@ -446,7 +446,7 @@ theme = "FixIt"
     #  是否在搜索结果中隐藏一篇文章
     hiddenFromSearch = false
     #  是否使用 twemoji
-    twemoji = false
+    twemoji = true
     # 是否使用 lightgallery
     #  如果设为 "force"，文章中的图片将强制按照画廊形式呈现
     lightgallery = false
@@ -468,7 +468,7 @@ theme = "FixIt"
     # gravatarForce = true
     #  开启自动书签支持
     # 如果为 true，则在关闭页面时保存阅读进度
-    autoBookmark = false
+    autoBookmark = true
     #  是否使用 字数统计
     wordCount = true
     #  是否使用 预计阅读
@@ -476,7 +476,7 @@ theme = "FixIt"
     #  文章结束标志
     endFlag = ""
     #  是否开启即时页面
-    instantPage = false
+    instantPage = true
 
     #  转载配置
     [params.page.repost]
@@ -592,7 +592,7 @@ theme = "FixIt"
       enable = true
       #  Artalk 评论系统设置 (https://artalk.js.org/)
       [params.page.comment.artalk]
-        enable = true
+        enable = false
         server = "https://yourdomain/api/"
         site = "默认站点"
         placeholder = ""
@@ -700,16 +700,20 @@ theme = "FixIt"
         katex = false
       #  Giscus 评论系统设置
       [params.page.comment.giscus]
-        enable = false
-        repo = ""
-        repoId = ""
-        category = ""
-        categoryId = ""
-        mapping = ""
+        enable = true
+        repo = "shiqustudio/giscus"
+        repoId = "R_kgDOJHwBwg"
+        category = "Announcements"
+        categoryId = "DIC_kwDOJHwBws4CUxlL"
+        mapping = "url"
+        strict="0"
         term = ""
         reactionsEnabled = "1"
         emitMetadata = "0"
         inputPosition = "bottom" # ["top", "bottom"]
+        theme="preferred_color_scheme"
+        lang="zh-CN"
+        crossorigin="anonymous"
         lightTheme = "light"
         darkTheme = "dark"
         lazyLoad = true
