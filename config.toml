@@ -160,7 +160,7 @@ theme = "FixIt"
   # 网站默认主题样式 ["light", "dark", "auto"]
   defaultTheme = "auto"
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = ""
+  gitRepo = "https://shiqustudio.github.io/"
   #  哪种哈希函数用来 SRI, 为空时表示不使用 SRI
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = "sha256"
@@ -243,7 +243,7 @@ theme = "FixIt"
       # 你可以在名称（允许 HTML 格式）之后添加其他信息，例如图标
       post = ""
       #  是否为标题显示打字机动画
-      typeit = false
+      typeit = true
     #  页面头部导航栏副标题配置
     [params.header.subtitle]
       # 副标题名称
@@ -332,7 +332,7 @@ theme = "FixIt"
       # 主页显示头像的 URL
       avatarURL = "/images/avatar.png"
       #  头像菜单链接的 identifier
-      avatarMenu = ""
+      avatarMenu = "https://shiqustudio.github.io/"
       #  主页显示的网站标题（支持 HTML 格式）
       title = ""
       # 主页显示的网站副标题
@@ -449,7 +449,7 @@ theme = "FixIt"
     twemoji = true
     # 是否使用 lightgallery
     #  如果设为 "force"，文章中的图片将强制按照画廊形式呈现
-    lightgallery = false
+    lightgallery = true
     #  是否使用 ruby 扩展语法
     ruby = true
     #  是否使用 fraction 扩展语法
@@ -474,7 +474,7 @@ theme = "FixIt"
     #  是否使用 预计阅读
     readingTime = true
     #  文章结束标志
-    endFlag = ""
+    endFlag = "（完）"
     #  是否开启即时页面
     instantPage = true
 
@@ -494,7 +494,7 @@ theme = "FixIt"
       position = "right"
     #  在文章开头显示提示信息，提醒读者文章内容可能过时
     [params.page.expirationReminder]
-      enable = false
+      enable = true
       # 如果文章最后更新于这天数之前，显示提醒
       reminder = 90
       # 如果文章最后更新于这天数之前，显示警告
@@ -944,7 +944,7 @@ theme = "FixIt"
 [author]
   name = "xucong"
   email = ""
-  link = ""
+  link = "https://shiqustudio.github.io/"
   avatar = "/images/avatar.png" # 
 
 # 网站地图配置
