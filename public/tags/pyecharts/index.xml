@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>pyecharts - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>pyecharts - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/pyecharts/</link>
-    <description>pyecharts - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 20 Apr 2019 15:44:57 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/pyecharts/" rel="self" type="application/rss+xml" /><item>
+    <description>pyecharts - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sat, 20 Apr 2019 15:44:57 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/pyecharts/" rel="self" type="application/rss+xml" /><item>
   <title>python 玩微信：初探 wxpy</title>
-  <link>https://shiqustudio.github.io/wxpy1/</link>
+  <link>https://shiqustudio.github.io/posts/wxpy1/</link>
   <pubDate>Sat, 20 Apr 2019 15:44:57 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/wxpy1/</guid>
+  <guid>https://shiqustudio.github.io/posts/wxpy1/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/wxpy1/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -21,8 +22,8 @@
 </blockquote>
 <h2 id="前期准备">前期准备</h2>
 <ul>
-<li><a href="https://github.com/youfou/wxpy"target="_blank" rel="external nofollow noopener noreferrer">wxpy</a></li>
-<li><a href="https://github.com/pyecharts/pyecharts"target="_blank" rel="external nofollow noopener noreferrer">pyecharts</a>（百度 echarts）</li>
+<li><a href="https://github.com/youfou/wxpy"target="_blank" rel="external nofollow noopener noreferrer">wxpy<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/pyecharts/pyecharts"target="_blank" rel="external nofollow noopener noreferrer">pyecharts<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>（百度 echarts）</li>
 </ul>
 <h2 id="查看微信好友男女比例">查看微信好友男女比例</h2>
 <div class="highlight"><div class="chroma">
@@ -157,7 +158,7 @@
 </div>
 </div><p></p>
 <blockquote>
-<p><strong>以上参考简书 <a href="https://www.jianshu.com/p/c0baf3c6db15"target="_blank" rel="external nofollow noopener noreferrer">陈思煜</a></strong></p>
+<p><strong>以上参考简书 <a href="https://www.jianshu.com/p/c0baf3c6db15"target="_blank" rel="external nofollow noopener noreferrer">陈思煜<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 </blockquote>
 <h2 id="统计所有群男女数目">统计所有群男女数目</h2>
 <blockquote>

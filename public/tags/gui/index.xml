@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>GUI - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>GUI - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/gui/</link>
-    <description>GUI - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 08 May 2019 20:55:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/gui/" rel="self" type="application/rss+xml" /><item>
+    <description>GUI - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Wed, 08 May 2019 20:55:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/gui/" rel="self" type="application/rss+xml" /><item>
   <title>java 实现一个单线程的资源下载器</title>
-  <link>https://shiqustudio.github.io/singlethreaddown/</link>
+  <link>https://shiqustudio.github.io/posts/singlethreaddown/</link>
   <pubDate>Wed, 08 May 2019 20:55:02 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/singlethreaddown/</guid>
+  <guid>https://shiqustudio.github.io/posts/singlethreaddown/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -222,10 +223,10 @@
 </item>
 <item>
   <title>匿名类在可视化界面中的应用</title>
-  <link>https://shiqustudio.github.io/qframe/</link>
+  <link>https://shiqustudio.github.io/posts/qframe/</link>
   <pubDate>Fri, 15 Mar 2019 22:31:28 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/qframe/</guid>
+  <guid>https://shiqustudio.github.io/posts/qframe/</guid>
   <description><![CDATA[<blockquote>
 <p>java 中匿名类用的最多的地方就是可视化界面设计中，特别是将<code>事件监听器</code>注册到某个组件上的时候。</p>
 </blockquote>
@@ -307,7 +308,7 @@
 <p></p>
 <h2 id="参考">参考</h2>
 <ul>
-<li><a href="https://www.cnblogs.com/fantasy01/p/3911488.html"target="_blank" rel="external nofollow noopener noreferrer">JOptionPane 的使用</a></li>
+<li><a href="https://www.cnblogs.com/fantasy01/p/3911488.html"target="_blank" rel="external nofollow noopener noreferrer">JOptionPane 的使用<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>]]></description>
 </item>
 </channel>

@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>OS - 分类 - 我的 Hugo FixIt 网站</title>
+    <title>OS - 分类 - 拾趣</title>
     <link>https://shiqustudio.github.io/categories/os/</link>
-    <description>OS - 分类 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/os/" rel="self" type="application/rss+xml" /><item>
+    <description>OS - 分类 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/os/" rel="self" type="application/rss+xml" /><item>
   <title>不同系统的换行符的差异</title>
-  <link>https://shiqustudio.github.io/newline/</link>
+  <link>https://shiqustudio.github.io/posts/newline/</link>
   <pubDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/newline/</guid>
+  <guid>https://shiqustudio.github.io/posts/newline/</guid>
   <description><![CDATA[<p>换行符（通常称为行尾、行尾 (EOL)、下一行 (NEL) 或换行符）是字符编码规范（例如，ASCII、EBCDIC）中的控制字符或控制字符序列，用于表示一行文本的结尾和新文本的开头。</p>
 <p>周五下班的时候想在 windows 电脑上跑一下 FixIt 看看有没有什么 bug, 然后就发现了 typyit shortcode 开头多出一行空行，mermaid shortcode 则直接语法报错了。</p>
 <p>看了一下代码明明有 trim <code>\n</code> 处理，而且 Vercel 打包和 Mac 上运行打包都没问题。debug 了一下才发现 Windows 系统上的换行是 <code>\r\n</code>, 而 Mac 系统上的换行是 <code>\n</code>。于是查了一下不同系统的换行符的差异问题。</p>
@@ -49,15 +50,15 @@
 <p>甚至因此，Linux 系统下提供有两个命令用来进行 Windows 和 Unix 文件的转化：<code>dos2unix</code>和 <code>unix2dos</code>。</p>
 <h2 id="参考">参考</h2>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Newline"target="_blank" rel="external nofollow noopener noreferrer">Newline</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Newline"target="_blank" rel="external nofollow noopener noreferrer">Newline<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>]]></description>
 </item>
 <item>
   <title>linux 文件权限</title>
-  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <link>https://shiqustudio.github.io/posts/linux-permission/</link>
   <pubDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <guid>https://shiqustudio.github.io/posts/linux-permission/</guid>
   <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>
 <h2 id="查看文件权限">查看文件权限</h2>
 <p>查看 linux 系统下的文件权限，可以使用 <code>ll</code> 命令或者 <code>ls</code> 命令 带 <code>-l</code>（长列表选项）</p>
@@ -170,10 +171,10 @@
 </item>
 <item>
   <title>Cron 表达式的基本语法</title>
-  <link>https://shiqustudio.github.io/cron/</link>
+  <link>https://shiqustudio.github.io/posts/cron/</link>
   <pubDate>Wed, 25 Mar 2020 09:19:44 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/cron/</guid>
+  <guid>https://shiqustudio.github.io/posts/cron/</guid>
   <description><![CDATA[<h2 id="基本语法">基本语法</h2>
 <blockquote>
 <p><code>&lt;秒&gt; &lt;分钟&gt; &lt;小时&gt; &lt;日期 day-of-month&gt; &lt;月份&gt; &lt;星期 day-of-week&gt;</code></p>
@@ -377,10 +378,10 @@
 </item>
 <item>
   <title>本地搭建网站服务器并穿透内网</title>
-  <link>https://shiqustudio.github.io/ngrok/</link>
+  <link>https://shiqustudio.github.io/posts/ngrok/</link>
   <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <guid>https://shiqustudio.github.io/posts/ngrok/</guid>
   <description><![CDATA[<blockquote>
 <p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
 </blockquote>
@@ -398,10 +399,10 @@
 </item>
 <item>
   <title>ubuntu &#43; windows 双系统默认启动项设置</title>
-  <link>https://shiqustudio.github.io/windefault/</link>
+  <link>https://shiqustudio.github.io/posts/windefault/</link>
   <pubDate>Thu, 21 Mar 2019 12:48:30 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/windefault/</guid>
+  <guid>https://shiqustudio.github.io/posts/windefault/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/windefault/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -427,13 +428,13 @@
 </item>
 <item>
   <title>宝塔面板安装</title>
-  <link>https://shiqustudio.github.io/bt/</link>
+  <link>https://shiqustudio.github.io/posts/bt/</link>
   <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/bt/</guid>
+  <guid>https://shiqustudio.github.io/posts/bt/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
-      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h2 id="系统要求">系统要求</h2>
 <blockquote>
 <p>操作系统：全新系统（支持 CentOS、Ubuntu、Debian、Fedora、Deepin)，<br>
@@ -484,10 +485,10 @@
 </item>
 <item>
   <title>win10,ubuntu 双系统时间不一致</title>
-  <link>https://shiqustudio.github.io/ubuntutime/</link>
+  <link>https://shiqustudio.github.io/posts/ubuntutime/</link>
   <pubDate>Fri, 15 Mar 2019 14:28:10 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ubuntutime/</guid>
+  <guid>https://shiqustudio.github.io/posts/ubuntutime/</guid>
   <description><![CDATA[<blockquote>
 <p>我的 Ubuntu 和 Windows 双系统是 Ubuntu 是第一启动项，所以总是开机忘记点下键，一进 Ubuntu 系统时间就不对了（总是少了 8 小时），回到 Windows 时间也是错的。知道是错的调整一下还好。忘记调了有时候真的会误事。比如说 git 版本控制提交会遇到问题种种等。</p>
 </blockquote>
@@ -543,10 +544,10 @@
 </item>
 <item>
   <title>磁盘存储器的管理</title>
-  <link>https://shiqustudio.github.io/cipanadmin/</link>
+  <link>https://shiqustudio.github.io/posts/cipanadmin/</link>
   <pubDate>Mon, 04 Mar 2019 23:08:32 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/cipanadmin/</guid>
+  <guid>https://shiqustudio.github.io/posts/cipanadmin/</guid>
   <description><![CDATA[<h2 id="外存的组织方式">外存的组织方式</h2>
 <h3 id="连续组织方式">连续组织方式</h3>
 <ul>
@@ -814,10 +815,10 @@
 </item>
 <item>
   <title>通过 bat 批处理文件自动提交博客代码</title>
-  <link>https://shiqustudio.github.io/commit-bat/</link>
+  <link>https://shiqustudio.github.io/posts/commit-bat/</link>
   <pubDate>Sat, 17 Nov 2018 14:25:49 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/commit-bat/</guid>
+  <guid>https://shiqustudio.github.io/posts/commit-bat/</guid>
   <description><![CDATA[<blockquote>
 <p>前面我有文章提到怎么提交本地文件到 github,coding 等远程仓库。每次可以分为三个步骤</p>
 <ul>
@@ -895,10 +896,10 @@
 </item>
 <item>
   <title>shell 脚本初体验</title>
-  <link>https://shiqustudio.github.io/shell/</link>
+  <link>https://shiqustudio.github.io/posts/shell/</link>
   <pubDate>Mon, 29 Oct 2018 11:57:39 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shell/</guid>
+  <guid>https://shiqustudio.github.io/posts/shell/</guid>
   <description><![CDATA[<p>今天上机学了几个小命令</p>
 <ul>
 <li>read</li>
@@ -1024,6 +1025,253 @@
 
 
 </p>]]></description>
+</item>
+<item>
+  <title>云服务器 CentOS 系统搭建 web 服务</title>
+  <link>https://shiqustudio.github.io/posts/web-server-yun/</link>
+  <pubDate>Mon, 29 Oct 2018 09:15:58 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/web-server-yun/</guid>
+  <description><![CDATA[<h3 id="搭建-apache-web-服务">搭建 Apache web 服务</h3>
+<ol>
+<li>安装 Apache 超文本传输协议 (HTTP) 服务器的主程序</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[root@VM_0_6_centos /]# yum install -y httpd
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>注意安装目录，可通过 cd 命令切换。</p>
+<ol start="2">
+<li>启动 HTTP 服务</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[root@VM_0_6_centos /]# systemctl start httpd.service
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>如果启动失败，可通过 systemctl status httpd.service 查看错误原因。<br>
+启动成功，证明 http 服务已经可以使用，发现还需要把本地文件传到服务器。<br>
+默认根目录<code>/var/www/html/</code></p>
+<h3 id="使用-ssh-连接服务器">使用 SSH 连接服务器</h3>
+<p>尝试了两种方式：PuTTY 和 Xshell（推荐）</p>
+<h4 id="xshell-方式">Xshell 方式</h4>
+<p>官网下载安装 Xshell 打开，输入 ip 账号密码连接主机。</p>
+<p>使用 lrzsz 方式上传下载文件<br>
+步骤 1：在服务器安装 lrzsz</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[root@VM_0_6_centos /]# yum -y install lrzsz
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>步骤 2：输入命令<code>rz</code>打开上传窗口（可以选择多个文件。)<br>
+使用<code>sz</code>文件名命令可打开从服务器下载文件的保存窗口。</p>
+<h3 id="修改-http-配置">修改 HTTP 配置</h3>
+<p>1.VIM 编辑器打开配置文件</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[root@VM_0_6_centos /]# vim /etc/httpd/conf/httpd.conf
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ol start="2">
+<li>
+<p>按<code>I</code>键进入编辑模式</p>
+</li>
+<li>
+<p>找到并修改以下内容</p>
+</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">ServerAdmin 管理员邮箱，用于浏览器请求报错时展示
+</span></span><span class="line"><span class="cl">DocumentRoot 访问根目录（默认：/var/www/html），如项目存放在其他地方，可修改为项目存放位置
+</span></span><span class="line"><span class="cl">&lt;Directory &#34;/var/www/html&#34;&gt; 同 DocumentRoot 配置
+</span></span><span class="line"><span class="cl">ServerName 服务器 IP 或 域名
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ol start="4">
+<li>
+<p>按下 ESC 键输入<code>:wq</code>保存退出</p>
+</li>
+<li>
+<p>重启服务<code>service httpd restart</code></p>
+</li>
+<li>
+<p>打开浏览器，输入地址访问<br>
+如：我的项目索引 html 路径为 <code>love/index.html</code>，输入<br>
+<code>http://IP 地址或域名/love/index.html</code></p>
+</li>
+<li>
+<p>访问不成功，先检查网络，再查看 http 服务是否开启，最后检查配置；<br>
+访问成功，配置完成。</p>
+</li>
+</ol>
+]]></description>
+</item>
+<item>
+  <title>linux 编程初体验</title>
+  <link>https://shiqustudio.github.io/posts/linux-hello-c/</link>
+  <pubDate>Mon, 15 Oct 2018 21:19:27 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/linux-hello-c/</guid>
+  <description><![CDATA[<blockquote>
+<p>在 Linux 上编译 c 语言文件。</p>
+</blockquote>
+<h3 id="打开-vim-编辑器">打开 vim 编辑器</h3>
+<p>（没有就用 vi, 或者先安装 vim<code>sudo apt-get install vim</code>)</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ vim
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="编辑文件">编辑文件</h3>
+<p>打开文件编辑器之后编辑文件
+</p>
+<p>首先按<code>Esc</code>再<code>:</code>进入末行命令<br>
+再保存为 hello.c 文件后退出</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">: w hello.c
+</span></span><span class="line"><span class="cl">: q
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>打开目录看看生成的文件</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ ls
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="编译生成可执行文件并执行">编译生成可执行文件并执行</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ gcc hello.c -o hello
+</span></span><span class="line"><span class="cl">$ ./hello
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p></p>
+<p>若权限不够则加可执行权限<code>chmod +x hello</code></p>
+]]></description>
+</item>
+<item>
+  <title>linux/centos 下的安装 git</title>
+  <link>https://shiqustudio.github.io/posts/linux-git/</link>
+  <pubDate>Sat, 22 Sep 2018 22:28:45 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/linux-git/</guid>
+  <description><![CDATA[<h3 id="下载-git">下载 git</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">wget https://github.com/git/git/archive/v2.14.1.zip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="安装依赖">安装依赖</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo yum -y install zlib-devel openssl-devel cpio expat-devel gettext-devel curl-devel perl-ExtUtils-CBuilder perl-ExtUtils-MakeMaker
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="解压-git">解压 git</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">unzip v2.14.1.zip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>注：
+unzip 命令用不了，具体步骤如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#yum list | grep zip/unzip 
+</span></span><span class="line"><span class="cl">#yum install zip
+</span></span><span class="line"><span class="cl">#yum install unzip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>基本完成，如果在编译的时候出现错误：<code>gcc : error trying to exec 'cc1plus': execvp : No sunch file or directory</code><br>
+可以用<code>gcc -v/g++ -v</code> 来查看 gcc 版本，会发现没有安装。安装如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#yum list | grep gcc
+</span></span><span class="line"><span class="cl">#yum install gcc-c++
+</span></span><span class="line"><span class="cl">#yum install unzip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="将-git-安装到usrlocal-上">将 git 安装到/usr/local 上</h3>
+<p>先进入 git 文件夹<br>
+编译<br>
+安装</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">cd git-2.14.1
+</span></span><span class="line"><span class="cl">make prefix=/usr/local all
+</span></span><span class="line"><span class="cl">make prefix=/usr/local install
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="验证是否安装完成">验证是否安装完成</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git --version
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>&hellip;</p>
+]]></description>
 </item>
 </channel>
 </rss>

@@ -1,15 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>euler - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>euler - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/euler/</link>
-    <description>euler - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 08 Aug 2018 17:10:07 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/euler/" rel="self" type="application/rss+xml" /><item>
+    <description>euler - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Wed, 08 Aug 2018 17:10:07 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/euler/" rel="self" type="application/rss+xml" /><item>
   <title>欧拉函数</title>
-  <link>https://shiqustudio.github.io/euler/</link>
+  <link>https://shiqustudio.github.io/posts/euler/</link>
   <pubDate>Wed, 08 Aug 2018 17:10:07 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/euler/</guid>
-  <description><![CDATA[<h3 id="_欧拉函数是求小于-x-并且和-x互质httpsbaikebaiducomiteme4ba92e8b4a8577412fraladdin-的数的个数_"><strong><em>欧拉函数是求小于 x 并且和 x<a href="https://baike.baidu.com/item/%E4%BA%92%E8%B4%A8/577412?fr=aladdin"target="_blank" rel="external nofollow noopener noreferrer">互质</a> 的数的个数</em></strong></h3>
+  <guid>https://shiqustudio.github.io/posts/euler/</guid>
+  <description><![CDATA[<h3 id="_欧拉函数是求小于-x-并且和-x互质httpsbaikebaiducomiteme4ba92e8b4a8577412fraladdin-的数的个数_"><strong><em>欧拉函数是求小于 x 并且和 x<a href="https://baike.baidu.com/item/%E4%BA%92%E8%B4%A8/577412?fr=aladdin"target="_blank" rel="external nofollow noopener noreferrer">互质<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的数的个数</em></strong></h3>
 <p>通式：φ(x)=x(1-1/p1)(1-1/p2)(1-1/p3)(1-1/p4)…..(1-1/pn)<br>
 <strong>其中 p1, p2……pn 为 x 的所有质因数，x 是不为 0 的整数</strong><br>
 φ(1)=1（唯一和 1 互质的数就是 1 本身）【注意：每种质因数只一个。比如 12=2<em>2</em>3】</p>
@@ -64,7 +65,7 @@
 </span></span><span class="line"><span class="cl"><span class="p">}</span>
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p><a href="https://blog.csdn.net/wangjian8006/article/details/7833319"target="_blank" rel="external nofollow noopener noreferrer">以上转载注明</a></p>
+</div><p><a href="https://blog.csdn.net/wangjian8006/article/details/7833319"target="_blank" rel="external nofollow noopener noreferrer">以上转载注明<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <p>//素数筛选法，先素数筛选，再求欧拉</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -160,7 +161,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="例题">例题</h3>
-<p><a href="https://vjudge.net/contest/238979#problem/A"target="_blank" rel="external nofollow noopener noreferrer">Bi-shoe and Phi-shoe</a> LightOJ - 1370</p>
+<p><a href="https://vjudge.net/contest/238979#problem/A"target="_blank" rel="external nofollow noopener noreferrer">Bi-shoe and Phi-shoe<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> LightOJ - 1370</p>
 <blockquote>
 <p>题意：<br>
 给一些数 Ai（第 i 个数），Ai 这些数代表的是某个数欧拉函数的值，我们要求出数 Ni 的欧拉函数值不小于 Ai。而我们要求的就是这些 Ni 这些数字的和 sum，而且我们想要 sum 最小，求出 sum 最小多少。</p>

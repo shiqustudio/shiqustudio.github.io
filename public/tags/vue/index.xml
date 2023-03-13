@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Vue - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>Vue - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/vue/</link>
-    <description>Vue - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 02 Mar 2021 21:46:40 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/vue/" rel="self" type="application/rss+xml" /><item>
+    <description>Vue - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Tue, 02 Mar 2021 21:46:40 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/vue/" rel="self" type="application/rss+xml" /><item>
   <title>基于 leancloud-storage 实现的无后端记账本</title>
   <link>https://shiqustudio.github.io/projects/bill-note/</link>
   <pubDate>Tue, 02 Mar 2021 21:46:40 &#43;0000</pubDate>
@@ -288,10 +289,10 @@ valine 可以實現無後端，那我是不是也可以，leancloud 文檔走一
 </item>
 <item>
   <title>Web 开发规则，代码规范</title>
-  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <link>https://shiqustudio.github.io/posts/dev-rules/</link>
   <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <guid>https://shiqustudio.github.io/posts/dev-rules/</guid>
   <description><![CDATA[<h2 id="精神">精神</h2>
 <ul>
 <li>绝不写死代码，硬编码</li>
@@ -455,7 +456,8 @@ valine 可以實現無後端，那我是不是也可以，leancloud 文檔走一
 <li><strong>每个函数应该使用块注释，注释应包含函数功能说明、参数说明</strong>。规则见：JSDoc、JavaDoc</li>
 <li>不必要的代码不要写，也应禁止放到注释里面！</li>
 <li>if-else 的 {} 严禁省略</li>
-<li>{} 起始一律跟在 前一个功能的尾巴，禁止分行</li>
+<li>
+</li>
 <li>代码规范、代码排版等可通过 eslint 等工具做统一处理</li>
 </ul>
 <h3 id="正确写法">正确写法</h3>

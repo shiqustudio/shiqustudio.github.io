@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Comparator - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>Comparator - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/comparator/</link>
-    <description>Comparator - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Jan 2019 13:13:10 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/comparator/" rel="self" type="application/rss+xml" /><item>
+    <description>Comparator - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Fri, 18 Jan 2019 13:13:10 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/comparator/" rel="self" type="application/rss+xml" /><item>
   <title>Arrays 类及基本使用</title>
-  <link>https://shiqustudio.github.io/java-arrays/</link>
+  <link>https://shiqustudio.github.io/posts/java-arrays/</link>
   <pubDate>Fri, 18 Jan 2019 13:13:10 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/java-arrays/</guid>
+  <guid>https://shiqustudio.github.io/posts/java-arrays/</guid>
   <description><![CDATA[<h3 id="主要方法">主要方法</h3>
 <ul>
 <li>static type[] copyof(type[] original,int length)</li>

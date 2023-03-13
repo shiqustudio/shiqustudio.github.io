@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>hexo - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>hexo - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/hexo/</link>
-    <description>hexo - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 03 Oct 2021 15:27:58 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/hexo/" rel="self" type="application/rss+xml" /><item>
+    <description>hexo - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 03 Oct 2021 15:27:58 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/hexo/" rel="self" type="application/rss+xml" /><item>
   <title>个人博客从 Hexo 迁移至 Hugo</title>
-  <link>https://shiqustudio.github.io/hexo-to-hugo/</link>
+  <link>https://shiqustudio.github.io/posts/hexo-to-hugo/</link>
   <pubDate>Sun, 03 Oct 2021 15:27:58 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hexo-to-hugo/</guid>
+  <guid>https://shiqustudio.github.io/posts/hexo-to-hugo/</guid>
   <description><![CDATA[<blockquote>
 <p>电脑升级 win 11 后，分盘操作存在 bug, 然后又不小心把装代码的盘格式化了，虽然都有备份到 github, 但是当时为了省事，hexo Node 安装的很多以来插件都没有备份，现在又下载不到了，所以 hexo 博客没办法完整复原，另外，早就觉得基于 Node 的 hexo 实在有些臃肿，且博客内容多了以后部署太慢，就干脆乘机换了好了，经过一段时间寻找，最终选择了基于 Go 的 hugo, 记录一下迁移过程及待办事项。</p>
 </blockquote>
@@ -19,12 +20,12 @@
 </blockquote>
 <p>那 hugo 基于编译语言 GO 构建，对于静态页面的构建肯定是碾压 hexo 的存在，其官方标语也是很直白 <code>&quot;The world’s fastest framework for building websites&quot;</code>, 作为先后使用过 hexo 和 hugo 的我来说，这确实名副其实。</p>
 <ul>
-<li><a href="https://gohugo.io"target="_blank" rel="external nofollow noopener noreferrer">gohugo</a></li>
+<li><a href="https://gohugo.io"target="_blank" rel="external nofollow noopener noreferrer">gohugo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <h3 id="安装">安装</h3>
 <p>hugo 提供了很多种安装方式，Git, Docker, Binary.<br>
 个人电脑使用二进制安装是最方便快捷的，无需安装其他依赖。<br>
-到 <a href="https://github.com/gohugoio/hugo/releases"target="_blank" rel="external nofollow noopener noreferrer">Hugo Releases</a> 下载对应的 windows 操作系统版本的 Hugo 二进制文件，玩就要玩全的，所以我就选择了扩展版本，此次选择的最新版为 <code>hugo_extended_0.88.1_Windows-64bit.zip</code>, 然后自行解压安装即可。</p>
+到 <a href="https://github.com/gohugoio/hugo/releases"target="_blank" rel="external nofollow noopener noreferrer">Hugo Releases<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 下载对应的 windows 操作系统版本的 Hugo 二进制文件，玩就要玩全的，所以我就选择了扩展版本，此次选择的最新版为 <code>hugo_extended_0.88.1_Windows-64bit.zip</code>, 然后自行解压安装即可。</p>
 <h3 id="生成站点">生成站点</h3>
 <p>使用 Hugo 快速生成站点，比如希望生成到 <code>/path/to/site</code> 路径：</p>
 <div class="highlight"><div class="chroma">
@@ -55,7 +56,7 @@
 </div>
 </div><h3 id="添加主题">添加主题</h3>
 <p>添加主题的方式选用 Git 子模组的形式，为了日后快速升级，避免在使用 hexo 中因大量魔改 next 主题而导致难以升级的困扰。<br>
-精挑细选最终选择了 <del><a href="https://github.com/dillonzq/LoveIt"target="_blank" rel="external nofollow noopener noreferrer">LoveIt</a></del> =&gt; <a href="https://github.com/Lruihao/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt</a></p>
+精挑细选最终选择了 <del><a href="https://github.com/dillonzq/LoveIt"target="_blank" rel="external nofollow noopener noreferrer">LoveIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></del> =&gt; <a href="https://github.com/Lruihao/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -98,10 +99,10 @@
 </div>
 </div><h2 id="写作指北">写作指北</h2>
 <ul>
-<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-basics"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 基本概念</a></li>
-<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-content/"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 内容</a></li>
-<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-built-in-shortcodes/"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 内置 Shortcodes</a></li>
-<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-extended-shortcodes/"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 扩展 Shortcodes</a></li>
+<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-basics"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 基本概念<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-content/"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 内容<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-built-in-shortcodes/"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 内置 Shortcodes<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-extended-shortcodes/"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题文档 - 扩展 Shortcodes<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <h2 id="todo-list">Todo list</h2>
 <a href="https://github.com/Lruihao/hugo-blog"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
@@ -137,7 +138,7 @@
 </details>
 <ul>
 <li>
-<p><i class="fa-regular fa-square fa-fw" aria-hidden="true"></i> <del><a href="https://img.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">cos-album</a> 和 <a href="https://sz.journey.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">🍚 饭醉团伙 🍷</a> 整合到博客 cos-album/ <a href="https://github.com/Lruihao/hugo-blog/issues/7"target="_blank" rel="external nofollow noopener noreferrer">#7 (wontfix)</a></del></p>
+<p><i class="fa-regular fa-square fa-fw" aria-hidden="true"></i> <del><a href="https://img.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">cos-album<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://sz.journey.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">🍚 饭醉团伙 🍷<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 整合到博客 cos-album/ <a href="https://github.com/Lruihao/hugo-blog/issues/7"target="_blank" rel="external nofollow noopener noreferrer">#7 (wontfix)<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></del></p>
 </li>
 <li>
 <p><i class="fa-regular fa-square fa-fw" aria-hidden="true"></i> <del>新增 demo/, 以子模组的形式存放前端 demo, serverless 记账本等</del> （保持原本博客的纯粹性）</p>
@@ -173,10 +174,10 @@
 </ul>
 </details>
 <ul>
-<li><i class="fa-regular fa-square fa-fw" aria-hidden="true"></i> hugo 内容加密研究 <a href="https://github.com/Lruihao/hugo-blog/issues/3"target="_blank" rel="external nofollow noopener noreferrer">#3</a></li>
+<li><i class="fa-regular fa-square fa-fw" aria-hidden="true"></i> hugo 内容加密研究 <a href="https://github.com/Lruihao/hugo-blog/issues/3"target="_blank" rel="external nofollow noopener noreferrer">#3<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 <li><i class="fa-regular fa-check-square fa-fw" aria-hidden="true"></i> <code>Lruihao/hugo-blog/README.md</code> 撰写，MIT, 发布 1.0.0 版本做完整备份，base on theme version</li>
-<li><i class="fa-regular fa-check-square fa-fw" aria-hidden="true"></i> 更换 gravatar 头像 <a href="https://github.com/Lruihao/hugo-blog/issues/4"target="_blank" rel="external nofollow noopener noreferrer">#4</a></li>
-<li><i class="fa-regular fa-check-square fa-fw" aria-hidden="true"></i> 博客在线编辑器研究 github1s 等 <a href="https://github.com/Lruihao/hugo-blog/issues/5"target="_blank" rel="external nofollow noopener noreferrer">#5</a></li>
+<li><i class="fa-regular fa-check-square fa-fw" aria-hidden="true"></i> 更换 gravatar 头像 <a href="https://github.com/Lruihao/hugo-blog/issues/4"target="_blank" rel="external nofollow noopener noreferrer">#4<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><i class="fa-regular fa-check-square fa-fw" aria-hidden="true"></i> 博客在线编辑器研究 github1s 等 <a href="https://github.com/Lruihao/hugo-blog/issues/5"target="_blank" rel="external nofollow noopener noreferrer">#5<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <hr>
 <p><a id="seo-ref"></a><code>[baidu_urls.txt]:</code><a href="#seo">↩︎</a></p>
@@ -218,7 +219,7 @@
           <span class="cl-url">https://github.com/Lruihao/FixIt</span>
         </span>
       </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
-<p>进度更新至 <a href="https://github.com/Lruihao/hugo-blog/issues/8"target="_blank" rel="external nofollow noopener noreferrer">#8</a></p>
+<p>进度更新至 <a href="https://github.com/Lruihao/hugo-blog/issues/8"target="_blank" rel="external nofollow noopener noreferrer">#8<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <ul>
 <li><i class="fa-regular fa-check-square fa-fw" aria-hidden="true"></i> CSS 优化，背景，元素圆角化，外圆内方，居中对齐等</li>
 <li><i class="fa-regular fa-check-square fa-fw" aria-hidden="true"></i> 沐目体引入</li>
@@ -232,10 +233,10 @@
 </item>
 <item>
   <title>hexo-theme-next @modified LRH</title>
-  <link>https://shiqustudio.github.io/hexo-theme-next/</link>
+  <link>https://shiqustudio.github.io/posts/hexo-theme-next/</link>
   <pubDate>Thu, 21 Mar 2019 16:43:19 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hexo-theme-next/</guid>
+  <guid>https://shiqustudio.github.io/posts/hexo-theme-next/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/hexo-theme-next/images/next.png" referrerpolicy="no-referrer">
       </div><div class="details admonition danger open">
@@ -254,8 +255,8 @@
       <i class="icon fa-solid fa-check-circle fa-fw" aria-hidden="true"></i>next<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content">基于 <a href="https://github.com/theme-next/hexo-theme-next"target="_blank" rel="external nofollow noopener noreferrer">hexo-theme-next 6.0+</a> 的 Pisces 模板做的 DIY 扩展性设计（部分兼容 next 其他几种模板）。主要是一些 custom style 还有一些第三方的 js。修改的地方太多也有点小乱就不提 PR 了。<br>
-<a href="https://github.com/Lruihao/hexo-theme-next"target="_blank" rel="external nofollow noopener noreferrer">modified</a>  官方 Demo =&gt; <a href="https://theme-next.org"target="_blank" rel="external nofollow noopener noreferrer">https://theme-next.org</a><br>
+      <div class="admonition-content">基于 <a href="https://github.com/theme-next/hexo-theme-next"target="_blank" rel="external nofollow noopener noreferrer">hexo-theme-next 6.0+<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的 Pisces 模板做的 DIY 扩展性设计（部分兼容 next 其他几种模板）。主要是一些 custom style 还有一些第三方的 js。修改的地方太多也有点小乱就不提 PR 了。<br>
+<a href="https://github.com/Lruihao/hexo-theme-next"target="_blank" rel="external nofollow noopener noreferrer">modified<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>  官方 Demo =&gt; <a href="https://theme-next.org"target="_blank" rel="external nofollow noopener noreferrer">https://theme-next.org<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
 记录一下折腾过程，以后备份恢复博客也好方便自己。本文之前的美化修改请见 <a href="/tags/hexo/">hexo 标签</a>。<br>
 <strong>主题中若有遗漏第三方插件或应用的 key 及 id 值等请修改为自己对应的值</strong></div>
     </div>
@@ -297,7 +298,7 @@
 </span></span><span class="line"><span class="cl">\scripts\qcloudcdn.js                        #腾讯云 cos 桶刷新缓存的脚本，不需要可删掉 [^1]
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p><a href="https://lruihao.cn/posts/cos-hexo.html#CDN%E5%88%B7%E6%96%B0"target="_blank" rel="external nofollow noopener noreferrer">^1</a></p>
+</div><p><a href="https://lruihao.cn/posts/cos-hexo.html#CDN%E5%88%B7%E6%96%B0"target="_blank" rel="external nofollow noopener noreferrer">^1<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h2 id="初步安装">初步安装</h2>
 <blockquote>
 <p>安装整个改过的主题，然后下载相应的 lib 资源解压放入 source 文件夹</p>
@@ -747,7 +748,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="pdf-和-mermaid-解析模块">pdf 和 Mermaid 解析模块</h3>
-<p><a href="https://lruihao.cn/posts/next-pdf/"target="_blank" rel="external nofollow noopener noreferrer">pdf 传送门</a></p>
+<p><a href="https://lruihao.cn/posts/next-pdf/"target="_blank" rel="external nofollow noopener noreferrer">pdf 传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -853,7 +854,7 @@
 </span></span><span class="line"><span class="cl">---
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p><a href="https://lruihao.cn/tags/%e4%bb%96%e5%b1%b1%e4%b9%8b%e7%9f%b3/"target="_blank" rel="external nofollow noopener noreferrer">预览</a></p>
+</div><p><a href="https://lruihao.cn/tags/%e4%bb%96%e5%b1%b1%e4%b9%8b%e7%9f%b3/"target="_blank" rel="external nofollow noopener noreferrer">预览<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h3 id="热度页面">热度页面</h3>
 <blockquote>
 <p>打开<code>hexo\themes\next\layout</code>新建 top.swig 文件，写下如下内容保存：</p>
@@ -1139,10 +1140,10 @@
 </item>
 <item>
   <title>模仿知乎卡片式链接</title>
-  <link>https://shiqustudio.github.io/linkcard/</link>
+  <link>https://shiqustudio.github.io/posts/linkcard/</link>
   <pubDate>Fri, 15 Mar 2019 15:21:39 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/linkcard/</guid>
+  <guid>https://shiqustudio.github.io/posts/linkcard/</guid>
   <description><![CDATA[<blockquote>
 <p>模仿知乎的卡片式链接，idea 来自 [兰州小红鸡]</p>
 </blockquote>
@@ -1225,10 +1226,10 @@
 </item>
 <item>
   <title>利用腾讯云对象存储 COS 桶托管 hexo 博客</title>
-  <link>https://shiqustudio.github.io/cos-hexo/</link>
+  <link>https://shiqustudio.github.io/posts/cos-hexo/</link>
   <pubDate>Tue, 22 Jan 2019 14:57:08 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/cos-hexo/</guid>
+  <guid>https://shiqustudio.github.io/posts/cos-hexo/</guid>
   <description><![CDATA[<blockquote>
 <p>本以为 coding pages 与腾讯云合作后会更好，没想到正是这种初期 bug 不断，速度也是非常慢。比 gitee, 甚至 github 都要慢很多了。所以决定放弃 coding 了，本想挂到云服务器上，但是这个云服务器只续费了半年，可能不会再续费，前几天看到用腾讯云的 cos 桶 xml 制作动态相册的文章，知道了对象存储这个玩意，腾讯云 COS 提供免费 50G 的存储空间，还有 CDN 加速服务，我觉得是个不错的选择，部署后发现速度还挺好。<br>
 适用于 hexo, hugo 等静态博客的部署。</p>
@@ -1523,10 +1524,10 @@
 </item>
 <item>
   <title>在搜索、文章底部、侧栏添加最近文章模块</title>
-  <link>https://shiqustudio.github.io/recent-posts/</link>
+  <link>https://shiqustudio.github.io/posts/recent-posts/</link>
   <pubDate>Wed, 16 Jan 2019 17:50:52 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/recent-posts/</guid>
+  <guid>https://shiqustudio.github.io/posts/recent-posts/</guid>
   <description><![CDATA[<blockquote>
 <p>首先在主题配置文件添加以下关键字</p>
 </blockquote>
@@ -1679,17 +1680,17 @@
 </item>
 <item>
   <title>hexo 插件及 next 内置样式集</title>
-  <link>https://shiqustudio.github.io/nextplugin/</link>
+  <link>https://shiqustudio.github.io/posts/nextplugin/</link>
   <pubDate>Sat, 24 Nov 2018 16:54:09 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/nextplugin/</guid>
+  <guid>https://shiqustudio.github.io/posts/nextplugin/</guid>
   <description><![CDATA[<blockquote>
 <p>2021/10/2 更新<br>
 博客已迁移至 Hugo, 插件演示不适用，已删除。<br>
-让文章写的好看又简洁又好用的插件！<a href="https://hexo.io/zh-cn/docs/tag-plugins.html"target="_blank" rel="external nofollow noopener noreferrer">hexo 完整的标签列表</a>，<a href="https://theme-next.org/docs/tag-plugins/"target="_blank" rel="external nofollow noopener noreferrer">next 插件列表</a></p>
+让文章写的好看又简洁又好用的插件！<a href="https://hexo.io/zh-cn/docs/tag-plugins.html"target="_blank" rel="external nofollow noopener noreferrer">hexo 完整的标签列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，<a href="https://theme-next.org/docs/tag-plugins/"target="_blank" rel="external nofollow noopener noreferrer">next 插件列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h3 id="hexo-插件">hexo 插件</h3>
-<h4 id="hexo-lazyload-imagehttpsgithubcomtroy-yanghexo-lazyload-image"><a href="https://github.com/Troy-Yang/hexo-lazyload-image"target="_blank" rel="external nofollow noopener noreferrer">hexo-lazyload-image</a></h4>
+<h4 id="hexo-lazyload-imagehttpsgithubcomtroy-yanghexo-lazyload-image"><a href="https://github.com/Troy-Yang/hexo-lazyload-image"target="_blank" rel="external nofollow noopener noreferrer">hexo-lazyload-image<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1743,7 +1744,7 @@
 <pre tabindex="0" class="chroma"><code class="language-xml" data-lang="xml"><span class="line"><span class="cl">{% ruby _**base**_|_**top text**_ %}
 </span></span></code></pre></td></tr></table>
 </div>
-</div><h4 id="hexo-pwahttpsgithubcomlavas-projecthexo-pwa"><a href="https://github.com/lavas-project/hexo-pwa"target="_blank" rel="external nofollow noopener noreferrer">hexo-pwa</a></h4>
+</div><h4 id="hexo-pwahttpsgithubcomlavas-projecthexo-pwa"><a href="https://github.com/lavas-project/hexo-pwa"target="_blank" rel="external nofollow noopener noreferrer">hexo-pwa<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1828,7 +1829,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h4 id="hexo-tag-dplayer">hexo-tag-dplayer</h4>
-<p><a href="https://github.com/MoePlayer/hexo-tag-dplayer"target="_blank" rel="external nofollow noopener noreferrer">hexo-tag-dplayer</a></p>
+<p><a href="https://github.com/MoePlayer/hexo-tag-dplayer"target="_blank" rel="external nofollow noopener noreferrer">hexo-tag-dplayer<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1877,7 +1878,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h4 id="hexo-tag-aplayer">hexo-tag-aplayer</h4>
-<p><a href="https://github.com/MoePlayer/hexo-tag-aplayer"target="_blank" rel="external nofollow noopener noreferrer">more</a></p>
+<p><a href="https://github.com/MoePlayer/hexo-tag-aplayer"target="_blank" rel="external nofollow noopener noreferrer">more<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1905,7 +1906,7 @@
 <li><code>width:xxx</code>: （可选） 播放器宽度 （默认：100%)</li>
 <li><code>lrc:xxx</code>: （可选）歌词文件 URL 地址</li>
 </ul>
-<p>当开启 Hexo 的 <a href="https://hexo.io/zh-cn/docs/asset-folders.html#%E6%96%87%E7%AB%A0%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E5%A4%B9"target="_blank" rel="external nofollow noopener noreferrer">文章资源文件夹</a> 功能时，可以将图片、音乐文件、歌词文件放入与文章对应的资源文件夹中，然后直接引用：</p>
+<p>当开启 Hexo 的 <a href="https://hexo.io/zh-cn/docs/asset-folders.html#%E6%96%87%E7%AB%A0%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6%E5%A4%B9"target="_blank" rel="external nofollow noopener noreferrer">文章资源文件夹<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 功能时，可以将图片、音乐文件、歌词文件放入与文章对应的资源文件夹中，然后直接引用：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1920,9 +1921,9 @@
 </div>
 </div><meting-js url="https://cdn-1256932288.cos.ap-chengdu.myqcloud.com/files/nanjing.mp3" name="李志" artist="你离开了南京，从此没人和我说话" cover="https://p2.music.126.net/UuSe-Vc6rS7JtRJSQgDU2g==/2323268069553116.jpg?param=300x300" theme="#448aff"></meting-js>
 <h4 id="hexo-pdf">hexo-pdf</h4>
-<p><a href="https://lruihao.cn/posts/next-pdf/"target="_blank" rel="external nofollow noopener noreferrer">pdf 传送门</a></p>
+<p><a href="https://lruihao.cn/posts/next-pdf/"target="_blank" rel="external nofollow noopener noreferrer">pdf 传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h4 id="hexo-filter-flowchart流程图">hexo-filter-flowchart（流程图）</h4>
-<p><a href="https://flowchart.js.org"target="_blank" rel="external nofollow noopener noreferrer">语法</a></p>
+<p><a href="https://flowchart.js.org"target="_blank" rel="external nofollow noopener noreferrer">语法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -2023,7 +2024,7 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="宅音乐侧栏播放器插件">宅音乐侧栏播放器插件</h3>
-<p><a href="https://player.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer"><del>体验</del></a> <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">源码</a></p>
+<p><a href="https://player.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer"><del>体验</del><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">源码<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <blockquote>
 <p>目前在 next 中可能引起部分 css 冲突，建议在 next 中使用在单个页面中。<br>
 依赖于 jQuery，一行 js 可以引入播放器插件。</p>
@@ -2115,7 +2116,7 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </div>
 </div><p>Any <strong>raw content</strong> may be included with this tag.</p>
 <h3 id="button">button</h3>
-<p><a href="https://theme-next.org/docs/tag-plugins/button"target="_blank" rel="external nofollow noopener noreferrer">more info</a></p>
+<p><a href="https://theme-next.org/docs/tag-plugins/button"target="_blank" rel="external nofollow noopener noreferrer">more info<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -2147,7 +2148,7 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </div><div class="text-center">{% btn #, Text & Large Icon & Title, home fa-fw fa-lg, Title %}</div>
 ```
 <h3 id="mermaid">Mermaid</h3>
-<p><a href="https://theme-next.org/docs/tag-plugins/mermaid"target="_blank" rel="external nofollow noopener noreferrer">more info</a></p>
+<p><a href="https://theme-next.org/docs/tag-plugins/mermaid"target="_blank" rel="external nofollow noopener noreferrer">more info<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <p>example</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -2209,7 +2210,7 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </div><h3 id="tab-选项卡">tab 选项卡</h3>
 <blockquote>
 <p>&ldquo;tab&quot;为选项卡的名称，可以自定义，数字是几表示从第几个选项卡开始。非必须，若数值为-1 则隐藏选项卡内容。
-<a href="https://theme-next.org/docs/tag-plugins/tabs"target="_blank" rel="external nofollow noopener noreferrer">查看更多</a></p>
+<a href="https://theme-next.org/docs/tag-plugins/tabs"target="_blank" rel="external nofollow noopener noreferrer">查看更多<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -2598,17 +2599,17 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </span></span><span class="line"><span class="cl">primary success info warning danger
 </span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="其他httpwwwmykernelcnmy-hexo-next-1html"><a href="http://www.mykernel.cn/my-hexo-next-1.html"target="_blank" rel="external nofollow noopener noreferrer">其他</a></h3>
+</div><h3 id="其他httpwwwmykernelcnmy-hexo-next-1html"><a href="http://www.mykernel.cn/my-hexo-next-1.html"target="_blank" rel="external nofollow noopener noreferrer">其他<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h3>
 <blockquote>
 <p>包括小色块、左侧色条、右侧色条、上方色条、数字色块（需要自定义样式）</p>
 </blockquote>]]></description>
 </item>
 <item>
   <title>next添加支持pdf</title>
-  <link>https://shiqustudio.github.io/next-pdf/</link>
+  <link>https://shiqustudio.github.io/posts/next-pdf/</link>
   <pubDate>Fri, 09 Nov 2018 12:51:48 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/next-pdf/</guid>
+  <guid>https://shiqustudio.github.io/posts/next-pdf/</guid>
   <description><![CDATA[<blockquote>
 <p>最新的 next 主题已经更新了支持 PDF 功能，<del>写法也和链接写法一样</del>，可是我没有更新，我按 github 上那个 readme 试了一下好像不可以，所以用了另外一种插件的方法。</p>
 </blockquote>
@@ -2683,10 +2684,10 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </item>
 <item>
   <title>hexo 博客源码备份</title>
-  <link>https://shiqustudio.github.io/blog-backup/</link>
+  <link>https://shiqustudio.github.io/posts/blog-backup/</link>
   <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/blog-backup/</guid>
+  <guid>https://shiqustudio.github.io/posts/blog-backup/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/blog-backup/images/1.png" referrerpolicy="no-referrer">
       </div><h2 id="备份-hexo-博客">备份 hexo 博客</h2>
@@ -2756,15 +2757,15 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </span></span><span class="line"><span class="cl">hexo d -g  //部署
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p><a href="https://blog.csdn.net/Monkey_LZL/article/details/60870891"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
+</div><p><a href="https://blog.csdn.net/Monkey_LZL/article/details/60870891"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 ]]></description>
 </item>
 <item>
   <title>网页离开时改变标题“崩溃欺骗”</title>
-  <link>https://shiqustudio.github.io/crash-cheat/</link>
+  <link>https://shiqustudio.github.io/posts/crash-cheat/</link>
   <pubDate>Wed, 26 Sep 2018 16:36:08 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/crash-cheat/</guid>
+  <guid>https://shiqustudio.github.io/posts/crash-cheat/</guid>
   <description><![CDATA[<blockquote>
 <p>从暑假到现在有好几个小伙伴问我博客的标题怎么变来变去的，不想再和每个人都说一遍了，耽误时间，索性写一下。</p>
 </blockquote>
@@ -2862,10 +2863,10 @@ But you need to add <code>&lt;br&gt;</code> manually if you want line breaks aft
 </item>
 <item>
   <title>hexo next 主题添加字数统计（2018）</title>
-  <link>https://shiqustudio.github.io/hexo-wordcount/</link>
+  <link>https://shiqustudio.github.io/posts/hexo-wordcount/</link>
   <pubDate>Thu, 30 Aug 2018 13:15:50 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hexo-wordcount/</guid>
+  <guid>https://shiqustudio.github.io/posts/hexo-wordcount/</guid>
   <description><![CDATA[<div class="details admonition warning open">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -2878,7 +2879,7 @@ next 主题好像更新了，现在自带的可以用了，如果可以用了，
     </div>
   </div>
 <h2 id="安装">安装</h2>
-<p><a href="https://github.com/willin/hexo-wordcount"target="_blank" rel="external nofollow noopener noreferrer">wordcount github</a>
+<p><a href="https://github.com/willin/hexo-wordcount"target="_blank" rel="external nofollow noopener noreferrer">wordcount github<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
 如果没有安装 hexo-wordcount 插件，先安装该插件：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -2950,6 +2951,780 @@ next 主题好像更新了，现在自带的可以用了，如果可以用了，
 </span></span></code></pre></td></tr></table>
 </div>
 </div>]]></description>
+</item>
+<item>
+  <title>hexo d 出错</title>
+  <link>https://shiqustudio.github.io/posts/hexo-d-error/</link>
+  <pubDate>Tue, 21 Aug 2018 22:15:01 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/hexo-d-error/</guid>
+  <description><![CDATA[<p>搭建这个博客以来，隔一段时间就出现一次部署失败的错误，每次都差不多，莫名其妙地出现的。前几次不知道怎么瞎搞就好了。<br>
+现在做一下记录，防止以后出错用。<br>
+错误如下</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">Connection reset by 13.229.188.59 port <span class="m">22</span>
+</span></span><span class="line"><span class="cl">fatal: sha1 file <span class="s1">&#39;&lt;stdout&gt;&#39;</span> write error: Broken pipe
+</span></span><span class="line"><span class="cl">fatal: The remote end hung up unexpectedly
+</span></span><span class="line"><span class="cl">FATAL Something<span class="s1">&#39;s wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html
+</span></span></span><span class="line"><span class="cl"><span class="s1">Error: Connection reset by 13.229.188.59 port 22
+</span></span></span><span class="line"><span class="cl"><span class="s1">fatal: sha1 file &#39;</span>&lt;stdout&gt;<span class="err">&#39;</span> write error: Broken pipe
+</span></span><span class="line"><span class="cl">fatal: The remote end hung up unexpectedly
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">at ChildProcess.&lt;anonymous&gt; <span class="o">(</span>H:<span class="se">\H</span>exo<span class="se">\n</span>ode_modules<span class="se">\h</span>exo-util<span class="se">\l</span>ib<span class="se">\s</span>pawn.js:37:17<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at emitTwo <span class="o">(</span>events.js:106:13<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at ChildProcess.emit <span class="o">(</span>events.js:191:7<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at ChildProcess.cp.emit <span class="o">(</span>H:<span class="se">\H</span>exo<span class="se">\n</span>ode_modules<span class="se">\c</span>ross-spawn<span class="se">\l</span>ib<span class="se">\e</span>noent.js:40:29<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at maybeClose <span class="o">(</span>internal/child_process.js:850:16<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at Socket.&lt;anonymous&gt; <span class="o">(</span>internal/child_process.js:323:11<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at emitOne <span class="o">(</span>events.js:96:13<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at Socket.emit <span class="o">(</span>events.js:188:7<span class="o">)</span>
+</span></span><span class="line"><span class="cl">    at Pipe._handle.close <span class="o">[</span>as _onclose<span class="o">]</span> <span class="o">(</span>net.js:492:12<span class="o">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">...
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>确保 ssh 正常，hexo-deploy-git 插件正常的情况下删除。deploy_git 文件夹就好了。
+最后吐槽一下，这个鬼错误，搞我一晚上醉了。我又打算重装了的。/吐血</p>]]></description>
+</item>
+<item>
+  <title>hexo 个性化 - next 主题动态显示 subtitle</title>
+  <link>https://shiqustudio.github.io/posts/dongtaisub/</link>
+  <pubDate>Mon, 20 Aug 2018 16:16:40 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/dongtaisub/</guid>
+  <description><![CDATA[<blockquote>
+<p>本文适合我这种纯小白。
+目前为止，全网也就只有一个博主写到过这样动态显示 subtitle 的文章。<a href="https://www.jianshu.com/p/df2c844eeabf"target="_blank" rel="external nofollow noopener noreferrer">传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>（关键词：js, 后加载）<br>
+但是嘞，该博写的不怎么详细，17 年底写的。当然更大的可能是 next 更新了一些文件结构，所以不适合现在使用了。以前我按原博的流程配置了一下没成功就搁在那里了，今天突然心血来潮。翻了翻原博主博客的源码，再与自己的对比了一下，发现了一些端倪。稍作调整后如下：</p>
+</blockquote>
+<h2 id="修改站点配置文件主要修改-subtitle">修改站点配置文件，主要修改 subtitle</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">subtitle: 不怕万人阻挡，只怕自己投降。W 你如何回忆，决定你是一个怎样的人！W 这是一个句子。W 这是另一个句子。W 这些句子你们不要搞一样的不然怎么叫个性签名-_-！。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>句子与句子之间以 W 分割，后续需要根据该标志位去拆分句子组。<br>
+<strong>小伙伴们博主这里只是提供一个思路，不要和我用一模一样的啊，不然撞了多尴尬呀</strong></p>
+<h2 id="修改-headerindexswig">修改 header\index.swig</h2>
+<p>修改 <code>themes\next\layout_partials\header</code> 下面的 <code>index.swig</code> 文件<br>
+在最开头添加如下代码：<br>
+（这里用的原博的 js)</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">script</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"> <span class="n">function</span> <span class="nf">GetRandomNum</span><span class="o">(</span><span class="n">Min</span><span class="o">,</span><span class="n">Max</span><span class="o">)</span>
+</span></span><span class="line"><span class="cl">  <span class="o">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">var</span> <span class="n">Range</span> <span class="o">=</span> <span class="n">Max</span> <span class="o">-</span> <span class="n">Min</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">var</span> <span class="n">Rand</span> <span class="o">=</span> <span class="n">Math</span><span class="o">.</span><span class="na">random</span><span class="o">();</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span><span class="o">(</span><span class="n">Min</span> <span class="o">+</span> <span class="n">Math</span><span class="o">.</span><span class="na">round</span><span class="o">(</span><span class="n">Rand</span> <span class="o">*</span> <span class="n">Range</span><span class="o">));</span>
+</span></span><span class="line"><span class="cl">  <span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="n">function</span> <span class="nf">setSidebarMarginTop</span> <span class="o">(</span><span class="n">headerOffset</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">$</span><span class="o">(</span><span class="err">&#39;#</span><span class="n">sidebar</span><span class="err">&#39;</span><span class="o">).</span><span class="na">css</span><span class="o">({</span> <span class="err">&#39;</span><span class="n">margin</span><span class="o">-</span><span class="n">top</span><span class="err">&#39;</span><span class="o">:</span> <span class="n">headerOffset</span> <span class="o">});</span>
+</span></span><span class="line"><span class="cl">  <span class="o">}</span>
+</span></span><span class="line"><span class="cl"> <span class="n">function</span> <span class="nf">getHeaderOffset</span> <span class="o">()</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">$</span><span class="o">(</span><span class="err">&#39;</span><span class="o">.</span><span class="na">header</span><span class="o">-</span><span class="n">inner</span><span class="err">&#39;</span><span class="o">).</span><span class="na">height</span><span class="o">()</span> <span class="o">+</span> <span class="n">CONFIG</span><span class="o">.</span><span class="na">sidebar</span><span class="o">.</span><span class="na">offset</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">  <span class="o">}</span>
+</span></span><span class="line"><span class="cl">  <span class="n">window</span><span class="o">.</span><span class="na">onload</span><span class="o">=</span><span class="n">function</span><span class="o">(){</span>
+</span></span><span class="line"><span class="cl">    <span class="n">var</span> <span class="n">subtitle</span> <span class="o">=</span> <span class="s">&#34;{{config.subtitle}}&#34;</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">     <span class="n">var</span> <span class="n">mytitle</span> <span class="o">=</span> <span class="n">subtitle</span><span class="o">.</span><span class="na">split</span><span class="o">(</span><span class="s">&#34;W&#34;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">     <span class="n">var</span> <span class="n">max</span> <span class="o">=</span> <span class="n">mytitle</span><span class="o">.</span><span class="na">length</span><span class="o">-</span><span class="mi">1</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">     <span class="n">var</span> <span class="n">index</span> <span class="o">=</span> <span class="n">GetRandomNum</span><span class="o">(</span><span class="mi">0</span><span class="o">,</span><span class="n">max</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">     <span class="n">var</span> <span class="n">text</span> <span class="o">=</span> <span class="n">mytitle</span><span class="o">[</span><span class="n">index</span><span class="o">];</span>
+</span></span><span class="line"><span class="cl">     <span class="n">$</span><span class="o">(</span><span class="s">&#34;#helloTitle&#34;</span><span class="o">).</span><span class="na">html</span><span class="o">(</span><span class="n">text</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">     <span class="n">var</span> <span class="n">headOffset</span> <span class="o">=</span> <span class="n">getHeaderOffset</span><span class="o">();</span>
+</span></span><span class="line"><span class="cl">     <span class="n">setSidebarMarginTop</span><span class="o">(</span><span class="n">headOffset</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">     <span class="c1">//动态 subtitle 设置
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;/</span><span class="n">script</span><span class="o">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="修改-brandswig">修改 brand.swig</h2>
+<p>找到</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{% if subtitle %}
+</span></span><span class="line"><span class="cl">  {% if theme.seo %}
+</span></span><span class="line"><span class="cl">    ...
+</span></span><span class="line"><span class="cl">  {% else %}
+</span></span><span class="line"><span class="cl">    ...
+</span></span><span class="line"><span class="cl">  {% endif %}
+</span></span><span class="line"><span class="cl">{% endif %}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>把这一段，把原来的修改成以下代码即可<br>
+ps: <code>title</code>和<code>subtitle</code>的<code>字体</code>还有<code>颜色</code>也可以在这个文件修改，即使用<code>style</code>标签，按个人爱好修改也可不要。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{% if subtitle %}
+</span></span><span class="line"><span class="cl">  {% if theme.seo %}
+</span></span><span class="line"><span class="cl">    &lt;p class=&#34;site-subtitle&#34; id=&#34;helloTitle&#34; itemprop=&#34;description&#34;&gt;&lt;/p&gt;
+</span></span><span class="line"><span class="cl">  {% else %}
+</span></span><span class="line"><span class="cl">    &lt;p id=&#34;helloTitle&#34; class=&#34;site-subtitle&#34;&gt;&lt;/p&gt;
+</span></span><span class="line"><span class="cl">  {% endif %}
+</span></span><span class="line"><span class="cl">{% endif %}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>之后部署后每次刷新就可以看到不同的 subtitle 了，开心 😀</p>
+<h2 id="今日诗词">今日诗词</h2>
+<p><a href="https://www.jinrishici.com/"target="_blank" rel="external nofollow noopener noreferrer">今日诗词<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-XML" data-lang="XML"><span class="line"><span class="cl"><span class="nt">&lt;span</span> <span class="na">id=</span><span class="s">&#34;jinrishici-sentence&#34;</span><span class="nt">&gt;</span>正在加载今日诗词 ....<span class="nt">&lt;/span&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="nt">&lt;script</span> <span class="na">src=</span><span class="s">&#34;https://sdk.jinrishici.com/v2/browser/jinrishici.js&#34;</span> <span class="na">charset=</span><span class="s">&#34;utf-8&#34;</span><span class="nt">&gt;&lt;/script&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><hr>
+<div id="jinrishici-sentence" style="text-align:center;">正在加载今日诗词 ....</div>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<hr>
+<h2 id="api-调用">api 调用</h2>
+<p>直接 js 调用 api 简单快速</p>
+<blockquote>
+<p>2021/9/30 更新<br>
+<a href="https://api.imjad.cn/hitokoto.md"target="_blank" rel="external nofollow noopener noreferrer">一言 api-参数详见<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 已经挂了</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;text/javascript&#34;</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://api.imjad.cn/hitokoto/?cat=&amp;charset=utf-8&amp;length=&amp;encode=js&amp;fun=sync&amp;source=&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">div</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;hitokoto&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">hitokoto</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
+</item>
+<item>
+  <title>在 Android 上搭建 hexo 博客</title>
+  <link>https://shiqustudio.github.io/posts/termux/</link>
+  <pubDate>Sat, 11 Aug 2018 16:59:05 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/termux/</guid>
+  <description><![CDATA[<blockquote>
+<p>暑假刚开始的时候放假回家没带电脑，只能玩手机，想折腾一下博客都没有条件，在一个发现一个 app, 卧槽 😱，termux 真的强大！（初始化需要科学上网）安卓手机上的 linux 简直了，在手机就可以搭了一个 hexo 博客，只要在 github 上实现分支管理就可以多终端同步更新了。恕我学疏才浅，还只想到这些！一开始想回校后，折腾一下 hexo-admin 实现类似动态博客一样的多终端管理（手动滑稽），现在发现 termux 这样子的操作也不错嘛，挺装哔 hhhhhh**<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">部署后的效果<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>**</p>
+</blockquote>
+<h2 id="准备">准备</h2>
+<ul>
+<li>Termux</li>
+<li>文件管理器（RE,MT 文件管理器等高级一点的）</li>
+</ul>
+<h2 id="开始">开始</h2>
+<p>打开 Termux，输入$<code>pkg install nodejs</code>安装 Nodejs，在输入<code>pkg install git</code>安装 Git。<br>
+过程会出现一个提示，输入 y 回车确认即可。<br>
+按照 Hexo 官网提示安装 Hexo。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">npm install hexo-cli -g
+</span></span><span class="line"><span class="cl">hexo init blog
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> blog
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><strong>注意 ssh 配置先安装：</strong><code>pkg install openssh</code><br>
+然后按照基本操作配置 Hexo，GitHub 或者 gitee,coding 等连上，部署测试一次。<br>
+安装部署插件<code>npm install hexo-deployer-git --save</code>，部署<code>hexo d -g</code><br>
+没有问题的话进行下一步。</p>
+<h2 id="编辑">编辑</h2>
+<p>写文章的话创建 md 文件命令和电脑上一样，文件管理器打开<code>/data/data/com.termux/files/home/i/source/_posts/</code> 编辑文章 md 文件。这种方式需要 Root。<br>
+没有 Root 的话可以使用 Vim，网上很多教程。但是这种方式相对来说更麻烦。</p>
+<h2 id="参考">参考</h2>
+<ul>
+<li><a href="https://www.sqlsec.com/2018/05/termux.html?yyue=a21bo.50862.201879"target="_blank" rel="external nofollow noopener noreferrer">termux 高级终端安装使用配置教程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://www.oyohyee.com/post/Note/Termux"target="_blank" rel="external nofollow noopener noreferrer">使用 Termux 在手机上运行 linux 黑科技<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://lruihao.cn/hexo%20&#43;%20github%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html"target="_blank" rel="external nofollow noopener noreferrer">hexo 搭建过程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://my.oschina.net/ryaneLee/blog/638440"target="_blank" rel="external nofollow noopener noreferrer">超详细教程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+</ul>
+<h2 id="效果图未连接-githubcoding-等">效果图（未连接 github，coding 等）</h2>
+<p><a href="https://wx1.sinaimg.cn/mw690/006vSs63gy1ft2a0jo3hmj30u01hcguh.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 1<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+<a href="https://wx4.sinaimg.cn/mw690/006vSs63gy1ft2a0kmm5xj30u01hcn2a.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 2<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="https://wx3.sinaimg.cn/mw690/006vSs63gy1ft2a0lqt61j30u01hctla.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 3<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+<a href="https://wx2.sinaimg.cn/mw690/006vSs63gy1ft2a0mgkm6j30u01hc78l.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 4<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
+</item>
+<item>
+  <title>hexo 博客自定义 console log</title>
+  <link>https://shiqustudio.github.io/posts/console-log/</link>
+  <pubDate>Sat, 04 Aug 2018 16:19:06 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/console-log/</guid>
+  <description><![CDATA[<p>看到知乎，百度的页面 F12 检查后都会有一些有趣的招聘信息。于是乎我也想给我的博客加一个。<br>
+我主要用到的工具：</p>
+<ul>
+<li>console.log()</li>
+<li>Notepad++</li>
+<li><a href="http://picascii.com"target="_blank" rel="external nofollow noopener noreferrer">在线图片转文字工具<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+</ul>
+<h2 id="用法">用法</h2>
+<p>用 js 在<code>&lt;body&gt;&lt;/body&gt;</code>使用 console.log() 就行了，hexo 的主题文件在<code>_layout.swig</code>里，所以我们打开该文件，在该位置，添加 js 就行了；</p>
+<p><figure><a class="lightgallery" href="/posts/console-log/images/console.png" data-thumbnail="/posts/console-log/images/console.png" data-sub-html="<h2>/posts/console-log/images/console.png</h2><p>console</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure></p>
+<h2 id="图案">图案</h2>
+<p>我用的我自己的一张照片（电脑上照片就那么几张。)，然后用 在线图片转文字工具 转字符，<br>
+选择文件，设置大小，然后生成，</p>
+<p><figure><a class="lightgallery" href="/posts/console-log/images/QQ1.png" data-thumbnail="/posts/console-log/images/QQ1.png" data-sub-html="<h2>/posts/console-log/images/QQ1.png</h2><p>1</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ2.png" data-thumbnail="/posts/console-log/images/QQ2.png" data-sub-html="<h2>/posts/console-log/images/QQ2.png</h2><p>2</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure></p>
+<p>生成后，复制 TXT 文件（下面那个框，上面的是 HTML 代码）<br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ3.png" data-thumbnail="/posts/console-log/images/QQ3.png" data-sub-html="<h2>/posts/console-log/images/QQ3.png</h2><p>3</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+粘贴到 Notepad++ 里面，然后按图操作；<br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ4.png" data-thumbnail="/posts/console-log/images/QQ4.png" data-sub-html="<h2>/posts/console-log/images/QQ4.png</h2><p>4</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+Ctrl+H 替换<br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ5.png" data-thumbnail="/posts/console-log/images/QQ5.png" data-sub-html="<h2>/posts/console-log/images/QQ5.png</h2><p>5</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ6.png" data-thumbnail="/posts/console-log/images/QQ6.png" data-sub-html="<h2>/posts/console-log/images/QQ6.png</h2><p>6</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+最后就变成一个字符串了。</p>
+<h2 id="效果图">效果图</h2>
+<p><figure><a class="lightgallery" href="/posts/console-log/images/QQ7.png" data-thumbnail="/posts/console-log/images/QQ7.png" data-sub-html="<h2>/posts/console-log/images/QQ7.png</h2><p>7</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+<a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">线上 demo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 按 F12 找到 console</p>
+<h2 id="我的-txt">我的 txt</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-txt" data-lang="txt"><span class="line"><span class="cl">\n`              @@#``@@@@@@@@@@@@@@@@@@##,`   \n`              @@#`;@@@@@@@@@@@@@@@@@@@&#39;:&#39;   \n`              @@#`@@@@@@@@@@@@@@@@@@@#+#;`  \n`              @@#`@@@@@@@@@@@@@@@@@@###@&#39;.  \n`              @@+.@@@@@@@@@@@@@@@@@@@@@##,  \n`              @@#,@@@@@@@@@@@@@@@@@@@@@@#,  \n`              #@#:@@@@@@@@@@@@@@@@@@@@@@@,  \n`              #@#&#39;@@@@@@@@@@@@@@@@@@@@@@@.  \n`              +@#;@@@@@@@@@@@@@@@@@@@@@@#   \n`          `;: ;@#&#39;@@@@@@@@@@@@@@@@@@+&#39;+@&#39;   \n`    `,,;&#39;;&#39;+&#39;;&#39;@@+:@@@@@@@@@@@@##@#&#39;,.:#;   \n,, ``    ``..,:;@@#&#39;@@@@@@@@#####@@@@#:`:.   \n`       `````:++@@@@@@@@@@@@@###@@@@#+,..    \n        ``````.#@@@@@@@@@@@@@@#@@@#++#&#39;``    \n`    ```.,,:,.`:@@@@@@@@@@@@@###@@@##&#39;.`     \n``..`````..,::;+@@@@@@@@@@@@#+`::+##&#39;`.      \n`      ````.```,@@@@@@@@@@@##;``.,&#39;;` `      \n``.;@@@@@@@@@@@@@@@@@@@@@@###;``..``````     \n#@@@@@@@@@@@@@@@@@@@@@@@@##@#;``,``,.``      \n@@@@@@@@@@@@@@@@@@@.`````..``.. +` `:`       \n@+&#39;&#39;++#####@@#`.@@@``````` ` `,```  ``       \n&#39;;;;;&#39;+##+&#39;+.`;+@@@,..```` `` :,.            \n;::,,:;+#++``,,#@@@&#39;..``````` ,`.``          \n;,,,,...&#39;#.,,..#@@@#,,.`````` .````          \n:,,,,....`,::;&#39;&#39;+#@#;,..`````````.``         \n:,,,.....&#39;##++&#39;&#39;&#39;;:+&#39;:,.`..,,...`            \n:,,,...#####+&#39;+#@@@&#39;.&#39;;+:.  ` ``             \n;,,.`&#39;####&#39;#,`.`+@@@+&#39;``` `.`                \n;,.`#@@@#+:&#39;+++##+@##@,,,,`                  \n&#39;,.#@@###&#39;&#39;&#39;&#39;;:,.```,+#.                     \n+,#@@@####;,,..```````````````         `.:,::\n+@@@@###+;,,..``````````````````          `.,\n#@@@##+&#39;,,,........``````````````            \n@@@@#+:,,,,`........``````````               \n@@@#+:,,,,.`````.....``````````           `` \n@@##&#39;:,......`````....```  `````          ```\n@@@#&#39;:,....,..``````..````    ```         ```\n@@@#&#39;,....,,,..```````````     ```         ..\n@@@#,.....,,,,.``  ````````   ``````         \n@@@+....,,,,,..`````````````   ``````````    \n@@@:....,,,,.LiRuihao````````  ```````````` \n#@@,....,,,,.Always Be Yourself !````````````\n,##,,...,::,.````````````..``````   `......``\n,&#39;#,,..,,:::.`````````........``````   `.,,..\n\n 你好！\n 欢迎进入什么都不会的李瑞豪的个人网站！\nhttps://lruihao.cn\nhttps://www.lruihao.cn\nhttps://lruihao.github.io\nhttps://liruihao.coding.me\n\n\n\n
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>其他个人网站，个人博客也是可以的。</p>]]></description>
+</item>
+<item>
+  <title>hexo&#43;github 搭建个人博客及美化</title>
+  <link>https://shiqustudio.github.io/posts/hexobuild/</link>
+  <pubDate>Fri, 01 Jun 2018 14:34:23 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/hexobuild/</guid>
+  <description><![CDATA[<p><strong><a href="/categories/hexo/">更多关于 hexo</a></strong></p>
+<h2 id="首先">首先</h2>
+<p><a href="https://hexo.io/zh-cn/docs/index.html"target="_blank" rel="external nofollow noopener noreferrer">官方文档<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是我们的第一手资料，也是最好的。
+安装 Hexo 相当简单。然而在安装前，您必须检查电脑中是否已安装下列应用程序：</p>
+<ul>
+<li><a href="https://nodejs.org/en/"target="_blank" rel="external nofollow noopener noreferrer">Node.js<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://git-scm.com/"target="_blank" rel="external nofollow noopener noreferrer">Git<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+</ul>
+<h2 id="hexo-安装">hexo 安装</h2>
+<p>如果您的电脑中已经安装上述必备程序，那么恭喜您！接下来只需要使用 npm 即可完成 Hexo 的安装。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">npm install -g hexo-cli
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="建站">建站</h2>
+<p>安装 Hexo 完成后，请执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hexo init &lt;folder&gt;
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> &lt;folder&gt;
+</span></span><span class="line"><span class="cl">npm install
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><folder>为一个文件夹的名字
+新建完成后，指定文件夹的目录如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">.
+</span></span><span class="line"><span class="cl">├── _config.yml
+</span></span><span class="line"><span class="cl">├── package.json
+</span></span><span class="line"><span class="cl">├── scaffolds
+</span></span><span class="line"><span class="cl">├── source
+</span></span><span class="line"><span class="cl">|   ├── _drafts
+</span></span><span class="line"><span class="cl">|   └── _posts
+</span></span><span class="line"><span class="cl">└── themes
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="安装-hexo-插件">安装 hexo 插件</h2>
+<p>全装上吧，没事。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">npm install hexo-generator-index --save
+</span></span><span class="line"><span class="cl">npm install hexo-generator-archive --save
+</span></span><span class="line"><span class="cl">npm install hexo-generator-category --save
+</span></span><span class="line"><span class="cl">npm install hexo-generator-tag --save
+</span></span><span class="line"><span class="cl">npm install hexo-server --save
+</span></span><span class="line"><span class="cl">npm install hexo-deployer-git --save
+</span></span><span class="line"><span class="cl">npm install hexo-deployer-heroku --save
+</span></span><span class="line"><span class="cl">npm install hexo-deployer-rsync --save
+</span></span><span class="line"><span class="cl">npm install hexo-deployer-openshift --save
+</span></span><span class="line"><span class="cl">npm install hexo-renderer-marked@0.2 --save
+</span></span><span class="line"><span class="cl">npm install hexo-renderer-stylus@0.2 --save
+</span></span><span class="line"><span class="cl">npm install hexo-generator-feed@1 --save
+</span></span><span class="line"><span class="cl">npm install hexo-generator-sitemap@1 --save
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="本地查看效果">本地查看效果</h2>
+<p>执行下面语句，执行完再登录 localhost:4000 查看效果（执行完不要按 Ctrl+C，不然就停止了）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hexo g
+</span></span><span class="line"><span class="cl">hexo s
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><strong>其他步骤在这里不赘述，参见 <a href="https://my.oschina.net/ryaneLee/blog/638440"target="_blank" rel="external nofollow noopener noreferrer">超详细教程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong>
+<strong><a href="https://lruihao.cn/posts/termux/"target="_blank" rel="external nofollow noopener noreferrer">安卓上搭建 hexo 博客<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
+<h2 id="部署">部署</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hexo g -d
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>部署后我们可以浏览器搜 username.github.io 查看自己的博客效果，比如我的 <a href="https://lruihao.github.io/"target="_blank" rel="external nofollow noopener noreferrer">lruihao.github.io<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h2 id="美化">美化</h2>
+<p><strong>这些美化都写的很详细，我建议你们自己好好看看吧，我也是在这里看到的，如果问我和这里说的是一样的。</strong></p>
+<ul>
+<li><a href="/categories/hexo/">hexo 个性化教程</a></li>
+<li><a href="http://www.zhaojun.im"target="_blank" rel="external nofollow noopener noreferrer">valine 特别鸣谢赵俊 👍<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://asdfv1929.github.io/tags/Hexo/"target="_blank" rel="external nofollow noopener noreferrer">asdfv1929<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://hexo.io/themes/"target="_blank" rel="external nofollow noopener noreferrer">hexo 官方主题集合<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，<del>我用的是 aloha 主题</del>，该主题 <a href="https://github.com/henryhuang/hexo-theme-aloha/wiki/zh_CN"target="_blank" rel="external nofollow noopener noreferrer">官方文档<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，<strong>后改用 next 主题 <a href="https://theme-next.iissnan.com/"target="_blank" rel="external nofollow noopener noreferrer">next 主题<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></li>
+<li><a href="https://hexo.io/plugins"target="_blank" rel="external nofollow noopener noreferrer">hexo 官方插件<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<del>说说我的主题遇到的一些问题，由于这个主题用的人少，所以作者优化的不是很好（next 使用最多），当然也可以反过来说，所以自己美化了一点</del></li>
+</ul>
+<h3 id="博文置顶">博文置顶</h3>
+<p>修改 <code>hero-generator-index</code> 插件，把文件：<code>node_modules/hexo-generator-index/lib/generator.js</code> 内的代码替换为：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="err">&#39;</span><span class="n">use</span> <span class="n">strict</span><span class="err">&#39;</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl"><span class="n">var</span> <span class="n">pagination</span> <span class="o">=</span> <span class="n">require</span><span class="o">(</span><span class="err">&#39;</span><span class="n">hexo</span><span class="o">-</span><span class="n">pagination</span><span class="err">&#39;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl"><span class="n">module</span><span class="o">.</span><span class="na">exports</span> <span class="o">=</span> <span class="n">function</span><span class="o">(</span><span class="n">locals</span><span class="o">){</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">config</span> <span class="o">=</span> <span class="k">this</span><span class="o">.</span><span class="na">config</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">posts</span> <span class="o">=</span> <span class="n">locals</span><span class="o">.</span><span class="na">posts</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">posts</span><span class="o">.</span><span class="na">data</span> <span class="o">=</span> <span class="n">posts</span><span class="o">.</span><span class="na">data</span><span class="o">.</span><span class="na">sort</span><span class="o">(</span><span class="n">function</span><span class="o">(</span><span class="n">a</span><span class="o">,</span> <span class="n">b</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="o">(</span><span class="n">a</span><span class="o">.</span><span class="na">top</span> <span class="o">&amp;&amp;</span> <span class="n">b</span><span class="o">.</span><span class="na">top</span><span class="o">)</span> <span class="o">{</span> <span class="c1">// 两篇文章 top 都有定义
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="k">if</span><span class="o">(</span><span class="n">a</span><span class="o">.</span><span class="na">top</span> <span class="o">==</span> <span class="n">b</span><span class="o">.</span><span class="na">top</span><span class="o">)</span> <span class="k">return</span> <span class="n">b</span><span class="o">.</span><span class="na">date</span> <span class="o">-</span> <span class="n">a</span><span class="o">.</span><span class="na">date</span><span class="o">;</span> <span class="c1">// 若 top 值一样则按照文章日期降序排
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="k">else</span> <span class="k">return</span> <span class="n">b</span><span class="o">.</span><span class="na">top</span> <span class="o">-</span> <span class="n">a</span><span class="o">.</span><span class="na">top</span><span class="o">;</span> <span class="c1">// 否则按照 top 值降序排
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="o">}</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span> <span class="k">if</span><span class="o">(</span><span class="n">a</span><span class="o">.</span><span class="na">top</span> <span class="o">&amp;&amp;</span> <span class="o">!</span><span class="n">b</span><span class="o">.</span><span class="na">top</span><span class="o">)</span> <span class="o">{</span> <span class="c1">// 以下是只有一篇文章 top 有定义，那么将有 top 的排在前面（这里用异或操作居然不行 233）
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="k">return</span> <span class="o">-</span><span class="mi">1</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">        <span class="o">}</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span> <span class="k">if</span><span class="o">(!</span><span class="n">a</span><span class="o">.</span><span class="na">top</span> <span class="o">&amp;&amp;</span> <span class="n">b</span><span class="o">.</span><span class="na">top</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">            <span class="k">return</span> <span class="mi">1</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">        <span class="o">}</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span> <span class="k">return</span> <span class="n">b</span><span class="o">.</span><span class="na">date</span> <span class="o">-</span> <span class="n">a</span><span class="o">.</span><span class="na">date</span><span class="o">;</span> <span class="c1">// 都没定义按照文章日期降序排
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="o">});</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">paginationDir</span> <span class="o">=</span> <span class="n">config</span><span class="o">.</span><span class="na">pagination_dir</span> <span class="o">||</span> <span class="err">&#39;</span><span class="n">page</span><span class="err">&#39;</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="n">pagination</span><span class="o">(</span><span class="err">&#39;&#39;</span><span class="o">,</span> <span class="n">posts</span><span class="o">,</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">perPage</span><span class="o">:</span> <span class="n">config</span><span class="o">.</span><span class="na">index_generator</span><span class="o">.</span><span class="na">per_page</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout</span><span class="o">:</span> <span class="o">[</span><span class="err">&#39;</span><span class="n">index</span><span class="err">&#39;</span><span class="o">,</span> <span class="err">&#39;</span><span class="n">archive</span><span class="err">&#39;</span><span class="o">],</span>
+</span></span><span class="line"><span class="cl">    <span class="n">format</span><span class="o">:</span> <span class="n">paginationDir</span> <span class="o">+</span> <span class="err">&#39;</span><span class="o">/%</span><span class="n">d</span><span class="o">/</span><span class="err">&#39;</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">data</span><span class="o">:</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">__index</span><span class="o">:</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl">    <span class="o">}</span>
+</span></span><span class="line"><span class="cl">  <span class="o">});</span>
+</span></span><span class="line"><span class="cl"><span class="o">};</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="about-页面">about 页面</h3>
+<p>about 页面可以用 HTML 写，你想怎么写都行，我用的最简单的方法，直接<code>hexo n page &quot;about&quot;</code>后，会生成一个 md 文件，也就是后面说的文章，直接写文章就行了。</p>
+<h3 id="添加搜索评论分享">添加搜索，评论，分享</h3>
+<p>搜索功能真心好用，当文章多起来的时候，标签提供的作用已经很少了，只能简单索引，搜索却能精确查找，这里我用的依旧是最简单的本地站内搜索。
+安装<code>hexo-generator-searchdb</code></p>
+<p>在站点的根目录下执行以下命令：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">npm install hexo-generator-searchdb --save
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>配置站点配置文件
+新增以下内容到任意位置：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">search:
+</span></span><span class="line"><span class="cl">  path: search.xml
+</span></span><span class="line"><span class="cl">  field: post
+</span></span><span class="line"><span class="cl">  format: html
+</span></span><span class="line"><span class="cl">  limit: 10000
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>配置主题配置文件</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">## Local search
+</span></span><span class="line"><span class="cl">local_search:
+</span></span><span class="line"><span class="cl">  enable: true
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><a href="https://blog.naaln.com/2016/07/hexo-with-algolia/"target="_blank" rel="external nofollow noopener noreferrer">algolia 参考文件<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+让搜索引擎找到你的博客，还是看到邱承佳学长博文有写到 <a href="https://blog.csdn.net/qq_26891045/article/details/51280470"target="_blank" rel="external nofollow noopener noreferrer">传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="添加访客数阅读量等">添加访客数，阅读量等</h3>
+<p>评论有多说（多说好像挂了），计数有不蒜，我用的不蒜子，还有其他的。</p>
+<h4 id="文章阅读量">文章阅读量</h4>
+<blockquote>
+<p>以下适合非 next 主题的部分主题，next 主题已经自带，到主题配置文件修改就好了。</p>
+</blockquote>
+<p>打开以下路径在你喜欢的地方添加代码，<code>\blog\hexo\themes\主题名字、layout\_partial</code>，找到 <code>article.ejs</code>文件</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">align</span><span class="o">=</span><span class="s">&#34;left&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;busuanzi_container_page_pv&#34;</span><span class="p">&gt;</span> 本文总阅读量<span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;busuanzi_value_page_pv&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>次 <span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="站点访问量访客数">站点访问量，访客数</h4>
+<p>打开以下路径在你喜欢的地方添加代码，<code>\blog\hexo\themes\主题名字、layout\_partial</code>，找到 <code>footer.ejs</code>文件</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js&#34;</span> <span class="na">async</span> <span class="na">defer</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;busuanzi_container_page_pv&#34;</span><span class="p">&gt;</span> 本站总访问量<span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;busuanzi_value_site_pv&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>次 | <span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;busuanzi_container_site_uv&#34;</span><span class="p">&gt;</span> 本站访客数<span class="p">&lt;</span><span class="nt">span</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;busuanzi_value_site_uv&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>人次 <span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><strong>2018.10.08 更新
+不蒜子官网说七牛强制过期域名<del>dn-lbstatics.qbox.me</del>, 所以 js 文件位置发生改变，改为<code>busuanzi.ibruce.info</code></strong></p>
+<h2 id="写文章">写文章</h2>
+<p>hexo 文章用轻量型标签语言 Markdown 编写</p>
+<ul>
+<li><a href="https://sspai.com/post/25137"target="_blank" rel="external nofollow noopener noreferrer">markdown 入门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://markdown.tw/"target="_blank" rel="external nofollow noopener noreferrer">繁体原始文件<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md"target="_blank" rel="external nofollow noopener noreferrer">繁体原始文件 github<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+</ul>
+]]></description>
+</item>
+<item>
+  <title>hexo 添加图片，音乐，链接，视频</title>
+  <link>https://shiqustudio.github.io/posts/hexowrite/</link>
+  <pubDate>Thu, 31 May 2018 23:19:22 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/hexowrite/</guid>
+  <description><![CDATA[<blockquote>
+<p><strong>如果实在搞得头晕直接去 <a href="https://www.jianshu.com/"target="_blank" rel="external nofollow noopener noreferrer">简书<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 写文章，再把简书生成的 md 文章复制过来就好了（简书是个不错的 Markdown 在线编辑器），还可以去 <a href="https://maxiang.io/"target="_blank" rel="external nofollow noopener noreferrer">马克飞象，专为印象笔记打造的 Markdown 编辑器<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，<a href="https://www.typora.io/#"target="_blank" rel="external nofollow noopener noreferrer">typora 也是不错的<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，突然发现 <a href="https://www.csdn.net/"target="_blank" rel="external nofollow noopener noreferrer">csdn<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 也支持 Markdown 编译器了</strong></p>
+</blockquote>
+<h2 id="1-首先">1. 首先</h2>
+<p>刚刚搭博客，很多都不懂，就连插入图片的路径问题都把我整的要命。（我用的 Sublime Text 3 编译器）<br>
+下面讲讲：</p>
+<h3 id="11-设置站点配置_configyml">1.1 设置站点配置_config.yml</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">post_asset_folder: true
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="12-安装插件">1.2 安装插件</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">npm install https://github.com/CodeFalling/hexo-asset-image -- save
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="13-下次再运行-hexo-n-xxxx来生成-md-博文时下路径">1.3 下次再运行 hexo n &ldquo;xxxx&quot;来生成 md 博文时，下路径</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">/source/_posts
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>文件夹内除了 xxxx.md 文件还有一个同名的文件夹，在 xxxx.md 中想引入图片时，先把图片复制到 xxxx 这个文件夹中，然后只需要在 xxxx.md 中按照 markdown 的格式引入图片。</p>
+<h2 id="2-添加图片">2. 添加图片</h2>
+<p>首先大家可以查看 hexo 官方文档 <a href="https://hexo.io/zh-cn/docs/asset-folders.html"target="_blank" rel="external nofollow noopener noreferrer">资源文件夹章节<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="21-markdown-添加">2.1 markdown 添加</h3>
+<p>相对路径添加（我被这个相对路径搞得要死，前面各种出错，大家可以对照我的来插入图片 &hellip;）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#直接写图片名就好了，图片实例见下
+</span></span><span class="line"><span class="cl">![kyrie irving](294136.jpg)
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">#如果改了 Permalink 就要加上文章名，即同名文件夹名
+</span></span><span class="line"><span class="cl">![kyrie irving](hexo-添加图片，音乐，链接，视频/294136.jpg)
+</span></span><span class="line"><span class="cl">#代码压缩后前面还要加一个/
+</span></span><span class="line"><span class="cl">![kyrie irving](/hexo-添加图片，音乐，链接，视频/294136.jpg)
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p></p>
+<h3 id="22-插件添加">2.2 插件添加</h3>
+<p><a href="https://mr-houzi.github.io/2017/10/24/Hexo-asset-img/"target="_blank" rel="external nofollow noopener noreferrer">传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+这种方式被很多人诟病，但有时候也不失一种好方式，简单快捷。<br>
+还有图片名字显示，不错的。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{% asset_img 297787.jpg kyrie irving %}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p></p>
+<h2 id="3-音乐">3. 音乐</h2>
+<p>大家可以看 <a href="https://music.163.com"target="_blank" rel="external nofollow noopener noreferrer">网易云音乐<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的官网，播放音乐可以生成外链，直接拿来用就行了。iframe 插件可以在代码中设置宽高等参数，auto 为自动播放。flash 不可以自己设置参数。看喜好，随便你。
+其他音乐，把插件中的链接替换成要播放的链接就可以了</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#iframe 插件
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=86 src=&#34;//music.163.com/outchain/player?type=2&amp;id=66651&amp;auto=0&amp;height=66&#34;&gt;
+</span></span><span class="line"><span class="cl">&lt;/iframe&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=66651&auto=0&height=66"></iframe>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#flash 插件
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">&lt;embed src=&#34;//music.163.com/style/swf/widget.swf?sid=40249713&amp;type=2&amp;auto=0&amp;width=320&amp;height=66&#34; width=&#34;340&#34; height=&#34;86&#34;  allowNetworking=&#34;all&#34;&gt;
+</span></span><span class="line"><span class="cl">&lt;/embed&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="4-添加链接">4. 添加链接</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">[我的微博](https://weibo.com/liahao)
+</span></span><span class="line"><span class="cl">{% link text url title %}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="5-添加视频">5. 添加视频</h2>
+<blockquote>
+<p>视频链接最好是打开就是视频的链接（youku，YouTube，抖音等）
+可以把视频上传到优酷，抖音等生成外链再拿来用。（优酷上传需要注册和实名认证）
+<a href="https://lruihao.cn/posts/nextplugin/"target="_blank" rel="external nofollow noopener noreferrer">插件参考资料<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+</blockquote>
+<p>自拍手写视频（优酷）</p>
+<blockquote>
+<p>实验室无聊拍的</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">&lt;iframe
+</span></span><span class="line"><span class="cl">	height=500 width=100%
+</span></span><span class="line"><span class="cl">	src=&#34;https://player.youku.com/embed/XMzY0MzgxNDMyOA==&#34;
+</span></span><span class="line"><span class="cl">	frameborder=0 allowfullscreen&gt;
+</span></span><span class="line"><span class="cl">&lt;/iframe&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><iframe 
+	height=500 width=100% 
+	src="https://player.youku.com/embed/XMzY0MzgxNDMyOA==" 
+	frameborder=0 allowfullscreen>
+</iframe>
+<h2 id="工具集合">工具集合</h2>
+<p><a href="https://picgo.github.io/PicGo-Doc/zh/"target="_blank" rel="external nofollow noopener noreferrer">Picgo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="https://maxiang.io/"target="_blank" rel="external nofollow noopener noreferrer">马克飞象<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、CSDN、简书
+<a href="https://sm.ms/"target="_blank" rel="external nofollow noopener noreferrer">SM.MS 图床<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
 </item>
 </channel>
 </rss>

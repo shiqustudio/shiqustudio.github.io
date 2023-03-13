@@ -1,19 +1,20 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Layui - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>Layui - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/layui/</link>
-    <description>Layui - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/layui/" rel="self" type="application/rss+xml" /><item>
+    <description>Layui - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/layui/" rel="self" type="application/rss+xml" /><item>
   <title>宅音乐播放器</title>
-  <link>https://shiqustudio.github.io/player/</link>
+  <link>https://shiqustudio.github.io/posts/player/</link>
   <pubDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/player/</guid>
+  <guid>https://shiqustudio.github.io/posts/player/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/player/images/index.png" referrerpolicy="no-referrer">
       </div><blockquote>
 <p>宅音乐播放器，HTML5 网页播放器，集成后台管理及 API 调用，目前正在开发中，敬请关注~<br>
-<a href="https://github.com/lzx8589561/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">原项目</a> 由 <a href="https://www.ilt.me"target="_blank" rel="external nofollow noopener noreferrer">IT 技术宅</a> 开源，使用 thinkPHP 开发后台。 <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">fork 地址</a> 是我个人学习模仿的库，也是相当于备份源码。<br>
+<a href="https://github.com/lzx8589561/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">原项目<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 由 <a href="https://www.ilt.me"target="_blank" rel="external nofollow noopener noreferrer">IT 技术宅<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 开源，使用 thinkPHP 开发后台。 <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">fork 地址<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是我个人学习模仿的库，也是相当于备份源码。<br>
 <em>注： 插件修改于明月浩空免费版，仅用于学习交流，无商业价值，如发现商业传播，将禁止软件的免费使用。</em></p>
 </blockquote>
 <h2 id="技术栈">技术栈</h2>
@@ -37,12 +38,12 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><ul>
-<li><a href="https://player.ilt.me/"target="_blank" rel="external nofollow noopener noreferrer">https://player.ilt.me/</a></li>
-<li><a href="https://player.lruihao.cn/"target="_blank" rel="external nofollow noopener noreferrer">https://player.lruihao.cn/</a></li>
+<li><a href="https://player.ilt.me/"target="_blank" rel="external nofollow noopener noreferrer">https://player.ilt.me/<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://player.lruihao.cn/"target="_blank" rel="external nofollow noopener noreferrer">https://player.lruihao.cn/<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <h2 id="安装">安装</h2>
 <h3 id="视频安装教程">视频安装教程</h3>
-<p><a href="https://www.bilibili.com/video/av46476706"target="_blank" rel="external nofollow noopener noreferrer">https://www.bilibili.com/video/av46476706</a></p>
+<p><a href="https://www.bilibili.com/video/av46476706"target="_blank" rel="external nofollow noopener noreferrer">https://www.bilibili.com/video/av46476706<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h3 id="依赖">依赖</h3>
 <ul>
 <li>composer</li>

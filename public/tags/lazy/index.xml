@@ -1,17 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>lazy - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>lazy - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/lazy/</link>
-    <description>lazy - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/lazy/" rel="self" type="application/rss+xml" /><item>
+    <description>lazy - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/lazy/" rel="self" type="application/rss+xml" /><item>
   <title>浏览器 IMG 图片原生懒加载 loading=&#34;lazy&#34;</title>
-  <link>https://shiqustudio.github.io/native-img-loading-lazy/</link>
+  <link>https://shiqustudio.github.io/posts/native-img-loading-lazy/</link>
   <pubDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/native-img-loading-lazy/</guid>
+  <guid>https://shiqustudio.github.io/posts/native-img-loading-lazy/</guid>
   <description><![CDATA[<p>记录使用 HTML 原生方案实现图片的懒加载。</p>
 <h2 id="语法规范">语法规范</h2>
-<p>HTML <code>loading</code> 属性适用于 <code>img</code> 和 <code>iframe</code>，语法规范见 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes"target="_blank" rel="external nofollow noopener noreferrer">HTML Standard - Lazy loading attributes</a>。</p>
+<p>HTML <code>loading</code> 属性适用于 <code>img</code> 和 <code>iframe</code>，语法规范见 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes"target="_blank" rel="external nofollow noopener noreferrer">HTML Standard - Lazy loading attributes<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 <table>
 <thead>
 <tr>
@@ -33,9 +34,9 @@
 </tr>
 </tbody>
 </table>
-<p>属性的 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#missing-value-default"target="_blank" rel="external nofollow noopener noreferrer">缺失值默认值</a></em> 和 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#invalid-value-default"target="_blank" rel="external nofollow noopener noreferrer">无效值默认值</a></em> 都是 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#attr-loading-eager-state"target="_blank" rel="external nofollow noopener noreferrer">Eager</a>状态。</p>
+<p>属性的 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#missing-value-default"target="_blank" rel="external nofollow noopener noreferrer">缺失值默认值<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></em> 和 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#invalid-value-default"target="_blank" rel="external nofollow noopener noreferrer">无效值默认值<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></em> 都是 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#attr-loading-eager-state"target="_blank" rel="external nofollow noopener noreferrer">Eager<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>状态。</p>
 <h2 id="实际应用">实际应用</h2>
-<p>基于 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题</a> 版本大于 v0.2.18 的博客网站使用就是原生的懒加载方案，大致如下：</p>
+<p>基于 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 版本大于 v0.2.18 的博客网站使用就是原生的懒加载方案，大致如下：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -74,7 +75,7 @@
 </div><p>设置 <code>data-title</code> 和 <code>data-alt</code> 是因为移动浏览器大多数只要有 <code>title</code> 或 <code>alt</code> 就会显示图片的替代字符，所以等到图片加载完或加载失败后再回填。</p>
 <h2 id="懒加载特性的研究">懒加载特性的研究</h2>
 <blockquote>
-<p>以下结论来自 <a href="https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/"target="_blank" rel="external nofollow noopener noreferrer">浏览器 IMG 图片原生懒加载 loading=”lazy”实践指南 « 张鑫旭-鑫空间-鑫生活</a> 总结部分。</p>
+<p>以下结论来自 <a href="https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/"target="_blank" rel="external nofollow noopener noreferrer">浏览器 IMG 图片原生懒加载 loading=”lazy”实践指南 « 张鑫旭-鑫空间-鑫生活<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 总结部分。</p>
 </blockquote>
 <ol>
 <li>Lazy loading 加载数量与屏幕高度有关，高度越小加载数量越少，但并不是线性关系.</li>
@@ -85,8 +86,8 @@
 </ol>
 <h2 id="参考链接">参考链接</h2>
 <ul>
-<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Performance/Lazy_loading"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading - Web 性能 | MDN</a></li>
-<li><a href="https://caniuse.com/loading-lazy-attr"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading via attribute for images &amp; iframes 兼容性</a></li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Performance/Lazy_loading"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading - Web 性能 | MDN<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://caniuse.com/loading-lazy-attr"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading via attribute for images &amp; iframes 兼容性<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>]]></description>
 </item>
 </channel>

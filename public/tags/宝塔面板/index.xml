@@ -1,25 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>宝塔面板 - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>宝塔面板 - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/</link>
-    <description>宝塔面板 - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 May 2019 20:31:33 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/" rel="self" type="application/rss+xml" /><item>
+    <description>宝塔面板 - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Thu, 16 May 2019 20:31:33 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/" rel="self" type="application/rss+xml" /><item>
   <title>宝塔面板安装 ImgURL 图床</title>
-  <link>https://shiqustudio.github.io/imgurl/</link>
+  <link>https://shiqustudio.github.io/posts/imgurl/</link>
   <pubDate>Thu, 16 May 2019 20:31:33 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/imgurl/</guid>
+  <guid>https://shiqustudio.github.io/posts/imgurl/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/imgurl/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
 <p>ImgURL 是一个开源、免费的图床程序，ImgURL 2.x 之后对环境要求更高，尤其是 ImageMagick 组件的支持，很多朋友不清楚怎样安装这个组件，这篇文章分享宝塔面板安装 ImgURL 2.x 图床的过程（包括 ImgURL 2.x 需要的各种组件）
-<a href="https://www.xiaoz.me/archives/12081"target="_blank" rel="external nofollow noopener noreferrer">阅读原文</a></p>
+<a href="https://www.xiaoz.me/archives/12081"target="_blank" rel="external nofollow noopener noreferrer">阅读原文<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h2 id="准备工作">准备工作</h2>
 <ol>
 <li>已经安装宝塔面板</li>
 <li>在宝塔后台创建一个站点</li>
-<li>下载 <a href="https://github.com/helloxz/imgurl"target="_blank" rel="external nofollow noopener noreferrer">ImgURL 2.x</a> 上传到站点根目录并解压</li>
+<li>下载 <a href="https://github.com/helloxz/imgurl"target="_blank" rel="external nofollow noopener noreferrer">ImgURL 2.x<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 上传到站点根目录并解压</li>
 </ol>
 <h2 id="设置伪静态">设置伪静态</h2>
 <p>如果您宝塔面板安装的 Apache 则不需要再设置伪静态，直接跳过这个步骤，如果使用的 Nginx 环境，请继续往下看。</p>
@@ -58,16 +59,16 @@
 </p>
 <h2 id="其它说明">其它说明</h2>
 <ul>
-<li>如果安装遇到任何问题，请留言反馈或到 <a href="https://ttt.sh/category/6/imgurl%E5%9B%BE%E5%BA%8A"target="_blank" rel="external nofollow noopener noreferrer">3T 官方社区</a> 进行反馈</li>
-<li>ImgURL 更多使用说明请参考帮助文档：<a href="https://dwz.ovh/imgurldoc"target="_blank" rel="external nofollow noopener noreferrer">https://dwz.ovh/imgurldoc</a></li>
+<li>如果安装遇到任何问题，请留言反馈或到 <a href="https://ttt.sh/category/6/imgurl%E5%9B%BE%E5%BA%8A"target="_blank" rel="external nofollow noopener noreferrer">3T 官方社区<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 进行反馈</li>
+<li>ImgURL 更多使用说明请参考帮助文档：<a href="https://dwz.ovh/imgurldoc"target="_blank" rel="external nofollow noopener noreferrer">https://dwz.ovh/imgurldoc<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>]]></description>
 </item>
 <item>
   <title>本地搭建网站服务器并穿透内网</title>
-  <link>https://shiqustudio.github.io/ngrok/</link>
+  <link>https://shiqustudio.github.io/posts/ngrok/</link>
   <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <guid>https://shiqustudio.github.io/posts/ngrok/</guid>
   <description><![CDATA[<blockquote>
 <p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
 </blockquote>
@@ -85,13 +86,13 @@
 </item>
 <item>
   <title>宝塔面板安装</title>
-  <link>https://shiqustudio.github.io/bt/</link>
+  <link>https://shiqustudio.github.io/posts/bt/</link>
   <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/bt/</guid>
+  <guid>https://shiqustudio.github.io/posts/bt/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
-      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h2 id="系统要求">系统要求</h2>
 <blockquote>
 <p>操作系统：全新系统（支持 CentOS、Ubuntu、Debian、Fedora、Deepin)，<br>

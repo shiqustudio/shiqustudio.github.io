@@ -1,16 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>HDU - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>HDU - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/hdu/</link>
-    <description>HDU - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Apr 2019 16:43:19 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/hdu/" rel="self" type="application/rss+xml" /><item>
+    <description>HDU - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Fri, 12 Apr 2019 16:43:19 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/hdu/" rel="self" type="application/rss+xml" /><item>
   <title>HDU 1009 FatMouse&#39; Trade（贪心）</title>
-  <link>https://shiqustudio.github.io/hdu1009/</link>
+  <link>https://shiqustudio.github.io/posts/hdu1009/</link>
   <pubDate>Fri, 12 Apr 2019 16:43:19 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hdu1009/</guid>
+  <guid>https://shiqustudio.github.io/posts/hdu1009/</guid>
   <description><![CDATA[<h2 id="题目大意">题目大意：</h2>
-<p><a href="http://acm.hdu.edu.cn/showproblem.php?pid=1009"target="_blank" rel="external nofollow noopener noreferrer">题目链接</a><br>
+<p><a href="http://acm.hdu.edu.cn/showproblem.php?pid=1009"target="_blank" rel="external nofollow noopener noreferrer">题目链接<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
 老鼠有 M 磅猫食 , 有 N 个房间 , 每个房间前有一只猫 , 房间里有老鼠最喜欢的食品 J[i] , 若要得到房间的食物 , 必须付出相应的猫食 F[i] , 当然这只老鼠没必要每次都付出所有的 F[i]，若它付出 F[i] 的 a%， 则得到 J[i] 的 a%，求老鼠能吃到的最多的食物。</p>
 <h3 id="sample-input">Sample Input</h3>
 <pre><code>5 3
@@ -121,11 +122,11 @@
 </item>
 <item>
   <title>小希的迷宫-HDU-1272（并查集 or 树性质）</title>
-  <link>https://shiqustudio.github.io/hdu1272/</link>
+  <link>https://shiqustudio.github.io/posts/hdu1272/</link>
   <pubDate>Wed, 01 Aug 2018 21:45:50 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hdu1272/</guid>
-  <description><![CDATA[<h2 id="题目链接小希的迷宫httpacmhdueducnshowproblemphppid1272">题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=1272"target="_blank" rel="external nofollow noopener noreferrer">小希的迷宫</a></h2>
+  <guid>https://shiqustudio.github.io/posts/hdu1272/</guid>
+  <description><![CDATA[<h2 id="题目链接小希的迷宫httpacmhdueducnshowproblemphppid1272">题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=1272"target="_blank" rel="external nofollow noopener noreferrer">小希的迷宫<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
 <h2 id="并查集">并查集：</h2>
 <ul>
 <li>无回路</li>
@@ -316,12 +317,12 @@
 </item>
 <item>
   <title>How Many Answers Are Wrong-hdu3038（带权并查集）</title>
-  <link>https://shiqustudio.github.io/hdu3038/</link>
+  <link>https://shiqustudio.github.io/posts/hdu3038/</link>
   <pubDate>Wed, 01 Aug 2018 11:45:53 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hdu3038/</guid>
-  <description><![CDATA[<p>题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=3038"target="_blank" rel="external nofollow noopener noreferrer">How Many Answers Are Wrong</a><br>
-思路参考：<a href="https://blog.csdn.net/duan_1998/article/details/70196576"target="_blank" rel="external nofollow noopener noreferrer">本题直接参考</a>,<a href="https://blog.csdn.net/dextrad_ihacker/article/details/51016017"target="_blank" rel="external nofollow noopener noreferrer">图文解释</a></p>
+  <guid>https://shiqustudio.github.io/posts/hdu3038/</guid>
+  <description><![CDATA[<p>题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=3038"target="_blank" rel="external nofollow noopener noreferrer">How Many Answers Are Wrong<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+思路参考：<a href="https://blog.csdn.net/duan_1998/article/details/70196576"target="_blank" rel="external nofollow noopener noreferrer">本题直接参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>,<a href="https://blog.csdn.net/dextrad_ihacker/article/details/51016017"target="_blank" rel="external nofollow noopener noreferrer">图文解释<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -422,12 +423,12 @@
 </item>
 <item>
   <title>how many tables-HDU-1213（并查集求连通域数目）</title>
-  <link>https://shiqustudio.github.io/how-tables/</link>
+  <link>https://shiqustudio.github.io/posts/how-tables/</link>
   <pubDate>Tue, 31 Jul 2018 11:12:10 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/how-tables/</guid>
+  <guid>https://shiqustudio.github.io/posts/how-tables/</guid>
   <description><![CDATA[<p>并查集求连通域数目，初始化 sum=n；
-题目链接： <a href="http://acm.hdu.edu.cn/showproblem.php?pid=1213"target="_blank" rel="external nofollow noopener noreferrer">how many tables</a></p>
+题目链接： <a href="http://acm.hdu.edu.cn/showproblem.php?pid=1213"target="_blank" rel="external nofollow noopener noreferrer">how many tables<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -516,12 +517,12 @@
 </item>
 <item>
   <title>畅通工程-HDU-1232（并查集经典模板）</title>
-  <link>https://shiqustudio.github.io/%E7%95%85%E9%80%9A%E5%B7%A5%E7%A8%8B/</link>
+  <link>https://shiqustudio.github.io/posts/%E7%95%85%E9%80%9A%E5%B7%A5%E7%A8%8B/</link>
   <pubDate>Tue, 31 Jul 2018 11:08:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/%E7%95%85%E9%80%9A%E5%B7%A5%E7%A8%8B/</guid>
-  <description><![CDATA[<h4 id="并查集入门推荐超有爱的并查集httpsblogcsdnnetniushuai666articledetails6662911">并查集入门推荐：<a href="https://blog.csdn.net/niushuai666/article/details/6662911"target="_blank" rel="external nofollow noopener noreferrer">超有爱的并查集~</a></h4>
-<h4 id="题目链接畅通工程httpacmhdueducnshowproblemphppid1232">题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=1232"target="_blank" rel="external nofollow noopener noreferrer">畅通工程</a></h4>
+  <guid>https://shiqustudio.github.io/posts/%E7%95%85%E9%80%9A%E5%B7%A5%E7%A8%8B/</guid>
+  <description><![CDATA[<h4 id="并查集入门推荐超有爱的并查集httpsblogcsdnnetniushuai666articledetails6662911">并查集入门推荐：<a href="https://blog.csdn.net/niushuai666/article/details/6662911"target="_blank" rel="external nofollow noopener noreferrer">超有爱的并查集~<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h4>
+<h4 id="题目链接畅通工程httpacmhdueducnshowproblemphppid1232">题目链接：<a href="http://acm.hdu.edu.cn/showproblem.php?pid=1232"target="_blank" rel="external nofollow noopener noreferrer">畅通工程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h4>
 <h4 id="题意分析">题意分析：</h4>
 <p>首先在地图上给你若干个城镇，这些城镇都可以看作点，然后告诉你哪些对城镇之间是有道路直接相连的。最后要解决的是整幅图的连通性问题。比如随意给你两个点，让你判断它们是否连通，或者问你整幅图一共有几个连通分支，也就是被分成了几个互相独立的块。像畅通工程这题，问还需要修几条路，实质就是求有几个连通分支。</p>
 <div class="highlight"><div class="chroma">
@@ -681,11 +682,11 @@
 </item>
 <item>
   <title>HDU-1495-非常可乐（bfs 模拟倒水 or 数论）</title>
-  <link>https://shiqustudio.github.io/hdu-1495/</link>
+  <link>https://shiqustudio.github.io/posts/hdu-1495/</link>
   <pubDate>Tue, 24 Jul 2018 15:34:00 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hdu-1495/</guid>
-  <description><![CDATA[<p><a href="http://acm.hdu.edu.cn/showproblem.php?pid=1495"target="_blank" rel="external nofollow noopener noreferrer">非常可乐</a></p>
+  <guid>https://shiqustudio.github.io/posts/hdu-1495/</guid>
+  <description><![CDATA[<p><a href="http://acm.hdu.edu.cn/showproblem.php?pid=1495"target="_blank" rel="external nofollow noopener noreferrer">非常可乐<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <p>大家一定觉的运动以后喝可乐是一件很惬意的事情，但是 seeyou 却不这么认为。因为每次当 seeyou 买了可乐以后，阿牛就要求和 seeyou 一起分享这一瓶可乐，而且一定要喝的和 seeyou 一样多。但 seeyou 的手中只有两个杯子，它们的容量分别是 N 毫升和 M 毫升 可乐的体积为 S （S&lt;101）毫升　（正好装满一瓶） ，它们三个之间可以相互倒可乐 （都是没有刻度的，且 S==N+M，101 ＞ S ＞ 0，N ＞ 0，M ＞ 0) 。聪明的 ACMER 你们说他们能平分吗？如果能请输出倒可乐的最少的次数，如果不能输出&quot;NO&quot;。</p>
 <h3 id="input">Input</h3>
 <p>三个整数 : S 可乐的体积 , N 和 M 是两个杯子的容量，以&quot;0 0 0&quot;结束。</p>
@@ -970,7 +971,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>然后杭电上讨论板子上提供一种数论题解，<del>但是数据存在一点问题，只不过有些数据好像不对；比如： 10 6 5 的结果应该是 1 而不是 9</del>， 也提示我们多维思考同一个问题！</p>
-<p><a href="https://blog.csdn.net/V5ZSQ/article/details/52097459"target="_blank" rel="external nofollow noopener noreferrer">数论推导</a></p>
+<p><a href="https://blog.csdn.net/V5ZSQ/article/details/52097459"target="_blank" rel="external nofollow noopener noreferrer">数论推导<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -1007,11 +1008,11 @@
 </item>
 <item>
   <title>hdu-2612-Find a way（双 bfs）</title>
-  <link>https://shiqustudio.github.io/hdu-2612/</link>
+  <link>https://shiqustudio.github.io/posts/hdu-2612/</link>
   <pubDate>Mon, 23 Jul 2018 12:34:42 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hdu-2612/</guid>
-  <description><![CDATA[<h3 id="find-a-wayhttpacmhdueducnshowproblemphppid2612"><a href="http://acm.hdu.edu.cn/showproblem.php?pid=2612"target="_blank" rel="external nofollow noopener noreferrer">Find a way</a></h3>
+  <guid>https://shiqustudio.github.io/posts/hdu-2612/</guid>
+  <description><![CDATA[<h3 id="find-a-wayhttpacmhdueducnshowproblemphppid2612"><a href="http://acm.hdu.edu.cn/showproblem.php?pid=2612"target="_blank" rel="external nofollow noopener noreferrer">Find a way<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h3>
 <p>圣诞节要到了，坤神和瑞瑞这对基佬想一起去召唤师大峡谷开开车。百度地图一下，发现周围的召唤师大峡谷还不少，这对基佬纠结着，该去哪一个。坤神：我要去左边的这个（因为离自己比较近 哈哈~）。瑞瑞：我要去右边的这个（因为离自己比较近 嘿嘿~） &hellip;&hellip;.. 这对基佬闹矛盾了，开车有危险了！ 为了不让他们去召唤师大峡谷坑人，riot 决定让他们去 X 召唤师大峡谷，保证他俩所走的路程和最短。每走一个点需要花费 11 分钟，输出他们一共花费多少时间（最短时间噢）</p>
 <h3 id="input">Input</h3>
 <p>多组测试数据</p>
@@ -1047,7 +1048,7 @@ Y..@.
 66
 </code></pre>
 <h3 id="hint">Hint</h3>
-<p>对于第一组样例，坤神和瑞瑞去矩阵（4,1） 这个召唤师大峡谷，耗费的时间为 3 _ 11 + 3 _ 11 = 66， 去矩阵（1,4）这个召唤师大峡谷，耗费的时间为 5 _ 11 + 3 _ 11 = 88 。所以，最终答案：66。<a href="https://blog.csdn.net/ld_1090815922/article/details/72448569"target="_blank" rel="external nofollow noopener noreferrer">思路参考</a></p>
+<p>对于第一组样例，坤神和瑞瑞去矩阵（4,1） 这个召唤师大峡谷，耗费的时间为 3 _ 11 + 3 _ 11 = 66， 去矩阵（1,4）这个召唤师大峡谷，耗费的时间为 5 _ 11 + 3 _ 11 = 88 。所以，最终答案：66。<a href="https://blog.csdn.net/ld_1090815922/article/details/72448569"target="_blank" rel="external nofollow noopener noreferrer">思路参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <p><code>写代码总是好粗心！！</code></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1229,12 +1230,12 @@ Y..@.
 </item>
 <item>
   <title>hdu-1241-Oil Deposits (dfs)</title>
-  <link>https://shiqustudio.github.io/hdu-1241/</link>
+  <link>https://shiqustudio.github.io/posts/hdu-1241/</link>
   <pubDate>Sun, 22 Jul 2018 11:37:20 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hdu-1241/</guid>
-  <description><![CDATA[<h2 id="oil-depositshttpacmhdueducnshowproblemphppid1241"><a href="http://acm.hdu.edu.cn/showproblem.php?pid=1241"target="_blank" rel="external nofollow noopener noreferrer">Oil Deposits</a></h2>
-<p><a href="https://vjudge.net/contest/238973#problem/L"target="_blank" rel="external nofollow noopener noreferrer">翻译</a><br>
+  <guid>https://shiqustudio.github.io/posts/hdu-1241/</guid>
+  <description><![CDATA[<h2 id="oil-depositshttpacmhdueducnshowproblemphppid1241"><a href="http://acm.hdu.edu.cn/showproblem.php?pid=1241"target="_blank" rel="external nofollow noopener noreferrer">Oil Deposits<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<p><a href="https://vjudge.net/contest/238973#problem/L"target="_blank" rel="external nofollow noopener noreferrer">翻译<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
 Time Limit: 2000/1000 MS (Java/Others) Memory Limit: 65536/32768 K (Java/Others)<br>
 Total Submission(s): 41406 Accepted Submission(s): 23977</p>
 <h4 id="problem-description">Problem Description</h4>

@@ -1,18 +1,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>ubuntu - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>ubuntu - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/ubuntu/</link>
-    <description>ubuntu - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 17 May 2019 23:08:04 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/ubuntu/" rel="self" type="application/rss+xml" /><item>
+    <description>ubuntu - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Fri, 17 May 2019 23:08:04 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/ubuntu/" rel="self" type="application/rss+xml" /><item>
   <title>HustOJ 基础搭建教程</title>
-  <link>https://shiqustudio.github.io/hustoj/</link>
+  <link>https://shiqustudio.github.io/posts/hustoj/</link>
   <pubDate>Fri, 17 May 2019 23:08:04 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hustoj/</guid>
+  <guid>https://shiqustudio.github.io/posts/hustoj/</guid>
   <description><![CDATA[<blockquote>
-<p>目前 HustOj 在 GitHUb 地址是：<a href="https://github.com/zhblue/hustoj"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/zhblue/hustoj</a><br>
+<p>目前 HustOj 在 GitHUb 地址是：<a href="https://github.com/zhblue/hustoj"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/zhblue/hustoj<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
 <strong>安装时注意 ubuntu 版本</strong>，没条件的可以在自己 ubuntu 上尝试，或者虚拟机上（关注公众号回复<code>ubuntu16.04</code>获取 iso 镜像文件），也可以在云实验室的云服务器上做做实验。<br>
-更多说明及 ACM/NOIP 题库下载见官网博客 <a href="http://www.hustoj.com/"target="_blank" rel="external nofollow noopener noreferrer">代码的那些事|程序员回忆录</a></p>
+更多说明及 ACM/NOIP 题库下载见官网博客 <a href="http://www.hustoj.com/"target="_blank" rel="external nofollow noopener noreferrer">代码的那些事|程序员回忆录<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h2 id="快速安装-oj">快速安装 OJ</h2>
 <p>下载</p>
@@ -69,10 +70,10 @@
 </item>
 <item>
   <title>本地搭建网站服务器并穿透内网</title>
-  <link>https://shiqustudio.github.io/ngrok/</link>
+  <link>https://shiqustudio.github.io/posts/ngrok/</link>
   <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <guid>https://shiqustudio.github.io/posts/ngrok/</guid>
   <description><![CDATA[<blockquote>
 <p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
 </blockquote>
@@ -90,10 +91,10 @@
 </item>
 <item>
   <title>ubuntu &#43; windows 双系统默认启动项设置</title>
-  <link>https://shiqustudio.github.io/windefault/</link>
+  <link>https://shiqustudio.github.io/posts/windefault/</link>
   <pubDate>Thu, 21 Mar 2019 12:48:30 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/windefault/</guid>
+  <guid>https://shiqustudio.github.io/posts/windefault/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/windefault/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -119,10 +120,10 @@
 </item>
 <item>
   <title>win10,ubuntu 双系统时间不一致</title>
-  <link>https://shiqustudio.github.io/ubuntutime/</link>
+  <link>https://shiqustudio.github.io/posts/ubuntutime/</link>
   <pubDate>Fri, 15 Mar 2019 14:28:10 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ubuntutime/</guid>
+  <guid>https://shiqustudio.github.io/posts/ubuntutime/</guid>
   <description><![CDATA[<blockquote>
 <p>我的 Ubuntu 和 Windows 双系统是 Ubuntu 是第一启动项，所以总是开机忘记点下键，一进 Ubuntu 系统时间就不对了（总是少了 8 小时），回到 Windows 时间也是错的。知道是错的调整一下还好。忘记调了有时候真的会误事。比如说 git 版本控制提交会遇到问题种种等。</p>
 </blockquote>

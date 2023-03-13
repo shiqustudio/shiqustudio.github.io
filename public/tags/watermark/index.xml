@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>watermark - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>watermark - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/watermark/</link>
-    <description>watermark - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/watermark/" rel="self" type="application/rss+xml" /><item>
+    <description>watermark - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/watermark/" rel="self" type="application/rss+xml" /><item>
   <title>Cell Watermark</title>
   <link>https://shiqustudio.github.io/projects/cell-watermark/</link>
   <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
@@ -196,7 +197,7 @@
 </tbody>
 </table>
 <blockquote>
-<p>Author: <a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">Lruihao</a></p>
+<p>Author: <a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">Lruihao<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h3 id="methods">Methods</h3>
 <h4 id="uploadcontent">upload(content)</h4>

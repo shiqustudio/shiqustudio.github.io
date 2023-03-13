@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>linux - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>linux - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/linux/</link>
-    <description>linux - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/linux/" rel="self" type="application/rss+xml" /><item>
+    <description>linux - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/linux/" rel="self" type="application/rss+xml" /><item>
   <title>linux 文件权限</title>
-  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <link>https://shiqustudio.github.io/posts/linux-permission/</link>
   <pubDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <guid>https://shiqustudio.github.io/posts/linux-permission/</guid>
   <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>
 <h2 id="查看文件权限">查看文件权限</h2>
 <p>查看 linux 系统下的文件权限，可以使用 <code>ll</code> 命令或者 <code>ls</code> 命令 带 <code>-l</code>（长列表选项）</p>
@@ -121,10 +122,10 @@
 </item>
 <item>
   <title>Cron 表达式的基本语法</title>
-  <link>https://shiqustudio.github.io/cron/</link>
+  <link>https://shiqustudio.github.io/posts/cron/</link>
   <pubDate>Wed, 25 Mar 2020 09:19:44 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/cron/</guid>
+  <guid>https://shiqustudio.github.io/posts/cron/</guid>
   <description><![CDATA[<h2 id="基本语法">基本语法</h2>
 <blockquote>
 <p><code>&lt;秒&gt; &lt;分钟&gt; &lt;小时&gt; &lt;日期 day-of-month&gt; &lt;月份&gt; &lt;星期 day-of-week&gt;</code></p>
@@ -328,14 +329,14 @@
 </item>
 <item>
   <title>HustOJ 基础搭建教程</title>
-  <link>https://shiqustudio.github.io/hustoj/</link>
+  <link>https://shiqustudio.github.io/posts/hustoj/</link>
   <pubDate>Fri, 17 May 2019 23:08:04 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/hustoj/</guid>
+  <guid>https://shiqustudio.github.io/posts/hustoj/</guid>
   <description><![CDATA[<blockquote>
-<p>目前 HustOj 在 GitHUb 地址是：<a href="https://github.com/zhblue/hustoj"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/zhblue/hustoj</a><br>
+<p>目前 HustOj 在 GitHUb 地址是：<a href="https://github.com/zhblue/hustoj"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/zhblue/hustoj<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
 <strong>安装时注意 ubuntu 版本</strong>，没条件的可以在自己 ubuntu 上尝试，或者虚拟机上（关注公众号回复<code>ubuntu16.04</code>获取 iso 镜像文件），也可以在云实验室的云服务器上做做实验。<br>
-更多说明及 ACM/NOIP 题库下载见官网博客 <a href="http://www.hustoj.com/"target="_blank" rel="external nofollow noopener noreferrer">代码的那些事|程序员回忆录</a></p>
+更多说明及 ACM/NOIP 题库下载见官网博客 <a href="http://www.hustoj.com/"target="_blank" rel="external nofollow noopener noreferrer">代码的那些事|程序员回忆录<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h2 id="快速安装-oj">快速安装 OJ</h2>
 <p>下载</p>
@@ -392,10 +393,10 @@
 </item>
 <item>
   <title>本地搭建网站服务器并穿透内网</title>
-  <link>https://shiqustudio.github.io/ngrok/</link>
+  <link>https://shiqustudio.github.io/posts/ngrok/</link>
   <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ngrok/</guid>
+  <guid>https://shiqustudio.github.io/posts/ngrok/</guid>
   <description><![CDATA[<blockquote>
 <p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
 </blockquote>
@@ -413,10 +414,10 @@
 </item>
 <item>
   <title>ubuntu &#43; windows 双系统默认启动项设置</title>
-  <link>https://shiqustudio.github.io/windefault/</link>
+  <link>https://shiqustudio.github.io/posts/windefault/</link>
   <pubDate>Thu, 21 Mar 2019 12:48:30 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/windefault/</guid>
+  <guid>https://shiqustudio.github.io/posts/windefault/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/windefault/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -442,13 +443,13 @@
 </item>
 <item>
   <title>宝塔面板安装</title>
-  <link>https://shiqustudio.github.io/bt/</link>
+  <link>https://shiqustudio.github.io/posts/bt/</link>
   <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/bt/</guid>
+  <guid>https://shiqustudio.github.io/posts/bt/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
-      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h2 id="系统要求">系统要求</h2>
 <blockquote>
 <p>操作系统：全新系统（支持 CentOS、Ubuntu、Debian、Fedora、Deepin)，<br>
@@ -499,10 +500,10 @@
 </item>
 <item>
   <title>win10,ubuntu 双系统时间不一致</title>
-  <link>https://shiqustudio.github.io/ubuntutime/</link>
+  <link>https://shiqustudio.github.io/posts/ubuntutime/</link>
   <pubDate>Fri, 15 Mar 2019 14:28:10 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ubuntutime/</guid>
+  <guid>https://shiqustudio.github.io/posts/ubuntutime/</guid>
   <description><![CDATA[<blockquote>
 <p>我的 Ubuntu 和 Windows 双系统是 Ubuntu 是第一启动项，所以总是开机忘记点下键，一进 Ubuntu 系统时间就不对了（总是少了 8 小时），回到 Windows 时间也是错的。知道是错的调整一下还好。忘记调了有时候真的会误事。比如说 git 版本控制提交会遇到问题种种等。</p>
 </blockquote>
@@ -558,10 +559,10 @@
 </item>
 <item>
   <title>shell 脚本初体验</title>
-  <link>https://shiqustudio.github.io/shell/</link>
+  <link>https://shiqustudio.github.io/posts/shell/</link>
   <pubDate>Mon, 29 Oct 2018 11:57:39 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shell/</guid>
+  <guid>https://shiqustudio.github.io/posts/shell/</guid>
   <description><![CDATA[<p>今天上机学了几个小命令</p>
 <ul>
 <li>read</li>
@@ -690,10 +691,10 @@
 </item>
 <item>
   <title>云服务器 CentOS 系统搭建 web 服务</title>
-  <link>https://shiqustudio.github.io/web-server-yun/</link>
+  <link>https://shiqustudio.github.io/posts/web-server-yun/</link>
   <pubDate>Mon, 29 Oct 2018 09:15:58 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/web-server-yun/</guid>
+  <guid>https://shiqustudio.github.io/posts/web-server-yun/</guid>
   <description><![CDATA[<h3 id="搭建-apache-web-服务">搭建 Apache web 服务</h3>
 <ol>
 <li>安装 Apache 超文本传输协议 (HTTP) 服务器的主程序</li>
@@ -790,14 +791,14 @@
 </item>
 <item>
   <title>termux 基本使用教程</title>
-  <link>https://shiqustudio.github.io/termux1/</link>
+  <link>https://shiqustudio.github.io/posts/termux1/</link>
   <pubDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/termux1/</guid>
+  <guid>https://shiqustudio.github.io/posts/termux1/</guid>
   <description><![CDATA[<blockquote>
-<p>前面有一篇文章写到一些，<a href="https://lruihao.cn/posts/termux/"target="_blank" rel="external nofollow noopener noreferrer">在 Android 上搭建 hexo 博客</a>
-<strong>本文当初摘要自 <a href="https://www.sqlsec.com/2018/05/termux.html?yyue=a21bo.50862.201879"target="_blank" rel="external nofollow noopener noreferrer">国光个人博客</a></strong>
-如若作者博客 IP 被墙，可前往国光第三方博客诸如 csdn 等。<a href="https://www.freebuf.com/geek/170510.html"target="_blank" rel="external nofollow noopener noreferrer">备用</a></p>
+<p>前面有一篇文章写到一些，<a href="https://lruihao.cn/posts/termux/"target="_blank" rel="external nofollow noopener noreferrer">在 Android 上搭建 hexo 博客<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<strong>本文当初摘要自 <a href="https://www.sqlsec.com/2018/05/termux.html?yyue=a21bo.50862.201879"target="_blank" rel="external nofollow noopener noreferrer">国光个人博客<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong>
+如若作者博客 IP 被墙，可前往国光第三方博客诸如 csdn 等。<a href="https://www.freebuf.com/geek/170510.html"target="_blank" rel="external nofollow noopener noreferrer">备用<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h3 id="初始化">初始化</h3>
 <p>下载并初始化 termux</p>
@@ -885,7 +886,7 @@
 </div>
 </div><p>即可切换 root 用户，这个时候会弹出 root 授权提示。在管理员身份下，输入 exit 可回到普通用户身份。</p>
 <h3 id="美化">美化</h3>
-<p><a href="https://github.com/Cabbagec/termux-ohmyzsh"target="_blank" rel="external nofollow noopener noreferrer">Termux-ohmyzsh</a></p>
+<p><a href="https://github.com/Cabbagec/termux-ohmyzsh"target="_blank" rel="external nofollow noopener noreferrer">Termux-ohmyzsh<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <p>作用 ： 美化之外，主要使用了 zsh 来替代 bash 作为默认 shell。使用一键安装脚本来安装，一步到位，顺便启动了外置存储，可以直接访问 SD 卡下的目录，创建软文件夹。</p>
 <h4 id="使用">使用</h4>
 <div class="highlight"><div class="chroma">
@@ -1045,9 +1046,9 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>没出错就可以正常通过相应域名访问了。
-<a href="https://lruihao.github.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.github.io</a>
-<a href="https://liruihao.coding.me"target="_blank" rel="external nofollow noopener noreferrer">https://liruihao.coding.me</a>
-<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.gitee.io</a> <strong>//手机 hexo 效果展示</strong></p>
+<a href="https://lruihao.github.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.github.io<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="https://liruihao.coding.me"target="_blank" rel="external nofollow noopener noreferrer">https://liruihao.coding.me<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.gitee.io<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> <strong>//手机 hexo 效果展示</strong></p>
 <h3 id="ssh-连接电脑或者服务器">ssh 连接电脑或者服务器</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1155,6 +1156,153 @@ cmatrix -b -C blue
 主义：在运行状态下，使用 0-9 数字，可以改变运行速度快慢。
 </code></pre>
 <p>开启你的装逼之路把，骚年！</p>
+]]></description>
+</item>
+<item>
+  <title>linux 编程初体验</title>
+  <link>https://shiqustudio.github.io/posts/linux-hello-c/</link>
+  <pubDate>Mon, 15 Oct 2018 21:19:27 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/linux-hello-c/</guid>
+  <description><![CDATA[<blockquote>
+<p>在 Linux 上编译 c 语言文件。</p>
+</blockquote>
+<h3 id="打开-vim-编辑器">打开 vim 编辑器</h3>
+<p>（没有就用 vi, 或者先安装 vim<code>sudo apt-get install vim</code>)</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ vim
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="编辑文件">编辑文件</h3>
+<p>打开文件编辑器之后编辑文件
+</p>
+<p>首先按<code>Esc</code>再<code>:</code>进入末行命令<br>
+再保存为 hello.c 文件后退出</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">: w hello.c
+</span></span><span class="line"><span class="cl">: q
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>打开目录看看生成的文件</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ ls
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="编译生成可执行文件并执行">编译生成可执行文件并执行</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$ gcc hello.c -o hello
+</span></span><span class="line"><span class="cl">$ ./hello
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p></p>
+<p>若权限不够则加可执行权限<code>chmod +x hello</code></p>
+]]></description>
+</item>
+<item>
+  <title>linux/centos 下的安装 git</title>
+  <link>https://shiqustudio.github.io/posts/linux-git/</link>
+  <pubDate>Sat, 22 Sep 2018 22:28:45 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/linux-git/</guid>
+  <description><![CDATA[<h3 id="下载-git">下载 git</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">wget https://github.com/git/git/archive/v2.14.1.zip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="安装依赖">安装依赖</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">sudo yum -y install zlib-devel openssl-devel cpio expat-devel gettext-devel curl-devel perl-ExtUtils-CBuilder perl-ExtUtils-MakeMaker
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="解压-git">解压 git</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">unzip v2.14.1.zip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>注：
+unzip 命令用不了，具体步骤如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#yum list | grep zip/unzip 
+</span></span><span class="line"><span class="cl">#yum install zip
+</span></span><span class="line"><span class="cl">#yum install unzip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>基本完成，如果在编译的时候出现错误：<code>gcc : error trying to exec 'cc1plus': execvp : No sunch file or directory</code><br>
+可以用<code>gcc -v/g++ -v</code> 来查看 gcc 版本，会发现没有安装。安装如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">#yum list | grep gcc
+</span></span><span class="line"><span class="cl">#yum install gcc-c++
+</span></span><span class="line"><span class="cl">#yum install unzip
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="将-git-安装到usrlocal-上">将 git 安装到/usr/local 上</h3>
+<p>先进入 git 文件夹<br>
+编译<br>
+安装</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">cd git-2.14.1
+</span></span><span class="line"><span class="cl">make prefix=/usr/local all
+</span></span><span class="line"><span class="cl">make prefix=/usr/local install
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="验证是否安装完成">验证是否安装完成</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git --version
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>&hellip;</p>
 ]]></description>
 </item>
 </channel>

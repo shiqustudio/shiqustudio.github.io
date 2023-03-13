@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Grocery - 分类 - 我的 Hugo FixIt 网站</title>
+    <title>Grocery - 分类 - 拾趣</title>
     <link>https://shiqustudio.github.io/categories/grocery/</link>
-    <description>Grocery - 分类 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 31 Jul 2022 13:54:14 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/grocery/" rel="self" type="application/rss+xml" /><item>
+    <description>Grocery - 分类 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 31 Jul 2022 13:54:14 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/grocery/" rel="self" type="application/rss+xml" /><item>
   <title>自定义 ohmyzsh 主题</title>
-  <link>https://shiqustudio.github.io/ohmyzsh-custom/</link>
+  <link>https://shiqustudio.github.io/posts/ohmyzsh-custom/</link>
   <pubDate>Sun, 31 Jul 2022 13:54:14 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ohmyzsh-custom/</guid>
+  <guid>https://shiqustudio.github.io/posts/ohmyzsh-custom/</guid>
   <description><![CDATA[<p>ohmyzsh 自带了很多主题，也有很多没有收录的扩展主题，我就想要个简约的主题，但是每个都差点意思，干脆改一个主题。</p>
 <h2 id="自定义主题">自定义主题</h2>
 <p>复制默认主题，当作模板：</p>
@@ -74,10 +75,10 @@
 </item>
 <item>
   <title>判断三角形的黑盒测试</title>
-  <link>https://shiqustudio.github.io/judgetriangle/</link>
+  <link>https://shiqustudio.github.io/posts/judgetriangle/</link>
   <pubDate>Sun, 26 May 2019 18:50:53 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/judgetriangle/</guid>
+  <guid>https://shiqustudio.github.io/posts/judgetriangle/</guid>
   <description><![CDATA[<blockquote>
 <p>黑盒测试着重测试软件功能，它并不涉及程序的内部结构和内容特性，主要根据规格说明，只依靠被测试程序的输入和输出之间关系或程序的功能来设计测试用例。<br>
 白盒测试则清楚程序内部的结构以及是如何运作的，因此白盒测试需要对系统内部的结构和工作原理有一个清楚的了解。</p>
@@ -222,30 +223,30 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="测试">测试</h2>
-<p><figure><a class="lightgallery" href="/judgetriangle/images/1.png" data-thumbnail="/judgetriangle/images/1.png" data-sub-html="<h2>测试 1</h2><p>测试 1</p>"></a><figcaption class="image-caption">测试 1</figcaption>
+<p><figure><a class="lightgallery" href="/posts/judgetriangle/images/1.png" data-thumbnail="/posts/judgetriangle/images/1.png" data-sub-html="<h2>测试 1</h2><p>测试 1</p>"></a><figcaption class="image-caption">测试 1</figcaption>
   </figure><br>
-<figure><a class="lightgallery" href="/judgetriangle/images/2.png" data-thumbnail="/judgetriangle/images/2.png" data-sub-html="<h2>测试 2</h2><p>测试 2</p>"></a><figcaption class="image-caption">测试 2</figcaption>
+<figure><a class="lightgallery" href="/posts/judgetriangle/images/2.png" data-thumbnail="/posts/judgetriangle/images/2.png" data-sub-html="<h2>测试 2</h2><p>测试 2</p>"></a><figcaption class="image-caption">测试 2</figcaption>
   </figure><br>
-<figure><a class="lightgallery" href="/judgetriangle/images/3.png" data-thumbnail="/judgetriangle/images/3.png" data-sub-html="<h2>测试 3</h2><p>测试 3</p>"></a><figcaption class="image-caption">测试 3</figcaption>
+<figure><a class="lightgallery" href="/posts/judgetriangle/images/3.png" data-thumbnail="/posts/judgetriangle/images/3.png" data-sub-html="<h2>测试 3</h2><p>测试 3</p>"></a><figcaption class="image-caption">测试 3</figcaption>
   </figure></p>]]></description>
 </item>
 <item>
   <title>宝塔面板安装 ImgURL 图床</title>
-  <link>https://shiqustudio.github.io/imgurl/</link>
+  <link>https://shiqustudio.github.io/posts/imgurl/</link>
   <pubDate>Thu, 16 May 2019 20:31:33 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/imgurl/</guid>
+  <guid>https://shiqustudio.github.io/posts/imgurl/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/imgurl/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
 <p>ImgURL 是一个开源、免费的图床程序，ImgURL 2.x 之后对环境要求更高，尤其是 ImageMagick 组件的支持，很多朋友不清楚怎样安装这个组件，这篇文章分享宝塔面板安装 ImgURL 2.x 图床的过程（包括 ImgURL 2.x 需要的各种组件）
-<a href="https://www.xiaoz.me/archives/12081"target="_blank" rel="external nofollow noopener noreferrer">阅读原文</a></p>
+<a href="https://www.xiaoz.me/archives/12081"target="_blank" rel="external nofollow noopener noreferrer">阅读原文<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h2 id="准备工作">准备工作</h2>
 <ol>
 <li>已经安装宝塔面板</li>
 <li>在宝塔后台创建一个站点</li>
-<li>下载 <a href="https://github.com/helloxz/imgurl"target="_blank" rel="external nofollow noopener noreferrer">ImgURL 2.x</a> 上传到站点根目录并解压</li>
+<li>下载 <a href="https://github.com/helloxz/imgurl"target="_blank" rel="external nofollow noopener noreferrer">ImgURL 2.x<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 上传到站点根目录并解压</li>
 </ol>
 <h2 id="设置伪静态">设置伪静态</h2>
 <p>如果您宝塔面板安装的 Apache 则不需要再设置伪静态，直接跳过这个步骤，如果使用的 Nginx 环境，请继续往下看。</p>
@@ -284,16 +285,16 @@
 </p>
 <h2 id="其它说明">其它说明</h2>
 <ul>
-<li>如果安装遇到任何问题，请留言反馈或到 <a href="https://ttt.sh/category/6/imgurl%E5%9B%BE%E5%BA%8A"target="_blank" rel="external nofollow noopener noreferrer">3T 官方社区</a> 进行反馈</li>
-<li>ImgURL 更多使用说明请参考帮助文档：<a href="https://dwz.ovh/imgurldoc"target="_blank" rel="external nofollow noopener noreferrer">https://dwz.ovh/imgurldoc</a></li>
+<li>如果安装遇到任何问题，请留言反馈或到 <a href="https://ttt.sh/category/6/imgurl%E5%9B%BE%E5%BA%8A"target="_blank" rel="external nofollow noopener noreferrer">3T 官方社区<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 进行反馈</li>
+<li>ImgURL 更多使用说明请参考帮助文档：<a href="https://dwz.ovh/imgurldoc"target="_blank" rel="external nofollow noopener noreferrer">https://dwz.ovh/imgurldoc<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>]]></description>
 </item>
 <item>
   <title>条件注释判断浏览器版本&lt;!--[if lt IE 9]&gt;;</title>
-  <link>https://shiqustudio.github.io/ifzhushi/</link>
+  <link>https://shiqustudio.github.io/posts/ifzhushi/</link>
   <pubDate>Fri, 10 May 2019 13:08:27 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/ifzhushi/</guid>
+  <guid>https://shiqustudio.github.io/posts/ifzhushi/</guid>
   <description><![CDATA[<blockquote>
 <p><span>&lt;!--[if !IE]&gt;&lt;!--&gt; 除 IE 外都可识别 &lt;!--&lt;![endif]--&gt;</span><br><span>&lt;!--[if IE]&gt; 所有的 IE 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 6]&gt; 仅 IE6 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 6]&gt; IE6 以及 IE6 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 6]&gt; IE6 以及 IE6 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 7]&gt; 仅 IE7 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 7]&gt; IE7 以及 IE7 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 7]&gt; IE7 以及 IE7 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 8]&gt; 仅 IE8 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 9]&gt; 仅 IE9 可识别 &lt;![endif]--&gt;</span></p>
 </blockquote>
@@ -334,10 +335,10 @@
 </item>
 <item>
   <title>vps 配置 ssl 及 https 重定向</title>
-  <link>https://shiqustudio.github.io/http2https/</link>
+  <link>https://shiqustudio.github.io/posts/http2https/</link>
   <pubDate>Thu, 28 Mar 2019 19:40:54 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/http2https/</guid>
+  <guid>https://shiqustudio.github.io/posts/http2https/</guid>
   <description><![CDATA[<blockquote>
 <p>记录自己在配置 vps 及博客 SSL 证书时遇到的问题。</p>
 </blockquote>
@@ -376,10 +377,10 @@
 </item>
 <item>
   <title>博採眾長 app</title>
-  <link>https://shiqustudio.github.io/fas-app/</link>
+  <link>https://shiqustudio.github.io/posts/fas-app/</link>
   <pubDate>Mon, 12 Nov 2018 16:04:04 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/fas-app/</guid>
+  <guid>https://shiqustudio.github.io/posts/fas-app/</guid>
   <description><![CDATA[<h3 id="介绍">介绍</h3>
 <p>使用 fusion app 对网页进行的封装。<br>
 功能：</p>
@@ -399,8 +400,8 @@
 <p><del>app 内也可以更新，不过就我自己用，懒得更新。</del></p>
 </blockquote>
 <ul>
-<li><a href="https://pan.baidu.com/s/19jOvnNhssF302Mi1GRa2Sw"target="_blank" rel="external nofollow noopener noreferrer">百度云，密码：479l</a></li>
-<li><a href="https://github.com/Lruihao/Blog_fas_apk"target="_blank" rel="external nofollow noopener noreferrer">github 下载</a></li>
+<li><a href="https://pan.baidu.com/s/19jOvnNhssF302Mi1GRa2Sw"target="_blank" rel="external nofollow noopener noreferrer">百度云，密码：479l<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/Lruihao/Blog_fas_apk"target="_blank" rel="external nofollow noopener noreferrer">github 下载<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <p><strong>PWA 应用</strong></p>
 <ol>
@@ -1620,10 +1621,10 @@
 </item>
 <item>
   <title>caddy-两步搭建超简单云盘</title>
-  <link>https://shiqustudio.github.io/caddy-file/</link>
+  <link>https://shiqustudio.github.io/posts/caddy-file/</link>
   <pubDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/caddy-file/</guid>
+  <guid>https://shiqustudio.github.io/posts/caddy-file/</guid>
   <description><![CDATA[<h2 id="安装">安装</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1682,7 +1683,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>指定邮箱是为了申请 ssl, 实现 https.</p>
-<h2 id="demohttpspanlruihaocn"><a href="https://pan.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo</a></h2>
+<h2 id="demohttpspanlruihaocn"><a href="https://pan.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
 <p>启动 caddy</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1725,7 +1726,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>设置任务
-<a href="https://www.jianshu.com/p/95d1473859d1"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
+<a href="https://www.jianshu.com/p/95d1473859d1"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1773,35 +1774,35 @@
 </item>
 <item>
   <title>windows 上搭建 web 服务器</title>
-  <link>https://shiqustudio.github.io/web-server-win/</link>
+  <link>https://shiqustudio.github.io/posts/web-server-win/</link>
   <pubDate>Fri, 26 Oct 2018 21:56:18 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/web-server-win/</guid>
+  <guid>https://shiqustudio.github.io/posts/web-server-win/</guid>
   <description><![CDATA[<blockquote>
 <p>我用的 win10</p>
 </blockquote>
 <h3 id="打开控制面板">打开控制面板</h3>
 <p>选择并进入“程序”，双击“启用或关闭 Windows 服务”，在弹出的窗口中选择“Internet Information Services”下面所有地选项，点击确定后，开始更新服务。<br>
-<figure><a class="lightgallery" href="/web-server-win/images/1.png" data-thumbnail="/web-server-win/images/1.png" data-sub-html="<h2>打开控制面板</h2><p>打开控制面板</p>"></a><figcaption class="image-caption">打开控制面板</figcaption>
+<figure><a class="lightgallery" href="/posts/web-server-win/images/1.png" data-thumbnail="/posts/web-server-win/images/1.png" data-sub-html="<h2>打开控制面板</h2><p>打开控制面板</p>"></a><figcaption class="image-caption">打开控制面板</figcaption>
   </figure></p>
 <h3 id="查看">查看</h3>
 <p>更新完成后，打开浏览器，输入<code>http://localhost</code>或者<code>127.0.0.1</code>回车，如果此时出现 IIS7 欢迎界面，说明 Web 服务器已经搭建成功。<br>
-<figure><a class="lightgallery" href="/web-server-win/images/2.png" data-thumbnail="/web-server-win/images/2.png" data-sub-html="<h2>查看</h2><p>查看</p>"></a><figcaption class="image-caption">查看</figcaption>
+<figure><a class="lightgallery" href="/posts/web-server-win/images/2.png" data-thumbnail="/posts/web-server-win/images/2.png" data-sub-html="<h2>查看</h2><p>查看</p>"></a><figcaption class="image-caption">查看</figcaption>
   </figure></p>
 <h3 id="网站设置">网站设置</h3>
 <p>当 web 服务器搭建成功后，我们下一步所要做的就是把我们开发的网站安装到 Web 服务器的目录中。一般情况下，当 Web 服务器安装完成后，会创建路径<code>%系统根目录%inetpub/wwwroot</code>，将我们开发的网站 COPY 到该路径下。即可实现本地访问该网站。<br>
 </p>
 <p>也可以更改根目录，搜索 IIS，点击网站，Default Web Site，基本设置修改物理路径（<strong>默认站点名称不要改</strong>）<br>
 我这里改到了 hexo 的 public 相当于 hexo 部署在本地服务器<code>58.45.227.225</code><br>
-<figure><a class="lightgallery" href="/web-server-win/images/5.png" data-thumbnail="/web-server-win/images/5.png" data-sub-html="<h2>/web-server-win/images/5.png</h2><p>网站设置 1</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/posts/web-server-win/images/5.png" data-thumbnail="/posts/web-server-win/images/5.png" data-sub-html="<h2>/posts/web-server-win/images/5.png</h2><p>网站设置 1</p>"></a><figcaption class="image-caption"></figcaption>
   </figure>
-<figure><a class="lightgallery" href="/web-server-win/images/6.png" data-thumbnail="/web-server-win/images/6.png" data-sub-html="<h2>/web-server-win/images/6.png</h2><p>网站设置 2</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/posts/web-server-win/images/6.png" data-thumbnail="/posts/web-server-win/images/6.png" data-sub-html="<h2>/posts/web-server-win/images/6.png</h2><p>网站设置 2</p>"></a><figcaption class="image-caption"></figcaption>
   </figure>
-<figure><a class="lightgallery" href="/web-server-win/images/7.png" data-thumbnail="/web-server-win/images/7.png" data-sub-html="<h2>/web-server-win/images/7.png</h2><p>网站设置 3</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/posts/web-server-win/images/7.png" data-thumbnail="/posts/web-server-win/images/7.png" data-sub-html="<h2>/posts/web-server-win/images/7.png</h2><p>网站设置 3</p>"></a><figcaption class="image-caption"></figcaption>
   </figure></p>
 <h3 id="设置防火墙">设置防火墙</h3>
 <p>让局域网当其它计算机也能访问本地网站资源。具体方法：打开控制面板，选择“系统和安全”，点击“允许程序通过 Windows 防火墙”，在弹出的对话框中勾选“万维网服务 HTTP”右侧的两个复选框，最后点击确定退出。<br>
-<figure><a class="lightgallery" href="/web-server-win/images/4.png" data-thumbnail="/web-server-win/images/4.png" data-sub-html="<h2>/web-server-win/images/4.png</h2><p>设置防火墙</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/posts/web-server-win/images/4.png" data-thumbnail="/posts/web-server-win/images/4.png" data-sub-html="<h2>/posts/web-server-win/images/4.png</h2><p>设置防火墙</p>"></a><figcaption class="image-caption"></figcaption>
   </figure></p>
 <p>在局域网中其它计算机上，打开浏览器就可以通过你电脑的 ip 地址访问了（手机也可以）<br>
 本地 ip 可以通过 cmd 用 ipconfig 查看</p>
@@ -1809,10 +1810,10 @@
 </item>
 <item>
   <title>ttf 字体压缩</title>
-  <link>https://shiqustudio.github.io/web-font/</link>
+  <link>https://shiqustudio.github.io/posts/web-font/</link>
   <pubDate>Wed, 17 Oct 2018 21:38:06 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/web-font/</guid>
+  <guid>https://shiqustudio.github.io/posts/web-font/</guid>
   <description><![CDATA[<h3 id="安装-nodejs">安装 nodeJs</h3>
 <p>这个不多说，都有。</p>
 <h3 id="安装字蛛">安装字蛛</h3>
@@ -1857,15 +1858,15 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p></p>
-<p><a href="http://font-spider.org"target="_blank" rel="external nofollow noopener noreferrer">官网</a></p>
+<p><a href="http://font-spider.org"target="_blank" rel="external nofollow noopener noreferrer">官网<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 ]]></description>
 </item>
 <item>
   <title>流水线</title>
-  <link>https://shiqustudio.github.io/liushuixian/</link>
+  <link>https://shiqustudio.github.io/posts/liushuixian/</link>
   <pubDate>Tue, 09 Oct 2018 16:21:04 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/liushuixian/</guid>
+  <guid>https://shiqustudio.github.io/posts/liushuixian/</guid>
   <description><![CDATA[<h2 id="概念">概念</h2>
 <p>流水线是指在程序执行时多条指令重叠进行操作的一种准并行处理实现技术。各种部件同时处理是针对不同指令而言的，它们可同时为多条指令的不同部分进行工作，以提高各部件的利用率和指令的平均执行速度。</p>
 <table>
@@ -1948,6 +1949,92 @@
 </tr>
 </tbody>
 </table>
+]]></description>
+</item>
+<item>
+  <title>计算机数据</title>
+  <link>https://shiqustudio.github.io/posts/data/</link>
+  <pubDate>Mon, 08 Oct 2018 23:01:10 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/data/</guid>
+  <description><![CDATA[<h3 id="数据的表示">数据的表示</h3>
+<p><strong>数据的表示可分为：原码，反码和补码。（二进制）</strong></p>
+<ul>
+<li>原码： 符号位 0 为正，1 为负。</li>
+<li>反码： 符号位 0 为正，1 为负。
+<ul>
+<li>正数： 反码同原码。</li>
+<li>负数： 符号位除外其他位按位取反。</li>
+</ul>
+</li>
+<li>补码：
+<ul>
+<li>正数： 同原码。</li>
+<li>负数： 符号位除外其他位按位取反再+1。</li>
+</ul>
+</li>
+<li>移码： 补码符号位取反。</li>
+</ul>
+<h3 id="数据表示范围">数据表示范围</h3>
+<ul>
+<li>原码： <code>-(z^n-1 - 1) ~ 2^n-1 - 1</code></li>
+<li>反码： <code>-(z^n-1 - 1) ~ 2^n-1 - 1</code></li>
+<li>补码： <code>-z^n-1 ~ 2^n-1 - 1</code> （补码正 0 和负 0 相同，少占一数位，就多一个范围）</li>
+</ul>
+<p>例：
+8 位二进制，除去符号位还有 7 位，7 个 1 为最大数，相当于 8 个 1 减 1，也就是 2^7-1, 所以范围就算出来了。</p>
+<h3 id="浮点数运算">浮点数运算</h3>
+<p><strong>对阶（小阶对大阶）+ 尾数计算（科学计数法）+ 结果规格化（科学技术法）</strong></p>
+]]></description>
+</item>
+<item>
+  <title>在线离线算法</title>
+  <link>https://shiqustudio.github.io/posts/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</link>
+  <pubDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</guid>
+  <description><![CDATA[<h2 id="在线算法httpsbaikebaiducomiteme59ca8e7babfe7ae97e6b3954449947"><a href="https://baike.baidu.com/item/%E5%9C%A8%E7%BA%BF%E7%AE%97%E6%B3%95/4449947"target="_blank" rel="external nofollow noopener noreferrer">在线算法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<p>在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。</p>
+<p>在计算机科学中，一个在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。相对的，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。例如，选择排序在排序前就需要知道所有待排序元素，然而插入排序就不必。<br>
+因为在线算法并不知道整个的输入，所以它被迫做出的选择最后可能会被证明不是最优的，对在线算法的研究主要集中在当前环境下怎么做出选择。对相同问题的在线算法和离线算法的对比分析形成了以上观点。如果想从其他角度了解在线算法可以看一下流算法（关注精确呈现过去的输入所使用的内存的量），动态算法（关注维护一个在线输入的结果所需要的时间复杂度）和在线机器学习。<br>
+一个很好的展示在线算法概念的例子是 加拿大旅行者问题，这个问题的目标是在一个有权图中以最小的代价到达一个目标节点，但这个有权图中有些边是不可靠的可能已经被剔除。然而一个旅行者只有到某个边的一个端点时才能确定该边是否已经被移除了。最坏情况下，该问题会变得简单了，即所有的不确定的边都被移除该问题将会变成通常的最短路径问题。</p>
+<h2 id="离线算法httpsbaikebaiducomiteme7a6bbe7babfe7ae97e6b395"><a href="https://baike.baidu.com/item/%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95"target="_blank" rel="external nofollow noopener noreferrer">离线算法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<p>离线算法 ( off line algorithms)，是指基于在执行算法前输入数据已知的基本假设，也就是说，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。</p>
+<p>设计策略 在执行算法前输入已知的基本假设<br>
+前提 具有问题完全信息<br>
+算法设计策略都是基于在执行算法前输入数据已知的基本假设，也就是说，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果，通常将这类具有问题完全信息前提下设计出的算法称为离线算法 ( off line algorithms)</p>
+]]></description>
+</item>
+<item>
+  <title>位运算</title>
+  <link>https://shiqustudio.github.io/posts/%E4%BD%8D%E8%BF%90%E7%AE%97/</link>
+  <pubDate>Thu, 14 Jun 2018 20:22:21 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/%E4%BD%8D%E8%BF%90%E7%AE%97/</guid>
+  <description><![CDATA[<h2 id="1-运算">1. &amp;运算</h2>
+<p>&amp;运算通常用于二进制取位操作，例如一个数 &amp; 1 的结果就是取二进制的最末位。这可以用来判断一个整数的奇偶，二进制的最末位为 0 表示该数为偶数，最末位为 1 表示该数为奇数。</p>
+<h2 id="2-运算">2. |运算</h2>
+<p>|运算通常用于二进制特定位上的无条件赋值，例如一个数 or 1 的结果就是把二进制最末位强行变成 1。如果需要把二进制最末位变成 0，对这个数| 1 之后再减一就可以了，其实际意义就是把这个数强行变成最接近的偶数。</p>
+<h2 id="3-运算">3. ^运算</h2>
+<p>^运算通常用于对二进制的特定一位进行取反操作，因为异或可以这样定义：异或 0 都不变，异或 1 则取反。 ^运算的逆运算是它本身，也就是说两次异或同一个数最后结果不变，即 a ^ b ^ b = a。^运算可以用于简单的加密，比如你想对你 MM 说 1314520，但怕别人知道，于是双方约定拿你的生日 19880516 作为密钥。1314520^19880516 = 20665500，你就把 20665500 告诉 MM。MM 再次计算 20665500 ^ 19880516 的值，得到 1314520，于是她就明白了你的企图。</p>
+<p>还可以用异或来进行快速地交换数据，</p>
+<p>a=2;b=3;//先转化成二进制</p>
+<p>a=a^b;</p>
+<p>b=a^b;</p>
+<p>a=a^b;</p>
+<p>操作后 a=3;b=2;</p>
+<h2 id="4--运算">4. ~ 运算</h2>
+<p>~运算的定义是把内存中的 0 和 1 全部取反。使用~运算时要格外小心，你需要注意整数类型有没有符号。如果~的对象是无符号整数（不能表示负数），那么得到的值就是它与该类型上界的差，因为无符号类型的数是用$0000 到$FFFF 依次表示的。</p>
+<h2 id="5-运算">5. &laquo;运算</h2>
+<p>a &laquo; b 就表示把 a 转为二进制后左移 b 位（在后面添 b 个 0）。例如 100 的二进制为 1100100，而 110010000 转成十进制是 400，那么 100 &laquo;2 = 400。可以看出，a &laquo; b 的值实际上就是 a 乘以 2 的 b 次方，因为在二进制数后添一个 0 就相当于该数乘以 2。</p>
+<p>通常认为 a &laquo; 1 比 a * 2 更快，因为前者是更底层一些的操作。因此程序中乘以 2 的操作请尽量用左移一位来代替。</p>
+<p>定义一些常量可能会用到&laquo;运算。你可以方便地用 1 &laquo;16 – 1 来表示 65535。很多算法和数据结构要求数据规模必须是 2 的幂，此时可以用&laquo;来定义 Max_N 等常量。</p>
+<h2 id="6-运算">6. &raquo;运算</h2>
+<p>和&laquo;相似，a &raquo; b 表示二进制右移 b 位（去掉末 b 位），相当于 a 除以 2 的 b 次方（取整）。我们也经常用&raquo; 1 来代替 div 2，比如二分查找、堆的插入操作等等。想办法用&raquo;代替除法运算可以使程序效率大大提高。最大公约数的二进制算法用除以 2 操作来代替慢得出奇的 mod 运算，效率可以提高 60%</p>
+<p><a href="https://weibo.com/ttarticle/p/show?id=2309404238259097064884&amp;mod=zwenzhang"target="_blank" rel="external nofollow noopener noreferrer">传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<blockquote>
+<p>原文：<code>http://www.matrix67.com/blog/archives/263</code></p>
+</blockquote>
 ]]></description>
 </item>
 </channel>

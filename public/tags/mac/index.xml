@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Mac - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>Mac - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/mac/</link>
-    <description>Mac - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 15 Dec 2022 15:33:30 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/mac/" rel="self" type="application/rss+xml" /><item>
+    <description>Mac - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Thu, 15 Dec 2022 15:33:30 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/mac/" rel="self" type="application/rss+xml" /><item>
   <title>安装 Homebrew 后导致系统中原有的 npm 和 npx 失效</title>
-  <link>https://shiqustudio.github.io/homebrew-npm/</link>
+  <link>https://shiqustudio.github.io/posts/homebrew-npm/</link>
   <pubDate>Thu, 15 Dec 2022 15:33:30 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/homebrew-npm/</guid>
+  <guid>https://shiqustudio.github.io/posts/homebrew-npm/</guid>
   <description><![CDATA[<div class="details admonition question open">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -71,10 +72,10 @@
 </item>
 <item>
   <title>linux 文件权限</title>
-  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <link>https://shiqustudio.github.io/posts/linux-permission/</link>
   <pubDate>Sat, 30 Jul 2022 17:15:44 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <guid>https://shiqustudio.github.io/posts/linux-permission/</guid>
   <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>
 <h2 id="查看文件权限">查看文件权限</h2>
 <p>查看 linux 系统下的文件权限，可以使用 <code>ll</code> 命令或者 <code>ls</code> 命令 带 <code>-l</code>（长列表选项）</p>
@@ -187,10 +188,10 @@
 </item>
 <item>
   <title>Mac 上的开发配置总结</title>
-  <link>https://shiqustudio.github.io/config4mac/</link>
+  <link>https://shiqustudio.github.io/posts/config4mac/</link>
   <pubDate>Fri, 29 Jul 2022 20:22:44 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/config4mac/</guid>
+  <guid>https://shiqustudio.github.io/posts/config4mac/</guid>
   <description><![CDATA[<p>记录一下使用 Mac 作为生产工具开发的一些基本配置和经验。</p>
 <h2 id="配置文件">配置文件</h2>
 <p>Mac 上有很多配置文件都可以用来保存环境变量等配置，根据自己的理解记录了四个文件的用途：</p>
@@ -423,7 +424,7 @@
 <ul>
 <li>Terminal: 系统自带</li>
 <li>Shell: zsh</li>
-<li>美化: <a href="https://github.com/ohmyzsh/ohmyzsh"target="_blank" rel="external nofollow noopener noreferrer">ohmyzsh</a></li>
+<li>美化: <a href="https://github.com/ohmyzsh/ohmyzsh"target="_blank" rel="external nofollow noopener noreferrer">ohmyzsh<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <p>修改启动语</p>
 <div class="highlight"><div class="chroma">
@@ -609,7 +610,7 @@
 </div>
 </div><h3 id="vimrc">.vimrc</h3>
 <p>Path: <code>~/.vimrc</code></p>
-<p>先添加一些基础配置 <a href="https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim"target="_blank" rel="external nofollow noopener noreferrer">basic.vim</a></p>
+<p>先添加一些基础配置 <a href="https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim"target="_blank" rel="external nofollow noopener noreferrer">basic.vim<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1

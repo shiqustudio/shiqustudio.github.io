@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Projects - 分类 - 我的 Hugo FixIt 网站</title>
+    <title>Projects - 分类 - 拾趣</title>
     <link>https://shiqustudio.github.io/categories/projects/</link>
-    <description>Projects - 分类 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/projects/" rel="self" type="application/rss+xml" /><item>
+    <description>Projects - 分类 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/projects/" rel="self" type="application/rss+xml" /><item>
   <title>Cell Watermark</title>
   <link>https://shiqustudio.github.io/projects/cell-watermark/</link>
   <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
@@ -196,7 +197,7 @@
 </tbody>
 </table>
 <blockquote>
-<p>Author: <a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">Lruihao</a></p>
+<p>Author: <a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">Lruihao<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h3 id="methods">Methods</h3>
 <h4 id="uploadcontent">upload(content)</h4>
@@ -533,7 +534,7 @@ valine 可以實現無後端，那我是不是也可以，leancloud 文檔走一
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>
-<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 也是我的毕业设计作品，目前已開源。</p>
 </blockquote>
 <h2 id="功能">功能</h2>
 <ul>
@@ -550,7 +551,7 @@ valine 可以實現無後端，那我是不是也可以，leancloud 文檔走一
 <li>自定义导航（显示开关，排序）</li>
 <li>自定义页面（发布开关）</li>
 <li>友情链接（显示开关，排序）</li>
-<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册</a></li>
+<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 <li>丰富的博客配置（方便扩展，支持自定义 JS 脚本）</li>
 <li>不蒜子计数</li>
 <li>Leancloud 计数</li>
@@ -908,7 +909,7 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
 </ol>
 </li>
 <li>2019-11-24 10:52:34
-修改整理了一下代码，分割功能为函数，并写了注释，更加方便 <a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">伸手党</a>!</li>
+修改整理了一下代码，分割功能为函数，并写了注释，更加方便 <a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">伸手党<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>!</li>
 </ul>]]></description>
 </item>
 <item>
@@ -985,7 +986,7 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
       <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content"><a href="https://github.com/Lruihao/MMT/releases"target="_blank" rel="external nofollow noopener noreferrer">沐目体</a> <em>仅用于个人非商用！</em></div>
+      <div class="admonition-content"><a href="https://github.com/Lruihao/MMT/releases"target="_blank" rel="external nofollow noopener noreferrer">沐目体<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> <em>仅用于个人非商用！</em></div>
     </div>
   </div>]]></description>
 </item>

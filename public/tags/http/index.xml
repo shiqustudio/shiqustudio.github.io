@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>HTTP - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>HTTP - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/http/</link>
-    <description>HTTP - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 25 Mar 2020 08:22:42 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/http/" rel="self" type="application/rss+xml" /><item>
+    <description>HTTP - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Wed, 25 Mar 2020 08:22:42 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/http/" rel="self" type="application/rss+xml" /><item>
   <title>新冠疫情未返校未返工第 N 天之“自动打卡”</title>
-  <link>https://shiqustudio.github.io/daka/</link>
+  <link>https://shiqustudio.github.io/posts/daka/</link>
   <pubDate>Wed, 25 Mar 2020 08:22:42 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/daka/</guid>
+  <guid>https://shiqustudio.github.io/posts/daka/</guid>
   <description><![CDATA[<div class="details admonition info open">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -26,18 +27,18 @@
     </div>
   </div>
 <h2 id="windows-运行效果">Windows 运行效果</h2>
-<p><figure><a class="lightgallery" href="/daka/images/result1.png" data-thumbnail="/daka/images/result1.png" data-sub-html="<h2>打卡成功</h2><p>打卡成功</p>"></a><figcaption class="image-caption">打卡成功</figcaption>
+<p><figure><a class="lightgallery" href="/posts/daka/images/result1.png" data-thumbnail="/posts/daka/images/result1.png" data-sub-html="<h2>打卡成功</h2><p>打卡成功</p>"></a><figcaption class="image-caption">打卡成功</figcaption>
   </figure><br>
 <figure><a class="lightgallery" href="images/result.png" data-thumbnail="images/result.png" data-sub-html="<h2>重复打卡</h2><p>重复打卡</p>"></a><figcaption class="image-caption">重复打卡</figcaption>
   </figure><br>
-<figure><a class="lightgallery" href="/daka/images/result2.png" data-thumbnail="/daka/images/result2.png" data-sub-html="<h2>定时任务日志</h2><p>定时任务日志</p>"></a><figcaption class="image-caption">定时任务日志</figcaption>
+<figure><a class="lightgallery" href="/posts/daka/images/result2.png" data-thumbnail="/posts/daka/images/result2.png" data-sub-html="<h2>定时任务日志</h2><p>定时任务日志</p>"></a><figcaption class="image-caption">定时任务日志</figcaption>
   </figure></p>
 <h2 id="核心代码">核心代码</h2>
 <blockquote>
 <p>适用湖南工程学院的打卡系统。<br>
 请勿滥用代码提交不实健康信息，隐瞒疫情将受到相关法律处理！</p>
 </blockquote>
-<p><a href="https://github.com/Lruihao/python-funny-code/blob/master/%E6%98%93%E7%8F%AD%E6%89%93%E5%8D%A1.py"target="_blank" rel="external nofollow noopener noreferrer">完整代码</a></p>
+<p><a href="https://github.com/Lruihao/python-funny-code/blob/master/%E6%98%93%E7%8F%AD%E6%89%93%E5%8D%A1.py"target="_blank" rel="external nofollow noopener noreferrer">完整代码<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -155,17 +156,17 @@
 <h2 id="潇-x-巴哥的-java-web-版本">潇 x 巴哥的 java web 版本</h2>
 <p>符合程序员的应该有的简洁和方便，干净又卫生！
 <code>http://39.105.174.214/index.html</code><br>
-<figure><a class="lightgallery" href="/daka/images/javaweb.png" data-thumbnail="/daka/images/javaweb.png" data-sub-html="<h2>java web 版</h2><p>java web 版</p>"></a><figcaption class="image-caption">java web 版</figcaption>
+<figure><a class="lightgallery" href="/posts/daka/images/javaweb.png" data-thumbnail="/posts/daka/images/javaweb.png" data-sub-html="<h2>java web 版</h2><p>java web 版</p>"></a><figcaption class="image-caption">java web 版</figcaption>
   </figure></p>]]></description>
 </item>
 <item>
   <title>RESTful</title>
-  <link>https://shiqustudio.github.io/restful/</link>
+  <link>https://shiqustudio.github.io/posts/restful/</link>
   <pubDate>Thu, 14 Nov 2019 19:06:05 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/restful/</guid>
+  <guid>https://shiqustudio.github.io/posts/restful/</guid>
   <description><![CDATA[<blockquote>
-<p>RESTful 是一种系统开发设计风格、原则。可视情况调整，以下参考来源 <a href="https://www.rfc-editor.org/rfc/rfc5789"target="_blank" rel="external nofollow noopener noreferrer">RFC5789</a></p>
+<p>RESTful 是一种系统开发设计风格、原则。可视情况调整，以下参考来源 <a href="https://www.rfc-editor.org/rfc/rfc5789"target="_blank" rel="external nofollow noopener noreferrer">RFC5789<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h2 id="noun">Noun</h2>
 <ul>
@@ -219,7 +220,7 @@ Idempotent：每次执行操作时，GET 只有读取 Resource，不会改变到
 <li>
 <p>Add：增加一个必须依赖于某个实体的实体</p>
 <p>资料结构：一对多的关系</p>
-<p>范例：Add a public key on behalf of a user 增加一个代表使用者的公钥 (<a href="https://gitea.com/api/swagger#/admin/adminCreatePublicKey"target="_blank" rel="external nofollow noopener noreferrer">Gitea API</a>)</p>
+<p>范例：Add a public key on behalf of a user 增加一个代表使用者的公钥 (<a href="https://gitea.com/api/swagger#/admin/adminCreatePublicKey"target="_blank" rel="external nofollow noopener noreferrer">Gitea API<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>)</p>
 <p>增加这个公钥之前，使用者必须存在，公钥必须归属于某个使用者之下，公钥跟姓名一样，使用相同电脑的公钥就会相同，但不表示是同一个使用者，故公钥也会有自己的 ID 我每次增加公钥时，都将生成不同的公钥 ID</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -277,7 +278,7 @@ Idempotent：每次执行操作时，GET 只有读取 Resource，不会改变到
 </div>
 </div></li>
 <li>
-<p>范例：Follow a user 关注一个使用者 (<a href="https://gitea.com/api/swagger#/user/userCurrentPutFollow"target="_blank" rel="external nofollow noopener noreferrer">Gitea API</a>)</p>
+<p>范例：Follow a user 关注一个使用者 (<a href="https://gitea.com/api/swagger#/user/userCurrentPutFollow"target="_blank" rel="external nofollow noopener noreferrer">Gitea API<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>)</p>
 <p>增加关注关系时，关注者与被关注者（都是使用者） 都必须存在；关注者 12262 跟被关注者 12231 的关系最多只能有一条关系（12262 关注 12231），最少没有关系（12262 不关注 12231），执行第二次操作时，关注者 12262 跟被关注者 12231 的关注关系仍然存在，也不会跑出第二条关注者 12262 跟被关注者 12231 的关注关系</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -345,7 +346,7 @@ Idempotent：每次执行操作时，GET 只有读取 Resource，不会改变到
 </div></li>
 </ul>
 <h2 id="http-status-code">HTTP Status Code</h2>
-<p>HTTP 状态码（HTTP Status Code）是用以表示网页服务器 HTTP 响应状态的 3 位数字代码。所有状态码的第一个数字代表了响应的五种状态之一。除非另有说明，状态码是 <strong>HTTP/1.1 标准</strong>（<a href="https://www.rfc-editor.org/rfc/rfc7231"target="_blank" rel="external nofollow noopener noreferrer">RFC 7231</a>）的一部分。</p>
+<p>HTTP 状态码（HTTP Status Code）是用以表示网页服务器 HTTP 响应状态的 3 位数字代码。所有状态码的第一个数字代表了响应的五种状态之一。除非另有说明，状态码是 <strong>HTTP/1.1 标准</strong>（<a href="https://www.rfc-editor.org/rfc/rfc7231"target="_blank" rel="external nofollow noopener noreferrer">RFC 7231<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>）的一部分。</p>
 <p>而关于 RESTful API 的请求状态，通常有以下两种设计方案：</p>
 <ul>
 <li>方案一：使用 HTTP 状态码来表示请求状态，200 时返回的内容就是数据</li>
@@ -511,16 +512,16 @@ Idempotent：每次执行操作时，GET 只有读取 Resource，不会改变到
 </tbody>
 </table>
 <blockquote>
-<p>以上内容参考自<a href="https://zh.wikipedia.org/zh-cn/HTTP%e7%8a%b6%e6%80%81%e7%a0%81"target="_blank" rel="external nofollow noopener noreferrer">https://zh.wikipedia.org/zh-cn/HTTP状态码</a>，
-需要查看完整 HTTP 状态码请点击 <a href="https://www.rfc-editor.org/rfc/rfc9110.html#name-status-codes"target="_blank" rel="external nofollow noopener noreferrer">https://www.rfc-editor.org/rfc/rfc9110.html#name-status-codes</a></p>
+<p>以上内容参考自<a href="https://zh.wikipedia.org/zh-cn/HTTP%e7%8a%b6%e6%80%81%e7%a0%81"target="_blank" rel="external nofollow noopener noreferrer">https://zh.wikipedia.org/zh-cn/HTTP状态码<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，
+需要查看完整 HTTP 状态码请点击 <a href="https://www.rfc-editor.org/rfc/rfc9110.html#name-status-codes"target="_blank" rel="external nofollow noopener noreferrer">https://www.rfc-editor.org/rfc/rfc9110.html#name-status-codes<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>]]></description>
 </item>
 <item>
   <title>python 实战：模拟 post 请求定时获取后台数据并打包发送至微信</title>
-  <link>https://shiqustudio.github.io/mx2wx/</link>
+  <link>https://shiqustudio.github.io/posts/mx2wx/</link>
   <pubDate>Sat, 11 May 2019 17:02:31 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/mx2wx/</guid>
+  <guid>https://shiqustudio.github.io/posts/mx2wx/</guid>
   <description><![CDATA[<blockquote>
 <p>用 python 模拟 post 请求获取“麻小科技”示例酒店后台的数据，再打包发送至指定的微信群或者好友。<br>
 要求每天早上 8 点定时把每个酒店的数据发送至每个酒店的微信工作群。</p>
@@ -703,10 +704,10 @@ Idempotent：每次执行操作时，GET 只有读取 Resource，不会改变到
 </item>
 <item>
   <title>java 实现一个单线程的资源下载器</title>
-  <link>https://shiqustudio.github.io/singlethreaddown/</link>
+  <link>https://shiqustudio.github.io/posts/singlethreaddown/</link>
   <pubDate>Wed, 08 May 2019 20:55:02 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/singlethreaddown/</guid>
+  <guid>https://shiqustudio.github.io/posts/singlethreaddown/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -920,10 +921,10 @@ Idempotent：每次执行操作时，GET 只有读取 Resource，不会改变到
 </item>
 <item>
   <title>python 发送 post 请求进行简单的接口测试</title>
-  <link>https://shiqustudio.github.io/posttest/</link>
+  <link>https://shiqustudio.github.io/posts/posttest/</link>
   <pubDate>Tue, 07 May 2019 18:17:05 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posttest/</guid>
+  <guid>https://shiqustudio.github.io/posts/posttest/</guid>
   <description><![CDATA[<blockquote>
 <p>通过 requests 可以向某个地址发送请求，可以用来做一些接口的测试；主要有两个方法：</p>
 </blockquote>

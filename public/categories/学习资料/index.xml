@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>学习资料 - 分类 - 我的 Hugo FixIt 网站</title>
+    <title>学习资料 - 分类 - 拾趣</title>
     <link>https://shiqustudio.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</link>
-    <description>学习资料 - 分类 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/" rel="self" type="application/rss+xml" /><item>
+    <description>学习资料 - 分类 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/" rel="self" type="application/rss+xml" /><item>
   <title>cell-blog 功能介绍与安装</title>
   <link>https://shiqustudio.github.io/books/cell-blog/</link>
   <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
@@ -12,7 +13,7 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>
-<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 也是我的毕业设计作品，目前已開源。</p>
 </blockquote>
 <p></p>
 <h2 id="简单内容">简单内容</h2>
@@ -30,7 +31,7 @@
 <div class="mapbox" id="id-7" style="width: 100%; height: 20rem;"></div>
 <h2 id="功能">功能</h2>
 <ul>
-<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册</a></li>
+<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <h2 id="截图">截图</h2>
 <p><br>

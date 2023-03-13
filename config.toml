@@ -10,6 +10,15 @@ hasCJKLanguage = true
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "FixIt"
 
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+relativeURLs = false
+buildDrafts = false
+summaryLength = 150
+# ignore some build errors
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -160,7 +169,7 @@ theme = "FixIt"
   # 网站默认主题样式 ["light", "dark", "auto"]
   defaultTheme = "auto"
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = "https://shiqustudio.github.io/"
+  gitRepo = "https://github.com/shiqustudio/shiqustudio.github.io"
   #  哪种哈希函数用来 SRI, 为空时表示不使用 SRI
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = "sha256"
@@ -953,10 +962,11 @@ theme = "FixIt"
     
 #修改时间 更新时间
 [frontmatter]
-	date = ["date", "publishDate", "lastmod"]
-	expiryDate = ["expiryDate"]
-	lastmod = [":git", "lastmod", "date", "publishDate"]
-	publishDate = ["publishDate", "date"]
+	lastmod = ["lastmod", ":git", ":fileModTime", ":defalut"]
+  #date = ['date', 'publishDate', 'lastmod']
+  #expiryDate = ['expiryDate']
+  #lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  #publishDate = ['publishDate', 'date']
 	
 # 作者配置
 [author]

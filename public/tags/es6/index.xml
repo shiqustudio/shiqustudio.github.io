@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>ES6 - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>ES6 - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/es6/</link>
-    <description>ES6 - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 May 2022 10:59:36 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/es6/" rel="self" type="application/rss+xml" /><item>
+    <description>ES6 - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 01 May 2022 10:59:36 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/es6/" rel="self" type="application/rss+xml" /><item>
   <title>重新认识 JavaScript</title>
-  <link>https://shiqustudio.github.io/js-rediscover/</link>
+  <link>https://shiqustudio.github.io/posts/js-rediscover/</link>
   <pubDate>Sun, 01 May 2022 10:59:36 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/js-rediscover/</guid>
+  <guid>https://shiqustudio.github.io/posts/js-rediscover/</guid>
   <description><![CDATA[<div class="details admonition tip open">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>前言<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -23,7 +24,7 @@
 <blockquote>
 <p>共同点：这几个方法都不会改变原始数组。</p>
 </blockquote>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/some"target="_blank" rel="external nofollow noopener noreferrer">some</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/some"target="_blank" rel="external nofollow noopener noreferrer">some<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <p><code>some()</code> 方法测试数组中是不是至少有 1 个元素通过了被提供的函数测试，它返回一个布尔值。</p>
 <p>数组中有至少一个元素通过回调函数的测试就会返回 <code>true</code>，所有元素都没有通过回调函数的测试返回值才会为 <code>false</code>。</p>
 <div class="highlight"><div class="chroma">
@@ -52,12 +53,12 @@
       <div class="admonition-content"><code>some()</code> 不会对空数组进行检测，空数组返回 <code>false</code></div>
     </div>
   </div>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/every"target="_blank" rel="external nofollow noopener noreferrer">every</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/every"target="_blank" rel="external nofollow noopener noreferrer">every<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：<code>every()</code> 和 <code>some()</code> 功能相反</p>
 </blockquote>
 <p><code>every()</code> 方法测试一个数组内的所有元素是否都能通过某个指定函数的测试，它返回一个布尔值。</p>
-<p>如果回调函数的每一次返回都为 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Truthy"target="_blank" rel="external nofollow noopener noreferrer">truthy</a> 值，返回 <code>true</code> ，否则返回 <code>false</code>。</p>
+<p>如果回调函数的每一次返回都为 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Truthy"target="_blank" rel="external nofollow noopener noreferrer">truthy<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 值，返回 <code>true</code> ，否则返回 <code>false</code>。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -84,11 +85,11 @@
       <div class="admonition-content"><code>every()</code> 不会对空数组进行检测，空数组返回 <code>true</code></div>
     </div>
   </div>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/find"target="_blank" rel="external nofollow noopener noreferrer">Find</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/find"target="_blank" rel="external nofollow noopener noreferrer">Find<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：功能和 <code>some()</code> 类似，<code>some()</code> 返回布尔值，<code>find()</code> 返回<strong>找到</strong>的元素</p>
 </blockquote>
-<p><code>find()</code> 方法返回数组中满足提供的测试函数的第一个元素的值，否则返回 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/undefined"target="_blank" rel="external nofollow noopener noreferrer"><code>undefined</code></a>。</p>
+<p><code>find()</code> 方法返回数组中满足提供的测试函数的第一个元素的值，否则返回 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/undefined"target="_blank" rel="external nofollow noopener noreferrer"><code>undefined</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -120,12 +121,12 @@
       <i class="icon fa-solid fa-quote-right fa-fw" aria-hidden="true"></i>引用<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content"><p>另请参见 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"target="_blank" rel="external nofollow noopener noreferrer"><code>findIndex()</code></a> 方法，它返回数组中找到的元素的索引，而不是其值。</p>
-<p>如果你需要找到一个元素的位置或者一个元素是否存在于数组中，使用 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.indexOf()</code></a> 或 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.includes()</code></a>。</p>
+      <div class="admonition-content"><p>另请参见 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"target="_blank" rel="external nofollow noopener noreferrer"><code>findIndex()</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 方法，它返回数组中找到的元素的索引，而不是其值。</p>
+<p>如果你需要找到一个元素的位置或者一个元素是否存在于数组中，使用 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.indexOf()</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.includes()</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 </div>
     </div>
   </div>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"target="_blank" rel="external nofollow noopener noreferrer">filter</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"target="_blank" rel="external nofollow noopener noreferrer">filter<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：如字面意思，它是一个筛子，会筛选出满足条件的元素</p>
 </blockquote>
@@ -157,7 +158,7 @@
 </span></span><span class="line"><span class="cl"><span class="c1">// expected output: Array [&#34;exuberant&#34;, &#34;destruction&#34;, &#34;present&#34;]
 </span></span></span></code></pre></td></tr></table>
 </div>
-</div><p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map"target="_blank" rel="external nofollow noopener noreferrer">map</a></strong></p>
+</div><p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map"target="_blank" rel="external nofollow noopener noreferrer">map<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：功能和 <code>filter()</code> 类似，<code>filter()</code> 返回筛选的元素，<code>map()</code> 返回筛选的结果值</p>
 </blockquote>

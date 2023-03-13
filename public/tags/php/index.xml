@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>PHP - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>PHP - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/php/</link>
-    <description>PHP - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/php/" rel="self" type="application/rss+xml" /><item>
+    <description>PHP - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/php/" rel="self" type="application/rss+xml" /><item>
   <title>cell-blog 功能介绍与安装</title>
   <link>https://shiqustudio.github.io/books/cell-blog/</link>
   <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
@@ -12,7 +13,7 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>
-<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 也是我的毕业设计作品，目前已開源。</p>
 </blockquote>
 <p></p>
 <h2 id="简单内容">简单内容</h2>
@@ -30,7 +31,7 @@
 <div class="mapbox" id="id-7" style="width: 100%; height: 20rem;"></div>
 <h2 id="功能">功能</h2>
 <ul>
-<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册</a></li>
+<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <h2 id="截图">截图</h2>
 <p><br>
@@ -198,7 +199,7 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>
-<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 也是我的毕业设计作品，目前已開源。</p>
 </blockquote>
 <h2 id="功能">功能</h2>
 <ul>
@@ -215,7 +216,7 @@
 <li>自定义导航（显示开关，排序）</li>
 <li>自定义页面（发布开关）</li>
 <li>友情链接（显示开关，排序）</li>
-<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册</a></li>
+<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 <li>丰富的博客配置（方便扩展，支持自定义 JS 脚本）</li>
 <li>不蒜子计数</li>
 <li>Leancloud 计数</li>
@@ -381,12 +382,12 @@
 </item>
 <item>
   <title>cell-blog 开发记录</title>
-  <link>https://shiqustudio.github.io/cell-blog-dev/</link>
+  <link>https://shiqustudio.github.io/posts/cell-blog-dev/</link>
   <pubDate>Sat, 25 Jul 2020 20:42:42 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/cell-blog-dev/</guid>
+  <guid>https://shiqustudio.github.io/posts/cell-blog-dev/</guid>
   <description><![CDATA[<blockquote>
-<p>Cell Blog 开发记录，<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">项目地址</a></p>
+<p>Cell Blog 开发记录，<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">项目地址<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h2 id="搭建-php-环境">搭建 php 环境</h2>
 <ol>
@@ -507,7 +508,7 @@
 </div><blockquote>
 <p>运行这个命令的时候，如果遇到了下面的错误：
 <code>SQLSTATE[42000]: Syntax error or access violation: 1071 Specified key was too long; max key length is 1000 bytes (SQL: alter tableusersadd uniqueusers_email_unique(email))</code><br>
-参考这个 issue 来解决 <a href="https://github.com/z-song/laravel-admin/issues/1541"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/z-song/laravel-admin/issues/1541</a><br>
+参考这个 issue 来解决 <a href="https://github.com/z-song/laravel-admin/issues/1541"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/z-song/laravel-admin/issues/1541<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
 在<code>app\Providers\AppServiceProvider.php</code>添加默认值</p>
 </blockquote>
 <div class="highlight"><div class="chroma">
@@ -751,8 +752,8 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="editormd-安装">editormd 安装</h2>
-<p><a href="https://github.com/ShareManT/laravel-admin-ext-editormd"target="_blank" rel="external nofollow noopener noreferrer">editormd</a>
-<a href="https://github.com/ShareManT/laravel-admin-ext-editormd/issues/3"target="_blank" rel="external nofollow noopener noreferrer">github 图像问题</a></p>
+<p><a href="https://github.com/ShareManT/laravel-admin-ext-editormd"target="_blank" rel="external nofollow noopener noreferrer">editormd<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="https://github.com/ShareManT/laravel-admin-ext-editormd/issues/3"target="_blank" rel="external nofollow noopener noreferrer">github 图像问题<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h3 id="存放本地表情">存放本地表情</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -783,7 +784,7 @@
 <h4 id="csrf-419-错误">csrf 419 错误</h4>
 <p>可以在<code>VerifyCsrfToken.php</code>中添加白名单跳过验证，或者手动添加 csrf 验证器：</p>
 <p>修改 image-dialog.js 的<code>var dialogContent</code><br>
-<a href="https://www.jianshu.com/p/8101f7bc80f6"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
+<a href="https://www.jianshu.com/p/8101f7bc80f6"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -811,8 +812,8 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="markdown-转-html">markdown 转 HTML</h2>
-<p><a href="https://www.zhiqiexing.com/119.html"target="_blank" rel="external nofollow noopener noreferrer">https://www.zhiqiexing.com/119.html</a>
-<a href="https://github.com/GrahamCampbell/Laravel-Markdown"target="_blank" rel="external nofollow noopener noreferrer">Laravel Markdown 安装</a></p>
+<p><a href="https://www.zhiqiexing.com/119.html"target="_blank" rel="external nofollow noopener noreferrer">https://www.zhiqiexing.com/119.html<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="https://github.com/GrahamCampbell/Laravel-Markdown"target="_blank" rel="external nofollow noopener noreferrer">Laravel Markdown 安装<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -850,7 +851,7 @@
 <p>retrieved 事件会在从数据库中获取已存在模型时触发。当一个新模型被首次保存的时候，creating 和 created 事件会被触发。如果一个模型已经在数据库中存在并调用 save 方法，updating/updated 事件会被触发，无论是创建还是更新，saving/saved 事件都会被触发。</p>
 <h2 id="添加后台验证码">添加后台验证码</h2>
 <p>依赖 php 扩展<code>fileinfo</code><br>
-<a href="https://learnku.com/articles/32842"target="_blank" rel="external nofollow noopener noreferrer">添加验证码</a></p>
+<a href="https://learnku.com/articles/32842"target="_blank" rel="external nofollow noopener noreferrer">添加验证码<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h2 id="media-manager">Media manager</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -920,7 +921,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="后台-img-灯箱">后台 img 灯箱</h2>
-<p><a href="https://github.com/laravel-admin-extensions/grid-lightbox"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/laravel-admin-extensions/grid-lightbox</a></p>
+<p><a href="https://github.com/laravel-admin-extensions/grid-lightbox"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/laravel-admin-extensions/grid-lightbox<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -937,10 +938,10 @@
 </item>
 <item>
   <title>php 同时主动推送链接到百度，神马等站长平台</title>
-  <link>https://shiqustudio.github.io/phppushurl/</link>
+  <link>https://shiqustudio.github.io/posts/phppushurl/</link>
   <pubDate>Sat, 28 Sep 2019 18:32:42 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/phppushurl/</guid>
+  <guid>https://shiqustudio.github.io/posts/phppushurl/</guid>
   <description><![CDATA[<blockquote>
 <p>php 主动推送站点链接到百度站长，神马站长进行 SEO。</p>
 </blockquote>
@@ -1007,10 +1008,10 @@
 </item>
 <item>
   <title>php 按行读取文件信息</title>
-  <link>https://shiqustudio.github.io/phpfile/</link>
+  <link>https://shiqustudio.github.io/posts/phpfile/</link>
   <pubDate>Sat, 28 Sep 2019 17:11:17 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/phpfile/</guid>
+  <guid>https://shiqustudio.github.io/posts/phpfile/</guid>
   <description><![CDATA[<h2 id="普通方法">普通方法</h2>
 <p>首先采用<code>fopen()</code>函数打开文件，得到返回值的就是资源类型。接着采用 while 循环一行行地读取文件，然后输出每行的文字。<code>feof()</code>判断是否到最后一行，<code>fgets()</code>读取一行文本。</p>
 <div class="highlight"><div class="chroma">
@@ -1121,18 +1122,18 @@
 </item>
 <item>
   <title>NetBeans IDE 开发设置</title>
-  <link>https://shiqustudio.github.io/netbeans/</link>
+  <link>https://shiqustudio.github.io/posts/netbeans/</link>
   <pubDate>Thu, 15 Aug 2019 18:36:15 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/netbeans/</guid>
+  <guid>https://shiqustudio.github.io/posts/netbeans/</guid>
   <description><![CDATA[<h2 id="安裝">安裝</h2>
-<p><a href="https://netbeans.org/"target="_blank" rel="external nofollow noopener noreferrer">官方下載點</a></p>
+<p><a href="https://netbeans.org/"target="_blank" rel="external nofollow noopener noreferrer">官方下載點<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h2 id="擴充功能">擴充功能</h2>
 <h3 id="安裝擴充功能">安裝擴充功能</h3>
 <ol>
 <li>下載擴充套件包
 <ul>
-<li><a href="http://plugins.netbeans.org/PluginPortal/"target="_blank" rel="external nofollow noopener noreferrer">官方套件庫</a></li>
+<li><a href="http://plugins.netbeans.org/PluginPortal/"target="_blank" rel="external nofollow noopener noreferrer">官方套件庫<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 <li>或者在 NetBeans IDE 裏面下載插件（方便）</li>
 </ul>
 </li>
@@ -1324,7 +1325,7 @@
 <h3 id="chrome-with-netneans-connector">Chrome with NetNeans Connector</h3>
 <ol>
 <li>打開 chrome 中的應用程式商店（使用 chrome 瀏覽器點擊下方鏈接即可）<br>
-<a href="https://chrome.google.com/webstore/category/themes?hl=en-US/"target="_blank" rel="external nofollow noopener noreferrer">chrome 應用程式商店</a></li>
+<a href="https://chrome.google.com/webstore/category/themes?hl=en-US/"target="_blank" rel="external nofollow noopener noreferrer">chrome 應用程式商店<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 <li>在搜索框中輸入 NetNeans Connector 后搜索，然後點擊右邊的加到 Chrome 即可，安裝成功后右上角會顯示 NetBeans 圖標。</li>
 <li>開啟 netbeans 選擇 Run→Set Project Browser→ 選中 Chrome with NetBeans Connector</li>
 <li>選擇 default 下的 Customize → 選擇 Browser → 選擇 Browser 下 Chrome with NetBeans Connector 即可</li>
@@ -1336,10 +1337,10 @@
 </item>
 <item>
   <title>Web 开发规则，代码规范</title>
-  <link>https://shiqustudio.github.io/dev-rules/</link>
+  <link>https://shiqustudio.github.io/posts/dev-rules/</link>
   <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/dev-rules/</guid>
+  <guid>https://shiqustudio.github.io/posts/dev-rules/</guid>
   <description><![CDATA[<h2 id="精神">精神</h2>
 <ul>
 <li>绝不写死代码，硬编码</li>
@@ -1503,7 +1504,8 @@
 <li><strong>每个函数应该使用块注释，注释应包含函数功能说明、参数说明</strong>。规则见：JSDoc、JavaDoc</li>
 <li>不必要的代码不要写，也应禁止放到注释里面！</li>
 <li>if-else 的 {} 严禁省略</li>
-<li>{} 起始一律跟在 前一个功能的尾巴，禁止分行</li>
+<li>
+</li>
 <li>代码规范、代码排版等可通过 eslint 等工具做统一处理</li>
 </ul>
 <h3 id="正确写法">正确写法</h3>
@@ -1875,10 +1877,10 @@
 </item>
 <item>
   <title>简单评论模块--php 表单练习</title>
-  <link>https://shiqustudio.github.io/phpform/</link>
+  <link>https://shiqustudio.github.io/posts/phpform/</link>
   <pubDate>Fri, 19 Jul 2019 11:38:59 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/phpform/</guid>
+  <guid>https://shiqustudio.github.io/posts/phpform/</guid>
   <description><![CDATA[<blockquote>
 <p>简单模仿了一个评论模板，当然肯定是没有博客的 valine 这么强大的 hhhh，<br>
 <strong>PHP 表单安全性的重要提示</strong><br>
@@ -2110,10 +2112,10 @@
 </item>
 <item>
   <title>php 函数学习</title>
-  <link>https://shiqustudio.github.io/phpfunc/</link>
+  <link>https://shiqustudio.github.io/posts/phpfunc/</link>
   <pubDate>Mon, 15 Jul 2019 11:37:33 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/phpfunc/</guid>
+  <guid>https://shiqustudio.github.io/posts/phpfunc/</guid>
   <description><![CDATA[<blockquote>
 <p>练习 php 函数的基本使用。<br>
 注：<br>
@@ -2166,10 +2168,10 @@
 </item>
 <item>
   <title>WAMPServer 自定义网站根目录等设置</title>
-  <link>https://shiqustudio.github.io/wamproot/</link>
+  <link>https://shiqustudio.github.io/posts/wamproot/</link>
   <pubDate>Fri, 12 Jul 2019 18:44:36 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/wamproot/</guid>
+  <guid>https://shiqustudio.github.io/posts/wamproot/</guid>
   <description><![CDATA[<blockquote>
 <p>使用 WAMPServer 时自定义网站根目录。</p>
 </blockquote>
@@ -2313,6 +2315,126 @@ Ctrl+F 查找 <code>localhost</code><br>
 将其全部替换为<code>localhost:8000</code><br>
 然后，Ctrl+S 保存，重新启动 WampServer</li>
 </ol>]]></description>
+</item>
+<item>
+  <title>宅音乐播放器</title>
+  <link>https://shiqustudio.github.io/posts/player/</link>
+  <pubDate>Tue, 19 Mar 2019 23:32:56 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/player/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/posts/player/images/index.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>宅音乐播放器，HTML5 网页播放器，集成后台管理及 API 调用，目前正在开发中，敬请关注~<br>
+<a href="https://github.com/lzx8589561/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">原项目<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 由 <a href="https://www.ilt.me"target="_blank" rel="external nofollow noopener noreferrer">IT 技术宅<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 开源，使用 thinkPHP 开发后台。 <a href="https://github.com/Lruihao/zhai-music"target="_blank" rel="external nofollow noopener noreferrer">fork 地址<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是我个人学习模仿的库，也是相当于备份源码。<br>
+<em>注： 插件修改于明月浩空免费版，仅用于学习交流，无商业价值，如发现商业传播，将禁止软件的免费使用。</em></p>
+</blockquote>
+<h2 id="技术栈">技术栈</h2>
+<ul>
+<li>后端：thinkphp 5.1</li>
+<li>前端：layui</li>
+<li>数据库：mysql</li>
+</ul>
+<h2 id="演示站">演示站</h2>
+<blockquote>
+<p>已兼容移动端，测试账号仅供测试请勿修改密码！</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">test
+</span></span><span class="line"><span class="cl">test123
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li><a href="https://player.ilt.me/"target="_blank" rel="external nofollow noopener noreferrer">https://player.ilt.me/<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://player.lruihao.cn/"target="_blank" rel="external nofollow noopener noreferrer">https://player.lruihao.cn/<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+</ul>
+<h2 id="安装">安装</h2>
+<h3 id="视频安装教程">视频安装教程</h3>
+<p><a href="https://www.bilibili.com/video/av46476706"target="_blank" rel="external nofollow noopener noreferrer">https://www.bilibili.com/video/av46476706<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="依赖">依赖</h3>
+<ul>
+<li>composer</li>
+<li>php 5.6+</li>
+<li>mysql 5.5+</li>
+</ul>
+<h3 id="步骤">步骤</h3>
+<p>安装 php 依赖包</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">composer install
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>配置数据库，配置链接数据库名以及用户名密码</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">/config/database.php
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>创建数据库</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">字符编码：utf8 -- UTF-8 Unicode
+</span></span><span class="line"><span class="cl">导入数据库脚本，脚本位置 extend/database
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="伪静态配置">伪静态配置</h3>
+<h4 id="nginx">nginx</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">  location / {
+</span></span><span class="line"><span class="cl">      index  index.htm index.html index.php;
+</span></span><span class="line"><span class="cl">      #访问路径的文件不存在则重写 URL 转交给 ThinkPHP 处理
+</span></span><span class="line"><span class="cl">      if (!-e $request_filename) {
+</span></span><span class="line"><span class="cl">         rewrite  ^/(.*)$  /index.php?s=$1  last;
+</span></span><span class="line"><span class="cl">         break;
+</span></span><span class="line"><span class="cl">      }
+</span></span><span class="line"><span class="cl">  }
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="apache">apache</h4>
+<p>项目自带 apache 静态化无需配置</p>
+<h3 id="启动项目">启动项目</h3>
+<ul>
+<li>添加 public 为 web 根目录</li>
+<li>若为 apache 服务器则默认伪静态，nginx 可自行配置伪静态</li>
+</ul>
+<h2 id="预览">预览</h2>
+<p></p>
+<h3 id="首页">首页</h3>
+<p></p>
+<h3 id="登陆页面">登陆页面</h3>
+<p></p>
+<h3 id="后台首页">后台首页</h3>
+<p></p>
+<h3 id="后台播放器管理页面">后台播放器管理页面</h3>
+<p></p>
+<h3 id="后台歌单管理页面">后台歌单管理页面</h3>
+<p></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>磁盘 - 标签 - 我的 Hugo FixIt 网站</title>
+    <title>磁盘 - 标签 - 拾趣</title>
     <link>https://shiqustudio.github.io/tags/%E7%A3%81%E7%9B%98/</link>
-    <description>磁盘 - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 04 Mar 2019 23:08:32 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E7%A3%81%E7%9B%98/" rel="self" type="application/rss+xml" /><item>
+    <description>磁盘 - 标签 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Mon, 04 Mar 2019 23:08:32 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E7%A3%81%E7%9B%98/" rel="self" type="application/rss+xml" /><item>
   <title>磁盘存储器的管理</title>
-  <link>https://shiqustudio.github.io/cipanadmin/</link>
+  <link>https://shiqustudio.github.io/posts/cipanadmin/</link>
   <pubDate>Mon, 04 Mar 2019 23:08:32 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/cipanadmin/</guid>
+  <guid>https://shiqustudio.github.io/posts/cipanadmin/</guid>
   <description><![CDATA[<h2 id="外存的组织方式">外存的组织方式</h2>
 <h3 id="连续组织方式">连续组织方式</h3>
 <ul>

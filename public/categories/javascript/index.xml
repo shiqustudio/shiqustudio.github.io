@@ -1,17 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>JavaScript - 分类 - 我的 Hugo FixIt 网站</title>
+    <title>JavaScript - 分类 - 拾趣</title>
     <link>https://shiqustudio.github.io/categories/javascript/</link>
-    <description>JavaScript - 分类 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/javascript/" rel="self" type="application/rss+xml" /><item>
+    <description>JavaScript - 分类 - 拾趣</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
+      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/javascript/" rel="self" type="application/rss+xml" /><item>
   <title>electron 踩坑总结</title>
-  <link>https://shiqustudio.github.io/electron-summary/</link>
+  <link>https://shiqustudio.github.io/posts/electron-summary/</link>
   <pubDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/electron-summary/</guid>
+  <guid>https://shiqustudio.github.io/posts/electron-summary/</guid>
   <description><![CDATA[<p>总结一下最近 electron 开发遇到的问题和一些重要知识点。</p>
 <h2 id="简介">简介</h2>
-<p>如果你可以建一个网站，你就可以建一个桌面应用程序。 <a href="https://www.electronjs.org/"target="_blank" rel="external nofollow noopener noreferrer">Electron</a> 是一个使用 JavaScript, HTML 和 CSS 等 Web 技术创建原生程序的开源框架，它负责比较难搞的部分，你只需把精力放在你的应用的核心上即可。</p>
+<p>如果你可以建一个网站，你就可以建一个桌面应用程序。 <a href="https://www.electronjs.org/"target="_blank" rel="external nofollow noopener noreferrer">Electron<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个使用 JavaScript, HTML 和 CSS 等 Web 技术创建原生程序的开源框架，它负责比较难搞的部分，你只需把精力放在你的应用的核心上即可。</p>
 <h2 id="知识点">知识点</h2>
 <h3 id="进程">进程</h3>
 <p>electron 由两种进程组成，包括<code>主进程</code>和 0 个或 n 个<code>渲染进程</code>。</p>
@@ -37,7 +38,7 @@
 </span></span><span class="line"><span class="cl">npm config <span class="nb">set</span> <span class="nv">electron_mirror</span><span class="o">=</span>https://npmmirror.com/mirrors/electron/
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>M1 Mac 安装较低版本 electron 时可能会报错，<code>Failed to find Electron v xxx for darwin-arm64</code>，因为这些版本的 electron 不支持 darwin-arm64 架构。Apple 针对未适配的 X64 应用提供了 Rosetta2 转换器，安装 darwin-x64 版本的 electron 在 Intel 模式下运行即可，<a href="https://www.jianshu.com/p/b1b3577fd373"target="_blank" rel="external nofollow noopener noreferrer">参考</a>。</p>
+</div><p>M1 Mac 安装较低版本 electron 时可能会报错，<code>Failed to find Electron v xxx for darwin-arm64</code>，因为这些版本的 electron 不支持 darwin-arm64 架构。Apple 针对未适配的 X64 应用提供了 Rosetta2 转换器，安装 darwin-x64 版本的 electron 在 Intel 模式下运行即可，<a href="https://www.jianshu.com/p/b1b3577fd373"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 <h3 id="remote">remote</h3>
 <blockquote>
 <p>不要频繁使用 remote, 更多应该手动进行和主进程之间的通信。</p>
@@ -117,7 +118,7 @@
 <p>如果只在开发环境启用开发者工具，则需要设置 <code>webPreferences.devTools</code> 为 <code>process.env.NODE_ENV === 'development'</code></p>
 <h3 id="启动白屏">启动白屏</h3>
 <p>在创建窗口时设置 <code>show: false</code>，在 <code>ready-to-show</code> 事件之后执行 <code>mainWindow.show()</code>，</p>
-<p>可见官方文档 <a href="https://www.electronjs.org/zh/docs/latest/api/browser-window#%e4%bc%98%e9%9b%85%e5%9c%b0%e6%98%be%e7%a4%ba%e7%aa%97%e5%8f%a3"target="_blank" rel="external nofollow noopener noreferrer">优雅地显示窗口</a>。</p>
+<p>可见官方文档 <a href="https://www.electronjs.org/zh/docs/latest/api/browser-window#%e4%bc%98%e9%9b%85%e5%9c%b0%e6%98%be%e7%a4%ba%e7%aa%97%e5%8f%a3"target="_blank" rel="external nofollow noopener noreferrer">优雅地显示窗口<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 <h4 id="启动前-loading">启动前 loading</h4>
 <p>额外创建一个 loading 窗口，该窗口可设置为透明只包含 loading 图标和文字，在 <code>mainWindow.show()</code> 后关闭。</p>
 <h4 id="启动后-loading">启动后 loading</h4>
@@ -225,7 +226,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="阻止窗口关闭">阻止窗口关闭</h3>
-<p>可以在关闭前一些事件里做拦截，比如：<code>onbeforeunload</code> 等，详见 <a href="https://www.electronjs.org/zh/docs/latest/api/browser-window#%e5%ae%9e%e4%be%8b%e4%ba%8b%e4%bb%b6"target="_blank" rel="external nofollow noopener noreferrer">实例事件</a>。</p>
+<p>可以在关闭前一些事件里做拦截，比如：<code>onbeforeunload</code> 等，详见 <a href="https://www.electronjs.org/zh/docs/latest/api/browser-window#%e5%ae%9e%e4%be%8b%e4%ba%8b%e4%bb%b6"target="_blank" rel="external nofollow noopener noreferrer">实例事件<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 <h3 id="手动关闭窗口">手动关闭窗口</h3>
 <p>当自定义关闭时，使用 <code>mainWindow.destroy()</code> 来关闭窗口，因为使用 <code>mainWindow.close()</code> 时，windows 系统打开开发者工具时会出现无法关闭窗口的情况。</p>
 <h3 id="全局快捷键">全局快捷键</h3>
@@ -354,7 +355,7 @@
 <li>linux: <code>~/.cache/electron-builder/</code></li>
 <li>windows: <code>%LOCALAPPDATA%\electron-builder\cache\</code></li>
 </ul>
-<p>mac 上缓存目录如下，其他可 <a href="https://www.cnblogs.com/xueyoucd/p/8006610.html"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
+<p>mac 上缓存目录如下，其他可 <a href="https://www.cnblogs.com/xueyoucd/p/8006610.html"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -402,18 +403,18 @@
 </div><p>注：win11 打包在 win10 上可能运行不了，最好使用 win10 打包或者 mac 打包指定系统和位数。</p>
 <h4 id="macos-打包">macOS 打包</h4>
 <p>问题：mac 升级之后 electron 打包报错 <code>Exit code: ENOENT. spawn /usr/bin/python ENOENT</code></p>
-<p>解决：网上搜到的下载 python 2.7 是治标不治本，正确做法是升级 <code>electron-builder</code> 到 <code>23.0.2</code> 或更高版本，参考 <a href="https://github.com/electron-userland/electron-builder/issues/6726"target="_blank" rel="external nofollow noopener noreferrer">electron-builder#6726</a></p>
+<p>解决：网上搜到的下载 python 2.7 是治标不治本，正确做法是升级 <code>electron-builder</code> 到 <code>23.0.2</code> 或更高版本，参考 <a href="https://github.com/electron-userland/electron-builder/issues/6726"target="_blank" rel="external nofollow noopener noreferrer">electron-builder#6726<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <p>参考链接</p>
 <ul>
-<li><a href="https://www.jianshu.com/p/2e6811ad9f68"target="_blank" rel="external nofollow noopener noreferrer">Electron-Mac 应用的签名步骤说明</a></li>
+<li><a href="https://www.jianshu.com/p/2e6811ad9f68"target="_blank" rel="external nofollow noopener noreferrer">Electron-Mac 应用的签名步骤说明<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>]]></description>
 </item>
 <item>
   <title>前端页面内容加密总结</title>
-  <link>https://shiqustudio.github.io/encryption-fe/</link>
+  <link>https://shiqustudio.github.io/posts/encryption-fe/</link>
   <pubDate>Mon, 08 Aug 2022 13:49:22 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/encryption-fe/</guid>
+  <guid>https://shiqustudio.github.io/posts/encryption-fe/</guid>
   <description><![CDATA[<p>记录一下前端实现页面加密的思路。</p>
 <h2 id="加密基础知识">加密基础知识</h2>
 <h3 id="双向加密">双向加密</h3>
@@ -434,7 +435,7 @@
 <h3 id="单向加密">单向加密</h3>
 <p>不可还原的加密算法（暴力撞库除外），常见的算法有：MD5、SHA1、SHA256、SHA512。</p>
 <h2 id="页面内容加密">页面内容加密</h2>
-<p><figure><a class="lightgallery" href="/encryption-fe/images/algorithm.jpg" data-thumbnail="/encryption-fe/images/algorithm.jpg" data-sub-html="<h2>内容加密算法</h2><p>内容加密算法</p>"></a><figcaption class="image-caption">内容加密算法</figcaption>
+<p><figure><a class="lightgallery" href="/posts/encryption-fe/images/algorithm.jpg" data-thumbnail="/posts/encryption-fe/images/algorithm.jpg" data-sub-html="<h2>内容加密算法</h2><p>内容加密算法</p>"></a><figcaption class="image-caption">内容加密算法</figcaption>
   </figure></p>
 <ol>
 <li>通过比对密码和输入的 md5 值来判断密码是否输入正确</li>
@@ -445,14 +446,14 @@
 </ol>
 </li>
 </ol>
-<p>这里利用 <code>Set</code> 进行事件管理，简单模拟了 <code>addEventListener</code> 和 <code>removeEventListener</code> 的操作。并提供了两个事件：<code>decrypted</code> 和 <code>reset</code>，详见 <a href="https://github.com/hugo-fixit/FixIt/blob/master/assets/js/fixit-decryptor.js"target="_blank" rel="external nofollow noopener noreferrer">fixit-decryptor.js</a>。</p>]]></description>
+<p>这里利用 <code>Set</code> 进行事件管理，简单模拟了 <code>addEventListener</code> 和 <code>removeEventListener</code> 的操作。并提供了两个事件：<code>decrypted</code> 和 <code>reset</code>，详见 <a href="https://github.com/hugo-fixit/FixIt/blob/master/assets/js/fixit-decryptor.js"target="_blank" rel="external nofollow noopener noreferrer">fixit-decryptor.js<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>]]></description>
 </item>
 <item>
   <title>Node.js &#43; GitHub Actions 自动刷新 CDN</title>
-  <link>https://shiqustudio.github.io/qcloudcdn/</link>
+  <link>https://shiqustudio.github.io/posts/qcloudcdn/</link>
   <pubDate>Sun, 07 Aug 2022 14:40:33 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/qcloudcdn/</guid>
+  <guid>https://shiqustudio.github.io/posts/qcloudcdn/</guid>
   <description><![CDATA[<div class="details admonition question open">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -613,18 +614,18 @@
 <p>最后上传代码，以后更新仓库时就会自动刷新 CDN 缓存了。</p>
 <h2 id="参考资料">参考资料</h2>
 <ul>
-<li><a href="https://github.com/QCloudCDN/CDN_API_DEMO/tree/master/Qcloud_CDN_API/nodejs"target="_blank" rel="external nofollow noopener noreferrer">Qcloud_CDN_API/nodejs</a></li>
+<li><a href="https://github.com/QCloudCDN/CDN_API_DEMO/tree/master/Qcloud_CDN_API/nodejs"target="_blank" rel="external nofollow noopener noreferrer">Qcloud_CDN_API/nodejs<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
 <blockquote>
-<p>本方案使用的旧的 API 请求方式，如果失效，可以参考新的 API，见 <a href="https://cloud.tencent.com/document/sdk"target="_blank" rel="external nofollow noopener noreferrer">SDK 中心</a>。</p>
+<p>本方案使用的旧的 API 请求方式，如果失效，可以参考新的 API，见 <a href="https://cloud.tencent.com/document/sdk"target="_blank" rel="external nofollow noopener noreferrer">SDK 中心<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 </blockquote>]]></description>
 </item>
 <item>
   <title>重新认识 JavaScript</title>
-  <link>https://shiqustudio.github.io/js-rediscover/</link>
+  <link>https://shiqustudio.github.io/posts/js-rediscover/</link>
   <pubDate>Sun, 01 May 2022 10:59:36 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/js-rediscover/</guid>
+  <guid>https://shiqustudio.github.io/posts/js-rediscover/</guid>
   <description><![CDATA[<div class="details admonition tip open">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>前言<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -639,7 +640,7 @@
 <blockquote>
 <p>共同点：这几个方法都不会改变原始数组。</p>
 </blockquote>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/some"target="_blank" rel="external nofollow noopener noreferrer">some</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/some"target="_blank" rel="external nofollow noopener noreferrer">some<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <p><code>some()</code> 方法测试数组中是不是至少有 1 个元素通过了被提供的函数测试，它返回一个布尔值。</p>
 <p>数组中有至少一个元素通过回调函数的测试就会返回 <code>true</code>，所有元素都没有通过回调函数的测试返回值才会为 <code>false</code>。</p>
 <div class="highlight"><div class="chroma">
@@ -668,12 +669,12 @@
       <div class="admonition-content"><code>some()</code> 不会对空数组进行检测，空数组返回 <code>false</code></div>
     </div>
   </div>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/every"target="_blank" rel="external nofollow noopener noreferrer">every</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/every"target="_blank" rel="external nofollow noopener noreferrer">every<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：<code>every()</code> 和 <code>some()</code> 功能相反</p>
 </blockquote>
 <p><code>every()</code> 方法测试一个数组内的所有元素是否都能通过某个指定函数的测试，它返回一个布尔值。</p>
-<p>如果回调函数的每一次返回都为 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Truthy"target="_blank" rel="external nofollow noopener noreferrer">truthy</a> 值，返回 <code>true</code> ，否则返回 <code>false</code>。</p>
+<p>如果回调函数的每一次返回都为 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Truthy"target="_blank" rel="external nofollow noopener noreferrer">truthy<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 值，返回 <code>true</code> ，否则返回 <code>false</code>。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -700,11 +701,11 @@
       <div class="admonition-content"><code>every()</code> 不会对空数组进行检测，空数组返回 <code>true</code></div>
     </div>
   </div>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/find"target="_blank" rel="external nofollow noopener noreferrer">Find</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/find"target="_blank" rel="external nofollow noopener noreferrer">Find<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：功能和 <code>some()</code> 类似，<code>some()</code> 返回布尔值，<code>find()</code> 返回<strong>找到</strong>的元素</p>
 </blockquote>
-<p><code>find()</code> 方法返回数组中满足提供的测试函数的第一个元素的值，否则返回 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/undefined"target="_blank" rel="external nofollow noopener noreferrer"><code>undefined</code></a>。</p>
+<p><code>find()</code> 方法返回数组中满足提供的测试函数的第一个元素的值，否则返回 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/undefined"target="_blank" rel="external nofollow noopener noreferrer"><code>undefined</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -736,12 +737,12 @@
       <i class="icon fa-solid fa-quote-right fa-fw" aria-hidden="true"></i>引用<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content"><p>另请参见 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"target="_blank" rel="external nofollow noopener noreferrer"><code>findIndex()</code></a> 方法，它返回数组中找到的元素的索引，而不是其值。</p>
-<p>如果你需要找到一个元素的位置或者一个元素是否存在于数组中，使用 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.indexOf()</code></a> 或 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.includes()</code></a>。</p>
+      <div class="admonition-content"><p>另请参见 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"target="_blank" rel="external nofollow noopener noreferrer"><code>findIndex()</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 方法，它返回数组中找到的元素的索引，而不是其值。</p>
+<p>如果你需要找到一个元素的位置或者一个元素是否存在于数组中，使用 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.indexOf()</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或 <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/includes"target="_blank" rel="external nofollow noopener noreferrer"><code>Array.prototype.includes()</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 </div>
     </div>
   </div>
-<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"target="_blank" rel="external nofollow noopener noreferrer">filter</a></strong></p>
+<p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"target="_blank" rel="external nofollow noopener noreferrer">filter<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：如字面意思，它是一个筛子，会筛选出满足条件的元素</p>
 </blockquote>
@@ -773,7 +774,7 @@
 </span></span><span class="line"><span class="cl"><span class="c1">// expected output: Array [&#34;exuberant&#34;, &#34;destruction&#34;, &#34;present&#34;]
 </span></span></span></code></pre></td></tr></table>
 </div>
-</div><p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map"target="_blank" rel="external nofollow noopener noreferrer">map</a></strong></p>
+</div><p><strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/map"target="_blank" rel="external nofollow noopener noreferrer">map<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong></p>
 <blockquote>
 <p>助记：功能和 <code>filter()</code> 类似，<code>filter()</code> 返回筛选的元素，<code>map()</code> 返回筛选的结果值</p>
 </blockquote>
@@ -1192,10 +1193,10 @@
 </item>
 <item>
   <title>Lightbox</title>
-  <link>https://shiqustudio.github.io/lightbox/</link>
+  <link>https://shiqustudio.github.io/posts/lightbox/</link>
   <pubDate>Mon, 21 Jun 2021 16:18:04 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/lightbox/</guid>
+  <guid>https://shiqustudio.github.io/posts/lightbox/</guid>
   <description><![CDATA[<h2 id="簡介">簡介</h2>
 <p>Lightbox （燈箱），用来放大显示图片覆盖于当前页面之上。其是用 CSS 来定义图片容器，用一幅半透明的 png 图片实现渐变阴暗的效果。</p>
 <p>一般的網頁，圖片是使用 img 標籤寫在 HTML 頁面中，圖片點擊并不會放大，想放大看圖片要麼方法整個網頁，要麼複製圖片鏈接新開窗口，操作繁瑣，而使用 Lightbox 的網站可以点击缩略图浮层显示大图，放大後可点击键盘 ←、→ 键切换图片，也可以鼠标点击左右箭头切换。按下键盘 Esc 键或者点击关闭按钮可輕鬆關閉圖層，圖片流覽的體驗度是遠遠大於未使用的 Lightbox 的網站。</p>
@@ -1594,7 +1595,7 @@
 </span></span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="fancybox">fancybox</h2>
-<p><a href="https://github.com/fancyapps/fancybox"target="_blank" rel="external nofollow noopener noreferrer">fancybox</a> 是一個完善的 lightbox 插件<br>
+<p><a href="https://github.com/fancyapps/fancybox"target="_blank" rel="external nofollow noopener noreferrer">fancybox<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一個完善的 lightbox 插件<br>
 jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.</p>
 <h3 id="quick-start">Quick start</h3>
 <ol>
@@ -1835,7 +1836,7 @@ jQuery lightbox script for displaying images, videos and more. Touch enabled, re
 </tbody>
 </table>
 <blockquote>
-<p>Author: <a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">Lruihao</a></p>
+<p>Author: <a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">Lruihao<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <h3 id="methods">Methods</h3>
 <h4 id="uploadcontent">upload(content)</h4>
@@ -2074,15 +2075,15 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
 </ol>
 </li>
 <li>2019-11-24 10:52:34
-修改整理了一下代码，分割功能为函数，并写了注释，更加方便 <a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">伸手党</a>!</li>
+修改整理了一下代码，分割功能为函数，并写了注释，更加方便 <a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">伸手党<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>!</li>
 </ul>]]></description>
 </item>
 <item>
   <title>设置网站运行时间</title>
-  <link>https://shiqustudio.github.io/site-time/</link>
+  <link>https://shiqustudio.github.io/posts/site-time/</link>
   <pubDate>Thu, 19 Sep 2019 22:03:29 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/site-time/</guid>
+  <guid>https://shiqustudio.github.io/posts/site-time/</guid>
   <description><![CDATA[<blockquote>
 <p>使用<code>javascript</code>计算博客等网站的运行时间。</p>
 </blockquote>
@@ -2173,10 +2174,10 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
 </item>
 <item>
   <title>script 的三种加载方式 (async, defer)</title>
-  <link>https://shiqustudio.github.io/async-defer/</link>
+  <link>https://shiqustudio.github.io/posts/async-defer/</link>
   <pubDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/async-defer/</guid>
+  <guid>https://shiqustudio.github.io/posts/async-defer/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/async-defer/images/async_vs_defer.svg" referrerpolicy="no-referrer">
       </div><div class="details admonition note open">
@@ -2255,16 +2256,16 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
 </ol>
 <h2 id="参考">参考</h2>
 <ul>
-<li><a href="https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html"target="_blank" rel="external nofollow noopener noreferrer">https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html</a></li>
-<li><a href="https://www.jianshu.com/p/17dc82bf08f1"target="_blank" rel="external nofollow noopener noreferrer">https://www.jianshu.com/p/17dc82bf08f1</a></li>
+<li><a href="https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html"target="_blank" rel="external nofollow noopener noreferrer">https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://www.jianshu.com/p/17dc82bf08f1"target="_blank" rel="external nofollow noopener noreferrer">https://www.jianshu.com/p/17dc82bf08f1<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>]]></description>
 </item>
 <item>
   <title>模仿知乎卡片式链接</title>
-  <link>https://shiqustudio.github.io/linkcard/</link>
+  <link>https://shiqustudio.github.io/posts/linkcard/</link>
   <pubDate>Fri, 15 Mar 2019 15:21:39 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/linkcard/</guid>
+  <guid>https://shiqustudio.github.io/posts/linkcard/</guid>
   <description><![CDATA[<blockquote>
 <p>模仿知乎的卡片式链接，idea 来自 [兰州小红鸡]</p>
 </blockquote>
@@ -2344,6 +2345,1041 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
           <span class="cl-url">https://github.com/Lruihao/lruihao.github.io</span>
         </span>
       </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>]]></description>
+</item>
+<item>
+  <title>QQ 强制生成卡片式链接</title>
+  <link>https://shiqustudio.github.io/posts/qqxml/</link>
+  <pubDate>Fri, 08 Mar 2019 16:52:13 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/qqxml/</guid>
+  <description><![CDATA[<blockquote>
+<p>以前在 QQ 里面聊天的时候发现，有些链接是卡片式的链接，像知乎里那些一样，就好奇为啥我的域名没有生成卡片。<br>
+查了一下百度知道了大概就是 qq 没有抓取到你的网站的 xml。并在其他教程中得到了一个强制提交抓取的 url <code>https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshareget_urlinfo?url=</code> 于是就有了脚本刷新的想法。简陋的写了一下。</p>
+</blockquote>
+<h2 id="批量式刷新">批量式刷新</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="c1">//设置刷新前缀 url=首页地址（最好使用 https）
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">var</span> <span class="nx">base_src</span> <span class="o">=</span> <span class="s1">&#39;https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshareget_urlinfo?url=https://lruihao.cn&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c1">//用户地址
+</span></span></span><span class="line"><span class="cl"><span class="c1">//var custom_src = &#34;https://lruihao.cn&#34;;
+</span></span></span><span class="line"><span class="cl"><span class="c1">//初始化工作地址
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">var</span> <span class="nx">new_src</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kd">function</span> <span class="nx">createArrayAndOpenWindow</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">//alert(&#34;number function&#34;);
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="c1">//定义数组存储后缀
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="kd">var</span> <span class="nx">numberArray</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Array</span><span class="p">(</span><span class="mi">4</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">//存储后缀
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="nx">numberArray</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;/about/&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">numberArray</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;/categories/&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">numberArray</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;/tags/&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">numberArray</span><span class="p">[</span><span class="mi">3</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;/archives/&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">//numberArray[4] = &#34;/guestbook/&#34;;
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>
+</span></span><span class="line"><span class="cl">  <span class="c1">//遍历
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="k">for</span> <span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">numberArray</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">new_src</span> <span class="o">=</span> <span class="nx">base_src</span> <span class="o">+</span> <span class="nx">numberArray</span><span class="p">[</span><span class="nx">i</span><span class="p">];</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">//打开该地址
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="nx">open_new</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">//清空后缀
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="nx">new_src</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">//负责打开窗口，并关闭
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">function</span> <span class="nx">open_new</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">var</span> <span class="nx">new_window</span> <span class="o">=</span> <span class="nb">window</span><span class="p">.</span><span class="nx">open</span><span class="p">(</span><span class="nx">new_src</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">,</span> <span class="s1">&#39;width=400,height=200&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">setTimeout</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">//开启后 200ms（单页）关闭，速度自行把握数组越大时间越多
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="nx">new_window</span><span class="p">.</span><span class="nx">close</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">  <span class="p">},</span> <span class="mi">2000</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">window</span><span class="p">.</span><span class="nx">onload</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">createArrayAndOpenWindow</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">//设置定时函数，疯狂刷新直到 xml 出现内容
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="kd">var</span> <span class="nx">timer</span> <span class="o">=</span> <span class="nx">setInterval</span><span class="p">(</span><span class="s1">&#39;createArrayAndOpenWindow()&#39;</span><span class="p">,</span> <span class="mi">2000</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">};</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="单链接刷新">单链接刷新</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">style</span><span class="o">=</span><span class="s">&#34;text-align: center;&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;text&#34;</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;input&#34;</span> <span class="na">value</span><span class="o">=</span><span class="s">&#34;&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;button&#34;</span> <span class="na">value</span><span class="o">=</span><span class="s">&#34;疯狂刷新&#34;</span> <span class="na">onclick</span><span class="o">=</span><span class="s">&#34;yanzheng()&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="c1">//设置刷新前缀 url=首页地址（最好使用 https）https://lruihao.cn
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">var</span> <span class="nx">base_src</span> <span class="o">=</span> <span class="s1">&#39;https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshareget_urlinfo?url=&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c1">//用户地址
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">var</span> <span class="nx">custom_src</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c1">//初始化工作地址
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">var</span> <span class="nx">new_src</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">//负责打开窗口，并关闭
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">function</span> <span class="nx">open_new</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">var</span> <span class="nx">new_window</span> <span class="o">=</span> <span class="nb">window</span><span class="p">.</span><span class="nx">open</span><span class="p">(</span><span class="nx">new_src</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">,</span> <span class="s1">&#39;width=400,height=200&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">setTimeout</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">//开启后 200ms 关闭
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="nx">new_window</span><span class="p">.</span><span class="nx">close</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">  <span class="p">},</span> <span class="mi">200</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">// 获取验证用户输入
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">function</span> <span class="nx">yanzheng</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">var</span> <span class="nx">Input</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;input&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">var</span> <span class="nx">oValue</span> <span class="o">=</span> <span class="nx">Input</span><span class="p">.</span><span class="nx">value</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">custom_src</span> <span class="o">=</span> <span class="nx">oValue</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">new_src</span> <span class="o">=</span> <span class="nx">base_src</span> <span class="o">+</span> <span class="nx">custom_src</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">if</span> <span class="p">(</span><span class="nx">oValue</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;请输入地址&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">var</span> <span class="nx">timer</span> <span class="o">=</span> <span class="nx">setInterval</span><span class="p">(</span><span class="s1">&#39;open_new()&#39;</span><span class="p">,</span> <span class="mi">200</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="demo">demo</h2>
+<p><figure><a class="lightgallery" href="/posts/qqxml/images/1.png" data-thumbnail="/posts/qqxml/images/1.png" data-sub-html="<h2>线上 demo 仅做参考请自行下载</h2><p>线上 demo 仅做参考请自行下载</p>"></a><figcaption class="image-caption">线上 demo 仅做参考请自行下载</figcaption>
+  </figure><br>
+<figure><a class="lightgallery" href="/posts/qqxml/images/2.png" data-thumbnail="/posts/qqxml/images/2.png" data-sub-html="<h2>效果</h2><p>效果</p>"></a><figcaption class="image-caption">效果</figcaption>
+  </figure></p>]]></description>
+</item>
+<item>
+  <title>JS 验证码</title>
+  <link>https://shiqustudio.github.io/posts/js-vcode/</link>
+  <pubDate>Mon, 04 Mar 2019 20:53:09 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/js-vcode/</guid>
+  <description><![CDATA[<style type="text/css">
+	#code{  
+        font-family:Arial;  
+        font-style:italic;  
+        font-weight:bold;  
+        border:2px solid #ddd;
+        letter-spacing:9px;  
+        color:blue;
+        font-size: 15px; 
+    }
+</style>
+<script type="text/javascript">
+	//设置一个全局的变量，便于保存验证码
+    var code;
+    function createCode(){
+        //首先默认 code 为空字符串
+        code = '';
+        //设置长度，这里看需求，我这里设置了 4
+        var codeLength = 4;
+        var codeV = document.getElementById('code');
+        //设置随机字符
+        var random = new Array('人','徒','知','枯','坐','息','思','为','进','德','之','功','殊','不','知','上','达','之', '士','圆','通','定','慧','体','用','双','修','即','动','而','静','虽','撄','而','宁');
+        //循环 codeLength 我设置的 4 就是循环 4 次
+        for(var i = 0; i < codeLength; i++){
+            //设置随机数范围，这设置为 0 ~ 36
+             var index = Math.floor(Math.random()*35);
+             //字符串拼接 将每次随机的字符 进行拼接
+             code += random[index]; 
+        }
+        //将拼接好的字符串赋值给展示的 Value
+        codeV.value = code;
+    }
+
+    //下面就是判断是否== 的代码，无需解释
+    function validate(){
+        var Input = document.getElementById('input');
+        var oValue = Input.value.toUpperCase();
+        if(oValue ==0){
+            alert('请输入验证码');
+        }else if(oValue != code){
+            Input.value = '';
+            alert('验证码不正确，请重新输入');
+            createCode();
+        }else{
+            Input.value = '';
+            alert('验证码正确！');//window.open('http://lruihao.cn','_self');
+        }
+    }
+
+    //设置此处的原因是每次进入界面展示一个随机的验证码，不设置则为空
+    window.onload = function (){
+
+        createCode();
+    }
+</script>
+<div align="center">  
+    <input type = "text" id = "input" value="" /> <input type = "button" id="code" onclick="createCode()"/> <input class="btn" type = "button" value = "验证" onclick = "validate()"/> 
+    <br/>请点击验证码处：↑ 
+</div>
+<h2 id="heading"></h2>
+<p>验证码 JS 来源互联网</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&#34;text/javascript&#34;</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">	<span class="c1">//设置一个全局的变量，便于保存验证码
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="kd">var</span> <span class="nx">code</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">function</span> <span class="nx">createCode</span><span class="p">(){</span>
+</span></span><span class="line"><span class="cl">        <span class="c1">//首先默认 code 为空字符串
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="nx">code</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="c1">//设置长度，这里看需求，我这里设置了 4
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="kd">var</span> <span class="nx">codeLength</span> <span class="o">=</span> <span class="mi">4</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="kd">var</span> <span class="nx">codeV</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;code&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="c1">//设置随机字符
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="kd">var</span> <span class="nx">random</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Array</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">8</span><span class="p">,</span><span class="mi">9</span><span class="p">,</span><span class="s1">&#39;A&#39;</span><span class="p">,</span><span class="s1">&#39;B&#39;</span><span class="p">,</span><span class="s1">&#39;C&#39;</span><span class="p">,</span><span class="s1">&#39;D&#39;</span><span class="p">,</span><span class="s1">&#39;E&#39;</span><span class="p">,</span><span class="s1">&#39;F&#39;</span><span class="p">,</span><span class="s1">&#39;G&#39;</span><span class="p">,</span><span class="s1">&#39;H&#39;</span><span class="p">,</span><span class="s1">&#39;I&#39;</span><span class="p">,</span><span class="s1">&#39;J&#39;</span><span class="p">,</span><span class="s1">&#39;K&#39;</span><span class="p">,</span><span class="s1">&#39;L&#39;</span><span class="p">,</span><span class="s1">&#39;M&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;O&#39;</span><span class="p">,</span><span class="s1">&#39;P&#39;</span><span class="p">,</span><span class="s1">&#39;Q&#39;</span><span class="p">,</span><span class="s1">&#39;R&#39;</span><span class="p">,</span> <span class="s1">&#39;S&#39;</span><span class="p">,</span><span class="s1">&#39;T&#39;</span><span class="p">,</span><span class="s1">&#39;U&#39;</span><span class="p">,</span><span class="s1">&#39;V&#39;</span><span class="p">,</span><span class="s1">&#39;W&#39;</span><span class="p">,</span><span class="s1">&#39;X&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;Z&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="c1">//循环 codeLength 我设置的 4 就是循环 4 次
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="k">for</span><span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">codeLength</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">            <span class="c1">//设置随机数范围，这设置为 0 ~ 36
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>             <span class="kd">var</span> <span class="nx">index</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span><span class="o">*</span><span class="mi">36</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">             <span class="c1">//字符串拼接 将每次随机的字符 进行拼接
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>             <span class="nx">code</span> <span class="o">+=</span> <span class="nx">random</span><span class="p">[</span><span class="nx">index</span><span class="p">];</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">        <span class="c1">//将拼接好的字符串赋值给展示的 Value
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="nx">codeV</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="nx">code</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="c1">//下面就是判断是否== 的代码，无需解释，也可以结合 ajax 在后台做判断
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="kd">function</span> <span class="nx">validate</span><span class="p">(){</span>
+</span></span><span class="line"><span class="cl">        <span class="kd">var</span> <span class="nx">Input</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;input&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="kd">var</span> <span class="nx">oValue</span> <span class="o">=</span> <span class="nx">Input</span><span class="p">.</span><span class="nx">value</span><span class="p">.</span><span class="nx">toUpperCase</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="p">(</span><span class="nx">oValue</span> <span class="o">==</span><span class="mi">0</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;请输入验证码&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span><span class="k">else</span> <span class="k">if</span><span class="p">(</span><span class="nx">oValue</span> <span class="o">!=</span> <span class="nx">code</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">Input</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;验证码不正确，请重新输入&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">createCode</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span><span class="k">else</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">Input</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;验证码正确！&#39;</span><span class="p">);</span><span class="c1">//window.open(&#39;http://lruihao.cn&#39;,&#39;_self&#39;);
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="c1">//设置此处的原因是每次进入界面展示一个随机的验证码，不设置则为空
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="nb">window</span><span class="p">.</span><span class="nx">onload</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">(){</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">        <span class="nx">createCode</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="err">/script&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
+</item>
+<item>
+  <title>js 判断用户设备类型及平台</title>
+  <link>https://shiqustudio.github.io/posts/js-device/</link>
+  <pubDate>Sat, 03 Nov 2018 23:35:44 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/js-device/</guid>
+  <description><![CDATA[<p>前端开发经常遇到需要判断用户的浏览设备，是 pc 端还是移动端，移动端使用的是什么手机系统？android、ios、ipad、windows phone 等等，有时候还需要知道用户浏览页面是在微信中打开还是在移动端浏览器中打开，等等一系列判断做一些相应的处理。</p>
+<h3 id="首先判断-pc-端还是移动端">首先判断 pc 端还是移动端</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">function IsPC() {
+</span></span><span class="line"><span class="cl">        var userAgentInfo = navigator.userAgent;
+</span></span><span class="line"><span class="cl">        var Agents = [&#34;Android&#34;, &#34;iPhone&#34;,
+</span></span><span class="line"><span class="cl">                    &#34;SymbianOS&#34;, &#34;Windows Phone&#34;,
+</span></span><span class="line"><span class="cl">                    &#34;iPad&#34;, &#34;iPod&#34;];
+</span></span><span class="line"><span class="cl">        var flag = true;
+</span></span><span class="line"><span class="cl">        for (var v = 0; v &lt; Agents.length; v++) {
+</span></span><span class="line"><span class="cl">            if (userAgentInfo.indexOf(Agents[v]) &gt; 0) {
+</span></span><span class="line"><span class="cl">                flag = false;
+</span></span><span class="line"><span class="cl">                break;
+</span></span><span class="line"><span class="cl">            }
+</span></span><span class="line"><span class="cl">        }
+</span></span><span class="line"><span class="cl">        return flag;
+</span></span><span class="line"><span class="cl">    }
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="判断用户移动端使用的系统平台">判断用户移动端使用的系统平台</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var u = navigator.userAgent;
+</span></span><span class="line"><span class="cl">    if (u.indexOf(&#39;Android&#39;) &gt; -1 || u.indexOf(&#39;Linux&#39;) &gt; -1) {
+</span></span><span class="line"><span class="cl">        //安卓手机
+</span></span><span class="line"><span class="cl">    } else if (u.indexOf(&#39;iPhone&#39;) &gt; -1) {
+</span></span><span class="line"><span class="cl">        //苹果手机
+</span></span><span class="line"><span class="cl">    } else if (u.indexOf(&#39;Windows Phone&#39;) &gt; -1) {
+</span></span><span class="line"><span class="cl">        //winphone 手机
+</span></span><span class="line"><span class="cl">    }
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="判断用户是否在微信中打开">判断用户是否在微信中打开</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">function isWeiXin(){
+</span></span><span class="line"><span class="cl">        var ua = navigator.userAgent.toLowerCase();
+</span></span><span class="line"><span class="cl">        if(ua.indexOf(&#39;micromessenger&#39;) != -1) {
+</span></span><span class="line"><span class="cl">            return true;
+</span></span><span class="line"><span class="cl">        } else {
+</span></span><span class="line"><span class="cl">            return false;
+</span></span><span class="line"><span class="cl">        }
+</span></span><span class="line"><span class="cl">    }
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="实际运用">实际运用</h3>
+<p>根据 pc 或者移动端控制飘花数目，降低 cpu 消耗，减少卡顿。<a href="https://www.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">  &lt;script&gt;
+</span></span><span class="line"><span class="cl">    function sakuraInit() {
+</span></span><span class="line"><span class="cl">        $(document).snowfall(&#39;clear&#39;);
+</span></span><span class="line"><span class="cl">        var userAgentInfo = navigator.userAgent;
+</span></span><span class="line"><span class="cl">        var Agents = [&#34;Android&#34;, &#34;iPhone&#34;,
+</span></span><span class="line"><span class="cl">                    &#34;SymbianOS&#34;, &#34;Windows Phone&#34;,
+</span></span><span class="line"><span class="cl">                    &#34;iPad&#34;, &#34;iPod&#34;];
+</span></span><span class="line"><span class="cl">        var flag = true;
+</span></span><span class="line"><span class="cl">        for (var v = 0; v &lt; Agents.length; v++) {
+</span></span><span class="line"><span class="cl">            if (userAgentInfo.indexOf(Agents[v]) &gt; 0) {
+</span></span><span class="line"><span class="cl">                flag = false;
+</span></span><span class="line"><span class="cl">                break;
+</span></span><span class="line"><span class="cl">            }
+</span></span><span class="line"><span class="cl">        }
+</span></span><span class="line"><span class="cl">        if (flag) {
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/1.png&#34;, flakeCount:5, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/2.png&#34;, flakeCount:5, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/3.png&#34;, flakeCount:5, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/4.png&#34;, flakeCount:5, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">        } else {
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/1.png&#34;, flakeCount:2, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/2.png&#34;, flakeCount:2, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/3.png&#34;, flakeCount:2, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">            $(document).snowfall({image:&#34;images/4.png&#34;, flakeCount:2, minSpeed:1, minSize:8, maxSize:15,});
+</span></span><span class="line"><span class="cl">        }
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">    window.onload = sakuraInit();
+</span></span><span class="line"><span class="cl">  &lt;/script&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
+</item>
+<item>
+  <title>使用 js 准确获取当前页面 url 网址信息及 301 重定向实战</title>
+  <link>https://shiqustudio.github.io/posts/href-301/</link>
+  <pubDate>Sun, 28 Oct 2018 14:22:00 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/href-301/</guid>
+  <description><![CDATA[<h3 id="获取链接转">获取链接（转）</h3>
+<p><a href="https://www.cnblogs.com/zhabayi/p/6419938.html"target="_blank" rel="external nofollow noopener noreferrer">传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+在 WEB 开发中，时常会用到 javascript 来获取当前页面的 url 网址信息，在这里是我的一些获取 url 信息的小总结。</p>
+<p>下面我们举例一个 URL，然后获得它的各个组成部分：<code>http://i.cnblogs.com/EditPosts.aspx?opt=1</code></p>
+<h4 id="windowlocationhref设置或获取整个-url-为字符串">window.location.href（设置或获取整个 URL 为字符串）</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var test = window.location.href;
+</span></span><span class="line"><span class="cl">alert(test);
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回：<code>http://i.cnblogs.com/EditPosts.aspx?opt=1</code></p>
+<h4 id="windowlocationprotocol设置或获取-url-的协议部分">window.location.protocol（设置或获取 URL 的协议部分）</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var test = window.location.protocol;
+</span></span><span class="line"><span class="cl">alert(test);
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回：<code>http:</code></p>
+<h4 id="windowlocationhost设置或获取-url-的主机部分">window.location.host（设置或获取 URL 的主机部分）</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var test = window.location.host;
+</span></span><span class="line"><span class="cl">alert(test);
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回：<code>i.cnblogs.com</code></p>
+<h4 id="windowlocationport设置或获取与-url-关联的端口号码">window.location.port（设置或获取与 URL 关联的端口号码）</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var test = window.location.port;
+</span></span><span class="line"><span class="cl">alert(test);
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回：空字符（如果采用默认的 80 端口 (update: 即使添加了：80)，那么返回值并不是默认的 80 而是空字符）</p>
+<h4 id="windowlocationpathname设置或获取与-url-的路径部分就是文件地址">window.location.pathname（设置或获取与 URL 的路径部分（就是文件地址）)</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var test = window.location.pathname;
+</span></span><span class="line"><span class="cl">alert(test);
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回：<code>/EditPosts.aspx</code></p>
+<h4 id="windowlocationsearch设置或获取-href-属性中跟在问号后面的部分">window.location.search（设置或获取 href 属性中跟在问号后面的部分）</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var test = window.location.search;
+</span></span><span class="line"><span class="cl">alert(test);
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回：<code>?opt=1</code></p>
+<p>PS：获得查询（参数）部分，除了给动态语言赋值以外，我们同样可以给静态页面，并使用 javascript 来获得相信应的参数值。</p>
+<h4 id="windowlocationhash设置或获取-href-属性中在井号后面的分段">window.location.hash（设置或获取 href 属性中在井号“#”后面的分段）</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">var test = window.location.hash;
+</span></span><span class="line"><span class="cl">alert(test);
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回：空字符（因为 url 中没有）</p>
+<h4 id="js-获取-url-中的参数值">js 获取 url 中的参数值</h4>
+<h5 id="正则法">正则法</h5>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="n">function</span> <span class="nf">getQueryString</span><span class="o">(</span><span class="n">name</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">reg</span> <span class="o">=</span> <span class="k">new</span> <span class="n">RegExp</span><span class="o">(</span><span class="err">&#39;</span><span class="o">(^|&amp;)</span><span class="err">&#39;</span> <span class="o">+</span> <span class="n">name</span> <span class="o">+</span> <span class="err">&#39;</span><span class="o">=([^&amp;]*)(&amp;|</span><span class="n">$</span><span class="o">)</span><span class="err">&#39;</span><span class="o">,</span> <span class="sc">&#39;i&#39;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">r</span> <span class="o">=</span> <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">search</span><span class="o">.</span><span class="na">substr</span><span class="o">(</span><span class="mi">1</span><span class="o">).</span><span class="na">match</span><span class="o">(</span><span class="n">reg</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">  <span class="k">if</span> <span class="o">(</span><span class="n">r</span> <span class="o">!=</span> <span class="kc">null</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">unescape</span><span class="o">(</span><span class="n">r</span><span class="o">[</span><span class="mi">2</span><span class="o">]);</span>
+</span></span><span class="line"><span class="cl">  <span class="o">}</span>
+</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="kc">null</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="c1">// 这样调用：
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="n">alert</span><span class="o">(</span><span class="n">GetQueryString</span><span class="o">(</span><span class="s">&#34;参数名 1&#34;</span><span class="o">));</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">alert</span><span class="o">(</span><span class="n">GetQueryString</span><span class="o">(</span><span class="s">&#34;参数名 2&#34;</span><span class="o">));</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">alert</span><span class="o">(</span><span class="n">GetQueryString</span><span class="o">(</span><span class="s">&#34;参数名 3&#34;</span><span class="o">));</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h5 id="split-拆分法">split 拆分法</h5>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="n">function</span> <span class="nf">GetRequest</span><span class="o">()</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">url</span> <span class="o">=</span> <span class="n">location</span><span class="o">.</span><span class="na">search</span><span class="o">;</span> <span class="c1">//获取 url 中&#34;?&#34;符后的字串
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="n">var</span> <span class="n">theRequest</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Object</span><span class="o">();</span>
+</span></span><span class="line"><span class="cl">  <span class="k">if</span> <span class="o">(</span><span class="n">url</span><span class="o">.</span><span class="na">indexOf</span><span class="o">(</span><span class="s">&#34;?&#34;</span><span class="o">)</span> <span class="o">!=</span> <span class="o">-</span><span class="mi">1</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">var</span> <span class="n">str</span> <span class="o">=</span> <span class="n">url</span><span class="o">.</span><span class="na">substr</span><span class="o">(</span><span class="mi">1</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">    <span class="n">strs</span> <span class="o">=</span> <span class="n">str</span><span class="o">.</span><span class="na">split</span><span class="o">(</span><span class="s">&#34;&amp;&#34;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">for</span><span class="o">(</span><span class="n">var</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">strs</span><span class="o">.</span><span class="na">length</span><span class="o">;</span> <span class="n">i</span> <span class="o">++)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">theRequest</span><span class="o">[</span><span class="n">strs</span><span class="o">[</span><span class="n">i</span><span class="o">].</span><span class="na">split</span><span class="o">(</span><span class="s">&#34;=&#34;</span><span class="o">)[</span><span class="mi">0</span><span class="o">]]</span> <span class="o">=</span> <span class="n">unescape</span><span class="o">(</span><span class="n">strs</span><span class="o">[</span><span class="n">i</span><span class="o">].</span><span class="na">split</span><span class="o">(</span><span class="s">&#34;=&#34;</span><span class="o">)[</span><span class="mi">1</span><span class="o">]);</span>
+</span></span><span class="line"><span class="cl">    <span class="o">}</span>
+</span></span><span class="line"><span class="cl">  <span class="o">}</span>
+</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="n">theRequest</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="n">var</span> <span class="n">Request</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Object</span><span class="o">();</span>
+</span></span><span class="line"><span class="cl"><span class="n">Request</span> <span class="o">=</span> <span class="n">GetRequest</span><span class="o">();&lt;</span><span class="n">br</span><span class="o">&gt;</span><span class="c1">// var id=Request[&#34;id&#34;];
+</span></span></span><span class="line"><span class="cl"><span class="c1">// var 参数 1, 参数 2, 参数 3, 参数 N;
+</span></span></span><span class="line"><span class="cl"><span class="c1">// 参数 1 = Request[&#39;参数 1&#39;];
+</span></span></span><span class="line"><span class="cl"><span class="c1">// 参数 2 = Request[&#39;参数 2&#39;];
+</span></span></span><span class="line"><span class="cl"><span class="c1">// 参数 3 = Request[&#39;参数 3&#39;];
+</span></span></span><span class="line"><span class="cl"><span class="c1">// 参数 N = Request[&#39;参数 N&#39;];
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><h5 id="指定取">指定取</h5>
+<p>比如说一个 url：<code>http://i.cnblogs.com/?j=js</code>, 我们想得到参数 j 的值，可以通过以下函数调用。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="n">function</span> <span class="nf">GetQueryString</span><span class="o">(</span><span class="n">name</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">reg</span> <span class="o">=</span> <span class="k">new</span> <span class="n">RegExp</span><span class="o">(</span><span class="s">&#34;(^|&amp;)&#34;</span> <span class="o">+</span> <span class="n">name</span> <span class="o">+</span> <span class="s">&#34;=([^&amp;]*)(&amp;|$)&#34;</span><span class="o">,</span> <span class="s">&#34;i&#34;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">r</span> <span class="o">=</span> <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">search</span><span class="o">.</span><span class="na">substr</span><span class="o">(</span><span class="mi">1</span><span class="o">).</span><span class="na">match</span><span class="o">(</span><span class="n">reg</span><span class="o">);</span> <span class="c1">//获取 url 中&#34;?&#34;符后的字符串并正则匹配
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="n">var</span> <span class="n">context</span> <span class="o">=</span> <span class="s">&#34;&#34;</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">if</span> <span class="o">(</span><span class="n">r</span> <span class="o">!=</span> <span class="kc">null</span><span class="o">)</span>
+</span></span><span class="line"><span class="cl">     <span class="n">context</span> <span class="o">=</span> <span class="n">r</span><span class="o">[</span><span class="mi">2</span><span class="o">];</span>
+</span></span><span class="line"><span class="cl">  <span class="n">reg</span> <span class="o">=</span> <span class="kc">null</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">  <span class="n">r</span> <span class="o">=</span> <span class="kc">null</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="n">context</span> <span class="o">==</span> <span class="kc">null</span> <span class="o">||</span> <span class="n">context</span> <span class="o">==</span> <span class="s">&#34;&#34;</span> <span class="o">||</span> <span class="n">context</span> <span class="o">==</span> <span class="s">&#34;undefined&#34;</span> <span class="o">?</span> <span class="s">&#34;&#34;</span> <span class="o">:</span> <span class="n">context</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="n">alert</span><span class="o">(</span><span class="n">GetQueryString</span><span class="o">(</span><span class="s">&#34;j&#34;</span><span class="o">));</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="301-重定向实践">301 重定向（实践）</h3>
+<p>由于之前把 blog 和网站主页分开在两个仓库所以要想在 blog 中 menu 里跳转到站外链接就要做一些处理。以前一直百度不到。
+其实想法早就有了，只要在 blog 首页或者网站首页检测到<code>https://lruihao.cn/home</code>这个链接，或者检测到 home 字段就自动跳转。想法很简单。可是对 js 真的一点都不了解，以前百度也找不到实际的效果案例。所以还是自己写吧！附上蹩脚代码。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="n">var</span> <span class="n">path</span> <span class="o">=</span> <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">href</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">//alert(path);
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="k">if</span> <span class="o">(</span><span class="n">path</span><span class="o">==</span><span class="err">&#39;</span><span class="n">https</span><span class="o">:</span><span class="c1">//lruihao.cn/home/&#39;) {
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>      <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">replace</span><span class="o">(</span><span class="s">&#34;https://www.lruihao.cn&#34;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">    <span class="o">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>或者</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="n">var</span> <span class="n">path</span> <span class="o">=</span> <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">pathname</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">//alert(path);
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="k">if</span> <span class="o">(</span><span class="n">path</span><span class="o">==</span><span class="err">&#39;</span><span class="o">/</span><span class="n">home</span><span class="o">/</span><span class="err">&#39;</span><span class="o">)</span> <span class="o">{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">replace</span><span class="o">(</span><span class="s">&#34;https://www.lruihao.cn&#34;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">    <span class="o">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>http 强制重定向 https</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">script</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">targetProtocol</span> <span class="o">=</span> <span class="s">&#34;https:&#34;</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">  <span class="n">var</span> <span class="n">host</span> <span class="o">=</span> <span class="s">&#34;lruihao.cn&#34;</span><span class="o">;</span> <span class="c1">//域名判断，因为 localhost 仅支持 http
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="k">if</span> <span class="o">(</span><span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">host</span> <span class="o">==</span> <span class="n">host</span> <span class="o">&amp;&amp;</span> <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">protocol</span> <span class="o">!=</span> <span class="n">targetProtocol</span><span class="o">){</span>
+</span></span><span class="line"><span class="cl">    <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">href</span> <span class="o">=</span> <span class="n">targetProtocol</span> <span class="o">+</span>
+</span></span><span class="line"><span class="cl">      <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">href</span><span class="o">.</span><span class="na">substring</span><span class="o">(</span><span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">protocol</span><span class="o">.</span><span class="na">length</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">    <span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;/</span><span class="n">script</span><span class="o">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
+</item>
+<item>
+  <title>网页夜间效果</title>
+  <link>https://shiqustudio.github.io/posts/night/</link>
+  <pubDate>Thu, 27 Sep 2018 13:13:31 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/night/</guid>
+  <description><![CDATA[<blockquote>
+<p>这几天看到别人的博客有开关灯效果，就想给自己的博客也加一个，其实以前就在想了。经过谷歌百度后这样实现了。<code>css+js</code></p>
+</blockquote>
+<p>如何给 Web 页面增加夜间模式功能？其实所谓的夜间模式就是在页面上增加一个透明的遮罩层，但是遮罩层会挡住页面元素， 解决方法是 添加 DIV，给 DIV 的 outline 属性一个很大的 outline-width 值，用 outline 的边框作为遮罩，这样既能正常点击页面元素，又能达到夜间模式的效果。</p>
+<h3 id="css-部分">css 部分</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="nt">style</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">cover</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span><span class="kc">fixed</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">top</span><span class="p">:</span> <span class="mi">0</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">left</span><span class="p">:</span> <span class="mi">0</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">outline</span><span class="p">:</span><span class="mi">5000</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nb">rgba</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">);</span><span class="err">//初始亮度</span>
+</span></span><span class="line"><span class="cl">    <span class="k">z-index</span><span class="p">:</span> <span class="mi">99999</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;/</span><span class="nt">style</span><span class="o">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="js-部分">js 部分</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="nx">script</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="kd">var</span> <span class="nx">brightness</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c1">//显示遮罩
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">function</span> <span class="nx">cover</span><span class="p">(</span><span class="nx">brightness</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span><span class="p">(</span><span class="nx">div</span><span class="p">)</span> <span class="o">==</span> <span class="s1">&#39;undefined&#39;</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">div</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">&#39;div&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">div</span><span class="p">.</span><span class="nx">setAttribute</span><span class="p">(</span><span class="s1">&#39;style&#39;</span><span class="p">,</span> <span class="s1">&#39;position:fixed;top:0;left:0;outline:5000px solid;z-index:99999;&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">div</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">div</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">display</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">div</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">outlineColor</span> <span class="o">=</span> <span class="s1">&#39;rgba(0,0,0,&#39;</span> <span class="o">+</span> <span class="nx">brightness</span> <span class="o">+</span> <span class="s1">&#39;)&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="c1">//事件监听
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nb">window</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;keydown&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">altKey</span> <span class="o">&amp;&amp;</span> <span class="nx">e</span><span class="p">.</span><span class="nx">keyCode</span> <span class="o">==</span> <span class="mi">90</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">cover</span><span class="p">(</span><span class="nx">brightness</span> <span class="o">=</span> <span class="mf">0.3</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">altKey</span> <span class="o">&amp;&amp;</span> <span class="nx">e</span><span class="p">.</span><span class="nx">keyCode</span> <span class="o">==</span> <span class="mi">88</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">cover</span><span class="p">(</span><span class="nx">brightness</span> <span class="o">=</span> <span class="mi">0</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">altKey</span> <span class="o">&amp;&amp;</span> <span class="nx">e</span><span class="p">.</span><span class="nx">keyCode</span> <span class="o">==</span> <span class="mi">38</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span> <span class="p">(</span><span class="nx">brightness</span> <span class="o">-</span> <span class="mf">0.05</span> <span class="o">&gt;</span> <span class="mf">0.05</span><span class="p">)</span> <span class="nx">cover</span><span class="p">(</span><span class="nx">brightness</span> <span class="o">-=</span> <span class="mf">0.05</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">altKey</span> <span class="o">&amp;&amp;</span> <span class="nx">e</span><span class="p">.</span><span class="nx">keyCode</span> <span class="o">==</span> <span class="mi">40</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span> <span class="p">(</span><span class="nx">brightness</span> <span class="o">+</span> <span class="mf">0.05</span> <span class="o">&lt;</span> <span class="mf">0.95</span><span class="p">)</span> <span class="nx">cover</span><span class="p">(</span><span class="nx">brightness</span> <span class="o">+=</span> <span class="mf">0.05</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">},</span> <span class="kc">false</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="err">/script&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="html-部分">html 部分</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">&lt;div class=&#34;cover&#34;&gt;&lt;/div&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="使用">使用</h3>
+<ol>
+<li>Alt+Z: 打开夜间模式</li>
+<li>Alt+X: 关闭</li>
+<li>Alt+↑: 增加亮度</li>
+<li>Alt+↓: 降低亮度</li>
+</ol>]]></description>
+</item>
+<item>
+  <title>网页离开时改变标题“崩溃欺骗”</title>
+  <link>https://shiqustudio.github.io/posts/crash-cheat/</link>
+  <pubDate>Wed, 26 Sep 2018 16:36:08 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/crash-cheat/</guid>
+  <description><![CDATA[<blockquote>
+<p>从暑假到现在有好几个小伙伴问我博客的标题怎么变来变去的，不想再和每个人都说一遍了，耽误时间，索性写一下。</p>
+</blockquote>
+<h2 id="创建一个-js-文件">创建一个 js 文件</h2>
+<p>我们先创建一个 js 文件，我们用记事本就好了，然后改个文件名，不妨就叫<code>crash-cheat.js</code>吧，你们可以随意！<br>
+然后把文件放到 source 文件夹的 js 文件夹的 src 里面。（我用的 next 主题，放这里统一存放，其他主题随意）</p>
+<p>崩溃欺骗 (Jquery 版）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">var</span> <span class="nx">OriginTitle</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">title</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kd">var</span> <span class="nx">titleTime</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">document</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;visibilitychange&#39;</span><span class="p">,</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">if</span> <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">hidden</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;[rel=&#34;icon&#34;]&#39;</span><span class="p">).</span><span class="nx">attr</span><span class="p">(</span><span class="s1">&#39;href&#39;</span><span class="p">,</span> <span class="s1">&#39;https://i.loli.net/2018/08/24/5b7fcb00ed9bf.png&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">document</span><span class="p">.</span><span class="nx">title</span> <span class="o">=</span> <span class="s1">&#39;怎么回事╭(°A°`)╮&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">clearTimeout</span><span class="p">(</span><span class="nx">titleTime</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">$</span><span class="p">(</span><span class="s2">&#34;[rel=&#39;icon&#39;]&#34;</span><span class="p">).</span><span class="nx">attr</span><span class="p">(</span><span class="s1">&#39;href&#39;</span><span class="p">,</span> <span class="s1">&#39;https://i.loli.net/2018/09/25/5baa4f21661e7.png&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">document</span><span class="p">.</span><span class="nx">title</span> <span class="o">=</span> <span class="s1">&#39;小老弟 (ฅ&gt;ω&lt;*ฅ)&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">titleTime</span> <span class="o">=</span> <span class="nx">setTimeout</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nb">document</span><span class="p">.</span><span class="nx">title</span> <span class="o">=</span> <span class="nx">OriginTitle</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">$</span><span class="p">(</span><span class="s2">&#34;[rel=&#39;icon&#39;]&#34;</span><span class="p">).</span><span class="nx">attr</span><span class="p">(</span><span class="s1">&#39;href&#39;</span><span class="p">,</span> <span class="s1">&#39;/images/favicon-32x32-next.png&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span> <span class="mi">2000</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">});</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>崩溃欺骗 (JS 版）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">var</span> <span class="nx">oldTitle</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">title</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kd">var</span> <span class="nx">titleTime</span><span class="p">;</span> <span class="c1">//標題恢復計時器
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nb">document</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;visibilitychange&#39;</span><span class="p">,</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">if</span> <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">hidden</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">&#34;[rel=&#39;icon&#39;]&#34;</span><span class="p">).</span><span class="nx">setAttribute</span><span class="p">(</span><span class="s1">&#39;href&#39;</span><span class="p">,</span> <span class="s1">&#39;/images/icons/favicon-32.png&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">document</span><span class="p">.</span><span class="nx">title</span> <span class="o">=</span> <span class="s1">&#39;網站崩潰了！&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">clearTimeout</span><span class="p">(</span><span class="nx">titleTime</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">document</span><span class="p">.</span><span class="nx">title</span> <span class="o">=</span> <span class="s1">&#39;其實並沒有！&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">&#34;[rel=&#39;icon&#39;]&#34;</span><span class="p">).</span><span class="nx">setAttribute</span><span class="p">(</span><span class="s1">&#39;href&#39;</span><span class="p">,</span> <span class="s1">&#39;/images/icons/crash.png&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">titleTime</span> <span class="o">=</span> <span class="nx">setTimeout</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nb">document</span><span class="p">.</span><span class="nx">title</span> <span class="o">=</span> <span class="nx">oldTitle</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span> <span class="mi">1000</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">});</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="使用">使用</h2>
+<p>在<code>hexo\themes\hexo-theme-next\layout</code>文件路径找到<code>layout.swig</code>文件，其他有些主题用的是<code>.ejs</code>后缀，一样的。<br>
+然后打开文件，在<code>&lt;body&gt;&lt;/body&gt;</code>之间加入调用刚刚的 js。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;text/javascript&#34;</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;/js/src/crash-cheat.js&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>重新部署博客就可以了。</p>]]></description>
+</item>
+<item>
+  <title>hexo 博客自定义 console log</title>
+  <link>https://shiqustudio.github.io/posts/console-log/</link>
+  <pubDate>Sat, 04 Aug 2018 16:19:06 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/posts/console-log/</guid>
+  <description><![CDATA[<p>看到知乎，百度的页面 F12 检查后都会有一些有趣的招聘信息。于是乎我也想给我的博客加一个。<br>
+我主要用到的工具：</p>
+<ul>
+<li>console.log()</li>
+<li>Notepad++</li>
+<li><a href="http://picascii.com"target="_blank" rel="external nofollow noopener noreferrer">在线图片转文字工具<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+</ul>
+<h2 id="用法">用法</h2>
+<p>用 js 在<code>&lt;body&gt;&lt;/body&gt;</code>使用 console.log() 就行了，hexo 的主题文件在<code>_layout.swig</code>里，所以我们打开该文件，在该位置，添加 js 就行了；</p>
+<p><figure><a class="lightgallery" href="/posts/console-log/images/console.png" data-thumbnail="/posts/console-log/images/console.png" data-sub-html="<h2>/posts/console-log/images/console.png</h2><p>console</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure></p>
+<h2 id="图案">图案</h2>
+<p>我用的我自己的一张照片（电脑上照片就那么几张。)，然后用 在线图片转文字工具 转字符，<br>
+选择文件，设置大小，然后生成，</p>
+<p><figure><a class="lightgallery" href="/posts/console-log/images/QQ1.png" data-thumbnail="/posts/console-log/images/QQ1.png" data-sub-html="<h2>/posts/console-log/images/QQ1.png</h2><p>1</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ2.png" data-thumbnail="/posts/console-log/images/QQ2.png" data-sub-html="<h2>/posts/console-log/images/QQ2.png</h2><p>2</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure></p>
+<p>生成后，复制 TXT 文件（下面那个框，上面的是 HTML 代码）<br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ3.png" data-thumbnail="/posts/console-log/images/QQ3.png" data-sub-html="<h2>/posts/console-log/images/QQ3.png</h2><p>3</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+粘贴到 Notepad++ 里面，然后按图操作；<br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ4.png" data-thumbnail="/posts/console-log/images/QQ4.png" data-sub-html="<h2>/posts/console-log/images/QQ4.png</h2><p>4</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+Ctrl+H 替换<br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ5.png" data-thumbnail="/posts/console-log/images/QQ5.png" data-sub-html="<h2>/posts/console-log/images/QQ5.png</h2><p>5</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+<figure><a class="lightgallery" href="/posts/console-log/images/QQ6.png" data-thumbnail="/posts/console-log/images/QQ6.png" data-sub-html="<h2>/posts/console-log/images/QQ6.png</h2><p>6</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+最后就变成一个字符串了。</p>
+<h2 id="效果图">效果图</h2>
+<p><figure><a class="lightgallery" href="/posts/console-log/images/QQ7.png" data-thumbnail="/posts/console-log/images/QQ7.png" data-sub-html="<h2>/posts/console-log/images/QQ7.png</h2><p>7</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure><br>
+<a href="https://lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">线上 demo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 按 F12 找到 console</p>
+<h2 id="我的-txt">我的 txt</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-txt" data-lang="txt"><span class="line"><span class="cl">\n`              @@#``@@@@@@@@@@@@@@@@@@##,`   \n`              @@#`;@@@@@@@@@@@@@@@@@@@&#39;:&#39;   \n`              @@#`@@@@@@@@@@@@@@@@@@@#+#;`  \n`              @@#`@@@@@@@@@@@@@@@@@@###@&#39;.  \n`              @@+.@@@@@@@@@@@@@@@@@@@@@##,  \n`              @@#,@@@@@@@@@@@@@@@@@@@@@@#,  \n`              #@#:@@@@@@@@@@@@@@@@@@@@@@@,  \n`              #@#&#39;@@@@@@@@@@@@@@@@@@@@@@@.  \n`              +@#;@@@@@@@@@@@@@@@@@@@@@@#   \n`          `;: ;@#&#39;@@@@@@@@@@@@@@@@@@+&#39;+@&#39;   \n`    `,,;&#39;;&#39;+&#39;;&#39;@@+:@@@@@@@@@@@@##@#&#39;,.:#;   \n,, ``    ``..,:;@@#&#39;@@@@@@@@#####@@@@#:`:.   \n`       `````:++@@@@@@@@@@@@@###@@@@#+,..    \n        ``````.#@@@@@@@@@@@@@@#@@@#++#&#39;``    \n`    ```.,,:,.`:@@@@@@@@@@@@@###@@@##&#39;.`     \n``..`````..,::;+@@@@@@@@@@@@#+`::+##&#39;`.      \n`      ````.```,@@@@@@@@@@@##;``.,&#39;;` `      \n``.;@@@@@@@@@@@@@@@@@@@@@@###;``..``````     \n#@@@@@@@@@@@@@@@@@@@@@@@@##@#;``,``,.``      \n@@@@@@@@@@@@@@@@@@@.`````..``.. +` `:`       \n@+&#39;&#39;++#####@@#`.@@@``````` ` `,```  ``       \n&#39;;;;;&#39;+##+&#39;+.`;+@@@,..```` `` :,.            \n;::,,:;+#++``,,#@@@&#39;..``````` ,`.``          \n;,,,,...&#39;#.,,..#@@@#,,.`````` .````          \n:,,,,....`,::;&#39;&#39;+#@#;,..`````````.``         \n:,,,.....&#39;##++&#39;&#39;&#39;;:+&#39;:,.`..,,...`            \n:,,,...#####+&#39;+#@@@&#39;.&#39;;+:.  ` ``             \n;,,.`&#39;####&#39;#,`.`+@@@+&#39;``` `.`                \n;,.`#@@@#+:&#39;+++##+@##@,,,,`                  \n&#39;,.#@@###&#39;&#39;&#39;&#39;;:,.```,+#.                     \n+,#@@@####;,,..```````````````         `.:,::\n+@@@@###+;,,..``````````````````          `.,\n#@@@##+&#39;,,,........``````````````            \n@@@@#+:,,,,`........``````````               \n@@@#+:,,,,.`````.....``````````           `` \n@@##&#39;:,......`````....```  `````          ```\n@@@#&#39;:,....,..``````..````    ```         ```\n@@@#&#39;,....,,,..```````````     ```         ..\n@@@#,.....,,,,.``  ````````   ``````         \n@@@+....,,,,,..`````````````   ``````````    \n@@@:....,,,,.LiRuihao````````  ```````````` \n#@@,....,,,,.Always Be Yourself !````````````\n,##,,...,::,.````````````..``````   `......``\n,&#39;#,,..,,:::.`````````........``````   `.,,..\n\n 你好！\n 欢迎进入什么都不会的李瑞豪的个人网站！\nhttps://lruihao.cn\nhttps://www.lruihao.cn\nhttps://lruihao.github.io\nhttps://liruihao.coding.me\n\n\n\n
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>其他个人网站，个人博客也是可以的。</p>]]></description>
 </item>
 </channel>
 </rss>
