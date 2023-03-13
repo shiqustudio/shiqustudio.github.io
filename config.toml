@@ -477,10 +477,6 @@ theme = "FixIt"
     endFlag = "（完）"
     #  是否开启即时页面
     instantPage = true
-    
-    #修改时间 更新时间
-    [params.frontmatter]
-    	lastmod = ["lastmod", ":git", ":fileModTime", ":defalut"]
 
     #  转载配置
     [params.page.repost]
@@ -954,7 +950,14 @@ theme = "FixIt"
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
-
+    
+#修改时间 更新时间
+[frontmatter]
+	date = ["date", "publishDate", "lastmod"]
+	expiryDate = ["expiryDate"]
+	lastmod = [":git", "lastmod", "date", "publishDate"]
+	publishDate = ["publishDate", "date"]
+	
 # 作者配置
 [author]
   name = "xucong"
