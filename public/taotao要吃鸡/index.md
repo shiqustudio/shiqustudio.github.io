@@ -114,6 +114,6 @@ int main()
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/taotao%E8%A6%81%E5%90%83%E9%B8%A1/  
 

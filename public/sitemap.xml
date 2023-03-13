@@ -2,33 +2,33 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://shiqustudio.github.io/categories/</loc><lastmod>2023-03-08T09:55:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/categories/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/books/cell-blog/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/laravel/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/markdown/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/php/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://shiqustudio.github.io/books/</loc><lastmod>2023-03-12T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://shiqustudio.github.io/tags/posts/</loc><lastmod>2023-03-08T09:55:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://shiqustudio.github.io/categories/posts/</loc><lastmod>2023-03-08T09:55:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://shiqustudio.github.io/posts2/</loc><lastmod>2023-03-08T09:55:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/</loc><lastmod>2023-03-08T09:55:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>https://shiqustudio.github.io/posts2/%E6%89%A9%E5%B1%95typeit/</loc><lastmod>2023-03-08T09:55:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://shiqustudio.github.io/</loc><lastmod>2023-03-08T09:55:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://shiqustudio.github.io/books/cell-blog/</loc><lastmod>2023-02-25T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/laravel/</loc><lastmod>2023-02-25T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/markdown/</loc><lastmod>2023-02-25T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/php/</loc><lastmod>2023-02-25T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-      <loc>https://shiqustudio.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc><lastmod>2023-02-25T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-      <loc>https://shiqustudio.github.io/books/</loc><lastmod>2023-02-25T20:51:11&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/eager/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/html/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-      <loc>https://shiqustudio.github.io/categories/html/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/lazy/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/loading/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-      <loc>https://shiqustudio.github.io/posts/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-      <loc>https://shiqustudio.github.io/native-img-loading-lazy/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/browser/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-      <loc>https://shiqustudio.github.io/categories/browser/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/css/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-      <loc>https://shiqustudio.github.io/tags/javascript/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-      <loc>https://shiqustudio.github.io/browser-rendering/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-      <loc>https://shiqustudio.github.io/categories/spec/</loc><lastmod>2023-02-04T16:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-      <loc>https://shiqustudio.github.io/document-style-guide/</loc><lastmod>2023-02-04T16:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/eager/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/html/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/categories/html/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/lazy/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/loading/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/posts/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/native-img-loading-lazy/</loc><lastmod>2023-02-12T19:40:43&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/browser/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://shiqustudio.github.io/categories/browser/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/css/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://shiqustudio.github.io/tags/javascript/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://shiqustudio.github.io/browser-rendering/</loc><lastmod>2023-02-05T21:02:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://shiqustudio.github.io/categories/spec/</loc><lastmod>2023-02-04T16:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>https://shiqustudio.github.io/document-style-guide/</loc><lastmod>2023-02-04T16:04:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
       <loc>https://shiqustudio.github.io/event-loop/</loc><lastmod>2023-01-11T11:16:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
       <loc>https://shiqustudio.github.io/categories/debug/</loc><lastmod>2022-12-15T15:33:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
       <loc>https://shiqustudio.github.io/tags/homebrew/</loc><lastmod>2022-12-15T15:33:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

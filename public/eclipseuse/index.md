@@ -78,6 +78,6 @@ B: 自动生成 get/set 方法
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/eclipseuse/  
 

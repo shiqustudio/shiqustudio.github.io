@@ -55,6 +55,6 @@ int get_lcm(int a,int b)///获得最小公倍数
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/gcd-bit/  
 

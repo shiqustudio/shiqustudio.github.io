@@ -35,6 +35,6 @@ at ChildProcess.<anonymous> (H:\Hexo\node_modules\hexo-util\lib\spawn.js:37:17)
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/hexo-d-error/  
 

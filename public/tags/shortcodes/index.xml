@@ -27,6 +27,45 @@
 和之前的相比，優化之前是后加載，由 JS 在 瀏覽器處理，<br>
 使用 shortcodes 方式后，則是在 GO 構建頁面的時候處理，效能上會好很多。</div>
     </div>
+  </div>
+<h2 id="源碼">源碼</h2>
+<p>基於 LoveIt 主題的 Link Shortcodes, 主要改到以下幾個文件，<a href="https://github.com/Lruihao/hugo-blog/commit/089c303693e806bff855ecf3fee110baa62b870b"target="_blank" rel="external nofollow noopener noreferrer">完整提交記錄</a></p>
+<pre><code>assets/css/custom.scss
+assets/css/partial/cardlink.scss          # 卡片式鏈接樣式
+layouts/partials/plugin/cardlink.html     # 卡片式鏈接模板
+layouts/shortcodes/cardlink.html
+static/images/card-link-bg.jpg
+</code></pre>
+<h2 id="使用">使用</h2>
+<p>使用參數见 <a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-extended-shortcodes/#2-link"target="_blank" rel="external nofollow noopener noreferrer">FixIt 擴展 Shortcodes - Link</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">cardlink</span> <span class="na">href</span><span class="o">=</span><span class="s">&#34;https://github.com/Lruihao/hugo-blog/commit/089c303693e806bff855ecf3fee110baa62b870b&#34;</span> <span class="na">content</span><span class="o">=</span><span class="s">&#34;知乎卡片式链接 Git 記錄&#34;</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><blockquote>
+<p>:bulb: 注：FixIt <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.12" rel="external nofollow noopener noreferrer" target="_blank"></a> 已合併 shortcode cardlink 到 shortcode link，只需添加 <code>card=true</code></p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{&lt; link href=&#34;https://github.com/Lruihao/FixIt&#34; content=&#34;卡片式链接已整合到 FixIt 主题&#34; card=true &gt;}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><hr>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">我的博客即将同步至腾讯云+社区，邀请大家一同入驻：<br>
+<a href="https://cloud.tencent.com/developer/support-plan?invite_code=3o5dmfzf0xkwk"target="_blank" rel="external nofollow noopener noreferrer">https://cloud.tencent.com/developer/support-plan?invite_code=3o5dmfzf0xkwk</a></div>
+    </div>
   </div>]]></description>
 </item>
 </channel>

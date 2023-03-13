@@ -50,6 +50,6 @@ html 链接写法，a 标签加上`class="card-link"`
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/linkcard/  
 

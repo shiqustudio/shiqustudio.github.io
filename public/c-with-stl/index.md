@@ -228,6 +228,6 @@ for(int i=0;i<len;i++)
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/c-with-stl/  
 

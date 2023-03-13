@@ -18,6 +18,6 @@ process is running and remove the file manually to continue.
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/git-index-lock/  
 

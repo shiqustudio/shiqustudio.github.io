@@ -88,6 +88,6 @@ function isWeiXin(){
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/js-device/  
 > 转载 URL: https://www.cnblogs.com/coober/p/6594379.html

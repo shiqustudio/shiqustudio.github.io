@@ -26,6 +26,6 @@
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/%E7%8C%B4%E5%AD%90%E4%B8%8E%E5%93%AA%E5%90%92/  
 

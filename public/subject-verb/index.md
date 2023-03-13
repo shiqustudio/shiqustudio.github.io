@@ -153,6 +153,6 @@ Many deer live on the African grassland.
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/subject-verb/  
 

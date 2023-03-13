@@ -65,6 +65,6 @@ new Vue({ el: '#app-mmt', data: { message: '' }});
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/projects/font-mmt/  
 

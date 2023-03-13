@@ -370,6 +370,6 @@ _学无止境，与未来的自己共勉_
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/js-rediscover/  
 

@@ -132,6 +132,6 @@ CASE WHEN <求值表达式> THEN <表达式>
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/sql/  
 

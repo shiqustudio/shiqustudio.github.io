@@ -54,6 +54,6 @@ sudo bash install-ubuntu16+.sh
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/hustoj/  
 

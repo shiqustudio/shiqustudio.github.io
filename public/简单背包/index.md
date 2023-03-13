@@ -119,6 +119,6 @@ int main() {
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/%E7%AE%80%E5%8D%95%E8%83%8C%E5%8C%85/  
 

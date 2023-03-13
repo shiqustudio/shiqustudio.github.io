@@ -72,6 +72,6 @@ ServerName 服务器 IP 或 域名
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/web-server-yun/  
 > 转载 URL: https://www.jianshu.com/p/0b67c6c5d21d

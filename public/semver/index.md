@@ -199,6 +199,6 @@ package.json 版本控制规则使用了一些些符号：
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/semver/  
 

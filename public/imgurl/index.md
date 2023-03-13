@@ -53,6 +53,6 @@ location ~* ^/(temp|upload|imgs|data|application|static|system)/.*.(php|php5)$ {
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/imgurl/  
 

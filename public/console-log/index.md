@@ -49,6 +49,6 @@ Ctrl+H 替换
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/console-log/  
 

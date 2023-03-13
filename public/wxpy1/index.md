@@ -156,6 +156,6 @@ for curr_group in target_group:
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/wxpy1/  
 

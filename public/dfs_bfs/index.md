@@ -77,6 +77,6 @@ int maze[N][N] = {//无权有向图邻接矩阵
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/dfs_bfs/  
 

@@ -86,6 +86,6 @@ void panduan(int a1,int b1,int c1)
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/judgetriangle/  
 

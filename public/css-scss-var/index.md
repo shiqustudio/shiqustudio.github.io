@@ -72,6 +72,6 @@ $header-height: 3.5rem !default;
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/css-scss-var/  
 

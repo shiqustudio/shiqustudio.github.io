@@ -270,6 +270,6 @@ return 0;
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/euclid/  
 > 转载 URL: https://www.cnblogs.com/Rinyo/archive/2012/11/25/2787419.html

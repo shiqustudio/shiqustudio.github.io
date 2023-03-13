@@ -122,6 +122,6 @@ public class SingleThreadDown extends JFrame implements ActionListener {
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/singlethreaddown/  
 

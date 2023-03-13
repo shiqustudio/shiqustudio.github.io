@@ -207,6 +207,6 @@ hexo 文章用轻量型标签语言 Markdown 编写
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/hexobuild/  
 

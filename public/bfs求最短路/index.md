@@ -123,6 +123,6 @@ int main()
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/bfs%E6%B1%82%E6%9C%80%E7%9F%AD%E8%B7%AF/  
 

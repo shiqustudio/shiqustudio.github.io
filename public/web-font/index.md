@@ -42,6 +42,6 @@ font-spider C:\Users\李瑞豪、Desktop\love\index.html
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/web-font/  
 

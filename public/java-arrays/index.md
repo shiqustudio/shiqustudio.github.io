@@ -94,6 +94,6 @@ fill() 后：-1 -1 -1 41 44 49 87 96 96
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/java-arrays/  
 

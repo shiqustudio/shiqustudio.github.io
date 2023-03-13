@@ -100,6 +100,6 @@ Sublime Text3 快捷键一览表
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/sublime-text3/  
 > 转载 URL: https://www.cnblogs.com/rudong/p/7889114.html

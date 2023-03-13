@@ -84,6 +84,6 @@ void change(int *a, int *b, int n) {
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/dacheng/  
 

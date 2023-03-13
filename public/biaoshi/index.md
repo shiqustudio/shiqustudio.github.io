@@ -43,6 +43,6 @@ D: 常量
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/biaoshi/  
 

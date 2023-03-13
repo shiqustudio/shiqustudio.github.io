@@ -219,6 +219,6 @@ Vim 速查表-帮你提高 N 倍效率
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/vim/  
 > 转载 URL: https://www.jianshu.com/p/6aa2e0e39f99

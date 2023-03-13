@@ -60,6 +60,6 @@ Cron 表达式是一个具有时间含义的字符串，字符串以 5 个空格
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/cron/  
 

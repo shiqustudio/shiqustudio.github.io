@@ -67,6 +67,6 @@ dir \\?\%1 /a:-d /b /o /p /w >Filelist.txt
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/commit-bat/  
 

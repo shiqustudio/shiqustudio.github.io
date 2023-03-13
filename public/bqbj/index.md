@@ -49,6 +49,6 @@ cock number:12  hen number:4    chick number:84
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/bqbj/  
 

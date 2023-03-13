@@ -184,6 +184,6 @@ HTTP 状态码（HTTP Status Code）是用以表示网页服务器 HTTP 响应�
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/restful/  
 

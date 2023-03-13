@@ -9,7 +9,68 @@
   <pubDate>Sun, 31 Jul 2022 13:54:14 &#43;0800</pubDate>
   <author>xucong</author>
   <guid>https://shiqustudio.github.io/ohmyzsh-custom/</guid>
-  <description><![CDATA[<p>ohmyzsh 自带了很多主题，也有很多没有收录的扩展主题，我就想要个简约的主题，但是每个都差点意思，干脆改一个主题。</p>]]></description>
+  <description><![CDATA[<p>ohmyzsh 自带了很多主题，也有很多没有收录的扩展主题，我就想要个简约的主题，但是每个都差点意思，干脆改一个主题。</p>
+<h2 id="自定义主题">自定义主题</h2>
+<p>复制默认主题，当作模板：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> ~/.oh-my-zsh
+</span></span><span class="line"><span class="cl">cat themes/robbyrussell.zsh-theme &gt; custom/custom.zsh-theme
+</span></span><span class="line"><span class="cl">vim custom/custom.zsh-theme
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>然后修改里面的内容：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="k">if</span> <span class="o">[[</span> -z <span class="nv">$ZSH_THEME_CUSTOM_PREFIX</span> <span class="o">]]</span><span class="p">;</span> <span class="k">then</span>
+</span></span><span class="line"><span class="cl">  <span class="nv">ZSH_THEME_CUSTOM_PREFIX</span><span class="o">=</span><span class="s2">&#34;&gt;&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="k">fi</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nv">PROMPT</span><span class="o">=</span><span class="s2">&#34;%(?:%{</span><span class="nv">$fg_bold</span><span class="s2">[blue]%}</span><span class="nv">$ZSH_THEME_CUSTOM_PREFIX</span><span class="s2">:%{</span><span class="nv">$fg_bold</span><span class="s2">[red]%}</span><span class="nv">$ZSH_THEME_CUSTOM_PREFIX</span><span class="s2">)&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">PROMPT</span><span class="o">+=</span><span class="s1">&#39; %{$fg[blue]%}%c%{$reset_color%} $(git_prompt_info)&#39;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nv">ZSH_THEME_GIT_PROMPT_PREFIX</span><span class="o">=</span><span class="s2">&#34;%{</span><span class="nv">$fg_bold</span><span class="s2">[green]%}git:(%{</span><span class="nv">$fg</span><span class="s2">[magenta]%}&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">ZSH_THEME_GIT_PROMPT_SUFFIX</span><span class="o">=</span><span class="s2">&#34;%{</span><span class="nv">$reset_color</span><span class="s2">%} &#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">ZSH_THEME_GIT_PROMPT_DIRTY</span><span class="o">=</span><span class="s2">&#34;%{</span><span class="nv">$fg</span><span class="s2">[green]%}) %{</span><span class="nv">$fg</span><span class="s2">[yellow]%}✗&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">ZSH_THEME_GIT_PROMPT_CLEAN</span><span class="o">=</span><span class="s2">&#34;%{</span><span class="nv">$fg</span><span class="s2">[green]%})&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="配置">配置</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vim ~/.zshrc
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nv">ZSH_THEME</span><span class="o">=</span>custom
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>然后重启终端即可。</p>]]></description>
 </item>
 <item>
   <title>判断三角形的黑盒测试</title>
@@ -20,7 +81,153 @@
   <description><![CDATA[<blockquote>
 <p>黑盒测试着重测试软件功能，它并不涉及程序的内部结构和内容特性，主要根据规格说明，只依靠被测试程序的输入和输出之间关系或程序的功能来设计测试用例。<br>
 白盒测试则清楚程序内部的结构以及是如何运作的，因此白盒测试需要对系统内部的结构和工作原理有一个清楚的了解。</p>
-</blockquote>]]></description>
+</blockquote>
+<h2 id="程序">程序</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span><span class="lnt">61
+</span><span class="lnt">62
+</span><span class="lnt">63
+</span><span class="lnt">64
+</span><span class="lnt">65
+</span><span class="lnt">66
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="line"><span class="cl"><span class="cp">#include</span><span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp">#include</span><span class="cpf">&lt;stdlib.h&gt;</span><span class="cp">
+</span></span></span><span class="line"><span class="cl"><span class="cp">#define N 2&lt;&lt;25
+</span></span></span><span class="line"><span class="cl"><span class="cp"></span>
+</span></span><span class="line"><span class="cl"><span class="kt">int</span> <span class="n">a</span><span class="o">=</span><span class="n">N</span><span class="p">,</span><span class="n">b</span><span class="o">=</span><span class="n">N</span><span class="p">,</span><span class="n">c</span><span class="o">=</span><span class="n">N</span><span class="p">,</span><span class="n">d</span><span class="o">=</span><span class="n">N</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kt">void</span> <span class="nf">shuru</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl"><span class="kt">void</span> <span class="nf">panduan</span><span class="p">(</span><span class="kt">int</span> <span class="n">a1</span><span class="p">,</span><span class="kt">int</span> <span class="n">b1</span><span class="p">,</span><span class="kt">int</span> <span class="n">c1</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kt">char</span> <span class="n">se</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">shuru</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="n">panduan</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">while</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="n">printf</span><span class="p">(</span><span class="s">&#34;是否要继续 y or n :&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="n">scanf</span><span class="p">(</span><span class="s">&#34;%c&#34;</span><span class="p">,</span><span class="o">&amp;</span><span class="n">se</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="p">(</span><span class="n">se</span><span class="o">==</span><span class="sc">&#39;\n&#39;</span><span class="p">)</span> <span class="n">scanf</span><span class="p">(</span><span class="s">&#34;%c&#34;</span><span class="p">,</span><span class="o">&amp;</span><span class="n">se</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">switch</span><span class="p">(</span><span class="n">se</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="k">case</span> <span class="sc">&#39;y&#39;</span><span class="o">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">shuru</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    	  <span class="n">panduan</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">break</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="k">case</span> <span class="sc">&#39;n&#39;</span><span class="o">:</span>
+</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="kt">void</span> <span class="nf">shuru</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">printf</span><span class="p">(</span><span class="s">&#34;Please enter 三角形三边 (a,b,c)</span><span class="se">\n</span><span class="s">&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">while</span><span class="p">(</span><span class="o">!</span><span class="n">scanf</span><span class="p">(</span><span class="s">&#34;%d,%d,%d,%d&#34;</span><span class="p">,</span><span class="o">&amp;</span><span class="n">a</span><span class="p">,</span><span class="o">&amp;</span><span class="n">b</span><span class="p">,</span><span class="o">&amp;</span><span class="n">c</span><span class="p">,</span><span class="o">&amp;</span><span class="n">d</span><span class="p">)){</span><span class="c1">//判断非数字字符
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="n">fflush</span><span class="p">(</span><span class="n">stdin</span><span class="p">);</span><span class="c1">//清理缓存
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="n">a</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">b</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">c</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">d</span><span class="o">=</span><span class="n">N</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    	 <span class="n">printf</span><span class="p">(</span><span class="s">&#34;输入错误、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="n">fflush</span><span class="p">(</span><span class="n">stdin</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">while</span><span class="p">((</span><span class="n">a</span><span class="o">&lt;</span><span class="mi">1</span><span class="o">||</span><span class="n">a</span><span class="o">&gt;</span><span class="mi">100</span><span class="p">)</span><span class="o">||</span><span class="p">(</span><span class="n">b</span><span class="o">&lt;</span><span class="mi">1</span><span class="o">||</span><span class="n">b</span><span class="o">&gt;</span><span class="mi">100</span><span class="p">)</span><span class="o">||</span><span class="p">(</span><span class="n">c</span><span class="o">&lt;</span><span class="mi">1</span><span class="o">||</span><span class="n">c</span><span class="o">&gt;</span><span class="mi">100</span><span class="p">)</span><span class="o">||</span><span class="n">d</span><span class="o">!=</span><span class="n">N</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="p">(</span><span class="n">b</span><span class="o">==</span><span class="n">N</span><span class="o">||</span><span class="n">c</span><span class="o">==</span><span class="n">N</span><span class="o">||</span><span class="n">d</span><span class="o">!=</span><span class="n">N</span><span class="p">)</span> <span class="n">printf</span><span class="p">(</span><span class="s">&#34;输入错误、n&#34;</span><span class="p">);</span><span class="c1">//边数为 1、2、4 条
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="k">else</span> <span class="k">if</span><span class="p">(</span><span class="n">a</span><span class="o">==</span><span class="mi">0</span><span class="o">||</span><span class="n">b</span><span class="o">==</span><span class="mi">0</span><span class="o">||</span><span class="n">c</span><span class="o">==</span><span class="mi">0</span><span class="p">)</span> <span class="n">printf</span><span class="p">(</span><span class="s">&#34;边长不能为 0</span><span class="se">\n</span><span class="s">&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span> <span class="k">if</span><span class="p">(</span><span class="n">a</span><span class="o">&lt;</span><span class="mi">0</span><span class="o">||</span><span class="n">b</span><span class="o">&lt;</span><span class="mi">0</span><span class="o">||</span><span class="n">c</span><span class="o">&lt;</span><span class="mi">0</span><span class="p">)</span> <span class="n">printf</span><span class="p">(</span><span class="s">&#34;边长不能为负、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span> <span class="n">printf</span><span class="p">(</span><span class="s">&#34;Please enter 1-100 之间的整数、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="n">a</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">b</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">c</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">d</span><span class="o">=</span><span class="n">N</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="k">while</span><span class="p">(</span><span class="o">!</span><span class="n">scanf</span><span class="p">(</span><span class="s">&#34;%d,%d,%d,%d&#34;</span><span class="p">,</span><span class="o">&amp;</span><span class="n">a</span><span class="p">,</span><span class="o">&amp;</span><span class="n">b</span><span class="p">,</span><span class="o">&amp;</span><span class="n">c</span><span class="p">,</span><span class="o">&amp;</span><span class="n">d</span><span class="p">)){</span><span class="c1">//判断非数字字符
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">fflush</span><span class="p">(</span><span class="n">stdin</span><span class="p">);</span><span class="c1">//清理缓存
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">a</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">b</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">c</span><span class="o">=</span><span class="n">N</span><span class="p">;</span><span class="n">d</span><span class="o">=</span><span class="n">N</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">            <span class="n">printf</span><span class="p">(</span><span class="s">&#34;输入错误、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">        <span class="n">fflush</span><span class="p">(</span><span class="n">stdin</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="kt">void</span> <span class="nf">panduan</span><span class="p">(</span><span class="kt">int</span> <span class="n">a1</span><span class="p">,</span><span class="kt">int</span> <span class="n">b1</span><span class="p">,</span><span class="kt">int</span> <span class="n">c1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span><span class="p">(</span><span class="n">a1</span><span class="o">+</span><span class="n">b1</span><span class="o">&gt;</span><span class="n">c1</span><span class="o">&amp;&amp;</span><span class="n">b1</span><span class="o">+</span><span class="n">c1</span><span class="o">&gt;</span><span class="n">a1</span><span class="o">&amp;&amp;</span><span class="n">a1</span><span class="o">+</span><span class="n">c1</span><span class="o">&gt;</span><span class="n">b1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="p">(</span><span class="n">a1</span><span class="o">==</span><span class="n">b1</span><span class="o">&amp;&amp;</span><span class="n">a1</span><span class="o">==</span><span class="n">c1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">            <span class="n">printf</span><span class="p">(</span><span class="s">&#34;等边三角形、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span> <span class="k">if</span><span class="p">(</span><span class="n">a1</span><span class="o">==</span><span class="n">b1</span><span class="o">||</span><span class="n">a1</span><span class="o">==</span><span class="n">c1</span><span class="o">||</span><span class="n">b1</span><span class="o">==</span><span class="n">c1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">            <span class="n">printf</span><span class="p">(</span><span class="s">&#34;等腰三角形、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span>
+</span></span><span class="line"><span class="cl">            <span class="n">printf</span><span class="p">(</span><span class="s">&#34;一般三角形、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="k">else</span>
+</span></span><span class="line"><span class="cl">        <span class="n">printf</span><span class="p">(</span><span class="s">&#34;非三角形、n&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="测试">测试</h2>
+<p><figure><a class="lightgallery" href="/judgetriangle/images/1.png" data-thumbnail="/judgetriangle/images/1.png" data-sub-html="<h2>测试 1</h2><p>测试 1</p>"></a><figcaption class="image-caption">测试 1</figcaption>
+  </figure><br>
+<figure><a class="lightgallery" href="/judgetriangle/images/2.png" data-thumbnail="/judgetriangle/images/2.png" data-sub-html="<h2>测试 2</h2><p>测试 2</p>"></a><figcaption class="image-caption">测试 2</figcaption>
+  </figure><br>
+<figure><a class="lightgallery" href="/judgetriangle/images/3.png" data-thumbnail="/judgetriangle/images/3.png" data-sub-html="<h2>测试 3</h2><p>测试 3</p>"></a><figcaption class="image-caption">测试 3</figcaption>
+  </figure></p>]]></description>
 </item>
 <item>
   <title>宝塔面板安装 ImgURL 图床</title>
@@ -33,7 +240,53 @@
       </div><blockquote>
 <p>ImgURL 是一个开源、免费的图床程序，ImgURL 2.x 之后对环境要求更高，尤其是 ImageMagick 组件的支持，很多朋友不清楚怎样安装这个组件，这篇文章分享宝塔面板安装 ImgURL 2.x 图床的过程（包括 ImgURL 2.x 需要的各种组件）
 <a href="https://www.xiaoz.me/archives/12081"target="_blank" rel="external nofollow noopener noreferrer">阅读原文</a></p>
-</blockquote>]]></description>
+</blockquote>
+<h2 id="准备工作">准备工作</h2>
+<ol>
+<li>已经安装宝塔面板</li>
+<li>在宝塔后台创建一个站点</li>
+<li>下载 <a href="https://github.com/helloxz/imgurl"target="_blank" rel="external nofollow noopener noreferrer">ImgURL 2.x</a> 上传到站点根目录并解压</li>
+</ol>
+<h2 id="设置伪静态">设置伪静态</h2>
+<p>如果您宝塔面板安装的 Apache 则不需要再设置伪静态，直接跳过这个步骤，如果使用的 Nginx 环境，请继续往下看。</p>
+<p>找到对应的站点 - 点击后面设置按钮 - 伪静态 - 添加下面的伪静态规则</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-php" data-lang="php"><span class="line"><span class="cl"><span class="nx">location</span> <span class="o">/</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"><span class="nx">try_files</span> <span class="nv">$uri</span> <span class="nv">$uri</span><span class="o">/</span> <span class="o">/</span><span class="nx">index</span><span class="o">.</span><span class="nx">php</span><span class="o">?</span><span class="nv">$query_string</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">location</span> <span class="o">~*</span> <span class="nx">\</span><span class="o">.</span><span class="p">(</span><span class="nx">db3</span><span class="o">|</span><span class="nx">json</span><span class="p">)</span><span class="err">$</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">deny</span> <span class="nx">all</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">location</span> <span class="o">~*</span> <span class="o">^/</span><span class="p">(</span><span class="nx">temp</span><span class="o">|</span><span class="nx">upload</span><span class="o">|</span><span class="nx">imgs</span><span class="o">|</span><span class="nx">data</span><span class="o">|</span><span class="nx">application</span><span class="o">|</span><span class="k">static</span><span class="o">|</span><span class="nx">system</span><span class="p">)</span><span class="o">/.*.</span><span class="p">(</span><span class="nx">php</span><span class="o">|</span><span class="nx">php5</span><span class="p">)</span><span class="err">$</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="mi">403</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p></p>
+<h2 id="安装-fileinfo--imagemagick">安装 fileinfo &amp; imagemagick</h2>
+<p>在宝塔后台 - 软件管理 - 找到您站点对应的 PHP 版本 - 设置 PHP - 安装扩展 - 勾选<code>fileinfo</code>和<code>imagemagick</code>，如下截图。</p>
+<p></p>
+<h2 id="安装-imgurl-2x">安装 ImgURL 2.x</h2>
+<p>其它所需扩展宝塔默认已经支持，重点是安装<code>fileinfo</code>和<code>imagemagick</code>，扩展安装完毕后就可以访问您自己的域名安装 ImgURL 了，如果正常会看到 ImgURL 安装界面。</p>
+<p><br>
+</p>
+<h2 id="其它说明">其它说明</h2>
+<ul>
+<li>如果安装遇到任何问题，请留言反馈或到 <a href="https://ttt.sh/category/6/imgurl%E5%9B%BE%E5%BA%8A"target="_blank" rel="external nofollow noopener noreferrer">3T 官方社区</a> 进行反馈</li>
+<li>ImgURL 更多使用说明请参考帮助文档：<a href="https://dwz.ovh/imgurldoc"target="_blank" rel="external nofollow noopener noreferrer">https://dwz.ovh/imgurldoc</a></li>
+</ul>]]></description>
 </item>
 <item>
   <title>条件注释判断浏览器版本&lt;!--[if lt IE 9]&gt;;</title>
@@ -43,7 +296,41 @@
   <guid>https://shiqustudio.github.io/ifzhushi/</guid>
   <description><![CDATA[<blockquote>
 <p><span>&lt;!--[if !IE]&gt;&lt;!--&gt; 除 IE 外都可识别 &lt;!--&lt;![endif]--&gt;</span><br><span>&lt;!--[if IE]&gt; 所有的 IE 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 6]&gt; 仅 IE6 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 6]&gt; IE6 以及 IE6 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 6]&gt; IE6 以及 IE6 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 7]&gt; 仅 IE7 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 7]&gt; IE7 以及 IE7 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 7]&gt; IE7 以及 IE7 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 8]&gt; 仅 IE8 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 9]&gt; 仅 IE9 可识别 &lt;![endif]--&gt;</span></p>
-</blockquote>]]></description>
+</blockquote>
+<table align="center"> <tbody> <tr><th width="50">项目</th><th width="150">范例</th><th>说明</th></tr> <tr> <td align="middle">!</td><td>[if !IE]</td><td>The NOT operator. This is placed immediately in front of the&nbsp;<em>feature</em>,&nbsp;<em>operator</em>, or&nbsp;<em>subexpression</em>&nbsp;to reverse the Boolean meaning of the expression.<br />NOT 运算符。这是摆立即在前面的<em>功能</em>，<em>操作员</em>，或<em>子表达式</em>扭转布尔表达式的意义。</td></tr><tr><td align="middle">lt</td> <td>[if lt IE 5.5]</td> <td>The less-than operator. Returns true if the first argument is less than the second argument.<br />小于运算符。如果第一个参数小于第二个参数，则返回 true。</td> </tr><tr><td align="middle">lte</td><td>[if lte IE 6]</td><td>The less-than or equal operator. Returns true if the first argument is less than or equal to the second argument.<br />小于或等于运算。如果第一个参数是小于或等于第二个参数，则返回 true。</td> </tr><tr><td align="middle">gt</td><td>[if gt IE 5]</td><td>The greater-than operator. Returns true if the first argument is greater than the second argument.<br />大于运算符。如果第一个参数大于第二个参数，则返回 true。</td> </tr><tr><td align="middle">gte</td> <td>[if gte IE 7]</td><td>The greater-than or equal operator. Returns true if the first argument is greater than or equal to the second argument.<br />大于或等于运算。如果第一个参数是大于或等于第二个参数，则返回 true。</td> </tr><tr><td align="middle">( )</td><td>[if !(IE 7)]</td><td>Subexpression operators. Used in conjunction with boolean operators to create more complex expressions.<br />子表达式运营商。在与布尔运算符用于创建更复杂的表达式。</td></tr><tr><td align="middle">&amp;</td><td>[if (gt IE 5)&amp;(lt IE 7)]</td><td>The AND operator. Returns true if all subexpressions evaluate to true<br />AND 运算符。如果所有的子表达式计算结果为 true，返回 true</td></tr><tr><td align="middle">|</td><td>[if (IE 6)|(IE 7)]</td><td>The OR operator. Returns true if any of the subexpressions evaluates to true.<br />OR 运算符。返回 true，如果子表达式计算结果为 true。</td></tr></tbody></table>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-xml" data-lang="xml"><span class="line"><span class="cl"><span class="c">&lt;!--[if lt IE 9]&gt;
+</span></span></span><span class="line"><span class="cl"><span class="c">加载 CSS1
+</span></span></span><span class="line"><span class="cl"><span class="c">&lt;!--[else]&gt;
+</span></span></span><span class="line"><span class="cl"><span class="c">加载 CSS2
+</span></span></span><span class="line"><span class="cl"><span class="c">&lt;![endif]--&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>这样有效是有效，但是用 HTML VALIDATOR 里，报错，因为这个不符合 XHTML 1.1 的规范，
+如果把 ELSE 语句去掉，则正确。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-xml" data-lang="xml"><span class="line"><span class="cl">加载 CSS2
+</span></span><span class="line"><span class="cl"><span class="c">&lt;!--[if lt IE 9]&gt;
+</span></span></span><span class="line"><span class="cl"><span class="c">加载 CSS1（可以把要重写的写在这里）.
+</span></span></span><span class="line"><span class="cl"><span class="c">&lt;![endif]--&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
 </item>
 <item>
   <title>vps 配置 ssl 及 https 重定向</title>
@@ -53,7 +340,39 @@
   <guid>https://shiqustudio.github.io/http2https/</guid>
   <description><![CDATA[<blockquote>
 <p>记录自己在配置 vps 及博客 SSL 证书时遇到的问题。</p>
-</blockquote>]]></description>
+</blockquote>
+<h2 id="强制重定向-https">强制重定向 https</h2>
+<blockquote>
+<p>有一种情况相信很多人都遇到过，就是虽然我们配置了 ssl 证书，但是 https 和 http 地址都是各自都可以单独访问。我们应该也见过类似于 github 的代码托管网站有强制 https 的开关。如果是这种情况我们还可以通过 js 进行 301 定向。</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="n">script</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">	<span class="n">var</span> <span class="n">targetProtocol</span> <span class="o">=</span> <span class="s">&#34;https:&#34;</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">	<span class="n">var</span> <span class="n">host</span> <span class="o">=</span> <span class="s">&#34;lruihao.cn&#34;</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">	<span class="k">if</span> <span class="o">(</span><span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">host</span> <span class="o">==</span> <span class="n">host</span> <span class="o">&amp;&amp;</span> <span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">protocol</span> <span class="o">!=</span> <span class="n">targetProtocol</span><span class="o">){</span>
+</span></span><span class="line"><span class="cl"> 		<span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">href</span> <span class="o">=</span> <span class="n">targetProtocol</span> <span class="o">+</span>
+</span></span><span class="line"><span class="cl">  		<span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">href</span><span class="o">.</span><span class="na">substring</span><span class="o">(</span><span class="n">window</span><span class="o">.</span><span class="na">location</span><span class="o">.</span><span class="na">protocol</span><span class="o">.</span><span class="na">length</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">    <span class="o">}</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;/</span><span class="n">script</span><span class="o">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="腾讯云-cdn-配置">腾讯云 CDN 配置</h2>
+<blockquote>
+<p>这个博客后来是转到了腾讯云的 cos 桶存储。当时在桶内静态网站设置的时候，设置强制 https 发现会出错。而且还接入了 CDN，所以今天在 CDN 设置那里也看到了 https 的设置，打开强制 https 就 OK 了。这天在三丰云撸了一个免费的主机，搭了一个 WordPress（想试试 wp 的感觉），然后 vps 的 SSL 问题现在也很简单了，第一步，到腾讯云申请免费证书；第二步，配置 CDN，按步骤来，其中接入方式选择自有源站；第三步，强制 https（可选）。</p>
+</blockquote>
+<p></p>
+<p></p>]]></description>
 </item>
 <item>
   <title>博採眾長 app</title>
@@ -74,7 +393,1230 @@
 <li>分享功能，分享到 QQ，微信，浏览器打开等</li>
 <li>app 内添加书签，自动记录历史记录，刷新等</li>
 <li><strong>配合博客的<code>PWA + quicklink</code>功能可实现离线浏览</strong></li>
-</ul>]]></description>
+</ul>
+<h3 id="下载">下载</h3>
+<blockquote>
+<p><del>app 内也可以更新，不过就我自己用，懒得更新。</del></p>
+</blockquote>
+<ul>
+<li><a href="https://pan.baidu.com/s/19jOvnNhssF302Mi1GRa2Sw"target="_blank" rel="external nofollow noopener noreferrer">百度云，密码：479l</a></li>
+<li><a href="https://github.com/Lruihao/Blog_fas_apk"target="_blank" rel="external nofollow noopener noreferrer">github 下载</a></li>
+</ul>
+<p><strong>PWA 应用</strong></p>
+<ol>
+<li>地址栏输入：Chrome://flags</li>
+<li>搜索并启用以下项目：Desktop PWAs（桌面 PWAs)、App Banners（应用横幅）、Experimental App Banners（实验性应用横幅）</li>
+<li>重启浏览器使修改的设置生效</li>
+<li>点击地址栏最右边按钮</li>
+<li>安装“博採眾長”</li>
+</ol>
+<h3 id="部分源码">部分源码</h3>
+<blockquote>
+<p>看到这些中文的函数总觉得怪怪的哈哈哈 😂
+语言：<code>lua</code></p>
+</blockquote>
+<h4 id="检测更新">检测更新</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="c1">--检查测当前是否最新版本</span>
+</span></span><span class="line"><span class="cl"><span class="kd">local</span> <span class="n">dl</span><span class="o">=</span><span class="n">ProgressDialog.show</span><span class="p">(</span><span class="n">activity</span><span class="p">,</span><span class="kc">nil</span><span class="p">,</span><span class="s1">&#39;更新检测中…&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">dl.show</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="kd">local</span> <span class="n">tt</span><span class="o">=</span><span class="n">Ticker</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="n">tt.start</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="n">packinfo</span><span class="o">=</span><span class="n">this.getPackageManager</span><span class="p">().</span><span class="n">getPackageInfo</span><span class="p">(</span><span class="n">this.getPackageName</span><span class="p">(),((</span><span class="mi">32552732</span><span class="o">/</span><span class="mi">2</span><span class="o">/</span><span class="mi">2</span><span class="o">-</span><span class="mi">8183</span><span class="p">)</span><span class="o">/</span><span class="mi">10000</span><span class="o">-</span><span class="mi">6</span><span class="o">-</span><span class="mi">231</span><span class="p">)</span><span class="o">/</span><span class="mi">9</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">version</span><span class="o">=</span><span class="n">tostring</span><span class="p">(</span><span class="n">packinfo.versionName</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">versioncode</span><span class="o">=</span><span class="n">tostring</span><span class="p">(</span><span class="n">packinfo.versionCode</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">url</span><span class="o">=</span><span class="s2">&#34;https://share.weiyun.com/43fa66d8fc95db27141530ed2d006be2&#34;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="err">过滤</span> <span class="p">(</span><span class="n">content</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="err">版本名</span><span class="o">=</span><span class="n">content</span><span class="p">:</span><span class="n">match</span><span class="p">(</span><span class="s2">&#34;【版本名】(.-)【版本名】&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="err">版本</span><span class="o">=</span><span class="n">content</span><span class="p">:</span><span class="n">match</span><span class="p">(</span><span class="s2">&#34;【版本】(.-)【版本】&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="err">内容</span><span class="o">=</span><span class="n">content</span><span class="p">:</span><span class="n">match</span><span class="p">(</span><span class="s2">&#34;【内容】(.-)【内容】&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="err">链接</span><span class="o">=</span><span class="n">content</span><span class="p">:</span><span class="n">match</span><span class="p">(</span><span class="s2">&#34;【链接】(.-)【链接】&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="kr">if</span><span class="err">（版本名</span><span class="o">==</span><span class="kc">nil</span><span class="p">)</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">  <span class="err">版本名</span><span class="o">=</span><span class="s2">&#34;获取失败&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">if</span><span class="err">（版本</span><span class="o">==</span><span class="kc">nil</span><span class="p">)</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">  <span class="err">版本</span><span class="o">=</span><span class="s2">&#34;0&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">if</span><span class="err">（内容</span><span class="o">==</span><span class="kc">nil</span><span class="p">)</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">  <span class="err">内容</span><span class="o">=</span><span class="s2">&#34;获取失败&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">if</span><span class="err">（链接</span><span class="o">==</span><span class="kc">nil</span><span class="p">)</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">  <span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;服务器参数配置错误，请过段时间再次尝试&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">if</span><span class="err">（版本</span> <span class="o">&gt;</span> <span class="n">versioncode</span><span class="p">)</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">  <span class="n">dl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="n">tt.stop</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="err">对话框</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span> <span class="err">设置标题</span> <span class="p">(</span><span class="s2">&#34;检测到更新&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span> <span class="err">设置消息</span> <span class="p">(</span><span class="s2">&#34;版本：&#34;</span><span class="o">..</span><span class="n">version</span><span class="o">..</span><span class="s2">&#34;→&#34;</span><span class="o">..</span> <span class="err">版本名。</span><span class="p">.</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2"> 更新内容：&#34;</span><span class="o">..</span> <span class="err">内容）</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span> <span class="err">设置积极按钮</span> <span class="p">(</span><span class="s2">&#34;下载更新&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="err">下载文件（链接）</span>
+</span></span><span class="line"><span class="cl">  <span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;下载更新中…&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span> <span class="err">设置消极按钮</span> <span class="p">(</span><span class="s2">&#34;取消更新&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span> <span class="err">显示</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="kr">else</span>
+</span></span><span class="line"><span class="cl"><span class="n">dl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="n">tt.stop</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;当前已是最新版本！&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="n">Http.get</span><span class="p">(</span><span class="n">url</span><span class="p">,</span><span class="kc">nil</span><span class="p">,</span><span class="s2">&#34;UTF-8&#34;</span><span class="p">,</span><span class="kc">nil</span><span class="p">,</span><span class="kr">function</span><span class="p">(</span><span class="n">code</span><span class="p">,</span><span class="n">content</span><span class="p">,</span><span class="n">cookie</span><span class="p">,</span><span class="n">header</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span><span class="p">(</span><span class="n">code</span><span class="o">==</span><span class="mi">200</span> <span class="ow">and</span> <span class="n">content</span><span class="p">)</span><span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">content</span><span class="o">=</span><span class="n">content</span><span class="p">:</span><span class="n">match</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\&#34;</span><span class="s2">html_content</span><span class="se">\&#34;</span><span class="s2">:(.-),&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\\</span><span class="s2">u003C/?.-%&gt;&#34;</span><span class="p">,</span><span class="s2">&#34;&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\\\\</span><span class="s2">&#34;</span><span class="p">,</span><span class="s2">&#34;&amp;revs;&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\\</span><span class="s2">n&#34;</span><span class="p">,</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2">&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;&amp;nbsp;&#34;</span><span class="p">,</span><span class="s2">&#34; &#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;&amp;lt;&#34;</span><span class="p">,</span><span class="s2">&#34;&lt;&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;&amp;gt;&#34;</span><span class="p">,</span><span class="s2">&#34;&gt;&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;&amp;quot;&#34;</span><span class="p">,</span><span class="s2">&#34;</span><span class="se">\&#34;</span><span class="s2">&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;&amp;apos;&#34;</span><span class="p">,</span><span class="s2">&#34;&#39;&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;&amp;revs;&#34;</span><span class="p">,</span><span class="s2">&#34;</span><span class="se">\\</span><span class="s2">&#34;</span><span class="p">):</span><span class="n">gsub</span><span class="p">(</span><span class="s2">&#34;&amp;amp;&#34;</span><span class="p">,</span><span class="s2">&#34;&amp;&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="err">过滤</span> <span class="p">(</span><span class="n">content</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">  <span class="n">dl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="n">tt.stop</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">     <span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;本地网络或服务器异常 &#34;</span><span class="o">..</span><span class="n">code</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span><span class="p">)</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="方向锁定">方向锁定</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="c1">--flag 在程序启动事件声明的全局变量</span>
+</span></span><span class="line"><span class="cl"><span class="kr">if</span> <span class="n">flag</span><span class="o">==</span><span class="mi">1</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">  <span class="n">activity.setRequestedOrientation</span><span class="p">(</span><span class="n">ActivityInfo.SCREEN_ORIENTATION_SENSOR</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="n">SetHSP</span><span class="o">=</span><span class="s2">&#34;H&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">else</span>
+</span></span><span class="line"><span class="cl">  <span class="n">SetHSP</span><span class="o">=</span><span class="kc">nil</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">if</span> <span class="n">SetHSP</span><span class="o">==</span><span class="kc">nil</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--竖屏锁定</span>
+</span></span><span class="line"><span class="cl">  <span class="n">activity.setRequestedOrientation</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="n">flag</span><span class="o">=</span><span class="mi">1</span>
+</span></span><span class="line"><span class="cl"><span class="kr">else</span>
+</span></span><span class="line"><span class="cl">  <span class="n">flag</span><span class="o">=</span><span class="mi">0</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="程序启动事件">程序启动事件</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">  1
+</span><span class="lnt">  2
+</span><span class="lnt">  3
+</span><span class="lnt">  4
+</span><span class="lnt">  5
+</span><span class="lnt">  6
+</span><span class="lnt">  7
+</span><span class="lnt">  8
+</span><span class="lnt">  9
+</span><span class="lnt"> 10
+</span><span class="lnt"> 11
+</span><span class="lnt"> 12
+</span><span class="lnt"> 13
+</span><span class="lnt"> 14
+</span><span class="lnt"> 15
+</span><span class="lnt"> 16
+</span><span class="lnt"> 17
+</span><span class="lnt"> 18
+</span><span class="lnt"> 19
+</span><span class="lnt"> 20
+</span><span class="lnt"> 21
+</span><span class="lnt"> 22
+</span><span class="lnt"> 23
+</span><span class="lnt"> 24
+</span><span class="lnt"> 25
+</span><span class="lnt"> 26
+</span><span class="lnt"> 27
+</span><span class="lnt"> 28
+</span><span class="lnt"> 29
+</span><span class="lnt"> 30
+</span><span class="lnt"> 31
+</span><span class="lnt"> 32
+</span><span class="lnt"> 33
+</span><span class="lnt"> 34
+</span><span class="lnt"> 35
+</span><span class="lnt"> 36
+</span><span class="lnt"> 37
+</span><span class="lnt"> 38
+</span><span class="lnt"> 39
+</span><span class="lnt"> 40
+</span><span class="lnt"> 41
+</span><span class="lnt"> 42
+</span><span class="lnt"> 43
+</span><span class="lnt"> 44
+</span><span class="lnt"> 45
+</span><span class="lnt"> 46
+</span><span class="lnt"> 47
+</span><span class="lnt"> 48
+</span><span class="lnt"> 49
+</span><span class="lnt"> 50
+</span><span class="lnt"> 51
+</span><span class="lnt"> 52
+</span><span class="lnt"> 53
+</span><span class="lnt"> 54
+</span><span class="lnt"> 55
+</span><span class="lnt"> 56
+</span><span class="lnt"> 57
+</span><span class="lnt"> 58
+</span><span class="lnt"> 59
+</span><span class="lnt"> 60
+</span><span class="lnt"> 61
+</span><span class="lnt"> 62
+</span><span class="lnt"> 63
+</span><span class="lnt"> 64
+</span><span class="lnt"> 65
+</span><span class="lnt"> 66
+</span><span class="lnt"> 67
+</span><span class="lnt"> 68
+</span><span class="lnt"> 69
+</span><span class="lnt"> 70
+</span><span class="lnt"> 71
+</span><span class="lnt"> 72
+</span><span class="lnt"> 73
+</span><span class="lnt"> 74
+</span><span class="lnt"> 75
+</span><span class="lnt"> 76
+</span><span class="lnt"> 77
+</span><span class="lnt"> 78
+</span><span class="lnt"> 79
+</span><span class="lnt"> 80
+</span><span class="lnt"> 81
+</span><span class="lnt"> 82
+</span><span class="lnt"> 83
+</span><span class="lnt"> 84
+</span><span class="lnt"> 85
+</span><span class="lnt"> 86
+</span><span class="lnt"> 87
+</span><span class="lnt"> 88
+</span><span class="lnt"> 89
+</span><span class="lnt"> 90
+</span><span class="lnt"> 91
+</span><span class="lnt"> 92
+</span><span class="lnt"> 93
+</span><span class="lnt"> 94
+</span><span class="lnt"> 95
+</span><span class="lnt"> 96
+</span><span class="lnt"> 97
+</span><span class="lnt"> 98
+</span><span class="lnt"> 99
+</span><span class="lnt">100
+</span><span class="lnt">101
+</span><span class="lnt">102
+</span><span class="lnt">103
+</span><span class="lnt">104
+</span><span class="lnt">105
+</span><span class="lnt">106
+</span><span class="lnt">107
+</span><span class="lnt">108
+</span><span class="lnt">109
+</span><span class="lnt">110
+</span><span class="lnt">111
+</span><span class="lnt">112
+</span><span class="lnt">113
+</span><span class="lnt">114
+</span><span class="lnt">115
+</span><span class="lnt">116
+</span><span class="lnt">117
+</span><span class="lnt">118
+</span><span class="lnt">119
+</span><span class="lnt">120
+</span><span class="lnt">121
+</span><span class="lnt">122
+</span><span class="lnt">123
+</span><span class="lnt">124
+</span><span class="lnt">125
+</span><span class="lnt">126
+</span><span class="lnt">127
+</span><span class="lnt">128
+</span><span class="lnt">129
+</span><span class="lnt">130
+</span><span class="lnt">131
+</span><span class="lnt">132
+</span><span class="lnt">133
+</span><span class="lnt">134
+</span><span class="lnt">135
+</span><span class="lnt">136
+</span><span class="lnt">137
+</span><span class="lnt">138
+</span><span class="lnt">139
+</span><span class="lnt">140
+</span><span class="lnt">141
+</span><span class="lnt">142
+</span><span class="lnt">143
+</span><span class="lnt">144
+</span><span class="lnt">145
+</span><span class="lnt">146
+</span><span class="lnt">147
+</span><span class="lnt">148
+</span><span class="lnt">149
+</span><span class="lnt">150
+</span><span class="lnt">151
+</span><span class="lnt">152
+</span><span class="lnt">153
+</span><span class="lnt">154
+</span><span class="lnt">155
+</span><span class="lnt">156
+</span><span class="lnt">157
+</span><span class="lnt">158
+</span><span class="lnt">159
+</span><span class="lnt">160
+</span><span class="lnt">161
+</span><span class="lnt">162
+</span><span class="lnt">163
+</span><span class="lnt">164
+</span><span class="lnt">165
+</span><span class="lnt">166
+</span><span class="lnt">167
+</span><span class="lnt">168
+</span><span class="lnt">169
+</span><span class="lnt">170
+</span><span class="lnt">171
+</span><span class="lnt">172
+</span><span class="lnt">173
+</span><span class="lnt">174
+</span><span class="lnt">175
+</span><span class="lnt">176
+</span><span class="lnt">177
+</span><span class="lnt">178
+</span><span class="lnt">179
+</span><span class="lnt">180
+</span><span class="lnt">181
+</span><span class="lnt">182
+</span><span class="lnt">183
+</span><span class="lnt">184
+</span><span class="lnt">185
+</span><span class="lnt">186
+</span><span class="lnt">187
+</span><span class="lnt">188
+</span><span class="lnt">189
+</span><span class="lnt">190
+</span><span class="lnt">191
+</span><span class="lnt">192
+</span><span class="lnt">193
+</span><span class="lnt">194
+</span><span class="lnt">195
+</span><span class="lnt">196
+</span><span class="lnt">197
+</span><span class="lnt">198
+</span><span class="lnt">199
+</span><span class="lnt">200
+</span><span class="lnt">201
+</span><span class="lnt">202
+</span><span class="lnt">203
+</span><span class="lnt">204
+</span><span class="lnt">205
+</span><span class="lnt">206
+</span><span class="lnt">207
+</span><span class="lnt">208
+</span><span class="lnt">209
+</span><span class="lnt">210
+</span><span class="lnt">211
+</span><span class="lnt">212
+</span><span class="lnt">213
+</span><span class="lnt">214
+</span><span class="lnt">215
+</span><span class="lnt">216
+</span><span class="lnt">217
+</span><span class="lnt">218
+</span><span class="lnt">219
+</span><span class="lnt">220
+</span><span class="lnt">221
+</span><span class="lnt">222
+</span><span class="lnt">223
+</span><span class="lnt">224
+</span><span class="lnt">225
+</span><span class="lnt">226
+</span><span class="lnt">227
+</span><span class="lnt">228
+</span><span class="lnt">229
+</span><span class="lnt">230
+</span><span class="lnt">231
+</span><span class="lnt">232
+</span><span class="lnt">233
+</span><span class="lnt">234
+</span><span class="lnt">235
+</span><span class="lnt">236
+</span><span class="lnt">237
+</span><span class="lnt">238
+</span><span class="lnt">239
+</span><span class="lnt">240
+</span><span class="lnt">241
+</span><span class="lnt">242
+</span><span class="lnt">243
+</span><span class="lnt">244
+</span><span class="lnt">245
+</span><span class="lnt">246
+</span><span class="lnt">247
+</span><span class="lnt">248
+</span><span class="lnt">249
+</span><span class="lnt">250
+</span><span class="lnt">251
+</span><span class="lnt">252
+</span><span class="lnt">253
+</span><span class="lnt">254
+</span><span class="lnt">255
+</span><span class="lnt">256
+</span><span class="lnt">257
+</span><span class="lnt">258
+</span><span class="lnt">259
+</span><span class="lnt">260
+</span><span class="lnt">261
+</span><span class="lnt">262
+</span><span class="lnt">263
+</span><span class="lnt">264
+</span><span class="lnt">265
+</span><span class="lnt">266
+</span><span class="lnt">267
+</span><span class="lnt">268
+</span><span class="lnt">269
+</span><span class="lnt">270
+</span><span class="lnt">271
+</span><span class="lnt">272
+</span><span class="lnt">273
+</span><span class="lnt">274
+</span><span class="lnt">275
+</span><span class="lnt">276
+</span><span class="lnt">277
+</span><span class="lnt">278
+</span><span class="lnt">279
+</span><span class="lnt">280
+</span><span class="lnt">281
+</span><span class="lnt">282
+</span><span class="lnt">283
+</span><span class="lnt">284
+</span><span class="lnt">285
+</span><span class="lnt">286
+</span><span class="lnt">287
+</span><span class="lnt">288
+</span><span class="lnt">289
+</span><span class="lnt">290
+</span><span class="lnt">291
+</span><span class="lnt">292
+</span><span class="lnt">293
+</span><span class="lnt">294
+</span><span class="lnt">295
+</span><span class="lnt">296
+</span><span class="lnt">297
+</span><span class="lnt">298
+</span><span class="lnt">299
+</span><span class="lnt">300
+</span><span class="lnt">301
+</span><span class="lnt">302
+</span><span class="lnt">303
+</span><span class="lnt">304
+</span><span class="lnt">305
+</span><span class="lnt">306
+</span><span class="lnt">307
+</span><span class="lnt">308
+</span><span class="lnt">309
+</span><span class="lnt">310
+</span><span class="lnt">311
+</span><span class="lnt">312
+</span><span class="lnt">313
+</span><span class="lnt">314
+</span><span class="lnt">315
+</span><span class="lnt">316
+</span><span class="lnt">317
+</span><span class="lnt">318
+</span><span class="lnt">319
+</span><span class="lnt">320
+</span><span class="lnt">321
+</span><span class="lnt">322
+</span><span class="lnt">323
+</span><span class="lnt">324
+</span><span class="lnt">325
+</span><span class="lnt">326
+</span><span class="lnt">327
+</span><span class="lnt">328
+</span><span class="lnt">329
+</span><span class="lnt">330
+</span><span class="lnt">331
+</span><span class="lnt">332
+</span><span class="lnt">333
+</span><span class="lnt">334
+</span><span class="lnt">335
+</span><span class="lnt">336
+</span><span class="lnt">337
+</span><span class="lnt">338
+</span><span class="lnt">339
+</span><span class="lnt">340
+</span><span class="lnt">341
+</span><span class="lnt">342
+</span><span class="lnt">343
+</span><span class="lnt">344
+</span><span class="lnt">345
+</span><span class="lnt">346
+</span><span class="lnt">347
+</span><span class="lnt">348
+</span><span class="lnt">349
+</span><span class="lnt">350
+</span><span class="lnt">351
+</span><span class="lnt">352
+</span><span class="lnt">353
+</span><span class="lnt">354
+</span><span class="lnt">355
+</span><span class="lnt">356
+</span><span class="lnt">357
+</span><span class="lnt">358
+</span><span class="lnt">359
+</span><span class="lnt">360
+</span><span class="lnt">361
+</span><span class="lnt">362
+</span><span class="lnt">363
+</span><span class="lnt">364
+</span><span class="lnt">365
+</span><span class="lnt">366
+</span><span class="lnt">367
+</span><span class="lnt">368
+</span><span class="lnt">369
+</span><span class="lnt">370
+</span><span class="lnt">371
+</span><span class="lnt">372
+</span><span class="lnt">373
+</span><span class="lnt">374
+</span><span class="lnt">375
+</span><span class="lnt">376
+</span><span class="lnt">377
+</span><span class="lnt">378
+</span><span class="lnt">379
+</span><span class="lnt">380
+</span><span class="lnt">381
+</span><span class="lnt">382
+</span><span class="lnt">383
+</span><span class="lnt">384
+</span><span class="lnt">385
+</span><span class="lnt">386
+</span><span class="lnt">387
+</span><span class="lnt">388
+</span><span class="lnt">389
+</span><span class="lnt">390
+</span><span class="lnt">391
+</span><span class="lnt">392
+</span><span class="lnt">393
+</span><span class="lnt">394
+</span><span class="lnt">395
+</span><span class="lnt">396
+</span><span class="lnt">397
+</span><span class="lnt">398
+</span><span class="lnt">399
+</span><span class="lnt">400
+</span><span class="lnt">401
+</span><span class="lnt">402
+</span><span class="lnt">403
+</span><span class="lnt">404
+</span><span class="lnt">405
+</span><span class="lnt">406
+</span><span class="lnt">407
+</span><span class="lnt">408
+</span><span class="lnt">409
+</span><span class="lnt">410
+</span><span class="lnt">411
+</span><span class="lnt">412
+</span><span class="lnt">413
+</span><span class="lnt">414
+</span><span class="lnt">415
+</span><span class="lnt">416
+</span><span class="lnt">417
+</span><span class="lnt">418
+</span><span class="lnt">419
+</span><span class="lnt">420
+</span><span class="lnt">421
+</span><span class="lnt">422
+</span><span class="lnt">423
+</span><span class="lnt">424
+</span><span class="lnt">425
+</span><span class="lnt">426
+</span><span class="lnt">427
+</span><span class="lnt">428
+</span><span class="lnt">429
+</span><span class="lnt">430
+</span><span class="lnt">431
+</span><span class="lnt">432
+</span><span class="lnt">433
+</span><span class="lnt">434
+</span><span class="lnt">435
+</span><span class="lnt">436
+</span><span class="lnt">437
+</span><span class="lnt">438
+</span><span class="lnt">439
+</span><span class="lnt">440
+</span><span class="lnt">441
+</span><span class="lnt">442
+</span><span class="lnt">443
+</span><span class="lnt">444
+</span><span class="lnt">445
+</span><span class="lnt">446
+</span><span class="lnt">447
+</span><span class="lnt">448
+</span><span class="lnt">449
+</span><span class="lnt">450
+</span><span class="lnt">451
+</span><span class="lnt">452
+</span><span class="lnt">453
+</span><span class="lnt">454
+</span><span class="lnt">455
+</span><span class="lnt">456
+</span><span class="lnt">457
+</span><span class="lnt">458
+</span><span class="lnt">459
+</span><span class="lnt">460
+</span><span class="lnt">461
+</span><span class="lnt">462
+</span><span class="lnt">463
+</span><span class="lnt">464
+</span><span class="lnt">465
+</span><span class="lnt">466
+</span><span class="lnt">467
+</span><span class="lnt">468
+</span><span class="lnt">469
+</span><span class="lnt">470
+</span><span class="lnt">471
+</span><span class="lnt">472
+</span><span class="lnt">473
+</span><span class="lnt">474
+</span><span class="lnt">475
+</span><span class="lnt">476
+</span><span class="lnt">477
+</span><span class="lnt">478
+</span><span class="lnt">479
+</span><span class="lnt">480
+</span><span class="lnt">481
+</span><span class="lnt">482
+</span><span class="lnt">483
+</span><span class="lnt">484
+</span><span class="lnt">485
+</span><span class="lnt">486
+</span><span class="lnt">487
+</span><span class="lnt">488
+</span><span class="lnt">489
+</span><span class="lnt">490
+</span><span class="lnt">491
+</span><span class="lnt">492
+</span><span class="lnt">493
+</span><span class="lnt">494
+</span><span class="lnt">495
+</span><span class="lnt">496
+</span><span class="lnt">497
+</span><span class="lnt">498
+</span><span class="lnt">499
+</span><span class="lnt">500
+</span><span class="lnt">501
+</span><span class="lnt">502
+</span><span class="lnt">503
+</span><span class="lnt">504
+</span><span class="lnt">505
+</span><span class="lnt">506
+</span><span class="lnt">507
+</span><span class="lnt">508
+</span><span class="lnt">509
+</span><span class="lnt">510
+</span><span class="lnt">511
+</span><span class="lnt">512
+</span><span class="lnt">513
+</span><span class="lnt">514
+</span><span class="lnt">515
+</span><span class="lnt">516
+</span><span class="lnt">517
+</span><span class="lnt">518
+</span><span class="lnt">519
+</span><span class="lnt">520
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;©2018 李瑞豪&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--自动，由物理感应器决定</span>
+</span></span><span class="line"><span class="cl"><span class="n">import</span> <span class="s2">&#34;android.content.pm.ActivityInfo&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">flag</span><span class="o">=</span><span class="mi">1</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--程序退出时执行对话框</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">onKeyDown</span><span class="p">(</span><span class="n">key</span><span class="p">,</span><span class="n">event</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span><span class="p">(</span><span class="n">key</span><span class="o">==</span><span class="mi">4</span><span class="p">)</span><span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">if</span><span class="p">(</span><span class="n">webView.canGoBack</span><span class="p">())</span><span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="n">webView.goBack</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">      <span class="n">appinfo</span><span class="o">=</span><span class="n">this.getPackageManager</span><span class="p">().</span><span class="n">getApplicationInfo</span><span class="p">(</span><span class="n">this.getPackageName</span><span class="p">(),</span><span class="mi">0</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="n">applabel</span><span class="o">=</span><span class="n">this.getPackageManager</span><span class="p">().</span><span class="n">getApplicationLabel</span><span class="p">(</span><span class="n">appinfo</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="err">退出确认</span><span class="o">=</span><span class="err">对话框</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="p">.</span> <span class="err">设置消息</span> <span class="p">(</span><span class="s2">&#34;您确定要退出 &#34;</span><span class="o">..</span><span class="n">applabel</span><span class="o">..</span><span class="s2">&#34; 吗？&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="err">退出按钮</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">=</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">          <span class="err">退出确认</span>
+</span></span><span class="line"><span class="cl">          <span class="p">.</span> <span class="err">设置积极按钮</span> <span class="p">(</span><span class="s2">&#34;确认&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">            <span class="err">退出程序</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">            <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">             <span class="p">)</span>
+</span></span><span class="line"><span class="cl">             <span class="p">.</span> <span class="err">设置中立按钮</span> <span class="p">(</span><span class="s2">&#34;清除缓存&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">               <span class="err">对话框</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">               <span class="p">.</span> <span class="err">设置消息</span> <span class="p">(</span><span class="s2">&#34;清除缓存后再次运行程序将变得缓慢、n 您确定要清除 &#34;</span><span class="o">..</span><span class="n">applabel</span><span class="o">..</span><span class="s2">&#34; 的缓存吗？&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">               <span class="p">.</span> <span class="err">设置积极按钮</span> <span class="p">(</span><span class="s2">&#34;确定&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">                <span class="n">os.execute</span><span class="p">(</span><span class="s2">&#34;pm clear &#34;</span><span class="o">..</span><span class="n">this.packageName</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">                <span class="err">退出程序</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">                <span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">               <span class="p">.</span> <span class="err">设置消极按钮</span> <span class="p">(</span><span class="s2">&#34;取消&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">                <span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">              <span class="p">.</span> <span class="err">显示</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">             <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">           <span class="p">)</span>
+</span></span><span class="line"><span class="cl">          <span class="p">.</span> <span class="err">设置消极按钮</span> <span class="p">(</span><span class="s2">&#34;取消&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">          <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">      <span class="n">math.randomseed</span><span class="p">(</span><span class="n">tonumber</span><span class="p">(</span><span class="n">tostring</span><span class="p">(</span><span class="n">os.time</span><span class="p">()):</span><span class="n">reverse</span><span class="p">():</span><span class="n">sub</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">6</span><span class="p">)))</span>
+</span></span><span class="line"><span class="cl">      <span class="err">退出按钮</span> <span class="p">[</span><span class="n">math.random</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">)]()</span>
+</span></span><span class="line"><span class="cl">      <span class="err">退出确认。</span><span class="n">show</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">return</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--历史记录</span>
+</span></span><span class="line"><span class="cl"><span class="n">lstads</span><span class="o">=</span><span class="s2">&#34;/data/data/&#34;</span><span class="o">..</span><span class="n">activity.getPackageName</span><span class="p">()</span><span class="o">..</span><span class="s2">&#34;/lst.lua&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="n">lstwebads</span><span class="o">=</span><span class="s2">&#34;/data/data/&#34;</span><span class="o">..</span><span class="n">activity.getPackageName</span><span class="p">()</span><span class="o">..</span><span class="s2">&#34;/lstweb.lua&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="c1">--2. 序列化</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">slz</span><span class="p">(</span><span class="n">obj</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">lua</span> <span class="o">=</span> <span class="s2">&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">t</span> <span class="o">=</span> <span class="n">type</span><span class="p">(</span><span class="n">obj</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;number&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">lua</span> <span class="o">=</span> <span class="n">lua</span> <span class="o">..</span> <span class="n">obj</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">elseif</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;boolean&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">lua</span> <span class="o">=</span> <span class="n">lua</span> <span class="o">..</span> <span class="n">tostring</span><span class="p">(</span><span class="n">obj</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">elseif</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;string&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">lua</span> <span class="o">=</span> <span class="n">lua</span> <span class="o">..</span> <span class="n">string.format</span><span class="p">(</span><span class="s2">&#34;%q&#34;</span><span class="p">,</span> <span class="n">obj</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">elseif</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;table&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">lua</span> <span class="o">=</span> <span class="n">lua</span> <span class="o">..</span> <span class="s2">&#34;{</span><span class="se">\n</span><span class="s2">&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">for</span> <span class="n">k</span><span class="p">,</span> <span class="n">v</span> <span class="kr">in</span> <span class="n">pairs</span><span class="p">(</span><span class="n">obj</span><span class="p">)</span> <span class="kr">do</span>
+</span></span><span class="line"><span class="cl">      <span class="n">lua</span> <span class="o">=</span> <span class="n">lua</span> <span class="o">..</span> <span class="s2">&#34;[&#34;</span> <span class="o">..</span> <span class="n">slz</span><span class="p">(</span><span class="n">k</span><span class="p">)</span> <span class="o">..</span> <span class="s2">&#34;]=&#34;</span> <span class="o">..</span> <span class="n">slz</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="o">..</span> <span class="s2">&#34;,</span><span class="se">\n</span><span class="s2">&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">local</span> <span class="n">metatable</span> <span class="o">=</span> <span class="n">getmetatable</span><span class="p">(</span><span class="n">obj</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">if</span> <span class="n">metatable</span> <span class="o">~=</span> <span class="kc">nil</span> <span class="ow">and</span> <span class="n">type</span><span class="p">(</span><span class="n">metatable.__index</span><span class="p">)</span> <span class="o">==</span> <span class="s2">&#34;table&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">for</span> <span class="n">k</span><span class="p">,</span> <span class="n">v</span> <span class="kr">in</span> <span class="n">pairs</span><span class="p">(</span><span class="n">metatable.__index</span><span class="p">)</span> <span class="kr">do</span>
+</span></span><span class="line"><span class="cl">        <span class="n">lua</span> <span class="o">=</span> <span class="n">lua</span> <span class="o">..</span> <span class="s2">&#34;[&#34;</span> <span class="o">..</span> <span class="n">slz</span><span class="p">(</span><span class="n">k</span><span class="p">)</span> <span class="o">..</span> <span class="s2">&#34;]=&#34;</span> <span class="o">..</span> <span class="n">slz</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="o">..</span> <span class="s2">&#34;,</span><span class="se">\n</span><span class="s2">&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="n">lua</span> <span class="o">=</span> <span class="n">lua</span> <span class="o">..</span> <span class="s2">&#34;}&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">elseif</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;nil&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">return</span> <span class="kc">nil</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">    <span class="n">error</span><span class="p">(</span><span class="s2">&#34;can not serialize a &#34;</span> <span class="o">..</span> <span class="n">t</span> <span class="o">..</span> <span class="s2">&#34; type.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">lua</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">rslz</span><span class="p">(</span><span class="n">lua</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">t</span> <span class="o">=</span> <span class="n">type</span><span class="p">(</span><span class="n">lua</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;nil&#34;</span> <span class="ow">or</span> <span class="n">lua</span> <span class="o">==</span> <span class="s2">&#34;&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">return</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">elseif</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;number&#34;</span> <span class="ow">or</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;string&#34;</span> <span class="ow">or</span> <span class="n">t</span> <span class="o">==</span> <span class="s2">&#34;boolean&#34;</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">lua</span> <span class="o">=</span> <span class="n">tostring</span><span class="p">(</span><span class="n">lua</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">    <span class="n">error</span><span class="p">(</span><span class="s2">&#34;can not unserialize a &#34;</span> <span class="o">..</span> <span class="n">t</span> <span class="o">..</span> <span class="s2">&#34; type.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="n">lua</span> <span class="o">=</span> <span class="s2">&#34;return &#34;</span> <span class="o">..</span> <span class="n">lua</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">func</span> <span class="o">=</span> <span class="n">loadstring</span><span class="p">(</span><span class="n">lua</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span> <span class="n">func</span> <span class="o">==</span> <span class="kc">nil</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">return</span> <span class="kc">nil</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">func</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--3. 历史记录框布局</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">hstshow</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">hstlayout</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">LinearLayout</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">orientation</span><span class="o">=</span><span class="s2">&#34;1&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">gravity</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_height</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">TextView</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">text</span><span class="o">=</span><span class="s2">&#34;&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">gravity</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">textSize</span><span class="o">=</span><span class="s2">&#34;0sp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">background</span><span class="o">=</span><span class="s2">&#34;#000000&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_height</span><span class="o">=</span><span class="s2">&#34;15dp&#34;</span><span class="p">,},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">TextView</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">text</span><span class="o">=</span><span class="s2">&#34;历史记录&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">gravity</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">textSize</span><span class="o">=</span><span class="s2">&#34;30sp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">textStyle</span><span class="o">=</span><span class="s2">&#34;bold&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_height</span><span class="o">=</span><span class="s2">&#34;50dp&#34;</span><span class="p">,},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">ListView</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">id</span><span class="o">=</span><span class="s2">&#34;hlst&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">items</span><span class="o">=</span><span class="n">lst</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;fill&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_height</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--##功能函数##</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--1. 读取历史文件</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">read_hst</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">import</span> <span class="s2">&#34;java.io.File&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="n">File</span><span class="p">(</span><span class="n">lstads</span><span class="p">).</span><span class="n">createNewFile</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">slst</span><span class="o">=</span><span class="n">io.open</span><span class="p">(</span><span class="n">lstads</span><span class="p">):</span><span class="n">read</span><span class="p">(</span><span class="s2">&#34;*a&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">File</span><span class="p">(</span><span class="n">lstwebads</span><span class="p">).</span><span class="n">createNewFile</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">slstweb</span><span class="o">=</span><span class="n">io.open</span><span class="p">(</span><span class="n">lstwebads</span><span class="p">):</span><span class="n">read</span><span class="p">(</span><span class="s2">&#34;*a&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--转换成 table</span>
+</span></span><span class="line"><span class="cl">  <span class="n">lst</span><span class="o">=</span><span class="n">rslz</span><span class="p">(</span><span class="n">slst</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">lstweb</span><span class="o">=</span><span class="n">rslz</span><span class="p">(</span><span class="n">slstweb</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--2. 新网页加入历史记录</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">add_hst</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span> <span class="n">string.len</span><span class="p">(</span><span class="n">webView.getTitle</span><span class="p">())</span><span class="o">&lt;=</span><span class="mi">300</span> <span class="kr">then</span><span class="c1">--粗略过掉无效标题</span>
+</span></span><span class="line"><span class="cl">    <span class="n">newtitle</span><span class="o">=</span><span class="n">webView.getTitle</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="n">newurl</span><span class="o">=</span><span class="n">webView.getUrl</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="n">table.insert</span><span class="p">(</span><span class="n">lst</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="n">newtitle</span><span class="p">)</span> <span class="c1">--标题表添加新标题</span>
+</span></span><span class="line"><span class="cl">    <span class="n">table.insert</span><span class="p">(</span><span class="n">lstweb</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="n">newurl</span><span class="p">)</span> <span class="c1">--网址表添加新网址</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--3. 存储历史文件</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">save_hst</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--转换成 string</span>
+</span></span><span class="line"><span class="cl">  <span class="n">slst</span><span class="o">=</span><span class="n">slz</span><span class="p">(</span><span class="n">lst</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">slstweb</span><span class="o">=</span><span class="n">slz</span><span class="p">(</span><span class="n">lstweb</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--保存</span>
+</span></span><span class="line"><span class="cl">  <span class="n">file</span><span class="o">=</span><span class="n">io.open</span><span class="p">(</span><span class="n">lstads</span><span class="p">,</span><span class="s2">&#34;w+&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.output</span><span class="p">(</span><span class="n">file</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.write</span><span class="p">(</span><span class="n">slst</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.flush</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.close</span><span class="p">(</span><span class="n">file</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">file</span><span class="o">=</span><span class="n">io.open</span><span class="p">(</span><span class="n">lstwebads</span><span class="p">,</span><span class="s2">&#34;w+&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.output</span><span class="p">(</span><span class="n">file</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.write</span><span class="p">(</span><span class="n">slstweb</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.flush</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">io.close</span><span class="p">(</span><span class="n">file</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--4. 显示历史记录框</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">show_hst</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">hstshow</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">hl</span><span class="o">=</span><span class="n">AlertDialog.Builder</span><span class="p">(</span><span class="n">activity</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">setView</span><span class="p">(</span><span class="n">loadlayout</span><span class="p">(</span><span class="n">hstlayout</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">setNegativeButton</span><span class="p">(</span><span class="s2">&#34;取消&#34;</span><span class="p">,</span><span class="n">DialogInterface.OnClickListener</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">onClick</span><span class="o">=</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="p">})</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">create</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">hl.show</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">hlst.onItemClick</span><span class="o">=</span><span class="kr">function</span><span class="p">(</span><span class="n">l</span><span class="p">,</span><span class="n">v</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="err">加载网页</span> <span class="p">(</span><span class="n">lstweb</span><span class="p">[</span><span class="n">b</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">    <span class="n">hl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="n">hlst.onItemLongClick</span><span class="o">=</span><span class="kr">function</span><span class="p">(</span><span class="n">l</span><span class="p">,</span><span class="n">v</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">hl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="err">对话框</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span> <span class="err">设置消息</span> <span class="p">(</span><span class="s2">&#34;是否删除记录？&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span> <span class="err">设置消极按钮</span> <span class="p">(</span><span class="s2">&#34;取消&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">show_hst</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span> <span class="err">设置积极按钮</span> <span class="p">(</span><span class="s2">&#34;确定&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">table.remove</span><span class="p">(</span><span class="n">lst</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="n">table.remove</span><span class="p">(</span><span class="n">lstweb</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="n">save_hst</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">show_hst</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span> <span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span> <span class="err">显示</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">return</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="c1">--5. 清除缓存</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">clr</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--导入 File 类</span>
+</span></span><span class="line"><span class="cl">  <span class="n">import</span> <span class="s2">&#34;java.io.File&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--显示多选框</span>
+</span></span><span class="line"><span class="cl">  <span class="n">items</span><span class="o">=</span><span class="p">{</span><span class="s2">&#34;浏览记录&#34;</span><span class="p">,</span><span class="s2">&#34;缓存文件&#34;</span><span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="err">多选对话框</span><span class="o">=</span><span class="n">AlertDialog.Builder</span><span class="p">(</span><span class="n">this</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">setTitle</span><span class="p">(</span><span class="s2">&#34;清除记录&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--勾选后执行</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">setPositiveButton</span><span class="p">(</span><span class="s2">&#34;确定&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">if</span> <span class="n">clearhistory</span><span class="o">==</span><span class="mi">1</span> <span class="ow">and</span> <span class="n">clearall</span><span class="o">==</span><span class="mi">1</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="n">File</span><span class="p">(</span><span class="n">lstads</span><span class="p">).</span><span class="n">delete</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">File</span><span class="p">(</span><span class="n">lstwebads</span><span class="p">).</span><span class="n">delete</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">lst</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">      <span class="n">lstweb</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">      <span class="n">os.execute</span><span class="p">(</span><span class="s2">&#34;pm clear &#34;</span><span class="o">..</span><span class="n">activity.getPackageName</span><span class="p">())</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">elseif</span> <span class="n">clearhistory</span><span class="o">==</span><span class="mi">0</span> <span class="ow">and</span> <span class="n">clearall</span><span class="o">==</span><span class="mi">1</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="n">os.execute</span><span class="p">(</span><span class="s2">&#34;pm clear &#34;</span><span class="o">..</span><span class="n">activity.getPackageName</span><span class="p">())</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">elseif</span> <span class="n">clearhistory</span><span class="o">==</span><span class="mi">1</span> <span class="ow">and</span> <span class="n">clearall</span><span class="o">==</span><span class="mi">0</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="n">File</span><span class="p">(</span><span class="n">lstads</span><span class="p">).</span><span class="n">delete</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">File</span><span class="p">(</span><span class="n">lstwebads</span><span class="p">).</span><span class="n">delete</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">lst</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">      <span class="n">lstweb</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">else</span> <span class="kr">return</span> <span class="kc">nil</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">--选择事件</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">setMultiChoiceItems</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="kc">nil</span><span class="p">,{</span> <span class="n">onClick</span><span class="o">=</span><span class="kr">function</span><span class="p">(</span><span class="n">v</span><span class="p">,</span><span class="n">p</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="c1">--清除历史</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">if</span> <span class="n">p</span><span class="o">==</span><span class="mi">0</span> <span class="kr">then</span> <span class="n">clearhistory</span><span class="o">=</span><span class="mi">1</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">      <span class="c1">--清除缓存</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">if</span> <span class="n">p</span><span class="o">==</span><span class="mi">1</span> <span class="kr">then</span> <span class="n">clearall</span><span class="o">=</span><span class="mi">1</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span><span class="p">})</span>
+</span></span><span class="line"><span class="cl">  <span class="err">多选对话框。</span><span class="n">show</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">  <span class="n">clearhistory</span><span class="o">=</span><span class="mi">0</span>
+</span></span><span class="line"><span class="cl">  <span class="n">clearall</span><span class="o">=</span><span class="mi">0</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">activity.getWindow</span><span class="p">().</span><span class="n">setSoftInputMode</span><span class="p">(</span><span class="n">WindowManager.LayoutParams</span><span class="p">.</span><span class="n">SOFT_INPUT_ADJUST_RESIZE</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="c1">--11. 长按弹窗</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">popwin</span><span class="p">(</span><span class="n">od</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">win1</span><span class="o">=</span><span class="s2">&#34;向上移动&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">win2</span><span class="o">=</span><span class="s2">&#34;编辑&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">win3</span><span class="o">=</span><span class="s2">&#34;向下移动&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">wina</span><span class="o">=</span><span class="p">{</span><span class="n">win1</span><span class="p">,</span><span class="n">win2</span><span class="p">,</span><span class="n">win3</span><span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">winb</span><span class="o">=</span><span class="p">{</span><span class="n">win2</span><span class="p">,</span><span class="n">win3</span><span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">winc</span><span class="o">=</span><span class="p">{</span><span class="n">win1</span><span class="p">,</span><span class="n">win2</span><span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span> <span class="n">od</span><span class="o">==</span><span class="mi">1</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">win</span><span class="o">=</span><span class="n">winb</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">elseif</span> <span class="n">od</span><span class="o">==#</span><span class="n">fav</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">win</span><span class="o">=</span><span class="n">winc</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">    <span class="n">win</span><span class="o">=</span><span class="n">wina</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="n">winlayout</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">LinearLayout</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">orientation</span><span class="o">=</span><span class="s2">&#34;vertical&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span><span class="n">ListView</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">id</span><span class="o">=</span><span class="s2">&#34;winlv&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">items</span><span class="o">=</span><span class="n">win</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;fill_parent&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_height</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,},</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="n">winl</span><span class="o">=</span><span class="n">AlertDialog.Builder</span><span class="p">(</span><span class="n">activity</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">setView</span><span class="p">(</span><span class="n">loadlayout</span><span class="p">(</span><span class="n">winlayout</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">create</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">winl.show</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">winlv.onItemClick</span><span class="o">=</span><span class="kr">function</span><span class="p">(</span><span class="n">l</span><span class="p">,</span><span class="n">v</span><span class="p">,</span><span class="n">c</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">if</span> <span class="n">win</span><span class="p">[</span><span class="n">b</span><span class="p">]</span><span class="o">==</span><span class="n">win1</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="n">fl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">upfav</span><span class="p">(</span><span class="n">od</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">elseif</span> <span class="n">win</span><span class="p">[</span><span class="n">b</span><span class="p">]</span><span class="o">==</span><span class="n">win2</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="n">fl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">show_efav</span><span class="p">(</span><span class="n">od</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">elseif</span> <span class="n">win</span><span class="p">[</span><span class="n">b</span><span class="p">]</span><span class="o">==</span><span class="n">win3</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="n">fl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">downfav</span><span class="p">(</span><span class="n">od</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="n">winl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">downfav</span><span class="p">(</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span> <span class="n">b</span><span class="o">~=#</span><span class="n">fav</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">dfav</span><span class="o">=</span><span class="n">fav</span><span class="p">[</span><span class="n">b</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">dfavweb</span><span class="o">=</span><span class="n">favweb</span><span class="p">[</span><span class="n">b</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">    <span class="n">table.remove</span><span class="p">(</span><span class="n">fav</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">table.remove</span><span class="p">(</span><span class="n">favweb</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">table.insert</span><span class="p">(</span><span class="n">fav</span><span class="p">,</span><span class="n">b</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span><span class="n">dfav</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">table.insert</span><span class="p">(</span><span class="n">favweb</span><span class="p">,</span><span class="n">b</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span><span class="n">dfavweb</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="n">save_fav</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">show_fav</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">--加入收藏</span>
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">getAllData</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">data</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">for</span> <span class="n">d</span> <span class="kr">in</span> <span class="n">each</span><span class="p">(</span><span class="n">this.getApplicationContext</span><span class="p">().</span><span class="n">getSharedPreferences</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="mi">0</span><span class="p">).</span><span class="n">getAll</span><span class="p">().</span><span class="n">entrySet</span><span class="p">())</span> <span class="kr">do</span>
+</span></span><span class="line"><span class="cl">    <span class="n">data</span><span class="p">[</span><span class="n">d.getKey</span><span class="p">()]</span><span class="o">=</span><span class="n">d.getValue</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">data</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">getData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">key</span><span class="p">,</span><span class="n">MzI1NTI3MzI</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">data</span><span class="o">=</span><span class="n">this.getApplicationContext</span><span class="p">().</span><span class="n">getSharedPreferences</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="mi">0</span><span class="p">).</span><span class="n">getString</span><span class="p">(</span><span class="n">key</span><span class="p">,</span><span class="kc">nil</span><span class="p">)</span><span class="c1">--325-5273-2</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">data</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">putData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">key</span><span class="p">,</span><span class="n">value</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">this.getApplicationContext</span><span class="p">().</span><span class="n">getSharedPreferences</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="mi">0</span><span class="p">).</span><span class="n">edit</span><span class="p">().</span><span class="n">putString</span><span class="p">(</span><span class="n">key</span><span class="p">,</span><span class="n">value</span><span class="p">).</span><span class="n">apply</span><span class="p">()</span><span class="c1">--3255-2732</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">removeData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">key</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">this.getApplicationContext</span><span class="p">().</span><span class="n">getSharedPreferences</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="mi">32552732</span><span class="o">*</span><span class="mi">0</span><span class="p">).</span><span class="n">edit</span><span class="p">().</span><span class="n">remove</span><span class="p">(</span><span class="n">key</span><span class="p">).</span><span class="n">apply</span><span class="p">()</span><span class="cm">--[[3(2)6?5{2}2[7]32]]</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">listKeys</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">keys</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">  <span class="n">emmm</span><span class="o">=</span><span class="mi">24411107</span><span class="o">+</span><span class="mi">8236000</span><span class="o">+</span><span class="mi">236</span><span class="o">-</span><span class="mi">95463</span><span class="o">+</span><span class="mi">852</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">for</span> <span class="n">k</span><span class="p">,</span><span class="n">v</span> <span class="kr">in</span> <span class="n">pairs</span><span class="p">(</span><span class="n">data</span><span class="p">)</span> <span class="kr">do</span>
+</span></span><span class="line"><span class="cl">    <span class="n">keys</span><span class="p">[</span><span class="o">#</span><span class="n">keys</span><span class="o">+</span><span class="mi">1</span><span class="p">]</span><span class="o">=</span><span class="n">k</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">keys</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">listValues</span><span class="p">(</span><span class="n">data</span><span class="p">,</span><span class="n">MzI1NTI3MzI</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">values</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">for</span> <span class="n">k</span><span class="p">,</span><span class="n">v</span> <span class="kr">in</span> <span class="n">pairs</span><span class="p">(</span><span class="n">data</span><span class="p">)</span> <span class="kr">do</span>
+</span></span><span class="line"><span class="cl">    <span class="n">values</span><span class="p">[</span><span class="o">#</span><span class="n">values</span><span class="o">+</span><span class="mi">1</span><span class="p">]</span><span class="o">=</span><span class="n">v</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="n">q</span><span class="o">=</span><span class="s2">&#34;325 52732&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">values</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">adapterData</span><span class="p">(</span><span class="n">data</span><span class="p">,</span><span class="n">jdpuk</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">adpd</span><span class="o">=</span><span class="p">{}</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">for</span> <span class="n">d</span> <span class="kr">in</span> <span class="n">pairs</span><span class="p">(</span><span class="n">data</span><span class="p">)</span> <span class="kr">do</span>
+</span></span><span class="line"><span class="cl">    <span class="n">table.insert</span><span class="p">(</span><span class="n">adpd</span><span class="p">,{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">text</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="n">Text</span><span class="o">=</span><span class="n">tostring</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="n">d</span><span class="p">]),</span>
+</span></span><span class="line"><span class="cl">      <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="p">})</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">return</span> <span class="n">adpd</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kd">local</span> <span class="n">listlayout</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="n">LinearLayout</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">orientation</span><span class="o">=</span><span class="s2">&#34;1&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;fill&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">layout_height</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">ListView</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">id</span><span class="o">=</span><span class="s2">&#34;list&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_marginTop</span><span class="o">=</span><span class="s2">&#34;10dp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">--items={&#34;3&#34;,&#34;2&#34;,&#34;5&#34;,&#34;5&#34;,&#34;2&#34;,&#34;7&#34;,&#34;3&#34;,&#34;2&#34;},</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;fill&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_height</span><span class="o">=</span><span class="s2">&#34;wrap_content&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kd">local</span> <span class="n">inputlayout</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="n">LinearLayout</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">orientation</span><span class="o">=</span><span class="s2">&#34;vertical&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">Focusable</span><span class="o">=</span><span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">FocusableInTouchMode</span><span class="o">=</span><span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">EditText</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">id</span><span class="o">=</span><span class="s2">&#34;edit&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">hint</span><span class="o">=</span><span class="s2">&#34;Input here&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_marginTop</span><span class="o">=</span><span class="s2">&#34;5dp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;80%w&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">--uh=&#34;32552732&#34;,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_gravity</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="p">},</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kd">local</span> <span class="n">input2layout</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="n">LinearLayout</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">orientation</span><span class="o">=</span><span class="s2">&#34;vertical&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">Focusable</span><span class="o">=</span><span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="n">FocusableInTouchMode</span><span class="o">=</span><span class="kc">true</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">EditText</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">id</span><span class="o">=</span><span class="s2">&#34;edit1&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">hint</span><span class="o">=</span><span class="s2">&#34;Input here&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">--numa=&#34;32552&#34;,</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">--aaa=&#34;bbb&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_marginTop</span><span class="o">=</span><span class="s2">&#34;5dp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;80%w&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_gravity</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="p">},</span>
+</span></span><span class="line"><span class="cl">  <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">EditText</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">id</span><span class="o">=</span><span class="s2">&#34;edit2&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">--ccc=&#34;ddd&#34;,</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">--numb=&#34;732&#34;,</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">--eee=&#34;fff&#34;,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">hint</span><span class="o">=</span><span class="s2">&#34;Input here&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_margiTop</span><span class="o">=</span><span class="s2">&#34;5dp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;80%w&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_gravity</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="p">},</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">showDataDialog</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">title</span><span class="p">,</span><span class="n">jdpuk</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">data</span><span class="o">=</span><span class="n">getAllData</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">keys</span><span class="o">=</span><span class="n">listKeys</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">values</span><span class="o">=</span><span class="n">listValues</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="n">item</span><span class="o">=</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="n">LinearLayout</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">orientation</span><span class="o">=</span><span class="s2">&#34;vertical&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;fill&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="n">TextView</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">id</span><span class="o">=</span><span class="s2">&#34;text&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">textSize</span><span class="o">=</span><span class="s2">&#34;16sp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_margin</span><span class="o">=</span><span class="s2">&#34;10dp&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;fill&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_width</span><span class="o">=</span><span class="s2">&#34;70%w&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="n">layout_gravity</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">adpd</span><span class="o">=</span><span class="n">adapterData</span><span class="p">(</span><span class="n">values</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">items</span><span class="o">=</span><span class="n">LuaAdapter</span><span class="p">(</span><span class="n">this</span><span class="p">,</span><span class="n">adpd</span><span class="p">,</span><span class="n">item</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">dlb</span><span class="o">=</span><span class="err">对话框</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">dlb</span><span class="p">.</span> <span class="err">设置标题</span> <span class="p">(</span><span class="n">title</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">local</span> <span class="n">dl</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span> <span class="o">#</span><span class="n">keys</span><span class="o">&gt;</span><span class="mi">0</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">dlb.setView</span><span class="p">(</span><span class="n">loadlayout</span><span class="p">(</span><span class="n">listlayout</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">    <span class="n">list.setDividerHeight</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">list.Adapter</span><span class="o">=</span><span class="n">items</span>
+</span></span><span class="line"><span class="cl">    <span class="n">list.onItemClick</span><span class="o">=</span><span class="kr">function</span><span class="p">(</span><span class="n">adp</span><span class="p">,</span><span class="n">view</span><span class="p">,</span><span class="n">position</span><span class="p">,</span><span class="n">id</span><span class="p">)</span><span class="c1">--3255273 2</span>
+</span></span><span class="line"><span class="cl">      <span class="n">webView.loadUrl</span><span class="p">(</span><span class="n">keys</span><span class="p">[</span><span class="n">id</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">if</span> <span class="n">dl</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">        <span class="n">dl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="n">list.onItemLongClick</span><span class="o">=</span><span class="kr">function</span><span class="p">(</span><span class="n">adp</span><span class="p">,</span><span class="n">view</span><span class="p">,</span><span class="n">pos</span><span class="p">,</span><span class="n">id</span><span class="p">)</span><span class="c1">--325 52732</span>
+</span></span><span class="line"><span class="cl">      <span class="err">对话框</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="p">.</span> <span class="err">设置标题</span> <span class="p">(</span><span class="n">title</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="p">.</span><span class="n">setView</span><span class="p">(</span><span class="n">loadlayout</span><span class="p">(</span><span class="n">input2layout</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">      <span class="p">.</span> <span class="err">设置积极按钮</span> <span class="p">(</span><span class="s2">&#34;保存&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span><span class="c1">--32552732</span>
+</span></span><span class="line"><span class="cl">        <span class="kr">if</span> <span class="ow">not</span><span class="p">(</span><span class="n">edit1.text</span><span class="o">==</span><span class="s2">&#34;&#34;</span><span class="p">)</span> <span class="ow">and</span> <span class="ow">not</span><span class="p">(</span><span class="n">edit2.text</span><span class="o">==</span><span class="s2">&#34;&#34;</span><span class="p">)</span> <span class="ow">or</span> <span class="mi">3255</span><span class="o">==</span><span class="mi">2732</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">          <span class="n">removeData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">keys</span><span class="p">[</span><span class="n">id</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">          <span class="n">putData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">edit2.text</span><span class="p">,</span><span class="n">edit1.text</span><span class="p">)</span><span class="c1">--32552732</span>
+</span></span><span class="line"><span class="cl">          <span class="kr">if</span> <span class="n">dl</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">            <span class="n">dl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">            <span class="n">showDataDialog</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">title</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">          <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">        <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">          <span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;请填写所有字段&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="p">.</span> <span class="err">设置消极按钮</span> <span class="p">(</span><span class="s2">&#34;取消&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="p">.</span> <span class="err">设置中立按钮</span> <span class="p">(</span><span class="s2">&#34;删除&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">        <span class="n">removeData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">keys</span><span class="p">[</span><span class="n">id</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">        <span class="n">items.remove</span><span class="p">(</span><span class="n">pos</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="n">table.remove</span><span class="p">(</span><span class="n">keys</span><span class="p">,</span><span class="n">id</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="n">table.remove</span><span class="p">(</span><span class="n">values</span><span class="p">,</span><span class="n">id</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="kr">if</span> <span class="o">#</span><span class="n">adpd</span><span class="o">&lt;=</span><span class="mi">0</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">          <span class="kr">if</span> <span class="n">dl</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">            <span class="n">dl.dismiss</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">            <span class="n">showDataDialog</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">title</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">          <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">        <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="p">.</span> <span class="err">显示</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">      <span class="n">edit1.setHint</span><span class="p">(</span><span class="s2">&#34;标题&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="n">edit2.setHint</span><span class="p">(</span><span class="s2">&#34;链接&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="n">edit1.setText</span><span class="p">(</span><span class="n">values</span><span class="p">[</span><span class="n">id</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">      <span class="n">edit2.setText</span><span class="p">(</span><span class="n">keys</span><span class="p">[</span><span class="n">id</span><span class="p">])</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">return</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">    <span class="n">dlb</span><span class="p">.</span> <span class="err">设置消息</span> <span class="p">(</span><span class="s2">&#34;没有收藏&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="n">dlb</span><span class="p">.</span> <span class="err">设置积极按钮</span> <span class="p">(</span><span class="s2">&#34;新建收藏&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span><span class="n">addDataDialog</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="s2">&#34;新建收藏&#34;</span><span class="p">)</span><span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">dl</span><span class="o">=</span><span class="n">dlb.show</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nf">addDataDialog</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">title</span><span class="p">,</span><span class="n">value</span><span class="p">,</span><span class="n">key</span><span class="p">)</span><span class="c1">--32552732</span>
+</span></span><span class="line"><span class="cl">  <span class="err">对话框</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span> <span class="err">设置标题</span> <span class="p">(</span><span class="n">title</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span><span class="n">setView</span><span class="p">(</span><span class="n">loadlayout</span><span class="p">(</span><span class="n">input2layout</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span> <span class="err">设置积极按钮</span> <span class="p">(</span><span class="s2">&#34;保存&#34;</span><span class="p">,</span><span class="kr">function</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">if</span> <span class="ow">not</span><span class="p">(</span><span class="n">edit1.text</span><span class="o">==</span><span class="s2">&#34;&#34;</span><span class="p">)</span> <span class="ow">and</span> <span class="ow">not</span><span class="p">(</span><span class="n">edit2.text</span><span class="o">==</span><span class="s2">&#34;&#34;</span><span class="p">)</span> <span class="ow">or</span> <span class="mi">325</span><span class="o">==</span><span class="mi">52732</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">if</span> <span class="ow">not</span> <span class="n">getData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">edit2.text</span><span class="p">)</span> <span class="kr">then</span>
+</span></span><span class="line"><span class="cl">        <span class="n">putData</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">edit2.text</span><span class="p">,</span><span class="n">edit1.text</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">        <span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;该链接已存在&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="n">addDataDialog</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">title</span><span class="p">,</span><span class="n">edit1.text</span><span class="p">,</span><span class="n">edit2.text</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">else</span>
+</span></span><span class="line"><span class="cl">      <span class="err">弹出消息</span> <span class="p">(</span><span class="s2">&#34;请填写所有字段&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">      <span class="n">addDataDialog</span><span class="p">(</span><span class="n">name</span><span class="p">,</span><span class="n">title</span><span class="p">,</span><span class="n">edit1.text</span><span class="p">,</span><span class="n">edit2.text</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span> <span class="err">设置消极按钮</span> <span class="p">(</span><span class="s2">&#34;取消&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">.</span> <span class="err">显示</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="n">edit1.setHint</span><span class="p">(</span><span class="s2">&#34;标题&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="n">edit2.setHint</span><span class="p">(</span><span class="s2">&#34;链接&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span><span class="p">(</span><span class="n">value</span><span class="p">)</span><span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">edit1.setText</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">if</span><span class="p">(</span><span class="n">key</span><span class="p">)</span><span class="kr">then</span>
+</span></span><span class="line"><span class="cl">    <span class="n">edit2.setText</span><span class="p">(</span><span class="n">key</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">end</span>
+</span></span><span class="line"><span class="cl"><span class="kr">end</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
 </item>
 <item>
   <title>caddy-两步搭建超简单云盘</title>
@@ -82,7 +1624,152 @@
   <pubDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</pubDate>
   <author>xucong</author>
   <guid>https://shiqustudio.github.io/caddy-file/</guid>
-  <description><![CDATA[安装 1 2 cd ~ curl https://getcaddy.com | bash -s personal http.filemanager 编写配置文件 1 vim Caddyfile 内容如下： 1 2 3 4 5 :80 { filemanager / /sdcard timeouts none gzip } 这里的 8080 端口号可以随意指定，如果在手机 termux 等搭建，由于手机权]]></description>
+  <description><![CDATA[<h2 id="安装">安装</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">cd</span> ~
+</span></span><span class="line"><span class="cl">curl https://getcaddy.com <span class="p">|</span> bash -s personal http.filemanager
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="编写配置文件">编写配置文件</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vim Caddyfile
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>内容如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">:80 {
+</span></span><span class="line"><span class="cl">filemanager / /sdcard
+</span></span><span class="line"><span class="cl">timeouts none
+</span></span><span class="line"><span class="cl">gzip
+</span></span><span class="line"><span class="cl">}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>这里的 8080 端口号可以随意指定，如果在手机 termux 等搭建，由于手机权限比较低，所以一般设置 1024 以上的端口。<code>80</code>端口可以直接通过 ip 访问。如<code>118.24.217.167</code></p>
+<p>如果用域名，先在域名服务商解析 ip, 再配置文件如下</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">https://pan.lruihao.cn <span class="o">{</span>
+</span></span><span class="line"><span class="cl">filemanager / /sdcard
+</span></span><span class="line"><span class="cl">timeouts none
+</span></span><span class="line"><span class="cl">tls admin@lruihao.cn
+</span></span><span class="line"><span class="cl">gzip
+</span></span><span class="line"><span class="cl"><span class="o">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>指定邮箱是为了申请 ssl, 实现 https.</p>
+<h2 id="demohttpspanlruihaocn"><a href="https://pan.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo</a></h2>
+<p>启动 caddy</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">caddy
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>账号密码默认<code>admin</code>
+</p>
+<h2 id="设置定时器启动-caddy好像没用我不会">设置定时器启动 caddy（好像没用，我不会）</h2>
+<p>为了断开 xshell 后 caddy 还在运行。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">vim run.sh
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>编辑以下内容</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
+</span></span></span><span class="line"><span class="cl"><span class="cp"></span>caddy
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>加权</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">chmod +x run.sh
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>设置任务
+<a href="https://www.jianshu.com/p/95d1473859d1"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">crontab -e
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>加入</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">* * * * * /root/run.sh
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">service crond start
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="heading">？？？</h2>
+<p>最后误打误撞开启了 caddy<br>
+昨晚双十一要抢裤子，加上湘潭天气太 tm 冷了，就上床了，接着用 termux 远程连接服务器继续搞。结果连接的时候命令输错了-_-!<br>
+本来是<code>ssh root@118.24.217.167</code>再输入密码就可以了。这次搞错了多写了个<code>-T</code>, 然后运行<code>caddy</code>,<code>ctrl+c</code> 再断开，意外地发现 filemanager 竟然可以访问了。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ssh -T root@118.24.217.167
+</span></span><span class="line"><span class="cl">caddy
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Ctrl+c
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
 </item>
 <item>
   <title>windows 上搭建 web 服务器</title>
@@ -90,7 +1777,35 @@
   <pubDate>Fri, 26 Oct 2018 21:56:18 &#43;0000</pubDate>
   <author>xucong</author>
   <guid>https://shiqustudio.github.io/web-server-win/</guid>
-  <description><![CDATA[我用的 win10 打开控制面板 选择并进入“程序”，双击“启用或关闭 Windows 服务”，在弹出的窗口中选择“Internet Information Services”下面所有地选项，点]]></description>
+  <description><![CDATA[<blockquote>
+<p>我用的 win10</p>
+</blockquote>
+<h3 id="打开控制面板">打开控制面板</h3>
+<p>选择并进入“程序”，双击“启用或关闭 Windows 服务”，在弹出的窗口中选择“Internet Information Services”下面所有地选项，点击确定后，开始更新服务。<br>
+<figure><a class="lightgallery" href="/web-server-win/images/1.png" data-thumbnail="/web-server-win/images/1.png" data-sub-html="<h2>打开控制面板</h2><p>打开控制面板</p>"></a><figcaption class="image-caption">打开控制面板</figcaption>
+  </figure></p>
+<h3 id="查看">查看</h3>
+<p>更新完成后，打开浏览器，输入<code>http://localhost</code>或者<code>127.0.0.1</code>回车，如果此时出现 IIS7 欢迎界面，说明 Web 服务器已经搭建成功。<br>
+<figure><a class="lightgallery" href="/web-server-win/images/2.png" data-thumbnail="/web-server-win/images/2.png" data-sub-html="<h2>查看</h2><p>查看</p>"></a><figcaption class="image-caption">查看</figcaption>
+  </figure></p>
+<h3 id="网站设置">网站设置</h3>
+<p>当 web 服务器搭建成功后，我们下一步所要做的就是把我们开发的网站安装到 Web 服务器的目录中。一般情况下，当 Web 服务器安装完成后，会创建路径<code>%系统根目录%inetpub/wwwroot</code>，将我们开发的网站 COPY 到该路径下。即可实现本地访问该网站。<br>
+</p>
+<p>也可以更改根目录，搜索 IIS，点击网站，Default Web Site，基本设置修改物理路径（<strong>默认站点名称不要改</strong>）<br>
+我这里改到了 hexo 的 public 相当于 hexo 部署在本地服务器<code>58.45.227.225</code><br>
+<figure><a class="lightgallery" href="/web-server-win/images/5.png" data-thumbnail="/web-server-win/images/5.png" data-sub-html="<h2>/web-server-win/images/5.png</h2><p>网站设置 1</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure>
+<figure><a class="lightgallery" href="/web-server-win/images/6.png" data-thumbnail="/web-server-win/images/6.png" data-sub-html="<h2>/web-server-win/images/6.png</h2><p>网站设置 2</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure>
+<figure><a class="lightgallery" href="/web-server-win/images/7.png" data-thumbnail="/web-server-win/images/7.png" data-sub-html="<h2>/web-server-win/images/7.png</h2><p>网站设置 3</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure></p>
+<h3 id="设置防火墙">设置防火墙</h3>
+<p>让局域网当其它计算机也能访问本地网站资源。具体方法：打开控制面板，选择“系统和安全”，点击“允许程序通过 Windows 防火墙”，在弹出的对话框中勾选“万维网服务 HTTP”右侧的两个复选框，最后点击确定退出。<br>
+<figure><a class="lightgallery" href="/web-server-win/images/4.png" data-thumbnail="/web-server-win/images/4.png" data-sub-html="<h2>/web-server-win/images/4.png</h2><p>设置防火墙</p>"></a><figcaption class="image-caption"></figcaption>
+  </figure></p>
+<p>在局域网中其它计算机上，打开浏览器就可以通过你电脑的 ip 地址访问了（手机也可以）<br>
+本地 ip 可以通过 cmd 用 ipconfig 查看</p>
+]]></description>
 </item>
 <item>
   <title>ttf 字体压缩</title>
@@ -98,7 +1813,52 @@
   <pubDate>Wed, 17 Oct 2018 21:38:06 &#43;0000</pubDate>
   <author>xucong</author>
   <guid>https://shiqustudio.github.io/web-font/</guid>
-  <description><![CDATA[安装 nodeJs 这个不多说，都有。 安装字蛛 输入命令 1 npm install font-spider -g 运行 安装成功之后就开始压缩了 我的 css 1 2 3 4 5 6 &lt;style type=&#34;text/css&#34;&gt; @font-face { font-family: MMT; src: url(&#34;font/MMT_579767_SOAJ0_0.ttf&#34;); } &lt;/style&gt; 生成新的字体库，命令行输]]></description>
+  <description><![CDATA[<h3 id="安装-nodejs">安装 nodeJs</h3>
+<p>这个不多说，都有。</p>
+<h3 id="安装字蛛">安装字蛛</h3>
+<p>输入命令</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">npm install font-spider -g
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="运行">运行</h3>
+<p>安装成功之后就开始压缩了
+</p>
+<p>我的 css</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="nt">style</span> <span class="nt">type</span><span class="o">=</span><span class="s2">&#34;text/css&#34;</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">@</span><span class="k">font-face</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">font-family</span><span class="o">:</span> <span class="nt">MMT</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">src</span><span class="o">:</span> <span class="nt">url</span><span class="o">(</span><span class="s2">&#34;font/MMT_579767_SOAJ0_0.ttf&#34;</span><span class="o">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;/</span><span class="nt">style</span><span class="o">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>生成新的字体库，命令行输入</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">font-spider C:\Users\李瑞豪、Desktop\love\index.html
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p></p>
+<p><a href="http://font-spider.org"target="_blank" rel="external nofollow noopener noreferrer">官网</a></p>
+]]></description>
 </item>
 <item>
   <title>流水线</title>
@@ -106,7 +1866,89 @@
   <pubDate>Tue, 09 Oct 2018 16:21:04 &#43;0000</pubDate>
   <author>xucong</author>
   <guid>https://shiqustudio.github.io/liushuixian/</guid>
-  <description><![CDATA[概念 流水线是指在程序执行时多条指令重叠进行操作的一种准并行处理实现技术。各种部件同时处理是针对不同指令而言的，它们可同时为多条指令的不同部分]]></description>
+  <description><![CDATA[<h2 id="概念">概念</h2>
+<p>流水线是指在程序执行时多条指令重叠进行操作的一种准并行处理实现技术。各种部件同时处理是针对不同指令而言的，它们可同时为多条指令的不同部分进行工作，以提高各部件的利用率和指令的平均执行速度。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">未使用流水线</th>
+<th style="text-align:center">使用流水线</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<p>流水线周期为执行时间最长的一段。</p>
+<h2 id="流水线计算公式">流水线计算公式</h2>
+<p></p>
+<p>首先使用理论公式，没有答案用实践公式。</p>
+<h2 id="流水线吞吐率计算">流水线吞吐率计算</h2>
+<p>流水线吞吐率是指单位时间内处理的任务的数量。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">基本公式</th>
+<th style="text-align:center">最大吞吐率</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<h2 id="流水线加速比">流水线加速比</h2>
+<p>完成一批任务，不使用流水线所用的时间与使用流水线所用的时间之比称为流水线的加速比。</p>
+<p>公式： S=不使用流水线执行时间/使用流水线执行时间</p>
+<p>流水线加速比越高越好，说明使用流水线的效果。</p>
+<h2 id="流水线的效率">流水线的效率</h2>
+<p></p>
+<h2 id="例题">例题</h2>
+<p></p>
+<h2 id="其他">其他</h2>
+<h3 id="主机">主机</h3>
+<p></p>
+<h3 id="cisc-和-risc">CISC 和 RISC</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">类型</th>
+<th style="text-align:center">指令</th>
+<th style="text-align:center">寻址方式</th>
+<th style="text-align:center">实现方式</th>
+<th style="text-align:center">其他</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">CISC（复杂指令集）</td>
+<td style="text-align:center">数量多，使用频率差别大，可变长格式</td>
+<td style="text-align:center">支持多种</td>
+<td style="text-align:center">微程序控制技术（微码）</td>
+<td style="text-align:center">研制周期长</td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">RISC（精简指令集）</td>
+<td style="text-align:center">数量少，使用频率接近，定长格式，大部分为单周期指令，操作寄存器，只有 Load/Store 操作内存</td>
+<td style="text-align:center">支持方式少</td>
+<td style="text-align:center">增加了通用寄存器；硬布线逻辑控制为主；适合采用流水线</td>
+<td style="text-align:center">优化编码，有效支持高级语言</td>
+</tr>
+</tbody>
+</table>
+]]></description>
 </item>
 </channel>
 </rss>

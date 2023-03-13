@@ -180,6 +180,6 @@ exports.main_handler = async (event, context, callback) => {
 
 ---
 
-> 作者: xucong  
+> 作者: [xucong](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/cos-hexo/  
 
