@@ -12,8 +12,10 @@ fingerprint = "sha256"
   enable = true
   [page.comment.valine]
     enable = true
-    appId = "7HwTRT0Q0Tfrat6ugrT6P67c-gzGzoHsz"
-    appKey = "mhTY1kuUmviCtQwkwOASfsfD"
+    appId = "4K5itRNjmR4FyWTAkW4V1seE-MdYXbMMI"
+		appKey = "oWd8o2kYa6QvBsijZgfn2B3r"
+    #appId = "7HwTRT0Q0Tfrat6ugrT6P67c-gzGzoHsz"
+    #appKey = "mhTY1kuUmviCtQwkwOASfsfD"
     # placeholder = "ヾﾉ≧∀≦)o~ 有事請留言！\n評論功能以郵件作為通知方式！\n如有必要請填寫正確郵箱哦！"
     placeholder = "ヾﾉ≧∀≦)o~ 有事请留言！\n评论功能以邮件作为通知方式！\n如有必要请填写正确邮箱哦！"
     avatar = "wavatar"
@@ -25,7 +27,7 @@ fingerprint = "sha256"
     recordIP = true
     highlight = true
     enableQQ = true
-    serverURLs = ""
+    serverURLs = "https://valineapi.xcapp.live"
     #  emoji data file name, default is "google.yml"
     # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
     # located in "themes/FixIt/assets/data/emoji/" directory

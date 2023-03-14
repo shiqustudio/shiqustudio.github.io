@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>云盘 - 标签 - 拾趣</title>
+    <title>云盘 - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/%E4%BA%91%E7%9B%98/</link>
-    <description>云盘 - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E4%BA%91%E7%9B%98/" rel="self" type="application/rss+xml" /><item>
+    <description>云盘 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E4%BA%91%E7%9B%98/" rel="self" type="application/rss+xml" /><item>
   <title>caddy-两步搭建超简单云盘</title>
-  <link>https://shiqustudio.github.io/posts/caddy-file/</link>
+  <link>https://shiqustudio.github.io/caddy-file/</link>
   <pubDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/caddy-file/</guid>
+  <guid>https://shiqustudio.github.io/caddy-file/</guid>
   <description><![CDATA[<h2 id="安装">安装</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -68,7 +67,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>指定邮箱是为了申请 ssl, 实现 https.</p>
-<h2 id="demohttpspanlruihaocn"><a href="https://pan.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<h2 id="demohttpspanlruihaocn"><a href="https://pan.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo</a></h2>
 <p>启动 caddy</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -111,7 +110,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>设置任务
-<a href="https://www.jianshu.com/p/95d1473859d1"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<a href="https://www.jianshu.com/p/95d1473859d1"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1

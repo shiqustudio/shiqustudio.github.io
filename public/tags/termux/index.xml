@@ -1,19 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>termux - 标签 - 拾趣</title>
+    <title>termux - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/termux/</link>
-    <description>termux - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/termux/" rel="self" type="application/rss+xml" /><item>
+    <description>termux - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/termux/" rel="self" type="application/rss+xml" /><item>
   <title>termux 基本使用教程</title>
-  <link>https://shiqustudio.github.io/posts/termux1/</link>
+  <link>https://shiqustudio.github.io/termux1/</link>
   <pubDate>Tue, 23 Oct 2018 22:16:02 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/termux1/</guid>
+  <guid>https://shiqustudio.github.io/termux1/</guid>
   <description><![CDATA[<blockquote>
-<p>前面有一篇文章写到一些，<a href="https://lruihao.cn/posts/termux/"target="_blank" rel="external nofollow noopener noreferrer">在 Android 上搭建 hexo 博客<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
-<strong>本文当初摘要自 <a href="https://www.sqlsec.com/2018/05/termux.html?yyue=a21bo.50862.201879"target="_blank" rel="external nofollow noopener noreferrer">国光个人博客<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></strong>
-如若作者博客 IP 被墙，可前往国光第三方博客诸如 csdn 等。<a href="https://www.freebuf.com/geek/170510.html"target="_blank" rel="external nofollow noopener noreferrer">备用<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>前面有一篇文章写到一些，<a href="https://lruihao.cn/posts/termux/"target="_blank" rel="external nofollow noopener noreferrer">在 Android 上搭建 hexo 博客</a>
+<strong>本文当初摘要自 <a href="https://www.sqlsec.com/2018/05/termux.html?yyue=a21bo.50862.201879"target="_blank" rel="external nofollow noopener noreferrer">国光个人博客</a></strong>
+如若作者博客 IP 被墙，可前往国光第三方博客诸如 csdn 等。<a href="https://www.freebuf.com/geek/170510.html"target="_blank" rel="external nofollow noopener noreferrer">备用</a></p>
 </blockquote>
 <h3 id="初始化">初始化</h3>
 <p>下载并初始化 termux</p>
@@ -101,7 +100,7 @@
 </div>
 </div><p>即可切换 root 用户，这个时候会弹出 root 授权提示。在管理员身份下，输入 exit 可回到普通用户身份。</p>
 <h3 id="美化">美化</h3>
-<p><a href="https://github.com/Cabbagec/termux-ohmyzsh"target="_blank" rel="external nofollow noopener noreferrer">Termux-ohmyzsh<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://github.com/Cabbagec/termux-ohmyzsh"target="_blank" rel="external nofollow noopener noreferrer">Termux-ohmyzsh</a></p>
 <p>作用 ： 美化之外，主要使用了 zsh 来替代 bash 作为默认 shell。使用一键安装脚本来安装，一步到位，顺便启动了外置存储，可以直接访问 SD 卡下的目录，创建软文件夹。</p>
 <h4 id="使用">使用</h4>
 <div class="highlight"><div class="chroma">
@@ -261,9 +260,9 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>没出错就可以正常通过相应域名访问了。
-<a href="https://lruihao.github.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.github.io<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
-<a href="https://liruihao.coding.me"target="_blank" rel="external nofollow noopener noreferrer">https://liruihao.coding.me<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
-<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.gitee.io<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> <strong>//手机 hexo 效果展示</strong></p>
+<a href="https://lruihao.github.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.github.io</a>
+<a href="https://liruihao.coding.me"target="_blank" rel="external nofollow noopener noreferrer">https://liruihao.coding.me</a>
+<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">https://lruihao.gitee.io</a> <strong>//手机 hexo 效果展示</strong></p>
 <h3 id="ssh-连接电脑或者服务器">ssh 连接电脑或者服务器</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -375,12 +374,12 @@ cmatrix -b -C blue
 </item>
 <item>
   <title>在 Android 上搭建 hexo 博客</title>
-  <link>https://shiqustudio.github.io/posts/termux/</link>
+  <link>https://shiqustudio.github.io/termux/</link>
   <pubDate>Sat, 11 Aug 2018 16:59:05 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/termux/</guid>
+  <guid>https://shiqustudio.github.io/termux/</guid>
   <description><![CDATA[<blockquote>
-<p>暑假刚开始的时候放假回家没带电脑，只能玩手机，想折腾一下博客都没有条件，在一个发现一个 app, 卧槽 😱，termux 真的强大！（初始化需要科学上网）安卓手机上的 linux 简直了，在手机就可以搭了一个 hexo 博客，只要在 github 上实现分支管理就可以多终端同步更新了。恕我学疏才浅，还只想到这些！一开始想回校后，折腾一下 hexo-admin 实现类似动态博客一样的多终端管理（手动滑稽），现在发现 termux 这样子的操作也不错嘛，挺装哔 hhhhhh**<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">部署后的效果<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>**</p>
+<p>暑假刚开始的时候放假回家没带电脑，只能玩手机，想折腾一下博客都没有条件，在一个发现一个 app, 卧槽 😱，termux 真的强大！（初始化需要科学上网）安卓手机上的 linux 简直了，在手机就可以搭了一个 hexo 博客，只要在 github 上实现分支管理就可以多终端同步更新了。恕我学疏才浅，还只想到这些！一开始想回校后，折腾一下 hexo-admin 实现类似动态博客一样的多终端管理（手动滑稽），现在发现 termux 这样子的操作也不错嘛，挺装哔 hhhhhh**<a href="https://lruihao.gitee.io"target="_blank" rel="external nofollow noopener noreferrer">部署后的效果</a>**</p>
 </blockquote>
 <h2 id="准备">准备</h2>
 <ul>
@@ -412,16 +411,16 @@ cmatrix -b -C blue
 没有 Root 的话可以使用 Vim，网上很多教程。但是这种方式相对来说更麻烦。</p>
 <h2 id="参考">参考</h2>
 <ul>
-<li><a href="https://www.sqlsec.com/2018/05/termux.html?yyue=a21bo.50862.201879"target="_blank" rel="external nofollow noopener noreferrer">termux 高级终端安装使用配置教程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><a href="https://www.oyohyee.com/post/Note/Termux"target="_blank" rel="external nofollow noopener noreferrer">使用 Termux 在手机上运行 linux 黑科技<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><a href="https://lruihao.cn/hexo%20&#43;%20github%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html"target="_blank" rel="external nofollow noopener noreferrer">hexo 搭建过程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><a href="https://my.oschina.net/ryaneLee/blog/638440"target="_blank" rel="external nofollow noopener noreferrer">超详细教程<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://www.sqlsec.com/2018/05/termux.html?yyue=a21bo.50862.201879"target="_blank" rel="external nofollow noopener noreferrer">termux 高级终端安装使用配置教程</a></li>
+<li><a href="https://www.oyohyee.com/post/Note/Termux"target="_blank" rel="external nofollow noopener noreferrer">使用 Termux 在手机上运行 linux 黑科技</a></li>
+<li><a href="https://lruihao.cn/hexo%20&#43;%20github%20%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html"target="_blank" rel="external nofollow noopener noreferrer">hexo 搭建过程</a></li>
+<li><a href="https://my.oschina.net/ryaneLee/blog/638440"target="_blank" rel="external nofollow noopener noreferrer">超详细教程</a></li>
 </ul>
 <h2 id="效果图未连接-githubcoding-等">效果图（未连接 github，coding 等）</h2>
-<p><a href="https://wx1.sinaimg.cn/mw690/006vSs63gy1ft2a0jo3hmj30u01hcguh.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 1<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
-<a href="https://wx4.sinaimg.cn/mw690/006vSs63gy1ft2a0kmm5xj30u01hcn2a.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 2<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
-<a href="https://wx3.sinaimg.cn/mw690/006vSs63gy1ft2a0lqt61j30u01hctla.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 3<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
-<a href="https://wx2.sinaimg.cn/mw690/006vSs63gy1ft2a0mgkm6j30u01hc78l.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 4<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
+<p><a href="https://wx1.sinaimg.cn/mw690/006vSs63gy1ft2a0jo3hmj30u01hcguh.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 1</a><br>
+<a href="https://wx4.sinaimg.cn/mw690/006vSs63gy1ft2a0kmm5xj30u01hcn2a.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 2</a>
+<a href="https://wx3.sinaimg.cn/mw690/006vSs63gy1ft2a0lqt61j30u01hctla.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 3</a><br>
+<a href="https://wx2.sinaimg.cn/mw690/006vSs63gy1ft2a0mgkm6j30u01hc78l.jpg"target="_blank" rel="external nofollow noopener noreferrer">效果图 4</a></p>]]></description>
 </item>
 </channel>
 </rss>

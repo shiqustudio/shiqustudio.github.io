@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>随笔 - 标签 - 拾趣</title>
+    <title>随笔 - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
-    <description>随笔 - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Fri, 01 Feb 2019 20:44:40 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E9%9A%8F%E7%AC%94/" rel="self" type="application/rss+xml" /><item>
+    <description>随笔 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 01 Feb 2019 20:44:40 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E9%9A%8F%E7%AC%94/" rel="self" type="application/rss+xml" /><item>
   <title>还乡</title>
-  <link>https://shiqustudio.github.io/posts/renative/</link>
+  <link>https://shiqustudio.github.io/renative/</link>
   <pubDate>Fri, 01 Feb 2019 20:44:40 &#43;0000</pubDate>
   <author>map[link:mailto:1845280636@qq.com name:杨灿]</author>
-  <guid>https://shiqustudio.github.io/posts/renative/</guid>
+  <guid>https://shiqustudio.github.io/renative/</guid>
   <description><![CDATA[<blockquote>
 <p>这不是英国作家哈代的《The Return of Native》, 而是我们这辈的父母所经历的常态。</p>
 </blockquote>
@@ -29,10 +28,10 @@
 </item>
 <item>
   <title>网站备案之旅</title>
-  <link>https://shiqustudio.github.io/posts/beian/</link>
+  <link>https://shiqustudio.github.io/beian/</link>
   <pubDate>Mon, 29 Oct 2018 23:16:26 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/beian/</guid>
+  <guid>https://shiqustudio.github.io/beian/</guid>
   <description><![CDATA[<div class="details admonition success open">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-check-circle fa-fw" aria-hidden="true"></i>备案<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
@@ -45,10 +44,10 @@
 </item>
 <item>
   <title>每一个优秀的人，都有一段沉默的时光</title>
-  <link>https://shiqustudio.github.io/posts/mood/</link>
+  <link>https://shiqustudio.github.io/mood/</link>
   <pubDate>Fri, 21 Sep 2018 21:11:25 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/mood/</guid>
+  <guid>https://shiqustudio.github.io/mood/</guid>
   <description><![CDATA[<blockquote>
 <p>手机便签里保存的一段话，也记不得在哪看到的了。</p>
 </blockquote>
@@ -79,10 +78,10 @@
 </item>
 <item>
   <title>戏子春秋</title>
-  <link>https://shiqustudio.github.io/posts/%E6%88%8F%E5%AD%90%E6%98%A5%E7%A7%8B/</link>
+  <link>https://shiqustudio.github.io/%E6%88%8F%E5%AD%90%E6%98%A5%E7%A7%8B/</link>
   <pubDate>Sun, 03 Jun 2018 19:41:32 &#43;0800</pubDate>
   <author>map[link:mailto:1845280636@qq.com name:杨灿]</author>
-  <guid>https://shiqustudio.github.io/posts/%E6%88%8F%E5%AD%90%E6%98%A5%E7%A7%8B/</guid>
+  <guid>https://shiqustudio.github.io/%E6%88%8F%E5%AD%90%E6%98%A5%E7%A7%8B/</guid>
   <description><![CDATA[<blockquote>
 <p>从此故乡只有冬夏，再无春秋。</p>
 </blockquote>
@@ -97,10 +96,10 @@
 </item>
 <item>
   <title>猴子与哪吒</title>
-  <link>https://shiqustudio.github.io/posts/%E7%8C%B4%E5%AD%90%E4%B8%8E%E5%93%AA%E5%90%92/</link>
+  <link>https://shiqustudio.github.io/%E7%8C%B4%E5%AD%90%E4%B8%8E%E5%93%AA%E5%90%92/</link>
   <pubDate>Thu, 31 May 2018 10:09:15 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/%E7%8C%B4%E5%AD%90%E4%B8%8E%E5%93%AA%E5%90%92/</guid>
+  <guid>https://shiqustudio.github.io/%E7%8C%B4%E5%AD%90%E4%B8%8E%E5%93%AA%E5%90%92/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/%e7%8c%b4%e5%ad%90%e4%b8%8e%e5%93%aa%e5%90%92/images/hznz.jpg" referrerpolicy="no-referrer">
       </div><p>一直觉得中国古代神话</p>
@@ -118,10 +117,10 @@
 </item>
 <item>
   <title>Hello World</title>
-  <link>https://shiqustudio.github.io/posts/hello-world/</link>
+  <link>https://shiqustudio.github.io/hello-world/</link>
   <pubDate>Mon, 28 May 2018 20:01:01 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/hello-world/</guid>
+  <guid>https://shiqustudio.github.io/hello-world/</guid>
   <description><![CDATA[<blockquote>
 <p>“每天早晨叫醒你的不是鬧鐘，而是你的夢想。”</p>
 </blockquote>
@@ -132,7 +131,7 @@
 <p>時間並不會因為你的迷茫和遲疑而停留，就像你在看到這篇博客的時候，不知道有多少人正風雨兼程趕赴夢想。沒有誰生來就是神牛，千裏之行，始於足下！比自己優秀的人有很多，永遠不要感動自己，保持謙遜，沉澱自己，感謝每一個曾經努力的自己。不必執著於過去，也不必過度擔憂未來，望披荊斬棘，不忘初心。</p>
 <p>最開始寫博客，是在打 ACM 的時候，深受一個學長的博客影響，他的博客是 hexo 搭建的，ID 是 [<code>戎碼一生</code>]，所以我也照葫蘆畫瓢用 hexo 搭建了一個，一用就是 3 年，博客名字原 “<code>博採眾長</code>” 改为 “<code>菠菜眾長</code>”，因為不能用成語作為網站名字，就這個原因。</p>
 <p>直到 21 年下半年，升級 windows 11, 系統出了 BUG, 整理磁盤不小心把代碼刪掉了，就乾脆換成 hugo 了。</p>
-<p><figure><a class="lightgallery" href="/posts/hello-world/images/lunyu.jpg" data-thumbnail="/posts/hello-world/images/lunyu.jpg" data-sub-html="<h2>現在並沒有刀槍入庫，馬放南山，衹是在奔赴另一片山海</h2><p>逝者如斯乎，不舍昼夜</p>"></a><figcaption class="image-caption">現在並沒有刀槍入庫，馬放南山，衹是在奔赴另一片山海</figcaption>
+<p><figure><a class="lightgallery" href="/hello-world/images/lunyu.jpg" data-thumbnail="/hello-world/images/lunyu.jpg" data-sub-html="<h2>現在並沒有刀槍入庫，馬放南山，衹是在奔赴另一片山海</h2><p>逝者如斯乎，不舍昼夜</p>"></a><figcaption class="image-caption">現在並沒有刀槍入庫，馬放南山，衹是在奔赴另一片山海</figcaption>
   </figure></p>
 ]]></description>
 </item>

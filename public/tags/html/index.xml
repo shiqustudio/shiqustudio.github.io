@@ -1,18 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>HTML - 标签 - 拾趣</title>
+    <title>HTML - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/html/</link>
-    <description>HTML - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/html/" rel="self" type="application/rss+xml" /><item>
+    <description>HTML - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/html/" rel="self" type="application/rss+xml" /><item>
   <title>浏览器 IMG 图片原生懒加载 loading=&#34;lazy&#34;</title>
-  <link>https://shiqustudio.github.io/posts/native-img-loading-lazy/</link>
+  <link>https://shiqustudio.github.io/native-img-loading-lazy/</link>
   <pubDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/native-img-loading-lazy/</guid>
+  <guid>https://shiqustudio.github.io/native-img-loading-lazy/</guid>
   <description><![CDATA[<p>记录使用 HTML 原生方案实现图片的懒加载。</p>
 <h2 id="语法规范">语法规范</h2>
-<p>HTML <code>loading</code> 属性适用于 <code>img</code> 和 <code>iframe</code>，语法规范见 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes"target="_blank" rel="external nofollow noopener noreferrer">HTML Standard - Lazy loading attributes<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p>HTML <code>loading</code> 属性适用于 <code>img</code> 和 <code>iframe</code>，语法规范见 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes"target="_blank" rel="external nofollow noopener noreferrer">HTML Standard - Lazy loading attributes</a>。</p>
 <table>
 <thead>
 <tr>
@@ -34,9 +33,9 @@
 </tr>
 </tbody>
 </table>
-<p>属性的 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#missing-value-default"target="_blank" rel="external nofollow noopener noreferrer">缺失值默认值<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></em> 和 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#invalid-value-default"target="_blank" rel="external nofollow noopener noreferrer">无效值默认值<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></em> 都是 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#attr-loading-eager-state"target="_blank" rel="external nofollow noopener noreferrer">Eager<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>状态。</p>
+<p>属性的 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#missing-value-default"target="_blank" rel="external nofollow noopener noreferrer">缺失值默认值</a></em> 和 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#invalid-value-default"target="_blank" rel="external nofollow noopener noreferrer">无效值默认值</a></em> 都是 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#attr-loading-eager-state"target="_blank" rel="external nofollow noopener noreferrer">Eager</a>状态。</p>
 <h2 id="实际应用">实际应用</h2>
-<p>基于 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 版本大于 v0.2.18 的博客网站使用就是原生的懒加载方案，大致如下：</p>
+<p>基于 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题</a> 版本大于 v0.2.18 的博客网站使用就是原生的懒加载方案，大致如下：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -75,7 +74,7 @@
 </div><p>设置 <code>data-title</code> 和 <code>data-alt</code> 是因为移动浏览器大多数只要有 <code>title</code> 或 <code>alt</code> 就会显示图片的替代字符，所以等到图片加载完或加载失败后再回填。</p>
 <h2 id="懒加载特性的研究">懒加载特性的研究</h2>
 <blockquote>
-<p>以下结论来自 <a href="https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/"target="_blank" rel="external nofollow noopener noreferrer">浏览器 IMG 图片原生懒加载 loading=”lazy”实践指南 « 张鑫旭-鑫空间-鑫生活<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 总结部分。</p>
+<p>以下结论来自 <a href="https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/"target="_blank" rel="external nofollow noopener noreferrer">浏览器 IMG 图片原生懒加载 loading=”lazy”实践指南 « 张鑫旭-鑫空间-鑫生活</a> 总结部分。</p>
 </blockquote>
 <ol>
 <li>Lazy loading 加载数量与屏幕高度有关，高度越小加载数量越少，但并不是线性关系.</li>
@@ -86,16 +85,16 @@
 </ol>
 <h2 id="参考链接">参考链接</h2>
 <ul>
-<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Performance/Lazy_loading"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading - Web 性能 | MDN<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><a href="https://caniuse.com/loading-lazy-attr"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading via attribute for images &amp; iframes 兼容性<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Performance/Lazy_loading"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading - Web 性能 | MDN</a></li>
+<li><a href="https://caniuse.com/loading-lazy-attr"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading via attribute for images &amp; iframes 兼容性</a></li>
 </ul>]]></description>
 </item>
 <item>
   <title>浏览器渲染原理</title>
-  <link>https://shiqustudio.github.io/posts/browser-rendering/</link>
+  <link>https://shiqustudio.github.io/browser-rendering/</link>
   <pubDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/browser-rendering/</guid>
+  <guid>https://shiqustudio.github.io/browser-rendering/</guid>
   <description><![CDATA[<iframe src="files/browser-rendering.pdf" width="100%" height="550"></iframe>
 <h2 id="浏览器是如何渲染页面的">浏览器是如何渲染页面的？</h2>
 <p>当浏览器的网络线程收到 HTML 文档后，会产生一个渲染任务，并将其传递给渲染主线程的消息队列。</p>
@@ -160,10 +159,10 @@
 </item>
 <item>
   <title>Web 开发规则，代码规范</title>
-  <link>https://shiqustudio.github.io/posts/dev-rules/</link>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
   <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/dev-rules/</guid>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
   <description><![CDATA[<h2 id="精神">精神</h2>
 <ul>
 <li>绝不写死代码，硬编码</li>
@@ -327,8 +326,7 @@
 <li><strong>每个函数应该使用块注释，注释应包含函数功能说明、参数说明</strong>。规则见：JSDoc、JavaDoc</li>
 <li>不必要的代码不要写，也应禁止放到注释里面！</li>
 <li>if-else 的 {} 严禁省略</li>
-<li>
-</li>
+<li>{} 起始一律跟在 前一个功能的尾巴，禁止分行</li>
 <li>代码规范、代码排版等可通过 eslint 等工具做统一处理</li>
 </ul>
 <h3 id="正确写法">正确写法</h3>
@@ -700,10 +698,10 @@
 </item>
 <item>
   <title>条件注释判断浏览器版本&lt;!--[if lt IE 9]&gt;;</title>
-  <link>https://shiqustudio.github.io/posts/ifzhushi/</link>
+  <link>https://shiqustudio.github.io/ifzhushi/</link>
   <pubDate>Fri, 10 May 2019 13:08:27 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/ifzhushi/</guid>
+  <guid>https://shiqustudio.github.io/ifzhushi/</guid>
   <description><![CDATA[<blockquote>
 <p><span>&lt;!--[if !IE]&gt;&lt;!--&gt; 除 IE 外都可识别 &lt;!--&lt;![endif]--&gt;</span><br><span>&lt;!--[if IE]&gt; 所有的 IE 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 6]&gt; 仅 IE6 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 6]&gt; IE6 以及 IE6 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 6]&gt; IE6 以及 IE6 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 7]&gt; 仅 IE7 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if lt IE 7]&gt; IE7 以及 IE7 以下版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if gte IE 7]&gt; IE7 以及 IE7 以上版本可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 8]&gt; 仅 IE8 可识别 &lt;![endif]--&gt;</span><br><span>&lt;!--[if IE 9]&gt; 仅 IE9 可识别 &lt;![endif]--&gt;</span></p>
 </blockquote>
@@ -744,12 +742,12 @@
 </item>
 <item>
   <title>前端面试题 - HTML&#43;CSS</title>
-  <link>https://shiqustudio.github.io/posts/ms-html-css/</link>
+  <link>https://shiqustudio.github.io/ms-html-css/</link>
   <pubDate>Sat, 30 Mar 2019 22:58:39 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/ms-html-css/</guid>
+  <guid>https://shiqustudio.github.io/ms-html-css/</guid>
   <description><![CDATA[<blockquote>
-<p><a href="https://github.com/ltadpoles/web-document/tree/master/Other"target="_blank" rel="external nofollow noopener noreferrer">原文链接<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+<p><a href="https://github.com/ltadpoles/web-document/tree/master/Other"target="_blank" rel="external nofollow noopener noreferrer">原文链接</a><br>
 “卓越班”到了大三突然掀起一股毕业慌，一部分人投身于考研的热潮中，一部分人选择了培训机构学习技术。而我出于种种原因既不考研也不培训，选择自学 java 和 web 相关的知识，也希望因此能在以后谋得一份心仪的工作。</p>
 </blockquote>
 <p>如果文章中有出现纰漏、错误之处，还请看到的小伙伴多多指教，先行谢过</p>
@@ -838,9 +836,9 @@
 <li>websocket 协议</li>
 <li>webworker</li>
 </ul>
-<p><a href="https://juejin.im/post/5acdba01f265da23826e5633"target="_blank" rel="external nofollow noopener noreferrer">多个标签页之间的通信<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://juejin.im/post/5acdba01f265da23826e5633"target="_blank" rel="external nofollow noopener noreferrer">多个标签页之间的通信</a></p>
 <h3 id="8-html5-的离线存储怎么使用解释一下工作原理">8. HTML5 的离线存储怎么使用，解释一下工作原理</h3>
-<p><a href="https://segmentfault.com/a/1190000006984353"target="_blank" rel="external nofollow noopener noreferrer">HTML5 的离线存储<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://segmentfault.com/a/1190000006984353"target="_blank" rel="external nofollow noopener noreferrer">HTML5 的离线存储</a></p>
 <h3 id="9-src-与-href-的区别">9. src 与 href 的区别</h3>
 <p>区别：src 用于替代这个元素，而 href 用于建立这个标签与外部资源之间的关系</p>
 <p><code>&lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot; /&gt;</code>浏览器加载到这里的时候，html 的渲染和解析不会暂停，css 文件的加载是同时进行的</p>
@@ -1076,11 +1074,11 @@
 <li>抽象提取公共样式，减少代码量</li>
 </ul>
 <h3 id="13-重绘和回流">13. 重绘和回流</h3>
-<p><a href="https://juejin.im/post/5a9923e9518825558251c96a"target="_blank" rel="external nofollow noopener noreferrer">重绘和回流<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://juejin.im/post/5a9923e9518825558251c96a"target="_blank" rel="external nofollow noopener noreferrer">重绘和回流</a></p>
 <h3 id="14-flex-布局">14. flex 布局</h3>
-<p><a href="http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html"target="_blank" rel="external nofollow noopener noreferrer">flex 布局教程&ndash;阮一峰<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html"target="_blank" rel="external nofollow noopener noreferrer">flex 布局教程&ndash;阮一峰</a></p>
 <h3 id="15-css-预处理器">15. css 预处理器</h3>
-<p>提供了一种 css 的书写方式，常见的就是 <a href="http://sass.bootcss.com/docs/sass-reference/"target="_blank" rel="external nofollow noopener noreferrer">SAAS 文档<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://less.bootcss.com/"target="_blank" rel="external nofollow noopener noreferrer">LESS 文档<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
+<p>提供了一种 css 的书写方式，常见的就是 <a href="http://sass.bootcss.com/docs/sass-reference/"target="_blank" rel="external nofollow noopener noreferrer">SAAS 文档</a> 和 <a href="https://less.bootcss.com/"target="_blank" rel="external nofollow noopener noreferrer">LESS 文档</a></p>]]></description>
 </item>
 </channel>
 </rss>

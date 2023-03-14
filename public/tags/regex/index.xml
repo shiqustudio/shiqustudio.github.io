@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>regex - 标签 - 拾趣</title>
+    <title>regex - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/regex/</link>
-    <description>regex - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Thu, 18 Apr 2019 22:04:21 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/regex/" rel="self" type="application/rss+xml" /><item>
+    <description>regex - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 Apr 2019 22:04:21 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/regex/" rel="self" type="application/rss+xml" /><item>
   <title>java 正则表达式练习</title>
-  <link>https://shiqustudio.github.io/posts/java-regex/</link>
+  <link>https://shiqustudio.github.io/java-regex/</link>
   <pubDate>Thu, 18 Apr 2019 22:04:21 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/java-regex/</guid>
+  <guid>https://shiqustudio.github.io/java-regex/</guid>
   <description><![CDATA[<h2 id="邮箱">邮箱</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">

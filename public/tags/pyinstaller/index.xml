@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>pyinstaller - 标签 - 拾趣</title>
+    <title>pyinstaller - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/pyinstaller/</link>
-    <description>pyinstaller - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sat, 11 May 2019 17:02:31 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/pyinstaller/" rel="self" type="application/rss+xml" /><item>
+    <description>pyinstaller - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 11 May 2019 17:02:31 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/pyinstaller/" rel="self" type="application/rss+xml" /><item>
   <title>python 实战：模拟 post 请求定时获取后台数据并打包发送至微信</title>
-  <link>https://shiqustudio.github.io/posts/mx2wx/</link>
+  <link>https://shiqustudio.github.io/mx2wx/</link>
   <pubDate>Sat, 11 May 2019 17:02:31 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/mx2wx/</guid>
+  <guid>https://shiqustudio.github.io/mx2wx/</guid>
   <description><![CDATA[<blockquote>
 <p>用 python 模拟 post 请求获取“麻小科技”示例酒店后台的数据，再打包发送至指定的微信群或者好友。<br>
 要求每天早上 8 点定时把每个酒店的数据发送至每个酒店的微信工作群。</p>
@@ -192,10 +191,10 @@
 </item>
 <item>
   <title>安装 pyinstaller 出错的解决办法及 csdn 工具实例打包</title>
-  <link>https://shiqustudio.github.io/posts/pyinstallererror/</link>
+  <link>https://shiqustudio.github.io/pyinstallererror/</link>
   <pubDate>Thu, 09 May 2019 19:05:01 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/pyinstallererror/</guid>
+  <guid>https://shiqustudio.github.io/pyinstallererror/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/pyinstallererror/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -203,7 +202,7 @@
 这里通过手动下载安装解决的，记录一下。</p>
 </blockquote>
 <h2 id="下载">下载</h2>
-<p>去官网下载 pyinstaller 安装包：<a href="https://pypi.org/project/PyInstaller/#files"target="_blank" rel="external nofollow noopener noreferrer">https://pypi.org/project/PyInstaller/#files<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>去官网下载 pyinstaller 安装包：<a href="https://pypi.org/project/PyInstaller/#files"target="_blank" rel="external nofollow noopener noreferrer">https://pypi.org/project/PyInstaller/#files</a></p>
 <h2 id="解压">解压</h2>
 <p>我这里解压到<code>E:\应用、Python37\Lib\site-packages\PyInstaller-3.4</code></p>
 <h2 id="安装">安装</h2>

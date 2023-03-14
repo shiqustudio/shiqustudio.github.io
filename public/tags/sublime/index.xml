@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Sublime - 标签 - 拾趣</title>
+    <title>Sublime - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/sublime/</link>
-    <description>Sublime - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Tue, 05 Oct 2021 21:54:06 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/sublime/" rel="self" type="application/rss+xml" /><item>
+    <description>Sublime - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Oct 2021 21:54:06 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/sublime/" rel="self" type="application/rss+xml" /><item>
   <title>Sublime 剪贴板图片粘贴插件 —— Markdown 必备</title>
-  <link>https://shiqustudio.github.io/posts/subl_imgpaste2/</link>
+  <link>https://shiqustudio.github.io/subl_imgpaste2/</link>
   <pubDate>Tue, 05 Oct 2021 21:54:06 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/subl_imgpaste2/</guid>
+  <guid>https://shiqustudio.github.io/subl_imgpaste2/</guid>
   <description><![CDATA[<a href="https://github.com/robinchenyu/imagepaste" title="插件地址"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
     <span class="cl-content">
       <span class="cl-text">
@@ -68,10 +67,10 @@
 </item>
 <item>
   <title>Sublime Text3 快捷键大全</title>
-  <link>https://shiqustudio.github.io/posts/sublime-text3/</link>
+  <link>https://shiqustudio.github.io/sublime-text3/</link>
   <pubDate>Thu, 15 Aug 2019 20:59:10 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/sublime-text3/</guid>
+  <guid>https://shiqustudio.github.io/sublime-text3/</guid>
   <description><![CDATA[<p>Sublime Text3 快捷键一览表</p>
 <h2 id="tab-转-space">tab 转 space</h2>
 <p>打开 Settings, 加入几行配置</p>

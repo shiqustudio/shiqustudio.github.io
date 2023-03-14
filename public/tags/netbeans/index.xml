@@ -1,23 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>NetBeans - 标签 - 拾趣</title>
+    <title>NetBeans - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/netbeans/</link>
-    <description>NetBeans - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Thu, 15 Aug 2019 18:36:15 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/netbeans/" rel="self" type="application/rss+xml" /><item>
+    <description>NetBeans - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 15 Aug 2019 18:36:15 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/netbeans/" rel="self" type="application/rss+xml" /><item>
   <title>NetBeans IDE 开发设置</title>
-  <link>https://shiqustudio.github.io/posts/netbeans/</link>
+  <link>https://shiqustudio.github.io/netbeans/</link>
   <pubDate>Thu, 15 Aug 2019 18:36:15 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/netbeans/</guid>
+  <guid>https://shiqustudio.github.io/netbeans/</guid>
   <description><![CDATA[<h2 id="安裝">安裝</h2>
-<p><a href="https://netbeans.org/"target="_blank" rel="external nofollow noopener noreferrer">官方下載點<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://netbeans.org/"target="_blank" rel="external nofollow noopener noreferrer">官方下載點</a></p>
 <h2 id="擴充功能">擴充功能</h2>
 <h3 id="安裝擴充功能">安裝擴充功能</h3>
 <ol>
 <li>下載擴充套件包
 <ul>
-<li><a href="http://plugins.netbeans.org/PluginPortal/"target="_blank" rel="external nofollow noopener noreferrer">官方套件庫<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="http://plugins.netbeans.org/PluginPortal/"target="_blank" rel="external nofollow noopener noreferrer">官方套件庫</a></li>
 <li>或者在 NetBeans IDE 裏面下載插件（方便）</li>
 </ul>
 </li>
@@ -209,7 +208,7 @@
 <h3 id="chrome-with-netneans-connector">Chrome with NetNeans Connector</h3>
 <ol>
 <li>打開 chrome 中的應用程式商店（使用 chrome 瀏覽器點擊下方鏈接即可）<br>
-<a href="https://chrome.google.com/webstore/category/themes?hl=en-US/"target="_blank" rel="external nofollow noopener noreferrer">chrome 應用程式商店<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<a href="https://chrome.google.com/webstore/category/themes?hl=en-US/"target="_blank" rel="external nofollow noopener noreferrer">chrome 應用程式商店</a></li>
 <li>在搜索框中輸入 NetNeans Connector 后搜索，然後點擊右邊的加到 Chrome 即可，安裝成功后右上角會顯示 NetBeans 圖標。</li>
 <li>開啟 netbeans 選擇 Run→Set Project Browser→ 選中 Chrome with NetBeans Connector</li>
 <li>選擇 default 下的 Customize → 選擇 Browser → 選擇 Browser 下 Chrome with NetBeans Connector 即可</li>

@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>server - 标签 - 拾趣</title>
+    <title>server - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/server/</link>
-    <description>server - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Fri, 12 Jul 2019 18:44:36 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/server/" rel="self" type="application/rss+xml" /><item>
+    <description>server - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Jul 2019 18:44:36 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/server/" rel="self" type="application/rss+xml" /><item>
   <title>WAMPServer 自定义网站根目录等设置</title>
-  <link>https://shiqustudio.github.io/posts/wamproot/</link>
+  <link>https://shiqustudio.github.io/wamproot/</link>
   <pubDate>Fri, 12 Jul 2019 18:44:36 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/wamproot/</guid>
+  <guid>https://shiqustudio.github.io/wamproot/</guid>
   <description><![CDATA[<blockquote>
 <p>使用 WAMPServer 时自定义网站根目录。</p>
 </blockquote>
@@ -156,10 +155,10 @@ Ctrl+F 查找 <code>localhost</code><br>
 </item>
 <item>
   <title>本地搭建网站服务器并穿透内网</title>
-  <link>https://shiqustudio.github.io/posts/ngrok/</link>
+  <link>https://shiqustudio.github.io/ngrok/</link>
   <pubDate>Wed, 03 Apr 2019 19:29:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/ngrok/</guid>
+  <guid>https://shiqustudio.github.io/ngrok/</guid>
   <description><![CDATA[<blockquote>
 <p>一直都想在自己电脑上搭建一个网站或者把自己的电脑做成服务器，今天终于简单实现了。还有很多知识需要学习，简单记录一下。</p>
 </blockquote>
@@ -177,10 +176,10 @@ Ctrl+F 查找 <code>localhost</code><br>
 </item>
 <item>
   <title>vps 配置 ssl 及 https 重定向</title>
-  <link>https://shiqustudio.github.io/posts/http2https/</link>
+  <link>https://shiqustudio.github.io/http2https/</link>
   <pubDate>Thu, 28 Mar 2019 19:40:54 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/http2https/</guid>
+  <guid>https://shiqustudio.github.io/http2https/</guid>
   <description><![CDATA[<blockquote>
 <p>记录自己在配置 vps 及博客 SSL 证书时遇到的问题。</p>
 </blockquote>
@@ -219,13 +218,13 @@ Ctrl+F 查找 <code>localhost</code><br>
 </item>
 <item>
   <title>宝塔面板安装</title>
-  <link>https://shiqustudio.github.io/posts/bt/</link>
+  <link>https://shiqustudio.github.io/bt/</link>
   <pubDate>Mon, 18 Mar 2019 21:31:43 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/bt/</guid>
+  <guid>https://shiqustudio.github.io/bt/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/bt/images/1.png" referrerpolicy="no-referrer">
-      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+      </div><p>极速方便的一键配置与管理，免除繁琐的命令行操作，通过 Web 面板一键即可操作实现。可选择安装 lamp 或者 lnmp 环境，可创建及管理网站，可创建及管理数据库，可创建及管理 FTP 等等。<a href="https://www.bt.cn/?invite_code=MV9sYXJnZHI="target="_blank" rel="external nofollow noopener noreferrer">宝塔官网介绍</a></p>
 <h2 id="系统要求">系统要求</h2>
 <blockquote>
 <p>操作系统：全新系统（支持 CentOS、Ubuntu、Debian、Fedora、Deepin)，<br>
@@ -276,10 +275,10 @@ Ctrl+F 查找 <code>localhost</code><br>
 </item>
 <item>
   <title>caddy-两步搭建超简单云盘</title>
-  <link>https://shiqustudio.github.io/posts/caddy-file/</link>
+  <link>https://shiqustudio.github.io/caddy-file/</link>
   <pubDate>Sun, 11 Nov 2018 13:59:27 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/caddy-file/</guid>
+  <guid>https://shiqustudio.github.io/caddy-file/</guid>
   <description><![CDATA[<h2 id="安装">安装</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -338,7 +337,7 @@ Ctrl+F 查找 <code>localhost</code><br>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>指定邮箱是为了申请 ssl, 实现 https.</p>
-<h2 id="demohttpspanlruihaocn"><a href="https://pan.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<h2 id="demohttpspanlruihaocn"><a href="https://pan.lruihao.cn"target="_blank" rel="external nofollow noopener noreferrer">demo</a></h2>
 <p>启动 caddy</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -381,7 +380,7 @@ Ctrl+F 查找 <code>localhost</code><br>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>设置任务
-<a href="https://www.jianshu.com/p/95d1473859d1"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<a href="https://www.jianshu.com/p/95d1473859d1"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -429,10 +428,10 @@ Ctrl+F 查找 <code>localhost</code><br>
 </item>
 <item>
   <title>云服务器 CentOS 系统搭建 web 服务</title>
-  <link>https://shiqustudio.github.io/posts/web-server-yun/</link>
+  <link>https://shiqustudio.github.io/web-server-yun/</link>
   <pubDate>Mon, 29 Oct 2018 09:15:58 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/web-server-yun/</guid>
+  <guid>https://shiqustudio.github.io/web-server-yun/</guid>
   <description><![CDATA[<h3 id="搭建-apache-web-服务">搭建 Apache web 服务</h3>
 <ol>
 <li>安装 Apache 超文本传输协议 (HTTP) 服务器的主程序</li>
@@ -529,35 +528,35 @@ Ctrl+F 查找 <code>localhost</code><br>
 </item>
 <item>
   <title>windows 上搭建 web 服务器</title>
-  <link>https://shiqustudio.github.io/posts/web-server-win/</link>
+  <link>https://shiqustudio.github.io/web-server-win/</link>
   <pubDate>Fri, 26 Oct 2018 21:56:18 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/web-server-win/</guid>
+  <guid>https://shiqustudio.github.io/web-server-win/</guid>
   <description><![CDATA[<blockquote>
 <p>我用的 win10</p>
 </blockquote>
 <h3 id="打开控制面板">打开控制面板</h3>
 <p>选择并进入“程序”，双击“启用或关闭 Windows 服务”，在弹出的窗口中选择“Internet Information Services”下面所有地选项，点击确定后，开始更新服务。<br>
-<figure><a class="lightgallery" href="/posts/web-server-win/images/1.png" data-thumbnail="/posts/web-server-win/images/1.png" data-sub-html="<h2>打开控制面板</h2><p>打开控制面板</p>"></a><figcaption class="image-caption">打开控制面板</figcaption>
+<figure><a class="lightgallery" href="/web-server-win/images/1.png" data-thumbnail="/web-server-win/images/1.png" data-sub-html="<h2>打开控制面板</h2><p>打开控制面板</p>"></a><figcaption class="image-caption">打开控制面板</figcaption>
   </figure></p>
 <h3 id="查看">查看</h3>
 <p>更新完成后，打开浏览器，输入<code>http://localhost</code>或者<code>127.0.0.1</code>回车，如果此时出现 IIS7 欢迎界面，说明 Web 服务器已经搭建成功。<br>
-<figure><a class="lightgallery" href="/posts/web-server-win/images/2.png" data-thumbnail="/posts/web-server-win/images/2.png" data-sub-html="<h2>查看</h2><p>查看</p>"></a><figcaption class="image-caption">查看</figcaption>
+<figure><a class="lightgallery" href="/web-server-win/images/2.png" data-thumbnail="/web-server-win/images/2.png" data-sub-html="<h2>查看</h2><p>查看</p>"></a><figcaption class="image-caption">查看</figcaption>
   </figure></p>
 <h3 id="网站设置">网站设置</h3>
 <p>当 web 服务器搭建成功后，我们下一步所要做的就是把我们开发的网站安装到 Web 服务器的目录中。一般情况下，当 Web 服务器安装完成后，会创建路径<code>%系统根目录%inetpub/wwwroot</code>，将我们开发的网站 COPY 到该路径下。即可实现本地访问该网站。<br>
 </p>
 <p>也可以更改根目录，搜索 IIS，点击网站，Default Web Site，基本设置修改物理路径（<strong>默认站点名称不要改</strong>）<br>
 我这里改到了 hexo 的 public 相当于 hexo 部署在本地服务器<code>58.45.227.225</code><br>
-<figure><a class="lightgallery" href="/posts/web-server-win/images/5.png" data-thumbnail="/posts/web-server-win/images/5.png" data-sub-html="<h2>/posts/web-server-win/images/5.png</h2><p>网站设置 1</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/web-server-win/images/5.png" data-thumbnail="/web-server-win/images/5.png" data-sub-html="<h2>/web-server-win/images/5.png</h2><p>网站设置 1</p>"></a><figcaption class="image-caption"></figcaption>
   </figure>
-<figure><a class="lightgallery" href="/posts/web-server-win/images/6.png" data-thumbnail="/posts/web-server-win/images/6.png" data-sub-html="<h2>/posts/web-server-win/images/6.png</h2><p>网站设置 2</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/web-server-win/images/6.png" data-thumbnail="/web-server-win/images/6.png" data-sub-html="<h2>/web-server-win/images/6.png</h2><p>网站设置 2</p>"></a><figcaption class="image-caption"></figcaption>
   </figure>
-<figure><a class="lightgallery" href="/posts/web-server-win/images/7.png" data-thumbnail="/posts/web-server-win/images/7.png" data-sub-html="<h2>/posts/web-server-win/images/7.png</h2><p>网站设置 3</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/web-server-win/images/7.png" data-thumbnail="/web-server-win/images/7.png" data-sub-html="<h2>/web-server-win/images/7.png</h2><p>网站设置 3</p>"></a><figcaption class="image-caption"></figcaption>
   </figure></p>
 <h3 id="设置防火墙">设置防火墙</h3>
 <p>让局域网当其它计算机也能访问本地网站资源。具体方法：打开控制面板，选择“系统和安全”，点击“允许程序通过 Windows 防火墙”，在弹出的对话框中勾选“万维网服务 HTTP”右侧的两个复选框，最后点击确定退出。<br>
-<figure><a class="lightgallery" href="/posts/web-server-win/images/4.png" data-thumbnail="/posts/web-server-win/images/4.png" data-sub-html="<h2>/posts/web-server-win/images/4.png</h2><p>设置防火墙</p>"></a><figcaption class="image-caption"></figcaption>
+<figure><a class="lightgallery" href="/web-server-win/images/4.png" data-thumbnail="/web-server-win/images/4.png" data-sub-html="<h2>/web-server-win/images/4.png</h2><p>设置防火墙</p>"></a><figcaption class="image-caption"></figcaption>
   </figure></p>
 <p>在局域网中其它计算机上，打开浏览器就可以通过你电脑的 ip 地址访问了（手机也可以）<br>
 本地 ip 可以通过 cmd 用 ipconfig 查看</p>

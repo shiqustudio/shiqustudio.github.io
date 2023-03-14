@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>newline - 标签 - 拾趣</title>
+    <title>newline - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/newline/</link>
-    <description>newline - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/newline/" rel="self" type="application/rss+xml" /><item>
+    <description>newline - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/newline/" rel="self" type="application/rss+xml" /><item>
   <title>不同系统的换行符的差异</title>
-  <link>https://shiqustudio.github.io/posts/newline/</link>
+  <link>https://shiqustudio.github.io/newline/</link>
   <pubDate>Sun, 07 Aug 2022 00:10:30 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/newline/</guid>
+  <guid>https://shiqustudio.github.io/newline/</guid>
   <description><![CDATA[<p>换行符（通常称为行尾、行尾 (EOL)、下一行 (NEL) 或换行符）是字符编码规范（例如，ASCII、EBCDIC）中的控制字符或控制字符序列，用于表示一行文本的结尾和新文本的开头。</p>
 <p>周五下班的时候想在 windows 电脑上跑一下 FixIt 看看有没有什么 bug, 然后就发现了 typyit shortcode 开头多出一行空行，mermaid shortcode 则直接语法报错了。</p>
 <p>看了一下代码明明有 trim <code>\n</code> 处理，而且 Vercel 打包和 Mac 上运行打包都没问题。debug 了一下才发现 Windows 系统上的换行是 <code>\r\n</code>, 而 Mac 系统上的换行是 <code>\n</code>。于是查了一下不同系统的换行符的差异问题。</p>
@@ -50,7 +49,7 @@
 <p>甚至因此，Linux 系统下提供有两个命令用来进行 Windows 和 Unix 文件的转化：<code>dos2unix</code>和 <code>unix2dos</code>。</p>
 <h2 id="参考">参考</h2>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Newline"target="_blank" rel="external nofollow noopener noreferrer">Newline<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Newline"target="_blank" rel="external nofollow noopener noreferrer">Newline</a></li>
 </ul>]]></description>
 </item>
 </channel>

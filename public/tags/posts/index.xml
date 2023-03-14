@@ -1,10 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>posts - 标签 - 拾趣</title>
+    <title>posts - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/posts/</link>
-    <description>posts - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Wed, 08 Mar 2023 09:55:43 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/posts/" rel="self" type="application/rss+xml" /><item>
+    <description>posts - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 08 Mar 2023 09:55:43 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/posts/" rel="self" type="application/rss+xml" /><item>
   <title>扩展typeit</title>
   <link>https://shiqustudio.github.io/posts2/%E6%89%A9%E5%B1%95typeit/</link>
   <pubDate>Wed, 08 Mar 2023 09:55:43 &#43;0800</pubDate>

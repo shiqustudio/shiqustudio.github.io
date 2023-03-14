@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Shortcodes - 标签 - 拾趣</title>
+    <title>Shortcodes - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/shortcodes/</link>
-    <description>Shortcodes - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Tue, 05 Oct 2021 19:33:13 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+    <description>Shortcodes - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Oct 2021 19:33:13 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
   <title>Hugo 添加知乎卡片式链接 Shortcodes</title>
-  <link>https://shiqustudio.github.io/posts/hugo-cardlink/</link>
+  <link>https://shiqustudio.github.io/hugo-cardlink/</link>
   <pubDate>Tue, 05 Oct 2021 19:33:13 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/hugo-cardlink/</guid>
+  <guid>https://shiqustudio.github.io/hugo-cardlink/</guid>
   <description><![CDATA[<a href="https://github.com/Lruihao/FixIt"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
     <span class="cl-content">
       <span class="cl-text">
@@ -30,7 +29,7 @@
     </div>
   </div>
 <h2 id="源碼">源碼</h2>
-<p>基於 LoveIt 主題的 Link Shortcodes, 主要改到以下幾個文件，<a href="https://github.com/Lruihao/hugo-blog/commit/089c303693e806bff855ecf3fee110baa62b870b"target="_blank" rel="external nofollow noopener noreferrer">完整提交記錄<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>基於 LoveIt 主題的 Link Shortcodes, 主要改到以下幾個文件，<a href="https://github.com/Lruihao/hugo-blog/commit/089c303693e806bff855ecf3fee110baa62b870b"target="_blank" rel="external nofollow noopener noreferrer">完整提交記錄</a></p>
 <pre><code>assets/css/custom.scss
 assets/css/partial/cardlink.scss          # 卡片式鏈接樣式
 layouts/partials/plugin/cardlink.html     # 卡片式鏈接模板
@@ -38,7 +37,7 @@ layouts/shortcodes/cardlink.html
 static/images/card-link-bg.jpg
 </code></pre>
 <h2 id="使用">使用</h2>
-<p>使用參數见 <a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-extended-shortcodes/#2-link"target="_blank" rel="external nofollow noopener noreferrer">FixIt 擴展 Shortcodes - Link<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>使用參數见 <a href="https://fixit.lruihao.cn/zh-cn/theme-documentation-extended-shortcodes/#2-link"target="_blank" rel="external nofollow noopener noreferrer">FixIt 擴展 Shortcodes - Link</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -65,7 +64,7 @@ static/images/card-link-bg.jpg
     </div>
     <div class="details-content">
       <div class="admonition-content">我的博客即将同步至腾讯云+社区，邀请大家一同入驻：<br>
-<a href="https://cloud.tencent.com/developer/support-plan?invite_code=3o5dmfzf0xkwk"target="_blank" rel="external nofollow noopener noreferrer">https://cloud.tencent.com/developer/support-plan?invite_code=3o5dmfzf0xkwk<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></div>
+<a href="https://cloud.tencent.com/developer/support-plan?invite_code=3o5dmfzf0xkwk"target="_blank" rel="external nofollow noopener noreferrer">https://cloud.tencent.com/developer/support-plan?invite_code=3o5dmfzf0xkwk</a></div>
     </div>
   </div>]]></description>
 </item>

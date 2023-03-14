@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>i18n - 标签 - 拾趣</title>
+    <title>i18n - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/i18n/</link>
-    <description>i18n - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Tue, 05 Oct 2021 19:14:45 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/i18n/" rel="self" type="application/rss+xml" /><item>
+    <description>i18n - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Oct 2021 19:14:45 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/i18n/" rel="self" type="application/rss+xml" /><item>
   <title>Hugo i18n 添加中文繁體翻譯</title>
-  <link>https://shiqustudio.github.io/posts/hugo-i18n-zh-tw/</link>
+  <link>https://shiqustudio.github.io/hugo-i18n-zh-tw/</link>
   <pubDate>Tue, 05 Oct 2021 19:14:45 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/hugo-i18n-zh-tw/</guid>
+  <guid>https://shiqustudio.github.io/hugo-i18n-zh-tw/</guid>
   <description><![CDATA[<blockquote>
 <p>工作上一直常用繁體，最近臨帖也都寫的繁體，所以博客的語言也想換成繁體，但是 LoveIt 主題沒有支持中文繁體。就只好自己添加了。</p>
 </blockquote>

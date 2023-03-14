@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>turtle - 标签 - 拾趣</title>
+    <title>turtle - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/turtle/</link>
-    <description>turtle - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Tue, 18 Jun 2019 18:41:00 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/turtle/" rel="self" type="application/rss+xml" /><item>
+    <description>turtle - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 18 Jun 2019 18:41:00 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/turtle/" rel="self" type="application/rss+xml" /><item>
   <title>python 实训总结Ⅰ</title>
-  <link>https://shiqustudio.github.io/posts/pysx1/</link>
+  <link>https://shiqustudio.github.io/pysx1/</link>
   <pubDate>Tue, 18 Jun 2019 18:41:00 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/pysx1/</guid>
+  <guid>https://shiqustudio.github.io/pysx1/</guid>
   <description><![CDATA[<blockquote>
 <p>以前和前一段时间自己也学习了一下 python，也写了几个小爬虫；
 这次正好又课程安排了为期两周的综合实训，主要是“<strong>用 python 做量化交易</strong>”

@@ -1,5 +1,5 @@
 title = "我的 Hugo FixIt 网站"
-baseURL = "https://shiqustudio.github.io/"
+baseURL = "https://shiqustudio.github.io"
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
@@ -627,13 +627,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         clientSecret = ""
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = false
+        enable = true
         appId = "4K5itRNjmR4FyWTAkW4V1seE-MdYXbMMI"
-        appKey = "oWd8o2kYa6QvBsijZgfn2B3r"
-        #placeholder = ""
-        placeholder = "ヾﾉ≧∀≦)o~ 有事请留言！\n评论功能以邮件作为通知方式！\n如有必要请填写正确邮箱哦！"
-        #avatar = "mp"
-        avatar = "wavatar"
+		    appKey = "oWd8o2kYa6QvBsijZgfn2B3r"
+        placeholder = "just do it"
+        #placeholder = "ヾﾉ≧∀≦)o~ 有事请留言！\n评论功能以邮件作为通知方式！\n如有必要请填写正确邮箱哦！"
+        avatar = "mp"
+        #avatar = "wavatar"
         meta = ['nick','mail','link']
 		    requiredFields = ['nick','mail','link']
 		    pageSize = 10
@@ -642,7 +642,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 		    recordIP = true
 		    highlight = true
 		    enableQQ = true
-		    serverURLs = "https://4k5itrnj.api.lncldglobal.com"
+		    serverURLs = "https://valineapi.xcapp.live"
         #  meta = ""
         #  requiredFields = ""
         #  pageSize = 10
@@ -720,7 +720,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         katex = false
       #  Giscus 评论系统设置
       [params.page.comment.giscus]
-        enable = true
+        enable = false
         repo = "shiqustudio/giscus"
         repoId = "R_kgDOJHwBwg"
         category = "Announcements"

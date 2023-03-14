@@ -1,10 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Markdown - 标签 - 拾趣</title>
+    <title>Markdown - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/markdown/</link>
-    <description>Markdown - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <description>Markdown - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
   <title>cell-blog 功能介绍与安装</title>
   <link>https://shiqustudio.github.io/books/cell-blog/</link>
   <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
@@ -13,7 +12,7 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>
-<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 也是我的毕业设计作品，目前已開源。</p>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
 </blockquote>
 <p></p>
 <h2 id="简单内容">简单内容</h2>
@@ -31,7 +30,7 @@
 <div class="mapbox" id="id-7" style="width: 100%; height: 20rem;"></div>
 <h2 id="功能">功能</h2>
 <ul>
-<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册</a></li>
 </ul>
 <h2 id="截图">截图</h2>
 <p><br>
@@ -192,10 +191,10 @@
 </item>
 <item>
   <title>Sublime 剪贴板图片粘贴插件 —— Markdown 必备</title>
-  <link>https://shiqustudio.github.io/posts/subl_imgpaste2/</link>
+  <link>https://shiqustudio.github.io/subl_imgpaste2/</link>
   <pubDate>Tue, 05 Oct 2021 21:54:06 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/subl_imgpaste2/</guid>
+  <guid>https://shiqustudio.github.io/subl_imgpaste2/</guid>
   <description><![CDATA[<a href="https://github.com/robinchenyu/imagepaste" title="插件地址"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
     <span class="cl-content">
       <span class="cl-text">
@@ -261,7 +260,7 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>
-<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 也是我的毕业设计作品，目前已開源。</p>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
 </blockquote>
 <h2 id="功能">功能</h2>
 <ul>
@@ -278,7 +277,7 @@
 <li>自定义导航（显示开关，排序）</li>
 <li>自定义页面（发布开关）</li>
 <li>友情链接（显示开关，排序）</li>
-<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册</a></li>
 <li>丰富的博客配置（方便扩展，支持自定义 JS 脚本）</li>
 <li>不蒜子计数</li>
 <li>Leancloud 计数</li>
@@ -444,12 +443,12 @@
 </item>
 <item>
   <title>cell-blog 开发记录</title>
-  <link>https://shiqustudio.github.io/posts/cell-blog-dev/</link>
+  <link>https://shiqustudio.github.io/cell-blog-dev/</link>
   <pubDate>Sat, 25 Jul 2020 20:42:42 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/cell-blog-dev/</guid>
+  <guid>https://shiqustudio.github.io/cell-blog-dev/</guid>
   <description><![CDATA[<blockquote>
-<p>Cell Blog 开发记录，<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">项目地址<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>Cell Blog 开发记录，<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">项目地址</a></p>
 </blockquote>
 <h2 id="搭建-php-环境">搭建 php 环境</h2>
 <ol>
@@ -570,7 +569,7 @@
 </div><blockquote>
 <p>运行这个命令的时候，如果遇到了下面的错误：
 <code>SQLSTATE[42000]: Syntax error or access violation: 1071 Specified key was too long; max key length is 1000 bytes (SQL: alter tableusersadd uniqueusers_email_unique(email))</code><br>
-参考这个 issue 来解决 <a href="https://github.com/z-song/laravel-admin/issues/1541"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/z-song/laravel-admin/issues/1541<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+参考这个 issue 来解决 <a href="https://github.com/z-song/laravel-admin/issues/1541"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/z-song/laravel-admin/issues/1541</a><br>
 在<code>app\Providers\AppServiceProvider.php</code>添加默认值</p>
 </blockquote>
 <div class="highlight"><div class="chroma">
@@ -814,8 +813,8 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="editormd-安装">editormd 安装</h2>
-<p><a href="https://github.com/ShareManT/laravel-admin-ext-editormd"target="_blank" rel="external nofollow noopener noreferrer">editormd<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
-<a href="https://github.com/ShareManT/laravel-admin-ext-editormd/issues/3"target="_blank" rel="external nofollow noopener noreferrer">github 图像问题<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://github.com/ShareManT/laravel-admin-ext-editormd"target="_blank" rel="external nofollow noopener noreferrer">editormd</a>
+<a href="https://github.com/ShareManT/laravel-admin-ext-editormd/issues/3"target="_blank" rel="external nofollow noopener noreferrer">github 图像问题</a></p>
 <h3 id="存放本地表情">存放本地表情</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -846,7 +845,7 @@
 <h4 id="csrf-419-错误">csrf 419 错误</h4>
 <p>可以在<code>VerifyCsrfToken.php</code>中添加白名单跳过验证，或者手动添加 csrf 验证器：</p>
 <p>修改 image-dialog.js 的<code>var dialogContent</code><br>
-<a href="https://www.jianshu.com/p/8101f7bc80f6"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<a href="https://www.jianshu.com/p/8101f7bc80f6"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -874,8 +873,8 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="markdown-转-html">markdown 转 HTML</h2>
-<p><a href="https://www.zhiqiexing.com/119.html"target="_blank" rel="external nofollow noopener noreferrer">https://www.zhiqiexing.com/119.html<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
-<a href="https://github.com/GrahamCampbell/Laravel-Markdown"target="_blank" rel="external nofollow noopener noreferrer">Laravel Markdown 安装<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://www.zhiqiexing.com/119.html"target="_blank" rel="external nofollow noopener noreferrer">https://www.zhiqiexing.com/119.html</a>
+<a href="https://github.com/GrahamCampbell/Laravel-Markdown"target="_blank" rel="external nofollow noopener noreferrer">Laravel Markdown 安装</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -913,7 +912,7 @@
 <p>retrieved 事件会在从数据库中获取已存在模型时触发。当一个新模型被首次保存的时候，creating 和 created 事件会被触发。如果一个模型已经在数据库中存在并调用 save 方法，updating/updated 事件会被触发，无论是创建还是更新，saving/saved 事件都会被触发。</p>
 <h2 id="添加后台验证码">添加后台验证码</h2>
 <p>依赖 php 扩展<code>fileinfo</code><br>
-<a href="https://learnku.com/articles/32842"target="_blank" rel="external nofollow noopener noreferrer">添加验证码<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<a href="https://learnku.com/articles/32842"target="_blank" rel="external nofollow noopener noreferrer">添加验证码</a></p>
 <h2 id="media-manager">Media manager</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -983,7 +982,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="后台-img-灯箱">后台 img 灯箱</h2>
-<p><a href="https://github.com/laravel-admin-extensions/grid-lightbox"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/laravel-admin-extensions/grid-lightbox<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://github.com/laravel-admin-extensions/grid-lightbox"target="_blank" rel="external nofollow noopener noreferrer">https://github.com/laravel-admin-extensions/grid-lightbox</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1

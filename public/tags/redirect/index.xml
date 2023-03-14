@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>redirect - 标签 - 拾趣</title>
+    <title>redirect - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/redirect/</link>
-    <description>redirect - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Thu, 28 Mar 2019 19:40:54 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/redirect/" rel="self" type="application/rss+xml" /><item>
+    <description>redirect - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 28 Mar 2019 19:40:54 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/redirect/" rel="self" type="application/rss+xml" /><item>
   <title>vps 配置 ssl 及 https 重定向</title>
-  <link>https://shiqustudio.github.io/posts/http2https/</link>
+  <link>https://shiqustudio.github.io/http2https/</link>
   <pubDate>Thu, 28 Mar 2019 19:40:54 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/http2https/</guid>
+  <guid>https://shiqustudio.github.io/http2https/</guid>
   <description><![CDATA[<blockquote>
 <p>记录自己在配置 vps 及博客 SSL 证书时遇到的问题。</p>
 </blockquote>
@@ -48,12 +47,12 @@
 </item>
 <item>
   <title>使用 js 准确获取当前页面 url 网址信息及 301 重定向实战</title>
-  <link>https://shiqustudio.github.io/posts/href-301/</link>
+  <link>https://shiqustudio.github.io/href-301/</link>
   <pubDate>Sun, 28 Oct 2018 14:22:00 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/href-301/</guid>
+  <guid>https://shiqustudio.github.io/href-301/</guid>
   <description><![CDATA[<h3 id="获取链接转">获取链接（转）</h3>
-<p><a href="https://www.cnblogs.com/zhabayi/p/6419938.html"target="_blank" rel="external nofollow noopener noreferrer">传送门<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+<p><a href="https://www.cnblogs.com/zhabayi/p/6419938.html"target="_blank" rel="external nofollow noopener noreferrer">传送门</a><br>
 在 WEB 开发中，时常会用到 javascript 来获取当前页面的 url 网址信息，在这里是我的一些获取 url 信息的小总结。</p>
 <p>下面我们举例一个 URL，然后获得它的各个组成部分：<code>http://i.cnblogs.com/EditPosts.aspx?opt=1</code></p>
 <h4 id="windowlocationhref设置或获取整个-url-为字符串">window.location.href（设置或获取整个 URL 为字符串）</h4>

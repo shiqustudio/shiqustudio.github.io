@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>URLConnection - 标签 - 拾趣</title>
+    <title>URLConnection - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/urlconnection/</link>
-    <description>URLConnection - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Wed, 08 May 2019 20:55:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/urlconnection/" rel="self" type="application/rss+xml" /><item>
+    <description>URLConnection - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 08 May 2019 20:55:02 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/urlconnection/" rel="self" type="application/rss+xml" /><item>
   <title>java 实现一个单线程的资源下载器</title>
-  <link>https://shiqustudio.github.io/posts/singlethreaddown/</link>
+  <link>https://shiqustudio.github.io/singlethreaddown/</link>
   <pubDate>Wed, 08 May 2019 20:55:02 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/singlethreaddown/</guid>
+  <guid>https://shiqustudio.github.io/singlethreaddown/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/images/1.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -223,10 +222,10 @@
 </item>
 <item>
   <title>java 通过 URL 和 URLConnection 访问网页资源</title>
-  <link>https://shiqustudio.github.io/posts/java-urlreader/</link>
+  <link>https://shiqustudio.github.io/java-urlreader/</link>
   <pubDate>Mon, 06 May 2019 17:41:35 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/java-urlreader/</guid>
+  <guid>https://shiqustudio.github.io/java-urlreader/</guid>
   <description><![CDATA[<blockquote>
 <p>该例中首先生成一个 URL 对象 lrh，指向 RUI 豪小栈，然后再调用 lrh.openStream() 方法生成该 URL 的一个输入流，这是一个字节流，在此基础上进一步通过 InputStreamReader 和 BufferedReader 构造一个带缓冲功能的字符流，并通过这个字符流对象读取该 URL 的 html 内容，进而输出到桌面文件和控制台屏幕。URLConnection 类也可以用来对由 URL 引用的资源进行读写操作，前提是先通过 connect() 方法建立连接，然后再去获取响应头信息或响应内容。</p>
 </blockquote>

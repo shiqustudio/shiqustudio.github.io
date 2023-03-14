@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>CSS - 标签 - 拾趣</title>
+    <title>CSS - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/css/</link>
-    <description>CSS - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/css/" rel="self" type="application/rss+xml" /><item>
+    <description>CSS - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/css/" rel="self" type="application/rss+xml" /><item>
   <title>浏览器渲染原理</title>
-  <link>https://shiqustudio.github.io/posts/browser-rendering/</link>
+  <link>https://shiqustudio.github.io/browser-rendering/</link>
   <pubDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/browser-rendering/</guid>
+  <guid>https://shiqustudio.github.io/browser-rendering/</guid>
   <description><![CDATA[<iframe src="files/browser-rendering.pdf" width="100%" height="550"></iframe>
 <h2 id="浏览器是如何渲染页面的">浏览器是如何渲染页面的？</h2>
 <p>当浏览器的网络线程收到 HTML 文档后，会产生一个渲染任务，并将其传递给渲染主线程的消息队列。</p>
@@ -74,10 +73,10 @@
 </item>
 <item>
   <title>关于 CSS 和 Scss 变量运算那些事</title>
-  <link>https://shiqustudio.github.io/posts/css-scss-var/</link>
+  <link>https://shiqustudio.github.io/css-scss-var/</link>
   <pubDate>Sat, 30 Apr 2022 22:04:29 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/css-scss-var/</guid>
+  <guid>https://shiqustudio.github.io/css-scss-var/</guid>
   <description><![CDATA[<h2 id="问题分析">问题分析</h2>
 <p>昨天在开发 FixIt 的时候，在 Scss 中写 <code>max(foo, bar)</code> 函数比较不同的单位变量时报错了，但是在 CSS 中使用 <code>max</code> 或者 <code>min</code> 函数函数比较不同的单位变量是没有问题的。</p>
 <p>造成这一问题的原因是，在 Scss 中，也实现了 <code>max</code> 和 <code>min</code> 函数，但是在 Scss 中，<strong>不同单位的变量是不能进行运算的</strong>，所以使得在 Scss 中直接使用 <code>max</code> 或者 <code>min</code> 函数会提示单位不同的报错。（同类 Less 中的变量运算是支持不同单位的）</p>
@@ -100,7 +99,7 @@
 </div>
 </div></li>
 <li>
-<p>使用 Scss 没有的 CSS 函数 <a href="https://developer.mozilla.org/zh-CN/docs/web/css/clamp"target="_blank" rel="external nofollow noopener noreferrer"><code>clamp</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>:</p>
+<p>使用 Scss 没有的 CSS 函数 <a href="https://developer.mozilla.org/zh-CN/docs/web/css/clamp"target="_blank" rel="external nofollow noopener noreferrer"><code>clamp</code></a>:</p>
 <p><code>clamp(MIN, VAL, MAX)</code> 其实就是表示 <code>max(MIN, min(VAL, MAX))</code></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -183,10 +182,10 @@
 </item>
 <item>
   <title>Web 开发规则，代码规范</title>
-  <link>https://shiqustudio.github.io/posts/dev-rules/</link>
+  <link>https://shiqustudio.github.io/dev-rules/</link>
   <pubDate>Thu, 15 Aug 2019 18:30:31 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/dev-rules/</guid>
+  <guid>https://shiqustudio.github.io/dev-rules/</guid>
   <description><![CDATA[<h2 id="精神">精神</h2>
 <ul>
 <li>绝不写死代码，硬编码</li>
@@ -350,8 +349,7 @@
 <li><strong>每个函数应该使用块注释，注释应包含函数功能说明、参数说明</strong>。规则见：JSDoc、JavaDoc</li>
 <li>不必要的代码不要写，也应禁止放到注释里面！</li>
 <li>if-else 的 {} 严禁省略</li>
-<li>
-</li>
+<li>{} 起始一律跟在 前一个功能的尾巴，禁止分行</li>
 <li>代码规范、代码排版等可通过 eslint 等工具做统一处理</li>
 </ul>
 <h3 id="正确写法">正确写法</h3>
@@ -723,12 +721,12 @@
 </item>
 <item>
   <title>前端面试题 - HTML&#43;CSS</title>
-  <link>https://shiqustudio.github.io/posts/ms-html-css/</link>
+  <link>https://shiqustudio.github.io/ms-html-css/</link>
   <pubDate>Sat, 30 Mar 2019 22:58:39 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/ms-html-css/</guid>
+  <guid>https://shiqustudio.github.io/ms-html-css/</guid>
   <description><![CDATA[<blockquote>
-<p><a href="https://github.com/ltadpoles/web-document/tree/master/Other"target="_blank" rel="external nofollow noopener noreferrer">原文链接<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+<p><a href="https://github.com/ltadpoles/web-document/tree/master/Other"target="_blank" rel="external nofollow noopener noreferrer">原文链接</a><br>
 “卓越班”到了大三突然掀起一股毕业慌，一部分人投身于考研的热潮中，一部分人选择了培训机构学习技术。而我出于种种原因既不考研也不培训，选择自学 java 和 web 相关的知识，也希望因此能在以后谋得一份心仪的工作。</p>
 </blockquote>
 <p>如果文章中有出现纰漏、错误之处，还请看到的小伙伴多多指教，先行谢过</p>
@@ -817,9 +815,9 @@
 <li>websocket 协议</li>
 <li>webworker</li>
 </ul>
-<p><a href="https://juejin.im/post/5acdba01f265da23826e5633"target="_blank" rel="external nofollow noopener noreferrer">多个标签页之间的通信<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://juejin.im/post/5acdba01f265da23826e5633"target="_blank" rel="external nofollow noopener noreferrer">多个标签页之间的通信</a></p>
 <h3 id="8-html5-的离线存储怎么使用解释一下工作原理">8. HTML5 的离线存储怎么使用，解释一下工作原理</h3>
-<p><a href="https://segmentfault.com/a/1190000006984353"target="_blank" rel="external nofollow noopener noreferrer">HTML5 的离线存储<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://segmentfault.com/a/1190000006984353"target="_blank" rel="external nofollow noopener noreferrer">HTML5 的离线存储</a></p>
 <h3 id="9-src-与-href-的区别">9. src 与 href 的区别</h3>
 <p>区别：src 用于替代这个元素，而 href 用于建立这个标签与外部资源之间的关系</p>
 <p><code>&lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot; /&gt;</code>浏览器加载到这里的时候，html 的渲染和解析不会暂停，css 文件的加载是同时进行的</p>
@@ -1055,11 +1053,11 @@
 <li>抽象提取公共样式，减少代码量</li>
 </ul>
 <h3 id="13-重绘和回流">13. 重绘和回流</h3>
-<p><a href="https://juejin.im/post/5a9923e9518825558251c96a"target="_blank" rel="external nofollow noopener noreferrer">重绘和回流<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://juejin.im/post/5a9923e9518825558251c96a"target="_blank" rel="external nofollow noopener noreferrer">重绘和回流</a></p>
 <h3 id="14-flex-布局">14. flex 布局</h3>
-<p><a href="http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html"target="_blank" rel="external nofollow noopener noreferrer">flex 布局教程&ndash;阮一峰<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html"target="_blank" rel="external nofollow noopener noreferrer">flex 布局教程&ndash;阮一峰</a></p>
 <h3 id="15-css-预处理器">15. css 预处理器</h3>
-<p>提供了一种 css 的书写方式，常见的就是 <a href="http://sass.bootcss.com/docs/sass-reference/"target="_blank" rel="external nofollow noopener noreferrer">SAAS 文档<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://less.bootcss.com/"target="_blank" rel="external nofollow noopener noreferrer">LESS 文档<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
+<p>提供了一种 css 的书写方式，常见的就是 <a href="http://sass.bootcss.com/docs/sass-reference/"target="_blank" rel="external nofollow noopener noreferrer">SAAS 文档</a> 和 <a href="https://less.bootcss.com/"target="_blank" rel="external nofollow noopener noreferrer">LESS 文档</a></p>]]></description>
 </item>
 </channel>
 </rss>

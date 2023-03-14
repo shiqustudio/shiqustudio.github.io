@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>SemVer - 标签 - 拾趣</title>
+    <title>SemVer - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/semver/</link>
-    <description>SemVer - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sat, 13 Aug 2022 13:32:03 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/semver/" rel="self" type="application/rss+xml" /><item>
+    <description>SemVer - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 13 Aug 2022 13:32:03 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/semver/" rel="self" type="application/rss+xml" /><item>
   <title>语义版本控制（SemVer）</title>
-  <link>https://shiqustudio.github.io/posts/semver/</link>
+  <link>https://shiqustudio.github.io/semver/</link>
   <pubDate>Sat, 13 Aug 2022 13:32:03 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/semver/</guid>
+  <guid>https://shiqustudio.github.io/semver/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/images/featured-image.png" referrerpolicy="no-referrer">
       </div><div class="details admonition tip open">
@@ -28,7 +27,7 @@
     </div>
   </div>
 <h2 id="格式">格式</h2>
-<p>基本的语法格式如下，更多请参考 <a href="https://semver.org/#backusnaur-form-grammar-for-valid-semver-versions"target="_blank" rel="external nofollow noopener noreferrer">Backus–Naur Form Grammar for Valid SemVer Versions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>基本的语法格式如下，更多请参考 <a href="https://semver.org/#backusnaur-form-grammar-for-valid-semver-versions"target="_blank" rel="external nofollow noopener noreferrer">Backus–Naur Form Grammar for Valid SemVer Versions</a></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -93,7 +92,7 @@
     </div>
   </div>
 <h2 id="规范">规范</h2>
-<p>以下关键词 MUST、MUST NOT、REQUIRED、SHALL、SHALL NOT、SHOULD、SHOULD NOT、 RECOMMENDED、MAY、OPTIONAL 依照 <a href="https://www.rfc-editor.org/rfc/rfc2119"target="_blank" rel="external nofollow noopener noreferrer">RFC 2119<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的叙述解读。</p>
+<p>以下关键词 MUST、MUST NOT、REQUIRED、SHALL、SHALL NOT、SHOULD、SHOULD NOT、 RECOMMENDED、MAY、OPTIONAL 依照 <a href="https://www.rfc-editor.org/rfc/rfc2119"target="_blank" rel="external nofollow noopener noreferrer">RFC 2119</a> 的叙述解读。</p>
 <details>
   <summary>语义化版本控制规范（SemVer）</summary>
   <ol>
@@ -165,13 +164,13 @@
 <li><code>RELEASE</code>: 最终发布版本，没有太大的问题</li>
 </ul>
 <p>最终发布版本（<code>RELEASE</code>）之前的所有版本，都称为先行版本（<code>pre-release</code>）。</p>
-<h2 id="faqhttpssemverorglangzh-cnfaq"><a href="https://semver.org/lang/zh-CN/#faq"target="_blank" rel="external nofollow noopener noreferrer">FAQ<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<h2 id="faqhttpssemverorglangzh-cnfaq"><a href="https://semver.org/lang/zh-CN/#faq"target="_blank" rel="external nofollow noopener noreferrer">FAQ</a></h2>
 <h2 id="其他相关">其他相关</h2>
 <h3 id="npm-semver">npm SemVer</h3>
 <p>通常我们发布一个包到 npm 仓库时，我们的做法是先修改 <code>package.json</code> 为某个版本，然后执行 <code>npm publish</code> 命令。手动修改版本号的做法建立在你对 SemVer 规范特别熟悉的基础之上，否则可能会造成版本混乱。npm 和 yarn 两个包管理都提供了 SemVer 规范的版本控制命令：</p>
 <ul>
-<li><a href="https://docs.npmjs.com/cli/v8/commands/npm-version"target="_blank" rel="external nofollow noopener noreferrer">npm-version<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><a href="https://classic.yarnpkg.com/en/docs/cli/version"target="_blank" rel="external nofollow noopener noreferrer">yarn version<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://docs.npmjs.com/cli/v8/commands/npm-version"target="_blank" rel="external nofollow noopener noreferrer">npm-version</a></li>
+<li><a href="https://classic.yarnpkg.com/en/docs/cli/version"target="_blank" rel="external nofollow noopener noreferrer">yarn version</a></li>
 </ul>
 <p>npm 发包基础命令：</p>
 <div class="highlight"><div class="chroma">
@@ -287,8 +286,8 @@
 </ol>
 <h2 id="参考">参考</h2>
 <ul>
-<li><a href="https://semver.org/"target="_blank" rel="external nofollow noopener noreferrer">Semantic Versioning 2.0.0<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><a href="http://nodejs.cn/learn/semantic-versioning-using-npm"target="_blank" rel="external nofollow noopener noreferrer">使用 npm 的语义版本控制<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><a href="https://semver.org/"target="_blank" rel="external nofollow noopener noreferrer">Semantic Versioning 2.0.0</a></li>
+<li><a href="http://nodejs.cn/learn/semantic-versioning-using-npm"target="_blank" rel="external nofollow noopener noreferrer">使用 npm 的语义版本控制</a></li>
 </ul>]]></description>
 </item>
 </channel>

@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>计算机数据 - 标签 - 拾趣</title>
+    <title>计算机数据 - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%B0%E6%8D%AE/</link>
-    <description>计算机数据 - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Mon, 08 Oct 2018 23:01:10 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%B0%E6%8D%AE/" rel="self" type="application/rss+xml" /><item>
+    <description>计算机数据 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 08 Oct 2018 23:01:10 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%B0%E6%8D%AE/" rel="self" type="application/rss+xml" /><item>
   <title>计算机数据</title>
-  <link>https://shiqustudio.github.io/posts/data/</link>
+  <link>https://shiqustudio.github.io/data/</link>
   <pubDate>Mon, 08 Oct 2018 23:01:10 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/data/</guid>
+  <guid>https://shiqustudio.github.io/data/</guid>
   <description><![CDATA[<h3 id="数据的表示">数据的表示</h3>
 <p><strong>数据的表示可分为：原码，反码和补码。（二进制）</strong></p>
 <ul>

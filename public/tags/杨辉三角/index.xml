@@ -1,16 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>杨辉三角 - 标签 - 拾趣</title>
+    <title>杨辉三角 - 标签 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/tags/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/</link>
-    <description>杨辉三角 - 标签 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Sun, 22 Jul 2018 11:41:15 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/" rel="self" type="application/rss+xml" /><item>
+    <description>杨辉三角 - 标签 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 22 Jul 2018 11:41:15 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/" rel="self" type="application/rss+xml" /><item>
   <title>杨辉三角</title>
-  <link>https://shiqustudio.github.io/posts/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/</link>
+  <link>https://shiqustudio.github.io/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/</link>
   <pubDate>Sun, 22 Jul 2018 11:41:15 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/</guid>
-  <description><![CDATA[<p><a href="https://zhidao.baidu.com/question/367384574464313844.html"target="_blank" rel="external nofollow noopener noreferrer">百度知道<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a><br>
+  <guid>https://shiqustudio.github.io/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/</guid>
+  <description><![CDATA[<p><a href="https://zhidao.baidu.com/question/367384574464313844.html"target="_blank" rel="external nofollow noopener noreferrer">百度知道</a><br>
 1</p>
 <p>1 1</p>
 <p>1 2 1</p>

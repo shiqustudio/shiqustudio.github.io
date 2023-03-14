@@ -1,15 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>MySQL - 分类 - 拾趣</title>
+    <title>MySQL - 分类 - 我的 Hugo FixIt 网站</title>
     <link>https://shiqustudio.github.io/categories/mysql/</link>
-    <description>MySQL - 分类 - 拾趣</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>403144966@qq.com (xucong)</managingEditor>
-      <webMaster>403144966@qq.com (xucong)</webMaster><lastBuildDate>Thu, 16 Jan 2020 19:28:05 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/mysql/" rel="self" type="application/rss+xml" /><item>
+    <description>MySQL - 分类 - 我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Jan 2020 19:28:05 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/mysql/" rel="self" type="application/rss+xml" /><item>
   <title>SQL 总结</title>
-  <link>https://shiqustudio.github.io/posts/sql/</link>
+  <link>https://shiqustudio.github.io/sql/</link>
   <pubDate>Thu, 16 Jan 2020 19:28:05 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/posts/sql/</guid>
+  <guid>https://shiqustudio.github.io/sql/</guid>
   <description><![CDATA[<blockquote>
 <p>SQL 增删改查 (CRUD) 语句与常用函数总结。</p>
 </blockquote>
