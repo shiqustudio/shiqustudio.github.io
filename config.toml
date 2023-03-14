@@ -627,7 +627,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         clientSecret = ""
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "4K5itRNjmR4FyWTAkW4V1seE-MdYXbMMI"
 		    appKey = "oWd8o2kYa6QvBsijZgfn2B3r"
         placeholder = "just do it"
@@ -661,22 +661,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         commentCount = true # 
       #  Waline 评论系统设置 (https://waline.js.org)
       [params.page.comment.waline]
-        enable = false
-        serverURL = ""
-        pageview = false # 
+        enable = true
+        serverURL = "https://waline.xcapp.live/"
+        pageview = true # 
         emoji = ["//unpkg.com/@waline/emojis@1.1.0/weibo"]
         meta = ["nick", "mail", "link"]
         requiredMeta = []
         login = "enable"
         wordLimit = 0
         pageSize = 10
-        imageUploader = false # 
-        highlighter = false # 
-        comment = false # 
-        texRenderer = false # 
-        search = false # 
+        imageUploader = true # 
+        highlighter = true # 
+        comment = true # 
+        texRenderer = true # 
+        search = true # 
         recaptchaV3Key = "" # 
-        reaction = false # 
+        reaction = true # 
       # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
       [params.page.comment.facebook]
         enable = false
