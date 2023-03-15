@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+    <meta name="robots" content="noodp" />
+    <title>基于 leancloud-storage 实现的无后端记账本 - 我的 Hugo FixIt 网站</title><meta name="author" content="xucong">
+<meta name="author-link" content="https://shiqustudio.github.io/">
+<meta name="description" content="起因
+
+    
+      起因
+    
+    
+      事情是這樣，年前和朋友一起合租了一個房子，然後捏，生活嘛，除了開心，當然是乾飯最大啦！
+自然就會有購物，買菜等日常消費，那就要記賬，一開始是各自記在手機的便簽上，最後再算一下；
+三個人，一共七种組合消費，排除各自消費的三種情況，也有四種 (AB, AC, BC, ABC)。好麻煩啊！！！
+
+    
+  " /><meta name="keywords" content='JavaScript, leancloud, Vue' /><meta itemprop="name" content="基于 leancloud-storage 实现的无后端记账本">
+<meta itemprop="description" content="起因
+
+    
+      起因
+    
+    
+      事情是這樣，年前和朋友一起合租了一個房子，然後捏，生活嘛，除了開心，當然是乾飯最大啦！
+自然就會有購物，買菜等日常消費，那就要記賬，一開始是各自記在手機的便簽上，最後再算一下；
+三個人，一共七种組合消費，排除各自消費的三種情況，也有四種 (AB, AC, BC, ABC)。好麻煩啊！！！
+
+    
+  "><meta itemprop="datePublished" content="2021-03-02T21:46:40+00:00" />
+<meta itemprop="dateModified" content="2021-03-02T21:46:40+00:00" />
+<meta itemprop="wordCount" content="1174"><meta itemprop="image" content="http://localhost:1313/images/avatar.jpg"/>
+<meta itemprop="keywords" content="JavaScript,leancloud,Vue," /><meta property="og:title" content="基于 leancloud-storage 实现的无后端记账本" />
+<meta property="og:description" content="起因
+
+    
+      起因
+    
+    
+      事情是這樣，年前和朋友一起合租了一個房子，然後捏，生活嘛，除了開心，當然是乾飯最大啦！
+自然就會有購物，買菜等日常消費，那就要記賬，一開始是各自記在手機的便簽上，最後再算一下；
+三個人，一共七种組合消費，排除各自消費的三種情況，也有四種 (AB, AC, BC, ABC)。好麻煩啊！！！
+
+    
+  " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/projects/bill-note/" /><meta property="og:image" content="http://localhost:1313/images/avatar.jpg"/><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2021-03-02T21:46:40+00:00" />
+<meta property="article:modified_time" content="2021-03-02T21:46:40+00:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://localhost:1313/images/avatar.jpg"/>
+
+<meta name="twitter:title" content="基于 leancloud-storage 实现的无后端记账本"/>
+<meta name="twitter:description" content="起因
+
+    
+      起因
+    
+    
+      事情是這樣，年前和朋友一起合租了一個房子，然後捏，生活嘛，除了開心，當然是乾飯最大啦！
+自然就會有購物，買菜等日常消費，那就要記賬，一開始是各自記在手機的便簽上，最後再算一下；
+三個人，一共七种組合消費，排除各自消費的三種情況，也有四種 (AB, AC, BC, ABC)。好麻煩啊！！！
+
+    
+  "/>
+<meta name="application-name" content="FixIt">
+<meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://localhost:1313/projects/bill-note/" /><link rel="prev" href="http://localhost:1313/projects/cell-blog/" /><link rel="next" href="http://localhost:1313/projects/cell-watermark/" /><link rel="stylesheet" href="/css/style.min.7e26d426b1b0cb73af8a230659ea9cb7037cf897c34a9b854730676e6eb540f6.css" integrity="sha256-fibUJrGwy3OviiMGWeqctwN8&#43;JfDSpuFRzBnbm61QPY="><link rel="stylesheet" href="/lib/fontawesome-free/all.min.01b035efb5dfa529c512f82962ed633328222da6f33c224244806d4798c67349.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k="><link rel="stylesheet" href="/lib/animate/animate.min.5fbaeb9f8e25d7e0143bae61d4b1802c16ce7390b96ceb2d498b0d96ff4c853f.css" integrity="sha256-X7rrn44l1&#43;AUO65h1LGALBbOc5C5bOstSYsNlv9MhT8="><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "基于 leancloud-storage 实现的无后端记账本",
+    "inLanguage": "zh-CN",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "http:\/\/localhost:1313\/projects\/bill-note\/"
+    },"genre": "posts","keywords": "JavaScript, leancloud, Vue","wordcount":  1174 ,
+    "url": "http:\/\/localhost:1313\/projects\/bill-note\/","datePublished": "2021-03-02T21:46:40+00:00","dateModified": "2021-03-02T21:46:40+00:00","publisher": {
+      "@type": "Organization",
+      "name": ""},"author": {
+        "@type": "Person",
+        "name": "xucong"
+      },"description": ""
+  }
+  </script></head>
+  <body data-header-desktop="sticky" data-header-mobile="auto"><script>(window.localStorage?.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('data-theme', 'dark');</script><div class="wrapper"><header class="desktop animate__faster" id="header-desktop">
+  <div class="header-wrapper" data-github-corner="right">
+    <div class="header-title">
+      <a href="/" title="我的 Hugo FixIt 网站"><img loading="lazy" src="/fixit.min.svg" srcset="/fixit.min.svg, /fixit.min.svg 1.5x, /fixit.min.svg 2x" sizes="auto" data-title="我的 Hugo FixIt 网站" data-alt="我的 Hugo FixIt 网站" class="logo" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span id="typeit-header-desktop" class="typeit"></span></a><span class="header-subtitle"></span></div>
+    <nav>
+      <ul class="menu"><li class="menu-item has-children">
+              <a
+                class="menu-link"
+                href="/posts/"
+                title="文章"
+                
+              ><i class="fa-solid fa-archive fa-fw fa-sm" aria-hidden="true"></i> 文章</a><i class="dropdown-icon fa-solid fa-chevron-down" aria-hidden="true"></i>
+                <ul class="sub-menu">
+                  <li
+                        class="menu-item"
+                      >
+                        <a
+                          class="menu-link"
+                          href="/books/"
+                          title="学习资料"
+                          
+                        ><i class="fa-solid fa-laptop-code fa-fw fa-sm" aria-hidden="true"></i> 学习项目</a>
+                      </li></ul></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/categories/"
+                title="分类"
+                
+              ><i class="fa-solid fa-th fa-fw fa-sm" aria-hidden="true"></i> 分类</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/tags/"
+                title="标签"
+                
+              ><i class="fa-solid fa-tags fa-fw fa-sm" aria-hidden="true"></i> 标签</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/friends/"
+                title="友情链接"
+                
+              ><i class="fa-solid fa-users fa-fw fa-sm" aria-hidden="true"></i> 友链</a></li><li class="menu-item">
+              <a
+                class="menu-link"
+                href="/guestbook/"
+                title="留言"
+                
+              ><i class="fa-solid fa-comments fa-fw fa-sm" aria-hidden="true"></i> 留言</a></li><li class="menu-item active has-children">
+              <a
+                class="menu-link"
+                href="/about/"
+                title="留言"
+                
+              ><i class="fa-solid fa-user-tie fa-fw fa-sm" aria-hidden="true"></i> 關於</a><i class="dropdown-icon fa-solid fa-chevron-down" aria-hidden="true"></i>
+                <ul class="sub-menu">
+                  <li
+                        class="menu-item active"
+                      >
+                        <a
+                          class="menu-link"
+                          href="/projects/"
+                          title="项目"
+                          
+                        ><i class="fa-solid fa-laptop-code fa-fw fa-sm" aria-hidden="true"></i> 我的项目</a>
+                      </li></ul></li><li class="menu-item delimiter"></li><li class="menu-item search" id="search-desktop">
+            <input type="text" placeholder="搜索文章标题或内容……" id="search-input-desktop">
+            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+              <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+            </a>
+            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+              <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+            </a>
+            <span class="search-button search-loading" id="search-loading-desktop">
+              <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+            </span>
+          </li><li class="menu-item theme-switch" title="切换主题">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header><header class="mobile animate__faster" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="/" title="我的 Hugo FixIt 网站"><img loading="lazy" src="/fixit.min.svg" srcset="/fixit.min.svg, /fixit.min.svg 1.5x, /fixit.min.svg 2x" sizes="auto" data-title="/fixit.min.svg" data-alt="/fixit.min.svg" class="logo" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span id="typeit-header-title-mobile" class="typeit"></span></a><span class="header-subtitle"></span></div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <nav>
+      <ul class="menu" id="menu-mobile"><li class="search-wrapper">
+            <div class="search mobile" id="search-mobile">
+              <input type="text" placeholder="搜索文章标题或内容……" id="search-input-mobile">
+              <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+              </a>
+              <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+              </a>
+              <span class="search-button search-loading" id="search-loading-mobile">
+                <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+              </span>
+            </div>
+            <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+              取消
+            </a>
+          </li><li
+              class="menu-item"
+            ><span class="nested-item">
+                  <a
+                    class="menu-link"
+                    href="/posts/"
+                    title="文章"
+                    
+                  ><i class="fa-solid fa-archive fa-fw fa-sm" aria-hidden="true"></i> 文章</a>
+                  <i class="dropdown-icon fa-solid fa-chevron-right" aria-hidden="true"></i>
+                </span>
+                <ul class="sub-menu">
+                  <li
+                        class="menu-item"
+                      >
+                        <a
+                          class="menu-link"
+                          href="/books/"
+                          title="学习资料"
+                          
+                        ><i class="fa-solid fa-laptop-code fa-fw fa-sm" aria-hidden="true"></i> 学习项目</a>
+                      </li></ul></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/categories/"
+                  title="分类"
+                  
+                ><i class="fa-solid fa-th fa-fw fa-sm" aria-hidden="true"></i> 分类</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/tags/"
+                  title="标签"
+                  
+                ><i class="fa-solid fa-tags fa-fw fa-sm" aria-hidden="true"></i> 标签</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/friends/"
+                  title="友情链接"
+                  
+                ><i class="fa-solid fa-users fa-fw fa-sm" aria-hidden="true"></i> 友链</a></li><li
+              class="menu-item"
+            ><a
+                  class="menu-link"
+                  href="/guestbook/"
+                  title="留言"
+                  
+                ><i class="fa-solid fa-comments fa-fw fa-sm" aria-hidden="true"></i> 留言</a></li><li
+              class="menu-item active"
+            ><span class="nested-item">
+                  <a
+                    class="menu-link"
+                    href="/about/"
+                    title="留言"
+                    
+                  ><i class="fa-solid fa-user-tie fa-fw fa-sm" aria-hidden="true"></i> 關於</a>
+                  <i class="dropdown-icon fa-solid fa-chevron-right" aria-hidden="true"></i>
+                </span>
+                <ul class="sub-menu">
+                  <li
+                        class="menu-item active"
+                      >
+                        <a
+                          class="menu-link"
+                          href="/projects/"
+                          title="项目"
+                          
+                        ><i class="fa-solid fa-laptop-code fa-fw fa-sm" aria-hidden="true"></i> 我的项目</a>
+                      </li></ul></li><li class="menu-item theme-switch" title="切换主题">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li></ul>
+    </nav>
+  </div>
+</header><div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+  </div>
+  <div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+  </div><main class="container" data-page-style="normal"><aside class="toc" id="toc-auto"><h2 class="toc-title">目录&nbsp;<i class="toc-icon fa-solid fa-angle-down fa-fw" aria-hidden="true"></i></h2>
+      <div class="toc-content" id="toc-content-auto"></div></aside>
+
+  <aside class="aside-custom">
+    </aside>
+
+  <article class="page single">
+    <div class="header"><h1 class="single-title animate__animated animate__flipInX">
+        <span>基于 leancloud-storage 实现的无后端记账本</span>
+      </h1></div><div class="post-meta">
+      <div class="post-meta-line"><span class="post-author"><a href="https://shiqustudio.github.io/" title="作者"target="_blank" rel="external nofollow noopener noreferrer author" class="author"><img loading="lazy" src="/images/avatar.png" srcset="/images/avatar.png, /images/avatar.png 1.5x, /images/avatar.png 2x" sizes="auto" data-title="xucong" data-alt="xucong" class="avatar" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/>&nbsp;xucong</a></span>
+          <span class="post-category">收录于 <a href="/categories/projects/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> Projects</a>&ensp;<a href="/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> 瞎折腾</a></span></div>
+      <div class="post-meta-line"><span title="发布于 2021-03-02 21:46:40"><i class="fa-regular fa-calendar-alt fa-fw me-1" aria-hidden="true"></i><time datetime="2021-03-02">2021-03-02</time></span>&nbsp;<span title="更新于 2021-03-02 21:46:40"><i class="fa-regular fa-edit fa-fw me-1" aria-hidden="true"></i><time datetime="2021-03-02">2021-03-02</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 1174 字</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>预计阅读 3 分钟</span>&nbsp;<span class="comment-visitors" data-flag-title="基于 leancloud-storage 实现的无后端记账本">
+              <i class="fa-regular fa-eye fa-fw me-1" aria-hidden="true"></i><span data-path="/projects/bill-note/" class="waline-pageview-count">-</span>&nbsp;次阅读
+            </span>&nbsp;<span class="comment-count" data-flag-title="基于 leancloud-storage 实现的无后端记账本">
+              <i class="fa-regular fa-comments fa-fw me-1" aria-hidden="true"></i><span data-path="/projects/bill-note/" class="waline-comment-count">-</span>&nbsp;条评论
+            </span>&nbsp;</div>
+    </div><div class="details toc" id="toc-static" data-kept="false">
+        <div class="details-summary toc-title">
+          <span>目录</span>
+          <span><i class="details-icon fa-solid fa-angle-right" aria-hidden="true"></i></span>
+        </div>
+        <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#起因">起因</a></li>
+    <li><a href="#經過">經過</a></li>
+    <li><a href="#結果">結果</a>
+      <ul>
+        <li><a href="#數據設計">數據設計</a></li>
+        <li><a href="#主要邏輯">主要邏輯</a>
+          <ul>
+            <li><a href="#初始化">初始化</a></li>
+            <li><a href="#存數據">存數據</a></li>
+            <li><a href="#取數據">取數據</a></li>
+          </ul>
+        </li>
+        <li><a href="#技術棧">技術棧</a></li>
+      </ul>
+    </li>
+    <li><a href="#總結">總結</a></li>
+  </ul>
+</nav></div>
+      </div><div class="content" id="content" data-end-flag="（完）"><div class="details admonition warning open">
+      <div class="details-summary admonition-title">
+        <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+      </div>
+      <div class="details-content">
+        <div class="admonition-content">本文最后更新于 2021-03-02，文中内容可能已过时。</div>
+      </div>
+    </div><h2 id="起因">起因</h2>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>起因<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>事情是這樣，年前和朋友一起合租了一個房子，然後捏，生活嘛，除了開心，當然是乾飯最大啦！</p>
+<p>自然就會有購物，買菜等日常消費，那就要記賬，一開始是各自記在手機的便簽上，最後再算一下；<br>
+三個人，一共七种組合消費，排除各自消費的三種情況，也有四種 (<code>AB, AC, BC, ABC</code>)。好麻煩啊！！！</p>
+</div>
+    </div>
+  </div>
+<h2 id="經過">經過</h2>
+<p>作為一個程序猿，怎麼能接受這麼麻煩的記賬方式呢，拿起筆就開始畫，於是有了下面這張圖的公式。簡單說明一下就是：<br>
+設前面說的四種組合為：<code>X1, X2, X3, X4</code>，個人實際付款總額為：<code>Y1, Y2, Y3</code>，那麼帶入未知數，我們就可以算出每個人最後結算時的錢：<code>S1, S2, S3</code>，<br>
+綜上所述，很好理解，當 <code>S &gt;= 0</code> 時，收紅包，當 <code>S &lt; 0</code> 時，發紅包。</p>
+<p><img loading="lazy" src="images/gs.jpg" srcset="/projects/bill-note/images/gs.jpg, images/gs.jpg 1.5x, /projects/bill-note/images/gs.jpg 2x" sizes="auto" data-title="计算公式" data-alt="计算公式" width="4000" height="3000" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></p>
+<p>OK，一個簡單的初中方程式已經到位了，下一步，思考一下，用什麼來運作這個這個方程。來，先跑個題，春節期間，不是每天都要在騰訊文檔上填表記錄活動軌跡嗎？ 再回來，那不如就用 excel 實現吧，三個人都可以在手機上編輯。好的，說做就做。</p>
+<p>一頓操作，10 minutes later&hellip;<br>
+只新建了一個 excel 文件，O.o! 不會 excel，果斷放棄，另尋他路。</p>
+<h2 id="結果">結果</h2>
+<p>回到本職，那不如寫個網站吧，可是畢業後，學生機服務器也過期了，怎麼搞？那就寫個純前端的，數據呢存哪裡？<br>
+別急，重新擼一擼需求先：</p>
+<ul>
+<li>存取消費數據</li>
+<li>計算每月，實付（總分），應付以及最後計算結算金額</li>
+<li>按月查詢，月結賬單</li>
+<li>三人皆可編輯</li>
+</ul>
+<p>主要就是存取數據這點，沒有服務器，數據庫怎麼實現？<br>
+valine 可以實現無後端，那我是不是也可以，leancloud 文檔走一波，然後“數據表”設計一下，其實是 leancloud-storage Object ，於是有了以下東西，源碼放在 Github</p>
+<a href="http://github.com/Lruihao/bill-note"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
+    <span class="cl-content">
+      <span class="cl-text">
+        <span class="cl-title">bill-note</span>
+        <span class="cl-meta">
+          <svg class="cl-icon-link" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M574 665.4c-3.1-3.1-8.2-3.1-11.3 0L446.5 781.6c-53.8 53.8-144.6 59.5-204 0-59.5-59.5-53.8-150.2 0-204l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3l-39.8-39.8c-3.1-3.1-8.2-3.1-11.3 0L191.4 526.5c-84.6 84.6-84.6 221.5 0 306s221.5 84.6 306 0l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3L574 665.4zM832.6 191.4c-84.6-84.6-221.5-84.6-306 0L410.3 307.6c-3.1 3.1-3.1 8.2 0 11.3l39.7 39.7c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c53.8-53.8 144.6-59.5 204 0 59.5 59.5 53.8 150.2 0 204L665.3 562.6c-3.1 3.1-3.1 8.2 0 11.3l39.8 39.8c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c84.5-84.6 84.5-221.5 0-306.1z" fill="#a9a9b3"></path><path d="M610.1 372.3c-3.1-3.1-8.2-3.1-11.3 0L372.3 598.7c-3.1 3.1-3.1 8.2 0 11.3l39.6 39.6c3.1 3.1 8.2 3.1 11.3 0l226.4-226.4c3.1-3.1 3.1-8.2 0-11.3l-39.5-39.6z" fill="#a9a9b3"></path></svg>
+          <span class="cl-url">http://github.com/Lruihao/bill-note</span>
+        </span>
+      </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
+<h3 id="數據設計">數據設計</h3>
+<p>去 leancloud 创建一个应用，再新增一个 Bill Class, 补充一下字段：</p>
+<table>
+<thead>
+<tr>
+<th>name</th>
+<th>type</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pay</td>
+<td>Number</td>
+<td>消费金额</td>
+</tr>
+<tr>
+<td>pay_description</td>
+<td>String</td>
+<td>消费描述</td>
+</tr>
+<tr>
+<td>pay_type</td>
+<td>String</td>
+<td>消费类型</td>
+</tr>
+<tr>
+<td>pay_user</td>
+<td>String</td>
+<td>付款人</td>
+</tr>
+</tbody>
+</table>
+<h3 id="主要邏輯">主要邏輯</h3>
+<h4 id="初始化">初始化</h4>
+<p>set for yourself.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">AV</span><span class="p">.</span><span class="nx">init</span><span class="p">({</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">appId</span><span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">appKey</span><span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">serverURL</span><span class="o">:</span> <span class="s1">&#39;&#39;</span>
+</span></span><span class="line"><span class="cl"><span class="p">});</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="存數據">存數據</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="c1">//記賬提交按鈕事件監聽
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;.submit&#39;</span><span class="p">).</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">event</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">event</span><span class="p">.</span><span class="nx">preventDefault</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">formPay</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;#form-pay&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">bill</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AV</span><span class="p">.</span><span class="nb">Object</span><span class="p">(</span><span class="s1">&#39;Bill&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">bill</span><span class="p">.</span><span class="nx">set</span><span class="p">(</span><span class="s1">&#39;pay&#39;</span><span class="p">,</span> <span class="nb">Number</span><span class="p">(</span><span class="nx">formPay</span><span class="p">.</span><span class="nx">pay</span><span class="p">.</span><span class="nx">value</span><span class="p">));</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">bill</span><span class="p">.</span><span class="nx">set</span><span class="p">(</span><span class="s1">&#39;pay_type&#39;</span><span class="p">,</span> <span class="nb">Number</span><span class="p">(</span><span class="nx">formPay</span><span class="p">.</span><span class="nx">pay_type</span><span class="p">.</span><span class="nx">value</span><span class="p">));</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">bill</span><span class="p">.</span><span class="nx">set</span><span class="p">(</span><span class="s1">&#39;pay_user&#39;</span><span class="p">,</span> <span class="nb">Number</span><span class="p">(</span><span class="nx">formPay</span><span class="p">.</span><span class="nx">pay_user</span><span class="p">.</span><span class="nx">value</span><span class="p">));</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">bill</span><span class="p">.</span><span class="nx">set</span><span class="p">(</span><span class="s1">&#39;pay_description&#39;</span><span class="p">,</span> <span class="nx">formPay</span><span class="p">.</span><span class="nx">pay_description</span><span class="p">.</span><span class="nx">value</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">bill</span><span class="p">.</span><span class="nx">save</span><span class="p">().</span><span class="nx">then</span><span class="p">(</span>
+</span></span><span class="line"><span class="cl">    <span class="p">(</span><span class="nx">object</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">formPay</span><span class="p">.</span><span class="nx">reset</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">function</span> <span class="p">(</span><span class="nx">error</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">error</span><span class="p">));</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;保存失敗&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">});</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="取數據">取數據</h4>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span><span class="lnt">49
+</span><span class="lnt">50
+</span><span class="lnt">51
+</span><span class="lnt">52
+</span><span class="lnt">53
+</span><span class="lnt">54
+</span><span class="lnt">55
+</span><span class="lnt">56
+</span><span class="lnt">57
+</span><span class="lnt">58
+</span><span class="lnt">59
+</span><span class="lnt">60
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="cm">/**
+</span></span></span><span class="line"><span class="cl"><span class="cm"> * 獲取歷史消費記錄數據
+</span></span></span><span class="line"><span class="cl"><span class="cm"> * @param [start=0] 開始位置
+</span></span></span><span class="line"><span class="cl"><span class="cm"> * @param [count=15] 每次查詢筆數
+</span></span></span><span class="line"><span class="cl"><span class="cm"> */</span>
+</span></span><span class="line"><span class="cl"><span class="kd">function</span> <span class="nx">getBillData</span><span class="p">(</span><span class="nx">start</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nx">count</span> <span class="o">=</span> <span class="mi">15</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">queryBill</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="nx">descending</span><span class="p">(</span><span class="s1">&#39;createdAt&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="nx">skip</span><span class="p">(</span><span class="nx">start</span> <span class="o">*</span> <span class="nx">count</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="nx">limit</span><span class="p">(</span><span class="nx">count</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="nx">find</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="kd">function</span> <span class="p">(</span><span class="nx">response</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="kd">let</span> <span class="nx">billLength</span> <span class="o">=</span> <span class="nx">response</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="k">if</span> <span class="p">(</span><span class="nx">billLength</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">billVm</span><span class="p">.</span><span class="nx">noMore</span> <span class="o">=</span> <span class="nx">billLength</span> <span class="o">!==</span> <span class="nx">count</span> <span class="o">?</span> <span class="kc">true</span> <span class="o">:</span> <span class="kc">false</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="k">for</span> <span class="p">(</span><span class="nx">bill</span> <span class="k">of</span> <span class="nx">response</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">          <span class="nx">billVm</span><span class="p">.</span><span class="nx">bills</span><span class="p">.</span><span class="nx">push</span><span class="p">({</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">pay</span><span class="o">:</span> <span class="nx">bill</span><span class="p">.</span><span class="nx">attributes</span><span class="p">.</span><span class="nx">pay</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">payType</span><span class="o">:</span> <span class="nx">payType</span><span class="p">[</span><span class="nx">bill</span><span class="p">.</span><span class="nx">attributes</span><span class="p">.</span><span class="nx">pay_type</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">payUser</span><span class="o">:</span> <span class="nx">payUser</span><span class="p">[</span><span class="nx">bill</span><span class="p">.</span><span class="nx">attributes</span><span class="p">.</span><span class="nx">pay_user</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">payDescription</span><span class="o">:</span> <span class="nx">bill</span><span class="p">.</span><span class="nx">attributes</span><span class="p">.</span><span class="nx">pay_description</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">            <span class="nx">payDt</span><span class="o">:</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">(</span><span class="nx">bill</span><span class="p">.</span><span class="nx">createdAt</span><span class="p">).</span><span class="nx">toLocaleString</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">          <span class="p">});</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">      <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">billVm</span><span class="p">.</span><span class="nx">noMore</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">});</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="cm">/**
+</span></span></span><span class="line"><span class="cl"><span class="cm"> * 獲取月賬單數據
+</span></span></span><span class="line"><span class="cl"><span class="cm"> * @param month 年月份 fmt: yyyy-MM
+</span></span></span><span class="line"><span class="cl"><span class="cm"> */</span>
+</span></span><span class="line"><span class="cl"><span class="kd">function</span> <span class="nx">getMonthBill</span><span class="p">(</span><span class="nx">month</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">dateTime</span> <span class="o">=</span> <span class="sb">`</span><span class="si">${</span><span class="nx">month</span><span class="si">}</span><span class="sb"> 00:00:00`</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">startMonth</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">(</span><span class="nx">dateTime</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">nextMonth</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">(</span><span class="k">new</span> <span class="nb">Date</span><span class="p">(</span><span class="nx">dateTime</span><span class="p">).</span><span class="nx">setMonth</span><span class="p">(</span><span class="nx">startMonth</span><span class="p">.</span><span class="nx">getMonth</span><span class="p">()</span> <span class="o">+</span> <span class="mi">1</span><span class="p">));</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">startDateQuery</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AV</span><span class="p">.</span><span class="nx">Query</span><span class="p">(</span><span class="s1">&#39;Bill&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">startDateQuery</span><span class="p">.</span><span class="nx">greaterThanOrEqualTo</span><span class="p">(</span><span class="s1">&#39;createdAt&#39;</span><span class="p">,</span> <span class="nx">startMonth</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">endDateQuery</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">AV</span><span class="p">.</span><span class="nx">Query</span><span class="p">(</span><span class="s1">&#39;Bill&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">endDateQuery</span><span class="p">.</span><span class="nx">lessThan</span><span class="p">(</span><span class="s1">&#39;createdAt&#39;</span><span class="p">,</span> <span class="nx">nextMonth</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">MonthBillQuery</span> <span class="o">=</span> <span class="nx">AV</span><span class="p">.</span><span class="nx">Query</span><span class="p">.</span><span class="nx">and</span><span class="p">(</span><span class="nx">startDateQuery</span><span class="p">,</span> <span class="nx">endDateQuery</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">MonthBillQuery</span><span class="p">.</span><span class="nx">find</span><span class="p">().</span><span class="nx">then</span><span class="p">(</span><span class="kd">function</span> <span class="p">(</span><span class="nx">response</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">billVm</span><span class="p">.</span><span class="nx">monthBill</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">payType0</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">payType1</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">payType2</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">payType3</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">payUser0</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">payUser1</span><span class="o">:</span> <span class="mi">0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">payUser2</span><span class="o">:</span> <span class="mi">0</span>
+</span></span><span class="line"><span class="cl">    <span class="p">};</span>
+</span></span><span class="line"><span class="cl">    <span class="k">for</span> <span class="p">(</span><span class="nx">bill</span> <span class="k">of</span> <span class="nx">response</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="kd">let</span> <span class="p">{</span> <span class="nx">pay</span><span class="p">,</span> <span class="nx">pay_type</span><span class="p">,</span> <span class="nx">pay_user</span> <span class="p">}</span> <span class="o">=</span> <span class="nx">bill</span><span class="p">.</span><span class="nx">attributes</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">billVm</span><span class="p">.</span><span class="nx">monthBill</span><span class="p">[</span><span class="sb">`payType</span><span class="si">${</span><span class="nx">pay_type</span><span class="si">}</span><span class="sb">`</span><span class="p">]</span> <span class="o">+=</span> <span class="nx">pay</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">billVm</span><span class="p">.</span><span class="nx">monthBill</span><span class="p">[</span><span class="sb">`payUser</span><span class="si">${</span><span class="nx">pay_user</span><span class="si">}</span><span class="sb">`</span><span class="p">]</span> <span class="o">+=</span> <span class="nx">pay</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">});</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="技術棧">技術棧</h3>
+<ul>
+<li>leancloud-storage</li>
+<li>Vue.js</li>
+<li>HTML,CSS,JS</li>
+</ul>
+<h2 id="總結">總結</h2>
+<p>簡單總結一下，登录功能不做，安不安全自己说了算。删除修改功能也不做，直接上 leancloud 操作，css 美化的样式也不写，干净又卫生！<br>
+然后衍生一下，什么过年斗地主，天炸，麻将，字牌记账系统那不也是同理可得嘛！</p>
+<p>over!</p>
+<p><figure><a class="lightgallery" href="/projects/bill-note/images/demo.jpg" data-thumbnail="/projects/bill-note/images/demo.jpg" data-sub-html="<h2>效果</h2><p>Demo</p>"><img loading="lazy" src="images/demo.jpg" srcset="/projects/bill-note/images/demo.jpg, images/demo.jpg 1.5x, /projects/bill-note/images/demo.jpg 2x" sizes="auto" data-title="Demo" data-alt="效果" width="1080" height="6005" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></a><figcaption class="image-caption">效果</figcaption>
+  </figure></p></div><div class="post-footer" id="post-footer">
+  <div class="post-info">
+    <div class="post-info-line">
+      <div class="post-info-mod">
+        <span title="更新于 2021-03-02 21:46:40">更新于 2021-03-02&nbsp;<a class="git-hash" href="https://github.com/shiqustudio/hugo-blog/commit/a4056b18b7baade507e5d8a7f65b0957b8c1f135" rel="external nofollow noopener noreferrer" target="_blank" title="commit by Silnce1124.github.io(403144966@qq.com) a4056b18b7baade507e5d8a7f65b0957b8c1f135: 20230315"><i class="fa-solid fa-hashtag fa-fw" aria-hidden="true"></i>a4056b1</a></span>
+      </div><div class="post-info-license">
+          <span><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span>
+        </div></div>
+    <div class="post-info-line">
+      <div class="post-info-md"><span><a href="/projects/bill-note/index.md" title="阅读原始文档" class="link-to-markdown">阅读原始文档</a></span></div>
+      <div class="post-info-share">
+        <span><a href="javascript:void(0);" title="分享到 Twitter" data-sharer="twitter" data-url="http://localhost:1313/projects/bill-note/" data-title="基于 leancloud-storage 实现的无后端记账本" data-hashtags="JavaScript,leancloud,Vue"><i class="fa-brands fa-twitter fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Facebook" data-sharer="facebook" data-url="http://localhost:1313/projects/bill-note/" data-hashtag="JavaScript"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 WhatsApp" data-sharer="whatsapp" data-url="http://localhost:1313/projects/bill-note/" data-title="基于 leancloud-storage 实现的无后端记账本" data-web><i class="fa-brands fa-whatsapp fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Line" data-sharer="line" data-url="http://localhost:1313/projects/bill-note/" data-title="基于 leancloud-storage 实现的无后端记账本"><i data-svg-src="/lib/simple-icons/icons/line.min.svg" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 微博" data-sharer="weibo" data-url="http://localhost:1313/projects/bill-note/" data-title="基于 leancloud-storage 实现的无后端记账本"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Myspace" data-sharer="myspace" data-url="http://localhost:1313/projects/bill-note/" data-title="基于 leancloud-storage 实现的无后端记账本" data-description=""><i data-svg-src="/lib/simple-icons/icons/myspace.min.svg" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Blogger" data-sharer="blogger" data-url="http://localhost:1313/projects/bill-note/" data-title="基于 leancloud-storage 实现的无后端记账本" data-description=""><i class="fa-brands fa-blogger fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Evernote" data-sharer="evernote" data-url="http://localhost:1313/projects/bill-note/" data-title="基于 leancloud-storage 实现的无后端记账本"><i class="fa-brands fa-evernote fa-fw" aria-hidden="true"></i></a>
+  </span>
+      </div>
+    </div>
+  </div>
+
+  <div class="post-info-more">
+    <section class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href='/tags/javascript/' class="post-tag">JavaScript</a><a href='/tags/leancloud/' class="post-tag">leancloud</a><a href='/tags/vue/' class="post-tag">Vue</a></section>
+    <section>
+      <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+    </section>
+  </div>
+
+  <div class="post-nav"><a href="/projects/cell-blog/" class="post-nav-item" rel="prev" title="cell-blog 功能介绍与安装"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>cell-blog 功能介绍与安装</a>
+      <a href="/projects/cell-watermark/" class="post-nav-item" rel="next" title="Cell Watermark">Cell Watermark<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+<div class="post-reward">
+    <div class="comment"></div>
+    <input type="checkbox" class="reward-input" name="reward" id="fi-reward" hidden />
+    <label class="reward-button" for="fi-reward">赞赏</label>
+    <div class="reward-ways"><div><img loading="lazy" src="/images/alipay.png" srcset="/images/alipay.png, /images/alipay.png 1.5x, /images/alipay.png 2x" sizes="auto" data-title="xucong 支付宝" data-alt="xucong 支付宝" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span data-animation>支付宝</span>
+          </div><div><img loading="lazy" src="/images/wechatpay.png" srcset="/images/wechatpay.png, /images/wechatpay.png 1.5x, /images/wechatpay.png 2x" sizes="auto" data-title="xucong 微信" data-alt="xucong 微信" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span data-animation>微信</span>
+          </div></div>
+  </div><div id="comments"><div id="waline" class="comment"></div><noscript>
+        Please enable JavaScript to view the comments powered by <a href="https://waline.js.org/" rel="external nofollow noopener noreferrer">Waline</a>.
+      </noscript></div></article></main><footer class="footer">
+    <div class="footer-container"><div class="footer-line powered">由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.111.3">Hugo</a> 强力驱动 | 主题 - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.2.18-RC"><img class="fixit-icon" src="/fixit.min.svg" alt="FixIt logo" />&nbsp;FixIt</a>
+        </div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
+            <span itemprop="copyrightYear">2021 - 2023</span><span class="author" itemprop="copyrightHolder">
+              <a href="https://shiqustudio.github.io/"target="_blank" rel="external nofollow noopener noreferrer">xucong</a></span><span class="license footer-divider"><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div><div class="footer-line statistics order-first"><span class="site-time" title='网站运行中……'><i class="fa-solid fa-heartbeat fa-fw animate-icon" aria-hidden="true"></i><span class="ms-1 d-none">博客已运行</span><span class="run-times ms-1">网站运行中……</span></span></div><div class="footer-line visitor">
+          <span id="busuanzi_container_site_uv" title='总访客数'><i class="fa-regular fa-user fa-fw" aria-hidden="true"></i>&nbsp;<span id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin fa-fw" aria-hidden="true"></i></span></span><span id="busuanzi_container_site_pv" class="footer-divider" title='总访问量'><i class="fa-regular fa-eye fa-fw" aria-hidden="true"></i>&nbsp;<span id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin fa-fw" aria-hidden="true"></i></span></span>
+        </div></div>
+  </footer></div><div class="widgets"><div class="fixed-buttons animate__faster d-none"><div class="fixed-button back-to-top" role="button" aria-label="回到顶部"><i class="fa-solid fa-arrow-up fa-fw" aria-hidden="true"></i><span class="variant-numeric">0%</span>
+        </div><div class="fixed-button view-comments d-none" role="button" aria-label="查看评论"><i class="fa-solid fa-comment fa-fw" aria-hidden="true"></i></div></div><a href="https://github.com/hugo-fixit/FixIt" title="在 GitHub 上查看源代码"target="_blank" rel="external nofollow" class="github-corner right d-none-mobile"><svg viewBox="0 0 250 250" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><div id="mask"></div><div class="reading-progress-bar" style="left: 0;top: 0;"></div><noscript>
+    <div class="noscript-warning">FixIt 主题在启用 JavaScript 的情况下效果最佳。</div>
+  </noscript>
+</div><link rel="stylesheet" href="/lib/waline/waline.dc7963c2dd8be74ce784e1c7a5d90ea7b0ab76396c0e4ee03ac90f3d946648f6.css" integrity="sha256-3Hljwt2L50znhOHHpdkOp7CrdjlsDk7gOskPPZRmSPY="><link rel="stylesheet" href="/lib/lightgallery/css/lightgallery-bundle.min.120f067ebd6f322339e2ccccd7e87e334d7c7ea5b2bd553f325f2ae3c3ae6fe8.css" integrity="sha256-Eg8Gfr1vMiM54szM1&#43;h&#43;M018fqWyvVU/Ml8q48Oub&#43;g="><link rel="stylesheet" href="/lib/katex/katex.min.a1609a6c27cf7783a2db5c2a65ecc14b3fda9eda38558709a9cf6c33d2334139.css" integrity="sha256-oWCabCfPd4Oi21wqZezBSz/anto4VYcJqc9sM9IzQTk="><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.cd0d0b6e50ff01ff2f3a9a70d7cfb66a7c6cb9acf7a566325568be6d3bd31fc4.css" integrity="sha256-zQ0LblD/Af8vOppw18&#43;2anxsuaz3pWYyVWi&#43;bTvTH8Q="><link rel="stylesheet" href="/lib/pace/themes/blue/pace-theme-minimal.3e16fae4203c52d34839f9d15c349407478e6a49eaf8cbaad7e258f019b7ccae.css" integrity="sha256-Phb65CA8UtNIOfnRXDSUB0eOaknq&#43;Muq1&#43;JY8Bm3zK4="><script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="/lib/object-fit-images/ofi.min.37217cfedb39356d2a0fd317e4a8ee87d225f4364e3afc7473ab5a8e7d97ec64.js" integrity="sha256-NyF8/ts5NW0qD9MX5Kjuh9Il9DZOOvx0c6tajn2X7GQ="></script><script src="/lib/waline/waline.aa2b3a22e2ad38865a5fb5c41abfb9efdd6023ae95363cbdea6cd1183280ea06.js" integrity="sha256-qis6IuKtOIZaX7XEGr+5791gI66VNjy96mzRGDKA6gY=" defer></script><script src="/lib/autocomplete/autocomplete.min.ae2da1bd62c6469ee27770ad1cddf2e8296d8a7f6d85b091463e5200c5e320af.js" integrity="sha256-ri2hvWLGRp7id3CtHN3y6Cltin9thbCRRj5SAMXjIK8=" defer></script><script src="/lib/lunr/lunr.min.08a93c0120364b01159db3c287f39b2180bb740334472bda0675bd3f18981676.js" integrity="sha256-CKk8ASA2SwEVnbPCh/ObIYC7dAM0RyvaBnW9PxiYFnY=" defer></script><script src="/lib/lunr/lunr.stemmer.support.min.8127f0ca4cabc7246f3620f3ef3bf9b1db02805dfe03d6d4c57bc74bc0bf6eea.js" integrity="sha256-gSfwykyrxyRvNiDz7zv5sdsCgF3+A9bUxXvHS8C/buo=" defer></script><script src="/lib/lunr/lunr.zh.min.df40c83b86d7cea2122cd35d56db3e6e4bc34b09a62755f0f3c48b5e9c66a8a4.js" integrity="sha256-30DIO4bXzqISLNNdVts+bkvDSwmmJ1Xw88SLXpxmqKQ=" defer></script><script src="/lib/instant-page/instantpage.min.f275af85c0e0dee6a46ed2867180f0f9a0f9cb9a4b9a74e3814fced569ef163d.js" integrity="sha256-8nWvhcDg3uakbtKGcYDw+aD5y5pLmnTjgU/O1WnvFj0=" async defer type="module"></script><script src="/lib/twemoji/twemoji.min.706224d8dc5440460f8ed91c1a6aad25d732af6e0ee6fb31151b157ab485babb.js" integrity="sha256-cGIk2NxUQEYPjtkcGmqtJdcyr24O5vsxFRsVerSFurs=" defer></script><script src="/lib/lightgallery/lightgallery.min.a109d6550e0f5c7f5ad89c835407ceb18ed48d1e50d6d9b6c37234d5ee7ebaa8.js" integrity="sha256-oQnWVQ4PXH9a2JyDVAfOsY7UjR5Q1tm2w3I01e5+uqg=" defer></script><script src="/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.baa7d26c390a254160ee3ae0f09a9a16c77d1a5b4b6853c5e4487de764fee24b.js" integrity="sha256-uqfSbDkKJUFg7jrg8JqaFsd9GltLaFPF5Eh952T+4ks=" defer></script><script src="/lib/lightgallery/plugins/zoom/lg-zoom.min.056f82747a5949da14472c62a803167ecbdc3f847fc44755e5b33ec7f1319f02.js" integrity="sha256-BW+CdHpZSdoURyxiqAMWfsvcP4R/xEdV5bM+x/ExnwI=" defer></script><script src="/lib/sharer/sharer.min.ba5171a78670b031914e623431a33a3d73c1ea9897e552ba73bc2c2da7c777b9.js" integrity="sha256-ulFxp4ZwsDGRTmI0MaM6PXPB6piX5VK6c7wsLafHd7k=" async defer></script><script src="/lib/typeit/index.umd.16f3fa3374a7eea31f19672293edc98326413002dea74b8c413a74f1b7e4f1cf.js" integrity="sha256-FvP6M3Sn7qMfGWcik+3JgyZBMALep0uMQTp08bfk8c8=" defer></script><script src="/lib/katex/katex.min.13870312562afc8fad155a133018c3f2a4ef1cb2e6765b73f40151ab664ff8d6.js" integrity="sha256-E4cDElYq/I+tFVoTMBjD8qTvHLLmdltz9AFRq2ZP+NY=" defer></script><script src="/lib/katex/auto-render.min.9cb8dacfc086c2966c9ec4ba54f4a2dc43b7cbe2b33cec1a2743d886c7fb47a7.js" integrity="sha256-nLjaz8CGwpZsnsS6VPSi3EO3y+KzPOwaJ0PYhsf7R6c=" defer></script><script src="/lib/katex/copy-tex.min.52ce78fab4860d24ef22128a52ce24ca01368a9034457a565a1d3fccbab0ddbb.js" integrity="sha256-Us54+rSGDSTvIhKKUs4kygE2ipA0RXpWWh0/zLqw3bs=" defer></script><script src="/lib/katex/mhchem.min.5c0a121a8b490afc85860a522347aeb34fb508c6b23044e5d29f6b2194227b51.js" integrity="sha256-XAoSGotJCvyFhgpSI0eus0+1CMayMETl0p9rIZQie1E=" defer></script><script src="/lib/cookieconsent/cookieconsent.min.e55842a856a6d829feca3c3ad736c136b6c7549e9247274f78aa296259e06e24.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" defer></script><script src="/lib/pangu/pangu.min.8feca3e7a71d118d82c2456d1b2cf5f1f3726c51a930627c2711b7192c8edbe2.js" integrity="sha256-j+yj56cdEY2CwkVtGyz18fNybFGpMGJ8JxG3GSyO2+I=" defer></script><script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async defer></script><script src="/lib/pace/pace.min.82a77b6138e0fc1b5fa964b0b093af9dd97407173c8052262c4917413f3eaa3d.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" async defer></script><script>window.config={"autoBookmark":true,"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"comment":{"enable":true,"expired":false,"waline":{"comment":true,"copyright":true,"dark":"body[data-theme='dark']","el":"#waline","emoji":["//unpkg.com/@waline/emojis@1.1.0/weibo"],"highlighter":true,"imageUploader":true,"lang":"zh-cn","login":"enable","meta":["nick","mail","link"],"pageSize":10,"pageview":true,"reaction":true,"search":true,"serverURL":"https://waline.xcapp.live/","texRenderer":true}},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验。"},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"data":{"typeit-header-desktop":"我的 Hugo FixIt 网站","typeit-header-title-mobile":"我的 Hugo FixIt 网站"},"enablePWA":true,"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"pangu":{"enable":true,"selector":"article"},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"zh","lunrSegmentitURL":"/lib/lunr/lunr.segmentit.js","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"lunr"},"siteTime":"2021-05-28T20:01:01+08:00","twemoji":true,"typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"typeit-header-desktop":["typeit-header-desktop"],"typeit-header-title-mobile":["typeit-header-title-mobile"]},"duration":-1,"loop":false,"speed":100}};</script><script src="/js/theme.min.c01e16862bb149bbd7baa8c9474e81adcc10a4b166cb8e99c86f223315e718cf.js" integrity="sha256-wB4WhiuxSbvXuqjJR06BrcwQpLFmy46ZyG8iMxXnGM8=" defer></script><script src="/js/custom.min.fb0ad6bbb25fb3bfec78b61f4413aa7c9bde5da632b52fd172e80f21721a853b.js" integrity="sha256-+wrWu7Jfs7/seLYfRBOqfJveXaYytS/RcugPIXIahTs=" defer></script></body>
+</html>

@@ -1,0 +1,2373 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>我的 Hugo FixIt 网站</title>
+    <link>http://localhost:1313/</link>
+    <description>这是我的 Hugo FixIt 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>cell-blog 功能介绍与安装</title>
+  <link>http://localhost:1313/books/cell-blog/</link>
+  <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/books/cell-blog/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>基于 Laravel7 开发，Markdown 语法的个人独立博客。<a href="https://github.com/Lruihao/cell-blog"target="_blank" rel="external nofollow noopener noreferrer">Cell Blog</a>, 也是我的毕业设计作品，目前已開源。</p>
+</blockquote>
+<p></p>
+<h2 id="简单内容">简单内容</h2>
+<div class="typeit" data-loop="false"><div id="id-1"></div></div>
+<div class="typeit"><h4 id="id-2"></h4></div>
+<div class="typeit"><div id="id-3" class="highlight"></div></div>
+<div class="typeit" data-loop="false"><div id="id-4"></div></div>
+<div class="typeit" data-loop="false"><div id="id-5"></div></div>
+<p></p>
+<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1Sx411T7QQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
+<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1TJ411C7An&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
+<meting-js auto="https://music.163.com/#/playlist?id=60198" theme="#448aff"></meting-js>
+<meting-js server="netease" type="song" id="1868553" theme="#448aff"></meting-js>
+<div class="mapbox" id="id-6" style="width: 100%; height: 20rem;"></div>
+<div class="mapbox" id="id-7" style="width: 100%; height: 20rem;"></div>
+<h2 id="功能">功能</h2>
+<ul>
+<li><a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">COS 桶相册</a></li>
+</ul>
+<h2 id="截图">截图</h2>
+<p><br>
+<br>
+</p>
+<h2 id="安装">安装</h2>
+<blockquote>
+<p>注意事项：PHP 取消禁用函数<code>putenv()</code>和<code>symlink()</code>，安装<code>fileinfo</code>扩展。</p>
+</blockquote>
+<p>下载</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git clone https://github.com/Lruihao/cell-blog.git
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>进入站点</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">cd cell-blog
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>生成。env</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">cp .env.example .env
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>编辑。env 环境配置</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl"><span class="nv">APP_URL</span><span class="o">=</span>http://localhost <span class="c1">#使用本地文件系统存储文件时，必须填写正确地址</span>
+</span></span><span class="line"><span class="cl"><span class="nv">APP_DEBUG</span><span class="o">=</span><span class="nb">false</span> <span class="c1">#关闭调试</span>
+</span></span><span class="line"><span class="cl"><span class="nv">DB_HOST</span><span class="o">=</span> <span class="c1">#数据库地址</span>
+</span></span><span class="line"><span class="cl"><span class="nv">DB_PORT</span><span class="o">=</span><span class="m">3306</span> <span class="c1">#数据库端口</span>
+</span></span><span class="line"><span class="cl"><span class="nv">DB_DATABASE</span><span class="o">=</span> <span class="c1">#数据库名称</span>
+</span></span><span class="line"><span class="cl"><span class="nv">DB_USERNAME</span><span class="o">=</span> <span class="c1">#数据库用户</span>
+</span></span><span class="line"><span class="cl"><span class="nv">DB_PASSWORD</span><span class="o">=</span> <span class="c1">#数据库密码</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>打开<code>app\Providers\AppServiceProvider.php</code>, 注释<code>SystemController:load()</code> 防止后续步骤报错</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">    public function boot()
+</span></span><span class="line"><span class="cl">    {
+</span></span><span class="line"><span class="cl">        Schema::defaultStringLength(191);
+</span></span><span class="line"><span class="cl">        //SystemController::load();
+</span></span><span class="line"><span class="cl">    }
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>安装项目依赖</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="cl">composer install
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>生成 key</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">php artisan key:generate
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>运行数据迁移和后台数据填充</p>
+<blockquote>
+<p><code>php artisan admin:install</code>已包含数据迁移命令<code>php artisan migrate</code><br>
+<code>G:\cell-blog\app\Admin directory already exists !</code>无需理会，继续执行剩下命令即可。</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">php artisan admin:install
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">php artisan admin:import media-manager
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">php artisan db:seed
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>默认下使用了本地文件系统，创建 storage 目录在 public 的软链接</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">php artisan storage:link
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>打开<code>app\Providers\AppServiceProvider.php</code>, 取消注释<code>SystemController:load()</code></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">    public function boot()
+</span></span><span class="line"><span class="cl">    {
+</span></span><span class="line"><span class="cl">        Schema::defaultStringLength(191);
+</span></span><span class="line"><span class="cl">        SystemController::load();
+</span></span><span class="line"><span class="cl">    }
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>将博客网站根目录指向入口 public 目录</p>
+<p>如果使用 Nginx，要设置伪静态</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">location / {
+</span></span><span class="line"><span class="cl">    try_files $uri $uri/ /index.php?$query_string;
+</span></span><span class="line"><span class="cl">}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>启动服务后，在浏览器打开<code>http://localhost/admin/</code>, 使用用户名<code>admin</code>和密码<code>admin</code>登录。</p>
+<h2 id="license">License</h2>
+<p>Cell Blog is open-sourced software licensed under the MIT license.</p>
+<p></p>]]></description>
+</item>
+<item>
+  <title>浏览器 IMG 图片原生懒加载 loading=&#34;lazy&#34;</title>
+  <link>http://localhost:1313/native-img-loading-lazy/</link>
+  <pubDate>Sun, 12 Feb 2023 19:40:43 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/native-img-loading-lazy/</guid>
+  <description><![CDATA[<p>记录使用 HTML 原生方案实现图片的懒加载。</p>
+<h2 id="语法规范">语法规范</h2>
+<p>HTML <code>loading</code> 属性适用于 <code>img</code> 和 <code>iframe</code>，语法规范见 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#lazy-loading-attributes"target="_blank" rel="external nofollow noopener noreferrer">HTML Standard - Lazy loading attributes</a>。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">关键词</th>
+<th style="text-align:center">状态</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><code>lazy</code></td>
+<td style="text-align:center">懒惰的</td>
+<td>用于延迟获取资源，直到满足某些条件。</td>
+</tr>
+<tr>
+<td style="text-align:center"><code>eager</code></td>
+<td style="text-align:center">渴望的</td>
+<td>用于立即获取资源；默认状态。</td>
+</tr>
+</tbody>
+</table>
+<p>属性的 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#missing-value-default"target="_blank" rel="external nofollow noopener noreferrer">缺失值默认值</a></em> 和 <em><a href="https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#invalid-value-default"target="_blank" rel="external nofollow noopener noreferrer">无效值默认值</a></em> 都是 <a href="https://html.spec.whatwg.org/multipage/urls-and-fetching.html#attr-loading-eager-state"target="_blank" rel="external nofollow noopener noreferrer">Eager</a>状态。</p>
+<h2 id="实际应用">实际应用</h2>
+<p>基于 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt 主题</a> 版本大于 v0.2.18 的博客网站使用就是原生的懒加载方案，大致如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">img</span>
+</span></span><span class="line"><span class="cl">  <span class="na">loading</span><span class="o">=</span><span class="s">&#34;lazy&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="na">src</span><span class="o">=</span><span class="s">&#34;./example.jpg&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="na">data-title</span><span class="o">=</span><span class="s">&#34;title text&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="na">data-alt</span><span class="o">=</span><span class="s">&#34;alt text&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="na">onload</span><span class="o">=</span><span class="s">&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}this.dataset.lazyloaded=&#39;&#39;;&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="na">onerror</span><span class="o">=</span><span class="s">&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="p">/&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>为了达到 loading 的效果，以上代码中在 <code>onload</code> 后会给图片加上一个 <code>data-lazyloaded</code> 属性，所以我们可以这样来写 css 以达到显示 loading 图标的效果：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="nt">img</span><span class="o">[</span><span class="nt">loading</span><span class="o">=</span><span class="s1">&#39;lazy&#39;</span><span class="o">]</span><span class="p">:</span><span class="nd">not</span><span class="o">([</span><span class="nt">data-lazyloaded</span><span class="o">])</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">background</span><span class="p">:</span> <span class="nb">url</span><span class="p">(</span><span class="sx">loading.svg</span><span class="p">)</span> <span class="kc">no-repeat</span> <span class="kc">center</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>设置 <code>data-title</code> 和 <code>data-alt</code> 是因为移动浏览器大多数只要有 <code>title</code> 或 <code>alt</code> 就会显示图片的替代字符，所以等到图片加载完或加载失败后再回填。</p>
+<h2 id="懒加载特性的研究">懒加载特性的研究</h2>
+<blockquote>
+<p>以下结论来自 <a href="https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/"target="_blank" rel="external nofollow noopener noreferrer">浏览器 IMG 图片原生懒加载 loading=”lazy”实践指南 « 张鑫旭-鑫空间-鑫生活</a> 总结部分。</p>
+</blockquote>
+<ol>
+<li>Lazy loading 加载数量与屏幕高度有关，高度越小加载数量越少，但并不是线性关系.</li>
+<li>Lazy loading 加载数量与网速有关，网速越慢，加载数量越多，但并不是线性关系。</li>
+<li>Lazy loading 加载没有缓冲，滚动即会触发新的图片资源加载。</li>
+<li>Lazy loading 加载在窗口 resize 尺寸变化时候也会触发，例如屏幕高度从小变大的时候。</li>
+<li>Lazy loading 加载也有可能会先加载后面的图片资源，例如页面加载时滚动高度很高的时候。</li>
+</ol>
+<h2 id="参考链接">参考链接</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Performance/Lazy_loading"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading - Web 性能 | MDN</a></li>
+<li><a href="https://caniuse.com/loading-lazy-attr"target="_blank" rel="external nofollow noopener noreferrer">Lazy loading via attribute for images &amp; iframes 兼容性</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title>浏览器渲染原理</title>
+  <link>http://localhost:1313/browser-rendering/</link>
+  <pubDate>Sun, 05 Feb 2023 21:02:52 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/browser-rendering/</guid>
+  <description><![CDATA[<iframe src="files/browser-rendering.pdf" width="100%" height="550"></iframe>
+<h2 id="浏览器是如何渲染页面的">浏览器是如何渲染页面的？</h2>
+<p>当浏览器的网络线程收到 HTML 文档后，会产生一个渲染任务，并将其传递给渲染主线程的消息队列。</p>
+<p>在事件循环机制的作用下，渲染主线程取出消息队列中的渲染任务，开启渲染流程。</p>
+<hr>
+<p>整个渲染流程分为多个阶段，分别是： HTML 解析、样式计算、布局、分层、绘制、分块、光栅化、画</p>
+<p>每个阶段都有明确的输入输出，上一个阶段的输出会成为下一个阶段的输入。</p>
+<p>这样，整个渲染流程就形成了一套组织严密的生产流水线。</p>
+<hr>
+<p>渲染的第一步是<strong>解析 HTML</strong>。</p>
+<p>解析过程中遇到 CSS 解析 CSS，遇到 JS 执行 JS。为了提高解析效率，浏览器在开始解析前，会启动一个预解析的线程，率先下载 HTML 中的外部 CSS 文件和 外部的 JS 文件。</p>
+<p>如果主线程解析到<code>link</code>位置，此时外部的 CSS 文件还没有下载解析好，主线程不会等待，继续解析后续的 HTML。这是因为下载和解析 CSS 的工作是在预解析线程中进行的。这就是 CSS 不会阻塞 HTML 解析的根本原因。</p>
+<p>如果主线程解析到<code>script</code>位置，会停止解析 HTML，转而等待 JS 文件下载好，并将全局代码解析执行完成后，才能继续解析 HTML。这是因为 JS 代码的执行过程可能会修改当前的 DOM 树，所以 DOM 树的生成必须暂停。这就是 JS 会阻塞 HTML 解析的根本原因。</p>
+<p>第一步完成后，会得到 DOM 树和 CSSOM 树，浏览器的默认样式、内部样式、外部样式、行内样式均会包含在 CSSOM 树中。</p>
+<hr>
+<p>渲染的下一步是<strong>样式计算</strong>。</p>
+<p>主线程会遍历得到的 DOM 树，依次为树中的每个节点计算出它最终的样式，称之为 Computed Style。</p>
+<p>在这一过程中，很多预设值会变成绝对值，比如<code>red</code>会变成<code>rgb(255,0,0)</code>；相对单位会变成绝对单位，比如<code>em</code>会变成<code>px</code></p>
+<p>这一步完成后，会得到一棵带有样式的 DOM 树。</p>
+<hr>
+<p>接下来是<strong>布局</strong>，布局完成后会得到布局树。</p>
+<p>布局阶段会依次遍历 DOM 树的每一个节点，计算每个节点的几何信息。例如节点的宽高、相对包含块的位置。</p>
+<p>大部分时候，DOM 树和布局树并非一一对应。</p>
+<p>比如<code>display:none</code>的节点没有几何信息，因此不会生成到布局树；又比如使用了伪元素选择器，虽然 DOM 树中不存在这些伪元素节点，但它们拥有几何信息，所以会生成到布局树中。还有匿名行盒、匿名块盒等等都会导致 DOM 树和布局树无法一一对应。</p>
+<hr>
+<p>下一步是<strong>分层</strong></p>
+<p>主线程会使用一套复杂的策略对整个布局树中进行分层。</p>
+<p>分层的好处在于，将来某一个层改变后，仅会对该层进行后续处理，从而提升效率。</p>
+<p>滚动条、堆叠上下文、transform、opacity 等样式都会或多或少的影响分层结果，也可以通过<code>will-change</code>属性更大程度的影响分层结果。</p>
+<hr>
+<p>再下一步是<strong>绘制</strong></p>
+<p>主线程会为每个层单独产生绘制指令集，用于描述这一层的内容该如何画出来。</p>
+<hr>
+<p>完成绘制后，主线程将每个图层的绘制信息提交给合成线程，剩余工作将由合成线程完成。</p>
+<p>合成线程首先对每个图层进行分块，将其划分为更多的小区域。</p>
+<p>它会从线程池中拿取多个线程来完成分块工作。</p>
+<hr>
+<p>分块完成后，进入<strong>光栅化</strong>阶段。</p>
+<p>合成线程会将块信息交给 GPU 进程，以极高的速度完成光栅化。</p>
+<p>GPU 进程会开启多个线程来完成光栅化，并且优先处理靠近视口区域的块。</p>
+<p>光栅化的结果，就是一块一块的位图</p>
+<hr>
+<p>最后一个阶段就是<strong>画</strong>了</p>
+<p>合成线程拿到每个层、每个块的位图后，生成一个个「指引（quad）」信息。</p>
+<p>指引会标识出每个位图应该画到屏幕的哪个位置，以及会考虑到旋转、缩放等变形。</p>
+<p>变形发生在合成线程，与渲染主线程无关，这就是<code>transform</code>效率高的本质原因。</p>
+<p>合成线程会把 quad 提交给 GPU 进程，由 GPU 进程产生系统调用，提交给 GPU 硬件，完成最终的屏幕成像。</p>
+<h2 id="什么是-reflow">什么是 reflow？</h2>
+<p>reflow 的本质就是重新计算 layout 树。</p>
+<p>当进行了会影响布局树的操作后，需要重新计算布局树，会引发 layout。</p>
+<p>为了避免连续的多次操作导致布局树反复计算，浏览器会合并这些操作，当 JS 代码全部完成后再进行统一计算。所以，改动属性造成的 reflow 是异步完成的。</p>
+<p>也同样因为如此，当 JS 获取布局属性时，就可能造成无法获取到最新的布局信息。</p>
+<p>浏览器在反复权衡下，最终决定获取属性立即 reflow。</p>
+<h2 id="什么是-repaint">什么是 repaint？</h2>
+<p>repaint 的本质就是重新根据分层信息计算了绘制指令。</p>
+<p>当改动了可见样式后，就需要重新计算，会引发 repaint。</p>
+<p>由于元素的布局信息也属于可见样式，所以 reflow 一定会引起 repaint。</p>
+<h2 id="为什么-transform-的效率高">为什么 transform 的效率高？</h2>
+<p>因为 transform 既不会影响布局也不会影响绘制指令，它影响的只是渲染流程的最后一个「draw」阶段</p>
+<p>由于 draw 阶段在合成线程中，所以 transform 的变化几乎不会影响渲染主线程。反之，渲染主线程无论如何忙碌，也不会影响 transform 的变化。</p>
+]]></description>
+</item>
+<item>
+  <title>中文技术文档的写作规范</title>
+  <link>http://localhost:1313/document-style-guide/</link>
+  <pubDate>Sat, 04 Feb 2023 16:04:42 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/document-style-guide/</guid>
+  <description><![CDATA[<blockquote>
+<p>以下参考来源：阮一峰的 <a href="https://github.com/ruanyf/document-style-guide"target="_blank" rel="external nofollow noopener noreferrer">中文技术文档的写作规范</a></p>
+</blockquote>
+<p>英语世界里，文档非常受重视，许多公司和组织都有自己的文档规范，清楚地规定写作要求，比如<a href="https://www.microsoftpressstore.com/store/microsoft-manual-of-style-9780735648715"target="_blank" rel="external nofollow noopener noreferrer">微软</a>、<a href="http://styleguide.mailchimp.com/"target="_blank" rel="external nofollow noopener noreferrer">MailChimp</a>、<a href="https://help.apple.com/asg/mac/2013/ASG_2013.pdf"target="_blank" rel="external nofollow noopener noreferrer">Apple</a>、<a href="https://www.amazon.com/dp/B003P8QDFU/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1"target="_blank" rel="external nofollow noopener noreferrer">Yahoo</a>、<a href="https://docs.docker.com/opensource/doc-style/"target="_blank" rel="external nofollow noopener noreferrer">docker</a>、<a href="https://struts.apache.org/docs/documentation-style-guide.html"target="_blank" rel="external nofollow noopener noreferrer">Struts</a> 等等（维基百科有一份完整的<a href="https://en.wikipedia.org/wiki/List_of_style_guides"target="_blank" rel="external nofollow noopener noreferrer">清单</a>）。<a href="https://github.com/ruanyf/document-style-guide/blob/master/docs/reference.md"target="_blank" rel="external nofollow noopener noreferrer">中文的</a>也有不少，但都不令人满意，要么太简单，要么不太适用。</p>
+<p>对于开发者来说，在工作中也需要适当地产出一些技术文档，但是很多人都不知道怎么写文档，都是凭着感觉写。</p>
+<p>对于开发的系统、软件而言，系统用词的准确性和统一性也显得十分重要。</p>
+<p>参考上面的规范，于是有了下面一份中文技术文档的写作规范。</p>
+<h2 id="标题">标题</h2>
+<h3 id="层级">层级</h3>
+<p>标题分为四级。</p>
+<ul>
+<li>一级标题：文章的标题</li>
+<li>二级标题：文章主要部分的大标题</li>
+<li>三级标题：二级标题下面一级的小标题</li>
+<li>四级标题：三级标题下面某一方面的小标题</li>
+</ul>
+<p>下面是示例。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><span class="gh"># 一级标题
+</span></span></span><span class="line"><span class="cl"><span class="gh"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">## 二级标题
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">### 三级标题
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">#### 四级标题
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><blockquote>
+<p>注：最多支持六级，但是同论文写作一样，层级太深，会使得整体显得杂乱无章，当确实需要更深层级时，应另起新篇单独论述。</p>
+</blockquote>
+<h3 id="原则">原则</h3>
+<p>（1）一级标题下，不能直接出现三级标题。</p>
+<p>示例：下面的文章结构，缺少二级标题。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><span class="gh"># 一级标题
+</span></span></span><span class="line"><span class="cl"><span class="gh"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">### 三级标题
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）标题要避免孤立编号（即同级标题只有一个）。</p>
+<p>示例：下面的文章结构，<code>二级标题 A</code>只包含一个三级标题，完全可以省略<code>三级标题 A</code>。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><span class="gu">## 二级标题 A
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">### 三级标题 A
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">## 二级标题 B
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><p>（3）下级标题不重复上一级标题的名字。</p>
+<p>示例：下面的文章结构，二级标题与下属的三级标题同名，建议避免。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><span class="gu">## 概述
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">### 概述
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><p>（4）谨慎使用四级标题，尽量避免出现，保持层级的简单，防止出现过于复杂的章节。</p>
+<p>如果三级标题下有并列性的内容，建议只使用项目列表（Item list）。</p>
+<p>示例：下面的结构二要好于结构一。结构一适用的场景，主要是较长篇幅的内容。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">结构一
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="gu">### 三级标题
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">#### 四级标题 A
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">#### 四级标题 B
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="gu">#### 四级标题 C
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl">结构二
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="gu">### 三级标题
+</span></span></span><span class="line"><span class="cl"><span class="gu"></span>
+</span></span><span class="line"><span class="cl"><span class="ge">**</span>（1）A**
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="ge">**</span>（2）B**
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="ge">**</span>（3）C**
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="文本">文本</h2>
+<h3 id="字间距">字间距</h3>
+<p>（1）全角中文字符与半角英文字符之间，应有一个半角空格。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：本文介绍如何快速启动Windows系统。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：本文介绍如何快速启动 Windows 系统。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）全角中文字符与半角阿拉伯数字之间，有没有半角空格都可，但必须保证风格统一，不能两种风格混杂。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">正确：2011年5月15日，我订购了5台笔记本电脑与10台平板电脑。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：2011 年 5 月 15 日，我订购了 5 台笔记本电脑与 10 台平板电脑。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>半角的百分号，视同阿拉伯数字。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">正确：今年我国经济增长率是6.5%。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：今年我国经济增长率是 6.5%。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（3）英文单位若不翻译，单位前的阿拉伯数字与单位符号之间，应留出适当的空隙。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例1：一部容量为 16 GB 的智能手机
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">例2：1 h = 60 min = 3,600 s
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（4）半角英文字符和半角阿拉伯数字，与全角标点符号之间不留空格。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：他的电脑是 MacBook Air 。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：他的电脑是 MacBook Air。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="句子">句子</h3>
+<p>（1）避免使用长句。</p>
+<p>不包含任何标点符号的单个句子，或者以逗号分隔的句子构件，长度尽量保持在 20 个字以内；20 ～ 29 个字的句子，可以接受；30 ～ 39 个字的句子，语义必须明确，才能接受；多于 40 个字的句子，任何情况下都不能接受。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：本产品适用于从由一台服务器进行动作控制的单一节点结构到由多台服务器进行动作控制的并行处理程序结构等多种体系结构。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：本产品适用于多种体系结构。无论是由一台服务器（单一节点结构），还是由多台服务器（并行处理结构）进行动作控制，均可以使用本产品。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>逗号分割的长句，总长度不应该超过 100 字或者正文的 3 行。</p>
+<p>（2）尽量使用简单句和并列句，避免使用复合句。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">并列句：他昨天生病了，没有参加会议。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">复合句：那个昨天生病的人没有参加会议。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（3）同样一个意思，尽量使用肯定句表达，不使用否定句表达。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：请确认没有接通装置的电源。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：请确认装置的电源已关闭。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（4）避免使用双重否定句。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：没有删除权限的用户，不能删除此文件。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：用户必须拥有删除权限，才能删除此文件。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="写作风格">写作风格</h3>
+<p>（1）尽量不使用被动语态，改为使用主动语态。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：假如此软件尚未被安装，
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：假如尚未安装这个软件，
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）不使用非正式的语言风格。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：Lady Gaga 的演唱会真是酷毙了，从没看过这么给力的表演！！！
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：无法参加本次活动，我深感遗憾。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（3）不使用冷僻、生造或者文言文的词语，而要使用现代汉语的常用表达方式。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：这是唯二的快速启动的方法。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：这是仅有的两种快速启动的方法。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（4）用对“的”、“地”、“得”。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">她露出了开心的笑容。
+</span></span><span class="line"><span class="cl">（形容词＋的＋名词）
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">她开心地笑了。
+</span></span><span class="line"><span class="cl">（副词＋地＋动词）
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">她笑得很开心。
+</span></span><span class="line"><span class="cl">（动词＋得＋副词）
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（5）使用代词时（比如“其”、“该”、“此”、“这”等词），必须明确指代的内容，保证只有一个含义。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：从管理系统可以监视中继系统和受其直接控制的分配系统。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：从管理系统可以监视两个系统：中继系统和受中继系统直接控制的分配系统。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（6）名词前不要使用过多的形容词。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：此设备的使用必须在接受过本公司举办的正式的设备培训的技师的指导下进行。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：此设备必须在技师的指导下使用，且指导技师必须接受过由本公司举办的正式设备培训。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="英文处理">英文处理</h3>
+<p>（1）英文原文如果使用了复数形式，翻译成中文时，应该将其还原为单数形式。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">英文：...information stored in random access memory (RAMs)...
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">中文：⋯⋯存储在随机存取存储器（RAM）里的信息⋯⋯
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）外文缩写可以使用半角圆点(<code>.</code>)表示缩写。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">U.S.A.
+</span></span><span class="line"><span class="cl">Apple, Inc.
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（3）表示中文时，英文省略号（<code>...</code>）应改为中文省略号（<code>⋯⋯</code>）。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">英文：5 minutes later...
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">中文：5 分钟过去了⋯⋯
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（4）英文书名或电影名改用中文表达时，双引号应改为书名号。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">英文：He published an article entitled &#34;The Future of the Aviation&#34;.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">中文：他发表了一篇名为《航空业的未来》的文章。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（5）第一次出现英文词汇时，在括号中给出中文标注。此后再次出现时，直接使用英文缩写即可。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">IOC（International Olympic Committee，国际奥林匹克委员会）。这样定义后，便可以直接使用“IOC”了。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（6）专有名词中每个词第一个字母均应大写，非专有名词则不需要大写。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">“American Association of Physicists in Medicine”（美国医学物理学家协会）是专有名词，需要大写。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">“online transaction processing”（在线事务处理）不是专有名词，不应大写。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="段落">段落</h2>
+<h3 id="原则-1">原则</h3>
+<ul>
+<li>一个段落只能有一个主题，或一个中心句子。</li>
+<li>段落的中心句子放在段首，对全段内容进行概述。后面陈述的句子为中心句子服务。</li>
+<li>一个段落的长度不能超过七行，最佳段落长度小于等于四行。</li>
+<li>段落的句子语气要使用陈述和肯定语气，避免使用感叹语气。</li>
+<li>段落之间使用一个空行隔开。</li>
+<li>段落开头不要留出空白字符。</li>
+</ul>
+<h3 id="引用">引用</h3>
+<p>引用第三方内容时，应注明出处。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">One man’s constant is another man’s variable. — Alan Perlis
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>如果是全篇转载，请在全文开头显著位置注明作者和出处，并链接至原文。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">本文转载自 WikiQuote
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>使用外部图片时，必须在图片下方或文末标明来源。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">本文部分图片来自 Wikipedia
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="数值">数值</h2>
+<h3 id="半角数字">半角数字</h3>
+<p>阿拉伯数字一律使用半角形式，不得使用全角形式。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：这件商品的价格是１０００元。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：这件商品的价格是 1000 元。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="千分号">千分号</h3>
+<p>数值为千位以上，应添加千分号（半角逗号）。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">XXX 公司的实收资本为 ￥1,258,000 人民币。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>对于 4 位的数值，千分号是选用的，比如<code>1000</code>和<code>1,000</code>都可以接受。对于 4 位以上的数值，应添加千分号。</p>
+<h3 id="货币">货币</h3>
+<p>货币应为阿拉伯数字，并在数字前写出货币符号，或在数字后写出货币中文名称。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">$1,000
+</span></span><span class="line"><span class="cl">1,000 美元
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>英文的货币名称，建议参考国际标准 <a href="https://en.wikipedia.org/wiki/ISO_4217"target="_blank" rel="external nofollow noopener noreferrer">ISO 4217</a>。</p>
+<h3 id="数值范围">数值范围</h3>
+<p>表示数值范围时，用波浪线（<code>～</code>）或一字线（<code>—</code>）连接。参见《标点符号》一节的“连接号”部分。</p>
+<p>带有单位或百分号时，两个数字建议都要加上单位或百分号。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">132 kg～234 kg
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">67%～89%
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="变化程度的表示法">变化程度的表示法</h3>
+<p>数字的增加要使用“增加了”、“增加到”。“了”表示增量，“到”表示定量。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">增加到过去的两倍
+</span></span><span class="line"><span class="cl">（过去为一，现在为二）
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">增加了两倍
+</span></span><span class="line"><span class="cl">（过去为一，现在为三）
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>数字的减少要使用“降低了”、“降低到”。“了”表示增量，“到”表示定量。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">降低到百分之八十
+</span></span><span class="line"><span class="cl">（定额是一百，现在是八十）
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">降低了百分之八十
+</span></span><span class="line"><span class="cl">（原来是一百，现在是二十）
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>不能用“降低 N 倍”或“减少 N 倍”的表示法，要用“降低百分之几”或“减少百分之几”。因为减少（或降低）一倍表示数值原来为一百，现在等于零。</p>
+<h2 id="标点符号">标点符号</h2>
+<h3 id="原则-2">原则</h3>
+<p>（1）中文语句的标点符号，均应该采取全角符号，这样可以与全角文字保持视觉的一致。</p>
+<p>（2）如果整句为英文，则该句使用英文/半角标点。</p>
+<p>（3）句号、问号、叹号、逗号、顿号、分号和冒号不得出现在一行之首。</p>
+<p>（4）点号（句号、逗号、顿号、分号、冒号）不得出现在标题的末尾，而标号（引号、括号、破折号、省略号、书名号、着重号、间隔号、叹号、问号）可以。</p>
+<h3 id="句号">句号</h3>
+<p>（1）中文语句的结尾处应该用全角句号（<code>。</code>）。</p>
+<p>（2）句子末尾用括号加注时，句号应在括号之外。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：关于文件的输出，请参照第 1.3 节（见第 26 页。）
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：关于文件的输出，请参照第 1.3 节（见第 26 页）。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="逗号">逗号</h3>
+<p>（1）逗号（<code>，</code>）表示句子内部的一般性停顿。</p>
+<p>（2）注意避免“一逗到底”，即整个段落除了结尾，全部停顿都使用逗号。</p>
+<h3 id="顿号">顿号</h3>
+<p>（1）句子内部的并列词，应该用全角顿号(<code>、</code>) 分隔，而不用逗号，即使并列词是英语也是如此。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：我最欣赏的科技公司有 Google, Facebook, 腾讯, 阿里和百度等。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：我最欣赏的科技公司有 Google、Facebook、腾讯、阿里和百度等。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）英文句子中，并列词语之间使用半角逗号（<code>,</code>）分隔。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：Microsoft Office includes Word, Excel, PowerPoint, Outlook and other components.
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（3）中文句子内部的并列词，最后一个尽量使用（<code>和</code>）来连接，使句子读起来更加连贯，下面两个句子都可以，第二个更优。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">正确：我最欣赏的科技公司有 Google、Facebook、腾讯、阿里，以及百度等。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：我最欣赏的科技公司有 Google、Facebook、腾讯、阿里和百度等。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="分号">分号</h3>
+<p>（1）分号（<code>；</code>）表示复句内部并列分句之间的停顿。</p>
+<h3 id="引号">引号</h3>
+<p>（1）引用时，应该使用全角双引号（<code>“ ”</code>），注意前后双引号不同。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：许多人都认为客户服务的核心是“友好”和“专业”。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）引号里面还要用引号时，外面一层用双引号，里面一层用单引号（<code>‘ ’</code>），注意前后单引号不同。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：鲍勃解释道：“我要放音乐，可萨利说，‘不行！’。”
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="括号">括号</h3>
+<p>（1）补充说明时，使用全角圆括号（<code>（）</code>），括号前后不加空格。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：请确认所有的连接（电缆和接插件）均安装牢固。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）几种括号的中英文名称。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center">英文</th>
+<th style="text-align:center">中文</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>{ }</code></td>
+<td style="text-align:center">braces 或 curly brackets</td>
+<td style="text-align:center">大括号</td>
+</tr>
+<tr>
+<td><code>[ ]</code></td>
+<td style="text-align:center">square brackets 或 brackets</td>
+<td style="text-align:center">方括号</td>
+</tr>
+<tr>
+<td><code>&lt; &gt;</code></td>
+<td style="text-align:center">angled brackets</td>
+<td style="text-align:center">尖括号</td>
+</tr>
+<tr>
+<td><code>( )</code></td>
+<td style="text-align:center">parentheses</td>
+<td style="text-align:center">圆括号</td>
+</tr>
+</tbody>
+</table>
+<h3 id="冒号">冒号</h3>
+<p>（1）全角冒号（<code>：</code>）常用在需要解释的词语后边，引出解释和说明。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：请确认以下几项内容：时间、地点、活动名称和来宾数量。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（2）表示时间时，应使用半角冒号（<code>:</code>）。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：早上 8:00
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="省略号">省略号</h3>
+<p>（1）省略号（<code>⋯⋯</code>）表示语句未完、或者语气的不连续。</p>
+<p>（2）省略号占两个汉字空间、包含六个省略点，不要使用<code>。。。</code>或<code>...</code>等非标准形式。</p>
+<p>（3）省略号不应与“等”这个词一起使用。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：我们为会餐准备了香蕉、苹果、梨…等各色水果。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：我们为会餐准备了各色水果，有香蕉、苹果、梨⋯⋯
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：我们为会餐准备了香蕉、苹果、梨等各色水果。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="感叹号">感叹号</h3>
+<p>（1）应该使用平静的语气叙述，尽量避免使用感叹号（<code>！</code>）。</p>
+<p>（2）不得多个感叹号连用，比如<code>！！</code>和<code>!!!</code>。</p>
+<h3 id="破折号">破折号</h3>
+<p>（1）破折号<code>————</code>一般用于进一步解释。</p>
+<p>（2）破折号应占两个汉字的位置。如果破折号本身只占一个汉字的位置，那么前后应该留出一个半角空格。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：直觉————尽管它并不总是可靠的————告诉我，这事可能出了些问题。
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">例句：直觉 —— 尽管它并不总是可靠的 —— 告诉我，这事可能出了些问题。
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="连接号">连接号</h3>
+<p>（1）连接号用于连接两个类似的词。</p>
+<p>（2）以下场合应该使用直线连接号（<code>-</code>），占一个半角字符的位置。</p>
+<ul>
+<li>两个名词的复合</li>
+<li>图表编号</li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：氧化-还原反应
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">例句：图 1-1
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>（3）数值范围（例如日期、时间或数字）应该使用波浪连接号（<code>～</code>）或一字号（<code>—</code>），占一个全角字符的位置。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：2009 年～2011 年
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>注意，波浪连接号前后两个值都建议加上单位。</p>
+<p>（4）波浪连接号也可以用汉字“至”代替。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">例句：周围温度：-20 °C 至 -10 °C
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="文档体系">文档体系</h2>
+<h3 id="结构">结构</h3>
+<p>软件手册是一部完整的书，建议采用下面的结构。</p>
+<ul>
+<li><strong>简介</strong>（Introduction）：[必备] [文件] 提供对产品和文档本身的总体的、扼要的说明</li>
+<li><strong>快速上手</strong>（Getting Started）：[可选] [文件] 如何最快速地使用产品</li>
+<li><strong>入门篇</strong>（Basics）：[必备] [目录] 又称“使用篇”，提供初级的使用教程
+<ul>
+<li><strong>环境准备</strong>（Prerequisite）：[必备] [文件] 软件使用需要满足的前置条件</li>
+<li><strong>安装</strong>（Installation）：[可选] [文件] 软件的安装方法</li>
+<li><strong>设置</strong>（Configuration）：[必备] [文件] 软件的设置</li>
+</ul>
+</li>
+<li><strong>进阶篇</strong>（Advanced)：[可选] [目录] 又称“开发篇”，提供中高级的开发教程</li>
+<li><strong>API</strong>（Reference）：[可选] [目录|文件] 软件 API 的逐一介绍</li>
+<li><strong>FAQ</strong>：[可选] [文件] 常见问题解答</li>
+<li><strong>附录</strong>（Appendix）：[可选] [目录] 不属于教程本身、但对阅读教程有帮助的内容
+<ul>
+<li><strong>Glossary</strong>：[可选] [文件] 名词解释</li>
+<li><strong>Recipes</strong>：[可选] [文件] 最佳实践</li>
+<li><strong>Troubleshooting</strong>：[可选] [文件] 故障处理</li>
+<li><strong>ChangeLog</strong>：[可选] [文件] 版本说明</li>
+<li><strong>Feedback</strong>：[可选] [文件] 反馈方式</li>
+</ul>
+</li>
+</ul>
+<p>下面是两个真实范例，可参考。</p>
+<ul>
+<li><a href="https://redux.js.org/introduction/getting-started"target="_blank" rel="external nofollow noopener noreferrer">Redux 手册</a></li>
+<li><a href="http://flight-manual.atom.io/"target="_blank" rel="external nofollow noopener noreferrer">Atom 手册</a></li>
+</ul>
+<h3 id="文件名">文件名</h3>
+<p>文档的文件名不得含有空格。</p>
+<p>文件名必须使用半角字符，不得使用全角字符。这也意味着，中文不能用于文件名。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：名词解释.md
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：glossary.md
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>文件名建议只使用小写字母，不使用大写字母。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">错误：TroubleShooting.md
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：troubleshooting.md
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>为了醒目，某些说明文件的文件名，可以使用大写字母，比如<code>README</code>、<code>LICENSE</code>。</p>
+<p>文件名包含多个单词时，单词之间建议使用半角的连词线（<code>-</code>）分隔。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">不佳：advanced_usage.md
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">正确：advanced-usage.md
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="参考链接">参考链接</h2>
+<ul>
+<li><a href="https://www.taodocs.com/p-51273.html"target="_blank" rel="external nofollow noopener noreferrer">产品手册中文写作规范</a>, by 华为</li>
+<li><a href="http://guide.daocloud.io/dcs/%e5%86%99%e4%bd%9c%e8%a7%84%e8%8c%83%e5%92%8c%e6%a0%bc%e5%bc%8f%e8%a7%84%e8%8c%83-9153803.html"target="_blank" rel="external nofollow noopener noreferrer">写作规范和格式规范</a>, by DaoCloud</li>
+<li><a href="http://www.hitachi-tc.co.jp/company/thesis/thesis.pdf"target="_blank" rel="external nofollow noopener noreferrer">技术写作技巧在日汉翻译中的应用</a>, by 刘方</li>
+<li><a href="https://www.lengoo.de/documents/styleguides/lengoo_styleguide_ZH.pdf"target="_blank" rel="external nofollow noopener noreferrer">简体中文规范指南</a>, by lengoo</li>
+<li><a href="https://open.leancloud.cn/copywriting-style-guide.html"target="_blank" rel="external nofollow noopener noreferrer">文档风格指南</a>, by LeanCloud</li>
+<li><a href="https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM/edit"target="_blank" rel="external nofollow noopener noreferrer">豌豆荚文案风格指南</a>, by 豌豆荚</li>
+<li><a href="https://github.com/sparanoid/chinese-copywriting-guidelines"target="_blank" rel="external nofollow noopener noreferrer">中文文案排版指北</a>, by sparanoid</li>
+<li><a href="http://w3c.github.io/clreq/"target="_blank" rel="external nofollow noopener noreferrer">中文排版需求</a>, by W3C</li>
+<li><a href="http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html"target="_blank" rel="external nofollow noopener noreferrer">为什么文件名要小写？</a>, by 阮一峰</li>
+<li><a href="https://developers.google.com/style/"target="_blank" rel="external nofollow noopener noreferrer">Google Developer Documentation Style Guide</a>, by Google</li>
+<li><a href="http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf"target="_blank" rel="external nofollow noopener noreferrer">出版物上数字用法的规定（国家标准 GBT15835－2011）</a></li>
+<li><a href="https://zh.wikisource.org/zh-hans/GB_3100-1993_%e5%9b%bd%e9%99%85%e5%8d%95%e4%bd%8d%e5%88%b6%e5%8f%8a%e5%85%b6%e5%ba%94%e7%94%a8"target="_blank" rel="external nofollow noopener noreferrer">GB 3100-1993 国际单位制及其应用</a></li>
+<li><a href="https://github.com/DavidAnson/vscode-markdownlint"target="_blank" rel="external nofollow noopener noreferrer">markdownlint</a>, VSCode 插件</li>
+<li><a href="https://github.com/vinta/pangu.js"target="_blank" rel="external nofollow noopener noreferrer">pangu.js</a>, 盘古之白系列插件</li>
+</ul>]]></description>
+</item>
+<item>
+  <title>浏览器原理 - 事件循环</title>
+  <link>http://localhost:1313/event-loop/</link>
+  <pubDate>Wed, 11 Jan 2023 11:16:02 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/event-loop/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/images/202208092131410.png" referrerpolicy="no-referrer">
+      </div><p>最近在抖音上刷到很多次 <a href="http://yuanjin.tech/"target="_blank" rel="external nofollow noopener noreferrer">袁进老师</a> 的前端视频，然后就听了一下他的前端大师课，感觉了解一些浏览器原理后，原来工作中的一些疑问也自然解开了。</p>
+<h2 id="浏览器的进程模型">浏览器的进程模型</h2>
+<h3 id="何为进程">何为进程？</h3>
+<p>程序运行需要有它自己专属的内存空间，可以把这块内存空间简单的理解为进程</p>
+<p><figure><a class="lightgallery" href="/event-loop/images/202208092057573.png" data-thumbnail="/event-loop/images/202208092057573.png" data-sub-html="<h2>进程</h2><p>进程可以简单理解为单独的内存空间</p>"></a><figcaption class="image-caption">进程</figcaption>
+  </figure></p>
+<p>每个应用至少有一个进程，进程之间相互独立，即使要通信，也需要双方同意。</p>
+<h3 id="何为线程">何为线程？</h3>
+<p>有了进程后，就可以运行程序的代码了。</p>
+<p>运行代码的「人」称之为「线程」。</p>
+<p>一个进程至少有一个线程，所以在进程开启后会自动创建一个线程来运行代码，该线程称之为主线程。</p>
+<p>如果程序需要同时执行多块代码，主线程就会启动更多的线程来执行代码，所以一个进程中可以包含多个线程。</p>
+<p><figure><a class="lightgallery" href="/event-loop/images/202208092108499.png" data-thumbnail="/event-loop/images/202208092108499.png" data-sub-html="<h2>线程</h2><p>一个进程可以有 N 个线程</p>"></a><figcaption class="image-caption">线程</figcaption>
+  </figure></p>
+<h3 id="浏览器有哪些进程和线程">浏览器有哪些进程和线程？</h3>
+<p><strong>浏览器是一个多进程多线程的应用程序</strong>，浏览器内部工作极其复杂。</p>
+<p>为了避免相互影响，为了减少连环崩溃的几率，当启动浏览器后，它会自动启动多个进程。</p>
+<p><figure><a class="lightgallery" href="/event-loop/images/202208092131410.png" data-thumbnail="/event-loop/images/202208092131410.png" data-sub-html="<h2>浏览器进程</h2><p>浏览器进程</p>"></a><figcaption class="image-caption">浏览器进程</figcaption>
+  </figure></p>
+<blockquote>
+<p>可以在浏览器的任务管理器中查看当前的所有进程</p>
+</blockquote>
+<p>其中，最主要的进程有：</p>
+<ol>
+<li>
+<p>浏览器进程</p>
+<p>主要负责界面显示、用户交互、子进程管理等。浏览器进程内部会启动多个线程处理不同的任务。</p>
+</li>
+<li>
+<p>网络进程</p>
+<p>负责加载网络资源。网络进程内部会启动多个线程来处理不同的网络任务。</p>
+</li>
+<li>
+<p><strong>渲染进程</strong>（本篇重点讲解的进程）</p>
+<p>渲染进程启动后，会开启一个<strong>渲染主线程</strong>，主线程负责执行 HTML、CSS、JS 代码。</p>
+<p>默认情况下，浏览器会为每个标签页开启一个新的渲染进程，以保证不同的标签页之间不相互影响。</p>
+<blockquote>
+<p>将来该默认模式可能会有所改变，有兴趣的同学可参见 <a href="https://chromium.googlesource.com/chromium/src/&#43;/main/docs/process_model_and_site_isolation.md#Modes-and-Availability"target="_blank" rel="external nofollow noopener noreferrer">chrome 官方说明文档</a></p>
+</blockquote>
+</li>
+</ol>
+<h2 id="渲染主线程是如何工作的">渲染主线程是如何工作的？</h2>
+<p>渲染主线程是浏览器中最繁忙的线程，需要它处理的任务包括但不限于：</p>
+<ul>
+<li>解析 HTML</li>
+<li>解析 CSS</li>
+<li>计算样式</li>
+<li>布局</li>
+<li>处理图层</li>
+<li>每秒把页面画 60 次</li>
+<li>执行全局 JS 代码</li>
+<li>执行事件处理函数</li>
+<li>执行计时器的回调函数</li>
+<li>&hellip;&hellip;</li>
+</ul>
+<blockquote>
+<p>思考题：为什么渲染进程不适用多个线程来处理这些事情？</p>
+</blockquote>
+<p>要处理这么多的任务，主线程遇到了一个前所未有的难题：如何调度任务？</p>
+<p>比如：</p>
+<ul>
+<li>我正在执行一个 JS 函数，执行到一半的时候用户点击了按钮，我该立即去执行点击事件的处理函数吗？</li>
+<li>我正在执行一个 JS 函数，执行到一半的时候某个计时器到达了时间，我该立即去执行它的回调吗？</li>
+<li>浏览器进程通知我“用户点击了按钮”，与此同时，某个计时器也到达了时间，我应该处理哪一个呢？</li>
+<li>&hellip;&hellip;</li>
+</ul>
+<p>渲染主线程想出了一个绝妙的主意来处理这个问题：排队</p>
+<p><figure><a class="lightgallery" href="/event-loop/images/202208092230847.png" data-thumbnail="/event-loop/images/202208092230847.png" data-sub-html="<h2>消息队列</h2><p>所有要执行的任务都要排队，FIFO</p>"></a><figcaption class="image-caption">消息队列</figcaption>
+  </figure></p>
+<ol>
+<li>在最开始的时候，渲染主线程会进入一个无限循环</li>
+<li>每一次循环会检查消息队列中是否有任务存在。如果有，就取出第一个任务执行，执行完一个后进入下一次循环；如果没有，则进入休眠状态。</li>
+<li>其他所有线程（包括其他进程的线程）可以随时向消息队列添加任务。新任务会加到消息队列的末尾。在添加新任务时，如果主线程是休眠状态，则会将其唤醒以继续循环拿取任务</li>
+</ol>
+<p>这样一来，就可以让每个任务有条不紊的、持续的进行下去了。<strong>整个过程，被称之为事件循环（消息循环）</strong>。</p>
+<h2 id="若干解释">若干解释</h2>
+<h3 id="何为异步">何为异步？</h3>
+<p>代码在执行过程中，会遇到一些无法立即处理的任务，比如：</p>
+<ul>
+<li>计时完成后需要执行的任务 —— <code>setTimeout</code>、<code>setInterval</code></li>
+<li>网络通信完成后需要执行的任务 &ndash; <code>XHR</code>、<code>Fetch</code></li>
+<li>用户操作后需要执行的任务 &ndash; <code>addEventListener</code></li>
+</ul>
+<p>如果让渲染主线程等待这些任务的时机达到，就会导致主线程长期处于「阻塞」的状态，从而导致浏览器「卡死」</p>
+<p><figure><a class="lightgallery" href="/event-loop/images/202208101043348.png" data-thumbnail="/event-loop/images/202208101043348.png" data-sub-html="<h2>同步策略</h2><p>同步策略会导致卡死</p>"></a><figcaption class="image-caption">同步策略</figcaption>
+  </figure></p>
+<p><strong>渲染主线程承担着极其重要的工作，无论如何都不能阻塞！</strong></p>
+<p>因此，浏览器选择<strong>异步</strong>来解决这个问题</p>
+<p><figure><a class="lightgallery" href="/event-loop/images/202208101048899.png" data-thumbnail="/event-loop/images/202208101048899.png" data-sub-html="<h2>异步策略</h2><p>异步策略，渲染主线程永不阻塞</p>"></a><figcaption class="image-caption">异步策略</figcaption>
+  </figure></p>
+<p>使用异步的方式，<strong>渲染主线程永不阻塞</strong></p>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>面试题：如何理解 JS 的异步？<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>参考答案：</p>
+<p>JS 是一门单线程的语言，这是因为它运行在浏览器的渲染主线程中，而渲染主线程只有一个。</p>
+<p>而渲染主线程承担着诸多的工作，渲染页面、执行 JS 都在其中运行。</p>
+<p>如果使用同步的方式，就极有可能导致主线程产生阻塞，从而导致消息队列中的很多其他任务无法得到执行。这样一来，一方面会导致繁忙的主线程白白的消耗时间，另一方面导致页面无法及时更新，给用户造成卡死现象。</p>
+<p>所以浏览器采用异步的方式来避免。具体做法是当某些任务发生时，比如计时器、网络、事件监听，主线程将任务交给其他线程去处理，自身立即结束任务的执行，转而执行后续代码。当其他线程完成时，将事先传递的回调函数包装成任务，加入到消息队列的末尾排队，等待主线程调度执行。</p>
+<p>在这种异步模式下，浏览器永不阻塞，从而最大限度的保证了单线程的流畅运行。</p>
+</div>
+    </div>
+  </div>
+<h3 id="js-为何会阻碍渲染">JS 为何会阻碍渲染？</h3>
+<p>先看代码</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>Mr.Yuan is awesome!<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">button</span><span class="p">&gt;</span>change<span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">var</span> <span class="nx">h1</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;h1&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">var</span> <span class="nx">btn</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s1">&#39;button&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="c1">// 死循环指定的时间
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>  <span class="kd">function</span> <span class="nx">delay</span><span class="p">(</span><span class="nx">duration</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">var</span> <span class="nx">start</span> <span class="o">=</span> <span class="nb">Date</span><span class="p">.</span><span class="nx">now</span><span class="p">();</span>
+</span></span><span class="line"><span class="cl">    <span class="k">while</span> <span class="p">(</span><span class="nb">Date</span><span class="p">.</span><span class="nx">now</span><span class="p">()</span> <span class="o">-</span> <span class="nx">start</span> <span class="o">&lt;</span> <span class="nx">duration</span><span class="p">)</span> <span class="p">{}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="nx">btn</span><span class="p">.</span><span class="nx">onclick</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">h1</span><span class="p">.</span><span class="nx">textContent</span> <span class="o">=</span> <span class="s1">&#39;袁老师很帅！&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">delay</span><span class="p">(</span><span class="mi">3000</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">};</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>点击按钮后，会发生什么呢？</p>
+<p>&lt;复制代码自行演示&gt;</p>
+<h3 id="任务有优先级吗">任务有优先级吗？</h3>
+<p>任务没有优先级，在消息队列中先进先出</p>
+<p>但<strong>消息队列是有优先级的</strong></p>
+<p>根据 W3C 的最新解释：</p>
+<ul>
+<li>每个任务都有一个任务类型，同一个类型的任务必须在一个队列，不同类型的任务可以分属于不同的队列。
+在一次事件循环中，浏览器可以根据实际情况从不同的队列中取出任务执行。</li>
+<li>浏览器必须准备好一个微队列，微队列中的任务优先所有其他任务执行
+<a href="https://html.spec.whatwg.org/multipage/webappapis.html#perform-a-microtask-checkpoint"target="_blank" rel="external nofollow noopener noreferrer">https://html.spec.whatwg.org/multipage/webappapis.html#perform-a-microtask-checkpoint</a></li>
+</ul>
+<blockquote>
+<p>随着浏览器的复杂度急剧提升，W3C 不再使用宏队列的说法</p>
+</blockquote>
+<p>在目前 chrome 的实现中，至少包含了下面的队列：</p>
+<ul>
+<li>微队列：用户存放需要最快执行的任务，优先级「最高」</li>
+<li>延时队列：用于存放计时器到达后的回调任务，优先级「中」</li>
+<li>交互队列：用于存放用户操作后产生的事件处理任务，优先级「高」</li>
+</ul>
+<p><figure><a class="lightgallery" href="/event-loop/images/multiple-queues.png" data-thumbnail="/event-loop/images/multiple-queues.png" data-sub-html="<h2>多队列演示图</h2><p>微队列、延时队列、交互队列</p>"></a><figcaption class="image-caption">多队列演示图</figcaption>
+  </figure></p>
+<p>添加任务到微队列的主要方式主要是使用 Promise、MutationObserver，例如：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="c1">// 立即把一个函数添加到微队列
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nb">Promise</span><span class="p">.</span><span class="nx">resolve</span><span class="p">().</span><span class="nx">then</span><span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{});</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>浏览器还有很多其他的队列，由于和我们开发关系不大，不作考虑。</p>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>面试题：阐述一下 JS 的事件循环<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>参考答案：</p>
+<p>事件循环又叫做消息循环，是浏览器渲染主线程的工作方式。</p>
+<p>在 Chrome 的源码中，它开启一个不会结束的 for 循环，每次循环从消息队列中取出第一个任务执行，而其他线程只需要在合适的时候将任务加入到队列末尾即可。</p>
+<p>过去把消息队列简单分为宏队列和微队列，这种说法目前已无法满足复杂的浏览器环境，取而代之的是一种更加灵活多变的处理方式。</p>
+<p>根据 W3C 官方的解释，每个任务有不同的类型，同类型的任务必须在同一个队列，不同的任务可以属于不同的队列。不同任务队列有不同的优先级，在一次事件循环中，由浏览器自行决定取哪一个队列的任务。但浏览器必须有一个微队列，微队列的任务一定具有最高的优先级，必须优先调度执行。</p>
+</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>面试题：JS 中的计时器能做到精确计时吗？为什么？<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>参考答案：</p>
+<p>不行，因为：</p>
+<ol>
+<li>计算机硬件没有原子钟，无法做到精确计时</li>
+<li>操作系统的计时函数本身就有少量偏差，由于 JS 的计时器最终调用的是操作系统的函数，也就携带了这些偏差</li>
+<li>按照 W3C 的标准，浏览器实现计时器时，如果嵌套层级超过 5 层，则会带有 4 毫秒的最少时间，这样在计时时间少于 4 毫秒时又带来了偏差</li>
+<li>受事件循环的影响，计时器的回调函数只能在主线程空闲时运行，因此又带来了偏差</li>
+</ol>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>安装 Homebrew 后导致系统中原有的 npm 和 npx 失效</title>
+  <link>http://localhost:1313/homebrew-npm/</link>
+  <pubDate>Thu, 15 Dec 2022 15:33:30 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/homebrew-npm/</guid>
+  <description><![CDATA[<div class="details admonition question open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">前面一段时间，安装了 Homebrew, 但是今天切换 node 版本到 system version (8.10.0) 后，发现虽然 node 版本切换成功，但是 node 版本对应的 npm 和 npx 版本不相符，下面记录一下问题排查过程。</div>
+    </div>
+  </div>
+<h2 id="罪魁祸首">罪魁祸首</h2>
+<p>首先定位到这次问题的根本原因是安装 Homebrew 导致的，这点可以很快也很明确地定位到，因为以前安装 Homebrew 也遇到了这个问题，但是当时的做法是卸载 Homebrew 避免冲突。</p>
+<h2 id="why">Why</h2>
+<p>分析为啥会冲突，Homebrew 安装的工程中也会默认一部分依赖的二进制文件，npm 和 npx 也在其中，所以这导致了 Homebrew 的安装 npm 和 npx 覆盖了系统中 node 的 npm 和 npx 进而导致 node 和 npm 版本不一致，无法使用 npm 启动项目。</p>
+<h2 id="where">Where</h2>
+<p>找一下目前 npm 和 npx 的二进制文件在哪。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nvm use system
+</span></span><span class="line"><span class="cl">node -v           <span class="c1"># 8.10.0</span>
+</span></span><span class="line"><span class="cl">which npm         <span class="c1"># /opt/homebrew/bin/npm</span>
+</span></span><span class="line"><span class="cl">which npx         <span class="c1"># /opt/homebrew/bin/npx</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="how">How</h2>
+<p>很明显前面的猜测是对的，那就打开这个目录看看：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">open /opt/homebrew/bin
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>找到 npm 和 npx，把他们重命名为 <code>npm-brew</code> 和 <code>npx-brew</code>, 这样通过别名也保留 Homebrew 的 npm 和 npx.</p>
+<p>修改完后，重启终端，再看看 npm 和 npx 是否生效：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nvm use system
+</span></span><span class="line"><span class="cl">node -v           <span class="c1"># 8.10.0</span>
+</span></span><span class="line"><span class="cl">which npm         <span class="c1"># /usr/local/bin/npm</span>
+</span></span><span class="line"><span class="cl">which npx         <span class="c1"># /usr/local/bin/npx</span>
+</span></span><span class="line"><span class="cl">npm -v
+</span></span><span class="line"><span class="cl">npx -v
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>一切正常了，可以用 npm 继续启动原来的项目了。</p>]]></description>
+</item>
+<item>
+  <title>Beego 安装及配置</title>
+  <link>http://localhost:1313/beego-install/</link>
+  <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/beego-install/</guid>
+  <description><![CDATA[<p>记录 GO 及 Beego 框架安装及基础配置。</p>
+<h2 id="安装-go">安装 Go</h2>
+<ol>
+<li>
+<p>官网下载安装包：<a href="https://golang.google.cn/dl/"target="_blank" rel="external nofollow noopener noreferrer">https://golang.google.cn/dl/</a></p>
+</li>
+<li>
+<p>通过二进制文件快速安装，默认安装目录：<code>/usr/local/go</code></p>
+</li>
+<li>
+<p>配置环境变量 <code>vim ~/.bash_profile</code></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># golang</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOROOT</span><span class="o">=</span>/usr/local/go
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOBIN</span><span class="o">=</span><span class="nv">$GOROOT</span>/bin
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:<span class="nv">$GOBIN</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOPATH</span><span class="o">=</span><span class="nv">$HOME</span>/go
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOPROXY</span><span class="o">=</span>https://goproxy.cn
+</span></span><span class="line"><span class="cl"><span class="c1"># Go work bin</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:<span class="nv">$GOPATH</span>/bin
+</span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ol>
+<h2 id="安装-beego">安装 Beego</h2>
+<ul>
+<li><a href="https://github.com/beego/beego"target="_blank" rel="external nofollow noopener noreferrer">Beego repository</a></li>
+<li><a href="https://beego.vip/"target="_blank" rel="external nofollow noopener noreferrer">Beego docs</a></li>
+<li><a href="https://beego.gocn.vip/"target="_blank" rel="external nofollow noopener noreferrer">Beego new docs</a></li>
+</ul>
+<p>Beego 的安装需要在新建项目且 <code>go mod init &lt;module_name&gt;</code>之后，在项目下执行，具体参考 <a href="https://github.com/beego/beego#quick-start"target="_blank" rel="external nofollow noopener noreferrer">beego#quick-start</a>。</p>
+<h2 id="安装-bee">安装 bee</h2>
+<ul>
+<li><a href="https://github.com/beego/bee"target="_blank" rel="external nofollow noopener noreferrer">bee repository</a></li>
+</ul>
+<blockquote>
+<p>注意：arm64 架构的 mac (M1 ～系列)，下载安装 bee 时最好，使用 Rosetta 打开终端，不然无法下载 <code>darwin_arm64</code> 的依赖，如果已经安装了，可以使用 Rosetta 打开终端后，运行 <code>bee update</code> 升级，升级完后将终端复原。</p>
+</blockquote>
+<p>bee 工具安装，<code>go install</code> 安裝指定版本的 bee 工具，例如：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">go install github.com/beego/bee/v2@latest
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>安装成功后，可以在 <code>$GOPATH/bin</code> 下看到 <code>bee</code> 的可执行文件。</p>
+<p>检验 bee 工具是否安装成功：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">bee version
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>创建一个新的 Beego 项目</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">bee new hello
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> hello
+</span></span><span class="line"><span class="cl">go mod tidy
+</span></span><span class="line"><span class="cl">bee run
+</span></span></code></pre></td></tr></table>
+</div>
+</div>]]></description>
+</item>
+<item>
+  <title>语义版本控制（SemVer）</title>
+  <link>http://localhost:1313/semver/</link>
+  <pubDate>Sat, 13 Aug 2022 13:32:03 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/semver/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/images/featured-image.png" referrerpolicy="no-referrer">
+      </div><div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>摘要<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>版本格式：<code>MAJOR.MINOR.PATCH</code>，版本号递增规则如下：</p>
+<ol>
+<li><code>MAJOR</code>: <strong>主版本号</strong>，当你做了不兼容的 API 修改</li>
+<li><code>MINOR</code>: <strong>次版本号</strong>，当你做了向下兼容的功能性新增</li>
+<li><code>PATCH</code>: <strong>修订号</strong>，当你做了向下兼容的问题修正</li>
+</ol>
+<p>先行版本号及版本编译信息可以加到 <code>MAJOR.MINOR.PATCH</code> 的后面，作为延伸。</p>
+</div>
+    </div>
+  </div>
+<h2 id="格式">格式</h2>
+<p>基本的语法格式如下，更多请参考 <a href="https://semver.org/#backusnaur-form-grammar-for-valid-semver-versions"target="_blank" rel="external nofollow noopener noreferrer">Backus–Naur Form Grammar for Valid SemVer Versions</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">&lt;valid semver&gt; ::= &lt;version core&gt;
+</span></span><span class="line"><span class="cl">                 | &lt;version core&gt; &#34;-&#34; &lt;pre-release&gt;
+</span></span><span class="line"><span class="cl">                 | &lt;version core&gt; &#34;+&#34; &lt;build&gt;
+</span></span><span class="line"><span class="cl">                 | &lt;version core&gt; &#34;-&#34; &lt;pre-release&gt; &#34;+&#34; &lt;build&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>范例：</p>
+<p></p>
+<table>
+<thead>
+<tr>
+<th>代码状态</th>
+<th>等级</th>
+<th>规则</th>
+<th>版本样例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>首次发布</td>
+<td>新品发布</td>
+<td>以 1.0.0 开始</td>
+<td>1.0.0</td>
+</tr>
+<tr>
+<td>bug 修复，向后兼容</td>
+<td>补丁版本发布</td>
+<td>变更第三位数字</td>
+<td>1.0.1</td>
+</tr>
+<tr>
+<td>新功能，向后兼容</td>
+<td>次版本发布</td>
+<td>变更第二位数字，并且第三位数字重置为 0</td>
+<td>1.1.0</td>
+</tr>
+<tr>
+<td>重大变更，不向后兼容</td>
+<td>主版本发布</td>
+<td>变更第一位数字，并且第二位，第三位数字重置为 0</td>
+<td>2.0.0</td>
+</tr>
+</tbody>
+</table>
+<div class="details admonition question open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>“v1.2.3” 是一个语义化版本号吗？<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">“v1.2.3” 并不是的一个语义化的版本号。<br>
+但是，在语义化版本号之前增加前缀 “v” 是用来表示版本号的常用做法。<br>
+在版本控制系统中，将 “version” 缩写为 “v” 是很常见的。<br>
+比如：<code>git tag v1.2.3 -m &quot;Release version 1.2.3&quot;</code> 中，标签是 “v1.2.3”，语义化版本号是 “1.2.3”。</div>
+    </div>
+  </div>
+<h2 id="规范">规范</h2>
+<p>以下关键词 MUST、MUST NOT、REQUIRED、SHALL、SHALL NOT、SHOULD、SHOULD NOT、 RECOMMENDED、MAY、OPTIONAL 依照 <a href="https://www.rfc-editor.org/rfc/rfc2119"target="_blank" rel="external nofollow noopener noreferrer">RFC 2119</a> 的叙述解读。</p>
+<details>
+  <summary>语义化版本控制规范（SemVer）</summary>
+  <ol>
+<li>
+<p>使用语义化版本控制的软件必须（MUST）定义公共 API。该 API 可以在代码中被定义或出现于严谨的文档内。无论何种形式都应该力求精确且完整。</p>
+</li>
+<li>
+<p>标准的版本号必须（MUST）采用 X.Y.Z 的格式，其中 X、Y 和 Z 为非负的整数，且禁止（MUST NOT）在数字前方补零。X 是主版本号、Y 是次版本号、而 Z 为修订号。每个元素必须（MUST）以数值来递增。例如：1.9.1 -&gt; 1.10.0 -&gt; 1.11.0。</p>
+</li>
+<li>
+<p>标记版本号的软件发行后，禁止（MUST NOT）改变该版本软件的内容。任何修改都必须（MUST）以新版本发行。</p>
+</li>
+<li>
+<p>主版本号为零（0.y.z）的软件处于开发初始阶段，一切都可能随时被改变。这样的公共 API 不应该被视为稳定版。</p>
+</li>
+<li>
+<p>1.0.0 的版本号用于界定公共 API 的形成。这一版本之后所有的版本号更新都基于公共 API 及其修改内容。</p>
+</li>
+<li>
+<p>修订号 Z（x.y.Z | x &gt; 0）必须（MUST）在只做了向下兼容的修正时才递增。这里的修正指的是针对不正确结果而进行的内部修改。</p>
+</li>
+<li>
+<p>次版本号 Y（x.Y.z | x &gt; 0）必须（MUST）在有向下兼容的新功能出现时递增。在任何公共 API 的功能被标记为弃用（deprecated）时也必须（MUST）递增。也可以（MAY）在内部程序有大量新功能或改进被加入时递增，其中可以（MAY）包括修订级别的改变。每当次版本号递增时，修订号必须（MUST）归零。</p>
+</li>
+<li>
+<p>主版本号 X（X.y.z | X &gt; 0）必须（MUST）在有任何不兼容的修改被加入公共 API 时递增。其中可以（MAY）包括次版本号及修订级别的改变。每当主版本号递增时，次版本号和修订号必须（MUST）归零。</p>
+</li>
+<li>
+<p>先行版本号可以（MAY）被标注在修订版之后，先加上一个连接号再加上一连串以句点分隔的标识符来修饰。标识符必须（MUST）由 ASCII 字母数字和连接号 [0-9A-Za-z-] 组成，且禁止（MUST NOT）留白。数字型的标识符禁止（MUST NOT）在前方补零。先行版的优先级低于相关联的标准版本。被标上先行版本号则表示这个版本并非稳定而且可能无法满足预期的兼容性需求。范例：1.0.0-alpha、1.0.0-alpha.1、1.0.0-0.3.7、1.0.0-x.7.z.92。</p>
+</li>
+<li>
+<p>版本编译信息可以（MAY）被标注在修订版或先行版本号之后，先加上一个加号再加上一连串以句点分隔的标识符来修饰。标识符必须（MUST）由 ASCII 字母数字和连接号 [0-9A-Za-z-] 组成，且禁止（MUST NOT）留白。当判断版本的优先层级时，版本编译信息可（SHOULD）被忽略。因此当两个版本只有在版本编译信息有差别时，属于相同的优先层级。范例：1.0.0-alpha+001、1.0.0+20130313144700、1.0.0-beta+exp.sha.5114f85。</p>
+</li>
+<li>
+<p>版本的优先层级指的是不同版本在排序时如何比较。</p>
+<ol>
+<li>
+<p>判断优先层级时，必须（MUST）把版本依序拆分为主版本号、次版本号、修订号及先行版本号后进行比较（版本编译信息不在这份比较的列表中）。</p>
+</li>
+<li>
+<p>由左到右依序比较每个标识符，第一个差异值用来决定优先层级：主版本号、次版本号及修订号以数值比较。</p>
+<p>例如：1.0.0 &lt; 2.0.0 &lt; 2.1.0 &lt; 2.1.1。</p>
+</li>
+<li>
+<p>当主版本号、次版本号及修订号都相同时，改以优先层级比较低的先行版本号决定。</p>
+<p>例如：1.0.0-alpha &lt; 1.0.0。</p>
+</li>
+<li>
+<p>有相同主版本号、次版本号及修订号的两个先行版本号，其优先层级必须（MUST）透过由左到右的每个被句点分隔的标识符来比较，直到找到一个差异值后决定：</p>
+<ol>
+<li>只有数字的标识符以数值高低比较。</li>
+<li>有字母或连接号时则逐字以 ASCII 的排序来比较。</li>
+<li>数字的标识符比非数字的标识符优先层级低。</li>
+<li>若开头的标识符都相同时，栏位比较多的先行版本号优先层级比较高。</li>
+</ol>
+<p>例如：1.0.0-alpha &lt; 1.0.0-alpha.1 &lt; 1.0.0-alpha.beta &lt; 1.0.0-beta &lt; 1.0.0-beta.2 &lt; 1.0.0-beta.11 &lt; 1.0.0-rc.1 &lt; 1.0.0</p>
+</li>
+</ol>
+</li>
+</ol>
+
+</details>
+<h2 id="版本阶段">版本阶段</h2>
+<ul>
+<li><code>Base</code>: 设计阶段，只有相应的设计没有具体的功能实现</li>
+<li><code>Alpha</code>: 软件的初级版本，基本功能已经实现，但存在较多的 bug</li>
+<li><code>Bate</code>: 相对于 Alpha 已经有了很大的进步，消除了严重的 BUG，但还存在一些潜在的 BUG，还需要不断测试</li>
+<li><code>RC</code>: 该版本已经相当成熟了，基本上不存在导致错误的 Bug，与即将发行的正式版本相差无几</li>
+<li><code>RELEASE</code>: 最终发布版本，没有太大的问题</li>
+</ul>
+<p>最终发布版本（<code>RELEASE</code>）之前的所有版本，都称为先行版本（<code>pre-release</code>）。</p>
+<h2 id="faqhttpssemverorglangzh-cnfaq"><a href="https://semver.org/lang/zh-CN/#faq"target="_blank" rel="external nofollow noopener noreferrer">FAQ</a></h2>
+<h2 id="其他相关">其他相关</h2>
+<h3 id="npm-semver">npm SemVer</h3>
+<p>通常我们发布一个包到 npm 仓库时，我们的做法是先修改 <code>package.json</code> 为某个版本，然后执行 <code>npm publish</code> 命令。手动修改版本号的做法建立在你对 SemVer 规范特别熟悉的基础之上，否则可能会造成版本混乱。npm 和 yarn 两个包管理都提供了 SemVer 规范的版本控制命令：</p>
+<ul>
+<li><a href="https://docs.npmjs.com/cli/v8/commands/npm-version"target="_blank" rel="external nofollow noopener noreferrer">npm-version</a></li>
+<li><a href="https://classic.yarnpkg.com/en/docs/cli/version"target="_blank" rel="external nofollow noopener noreferrer">yarn version</a></li>
+</ul>
+<p>npm 发包基础命令：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># 1. 创建一个新的包</span>
+</span></span><span class="line"><span class="cl">npm init
+</span></span><span class="line"><span class="cl"><span class="c1"># 2. 查看是否官方源</span>
+</span></span><span class="line"><span class="cl">npm config get registry
+</span></span><span class="line"><span class="cl"><span class="c1"># 3. 登录</span>
+</span></span><span class="line"><span class="cl">npm login
+</span></span><span class="line"><span class="cl"><span class="c1"># 4. 发布</span>
+</span></span><span class="line"><span class="cl">npm publish
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 版本变化 major.minor.patch</span>
+</span></span><span class="line"><span class="cl">npm version patch <span class="c1"># 升级补丁版本</span>
+</span></span><span class="line"><span class="cl">npm version minor <span class="c1"># 升级小版号</span>
+</span></span><span class="line"><span class="cl">npm version major <span class="c1"># 升级大版号</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 下架 [-force]</span>
+</span></span><span class="line"><span class="cl">npm unpublish
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>全局设置版本号前缀</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># https://docs.npmjs.com/cli/v8/using-npm/config#tag-version-prefix</span>
+</span></span><span class="line"><span class="cl">npm config <span class="nb">set</span> tag-version-prefix <span class="s2">&#34;&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># 全局设置版本更新 commit 提交信息</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># https://docs.npmjs.com/cli/v8/using-npm/config#message</span>
+</span></span><span class="line"><span class="cl">npm config <span class="nb">set</span> message <span class="s2">&#34;Chore(release): %s&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>或者设置项目的 <code>.npmrc</code> 或者 <code>.yarnrc</code></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># .npmrc</span>
+</span></span><span class="line"><span class="cl">tag-version-prefix<span class="o">=</span><span class="s2">&#34;&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">message</span><span class="o">=</span><span class="s2">&#34;Chore(release): %s&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># .yarnrc</span>
+</span></span><span class="line"><span class="cl">version-tag-prefix <span class="s2">&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">version-git-message <span class="s2">&#34;Chore(release): %s&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>package.json 版本控制规则使用了一些些符号：</p>
+<ul>
+<li><code>^</code></li>
+<li><code>~</code></li>
+<li><code>&gt;</code></li>
+<li><code>&gt;=</code></li>
+<li><code>&lt;</code></li>
+<li><code>&lt;=</code></li>
+<li><code>=</code></li>
+<li><code>-</code></li>
+<li><code>||</code></li>
+</ul>
+<p>这些规则的详情如下：</p>
+<ul>
+<li><code>^</code>: 只会执行不更改最左边非零数字的更新。 如果写入的是 <code>^0.13.0</code>，则当运行 <code>npm update</code> 时，可以更新到 <code>0.13.1</code>、<code>0.13.2</code> 等，但不能更新到 <code>0.14.0</code> 或更高版本。 如果写入的是 <code>^1.13.0</code>，则当运行 <code>npm update</code> 时，可以更新到 <code>1.13.1</code>、<code>1.14.0</code> 等，但不能更新到 <code>2.0.0</code> 或更高版本。</li>
+<li><code>~</code>: 如果写入的是 <code>〜0.13.0</code>，则当运行 <code>npm update</code> 时，会更新到补丁版本：即 <code>0.13.1</code> 可以，但 <code>0.14.0</code> 不可以。</li>
+<li><code>&gt;</code>: 接受高于指定版本的任何版本。</li>
+<li><code>&gt;=</code>: 接受等于或高于指定版本的任何版本。</li>
+<li><code>&lt;=</code>: 接受等于或低于指定版本的任何版本。</li>
+<li><code>&lt;</code>: 接受低于指定版本的任何版本。</li>
+<li><code>=</code>: 接受确切的版本。</li>
+<li><code>-</code>: 接受一定范围的版本。例如：<code>2.1.0 - 2.6.2</code>。</li>
+<li><code>||</code>: 组合集合。例如 <code>&lt; 2.1 || &gt; 2.6</code>。</li>
+</ul>
+<p>可以合并其中的一些符号，例如 <code>1.0.0 || &gt;=1.1.0 &lt;1.2.0</code>，即使用 1.0.0 或从 1.1.0 开始但低于 1.2.0 的版本。</p>
+<p>还有其他的规则：</p>
+<ul>
+<li>无符号：仅接受指定的特定版本（例如 <code>1.2.1</code>）。</li>
+<li><code>latest</code>: 使用可用的最新版本。</li>
+</ul>
+<h3 id="版本保留">版本保留</h3>
+<ol>
+<li>对于大型软件，每个版本都有使用价值时，应保留所有历史版本</li>
+<li>对于始终以最新版本为准的软件，则可保留至少最近的 10 个次版本</li>
+</ol>
+<h2 id="参考">参考</h2>
+<ul>
+<li><a href="https://semver.org/"target="_blank" rel="external nofollow noopener noreferrer">Semantic Versioning 2.0.0</a></li>
+<li><a href="http://nodejs.cn/learn/semantic-versioning-using-npm"target="_blank" rel="external nofollow noopener noreferrer">使用 npm 的语义版本控制</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title>Commit Message Spec</title>
+  <link>http://localhost:1313/commit-spec/</link>
+  <pubDate>Fri, 12 Aug 2022 15:37:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/commit-spec/</guid>
+  <description><![CDATA[<p>Commit messages are short descriptions of changes to a repository. We should follow certain standards to effectively describe changes, such as the <a href="https://www.conventionalcommits.org/en/v1.0.0-beta.4/"target="_blank" rel="external nofollow noopener noreferrer">Conventional Commits</a> specification based on the <a href="https://github.com/angular/angular/blob/68a6a07/CONTRIBUTING.md#commit"target="_blank" rel="external nofollow noopener noreferrer">Angular convention</a> that is most used on GitHub, or each development team can simplify and formulate their own commit specification. This is not only conducive to the automatic generation of Changelog in the later stage, but more importantly, when a bug occurs, the entire warehouse can be quickly checked, the problem point can be accurately located, and the version can be reverted.</p>
+<h2 id="format">Format</h2>
+<p><code>[{emoji} ]{type}[({module})]: {subject within 50 words}[ (#{issue/pull request})]</code></p>
+<p>example:</p>
+<ul>
+<li>🎉 Feat: add shortcode fixit-encryptor shortcode (#123)</li>
+<li>⬆️ Chore(libs): update Artalk from 2.2.12 to 2.3.4 (#150)</li>
+</ul>
+<h2 id="emoji">Emoji</h2>
+<ul>
+<li><a href="https://gitmoji.dev"target="_blank" rel="external nofollow noopener noreferrer">https://gitmoji.dev</a></li>
+<li><a href="https://github.com/maixiaojie/git-emoji-zh.git"target="_blank" rel="external nofollow noopener noreferrer">vscode plugin</a></li>
+<li>utools plugin <code>GitEmoji</code></li>
+</ul>
+<h2 id="message">Message</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Emoji</th>
+<th style="text-align:left">Type</th>
+<th style="text-align:left">Example</th>
+<th style="text-align:left">Description (No Ambiguous)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">🎉 <br>✨</td>
+<td style="text-align:left">Feat</td>
+<td style="text-align:left">Feat: add {feature}</td>
+<td style="text-align:left">new feature</td>
+</tr>
+<tr>
+<td style="text-align:left">🚚</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Feat: adjust/migrate {feature name}, {change details}</td>
+<td style="text-align:left">For the adjustment feature, it is necessary to describe the current situation (before) and after adjustment (after)</td>
+</tr>
+<tr>
+<td style="text-align:left">🔥</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Feat: delete {feature name}, {deletion reason}</td>
+<td style="text-align:left">If the feature is deleted, the reason for deletion must be explained</td>
+</tr>
+<tr>
+<td style="text-align:left">🐛 <br>🚧 <br>🚨</td>
+<td style="text-align:left">Fix</td>
+<td style="text-align:left">Fix: fix {bug description}</td>
+<td style="text-align:left">Fix known bugs</td>
+</tr>
+<tr>
+<td style="text-align:left">🎨 <br>💄 <br>✏️</td>
+<td style="text-align:left">Style</td>
+<td style="text-align:left">Style: Typesetting/CSS style {optimizing content}</td>
+<td style="text-align:left">Changes that do not affect code operation, such as code layout and style change</td>
+</tr>
+<tr>
+<td style="text-align:left">♻️</td>
+<td style="text-align:left">Refactor</td>
+<td style="text-align:left">Refactor: override {feature name}</td>
+<td style="text-align:left">It is neither a new function nor a code change to fix a bug. Simply rewriting the code of a function does not affect the function result</td>
+</tr>
+<tr>
+<td style="text-align:left">⚡</td>
+<td style="text-align:left">Perf</td>
+<td style="text-align:left">Perf: improve performance {function name}, {improve content}</td>
+<td style="text-align:left">Optimize code performance</td>
+</tr>
+<tr>
+<td style="text-align:left">⏪</td>
+<td style="text-align:left">Revert</td>
+<td style="text-align:left">Revert: restore version {commit message of restore version}</td>
+<td style="text-align:left">Restore the version of one commit</td>
+</tr>
+<tr>
+<td style="text-align:left">✏ <br>✏️</td>
+<td style="text-align:left">Docs</td>
+<td style="text-align:left">Docs: revise comments/update documents</td>
+<td style="text-align:left">Adjustment of documents and notes</td>
+</tr>
+<tr>
+<td style="text-align:left">🔧</td>
+<td style="text-align:left">Chore</td>
+<td style="text-align:left">Chore: update plugin version</td>
+<td style="text-align:left">Changes in the construction process or auxiliary tools</td>
+</tr>
+</tbody>
+</table>]]></description>
+</item>
+<item>
+  <title>electron 踩坑总结</title>
+  <link>http://localhost:1313/electron-summary/</link>
+  <pubDate>Fri, 12 Aug 2022 11:22:01 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/electron-summary/</guid>
+  <description><![CDATA[<p>总结一下最近 electron 开发遇到的问题和一些重要知识点。</p>
+<h2 id="简介">简介</h2>
+<p>如果你可以建一个网站，你就可以建一个桌面应用程序。 <a href="https://www.electronjs.org/"target="_blank" rel="external nofollow noopener noreferrer">Electron</a> 是一个使用 JavaScript, HTML 和 CSS 等 Web 技术创建原生程序的开源框架，它负责比较难搞的部分，你只需把精力放在你的应用的核心上即可。</p>
+<h2 id="知识点">知识点</h2>
+<h3 id="进程">进程</h3>
+<p>electron 由两种进程组成，包括<code>主进程</code>和 0 个或 n 个<code>渲染进程</code>。</p>
+<ol>
+<li><code>主进程</code>：承担应用的生命周期（包括启动，退出，准备，正在切换到后台，正在切换到前台等，还负责与原生操作系统 API 通信）</li>
+<li><code>渲染进程</code>：做 web 页面的 ui，渲染进程之间独立在各自的单线程，渲染进程之间相互隔离，不能直接访问操作系统，需要通信到主线程，在通过主线程操作访问操作形态，一个 BrowserWindow 实例即为一个渲染进程</li>
+</ol>
+<h3 id="技术栈">技术栈</h3>
+<p>electron 整合了 Node 和浏览器的所有能力，可以随意发挥这些技术栈的特点。由于固定浏览器内核，可以无需考虑兼容性地使用 html/js/css 新特性。</p>
+<h3 id="安装">安装</h3>
+<p>安装 electron 时，可能因为网络问题导致下载失败，需要使用镜像仓库来下载。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># 设置 electron 镜像仓库</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># https://registry.npmmirror.com/-/binary/electron</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># 13.1.7 版本 下载链接可能会拼错导致 404，要设置成 https://registry.npmmirror.com/-/binary/electron/v</span>
+</span></span><span class="line"><span class="cl">npm config <span class="nb">set</span> <span class="nv">electron_mirror</span><span class="o">=</span>https://npmmirror.com/mirrors/electron/
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>M1 Mac 安装较低版本 electron 时可能会报错，<code>Failed to find Electron v xxx for darwin-arm64</code>，因为这些版本的 electron 不支持 darwin-arm64 架构。Apple 针对未适配的 X64 应用提供了 Rosetta2 转换器，安装 darwin-x64 版本的 electron 在 Intel 模式下运行即可，<a href="https://www.jianshu.com/p/b1b3577fd373"target="_blank" rel="external nofollow noopener noreferrer">参考</a>。</p>
+<h3 id="remote">remote</h3>
+<blockquote>
+<p>不要频繁使用 remote, 更多应该手动进行和主进程之间的通信。</p>
+</blockquote>
+<p>使用时需在窗口创建时设置 <code>webPreferences.enableRemoteModule</code> 为 <code>true</code>。</p>
+<p>旧版本的 <code>electron.remote </code> 已经弃用，应该使用依赖 <code>electron/remote</code> 代替。</p>
+<p>使用了旧版本的 remote 时会有控制台警告信息：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-v" data-lang="v"><span class="line"><span class="cl"><span class="p">(</span><span class="nv">electron</span><span class="p">)</span> <span class="nc">The</span> <span class="nv">remote</span> <span class="kn">module</span> <span class="k">is</span> <span class="nv">deprecated</span><span class="p">.</span> <span class="nc">Use</span> <span class="nv">https</span><span class="p">:</span><span class="c1">//github.com/electron/remote instead.
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
+<li>获取当前窗口：<code>remote.getCurrentWindow()</code></li>
+</ul>
+<h2 id="问题点">问题点</h2>
+<h3 id="打开外部浏览器">打开外部浏览器</h3>
+<p>electron 的 <code>shell</code> 模块，可以使用 <code>shell.openExternal(url)</code> 在默认浏览器打开链接。</p>
+<h3 id="防抖与节流">防抖与节流</h3>
+<p>防抖：短期内大量触发事件时，只执行最后一次。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">function</span> <span class="nx">debounce</span><span class="p">(</span><span class="nx">fn</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">timer</span> <span class="o">=</span> <span class="kc">null</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">clearTimeOut</span><span class="p">(</span><span class="nx">timer</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">timer</span> <span class="o">=</span> <span class="nx">setTimeOut</span><span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">fn</span><span class="p">.</span><span class="nx">applay</span><span class="p">(</span><span class="k">this</span><span class="p">,</span> <span class="nx">arguments</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span> <span class="mi">300</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">};</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>节流：短期内大量触发事件时，只执行第一次。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">function</span> <span class="nx">throttle</span><span class="p">(</span><span class="nx">fn</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kd">let</span> <span class="nx">timer</span> <span class="o">=</span> <span class="kc">null</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="p">(</span><span class="nx">timer</span><span class="p">)</span> <span class="k">return</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">timer</span> <span class="o">=</span> <span class="nx">setTimeOut</span><span class="p">(()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">fn</span><span class="p">.</span><span class="nx">applay</span><span class="p">(</span><span class="k">this</span><span class="p">,</span> <span class="nx">arguments</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">      <span class="nx">timer</span> <span class="o">=</span> <span class="kc">null</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">},</span> <span class="mi">300</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="p">};</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="devtools">devTools</h3>
+<p>初始化窗口时设置 <code>webPreferences.devTools</code> 为 <code>true</code>，然后通过 <code>mainWindow.webContents.openDevTools()</code> 打开开发者工具。</p>
+<p>如果只在开发环境启用开发者工具，则需要设置 <code>webPreferences.devTools</code> 为 <code>process.env.NODE_ENV === 'development'</code></p>
+<h3 id="启动白屏">启动白屏</h3>
+<p>在创建窗口时设置 <code>show: false</code>，在 <code>ready-to-show</code> 事件之后执行 <code>mainWindow.show()</code>，</p>
+<p>可见官方文档 <a href="https://www.electronjs.org/zh/docs/latest/api/browser-window#%e4%bc%98%e9%9b%85%e5%9c%b0%e6%98%be%e7%a4%ba%e7%aa%97%e5%8f%a3"target="_blank" rel="external nofollow noopener noreferrer">优雅地显示窗口</a>。</p>
+<h4 id="启动前-loading">启动前 loading</h4>
+<p>额外创建一个 loading 窗口，该窗口可设置为透明只包含 loading 图标和文字，在 <code>mainWindow.show()</code> 后关闭。</p>
+<h4 id="启动后-loading">启动后 loading</h4>
+<p>如果使用了 Vue 框架，在 Vue 初始化之前窗口虽然出现了，但是内容时空白的，可以在 Vue 实例 #app 里写一个 loading, Vue 加载完后会覆盖掉。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span><span class="lnt">41
+</span><span class="lnt">42
+</span><span class="lnt">43
+</span><span class="lnt">44
+</span><span class="lnt">45
+</span><span class="lnt">46
+</span><span class="lnt">47
+</span><span class="lnt">48
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;app&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="c">&lt;!-- Display the loading icon and text until Vue initialization is complete --&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">style</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;text/css&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">html</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">body</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="k">height</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="k">margin</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">body</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="k">display</span><span class="p">:</span> <span class="kc">flex</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">#</span><span class="nn">app</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="k">margin</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="k">display</span><span class="p">:</span> <span class="kc">flex</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="k">align-items</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">@</span><span class="k">media</span> <span class="o">(</span><span class="nt">prefers-color-scheme</span><span class="o">:</span> <span class="nt">dark</span><span class="o">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="nt">body</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="k">color</span><span class="p">:</span> <span class="mh">#fff</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="k">background-color</span><span class="p">:</span> <span class="mh">#202124</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">style</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">svg</span>
+</span></span><span class="line"><span class="cl">    <span class="na">xmlns</span><span class="o">=</span><span class="s">&#34;http://www.w3.org/2000/svg&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="na">style</span><span class="o">=</span><span class="s">&#34;margin:auto;background:0 0&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="na">width</span><span class="o">=</span><span class="s">&#34;60&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="na">height</span><span class="o">=</span><span class="s">&#34;60&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="na">viewBox</span><span class="o">=</span><span class="s">&#34;0 0 100 100&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="na">preserveAspectRatio</span><span class="o">=</span><span class="s">&#34;xMidYMid&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="na">display</span><span class="o">=</span><span class="s">&#34;block&#34;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">circle</span>
+</span></span><span class="line"><span class="cl">      <span class="na">cx</span><span class="o">=</span><span class="s">&#34;50&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">cy</span><span class="o">=</span><span class="s">&#34;50&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">r</span><span class="o">=</span><span class="s">&#34;20&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">stroke-width</span><span class="o">=</span><span class="s">&#34;4&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">stroke</span><span class="o">=</span><span class="s">&#34;#a5a5a5&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">stroke-dasharray</span><span class="o">=</span><span class="s">&#34;31.416 31.416&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">fill</span><span class="o">=</span><span class="s">&#34;none&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">stroke-linecap</span><span class="o">=</span><span class="s">&#34;round&#34;</span>
+</span></span><span class="line"><span class="cl">      <span class="na">transform</span><span class="o">=</span><span class="s">&#34;rotate(67.21 50 50)&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;</span><span class="nt">animateTransform</span> <span class="na">attributeName</span><span class="o">=</span><span class="s">&#34;transform&#34;</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;rotate&#34;</span> <span class="na">repeatCount</span><span class="o">=</span><span class="s">&#34;indefinite&#34;</span> <span class="na">dur</span><span class="o">=</span><span class="s">&#34;1s&#34;</span> <span class="na">keyTimes</span><span class="o">=</span><span class="s">&#34;0;1&#34;</span> <span class="na">values</span><span class="o">=</span><span class="s">&#34;0 50 50;360 50 50&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">circle</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">svg</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">span</span><span class="p">&gt;</span>加载中 ...<span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="阻止窗口关闭">阻止窗口关闭</h3>
+<p>可以在关闭前一些事件里做拦截，比如：<code>onbeforeunload</code> 等，详见 <a href="https://www.electronjs.org/zh/docs/latest/api/browser-window#%e5%ae%9e%e4%be%8b%e4%ba%8b%e4%bb%b6"target="_blank" rel="external nofollow noopener noreferrer">实例事件</a>。</p>
+<h3 id="手动关闭窗口">手动关闭窗口</h3>
+<p>当自定义关闭时，使用 <code>mainWindow.destroy()</code> 来关闭窗口，因为使用 <code>mainWindow.close()</code> 时，windows 系统打开开发者工具时会出现无法关闭窗口的情况。</p>
+<h3 id="全局快捷键">全局快捷键</h3>
+<p>当 electron 版本较低时，比如 <code>13.1.7</code>，会出现在 mac 系统上复制粘贴等常用快捷键失效的问题。可通过设置菜单并绑定快捷键的方式解决。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span><span class="lnt">38
+</span><span class="lnt">39
+</span><span class="lnt">40
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">main</span> <span class="o">=</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">  <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">submenu</span><span class="o">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;关于&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;about&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;关闭&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;close&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;退出&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;quit&#39;</span> <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="p">},</span>
+</span></span><span class="line"><span class="cl">  <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;编辑&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">submenu</span><span class="o">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;撤销&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;undo&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;恢复&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;redo&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">type</span><span class="o">:</span> <span class="s1">&#39;separator&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;剪切&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;cut&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;复制&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;copy&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;粘贴&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;paste&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">type</span><span class="o">:</span> <span class="s1">&#39;separator&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;全选&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;selectAll&#39;</span> <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">];</span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">dev</span> <span class="o">=</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">  <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;开发者&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">submenu</span><span class="o">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;刷新&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;reload&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;强制刷新&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;forcereload&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">type</span><span class="o">:</span> <span class="s1">&#39;separator&#39;</span> <span class="p">},</span>
+</span></span><span class="line"><span class="cl">      <span class="p">{</span> <span class="nx">label</span><span class="o">:</span> <span class="s1">&#39;开发者工具&#39;</span><span class="p">,</span> <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;toggledevtools&#39;</span> <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">];</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="p">(</span><span class="nx">process</span><span class="p">.</span><span class="nx">env</span><span class="p">.</span><span class="nx">NODE_ENV</span> <span class="o">===</span> <span class="s1">&#39;development&#39;</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">main</span><span class="p">.</span><span class="nx">push</span><span class="p">(...</span><span class="nx">dev</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kr">export</span> <span class="k">default</span> <span class="nx">main</span><span class="p">;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kr">import</span> <span class="nx">memuConfig</span> <span class="nx">from</span> <span class="s1">&#39;./menu&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="kr">import</span> <span class="p">{</span> <span class="nx">Menu</span> <span class="p">}</span> <span class="nx">from</span> <span class="s1">&#39;electron&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="p">(</span><span class="nx">process</span><span class="p">.</span><span class="nx">platform</span> <span class="o">===</span> <span class="s1">&#39;darwin&#39;</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kr">const</span> <span class="nx">menu</span> <span class="o">=</span> <span class="nx">Menu</span><span class="p">.</span><span class="nx">buildFromTemplate</span><span class="p">(</span><span class="nx">memuConfig</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">Menu</span><span class="p">.</span><span class="nx">setApplicationMenu</span><span class="p">(</span><span class="nx">menu</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="electron-builder">electron-builder</h3>
+<p>下载时，可能因为网络问题导致下载失败，可设置 GitHub 下载镜像。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl"># GitHub 仓库下载地址前缀镜像
+</span></span><span class="line"><span class="cl"># disturl=https://registry.npmmirror.com/-/binary/
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>或者去 GitHub 手动下载，然后解压到缓存目录：</p>
+<ul>
+<li>macOS: <code>~/Library/Caches/electron-builder/</code></li>
+<li>linux: <code>~/.cache/electron-builder/</code></li>
+<li>windows: <code>%LOCALAPPDATA%\electron-builder\cache\</code></li>
+</ul>
+<p>mac 上缓存目录如下，其他可 <a href="https://www.cnblogs.com/xueyoucd/p/8006610.html"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">▸ nsis/
+</span></span><span class="line"><span class="cl">  ▸ nsis-resources-3.4.1/
+</span></span><span class="line"><span class="cl">  ▸ nsis-3.0.4.1/
+</span></span><span class="line"><span class="cl">▸ winCodeSign/
+</span></span><span class="line"><span class="cl">  ▸ winCodeSign-2.6.0/
+</span></span><span class="line"><span class="cl">▸ wine/
+</span></span><span class="line"><span class="cl">  ▸ wine-4.0.1-mac/
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h4 id="windows-打包">windows 打包</h4>
+<p>windows 系统打包配置，当没有配置签名时，<code>sign</code> 字段应删除或者配置为 <code>null</code>，否则可能导致打包时报错。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-json" data-lang="json"><span class="line"><span class="cl"><span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nt">&#34;win&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">&#34;icon&#34;</span><span class="p">:</span> <span class="s2">&#34;static/icons/icon.ico&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">&#34;verifyUpdateCodeSignature&#34;</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">&#34;target&#34;</span><span class="p">:</span> <span class="s2">&#34;nsis&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="nt">&#34;sign&#34;</span><span class="p">:</span> <span class="kc">null</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>注：win11 打包在 win10 上可能运行不了，最好使用 win10 打包或者 mac 打包指定系统和位数。</p>
+<h4 id="macos-打包">macOS 打包</h4>
+<p>问题：mac 升级之后 electron 打包报错 <code>Exit code: ENOENT. spawn /usr/bin/python ENOENT</code></p>
+<p>解决：网上搜到的下载 python 2.7 是治标不治本，正确做法是升级 <code>electron-builder</code> 到 <code>23.0.2</code> 或更高版本，参考 <a href="https://github.com/electron-userland/electron-builder/issues/6726"target="_blank" rel="external nofollow noopener noreferrer">electron-builder#6726</a></p>
+<p>参考链接</p>
+<ul>
+<li><a href="https://www.jianshu.com/p/2e6811ad9f68"target="_blank" rel="external nofollow noopener noreferrer">Electron-Mac 应用的签名步骤说明</a></li>
+</ul>]]></description>
+</item>
+</channel>
+</rss>
