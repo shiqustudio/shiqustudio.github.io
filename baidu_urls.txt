@@ -175,7 +175,6 @@ http://localhost:1313/adjacent-replacements/
 http://localhost:1313/poj-3984/
 http://localhost:1313/wannafly-20/
 http://localhost:1313/hdu-1241/
-http://localhost:1313/bfs%E6%B1%82%E6%9C%80%E7%9F%AD%E8%B7%AF/
 http://localhost:1313/cf-1009/
 http://localhost:1313/taotao%E8%A6%81%E5%90%83%E9%B8%A1/
 http://localhost:1313/dfs_bfs/
