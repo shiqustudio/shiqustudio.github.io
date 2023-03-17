@@ -2,18 +2,18 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://localhost:1313/categories/</loc><lastmod>2023-03-16T00:35:29&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/categories/</loc><lastmod>2023-03-17T02:35:45&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/books/cell-blog/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/tags/laravel/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/tags/markdown/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/tags/php/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://localhost:1313/tags/</loc><lastmod>2023-03-16T00:35:29&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://localhost:1313/</loc><lastmod>2023-03-16T00:35:29&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/tags/</loc><lastmod>2023-03-17T02:35:45&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/</loc><lastmod>2023-03-17T02:35:45&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://localhost:1313/tags/posts/</loc><lastmod>2023-03-16T00:35:29&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://localhost:1313/categories/posts/</loc><lastmod>2023-03-16T00:35:29&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://localhost:1313/posts2/</loc><lastmod>2023-03-16T00:35:29&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://localhost:1313/posts2/%E6%89%A9%E5%B1%95typeit/</loc><lastmod>2023-03-16T00:35:29&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/tags/posts/</loc><lastmod>2023-03-17T02:35:45&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/categories/posts/</loc><lastmod>2023-03-17T02:35:45&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/posts2/</loc><lastmod>2023-03-17T02:35:45&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/posts2/%E6%89%A9%E5%B1%95typeit/</loc><lastmod>2023-03-17T02:35:45&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/tags/eager/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/tags/html/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/categories/html/</loc><lastmod>2023-03-15T10:55:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
