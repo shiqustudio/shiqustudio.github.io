@@ -5,45 +5,37 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
     <meta name="robots" content="noodp" />
-    <title>第一次面试经历 - 拾趣资源</title><meta name="author" content="xucong">
+    <title>linux 文件权限 - 拾趣资源</title><meta name="author" content="xucong">
 <meta name="author-link" content="https://shiqustudio.github.io/">
-<meta name="description" content="
-时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。
-" /><meta name="keywords" content='面试' /><meta itemprop="name" content="第一次面试经历">
-<meta itemprop="description" content="
-时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。
-"><meta itemprop="datePublished" content="2019-04-24T21:23:22+00:00" />
-<meta itemprop="dateModified" content="2023-03-15T10:55:36+08:00" />
-<meta itemprop="wordCount" content="358"><meta itemprop="image" content="https://shiqustudio.github.io/images/avatar.jpg"/>
-<meta itemprop="keywords" content="面试," /><meta property="og:title" content="第一次面试经历" />
-<meta property="og:description" content="
-时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。
-" />
+<meta name="description" content="记录 linux 系统下文件权限相关的内容，Mac OS 下类似。" /><meta name="keywords" content='linux, 转载' /><meta itemprop="name" content="linux 文件权限">
+<meta itemprop="description" content="记录 linux 系统下文件权限相关的内容，Mac OS 下类似。"><meta itemprop="datePublished" content="2022-07-30T17:15:44+08:00" />
+<meta itemprop="dateModified" content="2023-03-17T17:46:34+08:00" />
+<meta itemprop="wordCount" content="611"><meta itemprop="image" content="https://shiqustudio.github.io/images/avatar.jpg"/>
+<meta itemprop="keywords" content="linux,转载," /><meta property="og:title" content="linux 文件权限" />
+<meta property="og:description" content="记录 linux 系统下文件权限相关的内容，Mac OS 下类似。" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://shiqustudio.github.io/1thintervivew/" /><meta property="og:image" content="https://shiqustudio.github.io/images/avatar.jpg"/><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2019-04-24T21:23:22+00:00" />
-<meta property="article:modified_time" content="2023-03-15T10:55:36+08:00" />
+<meta property="og:url" content="https://shiqustudio.github.io/shili-tuozhanpian/linux-permission/" /><meta property="og:image" content="https://shiqustudio.github.io/images/avatar.jpg"/><meta property="article:section" content="shili-tuozhanpian" />
+<meta property="article:published_time" content="2022-07-30T17:15:44+08:00" />
+<meta property="article:modified_time" content="2023-03-17T17:46:34+08:00" />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://shiqustudio.github.io/images/avatar.jpg"/>
 
-<meta name="twitter:title" content="第一次面试经历"/>
-<meta name="twitter:description" content="
-时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。
-"/>
+<meta name="twitter:title" content="linux 文件权限"/>
+<meta name="twitter:description" content="记录 linux 系统下文件权限相关的内容，Mac OS 下类似。"/>
 <meta name="application-name" content="FixIt">
 <meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://shiqustudio.github.io/1thintervivew/" /><link rel="prev" href="https://shiqustudio.github.io/blog-backup/" /><link rel="next" href="https://shiqustudio.github.io/async-defer/" /><link rel="stylesheet" href="/css/style.min.7e26d426b1b0cb73af8a230659ea9cb7037cf897c34a9b854730676e6eb540f6.css" integrity="sha256-fibUJrGwy3OviiMGWeqctwN8&#43;JfDSpuFRzBnbm61QPY="><link rel="stylesheet" href="/lib/fontawesome-free/all.min.01b035efb5dfa529c512f82962ed633328222da6f33c224244806d4798c67349.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k="><link rel="stylesheet" href="/lib/animate/animate.min.5fbaeb9f8e25d7e0143bae61d4b1802c16ce7390b96ceb2d498b0d96ff4c853f.css" integrity="sha256-X7rrn44l1&#43;AUO65h1LGALBbOc5C5bOstSYsNlv9MhT8="><script type="application/ld+json">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://shiqustudio.github.io/shili-tuozhanpian/linux-permission/" /><link rel="next" href="https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/" /><link rel="stylesheet" href="/css/style.min.7e26d426b1b0cb73af8a230659ea9cb7037cf897c34a9b854730676e6eb540f6.css" integrity="sha256-fibUJrGwy3OviiMGWeqctwN8&#43;JfDSpuFRzBnbm61QPY="><link rel="stylesheet" href="/lib/fontawesome-free/all.min.01b035efb5dfa529c512f82962ed633328222da6f33c224244806d4798c67349.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k="><link rel="stylesheet" href="/lib/animate/animate.min.5fbaeb9f8e25d7e0143bae61d4b1802c16ce7390b96ceb2d498b0d96ff4c853f.css" integrity="sha256-X7rrn44l1&#43;AUO65h1LGALBbOc5C5bOstSYsNlv9MhT8="><script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
-    "headline": "第一次面试经历",
+    "headline": "linux 文件权限",
     "inLanguage": "zh-CN",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https:\/\/shiqustudio.github.io\/1thintervivew\/"
-    },"genre": "posts","keywords": "面试","wordcount":  358 ,
-    "url": "https:\/\/shiqustudio.github.io\/1thintervivew\/","datePublished": "2019-04-24T21:23:22+00:00","dateModified": "2023-03-15T10:55:36+08:00","publisher": {
+      "@id": "https:\/\/shiqustudio.github.io\/shili-tuozhanpian\/linux-permission\/"
+    },"genre": "shili-tuozhanpian","keywords": "linux, 转载","wordcount":  611 ,
+    "url": "https:\/\/shiqustudio.github.io\/shili-tuozhanpian\/linux-permission\/","datePublished": "2022-07-30T17:15:44+08:00","dateModified": "2023-03-17T17:46:34+08:00","publisher": {
       "@type": "Organization",
       "name": ""},"author": {
         "@type": "Person",
@@ -56,7 +48,7 @@
     <div class="header-title">
       <a href="/" title="拾趣资源"><img loading="lazy" src="/fixit.min.svg" srcset="/fixit.min.svg, /fixit.min.svg 1.5x, /fixit.min.svg 2x" sizes="auto" data-title="拾趣资源" data-alt="拾趣资源" class="logo" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span id="typeit-header-desktop" class="typeit"></span></a><span id="typeit-header-subtitle-desktop" class="typeit header-subtitle"></span></div>
     <nav>
-      <ul class="menu"><li class="menu-item has-children">
+      <ul class="menu"><li class="menu-item active has-children">
               <a
                 class="menu-link"
                 href="/posts/"
@@ -110,7 +102,7 @@
                           
                         ><i class="fa-solid fa-camera fa-fw fa-sm" aria-hidden="true"></i> 内容管理篇</a>
                       </li><li
-                        class="menu-item"
+                        class="menu-item active"
                       >
                         <a
                           class="menu-link"
@@ -209,7 +201,7 @@
               取消
             </a>
           </li><li
-              class="menu-item"
+              class="menu-item active"
             ><span class="nested-item">
                   <a
                     class="menu-link"
@@ -266,7 +258,7 @@
                           
                         ><i class="fa-solid fa-camera fa-fw fa-sm" aria-hidden="true"></i> 内容管理篇</a>
                       </li><li
-                        class="menu-item"
+                        class="menu-item active"
                       >
                         <a
                           class="menu-link"
@@ -340,83 +332,121 @@
   </div>
   <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
-  </div><main class="container" data-page-style="normal"><aside class="toc" id="toc-auto"></aside>
-
-  <aside class="aside-custom">
-    </aside>
-
-  <article class="page single">
-    <div class="header"><h1 class="single-title animate__animated animate__flipInX">
-        <span>第一次面试经历</span>
-      </h1></div><div class="post-meta">
-      <div class="post-meta-line"><span class="post-author"><a href="https://shiqustudio.github.io/" title="作者"target="_blank" rel="external nofollow noopener noreferrer author" class="author"><img loading="lazy" src="/images/avatar.png" srcset="/images/avatar.png, /images/avatar.png 1.5x, /images/avatar.png 2x" sizes="auto" data-title="xucong" data-alt="xucong" class="avatar" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/>&nbsp;xucong</a></span>
-          <span class="post-category">收录于 <a href="/categories/%E9%9A%8F%E7%AC%94/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> 随笔</a></span></div>
-      <div class="post-meta-line"><span title="发布于 2019-04-24 21:23:22"><i class="fa-regular fa-calendar-alt fa-fw me-1" aria-hidden="true"></i><time datetime="2019-04-24">2019-04-24</time></span>&nbsp;<span title="更新于 2023-03-15 10:55:36"><i class="fa-regular fa-edit fa-fw me-1" aria-hidden="true"></i><time datetime="2023-03-15">2023-03-15</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 358 字</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>预计阅读 1 分钟</span>&nbsp;<span class="comment-visitors" data-flag-title="第一次面试经历">
-              <i class="fa-regular fa-eye fa-fw me-1" aria-hidden="true"></i><span data-path="/1thintervivew/" class="waline-pageview-count">-</span>&nbsp;次阅读
-            </span>&nbsp;<span class="comment-count" data-flag-title="第一次面试经历">
-              <i class="fa-regular fa-comments fa-fw me-1" aria-hidden="true"></i><span data-path="/1thintervivew/" class="waline-comment-count">-</span>&nbsp;条评论
-            </span>&nbsp;</div>
-    </div><div class="content" id="content" data-end-flag="（完）"><blockquote>
-<p>时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。</p>
-</blockquote>
-<div class="details admonition success open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-check-circle fa-fw" aria-hidden="true"></i>Success<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content"><p>富士康在学校有一个春招的机会，我和朋友抱着侥幸的心理去试了试。
-虽然深知自己还身有很多缺点，但是不面试不知道，一面试都暴露出来了，以下记录一下自己的不足之处：</p>
+  </div><main class="container" data-page-style="normal"><article class="page single special">
+    <div class="header"><h1 class="single-title animate__animated animate__pulse animate__faster">linux 文件权限</h1></div><div
+      class="content"
+      id="content"
+      
+      
+    ><p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>
+<h2 id="查看文件权限">查看文件权限</h2>
+<p>查看 linux 系统下的文件权限，可以使用 <code>ll</code> 命令或者 <code>ls</code> 命令 带 <code>-l</code>（长列表选项）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">➜  ~ ll
+</span></span><span class="line"><span class="cl">total <span class="m">160</span>
+</span></span><span class="line"><span class="cl">drwx------@  <span class="m">8</span> liruihao  staff   256B Jul  <span class="m">5</span> 14:47 Applications
+</span></span><span class="line"><span class="cl">drwx------@ <span class="m">10</span> liruihao  staff   320B Jul <span class="m">27</span> 11:31 Desktop
+</span></span><span class="line"><span class="cl">drwx------+  <span class="m">7</span> liruihao  staff   224B Jun <span class="m">17</span> 15:01 Documents
+</span></span><span class="line"><span class="cl">drwx------@ <span class="m">22</span> liruihao  staff   704B Jul <span class="m">29</span> 16:35 Downloads
+</span></span><span class="line"><span class="cl">drwx------@ <span class="m">94</span> liruihao  staff   2.9K Jul <span class="m">23</span> 19:02 Library
+</span></span><span class="line"><span class="cl">drwx------   <span class="m">4</span> liruihao  staff   128B Nov <span class="m">13</span>  <span class="m">2021</span> Movies
+</span></span><span class="line"><span class="cl">drwx------+  <span class="m">6</span> liruihao  staff   192B Nov <span class="m">18</span>  <span class="m">2021</span> Music
+</span></span><span class="line"><span class="cl">drwx------+  <span class="m">9</span> liruihao  staff   288B Apr <span class="m">26</span> 10:25 Pictures
+</span></span><span class="line"><span class="cl">drwxr-xr-x+  <span class="m">5</span> liruihao  staff   160B Nov <span class="m">14</span>  <span class="m">2021</span> Public
+</span></span><span class="line"><span class="cl">drwxr-xr-x   <span class="m">5</span> liruihao  staff   160B Jul <span class="m">29</span> 17:48 file-share
+</span></span><span class="line"><span class="cl">drwxr-xr-x   <span class="m">3</span> liruihao  staff    96B Jul <span class="m">26</span> 17:17 node_modules
+</span></span><span class="line"><span class="cl">-rw-r--r--   <span class="m">1</span> liruihao  staff    27B Jun <span class="m">24</span> 13:47 package-lock.json
+</span></span><span class="line"><span class="cl">drwxr-xr-x  <span class="m">20</span> liruihao  staff   640B Jul <span class="m">29</span> 22:20 workspace
+</span></span><span class="line"><span class="cl">-rw-r--r--   <span class="m">1</span> liruihao  staff    86B Jul <span class="m">26</span> 17:17 yarn.lock
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>文件列表信息分为：文件类型、权限、链接数、所属用户、所属用户组、文件大小、最后修改时间、文件名。</p>
+<h2 id="文件类型">文件类型</h2>
+<p>linux 一共有 7 种文件类型，分别如下：</p>
 <ul>
-<li>php 和 sql 的经典组合虽然有所接触了解，但是确实什么都会，得花时间学</li>
-<li>html/css 等虽然平时折腾博客这些应用的比较多，但是今天竟然紧张地忘记了 margin 和 padding 都不会写了</li>
-<li>如上一条，公众表现能力有待加强。正如当今“酒香也怕巷子深”，何况“不香”。</li>
+<li>
+<p><code>-</code>: 普通文件</p>
+</li>
+<li>
+<p><code>d</code>: 目录文件</p>
+</li>
+<li>
+<p><code>l</code>: 链接文件</p>
+</li>
+<li>
+<p><code>b</code>: 块设备文件</p>
+</li>
+<li>
+<p><code>p</code>: 管道文件</p>
+</li>
+<li>
+<p><code>c</code>: 字符设备文件</p>
+</li>
+<li>
+<p><code>s</code>: 套接口文件/数据接口文件</p>
+<p><em>后四种是特殊文件</em></p>
+</li>
 </ul>
-<p>惊喜的事说来就来，本来知道自己这么多缺点，这么菜后，觉得这个实习的 offer 是没戏了，没想到下午技术主管微信发来消息，说录用了。当场懵逼，受宠若惊的感觉！非常谢谢面试官老师！<br>
-无论生活还是学习，希望以后的自己一定要保持一颗谦逊爱学的心，早日实现全栈工程师的梦想，还有早点存钱把大学学费的贷款还掉！</p>
+<h2 id="文件权限对应关系">文件权限对应关系</h2>
+<table>
+<thead>
+<tr>
+<th>权限</th>
+<th>含义</th>
+<th>对应数字</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>r</td>
+<td>读权限</td>
+<td>4</td>
+</tr>
+<tr>
+<td>w</td>
+<td>写权限</td>
+<td>2</td>
+</tr>
+<tr>
+<td>x</td>
+<td>执行权限</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p>读、写、运行三项权限用数字表示就是 <strong>r=4,w=2,x=1</strong>。所以，<code>-rw-r--r--</code> 用数字表示成 644。</p>
+<p>权限字段 <code>-rwxrwxrwx</code> 的内容总共会有 10 个 <code>-</code>，第一个表示文件类型，如该文件是<strong>文件 (-表示）</strong>，<strong>文件夹 (d 表示）</strong>, <strong>连接文件 (l 表示）</strong>，后面 9 个按照每三位为一组分。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">drwxr-xr-x   <span class="m">5</span> liruihao  staff   160B Jul <span class="m">29</span> 17:48 file-share
+</span></span></code></pre></td></tr></table>
 </div>
-    </div>
-  </div></div><div class="post-footer" id="post-footer">
-  <div class="post-info">
-    <div class="post-info-line">
-      <div class="post-info-mod">
-        <span title="更新于 2023-03-15 10:55:36">更新于 2023-03-15&nbsp;<a class="git-hash" href="https://github.com/shiqustudio/hugo-blog/commit/a4056b18b7baade507e5d8a7f65b0957b8c1f135" rel="external nofollow noopener noreferrer" target="_blank" title="commit by Silnce1124.github.io(403144966@qq.com) a4056b18b7baade507e5d8a7f65b0957b8c1f135: 20230315"><i class="fa-solid fa-hashtag fa-fw" aria-hidden="true"></i>a4056b1</a></span>
-      </div><div class="post-info-license">
-          <span><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span>
-        </div></div>
-    <div class="post-info-line">
-      <div class="post-info-md"><span><a href="/1thintervivew/index.md" title="阅读原始文档" class="link-to-markdown">阅读原始文档</a></span></div>
-      <div class="post-info-share">
-        <span><a href="javascript:void(0);" title="分享到 Twitter" data-sharer="twitter" data-url="https://shiqustudio.github.io/1thintervivew/" data-title="第一次面试经历" data-hashtags="面试"><i class="fa-brands fa-twitter fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Facebook" data-sharer="facebook" data-url="https://shiqustudio.github.io/1thintervivew/" data-hashtag="面试"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 WhatsApp" data-sharer="whatsapp" data-url="https://shiqustudio.github.io/1thintervivew/" data-title="第一次面试经历" data-web><i class="fa-brands fa-whatsapp fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Line" data-sharer="line" data-url="https://shiqustudio.github.io/1thintervivew/" data-title="第一次面试经历"><i data-svg-src="/lib/simple-icons/icons/line.min.svg" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 微博" data-sharer="weibo" data-url="https://shiqustudio.github.io/1thintervivew/" data-title="第一次面试经历"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Myspace" data-sharer="myspace" data-url="https://shiqustudio.github.io/1thintervivew/" data-title="第一次面试经历" data-description=""><i data-svg-src="/lib/simple-icons/icons/myspace.min.svg" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Blogger" data-sharer="blogger" data-url="https://shiqustudio.github.io/1thintervivew/" data-title="第一次面试经历" data-description=""><i class="fa-brands fa-blogger fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Evernote" data-sharer="evernote" data-url="https://shiqustudio.github.io/1thintervivew/" data-title="第一次面试经历"><i class="fa-brands fa-evernote fa-fw" aria-hidden="true"></i></a>
-  </span>
-      </div>
-    </div>
-  </div>
-
-  <div class="post-info-more">
-    <section class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href='/tags/%E9%9D%A2%E8%AF%95/' class="post-tag">面试</a></section>
-    <section>
-      <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
-    </section>
-  </div>
-
-  <div class="post-nav"><a href="/blog-backup/" class="post-nav-item" rel="prev" title="hexo 博客源码备份"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>hexo 博客源码备份</a>
-      <a href="/async-defer/" class="post-nav-item" rel="next" title="script 的三种加载方式 (async, defer)">script 的三种加载方式 (async, defer)<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
-</div>
-<div class="post-reward">
-    <div class="comment"></div>
-    <input type="checkbox" class="reward-input" name="reward" id="fi-reward" hidden />
-    <label class="reward-button" for="fi-reward">赞赏</label>
-    <div class="reward-ways"><div><img loading="lazy" src="/images/alipay.png" srcset="/images/alipay.png, /images/alipay.png 1.5x, /images/alipay.png 2x" sizes="auto" data-title="xucong 支付宝" data-alt="xucong 支付宝" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span data-animation>支付宝</span>
-          </div><div><img loading="lazy" src="/images/wechatpay.png" srcset="/images/wechatpay.png, /images/wechatpay.png 1.5x, /images/wechatpay.png 2x" sizes="auto" data-title="xucong 微信" data-alt="xucong 微信" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span data-animation>微信</span>
-          </div></div>
-  </div><div id="comments"><div id="waline" class="comment"></div><noscript>
+</div><p><strong>d</strong>: 代表文件夹</p>
+<p><strong>rwx</strong>: 代表文件所有者 (u 表示）权限，这里是 liruihao，liruihao 对该文件拥有读写执行权限。</p>
+<p><strong>r-x</strong>: 代表所属（g 表示）的权限，这里同组用户拥有对该文件读和执行的权限。</p>
+<p><strong>r-x</strong>: 代表其他用户（o 表示）的权限，这里和上面权限一样。</p></div><div id="comments"><div id="waline" class="comment"></div><noscript>
         Please enable JavaScript to view the comments powered by <a href="https://waline.js.org/" rel="external nofollow noopener noreferrer">Waline</a>.
       </noscript></div></article></main><footer class="footer">
     <div class="footer-container"><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
