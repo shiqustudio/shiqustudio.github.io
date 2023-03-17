@@ -178,5 +178,5 @@ Cell Blog is open-sourced software licensed under the MIT license.
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/books/cell-blog/  
+> URL: https://shiqustudio.github.io/books/cell-blog/  
 

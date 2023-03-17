@@ -21,5 +21,5 @@
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/  
+> URL: https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/  
 

@@ -72,5 +72,5 @@ JS 的加载分为两个部分：下载和执行。
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/async-defer/  
+> URL: https://shiqustudio.github.io/async-defer/  
 

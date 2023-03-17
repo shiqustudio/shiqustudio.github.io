@@ -63,5 +63,5 @@ bee run
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/beego-install/  
+> URL: https://shiqustudio.github.io/beego-install/  
 

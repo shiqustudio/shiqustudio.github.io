@@ -49,5 +49,5 @@ hexo d -g  //部署
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/blog-backup/  
+> URL: https://shiqustudio.github.io/blog-backup/  
 

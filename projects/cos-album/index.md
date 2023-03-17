@@ -113,5 +113,5 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/projects/cos-album/  
+> URL: https://shiqustudio.github.io/projects/cos-album/  
 

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>ADB - 标签 - 我的 Hugo FixIt 网站</title>
-    <link>http://localhost:1313/tags/adb/</link>
-    <description>ADB - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/adb/" rel="self" type="application/rss+xml" /><item>
+    <title>ADB - 标签 - 拾趣资源</title>
+    <link>https://shiqustudio.github.io/tags/adb/</link>
+    <description>ADB - 标签 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/adb/" rel="self" type="application/rss+xml" /><item>
   <title>Mac 配置 ADB</title>
-  <link>http://localhost:1313/adb-for-mac/</link>
+  <link>https://shiqustudio.github.io/adb-for-mac/</link>
   <pubDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>http://localhost:1313/adb-for-mac/</guid>
+  <guid>https://shiqustudio.github.io/adb-for-mac/</guid>
   <description><![CDATA[<p>作为非安卓专业开发，无需下载 Android SDK，<br>
 仅下载 Android SDK 中的 <a href="https://developer.android.com/studio/releases/platform-tools?hl=zh-cn"target="_blank" rel="external nofollow noopener noreferrer">platform-tools</a> 命令行工具即可，并配置好环境变量。</p>
 <h2 id="安装">安装</h2>

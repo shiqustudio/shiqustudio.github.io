@@ -3,7 +3,39 @@
     <title>2018 湘潭邀请赛 - 标签 - 我的 Hugo FixIt 网站</title>
     <link>http://localhost:1313/tags/2018-%E6%B9%98%E6%BD%AD%E9%82%80%E8%AF%B7%E8%B5%9B/</link>
     <description>2018 湘潭邀请赛 - 标签 - 我的 Hugo FixIt 网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Jun 2018 22:49:27 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/2018-%E6%B9%98%E6%BD%AD%E9%82%80%E8%AF%B7%E8%B5%9B/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 15 Jun 2018 07:51:21 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/2018-%E6%B9%98%E6%BD%AD%E9%82%80%E8%AF%B7%E8%B5%9B/" rel="self" type="application/rss+xml" /><item>
+  <title>18 湘潭邀请赛参赛队员代表发言</title>
+  <link>http://localhost:1313/18%E6%B9%98%E6%BD%AD%E9%82%80%E8%AF%B7%E8%B5%9B%E9%98%9F%E5%91%98%E4%BB%A3%E8%A1%A8%E5%8F%91%E8%A8%80/</link>
+  <pubDate>Fri, 15 Jun 2018 07:51:21 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/18%E6%B9%98%E6%BD%AD%E9%82%80%E8%AF%B7%E8%B5%9B%E9%98%9F%E5%91%98%E4%BB%A3%E8%A1%A8%E5%8F%91%E8%A8%80/</guid>
+  <description><![CDATA[<blockquote>
+<p>来自一位大佬的演讲</p>
+</blockquote>
+<p>尊敬的领导、教练，亲爱的参赛选手们：<br>
+大家好，我是来自广东工业大学的 tmk。今天很荣幸能够站在这里代表全体参赛选手发言，与大家分享我的经历和感受。<br>
+刚开始来到大学的时候，我一心向学，本着“好好学习，天天向上，为校争光，不搞对象”的信念，想在大学一展宏图。因为高中 OI 的挫败，我在刚上大学的时候就选择了 ACM 这条“不归路”。一开始是因为高中的遗憾，到后来就完全是因为信念和兴趣慢慢一直搞到现在。当时的我还不知道踏上 ACM 这条路的苦，而如今的我却也尝到了 ACM 带给我的乐。<br>
+在这三年里，有数不清的夜晚，我的舍友们在寝室里开黑，而我和我的队友在机房里开黑；在这三年里，有数不清的周末，我的舍友们在校园里驰骋，而我和我的队友在题库里驰骋；在这三年里，有数不清的假期，我的舍友们在召唤师峡谷里征战，而我和我的队友在中国各省市征战。三年过去了，我的舍友们成为了 offer 收割机，而我和我的队友成为了气球收割机。<br>
+为了变强是一个痛苦且漫长的过程，只有耐得住寂寞，才能守得住繁华。我的一位队友为了变强甚至牺牲了自己的头发，仅仅是因为他担心他的头发阻碍了他思维的发散。他变秃了也变强了。<br>
+三年的 ACM 让我成长很多，收获很多。我也从一个“好好学习天天向上为校争光不搞对象”的无知青年变成了一个写的了工程查得出异常的准程序员。我觉得三年献身于 ACM 的日子是值得的，和一大堆萌萌的男孩子们在屋子里面一个又一个通宵奋斗的酣畅淋漓的日子是值得的，看着谈恋爱的大家一会儿哀伤一会儿忧愁而我与代码自得其乐矢志不渝的日子是值得的。此外他还给我带来两个最好的小伙伴，是他们的一路陪伴，让我有勇气一直走下去。我和他们走过的地方，比我和女朋友去过的地方还要多。噢，对了，我好像没有女朋友。总而言之，请珍惜你们的队友，他们是你们在大学里为数不多一起奋斗的小伙伴。希望大家像我一样，也爱着 ACM，为自己心爱的努力。<br>
+最后预祝各位参赛选手们取得理想的成绩，也预祝本次大赛圆满成功。谢谢大家。</p>
+]]></description>
+</item>
+<item>
+  <title>18 湘潭邀请赛总结</title>
+  <link>http://localhost:1313/18%E6%B9%98%E6%BD%AD%E9%82%80%E8%AF%B7%E8%B5%9B%E6%80%BB%E7%BB%93/</link>
+  <pubDate>Thu, 14 Jun 2018 23:32:47 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>http://localhost:1313/18%E6%B9%98%E6%BD%AD%E9%82%80%E8%AF%B7%E8%B5%9B%E6%80%BB%E7%BB%93/</guid>
+  <description><![CDATA[<p><a href="http://acm.hdu.edu.cn/downloads/2018ccpc_hn.pdf"target="_blank" rel="external nofollow noopener noreferrer">题目链接</a>（hdu 复赛）</p>
+<p>2018 年湘潭邀请赛，在湘大举行，当时一起打的过去的，因为没出市就方便点。第一次参加现场赛，首先反省一下自己，比赛前算法先不说（没有好好搞过），就连普通的题，数学性质的题都很少刷，什么都不会，然后英语不说四六级的东西，很多专业英语词汇都没有好好了解过，主要的原因还是刷题刷少了，英文题刷少了。理所当然，成功拿下一铁，湘潭赛打铁告终。</p>
+<p>比赛开始，这次是三个人没人一份纸质题目，拿到题目，看最后一题，k.2018 发现可以做，（事实证明确实是一道水题），我就在做这题，他们看了 a 题，好像是 k 题一顿操作后提交，错了，一直到比赛结束都没做出来，后来回去看别人的题解，发现自己情况没有分析全面，其实是完全可以解出来的，真的做的太少太少了。a 题最后也是没过，还有一个 f 题，sort，我最初的想法是用 stl 里的那个 sort 排序，只要对 sort 的 compare 函数做处理应该可以完成排序，比赛之前我看过，但是不熟悉，zxm 她也看了我就交给她了，最后好像因为爆 long double 的问题也没做出来。<br>
+哎，菜还是菜，很多算法都不懂，数据结构也没学好，很有一段时间我都特别头疼算法，不想学，费劲，觉得自己不适合学计算机，更不适合 ACM。有时候又想，不适合好像总是 loser 的借口！总是在后悔和偷懒的矛盾中！<br>
+最后，放上，&ldquo;参赛奖&quot;羞辱自己，也是鞭策！<br>
+</p>
+]]></description>
+</item>
+<item>
   <title>F.sorting</title>
   <link>http://localhost:1313/f-sorting/</link>
   <pubDate>Thu, 14 Jun 2018 22:49:27 &#43;0000</pubDate>

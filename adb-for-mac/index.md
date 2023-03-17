@@ -54,5 +54,5 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/adb-for-mac/  
+> URL: https://shiqustudio.github.io/adb-for-mac/  
 

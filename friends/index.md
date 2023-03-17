@@ -31,5 +31,5 @@
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/friends/  
+> URL: https://shiqustudio.github.io/friends/  
 

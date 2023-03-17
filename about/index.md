@@ -59,5 +59,5 @@ console.log(site.name);
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: http://localhost:1313/about/  
+> URL: https://shiqustudio.github.io/about/  
 
