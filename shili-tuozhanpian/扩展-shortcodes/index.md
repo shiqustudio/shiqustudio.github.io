@@ -28,9 +28,9 @@ Hugo **extended** 版本对于 `style` shortcode 是必需的。
 一个 `style` 示例：
 
 ```go-html-template
-{{< style "text-align:right; strong{color:#00b1ff;}" >}}
+{{</* style "text-align:right; strong{color:#00b1ff;}" */>}}
 This is a **right-aligned** paragraph.
-{{< /style >}}
+{{</* /style */>}}
 ```
 
 呈现的输出效果如下：
@@ -90,17 +90,17 @@ This is a **right-aligned** paragraph.
 一个 `link` 示例：
 
 ```go-html-template
-{{< link "https://assemble.io" >}}
+{{</* link "https://assemble.io" */>}}
 或者
-{{< link href="https://assemble.io" >}}
+{{</* link href="https://assemble.io" */>}}
 
-{{< link "mailto:contact@revolunet.com" >}}
+{{</* link "mailto:contact@revolunet.com" */>}}
 或者
-{{< link href="mailto:contact@revolunet.com" >}}
+{{</* link href="mailto:contact@revolunet.com" */>}}
 
-{{< link "https://assemble.io" Assemble >}}
+{{</* link "https://assemble.io" Assemble */>}}
 或者
-{{< link href="https://assemble.io" content=Assemble >}}
+{{</* link href="https://assemble.io" content=Assemble */>}}
 ```
 
 呈现的输出效果如下：
@@ -113,9 +113,9 @@ This is a **right-aligned** paragraph.
 一个带有标题的 `link` 示例：
 
 ```go-html-template
-{{< link "https://github.com/upstage/" Upstage "Visit Upstage!" >}}
+{{</* link "https://github.com/upstage/" Upstage "Visit Upstage!" */>}}
 或者
-{{< link href="https://github.com/upstage/" content=Upstage title="Visit Upstage!" >}}
+{{</* link href="https://github.com/upstage/" content=Upstage title="Visit Upstage!" */>}}
 ```
 
 呈现的输出效果如下 （将鼠标悬停在链接上，会有一行提示）:
@@ -125,9 +125,9 @@ This is a **right-aligned** paragraph.
 一个卡片式 `link` 示例：
 
 ```go-html-template
-{{< link "https://github.com/hugo-fixit/FixIt" "FixIt Theme" "source of FixIt Theme" true >}}
+{{</* link "https://github.com/hugo-fixit/FixIt" "FixIt Theme" "source of FixIt Theme" true */>}}
 或者
-{{< link href="https://github.com/hugo-fixit/FixIt" content="FixIt Theme" title="source of FixIt Theme" card=true >}}
+{{</* link href="https://github.com/hugo-fixit/FixIt" content="FixIt Theme" title="source of FixIt Theme" card=true */>}}
 ```
 
 呈现的输出效果如下：
@@ -137,9 +137,9 @@ This is a **right-aligned** paragraph.
 一个可下载的 `link` 示例：
 
 ```go-html-template
-{{< link href="/music/Wavelength.mp3" content="Wavelength" title="Download Wavelength.mp3" download="Wavelength.mp3" >}}
+{{</* link href="/music/Wavelength.mp3" content="Wavelength" title="Download Wavelength.mp3" download="Wavelength.mp3" */>}}
 
-{{< link href="/music/Wavelength.mp3" content="Wavelength.mp3" title="Download Wavelength.mp3" download="Wavelength.mp3" card=true >}}
+{{</* link href="/music/Wavelength.mp3" content="Wavelength.mp3" title="Download Wavelength.mp3" download="Wavelength.mp3" card=true */>}}
 ```
 
 呈现的输出效果如下：
@@ -213,7 +213,7 @@ This is a **right-aligned** paragraph.
 一个 `image` 示例：
 
 ```
-{{< image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" >}} 
+{{</* image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" */>}} 
 ```
 
 呈现的输出效果如下：
@@ -267,13 +267,13 @@ This is a **right-aligned** paragraph.
 一个 `admonition` 示例：
 
 ```go-html-template
-{{< admonition type=tip title="This is a tip" open=false >}}
+{{</* admonition type=tip title="This is a tip" open=false */>}}
 一个 **技巧** 横幅
-{{< /admonition >}}
+{{</* /admonition */>}}
 或者
-{{< admonition tip "This is a tip" false >}}
+{{</* admonition tip "This is a tip" false */>}}
 一个 **技巧** 横幅
-{{< /admonition >}}
+{{</* /admonition */>}}
 ```
 
 呈现的输出效果如下：
@@ -333,9 +333,9 @@ This is a **right-aligned** paragraph.
 一个 `script` 示例：
 
 ```go-html-template
-{{< script >}}
+{{</* script */>}}
 console.log('Hello FixIt!');
-{{< /script >}}
+{{</* /script */>}}
 ```
 
 你可以在开发者工具的控制台中看到输出。
@@ -355,13 +355,13 @@ console.log('Hello FixIt!');
 一个 `details` 示例：
 
 ```go-html-template
-{{< details "**Copyright** 2022." >}}
+{{</* details "**Copyright** 2022." */>}}
 *All pages and graphics on this web site are the property of FixIt.*
-{{< /details >}}
+{{</* /details */>}}
 或者
-{{< details summary="**Copyright** 2022." >}}
+{{</* details summary="**Copyright** 2022." */>}}
 *All pages and graphics on this web site are the property of FixIt.*
-{{< /details >}}
+{{</* /details */>}}
 ```
 
 呈现的输出效果如下：
@@ -379,10 +379,10 @@ console.log('Hello FixIt!');
 一个 `center-quote` 示例：
 
 ```go-html-template
-{{< center-quote >}}
+{{</* center-quote */>}}
 **hello** *world*  
 this is a center-quote shortcode example.
-{{< /center-quote >}}
+{{</* /center-quote */>}}
 ```
 
 呈现的输出效果如下：

@@ -74,6 +74,24 @@
     </item>
     
     <item>
+      <title>Markdown 扩展语法</title>
+      <link>https://shiqustudio.github.io/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Mon, 20 Feb 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/</guid>
+      <description>&lt;p&gt;[&lt;img loading=&#34;lazy&#34; src=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg&#34; srcset=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 2x&#34; sizes=&#34;auto&#34; data-title=&#34;FixIt 0.2.0 | 更改&#34; data-alt=&#34;FixIt 0.2.0 | 更改&#34; style=&#34;background: url(/svg/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}&#34;/&gt;&lt;strong&gt;FixIt&lt;/strong&gt; 主题提供了一些扩展的语法便于你撰写文章。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>内容加密</title>
+      <link>https://shiqustudio.github.io/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</link>
+      <pubDate>Mon, 20 Feb 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</guid>
+      <description>&lt;p&gt;了解如何在 FixIt 主题中加密内容。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>linux 文件权限</title>
       <link>https://shiqustudio.github.io/shili-tuozhanpian/linux-permission/</link>
       <pubDate>Mon, 20 Feb 2023 17:15:44 +0800</pubDate>

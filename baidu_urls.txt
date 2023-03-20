@@ -11,6 +11,8 @@ https://shiqustudio.github.io/shili-rumenpian/kuaisushangshou/
 https://shiqustudio.github.io/shili-qusurukou/kuaisushangshou/
 https://shiqustudio.github.io/books/cell-blog/
 https://shiqustudio.github.io/posts2/%E6%89%A9%E5%B1%95typeit/
+https://shiqustudio.github.io/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/
+https://shiqustudio.github.io/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/
 https://shiqustudio.github.io/shili-tuozhanpian/linux-permission/
 https://shiqustudio.github.io/beego-install/
 https://shiqustudio.github.io/adb-for-mac/

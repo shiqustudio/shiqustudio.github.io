@@ -16,9 +16,9 @@ https://www.bilibili.com/video/BV1Sx411T7QQ
 一个 `bilibili` 示例：
 
 ```go-html-template
-{{< bilibili BV1Sx411T7QQ >}}
+{{</* bilibili BV1Sx411T7QQ */>}}
 或者
-{{< bilibili id=BV1Sx411T7QQ >}}
+{{</* bilibili id=BV1Sx411T7QQ */>}}
 ```
 
 {{< bilibili BV1Sx411T7QQ >}}
@@ -30,9 +30,9 @@ https://www.bilibili.com/video/BV1TJ411C7An?p=3
 ```
 
 ```go-html-template
-{{< bilibili BV1TJ411C7An 3 >}}
+{{</* bilibili BV1TJ411C7An 3 */>}}
 或者
-{{< bilibili id=BV1TJ411C7An p=3 >}}
+{{</* bilibili id=BV1TJ411C7An p=3 */>}}
 ```
 
 呈现的输出效果如下：

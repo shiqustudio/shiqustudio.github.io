@@ -34,7 +34,7 @@
 一个使用自定义音乐 URL 的 `music` 示例：
 
 ```go-html-template
-{{< music url="/music/Wavelength.mp3" name=Wavelength artist=oldmanyoung cover="/images/Wavelength.jpg" >}}
+{{</* music url="/music/Wavelength.mp3" name=Wavelength artist=oldmanyoung cover="/images/Wavelength.jpg" */>}}
 ```
 
 呈现的输出效果如下：
@@ -52,9 +52,9 @@
 一个使用音乐平台 URL 的自动识别的 `music` 示例：
 
 ```go-html-template
-{{< music auto="https://music.163.com/#/playlist?id=60198" >}}
+{{</* music auto="https://music.163.com/#/playlist?id=60198" */>}}
 或者
-{{< music "https://music.163.com/#/playlist?id=60198" >}}
+{{</* music "https://music.163.com/#/playlist?id=60198" */>}}
 ```
 
 {{< music auto="https://music.163.com/#/playlist?id=60198" >}}
@@ -82,9 +82,9 @@
 一个使用自定义音乐平台的 `music` 示例：
 
 ```go-html-template
-{{< music server="netease" type="song" id="1868553" >}}
+{{</* music server="netease" type="song" id="1868553" */>}}
 或者
-{{< music netease song 1868553 >}}
+{{</* music netease song 1868553 */>}}
 ```
 
 呈现的输出效果如下：
