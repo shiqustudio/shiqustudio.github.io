@@ -226,120 +226,332 @@
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-1"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">graph LR;
+</span></span><span class="line"><span class="cl">    A[Hard edge] --&gt;|Link text| B(Round edge)
+</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
+</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result one]
+</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result two]
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-2"></div>
+<div class="mermaid" id="id-1"></div>
 <h2 id="时序图">时序图</h2>
 <p>一个 <strong>时序图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-3"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">sequenceDiagram
+</span></span><span class="line"><span class="cl">    participant Alice
+</span></span><span class="line"><span class="cl">    participant Bob
+</span></span><span class="line"><span class="cl">    Alice-&gt;&gt;John: Hello John, how are you?
+</span></span><span class="line"><span class="cl">    loop Healthcheck
+</span></span><span class="line"><span class="cl">        John-&gt;John: Fight against hypochondria
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">    Note right of John: Rational thoughts <span class="p">&lt;</span><span class="nt">br</span><span class="p">/&gt;</span>prevail...
+</span></span><span class="line"><span class="cl">    John--&gt;Alice: Great!
+</span></span><span class="line"><span class="cl">    John-&gt;Bob: How about you?
+</span></span><span class="line"><span class="cl">    Bob--&gt;John: Jolly good!
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-4"></div>
+<div class="mermaid" id="id-2"></div>
 <h2 id="甘特图">甘特图</h2>
 <p>一个 <strong>甘特图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-5"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">gantt
+</span></span><span class="line"><span class="cl">dateFormat  YYYY-MM-DD
+</span></span><span class="line"><span class="cl">title Adding GANTT diagram to mermaid
+</span></span><span class="line"><span class="cl">excludes weekdays 2014-01-10
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">section A section
+</span></span><span class="line"><span class="cl">Completed task            :done,    des1, 2014-01-06,2014-01-08
+</span></span><span class="line"><span class="cl">Active task               :active,  des2, 2014-01-09, 3d
+</span></span><span class="line"><span class="cl">Future task               :         des3, after des2, 5d
+</span></span><span class="line"><span class="cl">Future task2              :         des4, after des3, 5d
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-6"></div>
+<div class="mermaid" id="id-3"></div>
 <h2 id="类图">类图</h2>
 <p>一个 <strong>类图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-7"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">classDiagram
+</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Duck
+</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Fish
+</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Zebra
+</span></span><span class="line"><span class="cl">    Animal : +int age
+</span></span><span class="line"><span class="cl">    Animal : +String gender
+</span></span><span class="line"><span class="cl">    Animal: +isMammal()
+</span></span><span class="line"><span class="cl">    Animal: +mate()
+</span></span><span class="line"><span class="cl">    class Duck{
+</span></span><span class="line"><span class="cl">        +String beakColor
+</span></span><span class="line"><span class="cl">        +swim()
+</span></span><span class="line"><span class="cl">        +quack()
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">    class Fish{
+</span></span><span class="line"><span class="cl">        -int sizeInFeet
+</span></span><span class="line"><span class="cl">        -canEat()
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">    class Zebra{
+</span></span><span class="line"><span class="cl">        +bool is_wild
+</span></span><span class="line"><span class="cl">        +run()
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-8"></div>
+<div class="mermaid" id="id-4"></div>
 <h2 id="状态图">状态图</h2>
 <p>一个 <strong>状态图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-9"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">stateDiagram-v2
+</span></span><span class="line"><span class="cl">    [*] --&gt; Still
+</span></span><span class="line"><span class="cl">    Still --&gt; [*]
+</span></span><span class="line"><span class="cl">    Still --&gt; Moving
+</span></span><span class="line"><span class="cl">    Moving --&gt; Still
+</span></span><span class="line"><span class="cl">    Moving --&gt; Crash
+</span></span><span class="line"><span class="cl">    Crash --&gt; [*]
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-10"></div>
+<div class="mermaid" id="id-5"></div>
 <h2 id="git-图">Git 图</h2>
 <p>一个 <strong>Git 图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-11"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">gitGraph
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    branch develop
+</span></span><span class="line"><span class="cl">    checkout develop
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    checkout main
+</span></span><span class="line"><span class="cl">    merge develop
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-12"></div>
+<div class="mermaid" id="id-6"></div>
 <h2 id="实体关系图">实体关系图</h2>
 <p>一个 <strong>实体关系图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-13"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">erDiagram
+</span></span><span class="line"><span class="cl">    CUSTOMER ||--o{ ORDER : places
+</span></span><span class="line"><span class="cl">    ORDER ||--|{ LINE-ITEM : contains
+</span></span><span class="line"><span class="cl">    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
-</div><div class="mermaid" id="id-14"></div>
+</div><div class="mermaid" id="id-7"></div>
 <h2 id="用户体验旅程图">用户体验旅程图</h2>
 <p>一个 <strong>用户体验旅程图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-15"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">journey
+</span></span><span class="line"><span class="cl">    title My working day
+</span></span><span class="line"><span class="cl">    section Go to work
+</span></span><span class="line"><span class="cl">      Make tea: 5: Me
+</span></span><span class="line"><span class="cl">      Go upstairs: 3: Me
+</span></span><span class="line"><span class="cl">      Do work: 1: Me, Cat
+</span></span><span class="line"><span class="cl">    section Go home
+</span></span><span class="line"><span class="cl">      Go downstairs: 5: Me
+</span></span><span class="line"><span class="cl">      Sit down: 5: Me
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-16"></div>
+<div class="mermaid" id="id-8"></div>
 <h2 id="饼图">饼图</h2>
 <p>一个 <strong>饼图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-17"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">pie
+</span></span><span class="line"><span class="cl">    &#34;Dogs&#34; : 386
+</span></span><span class="line"><span class="cl">    &#34;Cats&#34; : 85
+</span></span><span class="line"><span class="cl">    &#34;Rats&#34; : 15
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-18"></div>
+<div class="mermaid" id="id-9"></div>
 <h2 id="依赖图">依赖图</h2>
 <p>一个 <strong>依赖图</strong> <code>mermaid</code> 示例:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><div class="mermaid" id="id-19"></div>
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">requirementDiagram
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">requirement test_req {
+</span></span><span class="line"><span class="cl">id: 1
+</span></span><span class="line"><span class="cl">text: the test text.
+</span></span><span class="line"><span class="cl">risk: high
+</span></span><span class="line"><span class="cl">verifymethod: test
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">element test_entity {
+</span></span><span class="line"><span class="cl">type: simulation
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">test_entity - satisfies -&gt; test_req
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-20"></div>
+<div class="mermaid" id="id-10"></div>
 ]]></description>
 </item>
 <item>

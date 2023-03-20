@@ -20,13 +20,13 @@
 一个 **流程图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 graph LR;
     A[Hard edge] -->|Link text| B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -44,7 +44,7 @@ graph LR;
 一个 **时序图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 sequenceDiagram
     participant Alice
     participant Bob
@@ -56,7 +56,7 @@ sequenceDiagram
     John-->Alice: Great!
     John->Bob: How about you?
     Bob-->John: Jolly good!
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -80,7 +80,7 @@ sequenceDiagram
 一个 **甘特图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -91,7 +91,7 @@ Completed task            :done,    des1, 2014-01-06,2014-01-08
 Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2              :         des4, after des3, 5d
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -114,7 +114,7 @@ Future task2              :         des4, after des3, 5d
 一个 **类图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 classDiagram
     Animal <|-- Duck
     Animal <|-- Fish
@@ -136,7 +136,7 @@ classDiagram
         +bool is_wild
         +run()
     }
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -170,7 +170,7 @@ classDiagram
 一个 **状态图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 stateDiagram-v2
     [*] --> Still
     Still --> [*]
@@ -178,7 +178,7 @@ stateDiagram-v2
     Moving --> Still
     Moving --> Crash
     Crash --> [*]
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -198,7 +198,7 @@ stateDiagram-v2
 一个 **Git 图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 gitGraph
     commit
     commit
@@ -210,7 +210,7 @@ gitGraph
     merge develop
     commit
     commit
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -234,12 +234,12 @@ gitGraph
 一个 **实体关系图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 {{< mermaid >}}
@@ -254,7 +254,7 @@ erDiagram
 一个 **用户体验旅程图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 journey
     title My working day
     section Go to work
@@ -264,7 +264,7 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -286,12 +286,12 @@ journey
 一个 **饼图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 pie
     "Dogs" : 386
     "Cats" : 85
     "Rats" : 15
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
@@ -308,7 +308,7 @@ pie
 一个 **依赖图** `mermaid` 示例:
 
 ```markdown
-{{< mermaid >}}
+{{</* mermaid */>}}
 requirementDiagram
 
 requirement test_req {
@@ -323,7 +323,7 @@ type: simulation
 }
 
 test_entity - satisfies -> test_req
-{{< /mermaid >}}
+{{</* /mermaid */>}}
 ```
 
 呈现的输出效果如下:
