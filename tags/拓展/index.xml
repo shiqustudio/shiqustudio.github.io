@@ -5,63 +5,6 @@
     <description>拓展 - 标签 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E6%8B%93%E5%B1%95/" rel="self" type="application/rss+xml" /><item>
   <title>扩展 Shortcode - bilibili</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>bilibili</code> shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。</p>
-<p>如果视频只有一个部分，则仅需要视频的 BV <code>id</code>, 例如：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://www.bilibili.com/video/BV1Sx411T7QQ
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>一个 <code>bilibili</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">BV1Sx411T7QQ</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">id</span><span class="o">=</span><span class="nx">BV1Sx411T7QQ</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1Sx411T7QQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
-<p>如果视频包含多个部分，则除了视频的 BV <code>id</code> 之外，还需要 <code>p</code>, 默认值为 <code>1</code>, 例如：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://www.bilibili.com/video/BV1TJ411C7An?p=3
-</span></span></code></pre></td></tr></table>
-</div>
-</div><div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">BV1TJ411C7An</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">id</span><span class="o">=</span><span class="nx">BV1TJ411C7An</span><span class="w"> </span><span class="nx">p</span><span class="o">=</span><span class="mi">3</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下：</p>
-<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1TJ411C7An&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></description>
-</item>
-<item>
-  <title>扩展 Shortcode - bilibili</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
@@ -119,53 +62,6 @@
 </item>
 <item>
   <title>扩展 Shortcode - echarts</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts</a> 库提供数据可视化的功能。</p>
-<ul>
-<li>
-<p><strong>ECharts</strong> 是一个帮助你生成交互式数据可视化的库。</p>
-<p>ECharts 提供了常规的 <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">折线图</a>, <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">柱状图</a>, <a href="https://echarts.apache.org/zh/option.html#series-scatter"target="_blank" rel="external nofollow noopener noreferrer">散点图</a>, <a href="https://echarts.apache.org/zh/option.html#series-pie"target="_blank" rel="external nofollow noopener noreferrer">饼图</a>, <a href="https://echarts.apache.org/zh/option.html#series-candlestick"target="_blank" rel="external nofollow noopener noreferrer">K 线图</a>, 用于统计的 [盒形图][boxplot], 用于地理数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-map"target="_blank" rel="external nofollow noopener noreferrer">地图</a>, <a href="https://echarts.apache.org/zh/option.html#series-heatmap"target="_blank" rel="external nofollow noopener noreferrer">热力图</a>, <a href="https://echarts.apache.org/zh/option.html#series-lines"target="_blank" rel="external nofollow noopener noreferrer">线图</a>, 用于关系数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-graph"target="_blank" rel="external nofollow noopener noreferrer">关系图</a>, <a href="https://echarts.apache.org/zh/option.html#series-treemap"target="_blank" rel="external nofollow noopener noreferrer">treemap</a>, <a href="https://echarts.apache.org/zh/option.html#series-sunburst"target="_blank" rel="external nofollow noopener noreferrer">旭日图</a>, 多维数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-parallel"target="_blank" rel="external nofollow noopener noreferrer">平行坐标</a>, 还有用于 BI 的 <a href="https://echarts.apache.org/zh/option.html#series-funnel"target="_blank" rel="external nofollow noopener noreferrer">漏斗图</a>, <a href="https://echarts.apache.org/zh/option.html#series-gauge"target="_blank" rel="external nofollow noopener noreferrer">仪表盘</a>, 并且支持图与图之间的混搭。</p>
-<p>只需在 <code>echarts</code> shortcode 中以 <code>JSON</code>/<code>YAML</code>/<code>TOML</code> 格式插入 ECharts 选项即可。</p>
-<p>一个 <code>JSON</code> 格式的 <code>echarts</code> 示例:</p>
-<div class="echarts" id="id-1" style="width: 100%; height: 30rem;"></div>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="l"><div class="echarts" id="id-2" style="width: 100%; height: 30rem;"></div></span><span class="w">
-</span></span></span></code></pre></td></tr></table>
-</div>
-</div></li>
-</ul>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="nx"><div class="echarts" id="id-3" style="width: 100%; height: 30rem;"></div></span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p><code>echarts</code> shortcode 还有以下命名参数:</p>
-<ul>
-<li>
-<p><strong>width</strong> <em>[可选]</em> (<strong>第一个</strong>位置参数)</p>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 数据可视化的宽度，默认值是 <code>100%</code></p>
-</li>
-<li>
-<p><strong>height</strong> <em>[可选]</em> (<strong>第二个</strong>位置参数)</p>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 数据可视化的高度，默认值是 <code>30rem</code></p>
-</li>
-</ul>]]></description>
-</item>
-<item>
-  <title>扩展 Shortcode - echarts</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
@@ -210,100 +106,6 @@
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 数据可视化的高度，默认值是 <code>30rem</code></p>
 </li>
 </ul>]]></description>
-</item>
-<item>
-  <title>扩展 Shortcode - mapbox</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS</a> 库提供互动式地图的功能。</p>
-<p><a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS</a> 是一个 JavaScript 库，它使用 WebGL, 以 <a href="https://docs.mapbox.com/help/glossary/vector-tiles/"target="_blank" rel="external nofollow noopener noreferrer">vector tiles</a> 和 <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/"target="_blank" rel="external nofollow noopener noreferrer">Mapbox styles</a> 为来源，将它们渲染成互动式地图。</p>
-<p><code>mapbox</code> shortcode 有以下命名参数来使用 Mapbox GL JS:</p>
-<ul>
-<li>
-<p><strong>lng</strong> <em>[必需]</em>（<strong>第一个</strong>位置参数）</p>
-<p>地图初始中心点的经度，以度为单位。</p>
-</li>
-<li>
-<p><strong>lat</strong> <em>[必需]</em>（<strong>第二个</strong>位置参数）</p>
-<p>地图初始中心点的纬度，以度为单位。</p>
-</li>
-<li>
-<p><strong>zoom</strong> <em>[可选]</em>（<strong>第三个</strong>位置参数）</p>
-<p>地图的初始缩放级别，默认值是 <code>10</code>。</p>
-</li>
-<li>
-<p><strong>marked</strong> <em>[可选]</em>（<strong>第四个</strong>位置参数）</p>
-<p>是否在地图的初始中心点添加图钉，默认值是 <code>true</code>。</p>
-</li>
-<li>
-<p><strong>light-style</strong> <em>[可选]</em>（<strong>第五个</strong>位置参数）</p>
-<p>浅色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>dark-style</strong> <em>[可选]</em>（<strong>第六个</strong>位置参数）</p>
-<p>深色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>navigation</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#navigationcontrol"target="_blank" rel="external nofollow noopener noreferrer">NavigationControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>geolocate</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#geolocatecontrol"target="_blank" rel="external nofollow noopener noreferrer">GeolocateControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>scale</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#scalecontrol"target="_blank" rel="external nofollow noopener noreferrer">ScaleControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>fullscreen</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#fullscreencontrol"target="_blank" rel="external nofollow noopener noreferrer">FullscreenControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>width</strong> <em>[可选]</em></p>
-<p>地图的宽度，默认值是 <code>100%</code>。</p>
-</li>
-<li>
-<p><strong>height</strong> <em>[可选]</em></p>
-<p>地图的高度，默认值是 <code>20rem</code>。</p>
-</li>
-</ul>
-<p>一个简单的 <code>mapbox</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><div class="mapbox" id="id-1" style="width: 100%; height: 20rem;"></div>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><div class="mapbox" id="id-2" style="width: 100%; height: 20rem;"></div>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下：</p>
-<div class="mapbox" id="id-3" style="width: 100%; height: 20rem;"></div>
-<p>一个带有自定义样式的 <code>mapbox</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><div class="mapbox" id="id-4" style="width: 100%; height: 20rem;"></div>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><div class="mapbox" id="id-5" style="width: 100%; height: 20rem;"></div>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下：</p>
-<div class="mapbox" id="id-6" style="width: 100%; height: 20rem;"></div>
-]]></description>
 </item>
 <item>
   <title>扩展 Shortcode - mapbox</title>
@@ -397,359 +199,6 @@
 </div>
 </div><p>呈现的输出效果如下：</p>
 <div class="mapbox" id="id-6" style="width: 100%; height: 20rem;"></div>
-]]></description>
-</item>
-<item>
-  <title>扩展 Shortcode - mermaid</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid</a> 库提供绘制图表和流程图的功能。</p>
-<p><a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">mermaid</a> 是一个可以帮助你在文章中绘制图表和流程图的库，类似 Markdown 的语法。</p>
-<p>只需将你的 mermaid 代码插入 <code>mermaid</code> shortcode 中即可。</p>
-<div class="details admonition tip open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">你可以在 <code>config.toml</code> 中通过 <code>params.mermaid</code> 参数全局配置 mermaid 的主题</div>
-    </div>
-  </div>
-<h2 id="流程图">流程图</h2>
-<p>一个 <strong>流程图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">graph LR;
-</span></span><span class="line"><span class="cl">    A[Hard edge] --&gt;|Link text| B(Round edge)
-</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
-</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result one]
-</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result two]
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-1"></div>
-<h2 id="时序图">时序图</h2>
-<p>一个 <strong>时序图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">sequenceDiagram
-</span></span><span class="line"><span class="cl">    participant Alice
-</span></span><span class="line"><span class="cl">    participant Bob
-</span></span><span class="line"><span class="cl">    Alice-&gt;&gt;John: Hello John, how are you?
-</span></span><span class="line"><span class="cl">    loop Healthcheck
-</span></span><span class="line"><span class="cl">        John-&gt;John: Fight against hypochondria
-</span></span><span class="line"><span class="cl">    end
-</span></span><span class="line"><span class="cl">    Note right of John: Rational thoughts <span class="p">&lt;</span><span class="nt">br</span><span class="p">/&gt;</span>prevail...
-</span></span><span class="line"><span class="cl">    John--&gt;Alice: Great!
-</span></span><span class="line"><span class="cl">    John-&gt;Bob: How about you?
-</span></span><span class="line"><span class="cl">    Bob--&gt;John: Jolly good!
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-2"></div>
-<h2 id="甘特图">甘特图</h2>
-<p>一个 <strong>甘特图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">gantt
-</span></span><span class="line"><span class="cl">dateFormat  YYYY-MM-DD
-</span></span><span class="line"><span class="cl">title Adding GANTT diagram to mermaid
-</span></span><span class="line"><span class="cl">excludes weekdays 2014-01-10
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">section A section
-</span></span><span class="line"><span class="cl">Completed task            :done,    des1, 2014-01-06,2014-01-08
-</span></span><span class="line"><span class="cl">Active task               :active,  des2, 2014-01-09, 3d
-</span></span><span class="line"><span class="cl">Future task               :         des3, after des2, 5d
-</span></span><span class="line"><span class="cl">Future task2              :         des4, after des3, 5d
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-3"></div>
-<h2 id="类图">类图</h2>
-<p>一个 <strong>类图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span><span class="lnt">21
-</span><span class="lnt">22
-</span><span class="lnt">23
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">classDiagram
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Duck
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Fish
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Zebra
-</span></span><span class="line"><span class="cl">    Animal : +int age
-</span></span><span class="line"><span class="cl">    Animal : +String gender
-</span></span><span class="line"><span class="cl">    Animal: +isMammal()
-</span></span><span class="line"><span class="cl">    Animal: +mate()
-</span></span><span class="line"><span class="cl">    class Duck{
-</span></span><span class="line"><span class="cl">        +String beakColor
-</span></span><span class="line"><span class="cl">        +swim()
-</span></span><span class="line"><span class="cl">        +quack()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">    class Fish{
-</span></span><span class="line"><span class="cl">        -int sizeInFeet
-</span></span><span class="line"><span class="cl">        -canEat()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">    class Zebra{
-</span></span><span class="line"><span class="cl">        +bool is_wild
-</span></span><span class="line"><span class="cl">        +run()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-4"></div>
-<h2 id="状态图">状态图</h2>
-<p>一个 <strong>状态图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span><span class="lnt">9
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">stateDiagram-v2
-</span></span><span class="line"><span class="cl">    [*] --&gt; Still
-</span></span><span class="line"><span class="cl">    Still --&gt; [*]
-</span></span><span class="line"><span class="cl">    Still --&gt; Moving
-</span></span><span class="line"><span class="cl">    Moving --&gt; Still
-</span></span><span class="line"><span class="cl">    Moving --&gt; Crash
-</span></span><span class="line"><span class="cl">    Crash --&gt; [*]
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-5"></div>
-<h2 id="git-图">Git 图</h2>
-<p>一个 <strong>Git 图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">gitGraph
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    branch develop
-</span></span><span class="line"><span class="cl">    checkout develop
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    checkout main
-</span></span><span class="line"><span class="cl">    merge develop
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-6"></div>
-<h2 id="实体关系图">实体关系图</h2>
-<p>一个 <strong>实体关系图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">erDiagram
-</span></span><span class="line"><span class="cl">    CUSTOMER ||--o{ ORDER : places
-</span></span><span class="line"><span class="cl">    ORDER ||--|{ LINE-ITEM : contains
-</span></span><span class="line"><span class="cl">    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><div class="mermaid" id="id-7"></div>
-<h2 id="用户体验旅程图">用户体验旅程图</h2>
-<p>一个 <strong>用户体验旅程图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">journey
-</span></span><span class="line"><span class="cl">    title My working day
-</span></span><span class="line"><span class="cl">    section Go to work
-</span></span><span class="line"><span class="cl">      Make tea: 5: Me
-</span></span><span class="line"><span class="cl">      Go upstairs: 3: Me
-</span></span><span class="line"><span class="cl">      Do work: 1: Me, Cat
-</span></span><span class="line"><span class="cl">    section Go home
-</span></span><span class="line"><span class="cl">      Go downstairs: 5: Me
-</span></span><span class="line"><span class="cl">      Sit down: 5: Me
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-8"></div>
-<h2 id="饼图">饼图</h2>
-<p>一个 <strong>饼图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">pie
-</span></span><span class="line"><span class="cl">    &#34;Dogs&#34; : 386
-</span></span><span class="line"><span class="cl">    &#34;Cats&#34; : 85
-</span></span><span class="line"><span class="cl">    &#34;Rats&#34; : 15
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-9"></div>
-<h2 id="依赖图">依赖图</h2>
-<p>一个 <strong>依赖图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">requirementDiagram
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">requirement test_req {
-</span></span><span class="line"><span class="cl">id: 1
-</span></span><span class="line"><span class="cl">text: the test text.
-</span></span><span class="line"><span class="cl">risk: high
-</span></span><span class="line"><span class="cl">verifymethod: test
-</span></span><span class="line"><span class="cl">}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">element test_entity {
-</span></span><span class="line"><span class="cl">type: simulation
-</span></span><span class="line"><span class="cl">}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">test_entity - satisfies -&gt; test_req
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-10"></div>
 ]]></description>
 </item>
 <item>
@@ -1107,154 +556,6 @@
 </item>
 <item>
   <title>扩展 Shortcode - music</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/featured-image.png" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer</a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS</a> 提供了一个内嵌的响应式音乐播放器。</p>
-<p>有三种方式使用 <code>music</code> shortcode。</p>
-<h2 id="1-自定义音乐-url">1 自定义音乐 URL</h2>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用</a> 的完整用法。</p>
-<p><code>music</code> shortcode 有以下命名参数来使用自定义音乐 URL:</p>
-<ul>
-<li>
-<p><strong>server</strong> <em>[必需]</em></p>
-<p>音乐的链接。</p>
-</li>
-<li>
-<p><strong>type</strong> <em>[可选]</em></p>
-<p>音乐的名称。</p>
-</li>
-<li>
-<p><strong>artist</strong> <em>[可选]</em></p>
-<p>音乐的创作者。</p>
-</li>
-<li>
-<p><strong>cover</strong> <em>[可选]</em></p>
-<p>音乐的封面链接。</p>
-</li>
-</ul>
-<p>一个使用自定义音乐 URL 的 <code>music</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">music</span><span class="w"> </span><span class="nx">url</span><span class="o">=</span><span class="s">&#34;/music/Wavelength.mp3&#34;</span><span class="w"> </span><span class="nx">name</span><span class="o">=</span><span class="nx">Wavelength</span><span class="w"> </span><span class="nx">artist</span><span class="o">=</span><span class="nx">oldmanyoung</span><span class="w"> </span><span class="nx">cover</span><span class="o">=</span><span class="s">&#34;/images/Wavelength.jpg&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下：</p>
-<meting-js url="/music/Wavelength.mp3" name="Wavelength" artist="oldmanyoung" cover="/images/Wavelength.jpg" theme="#448aff"></meting-js>
-<h2 id="2-音乐平台-url-的自动识别">2 音乐平台 URL 的自动识别</h2>
-<p><code>music</code> shortcode 有一个命名参数来使用音乐平台 URL 的自动识别：</p>
-<ul>
-<li>
-<p><strong>auto</strong> <em>[必需]]</em>（<strong>第一个</strong>位置参数）</p>
-<p>用来自动识别的音乐平台 URL, 支持 <code>netease</code>, <code>tencent</code> 和 <code>xiami</code> 平台。</p>
-</li>
-</ul>
-<p>一个使用音乐平台 URL 的自动识别的 <code>music</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">music</span><span class="w"> </span><span class="nx">auto</span><span class="o">=</span><span class="s">&#34;https://music.163.com/#/playlist?id=60198&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">music</span><span class="w"> </span><span class="s">&#34;https://music.163.com/#/playlist?id=60198&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><meting-js auto="https://music.163.com/#/playlist?id=60198" theme="#448aff"></meting-js>
-<h2 id="3-自定义音乐平台类型和-id">3 自定义音乐平台，类型和 ID</h2>
-<p><code>music</code> shortcode 有以下命名参数来使用自定义音乐平台：</p>
-<ul>
-<li>
-<p><strong>server</strong> <em>[必需]</em>（<strong>第一个</strong>位置参数）</p>
-<p>[<code>netease</code>, <code>tencent</code>, <code>kugou</code>, <code>xiami</code>, <code>baidu</code>]</p>
-<p>音乐平台。</p>
-</li>
-<li>
-<p><strong>type</strong> <em>[必需]</em>（<strong>第二个</strong>位置参数）</p>
-<p>[<code>song</code>, <code>playlist</code>, <code>album</code>, <code>search</code>, <code>artist</code>]</p>
-<p>音乐类型。</p>
-</li>
-<li>
-<p><strong>id</strong> <em>[必需]</em>（<strong>第三个</strong>位置参数）</p>
-<p>歌曲 ID, 或者播放列表 ID, 或者专辑 ID, 或者搜索关键词，或者创作者 ID。</p>
-</li>
-</ul>
-<p>一个使用自定义音乐平台的 <code>music</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">music</span><span class="w"> </span><span class="nx">server</span><span class="o">=</span><span class="s">&#34;netease&#34;</span><span class="w"> </span><span class="nx">type</span><span class="o">=</span><span class="s">&#34;song&#34;</span><span class="w"> </span><span class="nx">id</span><span class="o">=</span><span class="s">&#34;1868553&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">music</span><span class="w"> </span><span class="nx">netease</span><span class="w"> </span><span class="nx">song</span><span class="w"> </span><span class="mi">1868553</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下：</p>
-<meting-js server="netease" type="song" id="1868553" theme="#448aff"></meting-js>
-<h2 id="4-其它参数">4 其它参数</h2>
-<p><code>music</code> shortcode 有一些可以应用于以上三种方式的其它命名参数：</p>
-<ul>
-<li>
-<p><strong>theme</strong> <em>[可选]</em></p>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 音乐播放器的主题色，默认值是 <code>#448aff</code>。</p>
-</li>
-<li>
-<p><strong>fixed</strong> <em>[可选]</em></p>
-<p>是否开启固定模式，默认值是 <code>false</code>。</p>
-</li>
-<li>
-<p><strong>mini</strong> <em>[可选]</em></p>
-<p>是否开启迷你模式，默认值是 <code>false</code>。</p>
-</li>
-<li>
-<p><strong>autoplay</strong> <em>[可选]</em></p>
-<p>是否自动播放音乐，默认值是 <code>false</code>。</p>
-</li>
-<li>
-<p><strong>volume</strong> <em>[可选]</em></p>
-<p>第一次打开播放器时的默认音量，会被保存在浏览器缓存中，默认值是 <code>0.7</code>。</p>
-</li>
-<li>
-<p><strong>mutex</strong> <em>[可选]</em></p>
-<p>是否自动暂停其它播放器，默认值是 <code>true</code>。</p>
-</li>
-</ul>
-<p><code>music</code> shortcode 还有一些只适用于音乐列表方式的其它命名参数：</p>
-<ul>
-<li>
-<p><strong>loop</strong> <em>[可选]</em></p>
-<p>[<code>all</code>, <code>one</code>, <code>none</code>]</p>
-<p>音乐列表的循环模式，默认值是 <code>none</code>。</p>
-</li>
-<li>
-<p><strong>order</strong> <em>[可选]</em></p>
-<p>[<code>list</code>, <code>random</code>]</p>
-<p>音乐列表的播放顺序，默认值是 <code>list</code>。</p>
-</li>
-<li>
-<p><strong>list-folded</strong> <em>[可选]</em></p>
-<p>初次打开的时候音乐列表是否折叠，默认值是 <code>false</code>。</p>
-</li>
-<li>
-<p><strong>list-max-height</strong> <em>[可选]</em></p>
-<p>音乐列表的最大高度，默认值是 <code>340px</code>。</p>
-</li>
-</ul>]]></description>
-</item>
-<item>
-  <title>扩展 Shortcode - music</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
@@ -1400,6 +701,1180 @@
 <p>音乐列表的最大高度，默认值是 <code>340px</code>。</p>
 </li>
 </ul>]]></description>
+</item>
+<item>
+  <title>扩展 Shortcode - typeit</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/tutorial/shili-tuozhanpian/tuozhanpian/images/featured-image.png" referrerpolicy="no-referrer">
+      </div><p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt</a> 提供了打字动画。</p>
+<p>只需将你需要打字动画的内容插入 <code>typeit</code> shortcode 中即可。</p>
+<p><code>typeit</code> shortcode 有以下命名参数：</p>
+<ul>
+<li>
+<p><strong>tag</strong> <em>[可选]</em></p>
+<p>内容容器的 HTML 标签。</p>
+</li>
+<li>
+<p><strong>code</strong> <em>[可选]</em></p>
+<p>指定代码内容语言类型，可以实习语法高亮。</p>
+</li>
+<li>
+<p><strong>code-link</strong> <em>[可选]</em></p>
+<p>是否解析代码内容中的 Markdown 链接，默认：<code>false</code>。</p>
+</li>
+<li>
+<p><strong>group</strong> <em>[可选]</em></p>
+<p>内容分组，相同分组的内容将按顺序开始打字动画。</p>
+</li>
+<li>
+<p><strong>loop</strong> <em>[可选]</em></p>
+<p>内容是否会在打字动画完成后继续循环。</p>
+</li>
+</ul>
+<h2 id="简单内容">简单内容</h2>
+<p>允许使用 <code>Markdown</code> 格式的简单内容，并且 <strong>不包含</strong> 富文本的块内容，例如图像等等……</p>
+<p>一个 <code>typeit</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-tex" data-lang="tex"><span class="line"><span class="cl"><div class="typeit"><h4 id="id-1"></h4></div>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="typeit" data-loop="false"><div id="id-2"></div></div>
+<p>另外，你也可以自定义 <strong>HTML 标签</strong>.</p>
+<p>一个带有 <code>h4</code> 标签的 <code>typeit</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit"><h4 id="id-3"></h4></div>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="typeit"><h4 id="id-4"></h4></div>
+<h2 id="代码内容">代码内容</h2>
+<p>代码内容也是允许的，并且通过使用参数 <code>code</code> 指定语言类型可以实习语法高亮。</p>
+<p>一个带有 <code>code</code> 参数的 <code>typeit</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit"><div id="id-5" class="highlight"></div></div>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="typeit"><div id="id-6" class="highlight"></div></div>
+<h2 id="分组内容">分组内容</h2>
+<p>默认情况下，所有打字动画都是同时开始的。 但是有时你可能需要按顺序开始一组 <code>typeit</code> 内容的打字动画。</p>
+<p>一组具有相同 <code>group</code> 参数值的 <code>typeit</code> 内容将按顺序开始打字动画。</p>
+<p>一个带有 <code>group</code> 参数的 <code>typeit</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit" data-loop="false"><div id="id-7"></div></div>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><div class="typeit" data-loop="false"><div id="id-8"></div></div>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="typeit" data-loop="false"><div id="id-9"></div></div>
+<div class="typeit" data-loop="false"><div id="id-10"></div></div>]]></description>
+</item>
+<item>
+  <title>扩展 Shortcodes</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><strong>FixIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode。</p>
+<h2 id="style">style</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">Hugo <strong>extended</strong> 版本对于 <code>style</code> shortcode 是必需的。</div>
+    </div>
+  </div>
+<p><code>style</code> shortcode 用来在你的文章中插入自定义样式。</p>
+<p><code>style</code> shortcode 有两个位置参数。</p>
+<p>第一个参数是自定义样式的内容。它支持 <a href="https://sass-lang.com/documentation/style-rules/declarations#nesting"target="_blank" rel="external nofollow noopener noreferrer"> SASS</a> 中的嵌套语法， 并且 <code>&amp;</code> 指代这个父元素。</p>
+<p>第二个参数是包裹你要更改样式的内容的 HTML 标签，默认值是 <code>div</code>。</p>
+<p>一个 <code>style</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">style</span><span class="w"> </span><span class="s">&#34;text-align:right; strong{color:#00b1ff;}&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">This is a **right-aligned** paragraph.
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">style</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div id="id-1">This is a <strong>right-aligned</strong> paragraph.</div>
+<h2 id="link">link</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>link</code> shortcode 是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/basics/#links"target="_blank" rel="external nofollow noopener noreferrer">Markdown 链接语法</a> 的替代。 <code>link</code> shortcode 可以提供一些其它的功能并且可以在代码块中使用。</p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用</a> 的完整用法。</p>
+<p><code>link</code> shortcode 有以下命名参数：</p>
+<ul>
+<li>
+<p><strong>href</strong> <em>[必需]</em>（<strong>第一个</strong>位置参数）</p>
+<p>链接的目标。</p>
+</li>
+<li>
+<p><strong>content</strong> <em>[可选]</em>（<strong>第二个</strong>位置参数）</p>
+<p>链接的内容，默认值是 <strong>href</strong> 参数的值。</p>
+<p><em>支持 Markdown 或者 HTML 格式。</em></p>
+</li>
+<li>
+<p><strong>title</strong> <em>[可选]</em>（<strong>第三个</strong>位置参数）</p>
+<p>HTML <code>a</code> 标签 的 <code>title</code> 属性，当悬停在链接上会显示的提示。</p>
+</li>
+<li>
+<p><strong>card</strong> <em>[可选]</em>（<strong>第四个</strong>位置参数）<a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.12"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>是否显示为卡片式链接，默认值 <code>false</code>。</p>
+</li>
+<li>
+<p><strong>download</strong> <em>[可选]</em> <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.12"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>HTML <code>a</code> 标签 的 <code>download</code> 属性。</p>
+</li>
+<li>
+<p><strong>class</strong> <em>[可选]</em></p>
+<p>HTML <code>a</code> 标签 的 <code>class</code> 属性。</p>
+</li>
+<li>
+<p><strong>rel</strong> <em>[可选]</em></p>
+<p>HTML <code>a</code> 标签 的 <code>rel</code> 补充属性。</p>
+</li>
+<li>
+<p><strong>external-icon</strong> <em>[可选]</em> <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.14"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>是否自动显示外链图标。</p>
+</li>
+<li>
+<p><strong>noreferrer</strong> <em>[可选]</em> <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.16"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>rel</code> 属性是否添加 <code>noreferrer</code>, 默认：<code>true</code>。</p>
+</li>
+</ul>
+<p>一个 <code>link</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="s">&#34;https://assemble.io&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="nx">href</span><span class="o">=</span><span class="s">&#34;https://assemble.io&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="s">&#34;mailto:contact@revolunet.com&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="nx">href</span><span class="o">=</span><span class="s">&#34;mailto:contact@revolunet.com&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="s">&#34;https://assemble.io&#34;</span><span class="w"> </span><span class="nx">Assemble</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="nx">href</span><span class="o">=</span><span class="s">&#34;https://assemble.io&#34;</span><span class="w"> </span><span class="nx">content</span><span class="o">=</span><span class="nx">Assemble</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<a href="https://assemble.io"target="_blank" rel="external nofollow noopener noreferrer">https://assemble.io</a>
+<a href="mailto:contact@revolunet.com">mailto:contact@revolunet.com</a>
+<p><a href="https://assemble.io"target="_blank" rel="external nofollow noopener noreferrer">Assemble</a>
+一个带有标题的 <code>link</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="s">&#34;https://github.com/upstage/&#34;</span><span class="w"> </span><span class="nx">Upstage</span><span class="w"> </span><span class="s">&#34;Visit Upstage!&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="nx">href</span><span class="o">=</span><span class="s">&#34;https://github.com/upstage/&#34;</span><span class="w"> </span><span class="nx">content</span><span class="o">=</span><span class="nx">Upstage</span><span class="w"> </span><span class="nx">title</span><span class="o">=</span><span class="s">&#34;Visit Upstage!&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下 （将鼠标悬停在链接上，会有一行提示）:</p>
+<p><a href="https://github.com/upstage/"target="_blank" rel="external nofollow noopener noreferrer">Upstage</a></p>
+<p>一个卡片式 <code>link</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="s">&#34;https://github.com/hugo-fixit/FixIt&#34;</span><span class="w"> </span><span class="s">&#34;FixIt Theme&#34;</span><span class="w"> </span><span class="s">&#34;source of FixIt Theme&#34;</span><span class="w"> </span><span class="k">true</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="nx">href</span><span class="o">=</span><span class="s">&#34;https://github.com/hugo-fixit/FixIt&#34;</span><span class="w"> </span><span class="nx">content</span><span class="o">=</span><span class="s">&#34;FixIt Theme&#34;</span><span class="w"> </span><span class="nx">title</span><span class="o">=</span><span class="s">&#34;source of FixIt Theme&#34;</span><span class="w"> </span><span class="nx">card</span><span class="o">=</span><span class="k">true</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<a href="https://github.com/hugo-fixit/FixIt" title="source of FixIt Theme"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
+    <span class="cl-content">
+      <span class="cl-text">
+        <span class="cl-title">FixIt Theme</span>
+        <span class="cl-meta">
+          <svg class="cl-icon-link" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M574 665.4c-3.1-3.1-8.2-3.1-11.3 0L446.5 781.6c-53.8 53.8-144.6 59.5-204 0-59.5-59.5-53.8-150.2 0-204l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3l-39.8-39.8c-3.1-3.1-8.2-3.1-11.3 0L191.4 526.5c-84.6 84.6-84.6 221.5 0 306s221.5 84.6 306 0l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3L574 665.4zM832.6 191.4c-84.6-84.6-221.5-84.6-306 0L410.3 307.6c-3.1 3.1-3.1 8.2 0 11.3l39.7 39.7c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c53.8-53.8 144.6-59.5 204 0 59.5 59.5 53.8 150.2 0 204L665.3 562.6c-3.1 3.1-3.1 8.2 0 11.3l39.8 39.8c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c84.5-84.6 84.5-221.5 0-306.1z" fill="#a9a9b3"></path><path d="M610.1 372.3c-3.1-3.1-8.2-3.1-11.3 0L372.3 598.7c-3.1 3.1-3.1 8.2 0 11.3l39.6 39.6c3.1 3.1 8.2 3.1 11.3 0l226.4-226.4c3.1-3.1 3.1-8.2 0-11.3l-39.5-39.6z" fill="#a9a9b3"></path></svg>
+          <span class="cl-url">https://github.com/hugo-fixit/FixIt</span>
+        </span>
+      </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
+<p>一个可下载的 <code>link</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="nx">href</span><span class="o">=</span><span class="s">&#34;/music/Wavelength.mp3&#34;</span><span class="w"> </span><span class="nx">content</span><span class="o">=</span><span class="s">&#34;Wavelength&#34;</span><span class="w"> </span><span class="nx">title</span><span class="o">=</span><span class="s">&#34;Download Wavelength.mp3&#34;</span><span class="w"> </span><span class="nx">download</span><span class="o">=</span><span class="s">&#34;Wavelength.mp3&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">link</span><span class="w"> </span><span class="nx">href</span><span class="o">=</span><span class="s">&#34;/music/Wavelength.mp3&#34;</span><span class="w"> </span><span class="nx">content</span><span class="o">=</span><span class="s">&#34;Wavelength.mp3&#34;</span><span class="w"> </span><span class="nx">title</span><span class="o">=</span><span class="s">&#34;Download Wavelength.mp3&#34;</span><span class="w"> </span><span class="nx">download</span><span class="o">=</span><span class="s">&#34;Wavelength.mp3&#34;</span><span class="w"> </span><span class="nx">card</span><span class="o">=</span><span class="k">true</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<a href="/music/Wavelength.mp3" title="Download Wavelength.mp3" download="Wavelength.mp3">Wavelength<i class="fa-solid fa-download fa-fw ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="/music/Wavelength.mp3" title="Download Wavelength.mp3" class="card-link" download="Wavelength.mp3"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
+    <span class="cl-content">
+      <span class="cl-text">
+        <span class="cl-title">Wavelength.mp3</span>
+        <span class="cl-meta">
+          <svg class="cl-icon-link" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M574 665.4c-3.1-3.1-8.2-3.1-11.3 0L446.5 781.6c-53.8 53.8-144.6 59.5-204 0-59.5-59.5-53.8-150.2 0-204l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3l-39.8-39.8c-3.1-3.1-8.2-3.1-11.3 0L191.4 526.5c-84.6 84.6-84.6 221.5 0 306s221.5 84.6 306 0l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3L574 665.4zM832.6 191.4c-84.6-84.6-221.5-84.6-306 0L410.3 307.6c-3.1 3.1-3.1 8.2 0 11.3l39.7 39.7c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c53.8-53.8 144.6-59.5 204 0 59.5 59.5 53.8 150.2 0 204L665.3 562.6c-3.1 3.1-3.1 8.2 0 11.3l39.8 39.8c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c84.5-84.6 84.5-221.5 0-306.1z" fill="#a9a9b3"></path><path d="M610.1 372.3c-3.1-3.1-8.2-3.1-11.3 0L372.3 598.7c-3.1 3.1-3.1 8.2 0 11.3l39.6 39.6c3.1 3.1 8.2 3.1 11.3 0l226.4-226.4c3.1-3.1 3.1-8.2 0-11.3l-39.5-39.6z" fill="#a9a9b3"></path></svg>
+          <span class="cl-url">/music/Wavelength.mp3</span>
+        </span>
+      </span><svg class="cl-icon-download" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M824.32 473.6c-15.36-2.56-25.6-15.36-25.6-30.72 0-112.64-71.68-217.6-179.2-250.88-148.48-46.08-289.28 38.4-332.8 166.4-2.56 10.24-12.8 17.92-23.04 20.48C143.36 401.92 51.2 509.44 51.2 637.44v2.56c0 115.2 97.28 204.8 209.92 204.8h524.8c102.4-2.56 184.32-84.48 184.32-186.88 2.56-89.6-61.44-163.84-145.92-184.32z m-273.92 225.28c-12.8 12.8-30.72 15.36-46.08 10.24H501.76c-5.12-2.56-10.24-5.12-15.36-10.24L366.08 578.56c-15.36-15.36-15.36-43.52 0-58.88 15.36-15.36 43.52-15.36 58.88 0l51.2 51.2V352.4608c0-23.04 17.92-40.96 40.96-40.96 23.04 0 40.96 17.92 40.96 40.96v218.4192l51.2-51.2c17.92-17.92 43.52-17.92 61.44 0 17.92 15.36 17.92 40.96 0 58.88l-120.32 120.32z" fill="#4FC089"></path></svg></span></a>
+<h2 id="image">image</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>image</code> shortcode 是 [<code>figure</code> shortcode][figure] 的替代。<code>image</code> shortcode 可以充分利用 <a href="https://github.com/sachinchoolur/lightgallery"target="_blank" rel="external nofollow noopener noreferrer">lightgallery</a>。</p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用</a> 的完整用法。</p>
+<p><code>image</code> shortcode 有以下命名参数：</p>
+<ul>
+<li>
+<p><strong>src</strong> <em>[必需]</em>（<strong>第一个</strong>位置参数）</p>
+<p>图片的 URL。</p>
+</li>
+<li>
+<p><strong>alt</strong> <em>[可选]</em>（<strong>第二个</strong>位置参数）</p>
+<p>图片无法显示时的替代文本，默认值是 <strong>src</strong> 参数的值。</p>
+<p><em>支持 Markdown 或者 HTML 格式。</em></p>
+</li>
+<li>
+<p><strong>caption</strong> <em>[可选]</em>（<strong>第三个</strong>位置参数）</p>
+<p>图片标题。</p>
+<p><em>支持 Markdown 或者 HTML 格式。</em></p>
+</li>
+<li>
+<p><strong>title</strong> <em>[可选]</em></p>
+<p>当悬停在图片上会显示的提示。</p>
+</li>
+<li>
+<p><strong>class</strong> <em>[可选]</em></p>
+<p>HTML <code>figure</code> 标签的 <code>class</code> 属性。</p>
+</li>
+<li>
+<p><strong>src_s</strong> <em>[可选]</em></p>
+<p>图片缩略图的 URL, 用在画廊模式中，默认值是 <strong>src</strong> 参数的值。</p>
+</li>
+<li>
+<p><strong>src_l</strong> <em>[可选]</em></p>
+<p>高清图片的 URL, 用在画廊模式中，默认值是 <strong>src</strong> 参数的值。</p>
+</li>
+<li>
+<p><strong>height</strong> <em>[可选]</em></p>
+<p>图片的 <code>height</code> 属性。</p>
+</li>
+<li>
+<p><strong>width</strong> <em>[可选]</em></p>
+<p>图片的 <code>width</code> 属性。</p>
+</li>
+<li>
+<p><strong>linked</strong> <em>[可选]</em></p>
+<p>图片是否需要被链接，默认值是 <code>true</code>。</p>
+</li>
+<li>
+<p><strong>rel</strong> <em>[可选]</em></p>
+<p>HTML <code>a</code> 标签 的 <code>rel</code> 补充属性，仅在 <strong>linked</strong> 属性设置成 <code>true</code> 时有效。</p>
+</li>
+<li>
+<p><strong>loading</strong> <em>[可选]</em> <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>HTML <code>a</code> 标签 的 <code>loading</code> 补充属性，可选值：<code>eager</code>、<code>lazy</code>，默认值是 <code>lazy</code>。</p>
+</li>
+</ul>
+<p>一个 <code>image</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-mysql" data-lang="mysql"><span class="line"><span class="cl"><span class="err">{{</span><span class="o">&lt;</span><span class="w"> </span><span class="n">image</span><span class="w"> </span><span class="n">src</span><span class="o">=</span><span class="s2">&#34;/images/lighthouse.jpg&#34;</span><span class="w"> </span><span class="n">caption</span><span class="o">=</span><span class="s2">&#34;Lighthouse (`image`)&#34;</span><span class="w"> </span><span class="n">src_s</span><span class="o">=</span><span class="s2">&#34;/images/lighthouse-small.jpg&#34;</span><span class="w"> </span><span class="n">src_l</span><span class="o">=</span><span class="s2">&#34;/images/lighthouse-large.jpg&#34;</span><span class="w"> </span><span class="o">&gt;</span><span class="err">}}</span><span class="w"> 
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<figure><a class="lightgallery" href="/images/lighthouse-large.jpg" data-thumbnail="/images/lighthouse-small.jpg" data-sub-html="<h2>Lighthouse (image)</h2>"></a><figcaption class="image-caption">Lighthouse (<code>image</code>)</figcaption>
+  </figure>
+<h2 id="admonition">admonition</h2>
+<p><code>admonition</code> shortcode 支持 <strong>12</strong> 种 帮助你在页面中插入提示的横幅。</p>
+<p><em>支持 Markdown 或者 HTML 格式。</em></p>
+<div class="details admonition tip">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>This is a tip<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>技巧</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>注意</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition abstract open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-list-ul fa-fw" aria-hidden="true"></i>摘要<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>摘要</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>信息</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition success open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-check-circle fa-fw" aria-hidden="true"></i>成功<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>成功</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition question open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>问题</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition warning open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>警告</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition failure open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>失败<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>失败</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition danger open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-skull-crossbones fa-fw" aria-hidden="true"></i>危险<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>危险</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition bug open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-bug fa-fw" aria-hidden="true"></i>Bug<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>Bug</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition example open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-list-ol fa-fw" aria-hidden="true"></i>示例<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>示例</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition quote open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-quote-right fa-fw" aria-hidden="true"></i>引用<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>引用</strong> 横幅</div>
+    </div>
+  </div>
+<p><code>admonition</code> shortcode 有以下命名参数：</p>
+<ul>
+<li>
+<p><strong>type</strong> <em>[必需]</em>（<strong>第一个</strong>位置参数）</p>
+<p><code>admonition</code> 横幅的类型，默认值是 <code>note</code>。</p>
+</li>
+<li>
+<p><strong>title</strong> <em>[可选]</em>（<strong>第二个</strong>位置参数）</p>
+<p><code>admonition</code> 横幅的标题，默认值是 <strong>type</strong> 参数的值。（支持 markdown）<a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.14"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+</li>
+<li>
+<p><strong>open</strong> <em>[可选]</em>（<strong>第三个</strong>位置参数） <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>横幅内容是否默认展开，默认值是 <code>true</code>。</p>
+</li>
+</ul>
+<p>一个 <code>admonition</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">admonition</span><span class="w"> </span><span class="nx">type</span><span class="o">=</span><span class="nx">tip</span><span class="w"> </span><span class="nx">title</span><span class="o">=</span><span class="s">&#34;This is a tip&#34;</span><span class="w"> </span><span class="nx">open</span><span class="o">=</span><span class="k">false</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">一个 **技巧** 横幅
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">admonition</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">admonition</span><span class="w"> </span><span class="nx">tip</span><span class="w"> </span><span class="s">&#34;This is a tip&#34;</span><span class="w"> </span><span class="k">false</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">一个 **技巧** 横幅
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">admonition</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="details admonition tip">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>This is a tip<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>技巧</strong> 横幅</div>
+    </div>
+  </div>
+<h2 id="mermaid">mermaid</h2>
+<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid</a> 库提供绘制图表和流程图的功能。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - mermaid</a>。</p>
+<h2 id="echarts">echarts</h2>
+<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts</a> 库提供数据可视化的功能。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - echarts</a>。</p>
+<h2 id="mapbox">mapbox</h2>
+<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS</a> 库提供互动式地图的功能。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - mapbox</a>。</p>
+<h2 id="music">music</h2>
+<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer</a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS</a> 库提供了一个内嵌的响应式音乐播放器。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - music</a>。</p>
+<h2 id="bilibili">bilibili</h2>
+<p><code>bilibili</code> shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - bilibili</a>。</p>
+<h2 id="typeit">typeit</h2>
+<p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt</a> 提供了打字动画。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/typeit/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - typeit</a>。</p>
+<h2 id="script">script</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.8"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>script</code> shortcode 用来在你的文章中插入 <strong>Javascript</strong> 脚本。</p>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">脚本内容可以保证在所有的第三方库加载之后按顺序执行。 所以你可以自由地使用第三方库。</div>
+    </div>
+  </div>
+<p>一个 <code>script</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">script</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">console.log(&#39;Hello FixIt!&#39;);
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">script</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>你可以在开发者工具的控制台中看到输出。</p>
+<h2 id="details">details</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a> <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.14"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>details</code> shortcode 用来在你的文章中插入 <strong>HTML5 标签</strong> details 和 summary。</p>
+<p><code>details</code> shortcode 只有一个参数：</p>
+<ul>
+<li>
+<p><strong>summary</strong> <em>[可选]</em> (<strong>第一个</strong>位置参数）</p>
+<p>summary 标签的内容（支持 markdown）</p>
+</li>
+</ul>
+<p>一个 <code>details</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">details</span><span class="w"> </span><span class="s">&#34;**Copyright** 2022.&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">*All pages and graphics on this web site are the property of FixIt.*
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">details</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">details</span><span class="w"> </span><span class="nx">summary</span><span class="o">=</span><span class="s">&#34;**Copyright** 2022.&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">*All pages and graphics on this web site are the property of FixIt.*
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">details</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<details>
+  <summary><strong>Copyright</strong> 2022.</summary>
+  <em>All pages and graphics on this web site are the property of FixIt.</em>
+</details>
+<h2 id="center-quote">center-quote</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>center-quote</code> shortcode 用来在你的文章中插入文本居中的 blockquote 标签。</p>
+<p>一个 <code>center-quote</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">center</span><span class="err">-</span><span class="nx">quote</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">**hello** *world*  
+</span></span><span class="line"><span class="cl">this is a center-quote shortcode example.
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="err">/</span><span class="nx">center</span><span class="err">-</span><span class="nx">quote</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<blockquote class="blockquote-center">
+  <strong>hello</strong> <em>world</em><br>
+this is a center-quote shortcode example.
+</blockquote>
+<h2 id="fixit-encryptor">fixit-encryptor</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>您可以使用 <code>fixit-encryptor</code> shortcode 来加密部分内容。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/"target="_blank" rel="external nofollow noopener noreferrer">内容加密</a>。</p>
+<h2 id="raw">raw</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.16"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>raw</code> shortcode 用来在你的文章中插入原始 <strong>HTML</strong> 内容。</p>
+<p><code>raw</code> shortcode 只有一个参数：</p>
+<ul>
+<li>
+<p><strong>tag</strong> <em>[可选]</em> (<strong>第一个</strong>位置参数）</p>
+<p>原始内容的父级元素 HTML 标签，默认值是 <code>div</code>。</p>
+</li>
+</ul>
+<p>一个 <code>raw</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><div class="fi-row">行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\)</div>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><div class="fi-row">
+公式块：
+\[ a=b+c \\ d+e=f \]
+</div>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">原始的带有 Markdown 和 HTML 语法的内容：<span class="fi-row">**Hello** <strong>FixIt</strong></span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="fi-row">行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\)</div>
+<div class="fi-row">
+公式块：
+\[ a=b+c \\ d+e=f \]
+</div>
+<p>原始的带有 Markdown 和 HTML 语法的内容：<span class="fi-row">**Hello** <strong>FixIt</strong></span></p>
+<h2 id="reward">reward</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>reward</code> shortcode 有以下命名参数：</p>
+<ul>
+<li><strong>wechatpay</strong> <em>[可选]</em>（<strong>第一个</strong>位置参数）</li>
+<li><strong>alipay</strong> <em>[可选]</em>（<strong>第二个</strong>位置参数）</li>
+<li><strong>paypal</strong> <em>[可选]</em>（<strong>第三个</strong>位置参数）</li>
+<li><strong>bitcoin</strong> <em>[可选]</em>（<strong>第四个</strong>位置参数）</li>
+<li><strong>author</strong> <em>[可选]</em>（<strong>第五个</strong>位置参数）</li>
+<li><strong>comment</strong> <em>[可选]</em>（<strong>第六个</strong>位置参数）</li>
+</ul>
+<p>一个 <code>reward</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl"><div class="post-reward">
+    <div class="comment">给作者买杯卡布奇诺～</div>
+    <input type="checkbox" class="reward-input" name="reward" id="id-2" hidden />
+    <label class="reward-button" for="id-2">赞赏</label>
+    <div class="reward-ways"><div><span data-animation>支付宝</span>
+          </div><div><span data-animation>微信</span>
+          </div></div>
+  </div> 
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="post-reward">
+    <div class="comment">给作者买杯卡布奇诺～</div>
+    <input type="checkbox" class="reward-input" name="reward" id="id-3" hidden />
+    <label class="reward-button" for="id-3">赞赏</label>
+    <div class="reward-ways"><div><span data-animation>支付宝</span>
+          </div><div><span data-animation>微信</span>
+          </div></div>
+  </div>]]></description>
+</item>
+<item>
+  <title>Markdown 扩展语法</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/</link>
+  <pubDate>Mon, 20 Feb 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/featured-image.webp" referrerpolicy="no-referrer">
+      </div><p>[<strong>FixIt</strong> 主题提供了一些扩展的语法便于你撰写文章。</p>
+<h2 id="emoji-支持">Emoji 支持</h2>
+<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/guides/emoji-support/"target="_blank" rel="external nofollow noopener noreferrer">Emoji 支持页面</a> 中介绍。</p>
+<h2 id="数学公式">数学公式</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.16"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><strong>FixIt</strong> 基于 <a href="https://katex.org/"target="_blank" rel="external nofollow noopener noreferrer">KaTeXKATEX</a> 提供数学公式的支持。</p>
+<p>在你的 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>[params.math]</code> 下面设置属性 <code>enable = true</code>, 并在文章的前置参数中设置属性 <code>math: true</code> 来启用数学公式的自动渲染。</p>
+<div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">有一份 <a href="https://katex.org/docs/supported.html"target="_blank" rel="external nofollow noopener noreferrer">KaTeXKATEX 中支持的 TeXTEX 函数</a> 清单。</div>
+    </div>
+  </div>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>由于 Hugo 在渲染 Markdown 文档时会根据 <code>_</code>/<code>*</code>/<code>&gt;&gt;</code> 之类的语法生成 HTML 文档， 并且有些转义字符形式的文本内容 (如 <code>\(</code>/<code>\)</code>/<code>\[</code>/<code>\]</code>/<code>\\</code>) 会自动进行转义处理， 因此需要对这些地方进行额外的转义字符表达来实现自动渲染：</p>
+<ul>
+<li><code>_</code> -&gt; <code>\_</code></li>
+<li><code>*</code> -&gt; <code>\*</code></li>
+<li><code>&gt;&gt;</code> -&gt; <code>\&gt;&gt;</code></li>
+<li><code>\(</code> -&gt; <code>\\(</code></li>
+<li><code>\)</code> -&gt; <code>\\)</code></li>
+<li><code>\[</code> -&gt; <code>\\[</code></li>
+<li><code>\]</code> -&gt; <code>\\]</code></li>
+<li><code>\\</code> -&gt; <code>\\\\</code></li>
+</ul>
+<p><strong>FixIt</strong> 主题支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/#raw"target="_blank" rel="external nofollow noopener noreferrer"><code>raw</code> shortcode</a> 以避免这些转义字符， 它可以帮助您编写原始数学公式内容。</p>
+<p>一个 <code>raw</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fi-row&#34;</span><span class="p">&gt;</span>行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\)<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fi-row&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">公式块：
+</span></span><span class="line"><span class="cl">\[ a=b+c \\ d+e=f \]
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div></div>
+    </div>
+  </div>
+<p>呈现的输出效果如下：</p>
+<div class="fi-row">行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\)</div>
+<div class="fi-row">
+公式块：
+\[ a=b+c \\ d+e=f \]
+</div>
+<h3 id="行内公式">行内公式</h3>
+<p>默认的行内公式分割符有：</p>
+<ul>
+<li><code>$ ... $</code></li>
+<li><code>\( ... \)</code> (转义的: <code>\\( ... \\)</code>)</li>
+</ul>
+<p>例如:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-tex" data-lang="tex"><span class="line"><span class="cl"><span class="s">$</span><span class="nb">c </span><span class="o">=</span><span class="nb"> </span><span class="nv">\pm\sqrt</span><span class="nb">{a^</span><span class="m">2</span><span class="nb"> </span><span class="o">+</span><span class="nb"> b^</span><span class="m">2</span><span class="nb">}</span><span class="s">$</span> 和 <span class="k">\\</span>(f(x)=<span class="k">\int</span><span class="nb">_{</span>-<span class="k">\infty</span><span class="nb">}^{</span><span class="k">\infty</span><span class="nb">}</span> <span class="k">\hat</span><span class="nb">{</span>f<span class="nb">}</span>(<span class="k">\xi</span>) e<span class="nb">^{</span>2 <span class="k">\pi</span> i <span class="k">\xi</span> x<span class="nb">}</span> d <span class="k">\xi\\</span>)
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<p>$c = \pm\sqrt{a^2 + b^2}$ 和 \(f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi\)</p>
+<h3 id="公式块">公式块</h3>
+<p>默认的公式块分割符有：</p>
+<ul>
+<li><code>$$ ... $$</code></li>
+<li><code>\[ ... \]</code> (转义的：<code>\\[ ... \\]</code>)</li>
+<li><code>\begin{equation} ... \end{equation}</code> (不编号的：<code>\begin{equation*} ... \end{equation*}</code>)</li>
+<li><code>\begin{align} ... \end{align}</code> (不编号的：<code>\begin{align*} ... \end{align*}</code>)</li>
+<li><code>\begin{alignat} ... \end{alignat}</code> (不编号的：<code>\begin{alignat*} ... \end{alignat*}</code>)</li>
+<li><code>\begin{gather} ... \end{gather}</code> (不编号的：<code>\begin{gather*} ... \end{gather*}</code>)</li>
+<li><code>\begin{CD} ... \end{CD}</code></li>
+</ul>
+<div class="details admonition warning open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">当公式块中存在换行时，请谨慎开启 <code>goldmark.renderer.hardWraps</code>，设置为 true，Goldmark 会将换行符呈现为 <code>&lt;br&gt;</code> 元素。</div>
+    </div>
+  </div>
+<p>例如：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-tex" data-lang="tex"><span class="line"><span class="cl"><span class="sb">$$</span><span class="nb"> c </span><span class="o">=</span><span class="nb"> </span><span class="nv">\pm\sqrt</span><span class="nb">{a^</span><span class="m">2</span><span class="nb"> </span><span class="o">+</span><span class="nb"> b^</span><span class="m">2</span><span class="nb">} </span><span class="s">$$</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\\</span><span class="na">[ f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \\]</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>equation*<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">  <span class="k">\rho</span> <span class="k">\frac</span><span class="nb">{</span><span class="k">\mathrm</span><span class="nb">{</span>D<span class="nb">}</span> <span class="k">\mathbf</span><span class="nb">{</span>v<span class="nb">}}{</span><span class="k">\mathrm</span><span class="nb">{</span>D<span class="nb">}</span> t<span class="nb">}</span>=<span class="k">\nabla</span> <span class="k">\cdot</span> <span class="k">\mathbb</span><span class="nb">{</span>P<span class="nb">}</span>+<span class="k">\rho</span> <span class="k">\mathbf</span><span class="nb">{</span>f<span class="nb">}</span>
+</span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>equation*<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>equation<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">  <span class="k">\mathbf</span><span class="nb">{</span>E<span class="nb">}</span>=<span class="k">\sum</span><span class="nb">_{</span>i<span class="nb">}</span> <span class="k">\mathbf</span><span class="nb">{</span>E<span class="nb">}</span><span class="k">\_</span><span class="nb">{</span>i<span class="nb">}</span>=<span class="k">\mathbf</span><span class="nb">{</span>E<span class="nb">}</span><span class="k">\_</span><span class="nb">{</span>1<span class="nb">}</span>+<span class="k">\mathbf</span><span class="nb">{</span>E<span class="nb">}</span><span class="k">\_</span><span class="nb">{</span>2<span class="nb">}</span>+<span class="k">\mathbf</span><span class="nb">{</span>E<span class="nb">}_{</span>3<span class="nb">}</span>+<span class="k">\cdots</span>
+</span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>equation<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>align<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">  a<span class="nb">&amp;</span>=b+c <span class="k">\\\\</span>
+</span></span><span class="line"><span class="cl">  d+e<span class="nb">&amp;</span>=f
+</span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>align<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>alignat<span class="nb">}{</span>2<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">   10<span class="nb">&amp;</span>x+<span class="nb">&amp;</span>3<span class="nb">&amp;</span>y = 2 <span class="k">\\\\</span>
+</span></span><span class="line"><span class="cl">   3<span class="nb">&amp;</span>x+<span class="nb">&amp;</span>13<span class="nb">&amp;</span>y = 4
+</span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>alignat<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>gather<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">   a=b <span class="k">\\\\</span>
+</span></span><span class="line"><span class="cl">   e=b+c
+</span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>gather<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>CD<span class="nb">}</span>
+</span></span><span class="line"><span class="cl">   A @&gt;a<span class="k">\&gt;</span>&gt; B <span class="k">\\\\</span>
+</span></span><span class="line"><span class="cl">@VbVV @AAcA <span class="k">\\\\</span>
+</span></span><span class="line"><span class="cl">   C @= D
+</span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>CD<span class="nb">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="details admonition failure open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>失败<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">​	依据警告调整，暂未找到合适方法</div>
+    </div>
+  </div>
+<div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">你可以在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中自定义行内公式和公式块的分割符。</div>
+    </div>
+  </div>
+<h3 id="copy-tex">Copy-tex</h3>
+<p><strong><a href="https://github.com/Khan/KaTeX/tree/master/contrib/copy-tex"target="_blank" rel="external nofollow noopener noreferrer">Copy-tex</a></strong> 是一个 <strong>KaTeXKATEX</strong> 的插件。</p>
+<p>通过这个扩展，在选择并复制 KaTeXKATEX 渲染的公式时，会将其 LaTeXLATEX 源代码复制到剪贴板。</p>
+<p>在你的 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>[params.math]</code> 下面设置属性 <code>copyTex = true</code> 来启用 Copy-tex。</p>
+<p>选择并复制上一节中渲染的公式，可以发现复制的内容为 LaTeX 源代码。</p>
+<h3 id="mhchem">mhchem</h3>
+<p><strong><a href="https://github.com/Khan/KaTeX/tree/master/contrib/mhchem"target="_blank" rel="external nofollow noopener noreferrer">mhchem</a></strong> 是一个 <strong>KaTeXKATEX</strong> 的插件。</p>
+<p>通过这个扩展，你可以在文章中轻松编写漂亮的化学方程式。</p>
+<p>在你的 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>[params.math]</code> 下面设置属性 <code>mhchem = true</code> 来启用 mhchem。</p>]]></description>
+</item>
+<item>
+  <title>内容加密</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</link>
+  <pubDate>Mon, 20 Feb 2023 17:27:11 &#43;0000</pubDate>
+  <author>Suroppo</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/featured-image.png" referrerpolicy="no-referrer">
+      </div><p>了解如何在 FixIt 主题中加密内容。</p>
+<h2 id="全文加密">全文加密</h2>
+<h3 id="前置参数">前置参数</h3>
+<p>FixIt 主题提供了两个前置参数用于全文加密。</p>
+<ul>
+<li><strong>password</strong>: <em>[必需]</em> 加密页面内容的密码</li>
+<li><strong>message</strong>: <em>[可选]</em> 加密提示信息</li>
+</ul>
+<p>例如，本文的前置参数如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="l">主题文档 - 内容加密</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">date</span><span class="p">:</span><span class="w"> </span><span class="ld">2022-05-28T11:51:41</span><span class="m">+08</span><span class="p">:</span><span class="m">00</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">author</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Lruihao</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">link</span><span class="p">:</span><span class="w"> </span><span class="l">https://lruihao.cn</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">description</span><span class="p">:</span><span class="w"> </span><span class="l">了解如何在 FixIt 主题中加密内容。</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">password</span><span class="p">:</span><span class="w"> </span><span class="m">1212</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">message</span><span class="p">:</span><span class="w"> </span><span class="l">密码是 1212</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">resources</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">featured-image</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">src</span><span class="p">:</span><span class="w"> </span><span class="l">featured-image.png</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">tags</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span>- <span class="l">Encryption</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">categories</span><span class="p">:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span>- <span class="l">Documentation</span><span class="w">
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div><div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><ol>
+<li>每次输入正确密码后，会在用户本地缓存密码 hash 值，一天之内再次访问时，将自动解锁文章</li>
+<li>文章最后提供有一个 “重新加密” 的按钮，点击即可立即忘记密码，并重新加密内容</li>
+<li>加密文章已从搜索中隐藏</li>
+<li>加密文章的 Markdown 输出已禁用，为了防止密码泄漏，<strong>请勿将加密文章以任何形式公开</strong></li>
+</ol>
+</div>
+    </div>
+  </div>
+<h3 id="进阶使用">进阶使用</h3>
+<p>FixIt Dcryptor 有两个生命周期钩子函数，详见 <a href="https://fixit.lruihao.cn/documentation/content-management/encryption/#fixit-decryptor-api"target="_blank" rel="external nofollow noopener noreferrer">Class FixItDecryptor API</a></p>
+<p>例如在解锁文章后，输出文本：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">{{% msshortcodes params1=&#34;xxx&#34; %}}**this** is a text{{% /msshortcodes %}}
+</span></span><span class="line"><span class="cl">{{&lt; msshortcodes params1=&#34;xxx&#34;  &gt;}} **Yeahhh !** is a text {{&lt; /msshortcodes &gt;}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{ style &#34;text-align:right; strong{color:#00b1ff;}&#34; }}
+</span></span><span class="line"><span class="cl">This is a **right-aligned** paragraph.
+</span></span><span class="line"><span class="cl">{{ /style }}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">script</span> <span class="p">&gt;}}</span>
+</span></span><span class="line"><span class="cl"><span class="nb">document</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;DOMContentLoaded&#39;</span><span class="p">,</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">fixit</span><span class="p">.</span><span class="nx">theme</span><span class="p">.</span><span class="nx">decryptor</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;decrypted&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;after password decryption&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">})</span>
+</span></span><span class="line"><span class="cl">  <span class="k">if</span> <span class="p">(</span><span class="nb">window</span><span class="p">.</span><span class="nx">localStorage</span><span class="p">.</span><span class="nx">getItem</span><span class="p">(</span><span class="sb">`fixit-decryptor/#</span><span class="si">${</span><span class="nx">location</span><span class="p">.</span><span class="nx">pathname</span><span class="si">}</span><span class="sb">`</span><span class="p">))</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;after automatic decryption&#39;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">});</span>
+</span></span><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="p">/</span><span class="nt">script</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>您可以在开发人员工具的控制台中看到输出。</p>
+<h2 id="部分加密">部分加密</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>您可以使用 <code>fixit-encryptor</code> shortcode 来加密部分内容。</p>
+<p><code>fixit-encryptor</code> shortcode 具有以下命名参数：</p>
+<ul>
+<li>
+<p><strong>password</strong> <em>[必选]</em>（<strong>第一个</strong>位置参数）</p>
+<p>部分加密内容的密码。</p>
+</li>
+<li>
+<p><strong>message</strong> <em>[可选]</em>（<strong>第二个</strong>位置参数）</p>
+<p>解密输入框的提示信息。</p>
+</li>
+</ul>
+<p>一个 <code>fixit-encryptor</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">fixit-encryptor</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fixit-encryptor-shortcode&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fixit-decryptor-container&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;</span><span class="nt">label</span> <span class="na">title</span><span class="o">=</span><span class="s">&#39;密码&#39;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;password&#34;</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fixit-decryptor-input&#34;</span> <span class="na">placeholder</span><span class="o">=</span><span class="s">&#34;🔑 密码是 1212&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">data-password</span><span class="o">=</span><span class="s">&#34;a01610228fe998f515a72dd730294d87&#34;</span> <span class="na">data-content</span><span class="o">=</span><span class="s">&#34;PGNvZ02f9ed2a8d1e08d8f74f5303e9eb93637d47f82ab6f1c15871cf8dd0481GU&amp;#43;Zml4aXQtZW5jcnlwdG9yPC9jb2RlPiBzaG9ydGNvZGUg5Zyo54mI5pysIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9odWdvLWZpeGl0L0ZpeEl0L3JlbGVhc2VzL3RhZy92MC4yLjE1IiByZWw9ImV4dGVybmFsIG5vZm9sbG93IG5vb3BlbmVyIG5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj48aW1nIGxvYWRpbmc9ImxhenkiIHNyYz0iL3N2Zy92ZXJzaW9uLzAuMi4xNS1uZXcubWluLnN2ZyIgc3Jjc2V0PSIvc3ZnL3ZlcnNpb24vMC4yLjE1LW5ldy5taW4uc3ZnLCAvc3ZnL3ZlcnNpb24vMC4yLjE1LW5ldy5taW4uc3ZnIDEuNXgsIC9zdmcvdmVyc2lvbi8wLjIuMTUtbmV3Lm1pbi5zdmcgMngiIHNpemVzPSJhdXRvIiBkYXRhLXRpdGxlPSJGaXhJdCAwLjIuMTUgfCDmlrDlop4iIGRhdGEtYWx0PSJGaXhJdCAwLjIuMTUgfCDmlrDlop4iIGNsYXNzPSJ2ZXJzaW9uIiBzdHlsZT0iYmFja2dyb3VuZDogdXJsKC9zdmcvbG9hZGluZy5taW4uc3ZnKSBuby1yZXBlYXQgY2VudGVyOyIgb25sb2FkPSJ0aGlzLnRpdGxlPXRoaXMuZGF0YXNldC50aXRsZTt0aGlzLmFsdD10aGlzLmRhdGFzZXQuYWx0O2Zvcihjb25zdCBhIG9mIFsnc3R5bGUnLCdkYXRhLXRpdGxlJywnZGF0YS1hbHQnLCdvbmVycm9yJywnb25sb2FkJ10pe3RoaXMucmVtb3ZlQXR0cmlidXRlKGEpO310aGlzLmRhdGFzZXQubGF6eWxvYWRlZD0nJzsiIG9uZXJyb3I9InRoaXMudGl0bGU9dGhpcy5kYXRhc2V0LnRpdGxlO3RoaXMuYWx0PXRoaXMuZGF0YXNldC5hbHQ7Zm9yKGNvbnN0IGEgb2YgWydzdHlsZScsJ2RhdGEtdGl0bGUnLCdkYXRhLWFsdCcsJ29uZXJyb3InLCdvbmxvYWQnXSl7dGhpcy5yZW1vdmVBdHRyaWJ1dGUoYSk7fSIvPjwvYT4g5b6X5Yiw5pSv5oyB44CC&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">fixit-encryptor</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">Or
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">fixit-encryptor</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fixit-encryptor-shortcode&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fixit-decryptor-container&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;</span><span class="nt">label</span> <span class="na">title</span><span class="o">=</span><span class="s">&#39;密码&#39;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;password&#34;</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fixit-decryptor-input&#34;</span> <span class="na">placeholder</span><span class="o">=</span><span class="s">&#34;🔑 密码是 1212&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;/</span><span class="nt">label</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">data-password</span><span class="o">=</span><span class="s">&#34;a01610228fe998f515a72dd730294d87&#34;</span> <span class="na">data-content</span><span class="o">=</span><span class="s">&#34;PGNvZ02f9ed2a8d1e08d8f74f5303e9eb93637d47f82ab6f1c15871cf8dd0481GU&amp;#43;Zml4aXQtZW5jcnlwdG9yPC9jb2RlPiBzaG9ydGNvZGUg5Zyo54mI5pysIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9odWdvLWZpeGl0L0ZpeEl0L3JlbGVhc2VzL3RhZy92MC4yLjE1IiByZWw9ImV4dGVybmFsIG5vZm9sbG93IG5vb3BlbmVyIG5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj48aW1nIGxvYWRpbmc9ImxhenkiIHNyYz0iL3N2Zy92ZXJzaW9uLzAuMi4xNS1uZXcubWluLnN2ZyIgc3Jjc2V0PSIvc3ZnL3ZlcnNpb24vMC4yLjE1LW5ldy5taW4uc3ZnLCAvc3ZnL3ZlcnNpb24vMC4yLjE1LW5ldy5taW4uc3ZnIDEuNXgsIC9zdmcvdmVyc2lvbi8wLjIuMTUtbmV3Lm1pbi5zdmcgMngiIHNpemVzPSJhdXRvIiBkYXRhLXRpdGxlPSJGaXhJdCAwLjIuMTUgfCDmlrDlop4iIGRhdGEtYWx0PSJGaXhJdCAwLjIuMTUgfCDmlrDlop4iIGNsYXNzPSJ2ZXJzaW9uIiBzdHlsZT0iYmFja2dyb3VuZDogdXJsKC9zdmcvbG9hZGluZy5taW4uc3ZnKSBuby1yZXBlYXQgY2VudGVyOyIgb25sb2FkPSJ0aGlzLnRpdGxlPXRoaXMuZGF0YXNldC50aXRsZTt0aGlzLmFsdD10aGlzLmRhdGFzZXQuYWx0O2Zvcihjb25zdCBhIG9mIFsnc3R5bGUnLCdkYXRhLXRpdGxlJywnZGF0YS1hbHQnLCdvbmVycm9yJywnb25sb2FkJ10pe3RoaXMucmVtb3ZlQXR0cmlidXRlKGEpO310aGlzLmRhdGFzZXQubGF6eWxvYWRlZD0nJzsiIG9uZXJyb3I9InRoaXMudGl0bGU9dGhpcy5kYXRhc2V0LnRpdGxlO3RoaXMuYWx0PXRoaXMuZGF0YXNldC5hbHQ7Zm9yKGNvbnN0IGEgb2YgWydzdHlsZScsJ2RhdGEtdGl0bGUnLCdkYXRhLWFsdCcsJ29uZXJyb3InLCdvbmxvYWQnXSl7dGhpcy5yZW1vdmVBdHRyaWJ1dGUoYSk7fSIvPjwvYT4g5b6X5Yiw5pSv5oyB44CC&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">fixit-encryptor</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<fixit-encryptor class="fixit-encryptor-shortcode">
+    <div class="fixit-decryptor-container">
+      <label title='密码'>
+        <input type="password" class="fixit-decryptor-input" placeholder="🔑 密码是 1212" />
+      </label>
+    </div>
+    <div data-password="a01610228fe998f515a72dd730294d87" data-content="PGNvZ02f9ed2a8d1e08d8f74f5303e9eb93637d47f82ab6f1c15871cf8dd0481GU&#43;Zml4aXQtZW5jcnlwdG9yPC9jb2RlPiBzaG9ydGNvZGUg5Zyo54mI5pysIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9odWdvLWZpeGl0L0ZpeEl0L3JlbGVhc2VzL3RhZy92MC4yLjE1IiByZWw9ImV4dGVybmFsIG5vZm9sbG93IG5vb3BlbmVyIG5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj48aW1nIGxvYWRpbmc9ImxhenkiIHNyYz0iL3N2Zy92ZXJzaW9uLzAuMi4xNS1uZXcubWluLnN2ZyIgc3Jjc2V0PSIvc3ZnL3ZlcnNpb24vMC4yLjE1LW5ldy5taW4uc3ZnLCAvc3ZnL3ZlcnNpb24vMC4yLjE1LW5ldy5taW4uc3ZnIDEuNXgsIC9zdmcvdmVyc2lvbi8wLjIuMTUtbmV3Lm1pbi5zdmcgMngiIHNpemVzPSJhdXRvIiBkYXRhLXRpdGxlPSJGaXhJdCAwLjIuMTUgfCDmlrDlop4iIGRhdGEtYWx0PSJGaXhJdCAwLjIuMTUgfCDmlrDlop4iIGNsYXNzPSJ2ZXJzaW9uIiBzdHlsZT0iYmFja2dyb3VuZDogdXJsKC9zdmcvbG9hZGluZy5taW4uc3ZnKSBuby1yZXBlYXQgY2VudGVyOyIgb25sb2FkPSJ0aGlzLnRpdGxlPXRoaXMuZGF0YXNldC50aXRsZTt0aGlzLmFsdD10aGlzLmRhdGFzZXQuYWx0O2Zvcihjb25zdCBhIG9mIFsnc3R5bGUnLCdkYXRhLXRpdGxlJywnZGF0YS1hbHQnLCdvbmVycm9yJywnb25sb2FkJ10pe3RoaXMucmVtb3ZlQXR0cmlidXRlKGEpO310aGlzLmRhdGFzZXQubGF6eWxvYWRlZD0nJzsiIG9uZXJyb3I9InRoaXMudGl0bGU9dGhpcy5kYXRhc2V0LnRpdGxlO3RoaXMuYWx0PXRoaXMuZGF0YXNldC5hbHQ7Zm9yKGNvbnN0IGEgb2YgWydzdHlsZScsJ2RhdGEtdGl0bGUnLCdkYXRhLWFsdCcsJ29uZXJyb3InLCdvbmxvYWQnXSl7dGhpcy5yZW1vdmVBdHRyaWJ1dGUoYSk7fSIvPjwvYT4g5b6X5Yiw5pSv5oyB44CC"></div>
+  </fixit-encryptor>
+<h2 id="结语">结语</h2>
+<p>相比于通过 Golang/Python/JavaScript 等以脚本批处理的方式加密内容，FixIt 主题内置加密具有以下优缺点：</p>
+<ul>
+<li><strong>优点</strong>：易用性高，开箱即用，无需进一步批处理</li>
+<li><strong>缺点</strong>：安全性低，加密算法受限于 <code>go-html-template</code> 语法</li>
+</ul>
+<blockquote>
+<p>“最简单的密码，就足以防住 90% 的人！”</p>
+<p>隐私无小事，重要私密的内容请勿上传，各自妥善保管！</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>linux 文件权限</title>
+  <link>https://shiqustudio.github.io/tutorial/linux-permission/</link>
+  <pubDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/linux-permission/</guid>
+  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>
+<h2 id="查看文件权限">查看文件权限</h2>
+<p>查看 linux 系统下的文件权限，可以使用 <code>ll</code> 命令或者 <code>ls</code> 命令 带 <code>-l</code>（长列表选项）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">➜  ~ ll
+</span></span><span class="line"><span class="cl">total <span class="m">160</span>
+</span></span><span class="line"><span class="cl">drwx------@  <span class="m">8</span> liruihao  staff   256B Jul  <span class="m">5</span> 14:47 Applications
+</span></span><span class="line"><span class="cl">drwx------@ <span class="m">10</span> liruihao  staff   320B Jul <span class="m">27</span> 11:31 Desktop
+</span></span><span class="line"><span class="cl">drwx------+  <span class="m">7</span> liruihao  staff   224B Jun <span class="m">17</span> 15:01 Documents
+</span></span><span class="line"><span class="cl">drwx------@ <span class="m">22</span> liruihao  staff   704B Jul <span class="m">29</span> 16:35 Downloads
+</span></span><span class="line"><span class="cl">drwx------@ <span class="m">94</span> liruihao  staff   2.9K Jul <span class="m">23</span> 19:02 Library
+</span></span><span class="line"><span class="cl">drwx------   <span class="m">4</span> liruihao  staff   128B Nov <span class="m">13</span>  <span class="m">2021</span> Movies
+</span></span><span class="line"><span class="cl">drwx------+  <span class="m">6</span> liruihao  staff   192B Nov <span class="m">18</span>  <span class="m">2021</span> Music
+</span></span><span class="line"><span class="cl">drwx------+  <span class="m">9</span> liruihao  staff   288B Apr <span class="m">26</span> 10:25 Pictures
+</span></span><span class="line"><span class="cl">drwxr-xr-x+  <span class="m">5</span> liruihao  staff   160B Nov <span class="m">14</span>  <span class="m">2021</span> Public
+</span></span><span class="line"><span class="cl">drwxr-xr-x   <span class="m">5</span> liruihao  staff   160B Jul <span class="m">29</span> 17:48 file-share
+</span></span><span class="line"><span class="cl">drwxr-xr-x   <span class="m">3</span> liruihao  staff    96B Jul <span class="m">26</span> 17:17 node_modules
+</span></span><span class="line"><span class="cl">-rw-r--r--   <span class="m">1</span> liruihao  staff    27B Jun <span class="m">24</span> 13:47 package-lock.json
+</span></span><span class="line"><span class="cl">drwxr-xr-x  <span class="m">20</span> liruihao  staff   640B Jul <span class="m">29</span> 22:20 workspace
+</span></span><span class="line"><span class="cl">-rw-r--r--   <span class="m">1</span> liruihao  staff    86B Jul <span class="m">26</span> 17:17 yarn.lock
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>文件列表信息分为：文件类型、权限、链接数、所属用户、所属用户组、文件大小、最后修改时间、文件名。</p>
+<h2 id="文件类型">文件类型</h2>
+<p>linux 一共有 7 种文件类型，分别如下：</p>
+<ul>
+<li>
+<p><code>-</code>: 普通文件</p>
+</li>
+<li>
+<p><code>d</code>: 目录文件</p>
+</li>
+<li>
+<p><code>l</code>: 链接文件</p>
+</li>
+<li>
+<p><code>b</code>: 块设备文件</p>
+</li>
+<li>
+<p><code>p</code>: 管道文件</p>
+</li>
+<li>
+<p><code>c</code>: 字符设备文件</p>
+</li>
+<li>
+<p><code>s</code>: 套接口文件/数据接口文件</p>
+<p><em>后四种是特殊文件</em></p>
+</li>
+</ul>
+<h2 id="文件权限对应关系">文件权限对应关系</h2>
+<table>
+<thead>
+<tr>
+<th>权限</th>
+<th>含义</th>
+<th>对应数字</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>r</td>
+<td>读权限</td>
+<td>4</td>
+</tr>
+<tr>
+<td>w</td>
+<td>写权限</td>
+<td>2</td>
+</tr>
+<tr>
+<td>x</td>
+<td>执行权限</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p>读、写、运行三项权限用数字表示就是 <strong>r=4,w=2,x=1</strong>。所以，<code>-rw-r--r--</code> 用数字表示成 644。</p>
+<p>权限字段 <code>-rwxrwxrwx</code> 的内容总共会有 10 个 <code>-</code>，第一个表示文件类型，如该文件是<strong>文件 (-表示）</strong>，<strong>文件夹 (d 表示）</strong>, <strong>连接文件 (l 表示）</strong>，后面 9 个按照每三位为一组分。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">drwxr-xr-x   <span class="m">5</span> liruihao  staff   160B Jul <span class="m">29</span> 17:48 file-share
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><strong>d</strong>: 代表文件夹</p>
+<p><strong>rwx</strong>: 代表文件所有者 (u 表示）权限，这里是 liruihao，liruihao 对该文件拥有读写执行权限。</p>
+<p><strong>r-x</strong>: 代表所属（g 表示）的权限，这里同组用户拥有对该文件读和执行的权限。</p>
+<p><strong>r-x</strong>: 代表其他用户（o 表示）的权限，这里和上面权限一样。</p>]]></description>
 </item>
 </channel>
 </rss>
