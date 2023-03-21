@@ -741,38 +741,58 @@
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-tex" data-lang="tex"><span class="line"><span class="cl"><div class="typeit"><h4 id="id-1"></h4></div>
+<pre tabindex="0" class="chroma"><code class="language-tex" data-lang="tex"><span class="line"><span class="cl"><span class="nb">{{</span>&lt; typeit tag=h4 &gt;<span class="nb">}}</span>
+</span></span><span class="line"><span class="cl">这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
+</span></span><span class="line"><span class="cl"><span class="nb">{{</span>&lt; /typeit &gt;<span class="nb">}}</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit" data-loop="false"><div id="id-2"></div></div>
+<div class="typeit" data-loop="false"><div id="id-1"></div></div>
 <p>另外，你也可以自定义 <strong>HTML 标签</strong>.</p>
 <p>一个带有 <code>h4</code> 标签的 <code>typeit</code> 示例：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit"><h4 id="id-3"></h4></div>
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">typeit</span> <span class="na">tag</span><span class="o">=</span><span class="s">h4</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit"><h4 id="id-4"></h4></div>
+<div class="typeit"><h4 id="id-2"></h4></div>
 <h2 id="代码内容">代码内容</h2>
 <p>代码内容也是允许的，并且通过使用参数 <code>code</code> 指定语言类型可以实习语法高亮。</p>
 <p>一个带有 <code>code</code> 参数的 <code>typeit</code> 示例：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit"><div id="id-5" class="highlight"></div></div>
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">typeit</span> <span class="na">code</span><span class="o">=</span><span class="s">java</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">public class HelloWorld {
+</span></span><span class="line"><span class="cl">    public static void main(String []args) {
+</span></span><span class="line"><span class="cl">        System.out.println(&#34;Hello World&#34;);
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit"><div id="id-6" class="highlight"></div></div>
+<div class="typeit"><div id="id-3" class="highlight"></div></div>
 <h2 id="分组内容">分组内容</h2>
 <p>默认情况下，所有打字动画都是同时开始的。 但是有时你可能需要按顺序开始一组 <code>typeit</code> 内容的打字动画。</p>
 <p>一组具有相同 <code>group</code> 参数值的 <code>typeit</code> 内容将按顺序开始打字动画。</p>
@@ -782,16 +802,24 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit" data-loop="false"><div id="id-7"></div></div>
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">typeit</span> <span class="na">group</span><span class="o">=</span><span class="s">paragraph</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">**首先**, 这个段落开始
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
 </span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><div class="typeit" data-loop="false"><div id="id-8"></div></div>
+</span></span><span class="line"><span class="cl">{{<span class="err">&lt;</span>/* typeit group=paragraph &gt;}}
+</span></span><span class="line"><span class="cl">**然后**, 这个段落开始
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit" data-loop="false"><div id="id-9"></div></div>
-<div class="typeit" data-loop="false"><div id="id-10"></div></div>]]></description>
+<div class="typeit" data-loop="false"><div id="id-4"></div></div>
+<div class="typeit" data-loop="false"><div id="id-5"></div></div>]]></description>
 </item>
 <item>
   <title>扩展 Shortcodes</title>

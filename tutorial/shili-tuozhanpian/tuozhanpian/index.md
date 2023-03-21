@@ -36,9 +36,9 @@
 一个 `typeit` 示例：
 
 ```tex
-{{< typeit tag=h4 >}}
+{{</* typeit tag=h4 */>}}
 这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-{{< /typeit >}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
@@ -52,9 +52,9 @@
 一个带有 `h4` 标签的 `typeit` 示例：
 
 ```html
-{{< typeit tag=h4 >}}
+{{</* typeit tag=h4 */>}}
 这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-{{< /typeit >}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
@@ -70,13 +70,13 @@
 一个带有 `code` 参数的 `typeit` 示例：
 
 ```html
-{{< typeit code=java >}}
+{{</* typeit code=java */>}}
 public class HelloWorld {
     public static void main(String []args) {
         System.out.println("Hello World");
     }
 }
-{{< /typeit >}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
@@ -98,13 +98,13 @@ public class HelloWorld {
 一个带有 `group` 参数的 `typeit` 示例：
 
 ```html
-{{< typeit group=paragraph >}}
+{{</* typeit group=paragraph */>}}
 **首先**, 这个段落开始
-{{< /typeit >}}
+{{</* /typeit >}}
 
-{{< typeit group=paragraph >}}
+{{</* typeit group=paragraph */>}}
 **然后**, 这个段落开始
-{{< /typeit >}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
