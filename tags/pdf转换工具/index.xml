@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>pdf转换工具 - 标签 - 拾趣资源</title>
+    <link>https://shiqustudio.github.io/tags/pdf%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/</link>
+    <description>pdf转换工具 - 标签 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/pdf%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/" rel="self" type="application/rss+xml" /><item>
+  <title>pdf转word等格式工具</title>
+  <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>
+<h1 id="pdf类型科普">📚PDF类型【科普】</h1>
+<p><strong>在转换PDF文档前，我们要先了解所转换的PDF文档是属于什么编码类型</strong></p>
+<p><strong>PDF文档分：标准编码的文字型PDF 和 非标准编码的文字型PDF</strong></p>
+<p>👉 <a href="https://www.yuque.com/xtranslator/zy/qnizp1"target="_blank" rel="external nofollow noopener noreferrer">详情了解 《标准编码的文字型PDF定义及非标准编码PDF类型》</a></p>
+<p><strong>标准编码的文字型PDF：</strong></p>
+<blockquote>
+<p>PDF中可以正确的选中文字、复制它，并粘贴到记事本中之后看到的文字和pdf中相同，故<code>标准编码的PDF</code>可以直接无损转换，有些带OCR功能的软件可以直接转换图片的文字</p>
+</blockquote>
+<figure><figcaption>
+            <h4>Lighthouse (figure)</h4>
+        </figcaption>
+</figure>
+
+<p><strong>非标准编码的文字型PDF：</strong></p>
+<blockquote>
+<p>PDF文档大部分都是不能选中文字、复制它，因为基本都是图片形式</p>
+<p>这类PDF文档就要利用第三方软件转换成可编辑的标准编码格式,再进行转换</p>
+<p>👉 转换软件：<a href="https://wwc.lanzoul.com/i4lBM0cajm4d"target="_blank" rel="external nofollow noopener noreferrer">蓝奏云</a></p>
+</blockquote>
+<figure><figcaption>
+            <h4>Lighthouse (figure)</h4>
+        </figcaption>
+</figure>]]></description>
+</item>
+</channel>
+</rss>
