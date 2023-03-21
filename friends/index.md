@@ -11,7 +11,7 @@
 ## 基本資訊
 
 ```yaml
-- nickname: 菠菜眾長
+- nickname: 拾趣
   avatar: https://shiqustudio.github.io/images/avatar.jpg
   url: https://shiqustudio.github.io
   description: 不怕萬人阻擋，只怕自己投降
