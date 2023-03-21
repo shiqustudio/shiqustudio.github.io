@@ -12,8 +12,8 @@
 
 ```yaml
 - nickname: 菠菜眾長
-  avatar: https://lruihao.cn/images/avatar.jpg
-  url: https://xc.xcapp.live
+  avatar: https://shiqustudio.github.io/images/avatar.jpg
+  url: https://shiqustudio.github.io
   description: 不怕萬人阻擋，只怕自己投降
 ```
 
