@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Laravel - 标签 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/tags/laravel/</link>
+    <link>https://xc.xcapp.live/tags/laravel/</link>
     <description>Laravel - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/laravel/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/tags/laravel/" rel="self" type="application/rss+xml" /><item>
   <title>cell-blog 功能介绍与安装</title>
-  <link>https://shiqustudio.github.io/books/cell-blog/</link>
+  <link>https://xc.xcapp.live/books/cell-blog/</link>
   <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/books/cell-blog/</guid>
+  <guid>https://xc.xcapp.live/books/cell-blog/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -191,10 +191,10 @@
 </item>
 <item>
   <title>cell-blog 功能介绍与安装</title>
-  <link>https://shiqustudio.github.io/projects/cell-blog/</link>
+  <link>https://xc.xcapp.live/projects/cell-blog/</link>
   <pubDate>Sat, 25 Jul 2020 20:51:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/projects/cell-blog/</guid>
+  <guid>https://xc.xcapp.live/projects/cell-blog/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://i.loli.net/2020/05/11/vHeNRG4Qi7ljrM8.png" referrerpolicy="no-referrer">
       </div><blockquote>

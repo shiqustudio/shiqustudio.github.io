@@ -5,5 +5,5 @@
 ---
 
 > 作者: Suroppo  
-> URL: https://shiqustudio.github.io/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/  
+> URL: https://xc.xcapp.live/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/  
 

@@ -21,5 +21,5 @@
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/1thintervivew/  
+> URL: https://xc.xcapp.live/1thintervivew/  
 

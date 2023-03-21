@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>watermark - 标签 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/tags/watermark/</link>
+    <link>https://xc.xcapp.live/tags/watermark/</link>
     <description>watermark - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/watermark/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/tags/watermark/" rel="self" type="application/rss+xml" /><item>
   <title>Cell Watermark</title>
-  <link>https://shiqustudio.github.io/projects/cell-watermark/</link>
+  <link>https://xc.xcapp.live/projects/cell-watermark/</link>
   <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/projects/cell-watermark/</guid>
+  <guid>https://xc.xcapp.live/projects/cell-watermark/</guid>
   <description><![CDATA[<h1 id="usage">Usage</h1>
 <h2 id="browser">Browser</h2>
 <ol>
@@ -243,10 +243,10 @@
 </item>
 <item>
   <title>Cell Watermark</title>
-  <link>https://shiqustudio.github.io/shili-qusurukou/cell-watermark/</link>
+  <link>https://xc.xcapp.live/shili-qusurukou/cell-watermark/</link>
   <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-qusurukou/cell-watermark/</guid>
+  <guid>https://xc.xcapp.live/shili-qusurukou/cell-watermark/</guid>
   <description><![CDATA[<h1 id="usage">Usage</h1>
 <h2 id="browser">Browser</h2>
 <ol>

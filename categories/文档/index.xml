@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>文档 - 分类 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/categories/%E6%96%87%E6%A1%A3/</link>
+    <link>https://xc.xcapp.live/categories/%E6%96%87%E6%A1%A3/</link>
     <description>文档 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E6%96%87%E6%A1%A3/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/categories/%E6%96%87%E6%A1%A3/" rel="self" type="application/rss+xml" /><item>
   <title>进阶篇</title>
-  <link>https://shiqustudio.github.io/shili-jinjiepian/kuaisushangshou/</link>
+  <link>https://xc.xcapp.live/shili-jinjiepian/kuaisushangshou/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-jinjiepian/kuaisushangshou/</guid>
+  <guid>https://xc.xcapp.live/shili-jinjiepian/kuaisushangshou/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/shili-jinjiepian/kuaisushangshou/images/featured-image.png" referrerpolicy="no-referrer">
       </div><p>探索 Hugo - <strong>FixIt</strong> 主题的的进阶使用。</p>
@@ -192,10 +192,10 @@
 </item>
 <item>
   <title>进阶篇</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</link>
+  <link>https://xc.xcapp.live/tutorial/shili-jinjiepian/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</guid>
+  <guid>https://xc.xcapp.live/tutorial/shili-jinjiepian/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/tutorial/shili-jinjiepian/images/featured-image.png" referrerpolicy="no-referrer">
       </div><p>探索 Hugo - <strong>FixIt</strong> 主题的的进阶使用。</p>
@@ -379,10 +379,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - bilibili</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
+  <link>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
+  <guid>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -436,10 +436,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - bilibili</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
+  <link>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
+  <guid>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -493,10 +493,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - echarts</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
+  <link>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
+  <guid>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -540,10 +540,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - echarts</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
+  <link>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
+  <guid>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -587,10 +587,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - mapbox</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
+  <link>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
+  <guid>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -681,10 +681,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - mapbox</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
+  <link>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
+  <guid>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -775,10 +775,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - mermaid</title>
-  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
+  <link>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
+  <guid>https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -1128,10 +1128,10 @@
 </item>
 <item>
   <title>扩展 Shortcode - mermaid</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
+  <link>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
+  <guid>https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>

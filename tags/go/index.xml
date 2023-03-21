@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Go - 标签 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/tags/go/</link>
+    <link>https://xc.xcapp.live/tags/go/</link>
     <description>Go - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/go/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</lastBuildDate><atom:link href="https://xc.xcapp.live/tags/go/" rel="self" type="application/rss+xml" /><item>
   <title>Beego 安装及配置</title>
-  <link>https://shiqustudio.github.io/beego-install/</link>
+  <link>https://xc.xcapp.live/beego-install/</link>
   <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/beego-install/</guid>
+  <guid>https://xc.xcapp.live/beego-install/</guid>
   <description><![CDATA[<p>记录 GO 及 Beego 框架安装及基础配置。</p>
 <h2 id="安装-go">安装 Go</h2>
 <ol>

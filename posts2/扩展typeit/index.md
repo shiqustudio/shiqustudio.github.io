@@ -13,5 +13,5 @@ sssssssssssssssssssssss
 ---
 
 > 作者: map[avatar:<nil> email:<nil> link:<nil> name:<nil>]  
-> URL: https://shiqustudio.github.io/posts2/%E6%89%A9%E5%B1%95typeit/  
+> URL: https://xc.xcapp.live/posts2/%E6%89%A9%E5%B1%95typeit/  
 

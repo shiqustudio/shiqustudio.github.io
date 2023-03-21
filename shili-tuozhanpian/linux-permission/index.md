@@ -72,5 +72,5 @@ drwxr-xr-x   5 liruihao  staff   160B Jul 29 17:48 file-share
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/shili-tuozhanpian/linux-permission/  
+> URL: https://xc.xcapp.live/shili-tuozhanpian/linux-permission/  
 > 转载 URL: https://blog.csdn.net/icanlove/article/details/39667265/

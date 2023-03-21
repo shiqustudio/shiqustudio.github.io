@@ -43,5 +43,5 @@ https://www.bilibili.com/video/BV1TJ411C7An?p=3
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/  
+> URL: https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/  
 

@@ -59,5 +59,5 @@ console.log(site.name);
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/about/  
+> URL: https://xc.xcapp.live/about/  
 

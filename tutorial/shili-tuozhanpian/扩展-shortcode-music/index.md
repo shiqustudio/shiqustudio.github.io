@@ -145,5 +145,5 @@
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/  
+> URL: https://xc.xcapp.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/  
 

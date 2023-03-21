@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>JavaScript - 标签 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/tags/javascript/</link>
+    <link>https://xc.xcapp.live/tags/javascript/</link>
     <description>JavaScript - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/javascript/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 23 May 2021 17:15:41 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/tags/javascript/" rel="self" type="application/rss+xml" /><item>
   <title>Cell Watermark</title>
-  <link>https://shiqustudio.github.io/projects/cell-watermark/</link>
+  <link>https://xc.xcapp.live/projects/cell-watermark/</link>
   <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/projects/cell-watermark/</guid>
+  <guid>https://xc.xcapp.live/projects/cell-watermark/</guid>
   <description><![CDATA[<h1 id="usage">Usage</h1>
 <h2 id="browser">Browser</h2>
 <ol>
@@ -243,10 +243,10 @@
 </item>
 <item>
   <title>Cell Watermark</title>
-  <link>https://shiqustudio.github.io/shili-qusurukou/cell-watermark/</link>
+  <link>https://xc.xcapp.live/shili-qusurukou/cell-watermark/</link>
   <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/shili-qusurukou/cell-watermark/</guid>
+  <guid>https://xc.xcapp.live/shili-qusurukou/cell-watermark/</guid>
   <description><![CDATA[<h1 id="usage">Usage</h1>
 <h2 id="browser">Browser</h2>
 <ol>
@@ -481,10 +481,10 @@
 </item>
 <item>
   <title>基于 leancloud-storage 实现的无后端记账本</title>
-  <link>https://shiqustudio.github.io/projects/bill-note/</link>
+  <link>https://xc.xcapp.live/projects/bill-note/</link>
   <pubDate>Tue, 02 Mar 2021 21:46:40 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/projects/bill-note/</guid>
+  <guid>https://xc.xcapp.live/projects/bill-note/</guid>
   <description><![CDATA[<h2 id="起因">起因</h2>
 <div class="details admonition info open">
     <div class="details-summary admonition-title">
@@ -764,10 +764,10 @@ valine 可以實現無後端，那我是不是也可以，leancloud 文檔走一
 </item>
 <item>
   <title>利用腾讯云为静态页面添加“动态”相册</title>
-  <link>https://shiqustudio.github.io/projects/cos-album/</link>
+  <link>https://xc.xcapp.live/projects/cos-album/</link>
   <pubDate>Sun, 24 Nov 2019 10:52:34 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/projects/cos-album/</guid>
+  <guid>https://xc.xcapp.live/projects/cos-album/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/projects/cos-album/images/view.png" referrerpolicy="no-referrer">
       </div><div class="details admonition info open">
@@ -961,10 +961,10 @@ hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用
 </item>
 <item>
   <title>script 的三种加载方式 (async, defer)</title>
-  <link>https://shiqustudio.github.io/async-defer/</link>
+  <link>https://xc.xcapp.live/async-defer/</link>
   <pubDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/async-defer/</guid>
+  <guid>https://xc.xcapp.live/async-defer/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/async-defer/images/async_vs_defer.svg" referrerpolicy="no-referrer">
       </div><div class="details admonition note open">

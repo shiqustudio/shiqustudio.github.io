@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Memo - 分类 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/categories/memo/</link>
+    <link>https://xc.xcapp.live/categories/memo/</link>
     <description>Memo - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/memo/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</lastBuildDate><atom:link href="https://xc.xcapp.live/categories/memo/" rel="self" type="application/rss+xml" /><item>
   <title>Mac 配置 ADB</title>
-  <link>https://shiqustudio.github.io/adb-for-mac/</link>
+  <link>https://xc.xcapp.live/adb-for-mac/</link>
   <pubDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/adb-for-mac/</guid>
+  <guid>https://xc.xcapp.live/adb-for-mac/</guid>
   <description><![CDATA[<p>作为非安卓专业开发，无需下载 Android SDK，<br>
 仅下载 Android SDK 中的 <a href="https://developer.android.com/studio/releases/platform-tools?hl=zh-cn"target="_blank" rel="external nofollow noopener noreferrer">platform-tools</a> 命令行工具即可，并配置好环境变量。</p>
 <h2 id="安装">安装</h2>
@@ -74,10 +74,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>hexo 博客源码备份</title>
-  <link>https://shiqustudio.github.io/blog-backup/</link>
+  <link>https://xc.xcapp.live/blog-backup/</link>
   <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/blog-backup/</guid>
+  <guid>https://xc.xcapp.live/blog-backup/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/blog-backup/images/1.png" referrerpolicy="no-referrer">
       </div><h2 id="备份-hexo-博客">备份 hexo 博客</h2>

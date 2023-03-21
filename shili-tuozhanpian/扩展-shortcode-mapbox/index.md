@@ -85,5 +85,5 @@
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/  
+> URL: https://xc.xcapp.live/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/  
 
