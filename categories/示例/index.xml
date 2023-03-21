@@ -3,7 +3,69 @@
     <title>示例 - 分类 - 拾趣资源</title>
     <link>https://shiqustudio.github.io/categories/%E7%A4%BA%E4%BE%8B/</link>
     <description>示例 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E7%A4%BA%E4%BE%8B/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E7%A4%BA%E4%BE%8B/" rel="self" type="application/rss+xml" /><item>
+  <title>常见问答</title>
+  <link>https://shiqustudio.github.io/question/</link>
+  <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/question/</guid>
+  <description><![CDATA[<blockquote>
+<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions</a> 和 QQ 群：<code>403144966</code>。</p>
+</blockquote>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>为什么不支持早期版本的 Hugo？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">由于 <a href="https://gohugo.io/functions/path.clean/"target="_blank" rel="external nofollow noopener noreferrer">函数 <code>path.Clean</code></a> 在 <a href="https://github.com/gohugoio/hugo/releases/tag/v0.89.0"target="_blank" rel="external nofollow noopener noreferrer">Hugo 发行版 v0.89.0</a> 中被引入的，因此本主题只支持不低于 <strong>0.89.0</strong> 的 Hugo 版本。</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>为什么推荐使用 Hugo extended 版本？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">由于这个主题的一些特性需要将 SCSS 转换为 CSS, 推荐使用 Hugo <strong>extended</strong> 版本来获得更好的使用体验。</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>如何切换 Hugo 的运行环境？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p><code>hugo server</code> 的默认运行环境是 <code>development</code>, 而 <code>hugo</code> 的默认运行环境是 <code>production</code>。</p>
+<p>由于本地 <code>development</code> 环境的限制， <strong>评论系统</strong> , <strong>CDN</strong> 和 <strong>fingerprint</strong> 不会在 <code>development</code> 环境下启用。</p>
+<p>你可以使用 <code>hugo server -e production</code> 命令来开启这些特性。</p>
+</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>怎样选择搜索引擎？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>以下是两种搜索引擎的对比：</p>
+<ul>
+<li><code>fuse</code>: 简单，无需同步 <code>index.json</code>, 没有 <code>contentLength</code> 的限制，性能高</li>
+<li><code>lunr</code>: 简单，无需同步 <code>index.json</code>, 没有 <code>contentLength</code> 的限制，但占用带宽大且性能低（特别是中文需要一个较大的分词依赖库）</li>
+<li><code>algolia</code>: 高性能并且占用带宽低，但需要同步 <code>index.json</code> 且有 <code>contentLength</code> 的限制</li>
+</ul>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.3"target="_blank" rel="external nofollow noopener noreferrer"></a> 文章内容被 <code>h2</code> 和 <code>h3</code> HTML 标签切分来提高查询效果并且基本实现全文搜索。 <code>contentLength</code> 用来限制 <code>h2</code> 和 <code>h3</code> HTML 标签开头的内容部分的最大长度。</p>
+</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>其他问题？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><div id="id-2"><div class="typeit"><div id="id-1" class="highlight"></div></div>
+</div>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
   <title>扩展 Shortcode - bilibili</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
@@ -1787,122 +1849,6 @@ this is a center-quote shortcode example.
 <p>“最简单的密码，就足以防住 90% 的人！”</p>
 <p>隐私无小事，重要私密的内容请勿上传，各自妥善保管！</p>
 </blockquote>]]></description>
-</item>
-<item>
-  <title>linux 文件权限</title>
-  <link>https://shiqustudio.github.io/tutorial/linux-permission/</link>
-  <pubDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/linux-permission/</guid>
-  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>
-<h2 id="查看文件权限">查看文件权限</h2>
-<p>查看 linux 系统下的文件权限，可以使用 <code>ll</code> 命令或者 <code>ls</code> 命令 带 <code>-l</code>（长列表选项）</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">➜  ~ ll
-</span></span><span class="line"><span class="cl">total <span class="m">160</span>
-</span></span><span class="line"><span class="cl">drwx------@  <span class="m">8</span> liruihao  staff   256B Jul  <span class="m">5</span> 14:47 Applications
-</span></span><span class="line"><span class="cl">drwx------@ <span class="m">10</span> liruihao  staff   320B Jul <span class="m">27</span> 11:31 Desktop
-</span></span><span class="line"><span class="cl">drwx------+  <span class="m">7</span> liruihao  staff   224B Jun <span class="m">17</span> 15:01 Documents
-</span></span><span class="line"><span class="cl">drwx------@ <span class="m">22</span> liruihao  staff   704B Jul <span class="m">29</span> 16:35 Downloads
-</span></span><span class="line"><span class="cl">drwx------@ <span class="m">94</span> liruihao  staff   2.9K Jul <span class="m">23</span> 19:02 Library
-</span></span><span class="line"><span class="cl">drwx------   <span class="m">4</span> liruihao  staff   128B Nov <span class="m">13</span>  <span class="m">2021</span> Movies
-</span></span><span class="line"><span class="cl">drwx------+  <span class="m">6</span> liruihao  staff   192B Nov <span class="m">18</span>  <span class="m">2021</span> Music
-</span></span><span class="line"><span class="cl">drwx------+  <span class="m">9</span> liruihao  staff   288B Apr <span class="m">26</span> 10:25 Pictures
-</span></span><span class="line"><span class="cl">drwxr-xr-x+  <span class="m">5</span> liruihao  staff   160B Nov <span class="m">14</span>  <span class="m">2021</span> Public
-</span></span><span class="line"><span class="cl">drwxr-xr-x   <span class="m">5</span> liruihao  staff   160B Jul <span class="m">29</span> 17:48 file-share
-</span></span><span class="line"><span class="cl">drwxr-xr-x   <span class="m">3</span> liruihao  staff    96B Jul <span class="m">26</span> 17:17 node_modules
-</span></span><span class="line"><span class="cl">-rw-r--r--   <span class="m">1</span> liruihao  staff    27B Jun <span class="m">24</span> 13:47 package-lock.json
-</span></span><span class="line"><span class="cl">drwxr-xr-x  <span class="m">20</span> liruihao  staff   640B Jul <span class="m">29</span> 22:20 workspace
-</span></span><span class="line"><span class="cl">-rw-r--r--   <span class="m">1</span> liruihao  staff    86B Jul <span class="m">26</span> 17:17 yarn.lock
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>文件列表信息分为：文件类型、权限、链接数、所属用户、所属用户组、文件大小、最后修改时间、文件名。</p>
-<h2 id="文件类型">文件类型</h2>
-<p>linux 一共有 7 种文件类型，分别如下：</p>
-<ul>
-<li>
-<p><code>-</code>: 普通文件</p>
-</li>
-<li>
-<p><code>d</code>: 目录文件</p>
-</li>
-<li>
-<p><code>l</code>: 链接文件</p>
-</li>
-<li>
-<p><code>b</code>: 块设备文件</p>
-</li>
-<li>
-<p><code>p</code>: 管道文件</p>
-</li>
-<li>
-<p><code>c</code>: 字符设备文件</p>
-</li>
-<li>
-<p><code>s</code>: 套接口文件/数据接口文件</p>
-<p><em>后四种是特殊文件</em></p>
-</li>
-</ul>
-<h2 id="文件权限对应关系">文件权限对应关系</h2>
-<table>
-<thead>
-<tr>
-<th>权限</th>
-<th>含义</th>
-<th>对应数字</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>r</td>
-<td>读权限</td>
-<td>4</td>
-</tr>
-<tr>
-<td>w</td>
-<td>写权限</td>
-<td>2</td>
-</tr>
-<tr>
-<td>x</td>
-<td>执行权限</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
-<p>读、写、运行三项权限用数字表示就是 <strong>r=4,w=2,x=1</strong>。所以，<code>-rw-r--r--</code> 用数字表示成 644。</p>
-<p>权限字段 <code>-rwxrwxrwx</code> 的内容总共会有 10 个 <code>-</code>，第一个表示文件类型，如该文件是<strong>文件 (-表示）</strong>，<strong>文件夹 (d 表示）</strong>, <strong>连接文件 (l 表示）</strong>，后面 9 个按照每三位为一组分。</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">drwxr-xr-x   <span class="m">5</span> liruihao  staff   160B Jul <span class="m">29</span> 17:48 file-share
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p><strong>d</strong>: 代表文件夹</p>
-<p><strong>rwx</strong>: 代表文件所有者 (u 表示）权限，这里是 liruihao，liruihao 对该文件拥有读写执行权限。</p>
-<p><strong>r-x</strong>: 代表所属（g 表示）的权限，这里同组用户拥有对该文件读和执行的权限。</p>
-<p><strong>r-x</strong>: 代表其他用户（o 表示）的权限，这里和上面权限一样。</p>]]></description>
 </item>
 </channel>
 </rss>
