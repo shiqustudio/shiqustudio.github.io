@@ -169,5 +169,5 @@ $$ c = \pm\sqrt{a^2 + b^2} $$
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/  
+> URL: https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/  
 

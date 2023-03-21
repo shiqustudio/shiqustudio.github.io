@@ -1122,5 +1122,5 @@ menu:
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/tutorial/shili-rumenpian/  
+> URL: https://shiqustudio.github.io/tutorial/shili-rumenpian/  
 

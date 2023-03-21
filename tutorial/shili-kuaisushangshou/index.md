@@ -197,5 +197,5 @@ hugo
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/tutorial/shili-kuaisushangshou/  
+> URL: https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/  
 

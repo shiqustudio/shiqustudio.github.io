@@ -121,5 +121,5 @@ public class HelloWorld {
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/tutorial/shili-tuozhanpian/tuozhanpian/  
+> URL: https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/  
 

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Node - 标签 - 拾趣资源</title>
-    <link>https://xc.xcapp.live/tags/node/</link>
+    <link>https://shiqustudio.github.io/tags/node/</link>
     <description>Node - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/tags/node/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/node/" rel="self" type="application/rss+xml" /><item>
   <title>hexo 博客源码备份</title>
-  <link>https://xc.xcapp.live/blog-backup/</link>
+  <link>https://shiqustudio.github.io/blog-backup/</link>
   <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/blog-backup/</guid>
+  <guid>https://shiqustudio.github.io/blog-backup/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/blog-backup/images/1.png" referrerpolicy="no-referrer">
       </div><h2 id="备份-hexo-博客">备份 hexo 博客</h2>

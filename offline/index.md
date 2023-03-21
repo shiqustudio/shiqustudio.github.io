@@ -7,5 +7,5 @@
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/offline/  
+> URL: https://shiqustudio.github.io/offline/  
 

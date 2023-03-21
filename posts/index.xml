@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>所有文章 - 拾趣资源</title>
-    <link>https://xc.xcapp.live/posts/</link>
+    <link>https://shiqustudio.github.io/posts/</link>
     <description>所有文章 | 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</lastBuildDate><atom:link href="https://xc.xcapp.live/posts/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
   <title>Adjacent Replacements</title>
-  <link>https://xc.xcapp.live/adjacent-replacements/</link>
+  <link>https://shiqustudio.github.io/adjacent-replacements/</link>
   <pubDate>Sun, 22 Jul 2018 11:54:14 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/adjacent-replacements/</guid>
+  <guid>https://shiqustudio.github.io/adjacent-replacements/</guid>
   <description><![CDATA[<p><a href="https://codeforces.com/contest/1006/problem/A"target="_blank" rel="external nofollow noopener noreferrer">A. Adjacent Replacements</a></p>
 <p>第一次打 cf 就做出一道这样的找规律的题，打到自闭。</p>
 <div class="highlight"><div class="chroma">
@@ -53,10 +53,10 @@
 </item>
 <item>
   <title>第一次面试经历</title>
-  <link>https://xc.xcapp.live/1thintervivew/</link>
+  <link>https://shiqustudio.github.io/1thintervivew/</link>
   <pubDate>Wed, 24 Apr 2019 21:23:22 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/1thintervivew/</guid>
+  <guid>https://shiqustudio.github.io/1thintervivew/</guid>
   <description><![CDATA[<blockquote>
 <p>时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。</p>
 </blockquote>
@@ -80,10 +80,10 @@
 </item>
 <item>
   <title>script 的三种加载方式 (async, defer)</title>
-  <link>https://xc.xcapp.live/async-defer/</link>
+  <link>https://shiqustudio.github.io/async-defer/</link>
   <pubDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/async-defer/</guid>
+  <guid>https://shiqustudio.github.io/async-defer/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/async-defer/images/async_vs_defer.svg" referrerpolicy="no-referrer">
       </div><div class="details admonition note open">
@@ -168,10 +168,10 @@
 </item>
 <item>
   <title>Mac 配置 ADB</title>
-  <link>https://xc.xcapp.live/adb-for-mac/</link>
+  <link>https://shiqustudio.github.io/adb-for-mac/</link>
   <pubDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/adb-for-mac/</guid>
+  <guid>https://shiqustudio.github.io/adb-for-mac/</guid>
   <description><![CDATA[<p>作为非安卓专业开发，无需下载 Android SDK，<br>
 仅下载 Android SDK 中的 <a href="https://developer.android.com/studio/releases/platform-tools?hl=zh-cn"target="_blank" rel="external nofollow noopener noreferrer">platform-tools</a> 命令行工具即可，并配置好环境变量。</p>
 <h2 id="安装">安装</h2>
@@ -237,10 +237,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>Beego 安装及配置</title>
-  <link>https://xc.xcapp.live/beego-install/</link>
+  <link>https://shiqustudio.github.io/beego-install/</link>
   <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/beego-install/</guid>
+  <guid>https://shiqustudio.github.io/beego-install/</guid>
   <description><![CDATA[<p>记录 GO 及 Beego 框架安装及基础配置。</p>
 <h2 id="安装-go">安装 Go</h2>
 <ol>
@@ -328,10 +328,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>Beego 安装及配置</title>
-  <link>https://xc.xcapp.live/beego-install/</link>
+  <link>https://shiqustudio.github.io/beego-install/</link>
   <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/beego-install/</guid>
+  <guid>https://shiqustudio.github.io/beego-install/</guid>
   <description><![CDATA[<p>记录 GO 及 Beego 框架安装及基础配置。</p>
 <h2 id="安装-go">安装 Go</h2>
 <ol>
@@ -419,10 +419,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>Mac 配置 ADB</title>
-  <link>https://xc.xcapp.live/adb-for-mac/</link>
+  <link>https://shiqustudio.github.io/adb-for-mac/</link>
   <pubDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/adb-for-mac/</guid>
+  <guid>https://shiqustudio.github.io/adb-for-mac/</guid>
   <description><![CDATA[<p>作为非安卓专业开发，无需下载 Android SDK，<br>
 仅下载 Android SDK 中的 <a href="https://developer.android.com/studio/releases/platform-tools?hl=zh-cn"target="_blank" rel="external nofollow noopener noreferrer">platform-tools</a> 命令行工具即可，并配置好环境变量。</p>
 <h2 id="安装">安装</h2>
@@ -488,10 +488,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>script 的三种加载方式 (async, defer)</title>
-  <link>https://xc.xcapp.live/async-defer/</link>
+  <link>https://shiqustudio.github.io/async-defer/</link>
   <pubDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/async-defer/</guid>
+  <guid>https://shiqustudio.github.io/async-defer/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/async-defer/images/async_vs_defer.svg" referrerpolicy="no-referrer">
       </div><div class="details admonition note open">
@@ -576,10 +576,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>第一次面试经历</title>
-  <link>https://xc.xcapp.live/1thintervivew/</link>
+  <link>https://shiqustudio.github.io/1thintervivew/</link>
   <pubDate>Wed, 24 Apr 2019 21:23:22 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/1thintervivew/</guid>
+  <guid>https://shiqustudio.github.io/1thintervivew/</guid>
   <description><![CDATA[<blockquote>
 <p>时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。</p>
 </blockquote>
@@ -603,10 +603,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>hexo 博客源码备份</title>
-  <link>https://xc.xcapp.live/blog-backup/</link>
+  <link>https://shiqustudio.github.io/blog-backup/</link>
   <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/blog-backup/</guid>
+  <guid>https://shiqustudio.github.io/blog-backup/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/blog-backup/images/1.png" referrerpolicy="no-referrer">
       </div><h2 id="备份-hexo-博客">备份 hexo 博客</h2>
@@ -681,10 +681,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>在线离线算法</title>
-  <link>https://xc.xcapp.live/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</link>
+  <link>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</link>
   <pubDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</guid>
+  <guid>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</guid>
   <description><![CDATA[<h2 id="在线算法httpsbaikebaiducomiteme59ca8e7babfe7ae97e6b3954449947"><a href="https://baike.baidu.com/item/%E5%9C%A8%E7%BA%BF%E7%AE%97%E6%B3%95/4449947"target="_blank" rel="external nofollow noopener noreferrer">在线算法</a></h2>
 <p>在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。</p>
 <p>在计算机科学中，一个在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。相对的，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。例如，选择排序在排序前就需要知道所有待排序元素，然而插入排序就不必。<br>
@@ -699,10 +699,10 @@ push 和 pull 命令时由于编码方式的不同会产生错误，因此需要
 </item>
 <item>
   <title>Adjacent Replacements</title>
-  <link>https://xc.xcapp.live/adjacent-replacements/</link>
+  <link>https://shiqustudio.github.io/adjacent-replacements/</link>
   <pubDate>Sun, 22 Jul 2018 11:54:14 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/adjacent-replacements/</guid>
+  <guid>https://shiqustudio.github.io/adjacent-replacements/</guid>
   <description><![CDATA[<p><a href="https://codeforces.com/contest/1006/problem/A"target="_blank" rel="external nofollow noopener noreferrer">A. Adjacent Replacements</a></p>
 <p>第一次打 cf 就做出一道这样的找规律的题，打到自闭。</p>
 <div class="highlight"><div class="chroma">

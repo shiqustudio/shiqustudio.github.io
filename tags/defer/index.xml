@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>defer - 标签 - 拾趣资源</title>
-    <link>https://xc.xcapp.live/tags/defer/</link>
+    <link>https://shiqustudio.github.io/tags/defer/</link>
     <description>defer - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/tags/defer/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/defer/" rel="self" type="application/rss+xml" /><item>
   <title>script 的三种加载方式 (async, defer)</title>
-  <link>https://xc.xcapp.live/async-defer/</link>
+  <link>https://shiqustudio.github.io/async-defer/</link>
   <pubDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/async-defer/</guid>
+  <guid>https://shiqustudio.github.io/async-defer/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/posts/async-defer/images/async_vs_defer.svg" referrerpolicy="no-referrer">
       </div><div class="details admonition note open">

@@ -310,5 +310,5 @@ hugo new offline/index.md
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/shili-neirongguanli/neirongguanli/  
+> URL: https://shiqustudio.github.io/shili-neirongguanli/neirongguanli/  
 

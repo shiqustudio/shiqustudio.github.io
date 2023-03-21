@@ -28,5 +28,5 @@ int main(){
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/adjacent-replacements/  
+> URL: https://shiqustudio.github.io/adjacent-replacements/  
 

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Grocery - 分类 - 拾趣资源</title>
-    <link>https://xc.xcapp.live/categories/grocery/</link>
+    <link>https://shiqustudio.github.io/categories/grocery/</link>
     <description>Grocery - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/categories/grocery/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/grocery/" rel="self" type="application/rss+xml" /><item>
   <title>在线离线算法</title>
-  <link>https://xc.xcapp.live/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</link>
+  <link>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</link>
   <pubDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</guid>
+  <guid>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</guid>
   <description><![CDATA[<h2 id="在线算法httpsbaikebaiducomiteme59ca8e7babfe7ae97e6b3954449947"><a href="https://baike.baidu.com/item/%E5%9C%A8%E7%BA%BF%E7%AE%97%E6%B3%95/4449947"target="_blank" rel="external nofollow noopener noreferrer">在线算法</a></h2>
 <p>在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。</p>
 <p>在计算机科学中，一个在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。相对的，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。例如，选择排序在排序前就需要知道所有待排序元素，然而插入排序就不必。<br>

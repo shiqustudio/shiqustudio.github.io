@@ -72,5 +72,5 @@ JS 的加载分为两个部分：下载和执行。
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/async-defer/  
+> URL: https://shiqustudio.github.io/async-defer/  
 

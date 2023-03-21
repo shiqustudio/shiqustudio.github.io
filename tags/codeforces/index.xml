@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Codeforces - 标签 - 拾趣资源</title>
-    <link>https://xc.xcapp.live/tags/codeforces/</link>
+    <link>https://shiqustudio.github.io/tags/codeforces/</link>
     <description>Codeforces - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 22 Jul 2018 11:54:14 &#43;0000</lastBuildDate><atom:link href="https://xc.xcapp.live/tags/codeforces/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 22 Jul 2018 11:54:14 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/codeforces/" rel="self" type="application/rss+xml" /><item>
   <title>Adjacent Replacements</title>
-  <link>https://xc.xcapp.live/adjacent-replacements/</link>
+  <link>https://shiqustudio.github.io/adjacent-replacements/</link>
   <pubDate>Sun, 22 Jul 2018 11:54:14 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://xc.xcapp.live/adjacent-replacements/</guid>
+  <guid>https://shiqustudio.github.io/adjacent-replacements/</guid>
   <description><![CDATA[<p><a href="https://codeforces.com/contest/1006/problem/A"target="_blank" rel="external nofollow noopener noreferrer">A. Adjacent Replacements</a></p>
 <p>第一次打 cf 就做出一道这样的找规律的题，打到自闭。</p>
 <div class="highlight"><div class="chroma">

@@ -96,5 +96,5 @@ Force destroy watermark
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/projects/cell-watermark/  
+> URL: https://shiqustudio.github.io/projects/cell-watermark/  
 

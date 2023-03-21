@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>项目 on 拾趣资源</title>
-    <link>https://xc.xcapp.live/projects/</link>
+    <link>https://shiqustudio.github.io/projects/</link>
     <description>Recent content in 项目 on 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://xc.xcapp.live/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://shiqustudio.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cell Watermark</title>
-      <link>https://xc.xcapp.live/projects/cell-watermark/</link>
+      <link>https://shiqustudio.github.io/projects/cell-watermark/</link>
       <pubDate>Sun, 23 May 2021 17:15:41 +0000</pubDate>
       
-      <guid>https://xc.xcapp.live/projects/cell-watermark/</guid>
+      <guid>https://shiqustudio.github.io/projects/cell-watermark/</guid>
       <description>Create watermark for webpage and automatic adjust when window resize.</description>
     </item>
     
     <item>
       <title>基于 leancloud-storage 实现的无后端记账本</title>
-      <link>https://xc.xcapp.live/projects/bill-note/</link>
+      <link>https://shiqustudio.github.io/projects/bill-note/</link>
       <pubDate>Tue, 02 Mar 2021 21:46:40 +0000</pubDate>
       
-      <guid>https://xc.xcapp.live/projects/bill-note/</guid>
+      <guid>https://shiqustudio.github.io/projects/bill-note/</guid>
       <description>&lt;h2 id=&#34;起因&#34;&gt;起因&lt;/h2&gt;
 &lt;div class=&#34;details admonition info open&#34;&gt;
     &lt;div class=&#34;details-summary admonition-title&#34;&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>cell-blog 功能介绍与安装</title>
-      <link>https://xc.xcapp.live/projects/cell-blog/</link>
+      <link>https://shiqustudio.github.io/projects/cell-blog/</link>
       <pubDate>Sat, 25 Jul 2020 20:51:11 +0000</pubDate>
       
-      <guid>https://xc.xcapp.live/projects/cell-blog/</guid>
+      <guid>https://shiqustudio.github.io/projects/cell-blog/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;基于 Laravel7 开发，Markdown 语法的个人独立博客。&lt;a href=&#34;https://github.com/Lruihao/cell-blog&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Cell Blog&lt;/a&gt;, 也是我的毕业设计作品，目前已開源。&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -48,10 +48,10 @@
     
     <item>
       <title>利用腾讯云为静态页面添加“动态”相册</title>
-      <link>https://xc.xcapp.live/projects/cos-album/</link>
+      <link>https://shiqustudio.github.io/projects/cos-album/</link>
       <pubDate>Sun, 24 Nov 2019 10:52:34 +0000</pubDate>
       
-      <guid>https://xc.xcapp.live/projects/cos-album/</guid>
+      <guid>https://shiqustudio.github.io/projects/cos-album/</guid>
       <description>&lt;div class=&#34;details admonition info open&#34;&gt;
     &lt;div class=&#34;details-summary admonition-title&#34;&gt;
       &lt;i class=&#34;icon fa-solid fa-info-circle fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;信息&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>沐目体</title>
-      <link>https://xc.xcapp.live/projects/font-mmt/</link>
+      <link>https://shiqustudio.github.io/projects/font-mmt/</link>
       <pubDate>Fri, 12 Oct 2018 19:39:19 +0000</pubDate>
       
-      <guid>https://xc.xcapp.live/projects/font-mmt/</guid>
+      <guid>https://shiqustudio.github.io/projects/font-mmt/</guid>
       <description>&lt;iframe class=&#34;manuscript&#34; src=&#34;https://hw.xiezixiansheng.com/mobile.php?c=Grzkreader&amp;a=fontshowPics&amp;u=qbfRl8gPF2s-&amp;z=Kqz%2FRroVGYc-&#34; style=&#34;width: 100%;height: 370px;margin-top: .25rem;&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     

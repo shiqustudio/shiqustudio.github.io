@@ -28,5 +28,5 @@
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/guestbook/  
+> URL: https://shiqustudio.github.io/guestbook/  
 

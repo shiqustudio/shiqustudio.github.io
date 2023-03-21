@@ -173,5 +173,5 @@ over!
 ---
 
 > 作者: [xucong](https://shiqustudio.github.io/)  
-> URL: https://xc.xcapp.live/projects/bill-note/  
+> URL: https://shiqustudio.github.io/projects/bill-note/  
 
