@@ -53,6 +53,8 @@
 
 {{< /admonition >}}
 
+没找到你的问题？加入 [讨论<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i>](https://github.com/hugo-fixit/FixIt/discussions/new?category=q-a) 或者 QQ 群：`403144966`。
+
 
 ---
 
