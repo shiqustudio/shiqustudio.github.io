@@ -10,7 +10,7 @@ class Blog {
     this.url = url;
   }
 }
-const site = new Blog('菠菜眾長', 'Lruihao', 'https://lruihao.cn');
+const site = new Blog('拾趣', 'Shiqu', 'https://lruihao.cn');
 console.log(site.name);
 {{< /typeit >}}
 {{< /style >}}
