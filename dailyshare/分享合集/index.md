@@ -23,9 +23,7 @@ ChatGPT学习宝典
 [https://gpt.candobear.com](https://gpt.candobear.com/)
 
 
-
 你可以下载主题的 [最新版本 <i class="fa-regular fa-file-archive fa-fw" aria-hidden="true"></i>.zip 文件<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i>](https://github.com/hugo-fixit/FixIt/releases) 并且解压放到 `themes` 目录。
-
 
 
 ---

@@ -32,6 +32,38 @@ note abstract info tip success question warning failure danger bug example quote
 {{< admonition example >}} 一个 **示例** 横幅 {{< /admonition >}}
 
 {{< admonition quote >}} 一个 **引用** 横幅 {{< /admonition >}}
+这是一段普通的文本
+
+# 这是一级标题
+## 这是二级标题
+### 这是三级标题
+#### 这是四级标题
+##### 这是五级标题
+###### 这是六级标题 
+>ddd
+- [x] 1
+- [x] 2
+###### 这是六级标题 
+**:joy:**
+[Hugo]^(一个开源的静态网站生成工具）
+> foo  
+> bar
+{#test-id .text-danger}
+## h2 标题
+### h3 标题
+#### h4 标题
+##### h5 标题
+###### h6 标题
+```
+> foo  
+> bar
+{#test-id .text-danger}
+```
+
+---
+## 11111
+## 222
+
 
 
 ---
