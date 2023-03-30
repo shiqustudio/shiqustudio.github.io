@@ -10,14 +10,14 @@
   <author>xucong</author>
   <guid>https://shiqustudio.github.io/question/</guid>
   <description><![CDATA[<blockquote>
-<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions</a> 和 QQ 群：<code>403144966</code>。</p>
+<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>403144966</code>。</p>
 </blockquote>
 <div class="details admonition question">
     <div class="details-summary admonition-title">
       <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>为什么不支持早期版本的 Hugo？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content">由于 <a href="https://gohugo.io/functions/path.clean/"target="_blank" rel="external nofollow noopener noreferrer">函数 <code>path.Clean</code></a> 在 <a href="https://github.com/gohugoio/hugo/releases/tag/v0.89.0"target="_blank" rel="external nofollow noopener noreferrer">Hugo 发行版 v0.89.0</a> 中被引入的，因此本主题只支持不低于 <strong>0.89.0</strong> 的 Hugo 版本。</div>
+      <div class="admonition-content">由于 <a href="https://gohugo.io/functions/path.clean/"target="_blank" rel="external nofollow noopener noreferrer">函数 <code>path.Clean</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 在 <a href="https://github.com/gohugoio/hugo/releases/tag/v0.89.0"target="_blank" rel="external nofollow noopener noreferrer">Hugo 发行版 v0.89.0<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中被引入的，因此本主题只支持不低于 <strong>0.89.0</strong> 的 Hugo 版本。</div>
     </div>
   </div>
 <div class="details admonition question">
