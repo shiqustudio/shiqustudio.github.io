@@ -1,9 +1,9 @@
-<h1 align="center">菠菜眾長</h1>
+<h1 align="center">拾趣</h1>
 
 <div align="center">
-博採眾長—取“兼收并蓄，博采众长。”之意。
+拾趣—取“拾分有趣”之意。
 
-[预览](https://lruihao.github.io/) | [源码](https://github.com/Lruihao/hugo-blog)
+[预览](https://shiqustudio.github.io/) | [源码](https://github.com/shiqustudio/hugo-blog)
 </div>
 
 ## Content management
@@ -14,8 +14,8 @@
 
 ## Copyright
 
-:copyright: 2018 - 2022 [Lruihao](https://github.com/Lruihao)
+:copyright: 2018 - 2022 [Shiqu](https://github.com/shiqustudio)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Lruihao/lruihao.github.io.svg)](https://starchart.cc/Lruihao/lruihao.github.io)
+[![Stargazers over time](https://starchart.cc/shiqustudio/shiqustudio.github.io.svg)](https://starchart.cc/shiqustudio/shiqustudio.github.io)
