@@ -1829,8 +1829,8 @@ this is a center-quote shortcode example.
     <div class="comment">给作者买杯卡布奇诺～</div>
     <input type="checkbox" class="reward-input" name="reward" id="id-2" hidden />
     <label class="reward-button" for="id-2">赞赏</label>
-    <div class="reward-ways"><div><span data-animation>支付宝</span>
-          </div><div><span data-animation>微信</span>
+    <div class="reward-ways"><div><span>支付宝</span>
+          </div><div><span>微信</span>
           </div></div>
   </div> 
 </span></span></code></pre></td></tr></table>
@@ -1840,8 +1840,8 @@ this is a center-quote shortcode example.
     <div class="comment">给作者买杯卡布奇诺～</div>
     <input type="checkbox" class="reward-input" name="reward" id="id-3" hidden />
     <label class="reward-button" for="id-3">赞赏</label>
-    <div class="reward-ways"><div><span data-animation>支付宝</span>
-          </div><div><span data-animation>微信</span>
+    <div class="reward-ways"><div><span>支付宝</span>
+          </div><div><span>微信</span>
           </div></div>
   </div>]]></description>
 </item>
