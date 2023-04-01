@@ -184,6 +184,32 @@
 
 🌐 资源地址： [点击跳转](https://www.explainthis.io/zh-hant/chatgpthttps://www.explainthis.io/zh-hant/chatgpt)
 
+### ChatGPT Writer
+
+{{< figure src="/website/images/chatgpt-writer-01.jpg" >}}   
+
+🆔  资源名称： ChatGPT Writer 使用AI 帮你写Email 还能整合Gmail 一键回信
+
+⭐️  资源描述：**「[ChatGPT Writer](https://chatgptwriter.ai/)」是免费Chrome 扩充功能，用途是借助ChatGPT 技术来协助使用者撰写电子邮件或讯息**，如果你和我一样收到Email 都会想拖延、很不擅于回覆邮件或讯息（而且经常一放着就会忘记要回信），可以让这个工具帮你写信，不但很快速、简单易用，相较于市场上其他同类工具来说内容也具有相当高的品质。
+
+🌐 资源地址： [点击跳转](https://chatgptwriter.ai/)
+
+🌐 Chrome资源地址：[Chrome 线上应用程式商店](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp)
+
+### ChatGPT for Google
+
+{{< figure src="/website/images/chatgpt-for-google-01.jpg" >}}   
+
+🆔  资源名称：ChatGPT for Google 在搜寻引擎结果页面显示聊天机器人回传结果
+
+⭐️  资源描述：「[ChatGPT for Google](https://chatgpt4google.com/)」是一个免费浏览器扩充功能，可在Chrome / Edge / Firefox 三种主要浏览器安装使用，**这个外挂的功能是在搜寻引擎的结果页面侧边栏显示ChatGPT 回覆内容**，简单来说，就是依照使用者的关键字去问ChatGPT ，然后将回传的内容显示于搜寻结果，好处是很方便，而且不用另外开ChatGPT 网站。
+
+🌐 资源地址： [点击跳转](https://chatgpt4google.com/)
+
+🌐 Chrome资源地址：[Chrome 线上应用程式商店](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
+
+🌐 Firefox资源地址：[Firefox 附加元件网站](https://addons.mozilla.org/addon/chatgpt-for-google/)
+
 ### ChatGPT Next
 
 {{< admonition  info 个人搭建 ChatGPT 可尝鲜>}}
