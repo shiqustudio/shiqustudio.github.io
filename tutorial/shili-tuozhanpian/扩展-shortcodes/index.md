@@ -462,6 +462,6 @@ this is a center-quote shortcode example.
 
 ---
 
-> 作者: [xucong](https://shiqustudio.github.io/)  
+> 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/  
 

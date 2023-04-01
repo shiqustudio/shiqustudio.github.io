@@ -3,14 +3,103 @@
     <title>拾趣资源</title>
     <link>https://shiqustudio.github.io/</link>
     <description>世界在下沉，我们在狂欢</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 30 Mar 2023 17:27:11 &#43;0000</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>Ai站点汇总</title>
+  <link>https://shiqustudio.github.io/website/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/website/images/image-20230401204204708.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p><strong>AI各类应用合集，文档处理，绘图，图片编辑等</strong></p>
+</blockquote>
+<h3 id="chatdoc">chatDoc</h3>
+<figure>
+</figure>
+
+<p>🆔  资源名称： chatDoc</p>
+<p>⭐️  资源描述： AI实用工具，上传文档生成个人知识库，快速从文档中提取文件信息，通过问答的方式直接汇总文件信息</p>
+<p>🌐 资源地址: <a href="https://www.4spaces.org/3725.html"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="poe-网页版">Poe 网页版</h3>
+<p>🆔  资源名称： Poe 网页版</p>
+<p>⭐️  资源描述：一站式 AI 应用服务，整合 ChatGPT 等多款人工智慧模型</p>
+<p>🌐 资源地址： <a href="https://poe.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="chatpdf">ChatPDF</h3>
+<p>🆔  资源名称： ChatPDF</p>
+<p>⭐️  资源描述：一个非常强大的 AI 应用，使用者將 PDF 文件上传就能转为「AI 聊天室」，直接询问这个 PDF 相关內容，這項服务整合 ChatGPT API 接口，帮助使用者让阅读 PDF 变得更智慧！</p>
+<p>🌐 资源地址： <a href="https://www.chatpdf.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="ai绘图">AI绘图</h3>
+<h4 id="ai-background-generator">AI Background Generator</h4>
+<p>🆔  资源名称： AI Background Generator</p>
+<p>⭐️  资源描述：一个非常强大的 AI 绘图工具</p>
+<p>🌐 资源地址： <a href="https://www.photoroom.com/backgrounds/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h4 id="stockai">StockAI</h4>
+<p>🆔  资源名称： StockAI</p>
+<p>⭐️  资源描述：一个非常强大的 AI 绘图工具</p>
+<p>🌐 资源地址： <a href="https://www.stockai.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h4 id="playground-ai">Playground AI</h4>
+<p>🆔  资源名称： Playground AI</p>
+<p>⭐️  资源描述：进入首页是用户分享生成的 AI 图片，可以直接复制 Prompt ，也可以在其基础上再次创作，点击右上角「Creat」进入生成界面，支持在线使用 Stable Diffusion 模型，其最大的特点就是小白友好，使用自然语言就可以生成令人惊艳的图片</p>
+<p>💡 <strong>免费用户一天可以生成1000张图片，不支持 DALLE2 模型</strong></p>
+<p>🌐 资源地址： <a href="https://playgroundai.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="ai万能图片编辑器">AI万能图片编辑器</h3>
+<figure>
+</figure>
+
+<p>🆔  资源名称：AI万能图片编辑器</p>
+<p>🌐 资源地址： <a href="https://img.logosc.cn/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>⭐️  资源描述：</p>
+<p>◎ <a href="https://img.logosc.cn/remove-bg"target="_blank" rel="external nofollow noopener noreferrer">一键智能抠图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>			◎ <a href="https://img.logosc.cn/convertall"target="_blank" rel="external nofollow noopener noreferrer">文件格式转换<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>	◎ <a href="https://img.logosc.cn/compress"target="_blank" rel="external nofollow noopener noreferrer">批量图片压缩<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>			◎ <a href="https://img.logosc.cn/erase"target="_blank" rel="external nofollow noopener noreferrer">AI图片去水印<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>◎ <a href="https://img.logosc.cn/convert"target="_blank" rel="external nofollow noopener noreferrer">图片格式转换<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>			◎ <a href="https://img.logosc.cn/retouch"target="_blank" rel="external nofollow noopener noreferrer">智能图片美化<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>	◎ <a href="https://img.logosc.cn/watermark"target="_blank" rel="external nofollow noopener noreferrer">添加水印LOGO<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>			◎ <a href="https://img.logosc.cn/photo-id"target="_blank" rel="external nofollow noopener noreferrer">在线制作证件照<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>◎<a href="https://img.logosc.cn/transparent-logo"target="_blank" rel="external nofollow noopener noreferrer"> LOGO透明背景<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>       ◎ <a href="https://img.logosc.cn/cartoon"target="_blank" rel="external nofollow noopener noreferrer">漫画头像生成器<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>	◎<a href="https://img.logosc.cn/bigjpg"target="_blank" rel="external nofollow noopener noreferrer">图片放大变清晰<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>       ◎<a href="https://img.logosc.cn/video2gif"target="_blank" rel="external nofollow noopener noreferrer">视频转GIF动图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>◎<a href="https://img.logosc.cn/gif"target="_blank" rel="external nofollow noopener noreferrer">GIF制作合成<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>             ◎<a href="https://img.logosc.cn/vectorize"target="_blank" rel="external nofollow noopener noreferrer">位图转矢量图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>	◎<a href="https://img.logosc.cn/blur"target="_blank" rel="external nofollow noopener noreferrer">背景模糊<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="chatgpt-next">ChatGPT Next</h3>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>个人搭建<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>🆔  资源名称： 自建ChatGPT</p>
+<p>⭐️  资源描述：ChatGPT3.5 官方接口，无次数限制，可畅聊</p>
+<p>🌐 资源地址： <a href="https://chat.xcapp.live/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>文件批量重命名</title>
+  <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/tools/images/image-20230401200250094.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>文件批量重命名工具，有在线处理站点和离线处理工具</p>
+</blockquote>
+<h3 id="离线批量重命名工具">离线批量重命名工具</h3>
+<p>⭐️  描述：</p>
+<p>◎ ReNamer 是一个非常强大和灵活的文件重命名工具，它提供所有标准的重命名过程，包括前缀、后缀、替换、大小写更改以及删除括号内容、添加编号规则、更改文件扩展名等。对于高级用户，支持正则表达式和 PascalScript 规则，允许用户编写自己的重命名规则。</p>
+<p>◎ 完整汉化，单文件便携，集成激活，启动即是专业版，可保存设置。</p>
+<p>◎ 旧版收录已做替换处理。</p>
+<p>🌐 下载地址：<a href="https://www.123pan.com/s/V65A-4HULd.html"target="_blank" rel="external nofollow noopener noreferrer">点击下载<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="在线批量重命名工具">在线批量重命名工具</h3>
+<p>⭐️  描述：</p>
+<p>◎ 在线文件批量重命名工具</p>
+<figure>
+</figure>
+
+<p>🌐 资源地址: <a href="https://webrename.cn/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
+</item>
+<item>
   <title>职场进阶之如何复盘</title>
-  <link>https://shiqustudio.github.io/dailyshare/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/</link>
+  <link>https://shiqustudio.github.io/personal/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/</link>
   <pubDate>Thu, 30 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/dailyshare/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/</guid>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/personal/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -134,7 +223,7 @@
   <title>常见问答</title>
   <link>https://shiqustudio.github.io/question/</link>
   <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
-  <author>xucong</author>
+  <author>聪</author>
   <guid>https://shiqustudio.github.io/question/</guid>
   <description><![CDATA[<blockquote>
 <p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>403144966</code>。</p>
@@ -197,7 +286,7 @@
   <title>3月分享合集</title>
   <link>https://shiqustudio.github.io/dailyshare/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
+  <author>聪</author>
   <guid>https://shiqustudio.github.io/dailyshare/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
@@ -253,7 +342,7 @@
   <title>3月分享合集</title>
   <link>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
+  <author>聪</author>
   <guid>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/test/images/image-20230329222351552.png" referrerpolicy="no-referrer">
@@ -463,7 +552,7 @@ RSS订阅
   <title>pdf转word等格式工具</title>
   <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
+  <author>聪</author>
   <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
@@ -496,7 +585,7 @@ RSS订阅
   <title>进阶篇</title>
   <link>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
+  <author>聪</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/tutorial/shili-jinjiepian/images/featured-image.png" referrerpolicy="no-referrer">
@@ -683,7 +772,7 @@ RSS订阅
   <title>扩展 Shortcode - bilibili</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
+  <author>聪</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
@@ -740,7 +829,7 @@ RSS订阅
   <title>扩展 Shortcode - echarts</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
+  <author>聪</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
@@ -782,453 +871,6 @@ RSS订阅
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 数据可视化的高度，默认值是 <code>30rem</code></p>
 </li>
 </ul>]]></description>
-</item>
-<item>
-  <title>扩展 Shortcode - mapbox</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供互动式地图的功能。</p>
-<p><a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个 JavaScript 库，它使用 WebGL, 以 <a href="https://docs.mapbox.com/help/glossary/vector-tiles/"target="_blank" rel="external nofollow noopener noreferrer">vector tiles<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/"target="_blank" rel="external nofollow noopener noreferrer">Mapbox styles<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 为来源，将它们渲染成互动式地图。</p>
-<p><code>mapbox</code> shortcode 有以下命名参数来使用 Mapbox GL JS:</p>
-<ul>
-<li>
-<p><strong>lng</strong> <em>[必需]</em>（<strong>第一个</strong>位置参数）</p>
-<p>地图初始中心点的经度，以度为单位。</p>
-</li>
-<li>
-<p><strong>lat</strong> <em>[必需]</em>（<strong>第二个</strong>位置参数）</p>
-<p>地图初始中心点的纬度，以度为单位。</p>
-</li>
-<li>
-<p><strong>zoom</strong> <em>[可选]</em>（<strong>第三个</strong>位置参数）</p>
-<p>地图的初始缩放级别，默认值是 <code>10</code>。</p>
-</li>
-<li>
-<p><strong>marked</strong> <em>[可选]</em>（<strong>第四个</strong>位置参数）</p>
-<p>是否在地图的初始中心点添加图钉，默认值是 <code>true</code>。</p>
-</li>
-<li>
-<p><strong>light-style</strong> <em>[可选]</em>（<strong>第五个</strong>位置参数）</p>
-<p>浅色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>dark-style</strong> <em>[可选]</em>（<strong>第六个</strong>位置参数）</p>
-<p>深色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>navigation</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#navigationcontrol"target="_blank" rel="external nofollow noopener noreferrer">NavigationControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>geolocate</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#geolocatecontrol"target="_blank" rel="external nofollow noopener noreferrer">GeolocateControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>scale</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#scalecontrol"target="_blank" rel="external nofollow noopener noreferrer">ScaleControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>fullscreen</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#fullscreencontrol"target="_blank" rel="external nofollow noopener noreferrer">FullscreenControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
-</li>
-<li>
-<p><strong>width</strong> <em>[可选]</em></p>
-<p>地图的宽度，默认值是 <code>100%</code>。</p>
-</li>
-<li>
-<p><strong>height</strong> <em>[可选]</em></p>
-<p>地图的高度，默认值是 <code>20rem</code>。</p>
-</li>
-</ul>
-<p>一个简单的 <code>mapbox</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><div class="mapbox" id="id-1" style="width: 100%; height: 20rem;"></div>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><div class="mapbox" id="id-2" style="width: 100%; height: 20rem;"></div>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下：</p>
-<div class="mapbox" id="id-3" style="width: 100%; height: 20rem;"></div>
-<p>一个带有自定义样式的 <code>mapbox</code> 示例：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><div class="mapbox" id="id-4" style="width: 100%; height: 20rem;"></div>
-</span></span><span class="line"><span class="cl">或者
-</span></span><span class="line"><span class="cl"><div class="mapbox" id="id-5" style="width: 100%; height: 20rem;"></div>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下：</p>
-<div class="mapbox" id="id-6" style="width: 100%; height: 20rem;"></div>
-]]></description>
-</item>
-<item>
-  <title>扩展 Shortcode - mermaid</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供绘制图表和流程图的功能。</p>
-<p><a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个可以帮助你在文章中绘制图表和流程图的库，类似 Markdown 的语法。</p>
-<p>只需将你的 mermaid 代码插入 <code>mermaid</code> shortcode 中即可。</p>
-<div class="details admonition tip open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">你可以在 <code>config.toml</code> 中通过 <code>params.mermaid</code> 参数全局配置 mermaid 的主题</div>
-    </div>
-  </div>
-<h2 id="流程图">流程图</h2>
-<p>一个 <strong>流程图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">graph LR;
-</span></span><span class="line"><span class="cl">    A[Hard edge] --&gt;|Link text| B(Round edge)
-</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
-</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result one]
-</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result two]
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-1"></div>
-<h2 id="时序图">时序图</h2>
-<p>一个 <strong>时序图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">sequenceDiagram
-</span></span><span class="line"><span class="cl">    participant Alice
-</span></span><span class="line"><span class="cl">    participant Bob
-</span></span><span class="line"><span class="cl">    Alice-&gt;&gt;John: Hello John, how are you?
-</span></span><span class="line"><span class="cl">    loop Healthcheck
-</span></span><span class="line"><span class="cl">        John-&gt;John: Fight against hypochondria
-</span></span><span class="line"><span class="cl">    end
-</span></span><span class="line"><span class="cl">    Note right of John: Rational thoughts <span class="p">&lt;</span><span class="nt">br</span><span class="p">/&gt;</span>prevail...
-</span></span><span class="line"><span class="cl">    John--&gt;Alice: Great!
-</span></span><span class="line"><span class="cl">    John-&gt;Bob: How about you?
-</span></span><span class="line"><span class="cl">    Bob--&gt;John: Jolly good!
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-2"></div>
-<h2 id="甘特图">甘特图</h2>
-<p>一个 <strong>甘特图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">gantt
-</span></span><span class="line"><span class="cl">dateFormat  YYYY-MM-DD
-</span></span><span class="line"><span class="cl">title Adding GANTT diagram to mermaid
-</span></span><span class="line"><span class="cl">excludes weekdays 2014-01-10
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">section A section
-</span></span><span class="line"><span class="cl">Completed task            :done,    des1, 2014-01-06,2014-01-08
-</span></span><span class="line"><span class="cl">Active task               :active,  des2, 2014-01-09, 3d
-</span></span><span class="line"><span class="cl">Future task               :         des3, after des2, 5d
-</span></span><span class="line"><span class="cl">Future task2              :         des4, after des3, 5d
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-3"></div>
-<h2 id="类图">类图</h2>
-<p>一个 <strong>类图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span><span class="lnt">21
-</span><span class="lnt">22
-</span><span class="lnt">23
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">classDiagram
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Duck
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Fish
-</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Zebra
-</span></span><span class="line"><span class="cl">    Animal : +int age
-</span></span><span class="line"><span class="cl">    Animal : +String gender
-</span></span><span class="line"><span class="cl">    Animal: +isMammal()
-</span></span><span class="line"><span class="cl">    Animal: +mate()
-</span></span><span class="line"><span class="cl">    class Duck{
-</span></span><span class="line"><span class="cl">        +String beakColor
-</span></span><span class="line"><span class="cl">        +swim()
-</span></span><span class="line"><span class="cl">        +quack()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">    class Fish{
-</span></span><span class="line"><span class="cl">        -int sizeInFeet
-</span></span><span class="line"><span class="cl">        -canEat()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">    class Zebra{
-</span></span><span class="line"><span class="cl">        +bool is_wild
-</span></span><span class="line"><span class="cl">        +run()
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-4"></div>
-<h2 id="状态图">状态图</h2>
-<p>一个 <strong>状态图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span><span class="lnt">9
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">stateDiagram-v2
-</span></span><span class="line"><span class="cl">    [*] --&gt; Still
-</span></span><span class="line"><span class="cl">    Still --&gt; [*]
-</span></span><span class="line"><span class="cl">    Still --&gt; Moving
-</span></span><span class="line"><span class="cl">    Moving --&gt; Still
-</span></span><span class="line"><span class="cl">    Moving --&gt; Crash
-</span></span><span class="line"><span class="cl">    Crash --&gt; [*]
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-5"></div>
-<h2 id="git-图">Git 图</h2>
-<p>一个 <strong>Git 图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">gitGraph
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    branch develop
-</span></span><span class="line"><span class="cl">    checkout develop
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    checkout main
-</span></span><span class="line"><span class="cl">    merge develop
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">    commit
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-6"></div>
-<h2 id="实体关系图">实体关系图</h2>
-<p>一个 <strong>实体关系图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">erDiagram
-</span></span><span class="line"><span class="cl">    CUSTOMER ||--o{ ORDER : places
-</span></span><span class="line"><span class="cl">    ORDER ||--|{ LINE-ITEM : contains
-</span></span><span class="line"><span class="cl">    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><div class="mermaid" id="id-7"></div>
-<h2 id="用户体验旅程图">用户体验旅程图</h2>
-<p>一个 <strong>用户体验旅程图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">journey
-</span></span><span class="line"><span class="cl">    title My working day
-</span></span><span class="line"><span class="cl">    section Go to work
-</span></span><span class="line"><span class="cl">      Make tea: 5: Me
-</span></span><span class="line"><span class="cl">      Go upstairs: 3: Me
-</span></span><span class="line"><span class="cl">      Do work: 1: Me, Cat
-</span></span><span class="line"><span class="cl">    section Go home
-</span></span><span class="line"><span class="cl">      Go downstairs: 5: Me
-</span></span><span class="line"><span class="cl">      Sit down: 5: Me
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-8"></div>
-<h2 id="饼图">饼图</h2>
-<p>一个 <strong>饼图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">pie
-</span></span><span class="line"><span class="cl">    &#34;Dogs&#34; : 386
-</span></span><span class="line"><span class="cl">    &#34;Cats&#34; : 85
-</span></span><span class="line"><span class="cl">    &#34;Rats&#34; : 15
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-9"></div>
-<h2 id="依赖图">依赖图</h2>
-<p>一个 <strong>依赖图</strong> <code>mermaid</code> 示例:</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">requirementDiagram
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">requirement test_req {
-</span></span><span class="line"><span class="cl">id: 1
-</span></span><span class="line"><span class="cl">text: the test text.
-</span></span><span class="line"><span class="cl">risk: high
-</span></span><span class="line"><span class="cl">verifymethod: test
-</span></span><span class="line"><span class="cl">}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">element test_entity {
-</span></span><span class="line"><span class="cl">type: simulation
-</span></span><span class="line"><span class="cl">}
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">test_entity - satisfies -&gt; test_req
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>呈现的输出效果如下:</p>
-<div class="mermaid" id="id-10"></div>
-]]></description>
 </item>
 </channel>
 </rss>

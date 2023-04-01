@@ -60,6 +60,6 @@
 
 ---
 
-> 作者: [xucong](https://shiqustudio.github.io/)  
+> 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/dailyshare/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/  
 

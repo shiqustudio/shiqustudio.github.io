@@ -1,37 +1,35 @@
-# pdf转word等格式工具
+# 文件批量重命名
 
 
-**资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。**
+> 文件批量重命名工具，有在线处理站点和离线处理工具
 
 <!--more-->
 
-# 📚PDF类型【科普】
+### 离线批量重命名工具
 
-**在转换PDF文档前，我们要先了解所转换的PDF文档是属于什么编码类型**
+⭐️  描述：
 
-**PDF文档分：标准编码的文字型PDF 和 非标准编码的文字型PDF**
+◎ ReNamer 是一个非常强大和灵活的文件重命名工具，它提供所有标准的重命名过程，包括前缀、后缀、替换、大小写更改以及删除括号内容、添加编号规则、更改文件扩展名等。对于高级用户，支持正则表达式和 PascalScript 规则，允许用户编写自己的重命名规则。
 
-👉 [详情了解 《标准编码的文字型PDF定义及非标准编码PDF类型》](https://www.yuque.com/xtranslator/zy/qnizp1)
+◎ 完整汉化，单文件便携，集成激活，启动即是专业版，可保存设置。
 
-**标准编码的文字型PDF：**
+◎ 旧版收录已做替换处理。
 
-> PDF中可以正确的选中文字、复制它，并粘贴到记事本中之后看到的文字和pdf中相同，故`标准编码的PDF`可以直接无损转换，有些带OCR功能的软件可以直接转换图片的文字
+🌐 下载地址：[点击下载](https://www.123pan.com/s/V65A-4HULd.html)
 
-{{< figure src="/tools/images/Snipaste_2022-09-24_16-28-37.jpg" title="Lighthouse (figure)" >}}
+### 在线批量重命名工具
 
-**非标准编码的文字型PDF：**
+⭐️  描述：
 
-> PDF文档大部分都是不能选中文字、复制它，因为基本都是图片形式
->
-> 这类PDF文档就要利用第三方软件转换成可编辑的标准编码格式,再进行转换
->
-> 👉 转换软件：[蓝奏云](https://wwc.lanzoul.com/i4lBM0cajm4d)
+◎ 在线文件批量重命名工具
 
-{{< figure src="/tools/images/Snipaste_2022-09-24_16-30-21.jpg" title="Lighthouse (figure)" >}}
+{{< figure src="/tools/images/image-20230401200250094.png" >}}
+
+🌐 资源地址: [点击跳转](https://webrename.cn/)  
 
 
 ---
 
-> 作者: [xucong](https://shiqustudio.github.io/)  
+> 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/  
 

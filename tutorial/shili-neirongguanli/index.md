@@ -309,6 +309,6 @@ hugo new offline/index.md
 
 ---
 
-> 作者: [xucong](https://shiqustudio.github.io/)  
+> 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/tutorial/shili-neirongguanli/  
 
