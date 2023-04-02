@@ -3,150 +3,9 @@
     <title>拾趣资源</title>
     <link>https://shiqustudio.github.io/</link>
     <description>世界在下沉，我们在狂欢</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 01 Apr 2023 19:27:11 &#43;0000</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>图片空间</title>
-  <link>https://shiqustudio.github.io/website/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</link>
-  <pubDate>Sat, 01 Apr 2023 19:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/website/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="/images/imghut-01.jpg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>图片空间列表、介绍，再也不怕上传图片找不到空间啰！</p>
-</blockquote>
-<h3 id="linkpicture">LinkPicture</h3>
-<p></p>
-<p>🆔  资源名称： LinkPicture 免费图片托管服务，上传后产生可直连的超连结</p>
-<p>⭐️  资源描述： <a href="https://www.linkpicture.com/"target="_blank" rel="external nofollow noopener noreferrer">LinkPicture<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是一个免费图片共享服务，可以让使用者轻松在网站、讨论区、网志或留言板贴图，将相片上传产生为超连结，透过网址格式来分享相片内容，就和Imgur或是其他我们熟悉的图片空间类似。LinkPicture 可在没有注册、登入帐号时使用，<strong>支援多种图片格式（JPG、JPEG、PNG、GIF、BMP、XBM、WXMB），单档大小不能超过20 MB</strong>，除了从电脑上传图片也能利用网址汇入、同时也有提供Android 应用程式。</p>
-<p>LinkPicture 在上传图片后会产生各种网址格式，包括HTML、BBcode、Markdown，值得一提的是也有直接连结可用（点选就能直接打开图片），对于要在其他网站贴图来说也会很有用，不过LinkPicture 没有对于图片保存时间、流量或点击次数限制等说明</p>
-<p>🌐 资源地址: <a href="https://www.linkpicture.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="imghut">imghut</h3>
-<p></p>
-<p>🆔  资源名称： imghut 免费图片分享空间，支援五种格式图片可直连显示</p>
-<p>⭐️  资源描述：「<a href="https://imghut.com/"target="_blank" rel="external nofollow noopener noreferrer">imghut<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」和Imgur 都是免费图片空间，背后使用的技术为<a href="https://chevereto.com/"target="_blank" rel="external nofollow noopener noreferrer">Chevereto<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>（一个自建图床图片托管程式），不同于Imgur 可以在没有注册的情况下匿名分享图片，imghut 需要先注册、取得帐号才能够登入分享图片，注册时可使用Email、Facebook、Twitter、Google 或VK 帐号，<strong>不过没有容量流量限制，特殊内容（NSFW）也可以在标示后上传</strong>，不会违反使用规则。</p>
-<p>Imghut 比较像是「网路相簿」运作方式，每个使用者都有自己的页面，可以建立资料夹、对于不同的相片进行分类整理，上传图片时直接从线上进行尺寸裁切、设定要在多少时间后自动删除，最后取得相片的分享链结、HTML、BBCode、Markdown 语法，和Imgur 一样的是imghut 也支援图片直接连结。</p>
-<p>🌐 资源地址： <a href="https://imghut.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="imgur">Imgur</h3>
-<p></p>
-<p>🆔  资源名称：Imgur 免费图片空间使用教学，免注册上传分享图片</p>
-<p>⭐️  资源描述：<a href="https://imgur.com/"target="_blank" rel="external nofollow noopener noreferrer">imgur<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是一个老牌的图片上传空间，从2009 年开始提供服务，因为它很稳定、操作介面简单，加上使用限制少，所以深受用户喜爱，目前已经有相当庞大的使用族群，也和一些第三方服务结合，更方便将图片上传到imgur 后产生分享链结。</p>
-<p>imgur 支援 JPEG, PNG, GIF, APNG, TIFF, BMP, PDF, XCF (GIMP) 等图片格式，TIFF, BMP, PDF 和XCF (GIMP) 会自动被转为PNG 上传。图片大小限制为10 MB（非动态图），当图片超过1 MB 时，会被强制压缩到1 MB 以获得最佳的浏览品质，最大的动态图档大小为2 MB（例如GIF 和PNG）。</p>
-<p>imgur 不会对图片流量进行限制，也就是说无论连结到imgur 浏览图片，或是使用直接连结，都是无限流量。当图片在6 个月内都没有任何人检视，就会自动从系统中移除。</p>
-<p>🌐 资源地址： <a href="https://imgur.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="zoomhub">ZoomHub</h3>
-<p></p>
-<p>🆔  资源名称： ZoomHub 不同于一般图片空间，上传高解析度相片还能局部放大</p>
-<p>⭐️  资源描述：<a href="https://zoom.it/"target="_blank" rel="external nofollow noopener noreferrer">ZoomHub<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是一个免费图片空间，不过和大家熟悉的图片分享服务有点不太一样，简单来说，<strong>它可以协助使用者在线上展示大尺寸、高解析度的图片，还能够移动到其他区域，将相片细部放大、缩小或全萤幕显示</strong>，通常要这么做都需要先将图片下载，再以电脑上的图片检视工具才做得到，但是透过ZoomHub 只要将相片上传后就会产生对应的链结，打开链结即可在网页中仔细检视相片细节。</p>
-<p>虽然ZoomHub 在使用上类似于图片空间，但单次只能上传一张图片档案，支援电脑上传或是直接输入图片网址汇入档案，而且需要输入Email 来确认并且完成图片上传（避免服务遭到滥用），网站没有明确说明图片保存时间、流量或点击次数限制，无论在上传或是浏览时都完全免费，也不用注册帐号。</p>
-<p>ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生JavaScript 程式码。</p>
-<p>🌐 资源地址：<a href="https://zoom.it/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="imgus">imgus</h3>
-<p></p>
-<p>🆔  资源名称：imgus 免费图片、影片上传分享，可自订有效期限和浏览密码</p>
-<p>⭐️  资源描述：<strong>imgus.cc 有图片最大8 MB、影片最大16 MB 限制</strong>，一般来说图片较难超过这项限制，影片没有相差太大可先裁切或调整画质（差太多就找其他免费影片空间），上传时设定有效期限和密码，也能选择写下密码提示，因为是匿名上传，就没有注册、登入或是管理功能，<strong>图片最多可保存30 天。</strong></p>
-<p>🌐 资源地址： <a href="https://imgus.cc/main/zh-Hants"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="uploadee">Uploadee</h3>
-<p></p>
-<p>🆔  资源名称：Uploadee 免费档案上传空间，单档100 MB 提供图片直接连结</p>
-<p>⭐️  资源描述：<a href="https://www.upload.ee/"target="_blank" rel="external nofollow noopener noreferrer">Upload.ee<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是爱沙尼亚第一个也是唯一一个免费空间服务，提供使用者将档案上传、产生下载链结或透过Email 与其他人共享，这项服务拥有良好的品质和速度，而且无需注册或登入就能使用，<strong>支援最大单档不超过100 MB（注册后可提高到200 MB），档案会在50 天无任何下载时自动删除，注册后会将此限制延长到120 天</strong>，各种已知或未知的档案格式皆可上传分享。</p>
-<p>🌐 资源地址： <a href="https://www.upload.ee/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="薄荷图床">薄荷图床</h3>
-<p></p>
-<p>🆔  资源名称：薄荷图床：免费图片转网址服务，中国模式可将图片上传香港伺服器</p>
-<p>⭐️  资源描述：「<a href="https://riyugo.com/"target="_blank" rel="external nofollow noopener noreferrer">薄荷图床<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一家专业的图片转网址平台，也就是图片空间，提供使用者将图片拖曳到网站产生链结的服务，对于要贴图会很有用，毕竟很多网路硬碟并不提供直接连结，<strong>薄荷图床免费版支援单张图片最大5 MB，单次最大上传数为10 张图片，不过免费版的链结有效期间只有3 天</strong>，时间一到链结就会失效无法使用，若是短期分享可能就没影响。</p>
-<p>🌐 资源地址： <a href="https://riyugo.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="im-ge">IM GE</h3>
-<p></p>
-<p>🆔  资源名称：IM GE 无限容量免费图片空间，支援各种格式可自订过期时间</p>
-<p>⭐️  资源描述：<a href="https://im.ge/"target="_blank" rel="external nofollow noopener noreferrer">IM.GE<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是一个免费图片空间服务，使用者可透过拖曳方式进行图片上传，<strong>有单档最大50 MB 限制，不过没限制档案格式</strong>，大部分常见常用图片格式应该都能支援，提供批次上传功能，上传速度快，而且可以预先调整图片尺寸、自订自动删除时间（最短5 分钟也可不自动删除），<strong>IM.GE 会为图片产生观看者连结或直接连结</strong>，也有各种尺寸的HTML、BBCode 和Markdown 语法直接复制使用。</p>
-<p>依照IM.GE 服务所述，虽然是免费服务但有近似于付费服务的规格，包括所有图片会储存于高可用性的伺服器上，在至少三个资料中心储存图片以避免可能因资料遗失而无法正常存取，IM.GE 确保服务端的图片资料安全，这也意味着将图片上传到IM.GE 备份就不用再传到其他网路相簿或图片空间。</p>
-<p>除此之外，IM.GE 为所有使用者提供免费CDN，如果想和全世界不同国家的人分享图片，他们在全球拥有超过100 台伺服器，确保在各个连线地点都获得最佳的开启速度。<strong>另一特色是具有无限容量空间，使用者可以尽可能上传、储存或分享更多图片</strong>，只要不滥用服务就没问题。</p>
-<p>🌐 资源地址： <a href="https://im.ge/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="cloudflare-images">Cloudflare Images</h3>
-<p></p>
-<p>🆔  资源名称：Cloudflare Images 云端图片储存、尺寸调整，每月5 美元可存10 万张</p>
-<p>⭐️  资源描述：Cloudflare Images 透过**变体（variants）**对图片进行编辑处理，可选择多种裁切选项，例如将图片缩小到特定尺寸、维持长宽比放大到特定大小、在必要时进行裁切以完全填充整个区域，更重要的是图片会被视为单张图片而不会额外计价。</p>
-<p>举例来说，使用者上传一张图片、调整为三种不同大小、两种不同的图片格式时，只需要支付单张图片储存的费用，而非传统图片储存服务的七张配额（一张原图、三种尺寸加上各两种格式）。</p>
-<p>当前这项服务可以选择的参数并不如一些专业图片处理服务（例如Imgix、ImageKit），Cloudflare 会持续更新、加入更多编辑功能。</p>
-<p>在Cloudflare Images 价格方面，<strong>初始费用为每月$5 美元（可储存100,000 张影像）</strong>，也有$10 美元和$50 美元选项，分别可以储存最多200,000 张、1,000,000 张影像，这是属于预付的价格，<strong>图片传输时每递送100,000 次会收取$1 美元费用（后付）</strong>，Cloudflare Image 以图片传输次数计价，不额外计算流量费用，如果在图片档案较大的情况下可以有效节省支出。</p>
-<p>🌐 资源地址： <a href="https://www.cloudflare.com/zh-tw/products/cloudflare-images/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="folioink">Folio.ink</h3>
-<p></p>
-<p>🆔  资源名称：Folio.ink 为创作者提供免费图片空间，批次上传以幻灯片模式浏览相簿</p>
-<p>⭐️  资源描述：<strong>「<a href="https://folio.ink/"target="_blank" rel="external nofollow noopener noreferrer">Folio.ink<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个针对创作者提供的免费图片空间</strong>，不用注册或登入帐号，只要将图片拖曳到网站即可上传、产生分享链结，不同于一般同类型服务，Folio.ink 支援批次上传，也会将多张图片以幻灯片方式排列显示，浏览者在开启网址后以卷动方式就能进行换页浏览，如同在观赏相簿。</p>
-<p><strong>Folio.ink 没有明确说明可上传的图片大小、格式或数量，图片保存三个月（90 天）</strong>，无法延长或变更保存时间，不过原上传者会有一个编辑网址，未来可使用该网址调整图片排序或手动删除。这项服务也有内建票选功能，浏览者能针对自己喜欢的相片进行投票，会有一个结果页面显示每张相片获得的票选次数。</p>
-<p>🌐 资源地址： <a href="https://folio.ink/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="decentrafile">Decentrafile</h3>
-<p></p>
-<p>🆔  资源名称：Decentrafile 免费、匿名去中心化云端空间，上传档案永不过期</p>
-<p>⭐️  资源描述：<strong><a href="https://decentrafile.com/"target="_blank" rel="external nofollow noopener noreferrer">Decentrafile<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是一个免费档案空间和图片上传空间，提供使用者在没有注册、登入帐户（匿名）时上传最多单档10 GB 档案</strong>，而且档案永远不会过期失效、被删除、被入侵窜改、被编辑或是储存于任何远端伺服器，需要透过一段杂凑值（Hash）来取得档案链结，对于要储存某些资料来说会很有帮助，但也因为它无法被手动删除的特性资料将永远保存在线上，在上传档案时需要特别注意。</p>
-<p><strong>Decentrafile 使用去中心化（Decentralized）技术</strong>，将档案上传到<a href="https://zh.wikipedia.org/wiki/%e6%98%9f%e9%99%85%e6%96%87%e4%bb%b6%e7%b3%bb%e7%bb%9f"target="_blank" rel="external nofollow noopener noreferrer">星际档案系统<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>（IPFS），在上传时会将图片或档案转为无法识别的片段，以加密字串形式分布在数千台使用者电脑，透过在下载链结后方输入特定杂凑值来组合、重建档案，使用者就能取得特定档案。</p>
-<p>如果对于这项技术有兴趣的话，可以参考Decentrafile<a href="https://blog.decentrafile.com/2021/09/02/how-free-decentralized-cloud-storage-can-exist/"target="_blank" rel="external nofollow noopener noreferrer">官方部落格<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，有关于这项分散式云端储存服务如何运作的说明，简单来说就是整合密码学、点对点网路和区块链三种东西，形成新的网际网路免费开放式、去中心化的云端档案储存系统。</p>
-<p>🌐 资源地址： <a href="https://decentrafile.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="pasteboard">Pasteboard</h3>
-<p></p>
-<p>🆔  资源名称：Pasteboard 免费图片上传空间，支援单档10 MB 永久保存无流量限制</p>
-<p>⭐️  资源描述：<a href="https://pasteboard.co/"target="_blank" rel="external nofollow noopener noreferrer">Pasteboard<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是一个免费图片空间，也是在线上分享萤幕撷图和图片的最佳方法，<strong>支援各种常见图片格式像是JPEG、PNG、GIF、APNG 和TIFF ，单档最大10 MB，无流量限制或点击次数限制</strong>，这项服务操作方式很简单，除了将图片拖曳到Pasteboard 上传，也能以复制贴上剪贴簿操作，或在撷图后直接贴上产生图片链结，无需注册就能使用。</p>
-<p>值得一提的是<strong>Pasteboard 也能以网路摄影机（Webcam）镜头拍摄照片上传</strong>，这个免空没有档案保存期限，意味着所有图片上传后都会永久保存，除了原上传者可手动删除以外无法登入编辑，内建「裁切」工具可在图片上传前选择要保留的范围，也有分析工具纪录图片被浏览次数。</p>
-<p>Pasteboard 提供付费升级为Premium 帐户功能，升级后可以登入、管理所有之前上传过的相片内容，透过相簿分类图片，线上绘制图片或加入文字，也能增加档案大小限制，价格为每月$3 美元或是每年$27 美元（年缴节省25%）。</p>
-<p>这项服务不支援直接连结功能，浏览图片需要透过网址连回原网站才看得到，点选图片链结会下载图片。</p>
-<p>🌐 资源地址： <a href="https://pasteboard.co/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="postimages">Postimages</h3>
-<p></p>
-<p>🆔  资源名称：Postimages 老牌免费图片空间，可批次裁切尺寸、设定自动过期时间</p>
-<p>⭐️  资源描述：<strong>「<a href="https://postimages.org/"target="_blank" rel="external nofollow noopener noreferrer">Postimages<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个老牌图片免费空间，从2004 年开始提供服务</strong>，最初是为留言板提供一种免费上传图片的便捷方式（早期很多留言板讨论区没有上传图片功能，需要以外部链结将图片导入），也非常适合将图片使用到网拍卖场、部落格或其他网站，即使现在这些平台都已经有内建图片上传功能。</p>
-<p>将图片上传到Postimages 产生链结，就能以各种方式分享，包括超连结、Markdown、HTML 或是BBcode 等代码，本身具备上传图片自动裁切为特定尺寸大小的选项，亦可设定图片保存时间（预设为永久不会失效），注册后也能管理上传图片，或是建立相簿一次分享多张相片内容。</p>
-<p>🌐 资源地址： <a href="https://postimages.org/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="imgbb">ImgBB</h3>
-<p></p>
-<p>🆔  资源名称：ImgBB 免费图片空间，支援多种常见格式可设定自动删除时间</p>
-<p>⭐️  资源描述：「<a href="https://imgbb.com/"target="_blank" rel="external nofollow noopener noreferrer">ImgBB<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是近期发现的免费图片空间，也是我在使用外线上支援服务时建议的图片上传方式，<strong>这项服务支援单档32 MB 图片大小（应该很难超过限制），以及一些常见图片格式包括JPG、PNG、BMP、GIF、TIF、WebP、HEIC、PDF</strong>，上传时不需要注册或登入帐号，完成后可获取图片连结、BBcode 代码、HTML 代码和缩图。</p>
-<p>在免费注册ImgBB 后会有图片管理功能，可建立相簿、一次分享相簿里的所有内容，也能自订图片自动删除时间（预设情况会永久保存），如果想要取得图片直接连结，需要登入才能产生网址，否则就只能取得缩图网址，画质会稍低一些。</p>
-<p>🌐 资源地址： <a href="https://imgbb.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="control-v">Control V</h3>
-<p></p>
-<p>🆔  资源名称：Control V 复制贴上图片免空，可线上编辑或产生分享链结</p>
-<p>⭐️  资源描述：「<a href="https://ctrl.vi/"target="_blank" rel="external nofollow noopener noreferrer">Control V<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」就是非常有趣的工具，<strong>Control V 是一个免费图片空间，整合基本的图片编辑工具，操作方法非常直觉，直接复制你要分享的图片，开启网站后使用快速键Ctrl+V 贴上就能开始使用。</strong></p>
-<p>要使用Control V 前必须将图片复制到你的剪贴簿（简单来说，就是对本机电脑上的图片按下复制），然后开启Control V 网站后以快速键 <code>Ctrl+V</code> 贴上（如果macOS 的话则是使用<code>Command+V</code>），图片就会出现在网页中，使用者可以透过内建的编辑工具来裁切、翻转、突显特定范围、加入箭头或框线、插入文字、画笔、模糊等等，再将编辑后的图片下载、列印或是产生分享链结。</p>
-<p>Control V 其实也是一个免空的概念，产生图片链结可以永久保存，依照开发者说明若图片没有违反规定，链结将会被永久保存下来，应该也没有流量方面的限制。</p>
-<p>🌐 资源地址： <a href="https://ctrl.vi/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="tkktttk">TKKTT.tk</h3>
-<p></p>
-<p>🆔  资源名称：TKKTT.tk 免费相片空间强制加入限时和密码保护，防止图片被备份</p>
-<p>⭐️  资源描述：图片空间依然有个问题，那就是我不希望图片被永久保留在网路上，除非手动删除或是有加入限时功能，另一方面搜寻引擎的「爬虫」也可能会索引这些内容，虽然大部分免空都有考量到使用者隐私而禁止搜寻引擎索引，但还是要记得一件事，<strong>上传到网路的内容有可能会永久被保留在网路上，即使原有空间已把图片删除。</strong></p>
-<p>那么有没有更强调安全和隐私的图片空间呢？<a href="https://tkktt.tk/"target="_blank" rel="external nofollow noopener noreferrer">TKKTT.tk<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>或许是其中一个，<strong>这个免费图片空间强调会对每次上传加入「限时」功能</strong>，也就是限制链结可被存取的时间，最长八小时，最短则只有十分钟，一旦超过时间就无法存取链结的目标。<strong>预设情况下会对每个链结加入存取密码验证保护</strong>，若没有输入密码则无法看到图片，也能减少被搜寻引擎爬虫备份等问题。</p>
-<p>当然没有任何一个保护100% 安全，即使无法另存图片，依然可以透过萤幕撷取等方式将图片备份下来，所以在上传图片前请务必小心。TKKTT.tk 另一特色是无需注册或登入帐号，不过单次只能上传一张相片，相片会有存取时间限制无法永久保留。</p>
-<p>🌐 资源地址： <a href="https://tkktt.tk/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="imgonl">img.onl</h3>
-<p></p>
-<p>🆔  资源名称：img.onl 免费图片上传空间，支援单档128 MB 可显示原图无广告</p>
-<p>⭐️  资源描述：「<a href="https://img.onl/"target="_blank" rel="external nofollow noopener noreferrer">Img.onl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个很简单、易用的免费图片空间，开发者是一位来自捷克的十六岁少年，这个服务很方便，<strong>只要把图片拖曳到网站里，或是直接从剪贴簿贴上，就能将图片上传到远端空间，产生直接连结。连到Img.onl 图片时可展示原始大小，没有广告。</strong></p>
-<p><strong>Img.onl 支援每张图片最大可达128 MB，以原图解析度保存</strong>，无需注册就能使用，允许使用者每天可上传最多100 张图片，不过要注意的是Img.onl 如同一般服务，不保证图片内容可用性，也就是图片部分请自行备份，倘若图片无法开启或无预警被删除站方也没有责任，毕竟这是一项免费服务，套句网友常常说的：可用的时候就用，不能用的时候就找个其他的替代方案吧！</p>
-<p>🌐 资源地址： <a href="https://img.onl/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="imgbox">Imgbox</h3>
-<p></p>
-<p>🆔  资源名称：Imgbox 老牌免费图片空间，支援常见格式无容量流量限制</p>
-<p>⭐️  资源描述：现在的图片空间市场几乎被<a href="https://imgur.com/"target="_blank" rel="external nofollow noopener noreferrer">Imgur<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>占据，后来好像也没有其他竞争对手，如果你想找寻其他选项，或许可以试试看本文介绍的Imgbox。</p>
-<p><strong><a href="https://imgbox.com/"target="_blank" rel="external nofollow noopener noreferrer">Imgbox<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>提供快速、简单且完全免费的图片分享空间，支援JPG、GIF 和PNG 图片格式，单档最大10 MB</strong>，应该对于大部分图片来说都没问题，特色是<strong>无限制的储存空间和保存时间，更棒的是提供直连（Hotlinking）</strong>，图片可贴到其他网页。</p>
-<p>Imgbox 无须注册就能使用，不过如果登入将可管理上传过的相片，一次上传多张相片可产生相簿链结，每张相片都有直接连结网址，服务本身支援SSL 加密连线。</p>
-<p>🌐 资源地址： <a href="https://imgbox.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="uploadcc">Upload.cc</h3>
-<p></p>
-<p>🆔  资源名称：Upload.cc 免费图片空间，单档5 MB 永久保存</p>
-<p>⭐️  资源描述：<a href="https://upload.cc/"target="_blank" rel="external nofollow noopener noreferrer">Upload.cc<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是我要介绍的免费图片上传服务，网址短、好记且没有多余复杂功能，唯一要做的就是将图片拖曳到网站即可产生分享链结，也能将图片贴到其他网站、讨论区或任何支援图片链结的平台。网站产生的链结都是直接连结。</p>
-<p><strong>Upload.cc 支援图片格式包括JPG、JPEG、GIF、PNG 及BMP，单档不超过5 MB</strong>，网站没有明确指出图片保存时间及流量限制，但只要不违反使用规则应该都没问题。</p>
-<p>值得一提的是<strong>Upload.cc 除了有网页版上传介面外，亦提供行动版<a href="https://play.google.com/store/apps/details?id=com.mrleung"target="_blank" rel="external nofollow noopener noreferrer">Android 应用程式<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>及<a href="https://chrome.google.com/webstore/detail/uploadcc-screen-capture-t/mjnohlnebmjeoplfnmdkcjfpenkgnahi"target="_blank" rel="external nofollow noopener noreferrer">Chrome 浏览器扩充功能<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>免费下载</strong>，扩充功能还有萤幕撷取功能，可在撷图后自动上传到Upload.cc 来快速产生图片链结。</p>
-<p>🌐 资源地址： <a href="https://upload.cc/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<h3 id="miu-pix">Miu Pix</h3>
-<p></p>
-<p>🆔  资源名称：Miu Pix 免费贴图上传、分享空间（中文版）</p>
-<p>⭐️  资源描述：Miu Pix 是知名的<a href="https://itunes.apple.com/cn/app/miu-ptt/id418244306"target="_blank" rel="external nofollow noopener noreferrer">Miu Ptt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>内建的图片上传、分享服务，透过Miu Pix，使用者在无须注册的情况下，即可免费上传图片，然后产生链结来分享或是在其他网站外连嵌入图片。Miu Pix 支援图片格式有 png, jpg, jpeg, gif, bmp, psd 六种，允许上传的图片大小为1 MB ，如果没有外连而是直接回到Miu Pix 浏览的话，图片没有流量限制，也**可以永久保存。**外连的话每月流量则是1 GB 。</p>
-<p>目前Miu Pix 在使用上速度都很理想，浏览页面也很简单，操作方法就跟一般免空或图片空间类似，选择图片然后上传即可产生链结。</p>
-<p>🌐 资源地址： <a href="https://miupix.cc/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
-</item>
-<item>
   <title>缩短链接</title>
   <link>https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/</link>
   <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
@@ -878,10 +737,10 @@
 </item>
 <item>
   <title>文件批量重命名</title>
-  <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <link>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</link>
   <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <guid>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/tools/images/image-20230401200250094.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -1146,216 +1005,6 @@
   </div>]]></description>
 </item>
 <item>
-  <title>3月分享合集</title>
-  <link>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="/test/images/image-20230329222351552.png" referrerpolicy="no-referrer">
-      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>
-<h1 id="03-21">03-21</h1>
-<figure><figcaption>
-            <h4>Lighthouse (figure)</h4>
-        </figcaption>
-</figure>
-
-<p>描述：</p>
-<p>​	◎ 解锁会员，点击购买然后取消。</p>
-<p>​	🎁关注挖掘宝藏↓</p>
-<p>​	👉<a href="https://qssily.com/"target="_blank" rel="external nofollow noopener noreferrer">趣导航<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<p>描述：
-❏ Photoshop的在线简版应用, 是强大的在线图像处理，设计工具。</p>
-<p>🆔  网站名称： 懒得勤快</p>
-<p>📁 网站简介：个人资源网站，互联网分享精神，乐于发现，勤于分享</p>
-<p>🌐 网站网址： <a href="https://ldqk.xyz/"target="_blank" rel="external nofollow noopener noreferrer">点击直达<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<p>⭐️资源来源∶ <a href="https://t.me/ziyuan917"target="_blank" rel="external nofollow noopener noreferrer">优质网站汇总频道<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<p>📁 资源名称： <a href="https://t.me/yqc_123/2018"target="_blank" rel="external nofollow noopener noreferrer">Android VPN Inf MOD.4.106<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<p>💬 资源简介：VPN Inf - 免费稳定快速无限制的 VPN</p>
-<p>🔗 资源链接：<a href="https://www.mediafire.com/file/d97l5e0pxvlz9eb/Inf-VPN-v7_4_106-Premium-Mod_apps2app.com.apk/file"target="_blank" rel="external nofollow noopener noreferrer">VPN Inf MOD APK 7.4.106<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<p>📌 资源标签：#VPNInf #代理工具 #安卓应用 #安卓破解 #VPN
-✈
-🎉 机场套餐：9.5元/年200G/月  5元2000G/月  18元1T不过期
-➡️官网 三分机场.xyz</p>
-<p>🚀 搜群神器 TG中文频道导航</p>
-<p>🎁 搞钱</p>
-<p>🧧 成人</p>
-<p>🔞 <a href="https://t.me/souqun666"target="_blank" rel="external nofollow noopener noreferrer">搜索群 🔭<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<p>🈲 一键搜索所有你想的</p>
-<p>🔥 一键探索你所需要的</p>
-<p>😏 一键解决日常所有问题</p>
-<p>➡️ 频道：@souqun666</p>
-<p>🤖<a href="https://t.me/Yqc_PrivateChatBot"target="_blank" rel="external nofollow noopener noreferrer">消息投稿/广告投放/合作联系<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>⬅️</p>
-<hr>
-<a href="https://github.com/hugo-fixit/FixIt" title="source of FixIt Theme"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
-    <span class="cl-content">
-      <span class="cl-text">
-        <span class="cl-title">FixIt 主题的仓库</span>
-        <span class="cl-meta">
-          <svg class="cl-icon-link" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M574 665.4c-3.1-3.1-8.2-3.1-11.3 0L446.5 781.6c-53.8 53.8-144.6 59.5-204 0-59.5-59.5-53.8-150.2 0-204l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3l-39.8-39.8c-3.1-3.1-8.2-3.1-11.3 0L191.4 526.5c-84.6 84.6-84.6 221.5 0 306s221.5 84.6 306 0l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3L574 665.4zM832.6 191.4c-84.6-84.6-221.5-84.6-306 0L410.3 307.6c-3.1 3.1-3.1 8.2 0 11.3l39.7 39.7c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c53.8-53.8 144.6-59.5 204 0 59.5 59.5 53.8 150.2 0 204L665.3 562.6c-3.1 3.1-3.1 8.2 0 11.3l39.8 39.8c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c84.5-84.6 84.5-221.5 0-306.1z" fill="#a9a9b3"></path><path d="M610.1 372.3c-3.1-3.1-8.2-3.1-11.3 0L372.3 598.7c-3.1 3.1-3.1 8.2 0 11.3l39.6 39.6c3.1 3.1 8.2 3.1 11.3 0l226.4-226.4c3.1-3.1 3.1-8.2 0-11.3l-39.5-39.6z" fill="#a9a9b3"></path></svg>
-          <span class="cl-url">https://github.com/hugo-fixit/FixIt</span>
-        </span>
-      </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
-<div class="details admonition info open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">当你运行 <code>hugo server</code> 时，当文件内容更改时，页面会随着更改自动刷新。</div>
-    </div>
-  </div>
-<p><div class="details admonition tip">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>This is a tip<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>技巧</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition tip open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>技巧</strong> 横幅</div>
-    </div>
-  </div></p>
-<div class="details admonition note open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>注意</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition abstract open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-list-ul fa-fw" aria-hidden="true"></i>摘要<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>摘要</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition info open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>信息</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition success open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-check-circle fa-fw" aria-hidden="true"></i>成功<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>成功</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition question open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>问题</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition warning open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>警告</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition failure open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>失败<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>失败</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition danger open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-skull-crossbones fa-fw" aria-hidden="true"></i>危险<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>危险</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition bug open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-bug fa-fw" aria-hidden="true"></i>Bug<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>Bug</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition example open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-list-ol fa-fw" aria-hidden="true"></i>示例<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>示例</strong> 横幅</div>
-    </div>
-  </div>
-<div class="details admonition quote open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-quote-right fa-fw" aria-hidden="true"></i>引用<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">一个 <strong>引用</strong> 横幅</div>
-    </div>
-  </div>
-<p><a href="https://www.thinkcmf.com/font/font_awesome/whatisnew.html"target="_blank" rel="external nofollow noopener noreferrer">图标<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
-<p>代码块原样输出
-{{&lt; admonition quote &gt;}} 一个 <strong>引用</strong> 横幅 {{&lt; /admonition &gt;}}</p>
-<p>Front Matter中常用的变量
-title: 内容标题
-date: 该页面的时间, 一般用来存放页面的创建时间.
-draft: 如果true, 表示页面为草稿页, 内容不会呈现在网站中, 除非添加 –buildDrafts 给hugo命令.
-keywords: 页面的关键字
-description: 内容描述, 主要用于SEO优化.
-weight: 列表页的文章排序, 值越小越靠前, 默认是按时间先后排序的, 也就是date中的值
-模板页中常用的变量
-.Title: 获取Front Matter中title的值
-.Content: 获取文章的内容
-.Date: 获取Front Matter中date的值
-.Description: 获取Front Matter中description的值, 一般用于meta中的description字段
-.Keywords: 获取Front Matter中keywords的值, 用于meta中的keyword字段
-.Permalink: 获取页面的链接地址(URL)
-.Next: 下一个页面
-.Prev: 上一个页面
-.WordCount: 内容的字数
-.ReadingTime: 阅读内容的预估时间
-.Pages: 当前列表页面下的内容页面的集合, 该变量在内容页模板的上下文中值为nil
-.Site: 站点变量, 该变量下包含很多站点级别的属性和方法.</p>
-<p>文档
--每日分享
--实用工具
--搜索下载
--英语
--合集
--另类
-关于
--友链
--教程
--参考
--分类
--标签
--常见问题
-留言
-RSS订阅
-每日60秒</p>
-<p>这个是text-muted属性的强调色！</p>
-<p>这个是text-primary属性的强调色！
-这个是text-success属性的强调色！
-这个是text-info属性的强调色！
-这个是text-warning属性的强调色！
-这个是text-danger属性的强调色！</p>]]></description>
-</item>
-<item>
   <title>pdf转word等格式工具</title>
   <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
@@ -1387,6 +1036,250 @@ RSS订阅
             <h4>Lighthouse (figure)</h4>
         </figcaption>
 </figure>]]></description>
+</item>
+<item>
+  <title>进阶篇</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/tutorial/shili-jinjiepian/images/featured-image.png" referrerpolicy="no-referrer">
+      </div><p>探索 Hugo - <strong>FixIt</strong> 主题的的进阶使用。</p>
+<h2 id="自定义样式">自定义样式</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.8"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>Hugo <strong>extended</strong> 版本对于自定义样式是必需的。</p>
+<p>通过定义自定义 <code>.scss</code> 样式文件，<strong>FixIt</strong> 主题支持可配置的样式。</p>
+<p>包含自定义 <code>.scss</code> 样式文件的目录相对于 <strong>你的项目根目录</strong> 的路径为 <code>assets/css</code>。</p>
+<p>在 <code>assets/css/_override.scss</code> 中，你可以覆盖 <code>themes/FixIt/assets/css/_variables.scss</code> 中的变量以自定义样式。</p>
+</div>
+    </div>
+  </div>
+<p>这是一个例子：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-scss" data-lang="scss"><span class="line"><span class="cl"><span class="k">@import</span> <span class="sx">url(&#39;https://fonts.googleapis.com/css?family=Fira+Mono:400,700&amp;display=swap&amp;subset=latin-ext&#39;)</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">$code-font-family</span><span class="o">:</span> <span class="n">Fira</span> <span class="n">Mono</span><span class="o">,</span> <span class="n">Source</span> <span class="n">Code</span> <span class="n">Pro</span><span class="o">,</span> <span class="n">Menlo</span><span class="o">,</span> <span class="n">Consolas</span><span class="o">,</span> <span class="n">Monaco</span><span class="o">,</span> <span class="ni">monospace</span><span class="p">;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>在 <code>assets/css/_custom.scss</code> 中，你可以添加一些 CSS 样式代码以自定义样式。</p>
+<h3 id="页面宽度">页面宽度</h3>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>FixIt 主题提供了页面宽度配置选项 <code>pageStyle</code> 并提供三种选项。</p>
+<ul>
+<li><strong>narrow</strong> 保留 <code>&lt;v0.2.13</code> 页面目录宽度比</li>
+<li><strong>normal</strong> 新的默认页面目录宽度比</li>
+<li><strong>wide</strong> 较大的页面目录宽度比</li>
+</ul>
+<p>另外，你还可以在 <code>assets/css/_custom.scss</code> 中，自定义 <code>pageStyle</code> 值</p>
+<p>例如： <code>pageStyle=&quot;custom&quot;</code></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-scss" data-lang="scss"><span class="line"><span class="cl"><span class="k">@media</span> <span class="n">only</span> <span class="ni">screen</span> <span class="ow">and</span> <span class="p">(</span><span class="na">min-width</span><span class="o">:</span> <span class="mi">1441</span><span class="kt">px</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="o">[</span><span class="nt">data-page-style</span><span class="o">=</span><span class="s1">&#39;custom&#39;</span><span class="o">]</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nc">.page</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">70</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nt">aside</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">15</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">@media</span> <span class="n">only</span> <span class="ni">screen</span> <span class="ow">and</span> <span class="p">(</span><span class="na">max-width</span><span class="o">:</span> <span class="mi">1440</span><span class="kt">px</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="o">[</span><span class="nt">data-page-style</span><span class="o">=</span><span class="s1">&#39;custom&#39;</span><span class="o">]</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nc">.page</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">60</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nt">aside</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">20</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">@media</span> <span class="n">only</span> <span class="ni">screen</span> <span class="ow">and</span> <span class="p">(</span><span class="na">max-width</span><span class="o">:</span> <span class="mi">1200</span><span class="kt">px</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="o">[</span><span class="nt">data-page-style</span><span class="o">=</span><span class="s1">&#39;custom&#39;</span><span class="o">]</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nc">.page</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">56</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nt">aside</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">22</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="打印样式">打印样式</h3>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>在 FixIt 主题中，提供有三个打印视图相关的 CSS 类</p>
+<ul>
+<li><code>page-break-before</code> 在元素之前插入分页符</li>
+<li><code>page-break-after</code> 在元素之后插入分页符</li>
+<li><code>print-d-none</code> 在打印视图中隐藏元素</li>
+</ul>
+<p>下面是一个简单的例子：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;page-break-before&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;page-break-after&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;print-d-none&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  您希望在打印视图中隐藏的某些内容写在此处。
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>如果设置 <code>goldmark.parser.attribute.block</code> 为 <code>true</code>，你也可以这样用：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{.page-break-before}
+</span></span><span class="line"><span class="cl">{.page-break-after}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">您希望在打印视图中隐藏的某些内容写在此处。
+</span></span><span class="line"><span class="cl">{.print-d-none}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="自定义脚本">自定义脚本</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.16"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>包含自定义脚本文件 <code>custom.js</code> 的目录相对于 <strong>你的项目根目录</strong> 的路径为 <code>assets/js</code>。</p>
+<p>如果脚本文件 <code>assets/js/custom.js</code> 存在，它将在每篇文章和页面的末尾执行。</p>
+<h2 id="自定义模板">自定义模板</h2>
+<p>Hugo 允许您通过覆盖主题模板来改造主题，例如：您可以创建 <code>layouts/404.html</code> 文件以覆盖 <code>themes/FixIt/layouts/404.html</code>，从而实现自定义 FixIt 主题 404 页面模板的需求。</p>
+<p>但是，对于主题的大多数模板，FixIt 通常不建议您这样做，因为这样可能会导致未来升级主题困难。</p>
+<p>为了避免升级冲突问题，基于这一特性，FixIt 主题在常用的位置开放了几个空的模板以供用户客制化，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.customFilePath</code> 参数。</p>
+<p>例如，FixIt 主题文档站点通过创建 <code>layouts/partials/custom/profile.html</code> 自定义了首页的 profile 部分。</p>
+<p>首先，启用自定义文件路径参数：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">params</span><span class="p">.</span><span class="nx">customFilePath</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">profile</span> <span class="p">=</span> <span class="s2">&#34;custom/profile.html&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>然后，自定义模板：</p>
+<h2 id="pwa-支持">PWA 支持</h2>
+<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/guides/pwa-support/"target="_blank" rel="external nofollow noopener noreferrer">PWA 支持页面<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中介绍。</p>]]></description>
+</item>
+<item>
+  <title>扩展 Shortcode - bilibili</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>bilibili</code> shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。</p>
+<p>如果视频只有一个部分，则仅需要视频的 BV <code>id</code>, 例如：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://www.bilibili.com/video/BV1Sx411T7QQ
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>一个 <code>bilibili</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">BV1Sx411T7QQ</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">id</span><span class="o">=</span><span class="nx">BV1Sx411T7QQ</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1Sx411T7QQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
+<p>如果视频包含多个部分，则除了视频的 BV <code>id</code> 之外，还需要 <code>p</code>, 默认值为 <code>1</code>, 例如：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://www.bilibili.com/video/BV1TJ411C7An?p=3
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">BV1TJ411C7An</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">id</span><span class="o">=</span><span class="nx">BV1TJ411C7An</span><span class="w"> </span><span class="nx">p</span><span class="o">=</span><span class="mi">3</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1TJ411C7An&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></description>
 </item>
 </channel>
 </rss>
