@@ -21,6 +21,7 @@ https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/
 https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/
 https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/
 https://shiqustudio.github.io/tutorial/linux-permission/
+https://shiqustudio.github.io/git/
 https://shiqustudio.github.io/friends/
 https://shiqustudio.github.io/guestbook/
 https://shiqustudio.github.io/about/
