@@ -1,3 +1,4 @@
+https://shiqustudio.github.io/website/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/
 https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/personal/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/
@@ -26,4 +27,3 @@ https://shiqustudio.github.io/about/
 https://shiqustudio.github.io/blog-backup/
 https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/
 https://shiqustudio.github.io/offline/
-https://shiqustudio.github.io/website/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/
