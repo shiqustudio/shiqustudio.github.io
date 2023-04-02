@@ -100,7 +100,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### TinyURL
 
-![TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结](images\Screenshot-2021-10-23-12.48.jpg)
+![TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结](images/Screenshot-2021-10-23-12.48.jpg)
 
 🆔  资源名称：TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结
 
@@ -112,7 +112,7 @@ TinyURL 和Bitly 一样都提供付费升级、可自订网域名称的功能，
 
 ### Emojied
 
-![Emojied 免费缩网址工具，让短网址带有个性化表情符号😂](images\Screenshot-2022-05-11-11.33.jpg)
+![Emojied 免费缩网址工具，让短网址带有个性化表情符号😂](images/Screenshot-2022-05-11-11.33.jpg)
 
 🆔  资源名称：Emojied 免费缩网址工具，让短网址带有个性化表情符号😂
 
@@ -124,7 +124,7 @@ Emojied 还有简单的统计功能，用来查看某个短网址被点击的次
 
 ### Zero Width Shortener 
 
-![消失的短网址？ Zero Width Shortener 让网址缩短到几乎没有长度](images\2019-07-22_1340.png)
+![消失的短网址？ Zero Width Shortener 让网址缩短到几乎没有长度](images/2019-07-22_1340.png)
 
 🆔  资源名称：消失的短网址？Zero Width Shortener 让网址缩短到几乎没有长度
 
@@ -136,7 +136,7 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ### Make My Link Longer
 
-![这是恶搞吗？ Make My Link Longer 让网址变超长的「缩网址」服务](images\2019-05-12_1339.png)
+![这是恶搞吗？ Make My Link Longer 让网址变超长的「缩网址」服务](images/2019-05-12_1339.png)
 
 🆔  资源名称：这是恶搞吗？Make My Link Longer 让网址变超长的「缩网址」服务
 
@@ -148,7 +148,7 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ### TinyURL
 
-![TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选](images\Screenshot-2021-11-05-11.35.jpg)
+![TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选](images/Screenshot-2021-11-05-11.35.jpg)
 
 🆔  资源名称：TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选
 

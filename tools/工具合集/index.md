@@ -33,3 +33,13 @@
 > 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/  
 
+ 👉 转换软件：[蓝奏云](https://wwc.lanzoul.com/i4lBM0cajm4d)
+
+{{< figure src="/tools/images/Snipaste_2022-09-24_16-30-21.jpg" title="Lighthouse (figure)" >}}
+
+
+---
+
+> 作者: [聪](https://shiqustudio.github.io/)  
+> URL: https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/  
+
