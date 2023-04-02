@@ -20,13 +20,13 @@ console.log(site.name);
 [![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/Lruihao)
 
 {{< admonition info "关于我" false >}}
-|      角色      |       職業       |
+|      角色      |       职业       |
 | :------------: | :--------------: |
-| ~~在校大學生~~ | ~~Web 前端開發~~ |
-|   ~~實習生~~   | ~~Web 后端開發~~ |
-|      社畜      | ~~Web 全棧開發~~ |
-|                |   Web 前端開發   |
-{{< /admonition >}}
+| ~~在校大學生~~ | ~~后端开发~~ |
+|   ~~實習生~~   | ~~后端开发~~ |
+|      毕业      | ~~后棧开发~~ |
+| 社畜 |   全栈开发   |
+|{{< /admonition >}}||
 
 > 用我所学，学我所用。不盲目堆叠技术栈，保持谦逊，保持探索欲，砥砺前行。
 
@@ -52,6 +52,8 @@ console.log(site.name);
 
 - [RSS](http://shiqustudio.github.io/index.xml)
 - [GitHub](https://github.com/shiqustudio/hugo-blog)
+
+## 致谢
 
 {{< details "感谢大家的支持 🙏" >}}
 {{< reward wechatpay="/images/wechatpay.png" alipay="/images/alipay.png" comment="给博主买杯卡布奇诺～" mode="fixed" >}}
