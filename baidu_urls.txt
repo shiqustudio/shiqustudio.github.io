@@ -1,3 +1,4 @@
+https://shiqustudio.github.io/website/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/
 https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/
 https://shiqustudio.github.io/website/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/
 https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/
@@ -20,7 +21,6 @@ https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/
 https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/
 https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/
 https://shiqustudio.github.io/tutorial/linux-permission/
-https://shiqustudio.github.io/git/
 https://shiqustudio.github.io/friends/
 https://shiqustudio.github.io/guestbook/
 https://shiqustudio.github.io/about/
