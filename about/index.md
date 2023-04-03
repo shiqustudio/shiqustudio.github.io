@@ -20,13 +20,15 @@ console.log(site.name);
 [![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/Lruihao)
 
 {{< admonition info "关于我" false >}}
+
 |      角色      |       职业       |
 | :------------: | :--------------: |
 | ~~在校大學生~~ | ~~后端开发~~ |
 |   ~~實習生~~   | ~~后端开发~~ |
-|      毕业      | ~~后棧开发~~ |
+|      ~~毕业~~      | ~~后棧开发~~ |
 | 社畜 |   全栈开发   |
-|{{< /admonition >}}||
+
+{{< /admonition >}}
 
 > 用我所学，学我所用。不盲目堆叠技术栈，保持谦逊，保持探索欲，砥砺前行。
 
@@ -35,15 +37,13 @@ console.log(site.name);
 ## 初衷
 
 建站的初衷不是为了炫耀所知，而是记录无知。  
-人知道的越多，就会发现无知的越多。有更广袤的世界可以探索，真是莫大的快乐！
+人知道的越多，就会发现无知的越多。有更广袤的世界可以<font color = red>``探索``</font>，真是莫大的快乐！
 
-—— 创建于 2023-04-01 20:01:01
-
-{style="text-align: right;font-size: 80%;"}
+<p style="text-align: right;font-size: 100%;" >—— 创建于 2023-04-01 20:01:01</p>
 
 ## 期许
 
-{{% center-quote %}}
+{{% center-quote %}} 
 不卑不亢，不矜不伐，戒骄戒躁  
 不嗔不怒，不爭不弃，独善其身
 {{% /center-quote %}}
