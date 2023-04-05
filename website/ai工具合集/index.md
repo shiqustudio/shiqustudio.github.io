@@ -5,15 +5,39 @@
 
 <!--more-->
 
-### chatDoc
+### Free ChatGPT Site List
 
-{{< figure src="/website/images/image-20230401194343668.png" >}}
+{{< figure src="/website/images/image-20230405202635098.png" >}}
 
-🆔  资源名称： chatDoc
+🆔  资源名称：Free ChatGPT Site List
 
-⭐️  资源描述： AI实用工具，上传文档生成个人知识库，快速从文档中提取文件信息，通过问答的方式直接汇总文件信息
+⭐️  资源描述： 在线提供众多免费好用的ChatGPT镜像站点
 
-🌐 资源地址: [点击跳转](https://chatdoc.com/)
+🌐 资源地址: [点击跳转](https://cc.ai55.cc/)
+
+### ChatGPT Sites
+
+{{< figure src="/website/images/image-20230405203936853.png" >}}
+
+🆔  资源名称：ChatGPT Sites
+
+⭐️  资源描述： 搜集国内可用的 ChatGPT 在线体验免费网站列表。
+
+🌐 资源地址: [点击跳转](https://lzw.me/x/chatgpt-sites/)
+
+🌐 Github资源地址: [点击跳转](https://github.com/lzwme/chatgpt-sites)
+
+### Teach Anything
+
+{{< figure src="/website/images/image-20230405203655262.png" >}}
+
+🆔  资源名称：Teach Anything
+
+⭐️  资源描述： 使用 AI 在几秒钟内教你任何东西，回答模式有简单和专业，支持多国语言应用
+
+🌐 资源地址: [点击跳转](https://www.teach-anything.com/)
+
+🌐 Github资源地址: [点击跳转](https://github.com/lvwzhen/teach-anything)
 
 ###  Poe 网页版
 
@@ -23,7 +47,27 @@
 
 ⭐️  资源描述：一站式 AI 应用服务，整合 ChatGPT 等多款人工智慧模型
 
-🌐 资源地址： [点击跳转](https://poe.com/)          
+🌐 资源地址： [点击跳转](https://poe.com/)        
+
+### ChatPPT
+
+{{< figure src="/website/images/image-20230405203101048.png" >}}
+
+🆔  资源名称：ChatPPT
+
+⭐️  资源描述： 输入关键字，快速生成 PPT 演示内容，先加入内测进行使用
+
+🌐 资源地址: [点击跳转](https://chat-ppt.com/)
+
+### chatDoc
+
+{{< figure src="/website/images/image-20230401194343668.png" >}}
+
+🆔  资源名称： chatDoc
+
+⭐️  资源描述： AI实用工具，上传文档生成个人知识库，快速从文档中提取文件信息，通过问答的方式直接汇总文件信息
+
+🌐 资源地址: [点击跳转](https://chatdoc.com/)  
 
 ###  ChatPDF            
 
@@ -36,6 +80,26 @@
 🌐 资源地址： [点击跳转](https://www.chatpdf.com/)    
 
 ### AI绘图
+
+#### CGFaces
+
+{{< figure src="/website/images/image-20230405205253498.png" >}}   
+
+🆔  资源名称： CGFaces
+
+⭐️  资源描述：一个提供免费高质量的 AI 人物图像平台。网站提供的人像都是现实中不存在的，目前可以免费下载，以后估计会有一定的商业化
+
+🌐 资源地址： [点击跳转](https://cgfaces.com/) 
+
+#### Vega Ai
+
+{{< figure src="/website/images/image-20230405203309660.png" >}}   
+
+🆔  资源名称： Vega Ai
+
+⭐️  资源描述：由 Ai 生成虚拟人物精致图片
+
+🌐 资源地址： [点击跳转](https://rightbrain.art/text2Image)    
 
 #### AI Background Generator
 
