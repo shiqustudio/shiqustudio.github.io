@@ -148,7 +148,7 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ### TinyURL
 
-![TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-05-11.35.jpg)
+![image-20230406210950512](https://bib0.com/xc/i/hugoBlog/image-20230406210950512.png)
 
 🆔  资源名称：TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选
 
