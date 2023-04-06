@@ -10,7 +10,7 @@
   <author>聪</author>
   <guid>https://shiqustudio.github.io/website/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/images/imghut-01.jpg" referrerpolicy="no-referrer">
+        <img src="https://bib0.com/xc/i/hugoBlog/imghut-01.jpg" referrerpolicy="no-referrer">
       </div><blockquote>
 <p>图片空间列表、介绍，再也不怕上传图片找不到空间啰！</p>
 </blockquote>
@@ -69,7 +69,7 @@
 <p>举例来说，使用者上传一张图片、调整为三种不同大小、两种不同的图片格式时，只需要支付单张图片储存的费用，而非传统图片储存服务的七张配额（一张原图、三种尺寸加上各两种格式）。</p>
 <p>当前这项服务可以选择的参数并不如一些专业图片处理服务（例如Imgix、ImageKit），Cloudflare 会持续更新、加入更多编辑功能。</p>
 <p>在Cloudflare Images 价格方面，<strong>初始费用为每月$5 美元（可储存100,000 张影像）</strong>，也有$10 美元和$50 美元选项，分别可以储存最多200,000 张、1,000,000 张影像，这是属于预付的价格，<strong>图片传输时每递送100,000 次会收取$1 美元费用（后付）</strong>，Cloudflare Image 以图片传输次数计价，不额外计算流量费用，如果在图片档案较大的情况下可以有效节省支出。</p>
-<p>🌐 资源地址： <a href="https://www.cloudflare.com/zh-tw/products/cloudflare-images/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>🌐 资源地址： <a href="https://www.cloudflare.com/zh-tw/products/cloudflare-https://bib0.com/xc/i/hugoBlog/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 <h3 id="folioink">Folio.ink</h3>
 <p></p>
 <p>🆔  资源名称：Folio.ink 为创作者提供免费图片空间，批次上传以幻灯片模式浏览相簿</p>

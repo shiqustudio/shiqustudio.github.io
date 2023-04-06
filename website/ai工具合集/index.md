@@ -7,7 +7,7 @@
 
 ### Free ChatGPT Site List
 
-{{< figure src="/website/images/image-20230405202635098.png" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405202635098.png" >}}
 
 🆔  资源名称：Free ChatGPT Site List
 
@@ -17,7 +17,7 @@
 
 ### ChatGPT Sites
 
-{{< figure src="/website/images/image-20230405203936853.png" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203936853.png" >}}
 
 🆔  资源名称：ChatGPT Sites
 
@@ -29,7 +29,7 @@
 
 ### Teach Anything
 
-{{< figure src="/website/images/image-20230405203655262.png" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203655262.png" >}}
 
 🆔  资源名称：Teach Anything
 
@@ -41,7 +41,7 @@
 
 ###  Poe 网页版
 
-{{< figure src="/website/images/poe-web-08.jpg" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/poe-web-08.jpg" >}}
 
 🆔  资源名称： Poe 网页版
 
@@ -51,7 +51,7 @@
 
 ### ChatPPT
 
-{{< figure src="/website/images/image-20230405203101048.png" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203101048.png" >}}
 
 🆔  资源名称：ChatPPT
 
@@ -61,7 +61,7 @@
 
 ### chatDoc
 
-{{< figure src="/website/images/image-20230401194343668.png" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230401194343668.png" >}}
 
 🆔  资源名称： chatDoc
 
@@ -71,7 +71,7 @@
 
 ###  ChatPDF            
 
-{{< figure src="/website/images/chatpdf-01.jpg" >}}                                                                                    
+{{< figure src="https://bib0.com/xc/i/hugoBlog/chatpdf-01.jpg" >}}                                                                                    
 
 🆔  资源名称： ChatPDF 将PDF 文件丢给AI，快速归纳并解答相关问题
 
@@ -83,7 +83,7 @@
 
 #### CGFaces
 
-{{< figure src="/website/images/image-20230405205253498.png" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405205253498.png" >}}   
 
 🆔  资源名称： CGFaces
 
@@ -93,7 +93,7 @@
 
 #### Vega Ai
 
-{{< figure src="/website/images/image-20230405203309660.png" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203309660.png" >}}   
 
 🆔  资源名称： Vega Ai
 
@@ -103,7 +103,7 @@
 
 #### AI Background Generator
 
-{{< figure src="/website/images/d_1280.png" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/d_1280.png" >}}
 
 🆔  资源名称： AI Background Generator
 
@@ -113,7 +113,7 @@
 
 #### StockAI
 
-{{< figure src="/website/images/1280.jpg" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/1280.jpg" >}}
 
 🆔  资源名称： StockAI
 
@@ -123,7 +123,7 @@
 
 #### Playground AI 
 
-{{< figure src="/website/images/6e26ec784fe9403a8f3d56e619725e74.jpeg" >}}
+{{< figure src="https://bib0.com/xc/i/hugoBlog/6e26ec784fe9403a8f3d56e619725e74.jpeg" >}}
 
 🆔  资源名称： Playground AI
 
@@ -135,7 +135,7 @@
 
 ### AI万能图片编辑器
 
-{{< figure src="/website/images/image-20230401202548135.png" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230401202548135.png" >}}   
 
 🆔  资源名称：AI万能图片编辑器
 
@@ -153,7 +153,7 @@
 
 ### ZeroGPT
 
-{{< figure src="/website/images/zerogpt-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/zerogpt-01.jpg" >}}   
 
 🆔  资源名称： ZeroGPT
 
@@ -163,7 +163,7 @@
 
 ### Cleanvoice AI
 
-{{< figure src="/website/images/cleanvoice-ai-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/cleanvoice-ai-01.jpg" >}}   
 
 🆔  资源名称： Cleanvoice AI
 
@@ -173,7 +173,7 @@
 
 ### Chat YouTube
 
-{{< figure src="/website/images/chatyoutube-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/chatyoutube-01.jpg" >}}   
 
 🆔  资源名称： Chat YouTube
 
@@ -183,7 +183,7 @@
 
 ### AI 影像建立者
 
-{{< figure src="/website/images/bing-ai-image-creator-02.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/bing-ai-image-creator-02.jpg" >}}   
 
 🆔  资源名称： AI 影像建立者
 
@@ -193,7 +193,7 @@
 
 ### DALL·E
 
-{{< figure src="/website/images/dall-e-2-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/dall-e-2-01.jpg" >}}   
 
 🆔  资源名称： DALL·E
 
@@ -203,7 +203,7 @@
 
 ### Microsoft Edge
 
-{{< figure src="/website/images/microsoft-edge-bing-ai-sidebar-02.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/microsoft-edge-bing-ai-sidebar-02.jpg" >}}   
 
 🆔  资源名称： Microsoft Edge
 
@@ -213,7 +213,7 @@
 
 ### Good Tape
 
-{{< figure src="/website/images/good-tape-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/good-tape-01.jpg" >}}   
 
 🆔  资源名称： Good Tape 录音转逐字稿自动化工具，支援中文在内等多国语言
 
@@ -223,7 +223,7 @@
 
 ### ChatGPT 万能工具箱
 
-{{< figure src="/website/images/chatgpt-toolkit-05.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/chatgpt-toolkit-05.jpg" >}}   
 
 🆔  资源名称：ChatGPT 万能工具箱：强化ChatGPT 网站使用体验的Chrome 扩充功能
 
@@ -240,7 +240,7 @@
 
 ### ChatGPT 指令大全
 
-{{< figure src="/website/images/explainthis-chatgpt-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/explainthis-chatgpt-01.jpg" >}}   
 
 🆔  资源名称： ChatGPT 指令大全：透过这些语句让AI 成为你的生产力工具
 
@@ -250,7 +250,7 @@
 
 ### ChatGPT Writer
 
-{{< figure src="/website/images/chatgpt-writer-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/chatgpt-writer-01.jpg" >}}   
 
 🆔  资源名称： ChatGPT Writer 使用AI 帮你写Email 还能整合Gmail 一键回信
 
@@ -262,7 +262,7 @@
 
 ### ChatGPT for Google
 
-{{< figure src="/website/images/chatgpt-for-google-01.jpg" >}}   
+{{< figure src="https://bib0.com/xc/i/hugoBlog/chatgpt-for-google-01.jpg" >}}   
 
 🆔  资源名称：ChatGPT for Google 在搜寻引擎结果页面显示聊天机器人回传结果
 
