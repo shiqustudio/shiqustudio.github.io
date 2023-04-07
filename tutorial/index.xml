@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>相关教程 on 拾趣资源</title>
+    <link>https://shiqustudio.github.io/tutorial/</link>
+    <description>Recent content in 相关教程 on 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://shiqustudio.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>进阶篇</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</guid>
+      <description>&lt;p&gt;探索 Hugo - &lt;strong&gt;FixIt&lt;/strong&gt; 主题的的进阶使用。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>扩展 Shortcode - bilibili</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg&#34; srcset=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 2x&#34; sizes=&#34;auto&#34; data-title=&#34;FixIt 0.2.0 | 更改&#34; data-alt=&#34;FixIt 0.2.0 | 更改&#34; style=&#34;background: url(/svg/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;bilibili&lt;/code&gt; shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>扩展 Shortcode - echarts</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg&#34; srcset=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 2x&#34; sizes=&#34;auto&#34; data-title=&#34;FixIt 0.2.0 | 更改&#34; data-alt=&#34;FixIt 0.2.0 | 更改&#34; style=&#34;background: url(/svg/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;echarts&lt;/code&gt; shortcode 使用 &lt;a href=&#34;https://echarts.apache.org/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;ECharts&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 库提供数据可视化的功能。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>扩展 Shortcode - mapbox</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
+      <description>Create watermark for webpage and automatic adjust when window resize.</description>
+    </item>
+    
+    <item>
+      <title>扩展 Shortcode - mermaid</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
+      <description>Create watermark for webpage and automatic adjust when window resize.</description>
+    </item>
+    
+    <item>
+      <title>扩展 Shortcode - music</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg&#34; srcset=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 2x&#34; sizes=&#34;auto&#34; data-title=&#34;FixIt 0.2.0 | 更改&#34; data-alt=&#34;FixIt 0.2.0 | 更改&#34; style=&#34;background: url(/svg/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;music&lt;/code&gt; shortcode 基于 &lt;a href=&#34;https://github.com/MoePlayer/APlayer&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;APlayer&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 和 &lt;a href=&#34;https://github.com/metowolf/MetingJS&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;MetingJS&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 提供了一个内嵌的响应式音乐播放器。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>扩展 Shortcode - typeit</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</guid>
+      <description>&lt;p&gt;&lt;code&gt;typeit&lt;/code&gt; shortcode 基于 &lt;a href=&#34;https://typeitjs.com/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;TypeIt&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 提供了打字动画。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>扩展 Shortcodes</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg&#34; srcset=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 2x&#34; sizes=&#34;auto&#34; data-title=&#34;FixIt 0.2.0 | 更改&#34; data-alt=&#34;FixIt 0.2.0 | 更改&#34; style=&#34;background: url(/svg/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FixIt&lt;/strong&gt; 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>内容管理</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-neirongguanli/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-neirongguanli/</guid>
+      <description>&lt;p&gt;了解如何在 &lt;strong&gt;FixIt&lt;/strong&gt; 主题中快速，直观地创建和组织内容。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>入门篇</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-rumenpian/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-rumenpian/</guid>
+      <description>&lt;p&gt;探索 Hugo - &lt;strong&gt;FixIt&lt;/strong&gt; 主题的的基础知识和背后的核心概念。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>快速上手</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/</link>
+      <pubDate>Wed, 15 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/</guid>
+      <description>&lt;p&gt;学习在几分钟内创建一个 Hugo &lt;strong&gt;FixIt&lt;/strong&gt; 站点。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown 扩展语法</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Mon, 20 Feb 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/</guid>
+      <description>&lt;p&gt;[&lt;img loading=&#34;lazy&#34; src=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg&#34; srcset=&#34;https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg 2x&#34; sizes=&#34;auto&#34; data-title=&#34;FixIt 0.2.0 | 更改&#34; data-alt=&#34;FixIt 0.2.0 | 更改&#34; style=&#34;background: url(/svg/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of [&#39;style&#39;,&#39;data-title&#39;,&#39;data-alt&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(a);}&#34;/&gt;&lt;strong&gt;FixIt&lt;/strong&gt; 主题提供了一些扩展的语法便于你撰写文章。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>内容加密</title>
+      <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</link>
+      <pubDate>Mon, 20 Feb 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</guid>
+      <description>&lt;p&gt;了解如何在 FixIt 主题中加密内容。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>linux 文件权限</title>
+      <link>https://shiqustudio.github.io/tutorial/linux-permission/</link>
+      <pubDate>Mon, 20 Feb 2023 17:15:44 +0800</pubDate>
+      
+      <guid>https://shiqustudio.github.io/tutorial/linux-permission/</guid>
+      <description>&lt;p&gt;记录 linux 系统下文件权限相关的内容，Mac OS 下类似。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

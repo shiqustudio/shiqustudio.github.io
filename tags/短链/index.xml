@@ -1,0 +1,94 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>短链 - 标签 - 拾趣资源</title>
+    <link>https://shiqustudio.github.io/tags/%E7%9F%AD%E9%93%BE/</link>
+    <description>短链 - 标签 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E7%9F%AD%E9%93%BE/" rel="self" type="application/rss+xml" /><item>
+  <title>缩短链接</title>
+  <link>https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/</link>
+  <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230402215853220.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面，缩网址的好处一来大幅减少网址的字元数，二来可让网址看起来更干净简洁，在社群网站经常被用到（尤其是撰写长篇内容），不会因为过长的网址而产生被截断、无法顺利打开的问题。</p>
+<p>现今缩网址服务也整合各种附加功能，最常见的像是点击统计、密码保护、流量追踪（加入UTM、Google 分析或Facebook Pixel 代码）或是依照不同作业系统、装置或浏览器分别设定不同的目标网址，甚至能在付费后设定自己的网域名称，将网址打造为个性化的短网址。</p>
+</blockquote>
+<h3 id="short-io">Short io</h3>
+<p></p>
+<p>🆔  资源名称： Short io 可自订网域名称的免费缩网址服务</p>
+<p>⭐️  资源描述： <strong>「<a href="https://short.io/zh"target="_blank" rel="external nofollow noopener noreferrer">Short.io<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个可使用自订网域名称缩短链结的短网址</strong>，简单来说，就是可绑定网址的缩网址，当今大多数的缩网址服务已经不再提供这样的免费功能，若有自己的网址想要做为品牌缩网址使用，除了付费取得升级方案可能才会有自订网域名称功能，不然就是要自己想办法架设缩网址服务，可能难度略高一些，但相对来说也会比较省钱（只是后续维护或管理就得要投入时间成本）。<strong>Short.io 提供免费版方案5 个可自订网域名称数量、一共能产生1000 个品牌化网址</strong>，不会对于访客数量进行限制，若未来需要再来升级付费方案即可解除产生网址数量，不过大部分的进阶功能（例如以国家地区对应不同网址、链结自动失效、有点击次数限制网址、隐藏来源或密码保护）都要付费升级开启，但最基本的自订网域名称、产生个性化缩网址则可在免费方案使用。</p>
+<p>🌐 资源地址: <a href="https://short.io/zh"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="cuttly">Cuttly</h3>
+<p></p>
+<p>🆔  资源名称： Cuttly 免费缩网址服务，提供自订网域名称和连结后缀功能</p>
+<p>⭐️  资源描述：<strong>「<a href="https://cutt.ly/"target="_blank" rel="external nofollow noopener noreferrer">Cuttly<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个知名的免费缩短网址服务，它的性质和Bitly比较接近，除了将链结字元减少，也提供一大堆附加功能</strong>，使用者如果想单纯将Cuttly 拿来做缩网址工具也没问题，无需注册、直接打开网站将原始网址贴上就能产生新的缩网址（这和大部分的同类型服务一样），我在「Url Shortener」一文有提到这个浏览器外挂也支援Cuttly 自订API key 功能。</p>
+<p>虽然Cuttly 是免费服务但也提供付费升级方案，依照支付的费用不同、可用到的功能和配额也不一样，如果只想要注册免费会员，依然有一些基本功能可用，例如自订短网址后缀（Change Url Alias / Name）、设定UTM 或产生QR code 都不用额外付费，<strong>更棒的是Cuttly 提供免费自订网域名称功能（Custom Branded Domains）。</strong></p>
+<p>若你想要设定自己的网址做为缩网址使用，Cuttly 能让你在完全不用付费的情况下使用这项功能，Bitly 后来也没有免费的自订网域名称，所以Cuttly 可以说是免费替代方案，当然在产生的短链结数量上还是有限制，除非付费才能享有无限制的额度，不过每个月能建立1000 个缩网址其实对很多人来说应该也还算够用。</p>
+<p>🌐 资源地址： <a href="https://cutt.ly/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="bitly">Bitly</h3>
+<p></p>
+<p>🆔  资源名称：Bitly 免费缩网址自订网域名称教学，让短网址也具有品牌风格</p>
+<p>⭐️  资源描述：Bitly 最棒的是可<strong>自订网域名称</strong>（Branded Short Domain），而且无须付费、免费帐户就支援这功能，使用自己的网址作为缩网址，让显示出来的短网址更专业、看起来更个性化，不妨将它绑定Bitly，就能透过服务提供的技术产生短网址。前提是你必须自行注册网域名称，设定后将网域记录对应到指定的IP 位址完成验证。</p>
+<p>🌐 资源地址： <a href="https://bitly.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="url-shortener">Url Shortener</h3>
+<p></p>
+<p>🆔  资源名称： Url Shortener 一键缩短连结、产生QR code，支援六种缩网址服务</p>
+<p>⭐️  资源描述：Url Shortener」是一个快速缩短网址外挂功能，支援Chrome 和Firefox 两大浏览器，<strong>透过这个功能可为当前网页或是任何连结转为缩网址，同时产生QR code 方便让行动装置扫描</strong>，值得一提的是Url Shortener 支援多种常见常用的短网址服务，包括：</p>
+<ul>
+<li>tinyurl.com</li>
+<li>is.gd</li>
+<li>v.gd</li>
+<li>tny.im</li>
+<li>bit.ly</li>
+<li>cutt.ly</li>
+</ul>
+<p>其中<strong>bit.ly 和cutt.ly还支援让使用者设定API key 连接自己的帐户</strong>，例如你有在bit.ly、cutt.ly 绑定网域名称、制作自己的短网址，就能利用Url Shortener 外挂快速产生短网址。</p>
+<p>顺带一提，Url Shortener 能调整是否自动将缩网址复制到剪贴簿、深色模式、缩网址时产生QR code、在下拉式选单隐藏原始网址输入框和查询历史纪录、将短网址纪录汇出为 <code>.csv</code> 格式等功能，可以说使用上的弹性相当高，甚至能做到像是Native URL Shortener 一样很干净简洁的缩网址效果。</p>
+<p>Url Shortener 是一个开放原始码专案，可以在<a href="https://github.com/tonystark93/URL-shortener-extension"target="_blank" rel="external nofollow noopener noreferrer">GitHub<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>找到相关程式码，也是注重用户隐私的选择，不会在使用扩充功能时要求不必要的权限或追踪用户。</p>
+<p>🌐 资源地址： <a href="https://chrome.google.com/webstore/detail/url-shortener/godoifjoiadanijplaghmhgfeffnblib"target="_blank" rel="external nofollow noopener noreferrer">Chrome 线上应用程式商店<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>| <a href="https://addons.mozilla.org/zh-TW/firefox/addon/url-shortener-/"target="_blank" rel="external nofollow noopener noreferrer">Firefox 附加元件站<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="myppt">MyPPT</h3>
+<p></p>
+<p>🆔  资源名称：MyPPT 缩网址上传影片、照片转连结，设定浏览密码和过期时间</p>
+<p>⭐️  资源描述：<strong>「<a href="https://myppt.cc/"target="_blank" rel="external nofollow noopener noreferrer">MyPPT 缩网址<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个很多人会使用的短网址服务，结合影片和照片上传功能</strong>，号称最安全、快速、方便且免费的短网址服务，无需注册帐号即可使用。</p>
+<p>透过MyPPT 除了能将网址缩短，还能够分享照片及影片，直接转换为短链结，<strong>同时设定浏览密码、有效日期和阅读次数限制，让超过期限的网址自动失效</strong>，也有锁右键等防护措施避免浏览者将照片、影片破解下载保存。</p>
+<p>🌐 资源地址： <a href="https://myppt.cc/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="linksafe">LinkSafe</h3>
+<p></p>
+<p>🆔  资源名称：LinkSafe 在缩网址加入reCAPTCHA 验证机制，阻止自动点击程式</p>
+<p>⭐️  资源描述：<a href="https://linksafe.ly/"target="_blank" rel="external nofollow noopener noreferrer">LinkSafe<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>是一个免费缩短网址服务，和其他缩网址不同的是会在产生转址时自动加入<a href="https://zh.wikipedia.org/zh-cn/ReCAPTCHA"target="_blank" rel="external nofollow noopener noreferrer">reCAPTCHA<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>验证机制，也就是大家在浏览某些网站时会跳出「<strong>我不是机器人</strong>」选项，按下后可能会跳出要求选择特定图片的问答题，通过验证才会跳转目标网址，<strong>加上验证机制的短网址可有效阻止自动化程式或恶意流量</strong>，因为大部分机器人无法通过reCAPTCHA 验证（2009 年Google 宣布收购reCAPTCHA，不断改良后现在只需勾选I&rsquo;m not a robot 就会判定是否为真人）。</p>
+<p>🌐 资源地址： <a href="https://linksafe.ly/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="sudopad">Sudopad</h3>
+<p></p>
+<p>🆔  资源名称：Sudopad 将多个网址加入单一页面分享，支援多人协作收集网址很好用</p>
+<p>⭐️  资源描述：<strong><a href="https://sudopad.com/"target="_blank" rel="external nofollow noopener noreferrer">Sudopad<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个在朋友间分享网址的免费服务，可将多个链结加入到单一页面中，产生为一个随机网址</strong>，这个服务的特色是无需注册就能马上使用，也能在新增网址时加上备注说明，就能在网址列表显示。</p>
+<p>不过最重要的是Sudopad 有「多人协作」功能，任何打开相同页面的使用者都具有新增链结权限，如果想要多人一起收集网址就很方便，不过Sudopad 没有提供任何的删除功能，也就是说无论是产生的页面或加入的网址都无法进行删除，有需要的朋友可以试试看。</p>
+<p>🌐 资源地址： <a href="https://sudopad.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="tinyurl">TinyURL</h3>
+<p></p>
+<p>🆔  资源名称：TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结</p>
+<p>⭐️  资源描述：最初<a href="https://tinyurl.com/"target="_blank" rel="external nofollow noopener noreferrer">TinyURL<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>缩网址只会产生tinyurl.com 开头的网址链结，**后来加入让使用者可自订链结的选项，提供新的rotf.lol 和tiny.one 两种短网址，也能自订别名（alias 就是在网址后面的那串文字）。**如果你想追踪短网址被点击次数，或是手动删除和编辑TinyURL 短网址，记得先免费注册帐号。</p>
+<p>TinyURL 和Bitly 一样都提供付费升级、可自订网域名称的功能，简单来说，如果你想要将自己注册的网址做为短网址使用，直接整合到TinyURL 现有系统的话可透过付费升级来开启相关功能，依照产生的短网址数量计价。</p>
+<p>🌐 资源地址： <a href="https://tinyurl.com/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="emojied">Emojied</h3>
+<p></p>
+<p>🆔  资源名称：Emojied 免费缩网址工具，让短网址带有个性化表情符号😂</p>
+<p>⭐️  资源描述：<strong>「<a href="https://emojied.net/"target="_blank" rel="external nofollow noopener noreferrer">Emojied<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」是一个很有趣的免费缩网址工具，可以将网址转换为表情符号</strong>，操作方式和一般的缩短网址服务一样，将原始链结复制、贴上，点选产生后就会随机转为一段新的网址，当然Emojied 网址后面不使用英数字，而是使用表情符号，也能透过自订功能加入想要的图案（请参考<a href="https://free.com.tw/piliapp-emoji-list/"target="_blank" rel="external nofollow noopener noreferrer">Emoji 列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>）。</p>
+<p>Emojied 还有简单的统计功能，用来查看某个短网址被点击的次数，不过 Emojied 趣味性高于实用性，就像之前推荐过的「Zero Width Shortener」可产生几乎没有长度的缩短网址或是「Make My Link Longer」让网址变得更长（不过这项服务目前已经无法使用）。</p>
+<p>🌐 资源地址： <a href="https://emojied.net/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="zero-width-shortener">Zero Width Shortener</h3>
+<p></p>
+<p>🆔  资源名称：消失的短网址？Zero Width Shortener 让网址缩短到几乎没有长度</p>
+<p>⭐️  资源描述：「<a href="https://zws.im/"target="_blank" rel="external nofollow noopener noreferrer">Zero Width Shortener<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>（ZWS）」刚好和Make My Link Longer 做为两个极端，一个让短网址趋近零字元，另一个则是转为一大串看似乱码又带有参数的长网址。依照开发者说明，<strong>ZWS 使用宽度为零的空格产生短网址，因此产生后的缩网址看起来不带任何字元，但只要复制、贴上依然可以正常跳转到目标页面。</strong></p>
+<p>Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可以前往<a href="https://github.com/pizzafox/zero-width-shortener"target="_blank" rel="external nofollow noopener noreferrer">GitHub<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看更多相关资讯，不过ZWS 也带来一些问题，包括<strong>在多个网址情况下难以辨识不同的用途</strong>（而这刚好也是短网址普遍的问题，点选链结之前无法预先知道会被引导到那里），还有在一些社群网站或即时通讯软体可能会产生问题等等，无论如何，ZWS 是个相当特别有趣的想法，提供给喜欢各种神奇服务的读者朋友研究研究。</p>
+<p>🌐 资源地址： <a href="https://zws.im/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<h3 id="make-my-link-longer">Make My Link Longer</h3>
+<p></p>
+<p>🆔  资源名称：这是恶搞吗？Make My Link Longer 让网址变超长的「缩网址」服务</p>
+<p>⭐️  资源描述：大部分服务都是让网址「缩短」，那有没有让网址「变长」的呢？<strong>本文介绍的「<a href="https://make-my-link-longer.glitch.me/"target="_blank" rel="external nofollow noopener noreferrer">Make My Link Longer<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>」就是一个让网址变得超长的趣味服务</strong>，使用时就和缩网址一样，把网址贴上后就会产生一大串看似乱码的网址，透过这一长串网址一样可以跳转到目标页面喔！</p>
+<p>不过把网址变长究竟有什么用？一时半刻好像说不上来，但有使用者表示把这段网址放在电子邮件名片档确实有提高点击率的效果，或是使用于交友软体以获取更多关注，如果在写报告需要让字元数增加，透过Make My Link Longer 让网址变长再放到最后参考资料也能让整体字数看起来…（好孩子不要学）。</p>
+<p>🌐 资源地址： <a href="https://make-my-link-longer.glitch.me/"target="_blank" rel="external nofollow noopener noreferrer">点击跳转<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
+</item>
+</channel>
+</rss>
