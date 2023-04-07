@@ -1376,8 +1376,8 @@ this is a center-quote shortcode example.
     <div class="comment">给作者买杯卡布奇诺～</div>
     <input type="checkbox" class="reward-input" name="reward" id="id-2" hidden />
     <label class="reward-button" for="id-2">赞赏</label>
-    <div class="reward-ways"><div><span>支付宝</span>
-          </div><div><span>微信</span>
+    <div class="reward-ways"><div><span data-animation>支付宝</span>
+          </div><div><span data-animation>微信</span>
           </div></div>
   </div> 
 </span></span></code></pre></td></tr></table>
@@ -1387,8 +1387,8 @@ this is a center-quote shortcode example.
     <div class="comment">给作者买杯卡布奇诺～</div>
     <input type="checkbox" class="reward-input" name="reward" id="id-3" hidden />
     <label class="reward-button" for="id-3">赞赏</label>
-    <div class="reward-ways"><div><span>支付宝</span>
-          </div><div><span>微信</span>
+    <div class="reward-ways"><div><span data-animation>支付宝</span>
+          </div><div><span data-animation>微信</span>
           </div></div>
   </div>]]></description>
 </item>
@@ -1598,7 +1598,7 @@ this is a center-quote shortcode example.
   <title>内容加密</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</link>
   <pubDate>Mon, 20 Feb 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Suroppo</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/featured-image.png" referrerpolicy="no-referrer">

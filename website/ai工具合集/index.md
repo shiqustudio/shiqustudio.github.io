@@ -246,7 +246,7 @@
 
 ⭐️  资源描述：「[ChatGPT 指令大全](https://www.explainthis.io/zh-hant/chatgpt)」是一个很有用的ChatGPT 攻略，**它列出一些精炼过的指令语句，只要复制、在各个条件项目上稍作修改，就能引导ChatGPT 进行更准确的回覆，充分发挥AI 人工智慧的强大力量！**
 
-🌐 资源地址： [点击跳转](https://www.explainthis.io/zh-hant/chatgpthttps://www.explainthis.io/zh-hant/chatgpt)
+🌐 资源地址： [点击跳转](https://www.explainthis.io/zh-hant/chatgpt)
 
 ### ChatGPT Writer
 

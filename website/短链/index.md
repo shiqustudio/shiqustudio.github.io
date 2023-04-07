@@ -144,17 +144,7 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 不过把网址变长究竟有什么用？一时半刻好像说不上来，但有使用者表示把这段网址放在电子邮件名片档确实有提高点击率的效果，或是使用于交友软体以获取更多关注，如果在写报告需要让字元数增加，透过Make My Link Longer 让网址变长再放到最后参考资料也能让整体字数看起来…（好孩子不要学）。
 
-🌐 资源地址： [点击跳转](https://make-my-link-longer.glitch.me/)   
-
-### TinyURL
-
-![image-20230406210950512](https://bib0.com/xc/i/hugoBlog/image-20230406210950512.png)
-
-🆔  资源名称：TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选
-
-⭐️  资源描述：TinyURL 有三种Tiny Subdomain 网址选项：tiny.us、likes.fans 和has.coffee，使用者可自行选择要加在前面的子网域名称，例如pseric.tiny.us 或pseric.has.coffee，然后将你的原始链结以这样的短网址格式缩短、呈现出来，同时具备TinyURL 相关功能。
-
-🌐 资源地址： [点击跳转](https://tinyurl.com/)   
+🌐 资源地址： [点击跳转](https://make-my-link-longer.glitch.me/)    
 
 
 ---
