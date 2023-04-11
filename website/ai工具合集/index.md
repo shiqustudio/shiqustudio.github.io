@@ -5,6 +5,32 @@
 
 <!--more-->
 
+### Cursor
+
+{{< figure src="https://bib0.com/xc/i/2023/04/11/81fww.png" >}}
+
+🆔  资源名称：Cursor
+
+⭐️  资源描述： 一款集成了 GPT-4 的 AI 代码生成工具
+
+> 📄使用该工具你可以快速进行多种编程语言的编码，如Python、Java、C#、JavaScript等，它可以根据你的输入的需求自动生成代码片段，此外，它还可以帮助你重构、理解和优化代码，神器！
+>
+> 📖简易教程
+>
+> 0️⃣下载软件之后先汉化，在 cursor 中快捷键「Ctrl+Shift+x」，然后输入 「Chinese」，安装之后重启就可以了
+>
+> 1️⃣主界面按「Ctrl+K」，输入需求，我的需求你们可以参考一下：「写一个图片转字符画的Python程序」
+>
+> 2️⃣然后按下回车，顷刻间 cursor 便会为你生成代码，然后你在本地打开终端输入 「Python Test.py」便会出现图中的一幕
+>
+> 3️⃣如果你一窍不通，没关系！按下「Ctrl+L」，告诉它，你该怎么运行这个程序，它会把每个步骤告诉你。如果报错也是一样可以直接问他是什么问题，AI 会一一解答
+
+💡免费用户一个月可以用100次提问，需要无限使用要付20刀/月
+
+💡也可以输入自己的 OpenAI API Keys 使用，不过只支持3.5的模型
+
+🌐 资源地址: [点击跳转](https://www.cursor.so/)
+
 ### Free ChatGPT Site List
 
 {{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405202635098.png" >}}
@@ -78,6 +104,46 @@
 ⭐️  资源描述：**「[ChatPDF](https://www.chatpdf.com/)」是一个非常强大的AI 应用，使用者将PDF 文件上传就能转为「AI 聊天室」，直接询问这个PDF 相关内容，这项服务整合ChatGPT API 接口，帮助使用者让阅读PDF 变得更智慧！**
 
 🌐 资源地址： [点击跳转](https://www.chatpdf.com/)    
+
+### AI修图
+
+#### Segment Anything 
+
+{{< figure src="https://bib0.com/xc/i/2023/04/11/masks1.png" >}}     
+
+🆔  资源名称： Segment Anything 
+
+⭐️  资源描述：（划分万物） - Meta 旗下开源的 AI 抠图工具
+
+> 📄我尝试了用一张非常复杂的图片给它，它处理的效果简直逆天！
+>
+> 亏我苦苦练习蒙板抠图通道抠图等各种绝技共两年半时间..
+>
+> 📖使用教程
+>
+> 0️⃣进入主页点击「Demo」，再点击「Upload an image」可以上传你自己的图片
+>
+> 1️⃣然后进入编辑页，可以看到悬停&点击、框选、一键选中、输出四个功能区
+>
+> 2️⃣点击「Add Mask」可以点击你想扣出来的部分，点击「Remove Area」可以去除不想扣的部分，点击之后 AI 马上会智能识别，准确度我觉得比大部分在线抠图工具都高
+>
+> 3️⃣「Box」可以框选你想扣的部分，「Everything」则可以一键帮你智能识别出可以扣的部分
+>
+> 4️⃣「Cut-Outs」则可以输出透明背景的抠图结果
+
+🌐 资源地址： [点击跳转](https://segment-anything.com/)
+
+🌐 Github资源地址：[点击跳转](https://github.com/facebookresearch/segment-anything)
+
+#### Inpaint
+
+{{< figure src="https://bib0.com/xc/i/2023/04/11/7q6q8.png" >}} 
+
+🆔  资源名称： Inpaint
+
+⭐️  资源描述：一种图像处理软件，可以删除图像中不需要的瑕疵，比如假人、水印、颜色环、文本等等。可以删除图像中不需要的元素，还可以用来修复损坏的图像，例如破旧的老照片等等。
+
+🌐 资源地址： [点击跳转](https://theinpaint.com/)
 
 ### AI绘图
 
