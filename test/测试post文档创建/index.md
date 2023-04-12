@@ -95,6 +95,6 @@ Android      🍏ios            🧭 官网下载
 
 ---
 
-> 作者: <no value>  
+> 作者: map[avatar:<nil> email:<nil> link:<nil> name:<nil>]  
 > URL: https://shiqustudio.github.io/test/%E6%B5%8B%E8%AF%95post%E6%96%87%E6%A1%A3%E5%88%9B%E5%BB%BA/  
 
