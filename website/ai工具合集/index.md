@@ -5,6 +5,26 @@
 
 <!--more-->
 
+### AI Prompt
+
+{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413221344393.png" >}}
+
+🆔  资源名称：AI Prompt Generators & Prompt Library 
+
+⭐️  资源描述：一个很全面的在线AI Prompt生成工具和Prompt库
+
+🌐 资源地址: [点击跳转](https://hero.page/ai-prompts)
+
+### OpenAI 术语备忘单
+
+{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413220439840.png" >}}
+
+🆔  资源名称：**OpenAI 术语备忘单**
+
+⭐️  资源描述：OpenAI 术语备忘单。
+
+🌐 资源地址: [点击跳转](https://blog.finxter.com/openai-glossary/)
+
 ### AI搜索引擎
 
 #### 🔎Perplexity AI
@@ -151,6 +171,16 @@
 
 🌐 资源地址： [点击跳转](https://poe.com/)        
 
+### ChatExcel
+
+{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413221043035.png" >}}
+
+🆔  资源名称：numerous.ai
+
+⭐️  资源描述： Excel的AI辅助工具，它能提供一个AI函数，帮助对当前Excel的数据进行处理，帮你自动提取、填写数据。
+
+🌐 资源地址: [点击跳转](https://numerous.ai/)
+
 ### ChatPPT
 
 {{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203101048.png" >}}
@@ -182,6 +212,26 @@
 🌐 资源地址： [点击跳转](https://www.chatpdf.com/)    
 
 ### AI修图
+
+#### Magic Copy 
+
+{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413214519716.png" >}}     
+
+🆔  资源名称： **一款可以在浏览器中直接对图片进行抠图的工具插件**
+
+⭐️  资源描述：⏬[下载页面](https://github.com/kevmo314/magic-copy/releases)
+
+> 📄该插件最大的特色不是抠图，而是可以对网页中任意图片进行一键抠图
+>
+> 只需对网页中的图片右击，然后选择「Magic Copy」即可完成抠图
+>
+> 如果没有反应，则需要在新标签页中打开图片再进行操作
+>
+> 它基于 Meta 旗下的 AI 抠图模型 Segment Anything
+>
+> 图中是我用插件扣的效果，非常实用！
+
+🌐 资源地址： [点击跳转](https://github.com/kevmo314/magic-copy) 
 
 #### Segment Anything 
 
