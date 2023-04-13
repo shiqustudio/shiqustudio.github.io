@@ -65,6 +65,26 @@
 
 🌐 资源地址：[点击跳转](https://www.skylinewebcams.com/zh/webcam.html)
 
+### Drive & Listen
+
+![img](https://cdn.fliggy.com/upic/9RsezP.gif)
+
+🆔  资源名称：**在全世界各个地方模拟驾车体验**
+
+⭐️  资源描述：一个很有趣的在全世界各个地方模拟驾车体验的网站「Drive & Listen」，真实视角、真实道路、城市背景音效，带来一种身临其境的开车感受，哈哈挺喜欢欧洲那种道路驾驶体验，网站设计很简单易用，可以一玩。
+
+🌐 资源地址：[点击跳转](https://driveandlisten.herokuapp.com/)
+
+### NASA’s Eyes
+
+![image-20230413222027184](https://bib0.com/xc/i/2023/04/13/image-20230413222027184.png)
+
+🆔  资源名称：**三维的太空探索可视化工具**
+
+⭐️  资源描述：最近看到一个很牛逼的三维太空可视化探索工具「NASA’s Eyes」，效果很精美，可以实时体会到从太空可地球、行星、卫星运行状态、位置，对于星文爱好者甚至可以用这个来探索下太阳系和宇宙中好玩的东西。
+
+🌐 资源地址：[点击跳转](https://eyes.nasa.gov/)
+
 ### city roads
 
 ![image-20230413215906859](https://bib0.com/xc/i/2023/04/13/image-20230413215906859.png)
