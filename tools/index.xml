@@ -5,12 +5,14 @@
     <link>https://shiqustudio.github.io/tools/</link>
     <description>Recent content in 工具 on 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://shiqustudio.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <managingEditor>shiqustudio@qq.com (聪)</managingEditor>
+    <webMaster>shiqustudio@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>文件批量重命名</title>
       <link>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</link>
       <pubDate>Fri, 31 Mar 2023 17:27:11 +0000</pubDate>
-      
+      <author>shiqustudio@qq.com (聪)</author>
       <guid>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;文件批量重命名工具，有在线处理站点和离线处理工具&lt;/p&gt;
@@ -21,7 +23,7 @@
       <title>pdf转word等格式工具</title>
       <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
       <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
-      
+      <author>shiqustudio@qq.com (聪)</author>
       <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
       <description>&lt;p&gt;&lt;strong&gt;资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
