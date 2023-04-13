@@ -81,6 +81,18 @@
 </blockquote>]]></description>
 </item>
 <item>
+  <title>Ai站点汇总</title>
+  <link>https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230401204204708.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
+</blockquote>]]></description>
+</item>
+<item>
   <title>文件批量重命名</title>
   <link>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</link>
   <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
@@ -113,16 +125,6 @@
   <description><![CDATA[<blockquote>
 <p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>403144966</code>。</p>
 </blockquote>]]></description>
-</item>
-<item>
-  <title>3月分享合集</title>
-  <link>https://shiqustudio.github.io/dailyshare/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/dailyshare/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
-      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>]]></description>
 </item>
 </channel>
 </rss>
