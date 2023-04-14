@@ -129,14 +129,5 @@
       <description>&lt;p&gt;了解如何在 FixIt 主题中加密内容。&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>linux 文件权限</title>
-      <link>https://shiqustudio.github.io/tutorial/linux-permission/</link>
-      <pubDate>Mon, 20 Feb 2023 17:15:44 +0800</pubDate>
-      <author>shiqustudio@qq.com (聪)</author>
-      <guid>https://shiqustudio.github.io/tutorial/linux-permission/</guid>
-      <description>&lt;p&gt;记录 linux 系统下文件权限相关的内容，Mac OS 下类似。&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

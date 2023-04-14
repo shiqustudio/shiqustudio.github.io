@@ -100,10 +100,10 @@
 </item>
 <item>
   <title>linux 文件权限</title>
-  <link>https://shiqustudio.github.io/tutorial/linux-permission/</link>
+  <link>https://shiqustudio.github.io/linux-permission/</link>
   <pubDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/tutorial/linux-permission/</guid>
+  <guid>https://shiqustudio.github.io/linux-permission/</guid>
   <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
 </item>
 </channel>
