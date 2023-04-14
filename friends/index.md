@@ -2,11 +2,12 @@
 
 
 <!--
+
 > 暂时不接受友链！
 > Warn: 超过两年未更新或长期挂掉的站点将被取消！
 -->
 
-{{< link href="https://shiqustudio.github.io/friends/opml.xml" content=":(far fa-star fa-fw): Subscribe ours" download="opml.xml" card=true >}}
+{{< link href="/friends/opml.xml" content=":(far fa-star fa-fw): Subscribe ours" download="opml.xml" card=true >}}
 
 ## 基本资讯
 
