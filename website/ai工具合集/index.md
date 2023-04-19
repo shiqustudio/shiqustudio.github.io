@@ -88,6 +88,20 @@
 
 🌐 资源地址: [点击跳转](https://hero.page/ai-prompts)
 
+### Chatbene
+
+![image-20230419081919533](https://bib0.com/xc/i/2023/04/19/image-20230419081919533.png)
+
+🆔  资源名称：Chatbene
+
+⭐️  资源描述：
+
+▎🧠 Chatbene
+
+🗣AI 新应用，精选Prompt 内容库，ChatGPT 免费客户端. 
+
+🌐 资源地址: [点击跳转](https://chatbene.com/)
+
 ### OpenAI 术语备忘单
 
 {{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413220439840.png" >}}

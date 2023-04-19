@@ -6,6 +6,79 @@
 
 <!--more-->
 
+### perfect-freehand
+
+![image-20230419084023799](https://bib0.com/xc/i/2023/04/19/image-20230419084023799.png)
+
+📁 网站简介：手绘风格绘画工具
+
+🔗 资源链接：[点击跳转](https://perfect-freehand-example.vercel.app/)
+
+🔗 Github资源链接：[点击跳转](https://github.com/steveruizok/perfect-freehand)
+
+### 白描网页版
+
+![image-20230419083934725](https://bib0.com/xc/i/2023/04/19/image-20230419083934725.png)
+
+📁 网站简介：在线 OCR 文字识别工具，无需注册、登录既可使用。支持数学公式识别、电子表格识别、扫描PDF转文字。
+
+🔗 资源链接：[点击跳转](https://web.baimiaoapp.com/)
+
+### Notion Avatar Maker
+
+![image-20230419083223674](https://bib0.com/xc/i/2023/04/19/image-20230419083223674.png)
+
+📁 网站简介：▎🔄 Notion Avatar Maker 
+
+> Notion头像在线制作器，很棒
+>
+> 🗣 附：
+> Notion 全身照的制作器
+>
+> Notion贴纸生成器
+
+🔗 资源链接：[点击跳转](https://notion-avatar.vercel.app/zh)
+
+🔗 GitHub资源链接：[点击跳转](https://t.me/iGitHub/55)
+
+### Dillinger
+
+![image-20230419082925286](https://bib0.com/xc/i/2023/04/19/image-20230419082925286.png)
+
+📁 网站简介：在线 Markdown 编辑器，支持将 HTML 转换为 Markdown，支持导入、导出到 GitHub, Dropbox, Google Drive, One Drive 等平台，可以导出为 HTML, PDF 等文件。
+
+🔗 资源链接：[点击跳转](https://dillinger.io/)
+
+🔗 Github资源链接：[点击跳转](https://github.com/joemccann/dillinger)
+
+### MathB.in
+
+![image-20230419083425705](https://bib0.com/xc/i/2023/04/19/image-20230419083425705.png)
+
+📁 网站简介：在线数学公式分享工具。可以用 LaTex 和 Markdown 输入公式和其他内容，把生成的网址分享给其他人。
+
+🔗 资源链接：[点击跳转](https://mathb.in/2)
+
+🔗 Github资源链接：[点击跳转](https://github.com/susam/mathb)
+
+### diagrams.net
+
+![image-20230419083552170](https://bib0.com/xc/i/2023/04/19/image-20230419083552170.png)
+
+📁 网站简介：开源免费的在线画流程图的网站。无需注册，无需登录，可以下载导出为 png, jpeg, svg, pdf 等格式。
+
+🔗 资源链接：[点击跳转](https://app.diagrams.net/)
+
+🔗 Github资源链接：[点击跳转](https://github.com/jgraph/drawio)
+
+### Shots
+
+![image-20230419082509359](https://bib0.com/xc/i/2023/04/19/image-20230419082509359.png)
+
+📁 网站简介：在线截图美化工具
+
+🔗 资源链接：[点击跳转](https://shots.so/)
+
 ### iFixit 
 
 ![image-20230413220033022](https://bib0.com/xc/i/2023/04/13/image-20230413220033022.png)
@@ -27,6 +100,14 @@
 > ◎  生成思维导图：你可以输入一个主题或者问题，多墨智能就会根据你的输入生成一张结构化的思维导图，比如学习笔记、知识总结、问题分析等。你可以对生成的思维导图进行拓展、保存、分享和导出。
 
 🔗 资源链接：[点击跳转](https://duomosmart.com/)
+
+### 彩虹工具箱
+
+![image-20230419083652831](https://bib0.com/xc/i/2023/04/19/image-20230419083652831.png)
+
+📁 网站简介：一款多功能的电脑工具箱软件。提供了多种实用工具，包括文件压缩解压、文件加密、文件切割合并、文件清理、硬盘分区、系统信息查看、网络监控、进程管理等。
+
+🔗 资源链接：[点击跳转](https://rainbowbyte.com/app/rainbowtoolbox.html)
 
 ### 炽狮工具箱
 
