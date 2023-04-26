@@ -17,7 +17,7 @@
 
 ➡️  支持平台：#Chrome #Firefox
 
-📁  插件简介：[一个免费的浏览器扩展工具，能够在谷歌搜索、必应、百度、yandex、DuckDuckGo等主流搜索引擎搜索结果旁边显示ChatGPT对话响应结果，通过 ChatGPT 的强大功能增强搜索引擎。](https://t.me/kkaifenxiang)
+📁  插件简介：一个免费的浏览器扩展工具，能够在谷歌搜索、必应、百度、yandex、DuckDuckGo等主流搜索引擎搜索结果旁边显示ChatGPT对话响应结果，通过 ChatGPT 的强大功能增强搜索引擎。
 
 软件特点：
 
@@ -41,8 +41,6 @@
 
 ---
 
-{{< admonition  info SubtitleEdit>}}
-
 {{< figure src="/dailyshare/images/image-20230329231530441.png" title="Lighthouse (figure)" >}}
 
 🆔  软件名称：SubtitleEdit
@@ -51,11 +49,9 @@
 
 ➡️  支持平台：#Windows
 
-📁  软件简介：[一款简单好用的视频字幕编辑制作软件。可以快速编辑制作字幕，可以通过多种方式轻松调整原有 的字幕，支持从头开始自己添加创建调整字幕行，可使用时间线/波形/频谱图等，或者是进行字幕翻译添加。](https://t.me/kkaifenxiang)
+📁  软件简介：一款简单好用的视频字幕编辑制作软件。可以快速编辑制作字幕，可以通过多种方式轻松调整原有 的字幕，支持从头开始自己添加创建调整字幕行，可使用时间线/波形/频谱图等，或者是进行字幕翻译添加。
 
 🌐 软件下载：[点击下载](https://github.com/SubtitleEdit/subtitleedit/releases)
-
-{{< /admonition >}}
 
 ### 实时全球高清摄像头直播
 
