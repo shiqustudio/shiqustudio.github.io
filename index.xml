@@ -4,9 +4,19 @@
     <link>https://shiqustudio.github.io/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</lastBuildDate>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Mon, 01 May 2023 17:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>5月分享合集</title>
+  <link>https://shiqustudio.github.io/dailyshare/5%E6%9C%88%E5%90%88%E9%9B%86/</link>
+  <pubDate>Mon, 01 May 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/dailyshare/5%E6%9C%88%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
+      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>]]></description>
+</item>
+<item>
   <title>在线工具</title>
   <link>https://shiqustudio.github.io/website/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</link>
   <pubDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</pubDate>
@@ -114,16 +124,6 @@
         <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
       </div><blockquote>
 <p>想必在职场中，总是会听到或者提及工作复盘一词，相信很多人在职场工作中也会用到复盘，当我们在完成一个项目时，如果要想形成一个完整的闭环，需要我们进行复盘，复盘能帮助我们快速梳理工作中出现的问题，从而吸取经验教训，有所成长。学会科学高效的复盘是职场人一项重要的能力。但很多人的复盘没有真正解决问题，只是为了复盘而复盘。怎样高效复盘呢，就让我们今天来聊聊复盘的知识吧。</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>常见问答</title>
-  <link>https://shiqustudio.github.io/question/</link>
-  <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/question/</guid>
-  <description><![CDATA[<blockquote>
-<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>403144966</code>。</p>
 </blockquote>]]></description>
 </item>
 </channel>
