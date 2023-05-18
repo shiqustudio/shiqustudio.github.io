@@ -5,6 +5,28 @@
 
 <!--more-->
 
+### Code Translator
+
+![image-20230518215915134](https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png)
+
+🆔  资源名称：**Code Translator**
+
+⭐️  资源描述：将代码从一种程序语言翻译成另一种程序语言，需要自备 ChatGPT 密钥。
+
+🌐 资源地址: [点击跳转](https://ai-code-translator.vercel.app/)
+
+🌐 Github资源地址: [点击跳转](https://github.com/mckaywrigley/ai-code-translator)
+
+### ChatBox
+
+![Chatbox App Screenshot](https://bib0.com/xc/i/2023/05/18/snapshot2.png)
+
+🆔  资源名称：**ChatBox**
+
+⭐️  资源描述：开源的 ChatGPT 桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。
+
+🌐 Github资源地址: [点击跳转](https://github.com/Bin-Huang/chatbox/)
+
 ### Ai-blog 
 
 ![image-20230418223539753](https://bib0.com/xc/i/2023/04/18/image-20230418223539753.png)

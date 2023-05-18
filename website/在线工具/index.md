@@ -6,6 +6,216 @@
 
 <!--more-->
 
+### ImageMagick
+
+![image-20230518220717414](G:\HugoBlog\ImagesUpload\image-20230518220717414.png)
+
+📁 网站简介：一款强大的编辑和处理图像的桌面工具。可用于创建、调整大小、裁剪、颜色校正和合成图像，支持超过 200 种的图像文件格式，适用于 Windows、Linux 和 macOS 系统。
+
+🔗 资源链接：[点击跳转](https://imagemagick.org/)
+
+🔗 GitHub资源链接：[点击跳转](https://github.com/ImageMagick/ImageMagick/)
+
+### LICEcap
+
+![image-20230518220221240](G:\HugoBlog\ImagesUpload\image-20230518220221240.png)
+
+📁 网站简介：一款简洁易用的 GIF 录制软件，可将屏幕录像的内容直接保存为高质量（每帧颜色数量可超过256）GIF动态图片格式，支持输出 GIF 后缀的动画文件录像和自身的无损 LCF 文件格式。
+
+🔗 资源链接：[点击跳转](https://www.cockos.com/licecap/)
+
+### Userscloud
+
+![image-20230518220132871](G:\HugoBlog\ImagesUpload\image-20230518220132871.png)
+
+📁 网站简介：无限云存储最大上传5G，无需注册登入，分享形式有直链、短链接、论坛代码、Html代码。
+
+🔗 资源链接：[点击跳转](https://userscloud.com/)
+
+### Gallerix
+
+![image-20230518215813997](G:\HugoBlog\ImagesUpload\image-20230518215813997.png)
+
+📁 网站简介：俄罗斯互联网上最大的虚拟博物馆，收录超过170,000 幅艺术作品、10,000 个艺术家，内容类型包括布景画、油画、水彩画、铅笔画、大型装饰画、圣像画、全景画、微型画、透影画等等。
+
+🔗 资源链接：[点击跳转](https://gallerix.asia/a1/)
+
+### Flow Launcher
+
+![img](G:\HugoBlog\ImagesUpload\light_screenshot.png)
+
+📁 网站简介：Windows 的快速文件和程序启动器，能够快速启动应用，方便地搜索文件、书签等内容，支持扩展插件、预览文件、系统命令、游戏模式等功能。
+
+🔗 资源链接：[点击跳转](https://www.flowlauncher.com/)
+
+🔗 GitHub资源链接：[点击跳转](https://github.com/Flow-Launcher/Flow.Launcher)
+
+### 找脚本
+
+![image-20230518215332932](G:\HugoBlog\ImagesUpload\image-20230518215332932.png)
+
+📁 网站简介：分享油猴脚本的网站。
+
+🔗 资源链接：[点击跳转](https://www.zhaojiaoben.cn/)
+
+### 简历
+
+![image-20230518215238494](G:\HugoBlog\ImagesUpload\image-20230518215238494.png)
+
+📁 网站简介：在线开发者简历模板，可以编辑以及免费下载。
+
+🔗 资源链接：[点击跳转](https://www.developers.pub/resume)
+
+### Aihub
+
+![image-20230518215123448](G:\HugoBlog\ImagesUpload\image-20230518215123448.png)
+
+📁 网站简介：收集 AI 相关应用和提示与源码。
+
+🔗 资源链接：[点击跳转](https://aihub.bitmagic.space/)
+
+### SearchEverywhere
+
+![image-20230518215010611](G:\HugoBlog\ImagesUpload\image-20230518215010611.png)
+
+📁 网站简介：Linux, macOS 与 Windows 上的文件检索工具，含有find以及Everything的各种功能，外加内容查找、上下层目录查找等。
+
+🔗 GitHub资源链接：[点击跳转](https://github.com/cxxsucks/SearchEverywhere/)
+
+### SQL Chat
+
+![image-20230518214806940](G:\HugoBlog\ImagesUpload\image-20230518214806940.png)
+
+📁 网站简介：一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。
+
+🔗 资源链接：[点击跳转](https://www.sqlchat.ai/)
+
+### 小森平的免费下载音效
+
+![image-20230518214659136](G:\HugoBlog\ImagesUpload\image-20230518214659136.png)
+
+📁 网站简介：免费的无版权的音效下载网站，可直接下载无需登入。音效类型很多，游戏、按钮、战斗、武器、爆炸、车声、自然季节、昆虫、开关声、人的脚步声等等。这些音效可以自由使用，用于商业用途、加工、应用或工业产品，不限制作品内容，可用于电影、短片、游戏、出版、动画、舞台表演、广播剧、有声读物、软件等。缺点不支持搜索内容。
+
+🔗 资源链接：[点击跳转](https://taira-komori.jpn.org/freesoundcn.html)
+
+### 中国传统色
+
+![image-20230518220337934](G:\HugoBlog\ImagesUpload\image-20230518220337934.png)
+
+📁 网站简介：中国传统色，[日本传统色](https://nipponcolors.com/)，配色。
+
+🔗 资源链接：[点击跳转](http://zhongguose.com/)
+
+### palettemaker
+
+![image-20230518214541661](G:\HugoBlog\ImagesUpload\image-20230518214541661.png)
+
+📁 网站简介：在线配色生成工具，可以结合网站、应用、logo、插画等各种案例预览实际配色效果。
+
+🔗 资源链接：[点击跳转](https://palettemaker.com/app)
+
+### BGM Cat
+
+![image-20230518214408976](G:\HugoBlog\ImagesUpload\image-20230518214408976.png)
+
+📁 网站简介：免费的在线AI智能背景音乐生成器工具，可以根据不同的场景、风格、心情标签，一键生成视频配音和片头音乐。
+
+🔗 资源链接：[点击跳转](https://bgmcat.com/)
+
+### Flow
+
+![image-20230518214124133](G:\HugoBlog\ImagesUpload\image-20230518214124133.png)
+
+📁 网站简介：开源免费的 Epub 在线阅读器。
+
+🔗 资源链接：[点击跳转](https://www.flowoss.com/zh-CN)
+
+🔗 Github资源链接：[点击跳转](https://github.com/pacexy/flow)
+
+### Wikihow
+
+![image-20230518214017124](G:\HugoBlog\ImagesUpload\image-20230518214017124.png)
+
+📁 网站简介：一款“万能又有趣”的搜索工具，完全免费无广告，内容涵盖工作效率、生活技巧、实用常识等应有尽有。
+
+🔗 资源链接：[点击跳转](https://www.wikihow.com/)
+
+### 方方格子
+
+![image-20230518213937391](G:\HugoBlog\ImagesUpload\image-20230518213937391.png)
+
+📁 网站简介：一款大型的 Excel 工具箱，将一些常用的需要写函数或写宏的功能给封装成现成的按钮，比如：过滤文本、删除文本、汇总拆分、重复值工具、数据对比、高级排序等，支持Office 2007及此后发布的（包含Microsoft 365）各版本Excel及、WPS。
+
+🔗 资源链接：[点击跳转](http://www.ffcell.com/index.aspx)
+
+### Bottles
+
+![image-20230518213025780](G:\HugoBlog\ImagesUpload\image-20230518213025780.png)
+
+📁 网站简介：轻松地在 Linux 上运行 Windows 软件和游戏。
+
+🔗 资源链接：[点击跳转](https://usebottles.com/)
+
+🔗 Github资源链接：[点击跳转](https://github.com/bottlesdevs/Bottles)
+
+### 库问搜索
+
+![image-20230518212950387](G:\HugoBlog\ImagesUpload\image-20230518212950387.png)
+
+📁 网站简介：免费的论文文献搜索网站，提供了超过千万的开源学术论文资源，涵盖了各个领域，支持快速检索和下载。
+
+🔗 资源链接：[点击跳转](http://www.koovin.com/)
+
+### JSON to Dart
+
+![image-20230518212825940](G:\HugoBlog\ImagesUpload\image-20230518212825940.png)
+
+📁 网站简介：将 JSON 粘贴到下面的文本区域，点击转换，免费获得 Dart 类。
+
+🔗 资源链接：[点击跳转](https://javiercbk.github.io/json_to_dart/)
+
+### transfer.sh
+
+![image-20230518212711496](G:\HugoBlog\ImagesUpload\image-20230518212711496.png)
+
+📁 网站简介：免费开源的文件传输工具，可以帮助您从命令行轻松快速地共享文件。
+
+🔗 资源链接：[点击跳转](https://transfer.sh/)
+
+🔗 Github资源链接：[点击跳转](https://github.com/dutchcoders/transfer.sh)
+
+### 每日报告
+
+![image-20230518212610700](G:\HugoBlog\ImagesUpload\image-20230518212610700.png)
+
+📁 网站简介：一个行业报告大全网站，专注于金融行业、视频直播、电商零售、医疗行业和房产等各行业研究分析报告分享，提供在线预览和下载到本地。
+
+🔗 资源链接：[点击跳转](https://www.mrbaogao.com/)
+
+### HelloWindows.cn
+
+![image-20230518212529624](G:\HugoBlog\ImagesUpload\image-20230518212529624.png)
+
+📁 网站简介：由国人搭建的系统资源网站，简单、直观、无广告、无登入限制，免费提供官方原版Windows系统的下载地址、下载方法和激活方法。可以在这个网站上下载Windows系统的镜像文件，包括win11、win10、win8、win7、winxp等版本。
+
+🔗 资源链接：[点击跳转](https://hellowindows.cn/)
+
+### LESLIE Note
+
+![image-20230518212401375](G:\HugoBlog\ImagesUpload\image-20230518212401375.png)
+
+📁 网站简介：一款 Windows 轻量的免费绿色本地化笔记软件，自带一个桌面便签，数据保存在本地。内容完全本地，原生便携，用户可以随时随地的导出，同时支持“批量导出”，笔记所附带的附件也会同步导出，导出的格式是.txt/.rtf等常用标准格式。
+
+🔗 资源链接：[点击跳转](http://www.leslienote.com/)
+
+### 国家应急广播
+
+![image-20230518212253098](G:\HugoBlog\ImagesUpload\image-20230518212253098.png)
+
+📁 网站简介：一个安全教育的资源网站
+
+🔗 资源链接：[点击跳转](http://www.cneb.gov.cn/)
+
 ### perfect-freehand
 
 ![image-20230419084023799](https://bib0.com/xc/i/2023/04/19/image-20230419084023799.png)
