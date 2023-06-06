@@ -17,7 +17,7 @@ console.log(site.name);
 
 ## 资讯
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/Lruihao)
+[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/shiqustudio)
 
 {{< admonition info "关于我" false >}}
 
@@ -60,7 +60,7 @@ console.log(site.name);
 {{< sponsor-log >}}
 {{< /details >}}
 
-{{< music url="https://cdn-1256932288.cos.ap-chengdu.myqcloud.com/files/nanjing.mp3" name="老王" artist="你离开了深圳，从此没人和我说话" cover="https://p2.music.126.net/UuSe-Vc6rS7JtRJSQgDU2g==/2323268069553116.jpg?param=300x300" fixed=true >}}
+{{< music url="https://cdn-1256932288.cos.ap-chengdu.myqcloud.com/files/nanjing.mp3" name="Silence" artist="也许放弃，才能靠近你🎵" cover="https://p2.music.126.net/UuSe-Vc6rS7JtRJSQgDU2g==/2323268069553116.jpg?param=300x300" fixed=true >}}
 
 
 ---
