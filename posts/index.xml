@@ -4,7 +4,7 @@
     <link>https://shiqustudio.github.io/posts/</link>
     <description>所有文章 | 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
   <title>Git 常用指令汇总</title>
   <link>https://shiqustudio.github.io/git/</link>
   <pubDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</pubDate>
@@ -17,22 +17,6 @@
 <li><strong>暂存区</strong>：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。</li>
 <li><strong>版本库</strong>：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。</li>
 </ul>]]></description>
-</item>
-<item>
-  <title>linux 文件权限</title>
-  <link>https://shiqustudio.github.io/linux-permission/</link>
-  <pubDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/linux-permission/</guid>
-  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
-</item>
-<item>
-  <title>linux 文件权限</title>
-  <link>https://shiqustudio.github.io/linux-permission/</link>
-  <pubDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/linux-permission/</guid>
-  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
 </item>
 <item>
   <title>Git 常用指令汇总</title>
