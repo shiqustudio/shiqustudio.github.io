@@ -9,23 +9,48 @@
     <managingEditor>shiqustudio@qq.com (聪)</managingEditor>
     <webMaster>shiqustudio@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>文件批量重命名</title>
-      <link>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</link>
-      <pubDate>Fri, 31 Mar 2023 17:27:11 +0000</pubDate>
+      <title>在线工具</title>
+      <link>https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Wed, 12 Apr 2023 17:27:11 +0000</pubDate>
       <author>shiqustudio@qq.com (聪)</author>
-      <guid>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</guid>
+      <guid>https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;文件批量重命名工具，有在线处理站点和离线处理工具&lt;/p&gt;
+&lt;p&gt;🤖整理收录各类在线工具&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>pdf转word等格式工具</title>
-      <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
-      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      <title>图片空间</title>
+      <link>https://shiqustudio.github.io/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</link>
+      <pubDate>Sat, 01 Apr 2023 19:27:11 +0000</pubDate>
       <author>shiqustudio@qq.com (聪)</author>
-      <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://shiqustudio.github.io/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;图片空间列表、介绍，再也不怕上传图片找不到空间啰！&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>缩短链接</title>
+      <link>https://shiqustudio.github.io/tools/%E7%9F%AD%E9%93%BE/</link>
+      <pubDate>Sat, 01 Apr 2023 17:27:11 +0000</pubDate>
+      <author>shiqustudio@qq.com (聪)</author>
+      <guid>https://shiqustudio.github.io/tools/%E7%9F%AD%E9%93%BE/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面，缩网址的好处一来大幅减少网址的字元数，二来可让网址看起来更干净简洁，在社群网站经常被用到（尤其是撰写长篇内容），不会因为过长的网址而产生被截断、无法顺利打开的问题。&lt;/p&gt;
+&lt;p&gt;现今缩网址服务也整合各种附加功能，最常见的像是点击统计、密码保护、流量追踪（加入UTM、Google 分析或Facebook Pixel 代码）或是依照不同作业系统、装置或浏览器分别设定不同的目标网址，甚至能在付费后设定自己的网域名称，将网址打造为个性化的短网址。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>线上转档</title>
+      <link>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
+      <pubDate>Sat, 01 Apr 2023 17:27:11 +0000</pubDate>
+      <author>shiqustudio@qq.com (聪)</author>
+      <guid>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

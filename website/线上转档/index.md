@@ -5,16 +5,6 @@
 
 <!--more-->
 
-### office-converter
-
-![image-20230418225201238](https://bib0.com/xc/i/2023/04/18/image-20230418225201238.png)
-
-🆔  资源名称： office-converter
-
-⭐️  资源描述： 免费在线文件转换器，可以免费，快速，在线转换任何文件，无须安装任何软件。可以免费在线转换包括视频、音频、图形、文档和压缩等服务，目前能够做到输出超过500种格式，输入格式转换超过2000种不同的格式转换。
-
-🌐 资源地址: [点击跳转](https://cn.office-converter.com/)
-
 ### Web2pdfconvert
 
 {{< figure src="https://bib0.com/xc/i/hugoBlog/web2pdfconvert-01.jpg" >}}

@@ -7,16 +7,6 @@
 
 <!--more-->
 
-### LURL
-
-![LURL 免费缩短图片与影片分享工具，附密码保护和有效期限设定](https://bib0.com/xc/i/2023/04/15/lurl-1.jpg)
-
-🆔  资源名称：LURL 免费缩短图片与影片分享工具，附密码保护和有效期限设定
-
-⭐️  资源描述：**LURL 除了缩短网址还有照片短网址、影片短网址功能，简单来说就是图片空间和影片空间。**此外，还能在上传时设定浏览密码、有效日期和浏览次数限制。
-
-🌐 资源地址： [点击跳转](https://free.com.tw/lurl/)
-
 ### Short io
 
 ![Short io](https://bib0.com/xc/i/hugoBlog/short-io-01.jpg)

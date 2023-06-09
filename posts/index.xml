@@ -4,33 +4,29 @@
     <link>https://shiqustudio.github.io/posts/</link>
     <description>所有文章 | 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>Git 常用指令汇总</title>
-  <link>https://shiqustudio.github.io/git/</link>
-  <pubDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</pubDate>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>Ai站点汇总</title>
+  <link>https://shiqustudio.github.io/aisummary/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/git/</guid>
+  <guid>https://shiqustudio.github.io/aisummary/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/images/relation-1.png" referrerpolicy="no-referrer">
-      </div><ul>
-<li><strong>工作区</strong>：就是你在电脑里能看到的目录。</li>
-<li><strong>暂存区</strong>：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。</li>
-<li><strong>版本库</strong>：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。</li>
-</ul>]]></description>
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230401204204708.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
+</blockquote>]]></description>
 </item>
 <item>
-  <title>Git 常用指令汇总</title>
-  <link>https://shiqustudio.github.io/git/</link>
-  <pubDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</pubDate>
+  <title>Ai站点汇总</title>
+  <link>https://shiqustudio.github.io/aisummary/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/git/</guid>
+  <guid>https://shiqustudio.github.io/aisummary/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/images/relation-1.png" referrerpolicy="no-referrer">
-      </div><ul>
-<li><strong>工作区</strong>：就是你在电脑里能看到的目录。</li>
-<li><strong>暂存区</strong>：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。</li>
-<li><strong>版本库</strong>：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。</li>
-</ul>]]></description>
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230401204204708.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
+</blockquote>]]></description>
 </item>
 </channel>
 </rss>
