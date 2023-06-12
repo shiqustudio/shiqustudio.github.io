@@ -198,4 +198,4 @@ hugo
 
 > 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/  
-
+> 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/getting-started/
