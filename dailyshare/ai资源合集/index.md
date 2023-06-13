@@ -5,6 +5,38 @@
 
 <!--more-->
 
+### AI Short
+
+![image-20230613212027734](https://bib0.com/xc/i/2023/06/13/image-20230613212027734.png)
+
+🆔  资源名称：AI Short
+
+⭐️  资源描述：网站提供了各类ai辅助的提问方式。比如生成论文该怎么问？写一个ppt大纲该怎么写？写一个调研报告该怎么提问？
+
+🌐 资源地址：[点击跳转](https://www.aishort.top/)|[Github开源地址](https://github.com/rockbenben/ChatGPT-Shortcut)
+
+### chatgpt-sites
+
+![image-20230613211831309](https://bib0.com/xc/i/2023/06/13/image-20230613211831309.png)
+
+🆔  资源名称：chatgpt-sites
+
+⭐️  资源描述：国内可用的 ChatGPT 在线体验免费网站列表导航。定时任务每日更新！
+
+🌐 资源地址：[点击跳转](https://chatgpt.quickso.cn/)|[Github开源地址](https://github.com/muzihuaner/chatgpt-sites)
+
+### AI-For-Beginners
+
+![image-20230613211412161](https://bib0.com/xc/i/2023/06/13/image-20230613211412161.png)
+
+🆔  资源名称：微软推出的免费人工智能入门课 | [AI-For-Beginners](https://microsoft.github.io/AI-For-Beginners/)
+
+⭐️  资源描述：
+
+>共8个主题、24节内容。  课程除了为每个主题绘制「知识要点漫画」外，还包括多样性的测验和实践项目，确保学习者有机会进行实践。课程思维导图可以清晰地查看每部分的知识要点。
+
+🌐 资源地址：[点击跳转](https://microsoft.github.io/AI-For-Beginners/)
+
 ### Hugging Face
 
 ![image-20230610210621882](https://bib0.com/xc/i/2023/06/10/photo_2023-06-10_21-04-22.jpg)
@@ -23,7 +55,7 @@
 
 🌐 资源地址：[点击跳转](https://fulltime.ai/spaces/)
 
-### 「通义听悟」开放公测
+### 通义听悟
 
 ![image-20230610205459938](https://bib0.com/xc/i/2023/06/10/image-20230610205459938.png)
 

@@ -5,6 +5,18 @@
 
 <!--more-->
 
+### 杰伦音乐 
+
+![image-20230613212631046](https://bib0.com/xc/i/2023/06/13/image-20230613212631046.png)
+
+🆔  资源名称：[杰伦音乐 ](https://lvyueyang.github.io/web-music/)
+
+⭐️  资源描述：
+
+>专门收集周杰伦的无损flac格式音乐，不仅可以在线播，而且可以免费下！
+
+🌐 资源地址：[点击跳转](https://lvyueyang.github.io/web-music/) | [Github地址](https://github.com/lvyueyang/web-music)
+
 ### 无代码可视化爬虫
 
 {{< bilibili BV1Fk4y1L7xX >}}
