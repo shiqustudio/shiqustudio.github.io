@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>浏览器 - 分类 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
-    <description>浏览器 - 分类 - 拾趣资源</description>
+    <title>油猴 - 标签 - 拾趣资源</title>
+    <link>https://shiqustudio.github.io/tags/%E6%B2%B9%E7%8C%B4/</link>
+    <description>油猴 - 标签 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E6%B2%B9%E7%8C%B4/" rel="self" type="application/rss+xml" /><item>
   <title>浏览器工具</title>
   <link>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</link>
   <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
