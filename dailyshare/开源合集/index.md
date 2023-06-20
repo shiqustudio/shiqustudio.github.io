@@ -23,7 +23,7 @@
 
 ### 模组化素材管理
 
-![img](https://github.com/hunmer/mCollection/raw/main/screenshot.png)
+![img](https://bib0.com/xc/i/2023/06/20/screenshot.png)
 
 🆔  资源名称：[🧰mCollection - 一款开源的模组化素材管理软件](https://github.com/hunmer/mCollection)
 
