@@ -5,11 +5,27 @@
     <description>分类 - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
       <webMaster>shiqustudio@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>Ai</title>
+  <link>https://shiqustudio.github.io/categories/ai/</link>
+  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/categories/ai/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>壁纸</title>
   <link>https://shiqustudio.github.io/categories/%E5%A3%81%E7%BA%B8/</link>
   <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://shiqustudio.github.io/categories/%E5%A3%81%E7%BA%B8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>开源</title>
+  <link>https://shiqustudio.github.io/categories/%E5%BC%80%E6%BA%90/</link>
+  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/categories/%E5%BC%80%E6%BA%90/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -29,6 +45,14 @@
   <description><![CDATA[]]></description>
 </item>
 <item>
+  <title>站点</title>
+  <link>https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/</link>
+  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>招聘</title>
   <link>https://shiqustudio.github.io/categories/%E6%8B%9B%E8%81%98/</link>
   <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
@@ -37,11 +61,19 @@
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Ai</title>
-  <link>https://shiqustudio.github.io/categories/ai/</link>
-  <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
+  <title>设计</title>
+  <link>https://shiqustudio.github.io/categories/%E8%AE%BE%E8%AE%A1/</link>
+  <pubDate>Mon, 19 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/ai/</guid>
+  <guid>https://shiqustudio.github.io/categories/%E8%AE%BE%E8%AE%A1/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>网址导航</title>
+  <link>https://shiqustudio.github.io/categories/%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</link>
+  <pubDate>Mon, 19 Jun 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/categories/%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -50,38 +82,6 @@
   <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://shiqustudio.github.io/categories/github/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>工具</title>
-  <link>https://shiqustudio.github.io/categories/%E5%B7%A5%E5%85%B7/</link>
-  <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/%E5%B7%A5%E5%85%B7/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>开源</title>
-  <link>https://shiqustudio.github.io/categories/%E5%BC%80%E6%BA%90/</link>
-  <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/%E5%BC%80%E6%BA%90/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>浏览器</title>
-  <link>https://shiqustudio.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
-  <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>油猴</title>
-  <link>https://shiqustudio.github.io/categories/%E6%B2%B9%E7%8C%B4/</link>
-  <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/%E6%B2%B9%E7%8C%B4/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
