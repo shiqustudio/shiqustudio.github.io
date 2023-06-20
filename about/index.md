@@ -30,6 +30,8 @@ console.log(site.name);
 
 {{< /admonition >}}
 
+{{< mapbox 114.06455  22.54846 10 true "mapbox://styles/mapbox/streets-zh-v1" >}}
+
 > 用我所学，学我所用。不盲目堆叠技术栈，保持谦逊，保持探索欲，砥砺前行。
 
 {{< link href="https://github.com/users/shiqustudio/projects/1" content="@Shiqu's Recent activity" card=true >}}
