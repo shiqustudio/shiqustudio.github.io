@@ -4,20 +4,7 @@
     <link>https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/</link>
     <description>站点 - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/" rel="self" type="application/rss+xml" /><item>
-  <title>OpenAI &#43; Vercel</title>
-  <link>https://shiqustudio.github.io/website/openaiandvercel/</link>
-  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/website/openaiandvercel/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/hugoBlog/image-20230405210045531.png" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具</p>
-<p>全部都是开源的，并且都可以一键部署到Vercel供私人使用</p>
-</blockquote>]]></description>
-</item>
-<item>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Sat, 01 Apr 2023 19:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/" rel="self" type="application/rss+xml" /><item>
   <title>图片空间</title>
   <link>https://shiqustudio.github.io/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</link>
   <pubDate>Sat, 01 Apr 2023 19:27:11 &#43;0000</pubDate>

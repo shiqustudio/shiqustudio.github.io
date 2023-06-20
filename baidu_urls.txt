@@ -1,8 +1,12 @@
+https://shiqustudio.github.io/website/%E5%A3%81%E7%BA%B8/
+https://shiqustudio.github.io/website/%E5%AE%98%E7%85%A4/
 https://shiqustudio.github.io/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/
+https://shiqustudio.github.io/dailyshare/vercel/
 https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/
-https://shiqustudio.github.io/website/openaiandvercel/
+https://shiqustudio.github.io/website/%E8%AF%86%E5%85%B8%E5%8F%A4%E7%B1%8D/
+https://shiqustudio.github.io/website/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/
 https://shiqustudio.github.io/personal/%E4%B8%93%E6%B3%A8%E5%8A%9B/
 https://shiqustudio.github.io/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/
 https://shiqustudio.github.io/tools/%E7%9F%AD%E9%93%BE/

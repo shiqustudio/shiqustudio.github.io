@@ -9,14 +9,46 @@
     <managingEditor>shiqustudio@qq.com (聪)</managingEditor>
     <webMaster>shiqustudio@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenAI &#43; Vercel</title>
-      <link>https://shiqustudio.github.io/website/openaiandvercel/</link>
+      <title>壁纸</title>
+      <link>https://shiqustudio.github.io/website/%E5%A3%81%E7%BA%B8/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <author>shiqustudio@qq.com (聪)</author>
+      <guid>https://shiqustudio.github.io/website/%E5%A3%81%E7%BA%B8/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🤖整理并分享一些优质壁纸资源&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>招聘</title>
+      <link>https://shiqustudio.github.io/website/%E5%AE%98%E7%85%A4/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <author>shiqustudio@qq.com (聪)</author>
+      <guid>https://shiqustudio.github.io/website/%E5%AE%98%E7%85%A4/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🤖整理并分享一些官方发布的信息资源&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>古籍</title>
+      <link>https://shiqustudio.github.io/website/%E8%AF%86%E5%85%B8%E5%8F%A4%E7%B1%8D/</link>
       <pubDate>Tue, 04 Apr 2023 17:27:11 +0000</pubDate>
       <author>shiqustudio@qq.com (聪)</author>
-      <guid>https://shiqustudio.github.io/website/openaiandvercel/</guid>
+      <guid>https://shiqustudio.github.io/website/%E8%AF%86%E5%85%B8%E5%8F%A4%E7%B1%8D/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具&lt;/p&gt;
-&lt;p&gt;全部都是开源的，并且都可以一键部署到Vercel供私人使用&lt;/p&gt;
+&lt;p&gt;🤖整理并分享一些关于古书/古画/古地图/历史网站&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>论文</title>
+      <link>https://shiqustudio.github.io/website/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/</link>
+      <pubDate>Tue, 04 Apr 2023 17:27:11 +0000</pubDate>
+      <author>shiqustudio@qq.com (聪)</author>
+      <guid>https://shiqustudio.github.io/website/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🤖整理并分享一些关于论文的资源&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
