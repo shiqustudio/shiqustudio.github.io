@@ -35,4 +35,5 @@ https://shiqustudio.github.io/test/linux-permission/
 https://shiqustudio.github.io/test/git/
 https://shiqustudio.github.io/friends/
 https://shiqustudio.github.io/guestbook/
+https://shiqustudio.github.io/referto/about-index/
 https://shiqustudio.github.io/offline/
