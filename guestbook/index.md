@@ -12,6 +12,7 @@
 {{< /typeit >}}
 
 - <small>_关于 [FixIt 主题](https://github.com/hugo-fixit/FixIt) 的问题，请移步 [FixIt 官网](https://fixit.lruihao.cn) 相关文章哦～_</small>
+- <small>_有关某个教程或文章的问题请在相关文章评论区下留言_</small>
 
 - <small>有关某个项目的[问题](/question)请在 [GitHub 提交 Issue](https://github.com/shiqustudio/giscus/discussions)</small>
 
