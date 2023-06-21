@@ -4,17 +4,9 @@
     <link>https://shiqustudio.github.io/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Tue, 20 Jun 2023 17:27:11 &#43;0000</lastBuildDate>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>查阅参考</title>
-  <link>https://shiqustudio.github.io/referto/%E5%8F%82%E8%80%83/</link>
-  <pubDate>Tue, 20 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/referto/%E5%8F%82%E8%80%83/</guid>
-  <description><![CDATA[<p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>]]></description>
-</item>
-<item>
   <title>Ai站点汇总</title>
   <link>https://shiqustudio.github.io/aisummary/</link>
   <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
@@ -113,6 +105,18 @@
       </div><blockquote>
 <p>🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具</p>
 <p>全部都是开源的，并且都可以一键部署到Vercel供私人使用</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>在线工具</title>
+  <link>https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</link>
+  <pubDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230405211457511.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>🤖整理收录各类在线工具</p>
 </blockquote>]]></description>
 </item>
 </channel>
