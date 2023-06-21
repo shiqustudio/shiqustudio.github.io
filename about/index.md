@@ -23,10 +23,10 @@ console.log(site.name);
 
 |      角色      |       职业       |
 | :------------: | :--------------: |
-| ~~在校大学生~~ | ~~后端开发~~ |
-|   ~~实习生~~   | ~~后端开发~~ |
+| ~~在校大学生~~ | ~~学生~~ |
+|   ~~实习生~~   | ~~实习生~~ |
 |      ~~毕业~~      | ~~后棧开发~~ |
-| 社畜 |   全栈开发   |
+| 社畜 |   全栈   |
 
 {{< /admonition >}}
 
@@ -34,7 +34,7 @@ console.log(site.name);
 
 > 用我所学，学我所用。不盲目堆叠技术栈，保持谦逊，保持探索欲，砥砺前行。
 
-{{< link href="https://github.com/users/shiqustudio/projects/1" content="@Shiqu's Recent activity" card=true >}}
+{{< link href="https://github.com/users/shiqustudio/projects/1" content="@Fun's Recent activity" card=true >}}
 
 ## 初衷
 
