@@ -7,6 +7,7 @@ https://shiqustudio.github.io/tools/%E6%B8%B8%E6%88%8F/
 https://shiqustudio.github.io/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/
+https://shiqustudio.github.io/about/
 https://shiqustudio.github.io/dailyshare/vercel/
 https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/
 https://shiqustudio.github.io/website/%E8%AF%86%E5%85%B8%E5%8F%A4%E7%B1%8D/
@@ -32,7 +33,6 @@ https://shiqustudio.github.io/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B
 https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/
 https://shiqustudio.github.io/test/linux-permission/
 https://shiqustudio.github.io/test/git/
-https://shiqustudio.github.io/about/
 https://shiqustudio.github.io/friends/
 https://shiqustudio.github.io/guestbook/
 https://shiqustudio.github.io/offline/

@@ -10,21 +10,21 @@ class Blog {
     this.url = url;
   }
 }
-const site = new Blog('拾趣', 'Shiqu', 'https://shiqustudio.github.io');
+const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
 console.log(site.name);
 {{< /typeit >}}
 {{< /style >}}
 
 ## 资讯
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/shiqustudio)
+<!--[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/shiqustudio)-->
 
 {{< admonition info "关于我" false >}}
 
 |      角色      |       职业       |
 | :------------: | :--------------: |
-| ~~在校大學生~~ | ~~后端开发~~ |
-|   ~~實習生~~   | ~~后端开发~~ |
+| ~~在校大学生~~ | ~~后端开发~~ |
+|   ~~实习生~~   | ~~后端开发~~ |
 |      ~~毕业~~      | ~~后棧开发~~ |
 | 社畜 |   全栈开发   |
 
@@ -52,8 +52,8 @@ console.log(site.name);
 
 ## 订阅
 
-- [RSS](http://shiqustudio.github.io/index.xml)
-- [GitHub](https://github.com/shiqustudio/hugo-blog)
+- [RSS](https://blog.funvip.live/index.xml)
+- [GitHub](https://github.com/shiqustudio)
 
 ## 致谢
 
