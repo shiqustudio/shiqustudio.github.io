@@ -7,7 +7,7 @@
 
 ### GetInference AI Radar
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 ⭐️  资源描述：用于创意和营销的AI工具
 
@@ -15,7 +15,7 @@
 
 ### AIGC知识库
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155727097.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155727097.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 ⭐️  资源描述：AI工具汇总及操作指南
 
@@ -23,7 +23,7 @@
 
 ### 一起用AI
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155519299.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155519299.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 ⭐️  资源描述：AI资讯教程工具合集
 
@@ -31,7 +31,7 @@
 
 ### chart-gpt
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155939384.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155939384.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 ⭐️  资源描述：基于文本输入构建图表的人工智能工具
 
@@ -39,7 +39,7 @@
 
 ### Flowgpt
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155641870.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155641870.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 ⭐️  资源描述：245个ChatGPT的应用
 
@@ -47,7 +47,7 @@
 
 ### ChatALL
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 ⭐️  资源描述：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
 
@@ -55,7 +55,7 @@
 
 ### Limit-LAB Translator 
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：❔[Limit-LAB Translator - 一个基于 ChatGPT 的 AI翻译工具](https://translate.limit.dev/)
 
@@ -65,7 +65,7 @@
 
 ### Code Translator
 
-{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png">}}
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**Code Translator**
 
@@ -77,7 +77,7 @@
 
 ### ChatBox
 
-{{< image src="https://bib0.com/xc/i/2023/05/18/snapshot2.png">}}
+{{< image src="https://bib0.com/xc/i/2023/05/18/snapshot2.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**ChatBox**
 
@@ -87,7 +87,7 @@
 
 ### Ai-blog 
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223539753.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223539753.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**2023年提高生产力的最佳AI工具**
 
@@ -97,7 +97,7 @@
 
 ### CodeWhisperer
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222544403.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222544403.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：亚马逊开放的一款 AI 编程助手：[CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)，可集成到 VSCode 和 IntelliJ IDEA 等代码编辑器上使用，个人版对所有开发者免费开放。
 
@@ -122,7 +122,7 @@
 
 ### AMYmind
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222805693.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222805693.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：AMYmind
 
@@ -132,15 +132,15 @@
 
 ### typeapi.org
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223216722.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223216722.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223043585.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223043585.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223311190.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223311190.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223327413.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223327413.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223347579.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223347579.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：typeapi.org
 
@@ -150,7 +150,7 @@
 
 ### Zotero的GPT增强插件
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/231054213-427056c2-35dd-48d4-8e0d-e334bb85a46f.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/18/231054213-427056c2-35dd-48d4-8e0d-e334bb85a46f.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：Zotero的GPT增强插件
 
@@ -160,7 +160,7 @@
 
 ### AI Prompt
 
-{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413221344393.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413221344393.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：AI Prompt Generators & Prompt Library 
 
@@ -170,7 +170,7 @@
 
 ### Chatbene
 
-{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419081919533.png">}}
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419081919533.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：Chatbene
 
@@ -184,7 +184,7 @@
 
 ### OpenAI 术语备忘单
 
-{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413220439840.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413220439840.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**OpenAI 术语备忘单**
 
@@ -196,7 +196,7 @@
 
 #### 🔎Perplexity AI
 
-{{< figure src="https://bib0.com/xc/i/2023/04/12/image-20230412223746487.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412223746487.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**号称全球第一个可以聊天的AI搜索引擎**
 
@@ -222,7 +222,7 @@
 
 #### 🔎Phind
 
-{{< figure src="https://bib0.com/xc/i/2023/04/12/image-20230412222737668.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412222737668.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**一个专门为程序员开发的搜索引擎**
 
@@ -232,7 +232,7 @@
 
 #### 🔎YOU
 
-{{< figure src="https://bib0.com/xc/i/2023/04/12/image-20230412223506614.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412223506614.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**一个AI搜索引擎**
 
@@ -250,7 +250,7 @@
 
 #### 🔎Consensus
 
-{{< figure src="https://bib0.com/xc/i/2023/04/12/image-20230412223318279.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412223318279.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：**一个基于 AI，能在科学论文中为你找到答案的搜索引擎**
 
@@ -270,7 +270,7 @@
 
 ### Cursor
 
-{{< figure src="https://bib0.com/xc/i/2023/04/11/81fww.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/11/81fww.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：Cursor
 
@@ -296,7 +296,7 @@
 
 ### Free ChatGPT Site List
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405202635098.png" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405202635098.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：Free ChatGPT Site List
 
@@ -306,7 +306,7 @@
 
 ### ChatGPT Sites
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203936853.png" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203936853.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：ChatGPT Sites
 
@@ -318,7 +318,7 @@
 
 ### Teach Anything
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203655262.png" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203655262.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：Teach Anything
 
@@ -330,7 +330,7 @@
 
 ###  Poe 网页版
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/poe-web-08.jpg" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/poe-web-08.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： Poe 网页版
 
@@ -340,7 +340,7 @@
 
 ### ChatExcel
 
-{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413221043035.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413221043035.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：numerous.ai
 
@@ -350,7 +350,7 @@
 
 ### ChatPPT
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203101048.png" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203101048.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：ChatPPT
 
@@ -360,7 +360,7 @@
 
 ### chatDoc
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230401194343668.png" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230401194343668.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： chatDoc
 
@@ -370,7 +370,7 @@
 
 ###  ChatPDF            
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/chatpdf-01.jpg" >}}                                                                                    
+{{< image src="https://bib0.com/xc/i/hugoBlog/chatpdf-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}                                                                                      
 
 🆔  资源名称： ChatPDF 将PDF 文件丢给AI，快速归纳并解答相关问题
 
@@ -382,7 +382,7 @@
 
 #### Magic Copy 
 
-{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413214519716.png" >}}     
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413214519716.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}       
 
 🆔  资源名称： **一款可以在浏览器中直接对图片进行抠图的工具插件**
 
@@ -402,7 +402,7 @@
 
 #### Segment Anything 
 
-{{< figure src="https://bib0.com/xc/i/2023/04/11/masks1.png" >}}     
+{{< image src="https://bib0.com/xc/i/2023/04/11/masks1.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}       
 
 🆔  资源名称： Segment Anything 
 
@@ -430,7 +430,7 @@
 
 #### Inpaint
 
-{{< figure src="https://bib0.com/xc/i/2023/04/11/7q6q8.png" >}} 
+{{< image src="https://bib0.com/xc/i/2023/04/11/7q6q8.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}   
 
 🆔  资源名称： Inpaint
 
@@ -442,7 +442,7 @@
 
 #### CGFaces
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405205253498.png" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405205253498.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： CGFaces
 
@@ -452,7 +452,7 @@
 
 #### Vega Ai
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230405203309660.png" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203309660.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： Vega Ai
 
@@ -462,7 +462,7 @@
 
 #### AI Background Generator
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/d_1280.png" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/d_1280.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： AI Background Generator
 
@@ -472,7 +472,7 @@
 
 #### StockAI
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/1280.jpg" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/1280.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： StockAI
 
@@ -482,7 +482,7 @@
 
 #### Playground AI 
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/6e26ec784fe9403a8f3d56e619725e74.jpeg" >}}
+{{< image src="https://bib0.com/xc/i/hugoBlog/6e26ec784fe9403a8f3d56e619725e74.jpeg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： Playground AI
 
@@ -494,7 +494,7 @@
 
 ### AI万能图片编辑器
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/image-20230401202548135.png" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230401202548135.png" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：AI万能图片编辑器
 
@@ -512,7 +512,7 @@
 
 ### ZeroGPT
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/zerogpt-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/zerogpt-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： ZeroGPT
 
@@ -522,7 +522,7 @@
 
 ### Cleanvoice AI
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/cleanvoice-ai-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/cleanvoice-ai-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： Cleanvoice AI
 
@@ -532,7 +532,7 @@
 
 ### Chat YouTube
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/chatyoutube-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/chatyoutube-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： Chat YouTube
 
@@ -542,7 +542,7 @@
 
 ### AI 影像建立者
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/bing-ai-image-creator-02.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/bing-ai-image-creator-02.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： AI 影像建立者
 
@@ -552,7 +552,7 @@
 
 ### DALL·E
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/dall-e-2-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/dall-e-2-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： DALL·E
 
@@ -562,7 +562,7 @@
 
 ### Microsoft Edge
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/microsoft-edge-bing-ai-sidebar-02.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/microsoft-edge-bing-ai-sidebar-02.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： Microsoft Edge
 
@@ -572,7 +572,7 @@
 
 ### Good Tape
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/good-tape-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/good-tape-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： Good Tape 录音转逐字稿自动化工具，支援中文在内等多国语言
 
@@ -582,7 +582,7 @@
 
 ### ChatGPT 万能工具箱
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/chatgpt-toolkit-05.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/chatgpt-toolkit-05.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：ChatGPT 万能工具箱：强化ChatGPT 网站使用体验的Chrome 扩充功能
 
@@ -599,7 +599,7 @@
 
 ### ChatGPT 指令大全
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/explainthis-chatgpt-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/explainthis-chatgpt-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： ChatGPT 指令大全：透过这些语句让AI 成为你的生产力工具
 
@@ -609,7 +609,7 @@
 
 ### ChatGPT Writer
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/chatgpt-writer-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/chatgpt-writer-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称： ChatGPT Writer 使用AI 帮你写Email 还能整合Gmail 一键回信
 
@@ -621,7 +621,7 @@
 
 ### ChatGPT for Google
 
-{{< figure src="https://bib0.com/xc/i/hugoBlog/chatgpt-for-google-01.jpg" >}}   
+{{< image src="https://bib0.com/xc/i/hugoBlog/chatgpt-for-google-01.jpg" alt="图片加载失败" caption="Fun(`image`)" title="Fun's images" >}}     
 
 🆔  资源名称：ChatGPT for Google 在搜寻引擎结果页面显示聊天机器人回传结果
 
