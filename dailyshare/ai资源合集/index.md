@@ -7,7 +7,7 @@
 
 ### AI 发型设计
 
-![image-20230620210715805](https://bib0.com/xc/i/2023/06/20/image-20230620210715805.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620210715805.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：💈[BarberGPT - 一个 AI 发型设计工具](https://www.barbergpt.ai/)
 
@@ -23,7 +23,7 @@
 
 ### AI Short
 
-![image-20230613212027734](https://bib0.com/xc/i/2023/06/13/image-20230613212027734.png)
+{{< image src="https://bib0.com/xc/i/2023/06/13/image-20230613212027734.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：AI Short
 
@@ -33,7 +33,7 @@
 
 ### chatgpt-sites
 
-![image-20230613211831309](https://bib0.com/xc/i/2023/06/13/image-20230613211831309.png)
+{{< image src="https://bib0.com/xc/i/2023/06/13/image-20230613211831309.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：chatgpt-sites
 
@@ -43,7 +43,7 @@
 
 ### AI-For-Beginners
 
-![image-20230613211412161](https://bib0.com/xc/i/2023/06/13/image-20230613211412161.png)
+{{< image src="https://bib0.com/xc/i/2023/06/13/image-20230613211412161.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：微软推出的免费人工智能入门课 | [AI-For-Beginners](https://microsoft.github.io/AI-For-Beginners/)
 
@@ -55,7 +55,7 @@
 
 ### Hugging Face
 
-![image-20230610210621882](https://bib0.com/xc/i/2023/06/10/photo_2023-06-10_21-04-22.jpg)
+{{< image src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-10_21-04-22.jpg" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[Fulltime.ai - 快捷访问 HuggingFace 上使用GPU运行的项目](https://fulltime.ai/spaces/)
 
@@ -73,7 +73,7 @@
 
 ### 通义听悟
 
-![image-20230610205459938](https://bib0.com/xc/i/2023/06/10/image-20230610205459938.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610205459938.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[🤖阿里云 AI 新品「通义听悟」开放公测](https://tingwu.aliyun.com/u/uzKtkJ3J00JJ0330)
 
@@ -96,7 +96,7 @@
 
 ### 动漫角色生成工具
 
-![image-20230610205830913](https://bib0.com/xc/i/2023/06/10/image-20230610205835689.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610205835689.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[🤖Anime Art Studio - 一个免费的 AI 动漫角色生成工具](hhttps://animeart.studio/)
 

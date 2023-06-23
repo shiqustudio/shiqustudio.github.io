@@ -9,7 +9,7 @@
 
 ### LURL
 
-![LURL 免费缩短图片与影片分享工具，附密码保护和有效期限设定](https://bib0.com/xc/i/2023/04/15/lurl-1.jpg)
+{{< image src="https://bib0.com/xc/i/2023/04/15/lurl-1.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：LURL 免费缩短图片与影片分享工具，附密码保护和有效期限设定
 
@@ -19,7 +19,7 @@
 
 ### Short io
 
-![Short io](https://bib0.com/xc/i/hugoBlog/short-io-01.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/short-io-01.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称： Short io 可自订网域名称的免费缩网址服务
 
@@ -29,7 +29,7 @@
 
 ###  Cuttly 
 
-![Cuttly](https://bib0.com/xc/i/hugoBlog/cuttly-01.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/cuttly-01.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称： Cuttly 免费缩网址服务，提供自订网域名称和连结后缀功能
 
@@ -43,7 +43,7 @@
 
 ###  Bitly         
 
-![Bitly ](https://bib0.com/xc/i/hugoBlog/bitly-custom-domain.png)    
+{{< image src="https://bib0.com/xc/i/hugoBlog/bitly-custom-domain.png" alt="-"  title="Fun's images" >}}        
 
 🆔  资源名称：Bitly 免费缩网址自订网域名称教学，让短网址也具有品牌风格
 
@@ -53,7 +53,7 @@
 
 ###  Url Shortener
 
-![Url Shortener](https://bib0.com/xc/i/hugoBlog/url-shortener-chrome-07.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/url-shortener-chrome-07.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称： Url Shortener 一键缩短连结、产生QR code，支援六种缩网址服务
 
@@ -76,7 +76,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ###  MyPPT          
 
-![MyPPT 缩网址上传影片、照片转连结，设定浏览密码和过期时间](https://bib0.com/xc/i/hugoBlog/myppt-01.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/myppt-01.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：MyPPT 缩网址上传影片、照片转连结，设定浏览密码和过期时间
 
@@ -88,7 +88,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### LinkSafe 
 
-![LinkSafe 网站首页](https://bib0.com/xc/i/hugoBlog/linksafe-01.jpg)    
+{{< image src="https://bib0.com/xc/i/hugoBlog/linksafe-01.jpg" alt="-"  title="Fun's images" >}}        
 
 🆔  资源名称：LinkSafe 在缩网址加入reCAPTCHA 验证机制，阻止自动点击程式
 
@@ -98,7 +98,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### Sudopad 
 
-![Sudopad 将多个网址加入单一页面分享，支援多人协作收集网址很好用](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-13-12.44.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-13-12.44.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Sudopad 将多个网址加入单一页面分享，支援多人协作收集网址很好用
 
@@ -110,7 +110,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### TinyURL
 
-![TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-10-23-12.48.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-10-23-12.48.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结
 
@@ -122,7 +122,7 @@ TinyURL 和Bitly 一样都提供付费升级、可自订网域名称的功能，
 
 ### Emojied
 
-![Emojied 免费缩网址工具，让短网址带有个性化表情符号😂](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-11-11.33.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-11-11.33.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Emojied 免费缩网址工具，让短网址带有个性化表情符号😂
 
@@ -134,7 +134,7 @@ Emojied 还有简单的统计功能，用来查看某个短网址被点击的次
 
 ### Zero Width Shortener 
 
-![消失的短网址？ Zero Width Shortener 让网址缩短到几乎没有长度](https://bib0.com/xc/i/hugoBlog/2019-07-22_1340.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/2019-07-22_1340.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：消失的短网址？Zero Width Shortener 让网址缩短到几乎没有长度
 
@@ -146,7 +146,7 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ### Make My Link Longer
 
-![这是恶搞吗？ Make My Link Longer 让网址变超长的「缩网址」服务](https://bib0.com/xc/i/hugoBlog/2019-05-12_1339.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/2019-05-12_1339.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：这是恶搞吗？Make My Link Longer 让网址变超长的「缩网址」服务
 

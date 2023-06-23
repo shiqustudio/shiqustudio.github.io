@@ -7,7 +7,7 @@
 
 ### ChatALL
 
-![image-20230623155326199](https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
 
@@ -15,7 +15,7 @@
 
 ### Bilibili-subtitle
 
-![image-20230623154948016](https://bib0.com/xc/i/2023/06/23/image-20230623154948016.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154948016.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。
 
@@ -23,7 +23,7 @@
 
 ### LocalSend
 
-![image-20230623154425226](https://bib0.com/xc/i/2023/06/23/image-20230623154425226.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154425226.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：免费开源的跨平台局域网文件传输软件，适用 Windows 、macOS 、UWP 、安卓、ios 、iPad 。
 
@@ -31,7 +31,7 @@
 
 ### Interview
 
-![image-20230623161425784](https://bib0.com/xc/i/2023/06/23/image-20230623161425784.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623161425784.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
 
@@ -39,7 +39,7 @@
 
 ### Learn-Javascript
 
-![image-20230623154153335](https://bib0.com/xc/i/2023/06/23/image-20230623154153335.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154153335.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：从零开始教授 JavaScript 编程语言基础的书，内含丰富的在线练习
 
@@ -47,7 +47,7 @@
 
 ### 云空调 
 
-![image-20230623142103746](https://bib0.com/xc/i/2023/06/23/image-20230623142103746.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623142103746.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[❄️云空调 - 一个便携的开源在线空调](https://github.com/YunYouJun/air-conditioner)
 
@@ -86,7 +86,7 @@
 
 ### 视频漫画媒体容器 APP
 
-![image-20230620210357418](https://bib0.com/xc/i/2023/06/20/image-20230620210357418.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620210357418.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[🎬媒体盒子 - 一个开源的视频漫画媒体容器 APP](https://ryensx.github.io/MediaBoxPluginRepository/)
 
@@ -102,7 +102,7 @@
 
 ### 模组化素材管理
 
-![img](https://bib0.com/xc/i/2023/06/20/screenshot.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/screenshot.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[🧰mCollection - 一款开源的模组化素材管理软件](https://github.com/hunmer/mCollection)
 
@@ -118,7 +118,7 @@
 
 ### Novel 
 
-![image-20230619215432610](https://bib0.com/xc/i/2023/06/19/image-20230619215432610.png)
+{{< image src="https://bib0.com/xc/i/2023/06/19/image-20230619215432610.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[✍️Novel - 一款基于 OpenAI 的开源所见即所得编辑器](https://github.com/xisuo67/XHS-Spider)
 
@@ -132,7 +132,7 @@
 
 ### XHS Spider 
 
-![img](https://bib0.com/xc/i/2023/06/14/20230614.png)
+{{< image src="https://bib0.com/xc/i/2023/06/14/20230614.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[📕XHS Spider - 一个开源的小红书数据采集工具](https://github.com/xisuo67/XHS-Spider)
 
@@ -146,7 +146,7 @@
 
 ### 杰伦音乐 
 
-![image-20230613212631046](https://bib0.com/xc/i/2023/06/13/image-20230613212631046.png)
+{{< image src="https://bib0.com/xc/i/2023/06/13/image-20230613212631046.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[杰伦音乐 ](https://lvyueyang.github.io/web-music/)
 
@@ -178,7 +178,7 @@
 
 ### 开源盲盒系统
 
-![image-20230611205232444](https://bib0.com/xc/i/2023/06/11/image-20230611205232444.png)
+{{< image src="https://bib0.com/xc/i/2023/06/11/image-20230611205232444.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[🎁HashMart (哈希玛特) - 一款开源的盲盒系统](https://hashmart.cc/)
 
@@ -194,7 +194,7 @@
 
 ### 跨平台文件管理器
 
-![image-20230610203819162](https://bib0.com/xc/i/2023/06/10/image-20230610203819162.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610203819162.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[📁Spacedrive - 一个来自未来的文件浏览器](https://www.spacedrive.com/)
 
@@ -212,7 +212,7 @@
 
 ### git学习
 
-![image-20230610202911442](https://bib0.com/xc/i/2023/06/10/image-20230610202911442.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610202911442.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[git学习](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
@@ -221,7 +221,7 @@
 
 ### git学习指南
 
-![image-20230610202748389](https://bib0.com/xc/i/2023/06/10/image-20230610202748389.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610202748389.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)
 
@@ -230,7 +230,7 @@
 
 ### 交互式 git 可视化和教程
 
-![image-20230610202629301](https://bib0.com/xc/i/2023/06/10/image-20230610202629301.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610202629301.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching)
 
@@ -239,7 +239,7 @@
 
 ### 软件开发技术内容集合
 
-![image-20230610202511912](https://bib0.com/xc/i/2023/06/10/image-20230610202511912.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610202511912.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
@@ -248,7 +248,7 @@
 
 ### chatgpt自动批量翻译工具
 
-![image-20230610202118872](https://bib0.com/xc/i/2023/06/10/image-20230610202118872.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610202118872.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[NEKOparapa/AiNiee-chatgpt](https://github.com/NEKOparapa/AiNiee-chatgpt)
 
@@ -257,7 +257,7 @@
 
 ### 音色转换
 
-![image-20230610201746819](https://bib0.com/xc/i/2023/06/10/image-20230610201746819.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610201746819.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：[bilboy/**vc-lm**](https://github.com/nilboy/vc-lm)
 
@@ -267,7 +267,7 @@
 
 ### 相册同步网络
 
-![image-20230610082157795](https://bib0.com/xc/i/2023/06/10/image-20230610082157795.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610082157795.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：fregie/pho
 
@@ -292,7 +292,7 @@
 
 🆔  资源名称：🎟~~~dm-ticket - 大麦网自动购票程序~~~
 
-⭐️  资源描述：💡资源已经停止更新了💡
+⭐️  资源描述：️️️️:(fa-solid fa-exclamation-triangle text-warning): 资源已经停止更新了️️️️:(fa-solid fa-exclamation-triangle text-warning): 
 
 > 📄项目支持 Docker 部署以及 Rust 环境部署
 >
@@ -304,7 +304,7 @@
 
 ### Codeberg 
 
-![image-20230418224911491](https://bib0.com/xc/i/2023/04/18/image-20230418224911491.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418224911491.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：Codeberg 
 

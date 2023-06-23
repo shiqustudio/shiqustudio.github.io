@@ -7,7 +7,7 @@
 
 ### uitoolz
 
-![image-20230620220855987](https://bib0.com/xc/i/2023/06/20/image-20230620220855987.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620220855987.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：[**uitoolz - 一个包含 1000+ 设计资源的网址导航**](https://uitoolz.com/)
 
@@ -21,7 +21,7 @@
 
 ### fffuel 
 
-![image-20230620221902864](https://bib0.com/xc/i/2023/06/20/image-20230620221902864.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620221902864.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：[**一个设计工具合集网站**](https://fffuel.co/)
 
@@ -37,7 +37,7 @@
 
 ### UI Goodies 
 
-![image-20230620222330890](https://bib0.com/xc/i/2023/06/20/image-20230620222330890.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620222330890.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：[**UI Goodies - 一个 UI 设计资源导航网站**](https://uigoodies.com/)
 

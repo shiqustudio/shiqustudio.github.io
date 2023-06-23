@@ -7,7 +7,7 @@
 
 ### 商品历史价格 
 
-![image-20230623153952797](https://bib0.com/xc/i/2023/06/23/image-20230623153952797.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623153952797.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ⭐️  资源描述：
 

@@ -6,7 +6,7 @@
 
 <!--more-->
 
-![image-20230519213205144](https://bib0.com/xc/i/2023/05/28/image-20230519213205144.png)
+{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230519213205144.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📃分享几个古书/古画/古地图/历史网站
 

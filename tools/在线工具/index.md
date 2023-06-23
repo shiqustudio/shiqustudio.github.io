@@ -8,7 +8,7 @@
 
 ### FileEagle
 
-![image-20230623154659445](https://bib0.com/xc/i/2023/06/23/image-20230623154659445.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154659445.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：免费在线 Windows 软件资源库下载网站
 
@@ -16,7 +16,7 @@
 
 ### Xplorer
 
-![image-20230528204403638](https://bib0.com/xc/i/2023/05/28/image-20230528204403638.png)
+{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230528204403638.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：📂[Xplorer](https://xplorer.space/) - 一开源且漂亮的的定制化文件管理器**。
 
@@ -32,7 +32,7 @@
 
 ### Qwerty Learner
 
-![image-20230528204043999](https://bib0.com/xc/i/2023/05/28/image-20230528204043999.png)
+{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230528204043999.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：⌨️[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner) - 用练习打字的方式背单词
 
@@ -50,7 +50,7 @@
 
 ### Slidev
 
-![image-20230528203633789](https://bib0.com/xc/i/2023/05/28/image-20230528203633789.png)
+{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230528203633789.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一个基于Web的幻灯片制作和演示工具
 
@@ -66,7 +66,7 @@
 
 ### boolv工具箱
 
-![image-20230528203328248](https://bib0.com/xc/i/2023/05/28/image-20230528203328248.png)
+{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230528203328248.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一个在线图片处理工具
 
@@ -81,7 +81,7 @@
 
 ### 终身教育平台
 
-![image-20230518221251024](https://bib0.com/xc/i/2023/05/18/image-20230518221251024.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518221251024.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：国家开放大学制作的免费教育资源网站，里面有各种教程课程，类型的涵盖面非常广，分类包含了生活、兴趣、职场、技能、老年、学历、学分银行，每个大类中同时包含了许多细分类别。
 
@@ -89,7 +89,7 @@
 
 ### 盐神阁
 
-![image-20230518220907848](https://bib0.com/xc/i/2023/05/18/image-20230518220907848.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518220907848.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一个免费的内容搬运网站，可免费阅读知乎尊贵用户内容。
 
@@ -97,7 +97,7 @@
 
 ### ImageMagick
 
-![image-20230518220717414](https://bib0.com/xc/i/2023/05/18/image-20230518220717414.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518220717414.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款强大的编辑和处理图像的桌面工具。可用于创建、调整大小、裁剪、颜色校正和合成图像，支持超过 200 种的图像文件格式，适用于 Windows、Linux 和 macOS 系统。
 
@@ -107,7 +107,7 @@
 
 ### LICEcap
 
-![image-20230518220221240](https://bib0.com/xc/i/2023/05/18/image-20230518220221240.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518220221240.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款简洁易用的 GIF 录制软件，可将屏幕录像的内容直接保存为高质量（每帧颜色数量可超过256）GIF动态图片格式，支持输出 GIF 后缀的动画文件录像和自身的无损 LCF 文件格式。
 
@@ -115,7 +115,7 @@
 
 ### Userscloud
 
-![image-20230518220132871](https://bib0.com/xc/i/2023/05/18/image-20230518220132871.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518220132871.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：无限云存储最大上传5G，无需注册登入，分享形式有直链、短链接、论坛代码、Html代码。
 
@@ -123,7 +123,7 @@
 
 ### Gallerix
 
-![image-20230518215813997](https://bib0.com/xc/i/2023/05/18/image-20230518215813997.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215813997.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：俄罗斯互联网上最大的虚拟博物馆，收录超过170,000 幅艺术作品、10,000 个艺术家，内容类型包括布景画、油画、水彩画、铅笔画、大型装饰画、圣像画、全景画、微型画、透影画等等。
 
@@ -131,7 +131,7 @@
 
 ### Flow Launcher
 
-![img](https://bib0.com/xc/i/2023/05/18/light_screenshot.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/light_screenshot.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：Windows 的快速文件和程序启动器，能够快速启动应用，方便地搜索文件、书签等内容，支持扩展插件、预览文件、系统命令、游戏模式等功能。
 
@@ -141,7 +141,7 @@
 
 ### 找脚本
 
-![image-20230518215332932](https://bib0.com/xc/i/2023/05/18/image-20230518215332932.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215332932.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：分享油猴脚本的网站。
 
@@ -149,7 +149,7 @@
 
 ### 简历
 
-![image-20230518215238494](https://bib0.com/xc/i/2023/05/18/image-20230518215238494.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215238494.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：在线开发者简历模板，可以编辑以及免费下载。
 
@@ -157,7 +157,7 @@
 
 ### Aihub
 
-![image-20230518215123448](https://bib0.com/xc/i/2023/05/18/image-20230518215123448.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215123448.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：收集 AI 相关应用和提示与源码。
 
@@ -165,7 +165,7 @@
 
 ### SearchEverywhere
 
-![image-20230518215010611](https://bib0.com/xc/i/2023/05/18/image-20230518215010611.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215010611.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：Linux, macOS 与 Windows 上的文件检索工具，含有find以及Everything的各种功能，外加内容查找、上下层目录查找等。
 
@@ -173,7 +173,7 @@
 
 ### SQL Chat
 
-![image-20230518214806940](https://bib0.com/xc/i/2023/05/18/image-20230518214806940.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518214806940.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。
 
@@ -181,7 +181,7 @@
 
 ### 小森平的免费下载音效
 
-![image-20230518214659136](https://bib0.com/xc/i/2023/05/18/image-20230518214659136.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518214659136.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：免费的无版权的音效下载网站，可直接下载无需登入。音效类型很多，游戏、按钮、战斗、武器、爆炸、车声、自然季节、昆虫、开关声、人的脚步声等等。这些音效可以自由使用，用于商业用途、加工、应用或工业产品，不限制作品内容，可用于电影、短片、游戏、出版、动画、舞台表演、广播剧、有声读物、软件等。缺点不支持搜索内容。
 
@@ -189,7 +189,7 @@
 
 ### 中国传统色
 
-![image-20230518220337934](https://bib0.com/xc/i/2023/05/18/image-20230518220337934.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518220337934.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：中国传统色，[日本传统色](https://nipponcolors.com/)，配色。
 
@@ -197,7 +197,7 @@
 
 ### palettemaker
 
-![image-20230518214541661](https://bib0.com/xc/i/2023/05/18/image-20230518214541661.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518214541661.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：在线配色生成工具，可以结合网站、应用、logo、插画等各种案例预览实际配色效果。
 
@@ -205,7 +205,7 @@
 
 ### BGM Cat
 
-![image-20230518214408976](https://bib0.com/xc/i/2023/05/18/image-20230518214408976.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518214408976.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：免费的在线AI智能背景音乐生成器工具，可以根据不同的场景、风格、心情标签，一键生成视频配音和片头音乐。
 
@@ -213,7 +213,7 @@
 
 ### Flow
 
-![image-20230518214124133](https://bib0.com/xc/i/2023/05/18/image-20230518214124133.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518214124133.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：开源免费的 Epub 在线阅读器。
 
@@ -223,7 +223,7 @@
 
 ### Wikihow
 
-![image-20230518214017124](https://bib0.com/xc/i/2023/05/18/image-20230518214017124.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518214017124.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款“万能又有趣”的搜索工具，完全免费无广告，内容涵盖工作效率、生活技巧、实用常识等应有尽有。
 
@@ -231,7 +231,7 @@
 
 ### 方方格子
 
-![image-20230518213937391](https://bib0.com/xc/i/2023/05/18/image-20230518213937391.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518213937391.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款大型的 Excel 工具箱，将一些常用的需要写函数或写宏的功能给封装成现成的按钮，比如：过滤文本、删除文本、汇总拆分、重复值工具、数据对比、高级排序等，支持Office 2007及此后发布的（包含Microsoft 365）各版本Excel及、WPS。
 
@@ -239,7 +239,7 @@
 
 ### Bottles
 
-![image-20230518213025780](https://bib0.com/xc/i/2023/05/18/image-20230518213025780.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518213025780.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：轻松地在 Linux 上运行 Windows 软件和游戏。
 
@@ -249,7 +249,7 @@
 
 ### 库问搜索
 
-![image-20230518212950387](https://bib0.com/xc/i/2023/05/18/image-20230518212950387.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518212950387.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：免费的论文文献搜索网站，提供了超过千万的开源学术论文资源，涵盖了各个领域，支持快速检索和下载。
 
@@ -257,7 +257,7 @@
 
 ### JSON to Dart
 
-![image-20230518212825940](https://bib0.com/xc/i/2023/05/18/image-20230518212825940.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518212825940.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：将 JSON 粘贴到下面的文本区域，点击转换，免费获得 Dart 类。
 
@@ -265,7 +265,7 @@
 
 ### transfer.sh
 
-![image-20230518212711496](https://bib0.com/xc/i/2023/05/18/image-20230518212711496.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518212711496.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：免费开源的文件传输工具，可以帮助您从命令行轻松快速地共享文件。
 
@@ -275,7 +275,7 @@
 
 ### 每日报告
 
-![image-20230518212610700](https://bib0.com/xc/i/2023/05/18/image-20230518212610700.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518212610700.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一个行业报告大全网站，专注于金融行业、视频直播、电商零售、医疗行业和房产等各行业研究分析报告分享，提供在线预览和下载到本地。
 
@@ -283,7 +283,7 @@
 
 ### HelloWindows.cn
 
-![image-20230518212529624](https://bib0.com/xc/i/2023/05/18/image-20230518212529624.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518212529624.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：由国人搭建的系统资源网站，简单、直观、无广告、无登入限制，免费提供官方原版Windows系统的下载地址、下载方法和激活方法。可以在这个网站上下载Windows系统的镜像文件，包括win11、win10、win8、win7、winxp等版本。
 
@@ -291,7 +291,7 @@
 
 ### LESLIE Note
 
-![image-20230518212401375](https://bib0.com/xc/i/2023/05/18/image-20230518212401375.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518212401375.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款 Windows 轻量的免费绿色本地化笔记软件，自带一个桌面便签，数据保存在本地。内容完全本地，原生便携，用户可以随时随地的导出，同时支持“批量导出”，笔记所附带的附件也会同步导出，导出的格式是.txt/.rtf等常用标准格式。
 
@@ -299,7 +299,7 @@
 
 ### 国家应急广播
 
-![image-20230518212253098](https://bib0.com/xc/i/2023/05/18/image-20230518212253098.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518212253098.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一个安全教育的资源网站
 
@@ -307,7 +307,7 @@
 
 ### perfect-freehand
 
-![image-20230419084023799](https://bib0.com/xc/i/2023/04/19/image-20230419084023799.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419084023799.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：手绘风格绘画工具
 
@@ -317,7 +317,7 @@
 
 ### 白描网页版
 
-![image-20230419083934725](https://bib0.com/xc/i/2023/04/19/image-20230419083934725.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419083934725.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：在线 OCR 文字识别工具，无需注册、登录既可使用。支持数学公式识别、电子表格识别、扫描PDF转文字。
 
@@ -325,7 +325,7 @@
 
 ### Notion Avatar Maker
 
-![image-20230419083223674](https://bib0.com/xc/i/2023/04/19/image-20230419083223674.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419083223674.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：▎🔄 Notion Avatar Maker 
 
@@ -342,7 +342,7 @@
 
 ### Dillinger
 
-![image-20230419082925286](https://bib0.com/xc/i/2023/04/19/image-20230419082925286.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419082925286.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：在线 Markdown 编辑器，支持将 HTML 转换为 Markdown，支持导入、导出到 GitHub, Dropbox, Google Drive, One Drive 等平台，可以导出为 HTML, PDF 等文件。
 
@@ -352,7 +352,7 @@
 
 ### MathB.in
 
-![image-20230419083425705](https://bib0.com/xc/i/2023/04/19/image-20230419083425705.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419083425705.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：在线数学公式分享工具。可以用 LaTex 和 Markdown 输入公式和其他内容，把生成的网址分享给其他人。
 
@@ -362,7 +362,7 @@
 
 ### diagrams.net
 
-![image-20230419083552170](https://bib0.com/xc/i/2023/04/19/image-20230419083552170.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419083552170.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：开源免费的在线画流程图的网站。无需注册，无需登录，可以下载导出为 png, jpeg, svg, pdf 等格式。
 
@@ -372,7 +372,7 @@
 
 ### Shots
 
-![image-20230419082509359](https://bib0.com/xc/i/2023/04/19/image-20230419082509359.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419082509359.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：在线截图美化工具
 
@@ -380,7 +380,7 @@
 
 ### iFixit 
 
-![image-20230413220033022](https://bib0.com/xc/i/2023/04/13/image-20230413220033022.png)
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413220033022.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一个提供电子产品维修指南和工具的网站，它的宗旨是“让每个人都能修理自己的东西”。网站上有数千个不同品牌和型号的电子产品的拆解和维修教程，含详细步骤说明和图片或视频演示。
 
@@ -388,7 +388,7 @@
 
 ### 多墨智能
 
-![image-20230413213756165](https://bib0.com/xc/i/2023/04/13/image-20230413213756165.png)
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413213756165.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：
 
@@ -402,7 +402,7 @@
 
 ### 彩虹工具箱
 
-![image-20230419083652831](https://bib0.com/xc/i/2023/04/19/image-20230419083652831.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419083652831.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款多功能的电脑工具箱软件。提供了多种实用工具，包括文件压缩解压、文件加密、文件切割合并、文件清理、硬盘分区、系统信息查看、网络监控、进程管理等。
 
@@ -410,7 +410,7 @@
 
 ### 炽狮工具箱
 
-![image-20230413213613808](https://bib0.com/xc/i/2023/04/13/image-20230413213613808.png)
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413213613808.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：功能超多的在线工具箱。五大类型：站长、开发、实用、QQ、娱乐。
 
@@ -418,7 +418,7 @@
 
 ### 在线体验 Linux 系统
 
-![image-20230411223832164](https://bib0.com/xc/i/2023/04/11/image-20230411223832164.png)
+{{< image src="https://bib0.com/xc/i/2023/04/11/image-20230411223832164.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：📄这个网站牛哇，提供多个 Linux 发行版、windows、软件供你在线体验。
 
@@ -426,7 +426,7 @@
 
 ### 图像在线修复
 
-![image-20230411214909711](https://bib0.com/xc/i/2023/04/11/7q6q8.png)
+{{< image src="https://bib0.com/xc/i/2023/04/11/7q6q8.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一种图像处理软件，可以删除图像中不需要的瑕疵，比如假人、水印、颜色环、文本等等。可以删除图像中不需要的元素，还可以用来修复损坏的图像，例如破旧的老照片等等。
 
@@ -434,7 +434,7 @@
 
 ### 随机账号密码生成器
 
-![image-20230405212309928](https://bib0.com/xc/i/hugoBlog/image-20230405212309928.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405212309928.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：提供随机的个人资料讯息及虚拟账号密码生成器，包括注册姓名电话、家庭地址、身份证、信用卡号码随机生成。
 
@@ -460,7 +460,7 @@
 
 ### 朋友圈点赞生成工具
 
-![image-20230405213243469](https://bib0.com/xc/i/hugoBlog/image-20230405213243469.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405213243469.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：**仅可用于个人应付各类强制要求转发朋友圈的情形，请勿批量生成截图或将截图用于造谣诽谤、微商宣传**等非法或令人反感的用途，请勿用于商业用途。 
 
@@ -468,7 +468,7 @@
 
 ### 参数化二维码生成器
 
-![image-20230405213440549](https://bib0.com/xc/i/hugoBlog/image-20230405213440549.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405213440549.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：二维码美化工具，可以生成非常美观的二维码，并且还可以调整二维码各项参数。
 
@@ -500,7 +500,7 @@
 
 ### 蜜蜂去水印
 
-![image-20230405214132637](https://bib0.com/xc/i/hugoBlog/image-20230405214132637.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405214132637.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款短视频去水印下载的网站，支持抖音、快手、美拍、皮皮虾、Instagram等26个平台视频的下载。 
 
@@ -508,7 +508,7 @@
 
 ### 网盘直链获取
 
-![image-20230405214208683](https://bib0.com/xc/i/hugoBlog/image-20230405214208683.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405214208683.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：使用时记得删除文件扩展后缀
 
@@ -516,7 +516,7 @@
 
 ### 在线图片压缩
 
-![image-20230405214255843](https://bib0.com/xc/i/hugoBlog/image-20230405214255843.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405214255843.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：有时候上传头像有大小限制，这个在线压缩很好用
 
@@ -524,7 +524,7 @@
 
 ### 在线图标制作
 
-![image-20230405214345744](https://bib0.com/xc/i/hugoBlog/image-20230405214345744.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405214345744.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款在线图标制作工具，非常适合对设计不是非常在行的开发人员。 
 
@@ -532,7 +532,7 @@
 
 ### 虚拟身份生成
 
-![image-20230405214432131](https://bib0.com/xc/i/hugoBlog/image-20230405214432131.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405214432131.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：虚拟身份生成，可生成护照
 
@@ -540,7 +540,7 @@
 
 ### 音乐解锁
 
-![image-20230405214740078](https://bib0.com/xc/i/hugoBlog/image-20230405214740078.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405214740078.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：移除已购音乐的加密保护，目前支持 ：
 
@@ -558,7 +558,7 @@
 
 ### 批量重命名
 
-![image-20230405215004520](https://bib0.com/xc/i/hugoBlog/image-20230405215004520.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405215004520.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：批量重命名
 
@@ -576,7 +576,7 @@
 
 ### PasteMe快速分享文本
 
-![image-20230405215347666](https://bib0.com/xc/i/hugoBlog/image-20230405215347666.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405215347666.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：快速分享文本，支持加密分享，一键复制快捷方便，永久保存不过期，更有阅后即焚功能
 
@@ -584,7 +584,7 @@
 
 ### 国外身份地址一键生成
 
-![image-20230405215624238](https://bib0.com/xc/i/hugoBlog/image-20230405215624238.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405215624238.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：国外身份地址一键生成
 
@@ -592,7 +592,7 @@
 
 ### 跨平台迁移歌单
 
-![image-20230405215714556](https://bib0.com/xc/i/hugoBlog/image-20230405215714556.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405215714556.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：跨平台迁移歌单
 
@@ -600,7 +600,7 @@
 
 ### Bilibili封面提取
 
-![image-20230405215928923](https://bib0.com/xc/i/hugoBlog/image-20230405215928923.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405215928923.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：Bilibili 封面提取
 
@@ -608,7 +608,7 @@
 
 ### 截图识别表格
 
-![image-20230405220111319](https://bib0.com/xc/i/hugoBlog/image-20230405220111319.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220111319.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 通用表格、无框线表格、财报、银行流水，轻松提取！（仅限Windows 10与11）  
 
@@ -616,7 +616,7 @@
 
 ### m3u8视频在线提取
 
-![image-20230405220200682](https://bib0.com/xc/i/hugoBlog/image-20230405220200682.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220200682.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：无需下载软件，打开网站即可下载，自动检测，一键下载 
 
@@ -624,7 +624,7 @@
 
 ### 表格编辑转换
 
-![image-20230405220312964](https://bib0.com/xc/i/hugoBlog/image-20230405220312964.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220312964.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：这是一款基于Web的工具，用于将Excel，URL，HTML，JSON，CSV，Markdown和LaTex表转换为CSV / TSV，XML，YAML，Markdown表，插入SQL，HTML，Excel和LaTeX表。内置一个小表格编辑器，其行为很像Microsoft Excel中的单元格。从而使用表格变得更加容易。网站支持简体中文，操作体验极佳。
 
@@ -632,7 +632,7 @@
 
 ### 小妖精工具箱 
 
-![image-20230405220435673](https://bib0.com/xc/i/hugoBlog/image-20230405220435673.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220435673.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：一款多功能工具箱，包含抖音去水印、B站视频解析、短网址生成、网易云音乐下载、站长工具、开发工具、实用工具、QQ工具、娱乐工具等非常多的功能。  
 
@@ -640,7 +640,7 @@
 
 ### 在线查看各种格式的文件内容
 
-![image-20230405220533650](https://bib0.com/xc/i/hugoBlog/image-20230405220533650.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220533650.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：支持12种格式文件。文件格式包括AI、PSD、DICOM、SVG、TIFF、VSD、CR2、OFFICE、EPS、XPS、CDR、DJVU、EPUB
 
@@ -648,7 +648,7 @@
 
 ### AI写作猫
 
-![image-20230405220721871](https://bib0.com/xc/i/hugoBlog/image-20230405220721871.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220721871.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：多种 AI 写作模板，支持方案报告、电商种草文案、公文、小说、广告语、论文灵感等各类不同的写作需求，提升写作效率。
 
@@ -656,7 +656,7 @@
 
 ### 踢踢零动图
 
-![image-20230405220818472](https://bib0.com/xc/i/hugoBlog/image-20230405220818472.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220818472.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：支持视频转GIF、图片合成GIF、GIF编辑、GIF裁剪、GIF压缩、GIF速度调节等功能。 
 
@@ -664,7 +664,7 @@
 
 ### 人工智能在线画图
 
-![image-20230405220952907](https://bib0.com/xc/i/hugoBlog/image-20230405220952907.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405220952907.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：人工智能生成画作，可免费使用，生成的图片版权属于你 
 
@@ -672,7 +672,7 @@
 
 ### Spotify音乐在线下载
 
-![image-20230405221038162](https://bib0.com/xc/i/hugoBlog/image-20230405221038162.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405221038162.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 不足之处，保存时会弹窗验证你是人类
 
@@ -680,7 +680,7 @@
 
 ### 在线文字转图片
 
-![image-20230405221228923](https://bib0.com/xc/i/hugoBlog/image-20230405221228923.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405221228923.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：在线文字转图片
 
@@ -688,7 +688,7 @@
 
 ### 网易云音乐下载链接提取
 
-![image-20230405221347094](https://bib0.com/xc/i/hugoBlog/image-20230405221347094.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405221347094.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 请忽略其他三个选项，用歌曲ID直达即可
 
@@ -696,7 +696,7 @@
 
 ### 城通网盘解析下载地址
 
-![image-20230405221448983](https://bib0.com/xc/i/hugoBlog/image-20230405221448983.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405221448983.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 输入链接后缀的文件ID解析即可。
 
@@ -704,7 +704,7 @@
 
 ### 在线测网速 
 
-![image-20230405221752486](https://bib0.com/xc/i/hugoBlog/image-20230405221752486.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405221752486.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 在线测网速
 
@@ -712,7 +712,7 @@
 
 ### imagestoo在线处理图片
 
-![image-20230405221922483](https://bib0.com/xc/i/hugoBlog/image-20230405221922483.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405221922483.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：
 
@@ -728,7 +728,7 @@
 
 ### 移除已购音乐的加密保护 
 
-![image-20230405222020437](https://bib0.com/xc/i/hugoBlog/image-20230405222020437.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405222020437.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：移除已购音乐的加密保护
 
@@ -748,7 +748,7 @@
 
 ### TTSMaker文本转语音 
 
-![image-20230405222253837](https://bib0.com/xc/i/hugoBlog/image-20230405222253837.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405222253837.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎  免费的文本转语音工具，提供语音合成服务，支持多种语言：英语、法语、德语、西班牙、阿拉伯语、中文、日语、韩语，越南语 …… 及多种语音风格，您可以使用它朗读文本和电子书，也可以下载合成后的音频文件。这个TTS工具可以在线将文本转换成语音，非常方便，而且永久免费。
 
@@ -756,7 +756,7 @@
 
 ### 在线生成扁平化头像
 
-![image-20230405222359255](https://bib0.com/xc/i/hugoBlog/image-20230405222359255.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405222359255.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 免费生成随机卡通扁平头像，可以调整部分配饰。
 
@@ -764,7 +764,7 @@
 
 ### AI万能图片编辑器
 
-![image-20230405222506116](https://bib0.com/xc/i/hugoBlog/image-20230405222506116.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405222506116.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：描述：
 
@@ -784,7 +784,7 @@
 
 ### 笔记词（支持文件加密传送） 
 
-![image-20230405223017146](https://bib0.com/xc/i/hugoBlog/image-20230405223017146.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405223017146.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 收藏网址、存储文本文件、私密笔记本、跨平台网络剪贴板
 
@@ -792,7 +792,7 @@
 
 ### 万能工具宝藏
 
-![image-20230405223111207](https://bib0.com/xc/i/hugoBlog/image-20230405223111207.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405223111207.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 收录了相当多的实用在线工具，目前有图片处理、数据转换、生活娱乐、教育、文本工具、文档转换、开发工具、视频、PDF转换等八大类，一共约一百多种工具。
 
@@ -800,7 +800,7 @@
 
 ### Photopea（在线版Photoshop） 
 
-![image-20230405223519301](https://bib0.com/xc/i/hugoBlog/image-20230405223519301.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405223519301.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：
 
@@ -814,7 +814,7 @@
 
 ### AI帮个忙（不费脑子写文案）
 
-![image-20230405223645306](https://bib0.com/xc/i/hugoBlog/image-20230405223645306.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405223645306.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：❏ 实用的多功能AI工具箱集合网站，目前收集了效率工具、生活工具和娱乐三大类ai工具，囊括常见的周报生成器，邮件小助手、英文写作小助手、SWOT分析法、餐厅点评小助手等等。
 
@@ -822,7 +822,7 @@
 
 ### 随机外国地址生成器
 
-![image-20230405223717927](https://bib0.com/xc/i/hugoBlog/image-20230405223717927.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405223717927.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 该地址生成器的目的只是为了大家学习各国的地址格式，了解地名和街道的名称，请不要用于非法用途。
 
@@ -830,7 +830,7 @@
 
 ### Spotify Downloader
 
-![image-20230405223818282](https://bib0.com/xc/i/hugoBlog/image-20230405223818282.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405223818282.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 粘贴分享链接即可下载Spotify 音乐。
 
@@ -838,7 +838,7 @@
 
 ### Relight 图片打光 
 
-![image-20230405224010592](https://bib0.com/xc/i/hugoBlog/image-20230405224010592.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405224010592.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 快速的给图片进行补光，可以多角度，多颜色的增加光源。
 
@@ -846,7 +846,7 @@
 
 ### 菜鸟工具
 
-![image-20230405224110962](https://bib0.com/xc/i/hugoBlog/image-20230405224110962.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405224110962.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：◎ 功能超多，总有你能用的到的。
 
@@ -854,7 +854,7 @@
 
 ### 获取YouTube视频缩略图 
 
-![image-20230405224159986](https://bib0.com/xc/i/hugoBlog/image-20230405224159986.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405224159986.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：获取YouTube视频缩略图 
 
@@ -862,7 +862,7 @@
 
 ### 推荐2款冷门网盘
 
-![image-20230405224300779](https://bib0.com/xc/i/hugoBlog/image-20230405224300779.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405224300779.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 **推荐两款冷门网盘，可以不用，不能没有**。
 

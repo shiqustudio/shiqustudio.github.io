@@ -1,7 +1,7 @@
 # 常见问答
 
 
-> 本文档记录一些常见的问答，主要来自 [GitHub Discussions](https://github.com/shiqustudio/giscus/discussions) 和 QQ 群：`403144966`。
+> 本文档记录一些常见的问答，主要来自 [GitHub Discussions](https://github.com/shiqustudio/giscus/discussions) 和 QQ 群：`864217652`。
 
 <!--more-->
 
@@ -53,7 +53,7 @@
 
 {{< /admonition >}}
 
-没找到你的问题？加入 [讨论<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i>](https://github.com/orgs/hugo-fixit/discussions/new/choose) 或者 QQ 群：`403144966`。
+没找到你的问题？加入 [讨论<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i>](https://github.com/orgs/hugo-fixit/discussions/new/choose) 或者 QQ 群：`864217652`。
 
 
 

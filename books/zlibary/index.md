@@ -7,7 +7,7 @@
 
 ### Z-Library
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623132306740.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623132306740.png" alt="-" title="Fun's images">}}     
 
 🆔  资源名称： [Z-Library](https://zh.wikipedia.org/wiki/Z-Library)百科信息
 
@@ -23,7 +23,7 @@
 
 ### 无名图书
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623153321185.png">}}
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623153321185.png" alt="-" title="Fun's images">}}     
 
 ⭐️  资源描述：输入要搜索的图书名、作者或者ISBN进行搜索即可，免费下载
 

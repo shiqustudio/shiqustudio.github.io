@@ -3,7 +3,7 @@
 
 ### ZipZap
 
-![image-20230623142711360](https://bib0.com/xc/i/2023/06/23/image-20230623142711360.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623142711360.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ⭐️  描述：🤖[ZipZap - 一款基于 ChatGPT 免费 AI 浏览器助理](https://www.zipzap.ai/)
 
@@ -15,7 +15,7 @@
 
 ### 图片助手
 
-![image-20230619215210442](https://bib0.com/xc/i/2023/06/19/image-20230619215210442.png)
+{{< image src="https://bib0.com/xc/i/2023/06/19/image-20230619215210442.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ⭐️  描述：🖼[图片助手](https://www.pullywood.com/ImageAssistant/) - 一款用于嗅探、分析网页图片、图片筛选、下载等功能的浏览器插件
 
@@ -29,7 +29,7 @@
 
 ### Distill
 
-![image-20230613214853409](https://bib0.com/xc/i/2023/06/13/image-20230613214853409.png)
+{{< image src="https://bib0.com/xc/i/2023/06/13/image-20230613214853409.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ⭐️  描述：🔎[Distill](https://distill.io/) - 一个可以监控网页变动的通知工具
 
@@ -49,7 +49,7 @@
 
 ### 123浏览器 
 
-![image-20230610082729049](https://bib0.com/xc/i/2023/06/10/image-20230610082729049.png)
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610082729049.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ⭐️  描述：[123浏览器](https://123llq.com/) 不错的浏览器，可以试试。
 

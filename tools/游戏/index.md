@@ -3,9 +3,9 @@
 
 ### Playnite
 
-<img src="https://bib0.com/xc/i/2023/06/20/screen2.jpg" alt="Carousel Bootstrap First"  />
+{{< image src="https://bib0.com/xc/i/2023/06/20/screen2.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
 
-<img src="https://bib0.com/xc/i/2023/06/20/screen5.jpg" alt="Carousel Bootstrap First"  />
+{{< image src="https://bib0.com/xc/i/2023/06/20/screen5.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
 
 ⭐️  描述：🕹️[Playnite - 一款开源的游戏管理器](https://playnite.link/)
 

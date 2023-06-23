@@ -8,7 +8,7 @@
 
 ### 微软壁纸
 
-![image-20230620213138658](https://bib0.com/xc/i/2023/06/20/image-20230620213138658.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620213138658.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ⭐️  资源描述：🟦微软壁纸
 

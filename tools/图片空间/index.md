@@ -7,7 +7,7 @@
 
 ### LinkPicture
 
-![LinkPicture 免费图片托管服务，上传后产生可直连的超连结](https://bib0.com/xc/i/hugoBlog/linkpicture-01.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/linkpicture-01.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称： LinkPicture 免费图片托管服务，上传后产生可直连的超连结
 
@@ -19,7 +19,7 @@ LinkPicture 在上传图片后会产生各种网址格式，包括HTML、BBcode�
 
 ### imghut
 
-![imghut 免费图片分享空间，支援五种格式图片可直连显示](https://bib0.com/xc/i/hugoBlog/imghut-01.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/imghut-01.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称： imghut 免费图片分享空间，支援五种格式图片可直连显示
 
@@ -31,7 +31,7 @@ Imghut 比较像是「网路相簿」运作方式，每个使用者都有自己�
 
 ###  Imgur      
 
-![Imgur 免费图片空间使用教学，免注册上传分享图片](https://bib0.com/xc/i/hugoBlog/imgur2013-07-04_1201.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/imgur2013-07-04_1201.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Imgur 免费图片空间使用教学，免注册上传分享图片
 
@@ -45,7 +45,7 @@ imgur 不会对图片流量进行限制，也就是说无论连结到imgur 浏�
 
 ### ZoomHub
 
-![ZoomHub 可缩放的免费图片空间](https://bib0.com/xc/i/hugoBlog/zoomhub-01.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/zoomhub-01.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称： ZoomHub 不同于一般图片空间，上传高解析度相片还能局部放大
 
@@ -59,7 +59,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ###  imgus         
 
-![imgus 免费图片、影片上传分享，可自订有效期限和浏览密码](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-08-01-14.29.41-redacted_dot_app.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-08-01-14.29.41-redacted_dot_app.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：imgus 免费图片、影片上传分享，可自订有效期限和浏览密码
 
@@ -69,7 +69,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ### Uploadee 
 
-![Upload.ee 免费档案上传空间，单档100 MB 也提供图片直接连结](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-30-14.26.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-30-14.26.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Uploadee 免费档案上传空间，单档100 MB 提供图片直接连结
 
@@ -79,7 +79,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ### 薄荷图床
 
-![薄荷图床：免费图片转网址服务，中国模式可将图片上传香港伺服器](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-13-13.59.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-13-13.59.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：薄荷图床：免费图片转网址服务，中国模式可将图片上传香港伺服器
 
@@ -89,7 +89,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ### IM GE
 
-![IM .GE 无限容量免费图片空间，支援各种格式可自订过期时间](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-20-16.10.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-20-16.10.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：IM GE 无限容量免费图片空间，支援各种格式可自订过期时间
 
@@ -103,7 +103,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ### Cloudflare Images
 
-![Cloudflare Images 云端图片储存、尺寸调整，每月5 美元可存10 万张](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-29-13.47.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-29-13.47.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Cloudflare Images 云端图片储存、尺寸调整，每月5 美元可存10 万张
 
@@ -119,7 +119,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ### Folio.ink
 
-![Folio.ink](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-25-13.42.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-25-13.42.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Folio.ink 为创作者提供免费图片空间，批次上传以幻灯片模式浏览相簿
 
@@ -131,7 +131,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ### Decentrafile 
 
-![Decentrafile 免费、匿名去中心化云端空间，上传档案永不过期](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-14-14.01.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-14-14.01.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Decentrafile 免费、匿名去中心化云端空间，上传档案永不过期
 
@@ -145,7 +145,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生J
 
 ### Pasteboard 
 
-![Pasteboard 免费图片上传空间，支援单档10 MB 永久保存无流量限制](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-14-12.55.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-14-12.55.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Pasteboard 免费图片上传空间，支援单档10 MB 永久保存无流量限制
 
@@ -161,7 +161,7 @@ Pasteboard 提供付费升级为Premium 帐户功能，升级后可以登入、�
 
 ### Postimages 
 
-![Postimages 老牌免费图片空间，可批次裁切尺寸、设定自动过期时间](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-24-20.38.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-24-20.38.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Postimages 老牌免费图片空间，可批次裁切尺寸、设定自动过期时间
 
@@ -173,7 +173,7 @@ Pasteboard 提供付费升级为Premium 帐户功能，升级后可以登入、�
 
 ### ImgBB
 
-![ImgBB](https://bib0.com/xc/i/hugoBlog/MacBook-Air-on-table.jpg)
+{{< image src="https://bib0.com/xc/i/hugoBlog/MacBook-Air-on-table.jpg" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：ImgBB 免费图片空间，支援多种常见格式可设定自动删除时间
 
@@ -185,7 +185,7 @@ Pasteboard 提供付费升级为Premium 帐户功能，升级后可以登入、�
 
 ### Control V 
 
-![Control V 复制贴上图片免空，可线上编辑或产生分享链结](https://bib0.com/xc/i/hugoBlog/Screenshot-2020-03-14-13.49.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2020-03-14-13.49.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Control V 复制贴上图片免空，可线上编辑或产生分享链结
 
@@ -199,7 +199,7 @@ Control V 其实也是一个免空的概念，产生图片链结可以永久保�
 
 ### img.onl
 
-![img.onl 免费图片上传空间，支援单档128 MB 可显示原图无广告](https://bib0.com/xc/i/hugoBlog/img-onl.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/img-onl.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：img.onl 免费图片上传空间，支援单档128 MB 可显示原图无广告
 
@@ -211,7 +211,7 @@ Control V 其实也是一个免空的概念，产生图片链结可以永久保�
 
 ### Imgbox
 
-![Imgbox 老牌免费图片空间，支援常见格式无容量流量限制](https://bib0.com/xc/i/hugoBlog/imgbox.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/imgbox.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Imgbox 老牌免费图片空间，支援常见格式无容量流量限制
 
@@ -225,7 +225,7 @@ Imgbox 无须注册就能使用，不过如果登入将可管理上传过的相�
 
 ### Upload.cc
 
-![Upload.cc 免费图片空间，单档5 MB 永久保存](https://bib0.com/xc/i/hugoBlog/Upload.cc2016-12-04_1146.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/Upload.cc2016-12-04_1146.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Upload.cc 免费图片空间，单档5 MB 永久保存
 
@@ -239,7 +239,7 @@ Imgbox 无须注册就能使用，不过如果登入将可管理上传过的相�
 
 ### Miu Pix
 
-![Miu Pix 免费贴图上传、分享空间（中文版）](https://bib0.com/xc/i/hugoBlog/9adc9023b9ebb1adfec677738c4463bc.png)
+{{< image src="https://bib0.com/xc/i/hugoBlog/9adc9023b9ebb1adfec677738c4463bc.png" alt="-"  title="Fun's images" >}}    
 
 🆔  资源名称：Miu Pix 免费贴图上传、分享空间（中文版）
 

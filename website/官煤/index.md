@@ -8,7 +8,7 @@
 
 ### 国资央企招聘平台
 
-![image-20230620211913269](https://bib0.com/xc/i/2023/06/20/image-20230620211913269.png)
+{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620211913269.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ⭐️  资源描述：🛠国资央企招聘平台 - 国资央企促就业“夏季行动”官方平台
 

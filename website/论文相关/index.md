@@ -6,7 +6,7 @@
 
 <!--more-->
 
-![image-20230611210818019](https://bib0.com/xc/i/2023/06/11/image-20230611210818019.png)
+{{< image src="https://bib0.com/xc/i/2023/06/11/image-20230611210818019.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ➤ 论文写作相关：
 
