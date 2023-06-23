@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Limit-LAB Translator 
+
+![image-20230623133136497](https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png)
+
+🆔  资源名称：❔[Limit-LAB Translator - 一个基于 ChatGPT 的 AI翻译工具](https://translate.limit.dev/)
+
+⭐️  资源描述：📄它支持自动识别语音，支持12种语言，免费无广告，开发者是北大学生，良心。
+
+🌐 资源地址: [点击跳转](https://translate.limit.dev/)
+
 ### Code Translator
 
 ![image-20230518215915134](https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png)

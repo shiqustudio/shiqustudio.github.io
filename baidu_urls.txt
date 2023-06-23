@@ -1,10 +1,11 @@
 https://shiqustudio.github.io/aisummary/
+https://shiqustudio.github.io/books/zlibary/
+https://shiqustudio.github.io/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/website/%E5%A3%81%E7%BA%B8/
 https://shiqustudio.github.io/website/%E5%AE%98%E7%85%A4/
 https://shiqustudio.github.io/uitoolsz/
 https://shiqustudio.github.io/tools/%E6%B8%B8%E6%88%8F/
 https://shiqustudio.github.io/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/
-https://shiqustudio.github.io/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/
 https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/
 https://shiqustudio.github.io/about/
 https://shiqustudio.github.io/dailyshare/vercel/

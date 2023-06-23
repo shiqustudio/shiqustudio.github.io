@@ -22,8 +22,8 @@
 
 <meta name="twitter:title" content="入门篇"/>
 <meta name="twitter:description" content="探索 Hugo - FixIt 主题的的基础知识和背后的核心概念。"/>
-<meta name="application-name" content="FixIt">
-<meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<meta name="application-name" content="Fun">
+<meta name="apple-mobile-web-app-title" content="Fun"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://shiqustudio.github.io/tutorial/shili-rumenpian/" /><link rel="prev" href="https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/" /><link rel="next" href="https://shiqustudio.github.io/tutorial/shili-neirongguanli/" /><link rel="stylesheet" href="/css/style.min.f70ae245f0d519a5e928c9bc0e52d37d71229333ea053b1eedb05cc8c057f4f2.css" integrity="sha256-9wriRfDVGaXpKMm8DlLTfXEikzPqBTse7bBcyMBX9PI="><link rel="stylesheet" href="/lib/fontawesome-free/all.min.01b035efb5dfa529c512f82962ed633328222da6f33c224244806d4798c67349.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k="><link rel="stylesheet" href="/lib/animate/animate.min.5fbaeb9f8e25d7e0143bae61d4b1802c16ce7390b96ceb2d498b0d96ff4c853f.css" integrity="sha256-X7rrn44l1&#43;AUO65h1LGALBbOc5C5bOstSYsNlv9MhT8="><script type="application/ld+json">
   {
@@ -446,12 +446,13 @@
 <p>你可以下载主题的 <a href="https://github.com/hugo-fixit/FixIt/releases"target="_blank" rel="external nofollow noopener noreferrer">最新版本 .zip 文件<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 并且解压放到 <code>themes</code> 目录。</p>
 <h3 id="git-克隆">Git 克隆</h3>
 <p>或者，也可以直接把这个主题克隆到 <code>themes</code> 目录：</p>
-<div class="highlight" id="id-1"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git clone https://github.com/hugo-fixit/FixIt.git themes/FixIt</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git clone https://github.com/hugo-fixit/FixIt.git themes/FixIt
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="git-子模块">Git 子模块</h3>
 <a href="https://github.com/hugo-fixit/hugo-fixit-blog" title="source of FixIt Theme"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
@@ -464,30 +465,33 @@
         </span>
       </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
 <p>另外，在您的项目目录初始化一个空的 Git 存储库，将 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 主题克隆到 <code>themes</code> 目录中，将其作为 <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules"target="_blank" rel="external nofollow noopener noreferrer">Git 子模块<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 添加到您的项目中。</p>
-<div class="highlight" id="id-2"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git init 
-</span></span><span class="line"><span class="cl">git submodule add https://github.com/hugo-fixit/FixIt.git themes/FixIt</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git submodule add https://github.com/hugo-fixit/FixIt.git themes/FixIt
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>如果你想使用 <code>dev</code> 分支上的版本，可以使用以下命令：</p>
-<div class="highlight" id="id-3"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"> git submodule add -b dev https://github.com/hugo-fixit/FixIt.git themes/FixIt</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"> git submodule add -b dev https://github.com/hugo-fixit/FixIt.git themes/FixIt
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>或者将子模块分支从 <code>master</code> 切换到 <code>dev</code>：</p>
-<div class="highlight" id="id-4"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"> git submodule set-branch -b dev themes/FixIt</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"> git submodule set-branch -b dev themes/FixIt
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="hugo-模块">Hugo 模块</h3>
 <a href="https://github.com/hugo-fixit/hugo-fixit-blog-go"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
@@ -509,7 +513,7 @@
 </li>
 <li>
 <p>导入主题：</p>
-<div class="highlight" id="id-5"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -518,26 +522,28 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">module</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl">  <span class="p">[[</span><span class="nx">module</span><span class="p">.</span><span class="nx">imports</span><span class="p">]]</span>
-</span></span><span class="line"><span class="cl">    <span class="nx">path</span> <span class="p">=</span> <span class="s2">&#34;github.com/hugo-fixit/FixIt&#34;</span></span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">    <span class="nx">path</span> <span class="p">=</span> <span class="s2">&#34;github.com/hugo-fixit/FixIt&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div></li>
 </ol>
 <h2 id="完整配置">完整配置</h2>
 <p>在开始配置之前，建议您执行以下命令，将主题的默认 <a href="https://github.com/hugo-fixit/FixIt/blob/master/config.toml"target="_blank" rel="external nofollow noopener noreferrer">config.toml<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 复制到您的项目中：</p>
-<div class="highlight" id="id-6"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">mv config.toml config.old.toml
-</span></span><span class="line"><span class="cl">cp themes/FixIt/config.toml config.toml</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">cp themes/FixIt/config.toml config.toml
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="菜单配置">菜单配置</h3>
 <p>Hugo 有一个简单而强大的 <a href="https://gohugo.io/content-management/menus/"target="_blank" rel="external nofollow noopener noreferrer">菜单系统<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
 <p>根据 Hugo 提供的接口，FixIt 主题只实现了部分功能，这足以满足大多数人的需求，也让用户在使用上更加简单。</p>
 <p>下面是一个完整的菜单项配置：</p>
-<div class="highlight" id="id-7"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -588,7 +594,8 @@
 </span></span><span class="line"><span class="cl">      <span class="c1">#  添加 fontawesome 图标到菜单项</span>
 </span></span><span class="line"><span class="cl">      <span class="nv">icon</span> <span class="o">=</span> <span class="s2">&#34;&#34;</span>
 </span></span><span class="line"><span class="cl">      <span class="c1">#  设置菜单项类型，可选值：[&#34;mobile&#34;, &#34;desktop&#34;]</span>
-</span></span><span class="line"><span class="cl">      <span class="nb">type</span> <span class="o">=</span> <span class="s2">&#34;&#34;</span></span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">      <span class="nb">type</span> <span class="o">=</span> <span class="s2">&#34;&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition info open">
     <div class="details-summary admonition-title">
@@ -602,7 +609,7 @@
     </div>
   </div>
 <p>这是一个 <code>yaml</code> 示例：</p>
-<div class="highlight" id="id-8"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -627,12 +634,13 @@
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">params</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">icon</span><span class="p">:</span><span class="w"> </span><span class="l">fa-brands fa-readme</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># ...</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nn">---</span></span></span></code></pre></td></tr></table>
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nn">---</span><span class="w">
+</span></span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="主题配置">主题配置</h3>
 <p>除了 <a href="https://gohugo.io/overview/configuration/"target="_blank" rel="external nofollow noopener noreferrer">Hugo 全局配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#menu-configuration"target="_blank" rel="external nofollow noopener noreferrer">菜单配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 之外，<strong>FixIt</strong> 主题还允许您在网站配置中定义以下参数。</p>
 <p>请打开下面的代码块查看完整的 <code>config.toml</code> 示例配置:</p>
-<div class="highlight" id="id-9"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">  1
 </span><span class="lnt">  2
@@ -2321,11 +2329,12 @@
 </span></span><span class="line"><span class="cl">  <span class="nx">page</span> <span class="p">=</span> <span class="p">[</span><span class="s2">&#34;HTML&#34;</span><span class="p">,</span> <span class="s2">&#34;MarkDown&#34;</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl">  <span class="nx">section</span> <span class="p">=</span> <span class="p">[</span><span class="s2">&#34;HTML&#34;</span><span class="p">,</span> <span class="s2">&#34;RSS&#34;</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl">  <span class="nx">taxonomy</span> <span class="p">=</span> <span class="p">[</span><span class="s2">&#34;HTML&#34;</span><span class="p">,</span> <span class="s2">&#34;RSS&#34;</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">  <span class="nx">taxonomyTerm</span> <span class="p">=</span> <span class="p">[</span><span class="s2">&#34;HTML&#34;</span><span class="p">]</span></span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">  <span class="nx">taxonomyTerm</span> <span class="p">=</span> <span class="p">[</span><span class="s2">&#34;HTML&#34;</span><span class="p">]</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p><a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/full-configuration-preview.zh-cn.png"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/zh-cn/documentation/basics/full-configuration-preview.zh-cn.png" srcset="https://fixit.lruihao.cn/zh-cn/documentation/basics/full-configuration-preview.zh-cn.png, https://fixit.lruihao.cn/zh-cn/documentation/basics/full-configuration-preview.zh-cn.png 1.5x, https://fixit.lruihao.cn/zh-cn/documentation/basics/full-configuration-preview.zh-cn.png 2x" sizes="auto" data-title="完整配置下的预览" data-alt="完整配置下的预览" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></a>																			完整配置下的预览</p>
 <h4 id="cdn-配置">CDN 配置</h4>
-<div class="highlight" id="id-10"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -2334,23 +2343,25 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">params</span><span class="p">.</span><span class="nx">cdn</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl">  <span class="c"># CDN 数据文件名称，默认不启用 [&#34;jsdelivr.yml&#34;, &#34;unpkg.yml&#34;, ...]</span>
-</span></span><span class="line"><span class="cl">  <span class="nx">data</span> <span class="p">=</span> <span class="s2">&#34;&#34;</span></span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">  <span class="nx">data</span> <span class="p">=</span> <span class="s2">&#34;&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>默认的 CDN 数据文件位于 <code>themes/FixIt/assets/data/cdn/</code> 目录。 可以在你的项目下相同路径存放你自己的数据文件：<code>assets/data/cdn/</code>。</p>
 <h4 id="社交链接配置">社交链接配置</h4>
 <p>你可以直接配置你的社交 ID 来生成一个默认社交链接和图标：</p>
-<div class="highlight" id="id-11"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">params</span><span class="p">.</span><span class="nx">social</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">  <span class="nx">Mastodon</span> <span class="p">=</span> <span class="s2">&#34;@xxxx&#34;</span></span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">  <span class="nx">Mastodon</span> <span class="p">=</span> <span class="s2">&#34;@xxxx&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>生成的社交链接是 <code>https://mastodon.technology/@xxxx</code>。</p>
 <p>或者你可以通过一个字典来设置更多的选项：</p>
-<div class="highlight" id="id-12"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -2373,20 +2384,22 @@
 </span></span><span class="line"><span class="cl">    <span class="c"># 你的社交链接的前缀</span>
 </span></span><span class="line"><span class="cl">    <span class="nx">prefix</span> <span class="p">=</span> <span class="s2">&#34;https://mastodon.social/&#34;</span>
 </span></span><span class="line"><span class="cl">    <span class="c"># 当鼠标停留在图标上时的提示内容</span>
-</span></span><span class="line"><span class="cl">    <span class="nx">title</span> <span class="p">=</span> <span class="s2">&#34;Mastodon&#34;</span></span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">    <span class="nx">title</span> <span class="p">=</span> <span class="s2">&#34;Mastodon&#34;</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>所有支持的社交链接的默认数据位于 <code>themes/FixIt/assets/data/social.yaml</code>。 你可以参考它来配置你的社交链接。</p>
 <h4 id="搜索配置">搜索配置</h4>
 <p>基于 <a href="https://lunrjs.com/"target="_blank" rel="external nofollow noopener noreferrer">Lunr.js<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、 <a href="https://www.algolia.com/"target="_blank" rel="external nofollow noopener noreferrer">algolia<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或 <a href="https://fusejs.io/"target="_blank" rel="external nofollow noopener noreferrer">Fuse.js<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，<strong>FixIt</strong> 主题支持搜索功能，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的 <code>params.search</code> 配置。</p>
 <p>为了生成搜索功能所需要的 <code>index.json</code>, 请在你的站点配置中添加 <code>JSON</code> 输出文件类型到 <code>outputs</code> 部分的 <code>home</code> 字段中。</p>
-<div class="highlight" id="id-13"><div class="chroma">
+<div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">outputs</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl">  <span class="nx">home</span> <span class="p">=</span> <span class="p">[</span><span class="s2">&#34;HTML&#34;</span><span class="p">,</span> <span class="s2">&#34;RSS&#34;</span><span class="p">,</span> <span class="s2">&#34;JSON&#34;</span><span class="p">]</span></span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">  <span class="nx">home</span> <span class="p">=</span> <span class="p">[</span><span class="s2">&#34;HTML&#34;</span><span class="p">,</span> <span class="s2">&#34;RSS&#34;</span><span class="p">,</span> <span class="s2">&#34;JSON&#34;</span><span class="p">]</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition info open">
     <div class="details-summary admonition-title">
@@ -2591,5 +2604,5 @@
         </div><div class="fixed-button view-comments d-none" role="button" aria-label="查看评论"><i class="fa-solid fa-comment fa-fw" aria-hidden="true"></i></div></div><div id="mask"></div><div class="reading-progress-bar" style="left: 0;top: 0;"></div><noscript>
     <div class="noscript-warning">FixIt 主题在启用 JavaScript 的情况下效果最佳。</div>
   </noscript>
-</div><link rel="stylesheet" href="/lib/waline/waline.dc7963c2dd8be74ce784e1c7a5d90ea7b0ab76396c0e4ee03ac90f3d946648f6.css" integrity="sha256-3Hljwt2L50znhOHHpdkOp7CrdjlsDk7gOskPPZRmSPY="><link rel="stylesheet" href="/lib/lightgallery/css/lightgallery-bundle.min.120f067ebd6f322339e2ccccd7e87e334d7c7ea5b2bd553f325f2ae3c3ae6fe8.css" integrity="sha256-Eg8Gfr1vMiM54szM1&#43;h&#43;M018fqWyvVU/Ml8q48Oub&#43;g="><link rel="stylesheet" href="/lib/katex/katex.min.a1609a6c27cf7783a2db5c2a65ecc14b3fda9eda38558709a9cf6c33d2334139.css" integrity="sha256-oWCabCfPd4Oi21wqZezBSz/anto4VYcJqc9sM9IzQTk="><link rel="stylesheet" href="/lib/pace/themes/blue/pace-theme-minimal.3e16fae4203c52d34839f9d15c349407478e6a49eaf8cbaad7e258f019b7ccae.css" integrity="sha256-Phb65CA8UtNIOfnRXDSUB0eOaknq&#43;Muq1&#43;JY8Bm3zK4="><script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="/lib/object-fit-images/ofi.min.37217cfedb39356d2a0fd317e4a8ee87d225f4364e3afc7473ab5a8e7d97ec64.js" integrity="sha256-NyF8/ts5NW0qD9MX5Kjuh9Il9DZOOvx0c6tajn2X7GQ="></script><script src="/lib/waline/waline.aa2b3a22e2ad38865a5fb5c41abfb9efdd6023ae95363cbdea6cd1183280ea06.js" integrity="sha256-qis6IuKtOIZaX7XEGr+5791gI66VNjy96mzRGDKA6gY=" defer></script><script src="/lib/autocomplete/autocomplete.min.ae2da1bd62c6469ee27770ad1cddf2e8296d8a7f6d85b091463e5200c5e320af.js" integrity="sha256-ri2hvWLGRp7id3CtHN3y6Cltin9thbCRRj5SAMXjIK8=" defer></script><script src="/lib/lunr/lunr.min.08a93c0120364b01159db3c287f39b2180bb740334472bda0675bd3f18981676.js" integrity="sha256-CKk8ASA2SwEVnbPCh/ObIYC7dAM0RyvaBnW9PxiYFnY=" defer></script><script src="/lib/lunr/lunr.stemmer.support.min.8127f0ca4cabc7246f3620f3ef3bf9b1db02805dfe03d6d4c57bc74bc0bf6eea.js" integrity="sha256-gSfwykyrxyRvNiDz7zv5sdsCgF3+A9bUxXvHS8C/buo=" defer></script><script src="/lib/lunr/lunr.zh.min.df40c83b86d7cea2122cd35d56db3e6e4bc34b09a62755f0f3c48b5e9c66a8a4.js" integrity="sha256-30DIO4bXzqISLNNdVts+bkvDSwmmJ1Xw88SLXpxmqKQ=" defer></script><script src="/lib/instant-page/instantpage.min.f275af85c0e0dee6a46ed2867180f0f9a0f9cb9a4b9a74e3814fced569ef163d.js" integrity="sha256-8nWvhcDg3uakbtKGcYDw+aD5y5pLmnTjgU/O1WnvFj0=" async defer type="module"></script><script src="/lib/lightgallery/lightgallery.min.a109d6550e0f5c7f5ad89c835407ceb18ed48d1e50d6d9b6c37234d5ee7ebaa8.js" integrity="sha256-oQnWVQ4PXH9a2JyDVAfOsY7UjR5Q1tm2w3I01e5+uqg=" defer></script><script src="/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.baa7d26c390a254160ee3ae0f09a9a16c77d1a5b4b6853c5e4487de764fee24b.js" integrity="sha256-uqfSbDkKJUFg7jrg8JqaFsd9GltLaFPF5Eh952T+4ks=" defer></script><script src="/lib/lightgallery/plugins/zoom/lg-zoom.min.056f82747a5949da14472c62a803167ecbdc3f847fc44755e5b33ec7f1319f02.js" integrity="sha256-BW+CdHpZSdoURyxiqAMWfsvcP4R/xEdV5bM+x/ExnwI=" defer></script><script src="/lib/sharer/sharer.min.ba5171a78670b031914e623431a33a3d73c1ea9897e552ba73bc2c2da7c777b9.js" integrity="sha256-ulFxp4ZwsDGRTmI0MaM6PXPB6piX5VK6c7wsLafHd7k=" async defer></script><script src="/lib/typeit/index.umd.16f3fa3374a7eea31f19672293edc98326413002dea74b8c413a74f1b7e4f1cf.js" integrity="sha256-FvP6M3Sn7qMfGWcik+3JgyZBMALep0uMQTp08bfk8c8=" defer></script><script src="/lib/katex/katex.min.13870312562afc8fad155a133018c3f2a4ef1cb2e6765b73f40151ab664ff8d6.js" integrity="sha256-E4cDElYq/I+tFVoTMBjD8qTvHLLmdltz9AFRq2ZP+NY=" defer></script><script src="/lib/katex/auto-render.min.9cb8dacfc086c2966c9ec4ba54f4a2dc43b7cbe2b33cec1a2743d886c7fb47a7.js" integrity="sha256-nLjaz8CGwpZsnsS6VPSi3EO3y+KzPOwaJ0PYhsf7R6c=" defer></script><script src="/lib/katex/copy-tex.min.52ce78fab4860d24ef22128a52ce24ca01368a9034457a565a1d3fccbab0ddbb.js" integrity="sha256-Us54+rSGDSTvIhKKUs4kygE2ipA0RXpWWh0/zLqw3bs=" defer></script><script src="/lib/katex/mhchem.min.5c0a121a8b490afc85860a522347aeb34fb508c6b23044e5d29f6b2194227b51.js" integrity="sha256-XAoSGotJCvyFhgpSI0eus0+1CMayMETl0p9rIZQie1E=" defer></script><script src="/lib/pangu/pangu.min.8feca3e7a71d118d82c2456d1b2cf5f1f3726c51a930627c2711b7192c8edbe2.js" integrity="sha256-j+yj56cdEY2CwkVtGyz18fNybFGpMGJ8JxG3GSyO2+I=" defer></script><script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async defer></script><script src="/lib/pace/pace.min.82a77b6138e0fc1b5fa964b0b093af9dd97407173c8052262c4917413f3eaa3d.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" async defer></script><script>window.config={"autoBookmark":true,"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"comment":{"enable":true,"expired":false,"waline":{"comment":true,"copyright":true,"dark":"body[data-theme='dark']","el":"#waline","emoji":["//unpkg.com/@waline/emojis@1.1.0/weibo"],"highlighter":true,"imageUploader":true,"lang":"zh-cn","login":"enable","meta":["nick","mail","link"],"pageSize":10,"pageview":true,"reaction":true,"search":true,"serverURL":"https://waline.xcapp.live/","texRenderer":true}},"data":{"typeit-header-subtitle-desktop":"木槿昔年,浮生未歇","typeit-header-subtitle-mobile":"木槿昔年,浮生未歇"},"enablePWA":true,"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"pangu":{"enable":true,"selector":"article"},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"zh","lunrSegmentitURL":"/lib/lunr/lunr.segmentit.js","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"lunr"},"siteTime":"2023-02-28T20:01:01+08:00","typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"typeit-header-subtitle-desktop":["typeit-header-subtitle-desktop"],"typeit-header-subtitle-mobile":["typeit-header-subtitle-mobile"]},"duration":-1,"loop":false,"speed":100}};</script><script src="/js/theme.min.3c3127b3e9be8812325146e25c97aefeb64c380012799edc48d3db387b9b2fc8.js" integrity="sha256-PDEns+m+iBIyUUbiXJeu/rZMOAASeZ7cSNPbOHubL8g=" defer></script><script src="/js/custom.min.fb0ad6bbb25fb3bfec78b61f4413aa7c9bde5da632b52fd172e80f21721a853b.js" integrity="sha256-+wrWu7Jfs7/seLYfRBOqfJveXaYytS/RcugPIXIahTs=" defer></script></body>
+</div><link rel="stylesheet" href="/lib/waline/waline.dc7963c2dd8be74ce784e1c7a5d90ea7b0ab76396c0e4ee03ac90f3d946648f6.css" integrity="sha256-3Hljwt2L50znhOHHpdkOp7CrdjlsDk7gOskPPZRmSPY="><link rel="stylesheet" href="/lib/lightgallery/css/lightgallery-bundle.min.120f067ebd6f322339e2ccccd7e87e334d7c7ea5b2bd553f325f2ae3c3ae6fe8.css" integrity="sha256-Eg8Gfr1vMiM54szM1&#43;h&#43;M018fqWyvVU/Ml8q48Oub&#43;g="><link rel="stylesheet" href="/lib/katex/katex.min.a1609a6c27cf7783a2db5c2a65ecc14b3fda9eda38558709a9cf6c33d2334139.css" integrity="sha256-oWCabCfPd4Oi21wqZezBSz/anto4VYcJqc9sM9IzQTk="><link rel="stylesheet" href="/lib/pace/themes/blue/pace-theme-minimal.3e16fae4203c52d34839f9d15c349407478e6a49eaf8cbaad7e258f019b7ccae.css" integrity="sha256-Phb65CA8UtNIOfnRXDSUB0eOaknq&#43;Muq1&#43;JY8Bm3zK4="><script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="/lib/object-fit-images/ofi.min.37217cfedb39356d2a0fd317e4a8ee87d225f4364e3afc7473ab5a8e7d97ec64.js" integrity="sha256-NyF8/ts5NW0qD9MX5Kjuh9Il9DZOOvx0c6tajn2X7GQ="></script><script src="/lib/waline/waline.aa2b3a22e2ad38865a5fb5c41abfb9efdd6023ae95363cbdea6cd1183280ea06.js" integrity="sha256-qis6IuKtOIZaX7XEGr+5791gI66VNjy96mzRGDKA6gY=" defer></script><script src="/lib/autocomplete/autocomplete.min.ae2da1bd62c6469ee27770ad1cddf2e8296d8a7f6d85b091463e5200c5e320af.js" integrity="sha256-ri2hvWLGRp7id3CtHN3y6Cltin9thbCRRj5SAMXjIK8=" defer></script><script src="/lib/lunr/lunr.min.08a93c0120364b01159db3c287f39b2180bb740334472bda0675bd3f18981676.js" integrity="sha256-CKk8ASA2SwEVnbPCh/ObIYC7dAM0RyvaBnW9PxiYFnY=" defer></script><script src="/lib/lunr/lunr.stemmer.support.min.8127f0ca4cabc7246f3620f3ef3bf9b1db02805dfe03d6d4c57bc74bc0bf6eea.js" integrity="sha256-gSfwykyrxyRvNiDz7zv5sdsCgF3+A9bUxXvHS8C/buo=" defer></script><script src="/lib/lunr/lunr.zh.min.df40c83b86d7cea2122cd35d56db3e6e4bc34b09a62755f0f3c48b5e9c66a8a4.js" integrity="sha256-30DIO4bXzqISLNNdVts+bkvDSwmmJ1Xw88SLXpxmqKQ=" defer></script><script src="/lib/instant-page/instantpage.min.f275af85c0e0dee6a46ed2867180f0f9a0f9cb9a4b9a74e3814fced569ef163d.js" integrity="sha256-8nWvhcDg3uakbtKGcYDw+aD5y5pLmnTjgU/O1WnvFj0=" async defer type="module"></script><script src="/lib/lightgallery/lightgallery.min.a109d6550e0f5c7f5ad89c835407ceb18ed48d1e50d6d9b6c37234d5ee7ebaa8.js" integrity="sha256-oQnWVQ4PXH9a2JyDVAfOsY7UjR5Q1tm2w3I01e5+uqg=" defer></script><script src="/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.baa7d26c390a254160ee3ae0f09a9a16c77d1a5b4b6853c5e4487de764fee24b.js" integrity="sha256-uqfSbDkKJUFg7jrg8JqaFsd9GltLaFPF5Eh952T+4ks=" defer></script><script src="/lib/lightgallery/plugins/zoom/lg-zoom.min.056f82747a5949da14472c62a803167ecbdc3f847fc44755e5b33ec7f1319f02.js" integrity="sha256-BW+CdHpZSdoURyxiqAMWfsvcP4R/xEdV5bM+x/ExnwI=" defer></script><script src="/lib/sharer/sharer.min.ba5171a78670b031914e623431a33a3d73c1ea9897e552ba73bc2c2da7c777b9.js" integrity="sha256-ulFxp4ZwsDGRTmI0MaM6PXPB6piX5VK6c7wsLafHd7k=" async defer></script><script src="/lib/typeit/index.umd.16f3fa3374a7eea31f19672293edc98326413002dea74b8c413a74f1b7e4f1cf.js" integrity="sha256-FvP6M3Sn7qMfGWcik+3JgyZBMALep0uMQTp08bfk8c8=" defer></script><script src="/lib/katex/katex.min.13870312562afc8fad155a133018c3f2a4ef1cb2e6765b73f40151ab664ff8d6.js" integrity="sha256-E4cDElYq/I+tFVoTMBjD8qTvHLLmdltz9AFRq2ZP+NY=" defer></script><script src="/lib/katex/auto-render.min.9cb8dacfc086c2966c9ec4ba54f4a2dc43b7cbe2b33cec1a2743d886c7fb47a7.js" integrity="sha256-nLjaz8CGwpZsnsS6VPSi3EO3y+KzPOwaJ0PYhsf7R6c=" defer></script><script src="/lib/katex/copy-tex.min.52ce78fab4860d24ef22128a52ce24ca01368a9034457a565a1d3fccbab0ddbb.js" integrity="sha256-Us54+rSGDSTvIhKKUs4kygE2ipA0RXpWWh0/zLqw3bs=" defer></script><script src="/lib/katex/mhchem.min.5c0a121a8b490afc85860a522347aeb34fb508c6b23044e5d29f6b2194227b51.js" integrity="sha256-XAoSGotJCvyFhgpSI0eus0+1CMayMETl0p9rIZQie1E=" defer></script><script src="/lib/pangu/pangu.min.8feca3e7a71d118d82c2456d1b2cf5f1f3726c51a930627c2711b7192c8edbe2.js" integrity="sha256-j+yj56cdEY2CwkVtGyz18fNybFGpMGJ8JxG3GSyO2+I=" defer></script><script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async defer></script><script src="/lib/pace/pace.min.82a77b6138e0fc1b5fa964b0b093af9dd97407173c8052262c4917413f3eaa3d.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" async defer></script><script>window.config={"autoBookmark":true,"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"comment":{"enable":true,"expired":false,"waline":{"comment":true,"copyright":true,"dark":"body[data-theme='dark']","el":"#waline","emoji":["//unpkg.com/@waline/emojis@1.1.0/weibo"],"highlighter":true,"imageUploader":true,"lang":"zh-cn","login":"enable","meta":["nick","mail","link"],"pageSize":10,"pageview":true,"reaction":true,"search":true,"serverURL":"https://waline.xcapp.live/","texRenderer":true}},"data":{"typeit-header-subtitle-desktop":"木槿昔年,浮生未歇","typeit-header-subtitle-mobile":"木槿昔年,浮生未歇"},"enablePWA":true,"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"pangu":{"enable":true,"selector":"article"},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"zh","lunrSegmentitURL":"/lib/lunr/lunr.segmentit.js","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"lunr"},"siteTime":"2023-02-28T20:01:01+08:00","typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"typeit-header-subtitle-desktop":["typeit-header-subtitle-desktop"],"typeit-header-subtitle-mobile":["typeit-header-subtitle-mobile"]},"duration":-1,"loop":false,"speed":100}};</script><script src="/js/theme.min.fc04becb3680c34e759515d0ca699f480672c0ded7e8bc19bedc57bb6439cd76.js" integrity="sha256-/AS+yzaAw051lRXQymmfSAZywN7X6LwZvtxXu2Q5zXY=" defer></script><script src="/js/custom.min.fb0ad6bbb25fb3bfec78b61f4413aa7c9bde5da632b52fd172e80f21721a853b.js" integrity="sha256-+wrWu7Jfs7/seLYfRBOqfJveXaYytS/RcugPIXIahTs=" defer></script></body>
 </html>
