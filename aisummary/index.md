@@ -5,6 +5,54 @@
 
 <!--more-->
 
+### GetInference AI Radar
+
+![image-20230623155834880](https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png)
+
+⭐️  资源描述：用于创意和营销的AI工具
+
+🌐 资源地址: [点击跳转](https://airadar.getinference.com/)
+
+### AIGC知识库
+
+![image-20230623155727097](https://bib0.com/xc/i/2023/06/23/image-20230623155727097.png)
+
+⭐️  资源描述：AI工具汇总及操作指南
+
+🌐 资源地址: [点击跳转](https://www.mojidoc.com/05z7y-dd5pa7hu3zfmhnbngoeztyqcnq-00b)
+
+### 一起用AI
+
+![image-20230623155519299](https://bib0.com/xc/i/2023/06/23/image-20230623155519299.png)
+
+⭐️  资源描述：AI资讯教程工具合集
+
+🌐 资源地址: [点击跳转](https://17yongai.com/)
+
+### chart-gpt
+
+![image-20230623155939384](https://bib0.com/xc/i/2023/06/23/image-20230623155939384.png)
+
+⭐️  资源描述：基于文本输入构建图表的人工智能工具
+
+🌐 资源地址: [点击跳转](https://www.chartgpt.dev/)|[Github地址](https://github.com/whoiskatrin/chart-gpt)
+
+### Flowgpt
+
+![image-20230623155641870](https://bib0.com/xc/i/2023/06/23/image-20230623155641870.png)
+
+⭐️  资源描述：245个ChatGPT的应用
+
+🌐 资源地址: [点击跳转](https://flowgpt.com/)
+
+### ChatALL
+
+![image-20230623155326199](https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png)
+
+⭐️  资源描述：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
+
+🌐 资源地址: [Github地址](https://github.com/sunner/ChatALL)
+
 ### Limit-LAB Translator 
 
 ![image-20230623133136497](https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png)

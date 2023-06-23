@@ -21,6 +21,14 @@
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
+### 无名图书
+
+![image-20230623153321185](https://bib0.com/xc/i/2023/06/23/image-20230623153321185.png)
+
+⭐️  资源描述：输入要搜索的图书名、作者或者ISBN进行搜索即可，免费下载
+
+🌐 资源地址：[点击跳转](https://www.book123.info/)
+
 
 ---
 

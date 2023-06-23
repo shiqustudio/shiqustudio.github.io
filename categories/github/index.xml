@@ -1,10 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>github - 分类 - 拾趣资源</title>
+    <title>Github - 分类 - 拾趣资源</title>
     <link>https://shiqustudio.github.io/categories/github/</link>
-    <description>github - 分类 - 拾趣资源</description>
+    <description>Github - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Wed, 21 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/github/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Thu, 22 Jun 2023 21:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/github/" rel="self" type="application/rss+xml" /><item>
+  <title>AI 法律助手</title>
+  <link>https://shiqustudio.github.io/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</link>
+  <pubDate>Thu, 22 Jun 2023 21:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/06/23/image-20230623160920712.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>AI 法律助手</p>
+</blockquote>]]></description>
+</item>
+<item>
   <title>Github开源</title>
   <link>https://shiqustudio.github.io/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/</link>
   <pubDate>Wed, 21 Jun 2023 17:27:11 &#43;0000</pubDate>
