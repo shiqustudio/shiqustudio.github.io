@@ -7,7 +7,7 @@
 
 ### GetInference AI Radar
 
-![image-20230623155834880](https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png">}}
 
 ⭐️  资源描述：用于创意和营销的AI工具
 
@@ -15,7 +15,7 @@
 
 ### AIGC知识库
 
-![image-20230623155727097](https://bib0.com/xc/i/2023/06/23/image-20230623155727097.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155727097.png">}}
 
 ⭐️  资源描述：AI工具汇总及操作指南
 
@@ -23,7 +23,7 @@
 
 ### 一起用AI
 
-![image-20230623155519299](https://bib0.com/xc/i/2023/06/23/image-20230623155519299.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155519299.png">}}
 
 ⭐️  资源描述：AI资讯教程工具合集
 
@@ -31,7 +31,7 @@
 
 ### chart-gpt
 
-![image-20230623155939384](https://bib0.com/xc/i/2023/06/23/image-20230623155939384.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155939384.png">}}
 
 ⭐️  资源描述：基于文本输入构建图表的人工智能工具
 
@@ -39,7 +39,7 @@
 
 ### Flowgpt
 
-![image-20230623155641870](https://bib0.com/xc/i/2023/06/23/image-20230623155641870.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155641870.png">}}
 
 ⭐️  资源描述：245个ChatGPT的应用
 
@@ -47,7 +47,7 @@
 
 ### ChatALL
 
-![image-20230623155326199](https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png">}}
 
 ⭐️  资源描述：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
 
@@ -55,7 +55,7 @@
 
 ### Limit-LAB Translator 
 
-![image-20230623133136497](https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png)
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png">}}
 
 🆔  资源名称：❔[Limit-LAB Translator - 一个基于 ChatGPT 的 AI翻译工具](https://translate.limit.dev/)
 
@@ -65,7 +65,7 @@
 
 ### Code Translator
 
-![image-20230518215915134](https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png">}}
 
 🆔  资源名称：**Code Translator**
 
@@ -77,7 +77,7 @@
 
 ### ChatBox
 
-![Chatbox App Screenshot](https://bib0.com/xc/i/2023/05/18/snapshot2.png)
+{{< image src="https://bib0.com/xc/i/2023/05/18/snapshot2.png">}}
 
 🆔  资源名称：**ChatBox**
 
@@ -87,7 +87,7 @@
 
 ### Ai-blog 
 
-![image-20230418223539753](https://bib0.com/xc/i/2023/04/18/image-20230418223539753.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223539753.png">}}
 
 🆔  资源名称：**2023年提高生产力的最佳AI工具**
 
@@ -97,7 +97,7 @@
 
 ### CodeWhisperer
 
-![image-20230418222544403](https://bib0.com/xc/i/2023/04/18/image-20230418222544403.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222544403.png">}}
 
 🆔  资源名称：亚马逊开放的一款 AI 编程助手：[CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)，可集成到 VSCode 和 IntelliJ IDEA 等代码编辑器上使用，个人版对所有开发者免费开放。
 
@@ -122,7 +122,7 @@
 
 ### AMYmind
 
-![image-20230418222805693](https://bib0.com/xc/i/2023/04/18/image-20230418222805693.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222805693.png">}}
 
 🆔  资源名称：AMYmind
 
@@ -132,15 +132,15 @@
 
 ### typeapi.org
 
-![image-20230418223216722](https://bib0.com/xc/i/2023/04/18/image-20230418223216722.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223216722.png">}}
 
-![image-20230418223115974](https://bib0.com/xc/i/2023/04/18/image-20230418223043585.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223043585.png">}}
 
-![image-20230418223311190](https://bib0.com/xc/i/2023/04/18/image-20230418223311190.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223311190.png">}}
 
-![image-20230418223327413](https://bib0.com/xc/i/2023/04/18/image-20230418223327413.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223327413.png">}}
 
-![image-20230418223347579](https://bib0.com/xc/i/2023/04/18/image-20230418223347579.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223347579.png">}}
 
 🆔  资源名称：typeapi.org
 
@@ -150,7 +150,7 @@
 
 ### Zotero的GPT增强插件
 
-![image](https://bib0.com/xc/i/2023/04/18/231054213-427056c2-35dd-48d4-8e0d-e334bb85a46f.png)
+{{< image src="https://bib0.com/xc/i/2023/04/18/231054213-427056c2-35dd-48d4-8e0d-e334bb85a46f.png">}}
 
 🆔  资源名称：Zotero的GPT增强插件
 
@@ -160,7 +160,7 @@
 
 ### AI Prompt
 
-{{< figure src="https://bib0.com/xc/i/2023/04/13/image-20230413221344393.png" >}}
+{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413221344393.png" >}}
 
 🆔  资源名称：AI Prompt Generators & Prompt Library 
 
@@ -170,7 +170,7 @@
 
 ### Chatbene
 
-![image-20230419081919533](https://bib0.com/xc/i/2023/04/19/image-20230419081919533.png)
+{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419081919533.png">}}
 
 🆔  资源名称：Chatbene
 
