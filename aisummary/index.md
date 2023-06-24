@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### chatgpt_academic
+
+{{< image src="https://bib0.com/xc/i/2023/06/24/230598842-1d7fcddd-815d-40ee-af60-baf488a199df.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能。
+
+🌐 资源地址: [Github地址](https://github.com/binary-husky/gpt_academic)
+
 ### GetInference AI Radar
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png" alt="-" title="Fun's images">}}     

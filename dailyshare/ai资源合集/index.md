@@ -5,9 +5,45 @@
 
 <!--more-->
 
+### Stable Diffusion XL 
+
+{{< image src="https://bib0.com/xc/i/2023/06/24/image-20230624195633349.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：🔄[Stable Diffusion XL 0.9 发布，AI 生成图像飞跃式提升](https://stability.ai/blog/sdxl-09-stable-diffusion)
+
+⭐️  资源描述：
+
+>🔄SD-XL 相比之前版本的改进如下：
+>
+>- 使用较短的描述性 prompt 即可生成高质量图像
+>- 可以生成更贴合 prompt 的图像
+>- 图像中的人体结构更合理
+>- 与 v2.1和 v1.5版本(程度较轻)相比，SD-XL 生成的图片更符合大众审美
+>- 负面提示词（negative prompt）是可选项
+>- 生成的肖像图更逼真
+>- 图像中的文本更清晰
+>
+>🆚你还可以通过第一个链接查看此模型与之前模型的生成对比效果
+
+🌐 资源地址：[点击跳转](https://stability.ai/blog/sdxl-09-stable-diffusion)|👉[体验地址](https://clipdrop.co/stable-diffusion)|[参考文章](https://redian.news/wxnews/453496)
+
+### ToonMe
+
+{{< image src="https://bib0.com/xc/i/2023/06/24/image-20230624194814023.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：😋[ToonMe - 一个 AI 生成卡通头像的在线工具](https://toonme.com/)
+
+⭐️  资源描述：
+
+> 📄上传照片后，选择你喜欢的风格即可即可生成各种卡通风格的头像。试玩了几张，效果还行，速度比较快。
+>
+> 网页版是完全免费的，APP 有内购
+
+🌐 资源地址：[点击跳转](https://toonme.com/)|🍎[iOS](https://apps.apple.com/us/app/toonme-cartoon-photo-editor/id1508120751)| 🤖[安卓](https://apkpure.com/cn/toonme-photo-cartoon-maker/com.vicman.toonmeapp)
+
 ### AI 发型设计
 
-{{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620210715805.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/06/24/image-20230624195242397.png" alt="-" title="Fun's images">}}  
 
 🆔  资源名称：💈[BarberGPT - 一个 AI 发型设计工具](https://www.barbergpt.ai/)
 

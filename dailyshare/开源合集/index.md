@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### Segment-Anything
+
+{{< image src="https://bib0.com/xc/i/2023/06/24/photo_2023-06-24_19-35-00.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：可以通过单击轻松抠出任何图像中的任何物体。
+
+🌐 资源地址: 资源地址：[点击跳转](https://segment-anything.com/)|[Github地址](https://github.com/facebookresearch/segment-anything)
+
 ### ChatALL
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png" alt="-" title="Fun's images">}}  
