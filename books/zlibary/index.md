@@ -9,7 +9,7 @@
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623132306740.png" alt="-" title="Fun's images">}}     
 
-🆔  资源名称： [Z-Library](https://zh.wikipedia.org/wiki/Z-Library)百科信息
+🆔  资源名称： [Z-Library](https://zh.wikipedia.org/wiki/Z-Library)百科信息、[Z-Library官网](http://singlelogin.re)
 
 ⭐️  资源描述：
 

@@ -6,6 +6,38 @@
 
 <!--more-->
 
+### 图片无损压缩
+
+{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625212954282.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：无线次免费压缩，可以收藏一下。
+
+🔗 资源链接：[点击跳转](https://www.photofun.cn/compress/)
+
+### 在线笔记
+
+{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625212902917.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：界面简洁，操作简单，有多种主题可自由任选。
+
+🔗 资源链接：[点击跳转](https://sharenote.app/)
+
+### 直链网
+
+{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625212349704.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：支持图片、视频、文件等形式。
+
+🔗 资源链接：[点击跳转](https://pomf2.lain.la/)
+
+### 动漫头像生成
+
+{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625211107034.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：免费生成随机卡通头像，可以自由选配饰，有点可爱
+
+🔗 资源链接：[点击跳转](https://avatar.0skyu.cn)
+
 ### FileEagle
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154659445.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    

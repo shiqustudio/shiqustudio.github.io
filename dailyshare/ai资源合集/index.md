@@ -5,6 +5,28 @@
 
 <!--more-->
 
+### 反ai检测
+
+{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625214203659.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**反ai检测**
+
+⭐️  资源描述：这两个网站检查文本是否由chatgpt等ai生成，适用于内容创作者，学生等。你的导师可能也在用哦~
+
+🌐 资源地址：[点击跳转1](https://gptzero.me/)|[点击跳转2](https://writer.com/ai-content-detector/)
+
+### 无损放大图片
+
+{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625214436386.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**无损放大图片**
+
+🌐 资源地址：[点击跳转1](https://picwish.cn/image-enlarger)|[点击跳转2](bigjpg.com)|[点击跳转3](https://img.logosc.cn/bigjpg)|[点击跳转4](https://imglarger.com/)|[点击跳转5](http://waifu2x.udp.jp/index.zh-CN.html/)
+
+🆔  资源名称：**无损补帧视频**
+
+🌐 资源地址：[点击跳转](bigmp4.com)
+
 ### Stable Diffusion XL 
 
 {{< image src="https://bib0.com/xc/i/2023/06/24/image-20230624195633349.png" alt="-" title="Fun's images">}} 
