@@ -120,6 +120,6 @@ public class HelloWorld {
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/typeit/

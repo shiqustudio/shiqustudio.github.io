@@ -196,6 +196,6 @@
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/personal/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/  
 

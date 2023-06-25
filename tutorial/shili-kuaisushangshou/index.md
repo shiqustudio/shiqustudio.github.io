@@ -196,6 +196,6 @@ hugo
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/tutorial/shili-kuaisushangshou/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/getting-started/

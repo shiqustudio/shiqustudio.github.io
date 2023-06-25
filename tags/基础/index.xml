@@ -3,12 +3,12 @@
     <title>基础 - 标签 - 拾趣资源</title>
     <link>https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/</link>
     <description>基础 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (Fun)</managingEditor>
+      <webMaster>43144966@qq.com (Fun)</webMaster><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/" rel="self" type="application/rss+xml" /><item>
   <title>进阶篇</title>
   <link>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/tutorial/shili-jinjiepian/images/featured-image.png" referrerpolicy="no-referrer">
@@ -18,7 +18,7 @@
   <title>扩展 Shortcode - bilibili</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
@@ -29,7 +29,7 @@
   <title>扩展 Shortcode - echarts</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
@@ -40,7 +40,7 @@
   <title>扩展 Shortcode - mapbox</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
@@ -50,7 +50,7 @@
   <title>扩展 Shortcode - mermaid</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
@@ -60,7 +60,7 @@
   <title>扩展 Shortcode - music</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/featured-image.png" referrerpolicy="no-referrer">
@@ -71,7 +71,7 @@
   <title>扩展 Shortcode - typeit</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/tutorial/shili-tuozhanpian/tuozhanpian/images/featured-image.png" referrerpolicy="no-referrer">
@@ -81,7 +81,7 @@
   <title>扩展 Shortcodes</title>
   <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
@@ -92,7 +92,7 @@
   <title>内容管理</title>
   <link>https://shiqustudio.github.io/tutorial/shili-neirongguanli/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-neirongguanli/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/tutorial/shili-neirongguanli/images/featured-image.jpg" referrerpolicy="no-referrer">
@@ -102,7 +102,7 @@
   <title>入门篇</title>
   <link>https://shiqustudio.github.io/tutorial/shili-rumenpian/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>Fun</author>
   <guid>https://shiqustudio.github.io/tutorial/shili-rumenpian/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/tutorial/shili-rumenpian/images/featured-image.png" referrerpolicy="no-referrer">

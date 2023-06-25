@@ -33,6 +33,6 @@
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/website/%E8%AF%86%E5%85%B8%E5%8F%A4%E7%B1%8D/  
 

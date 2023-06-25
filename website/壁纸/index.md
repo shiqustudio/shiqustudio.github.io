@@ -21,6 +21,6 @@
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/website/%E5%A3%81%E7%BA%B8/  
 

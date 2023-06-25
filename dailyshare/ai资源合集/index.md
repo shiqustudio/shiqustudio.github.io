@@ -155,6 +155,6 @@
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/  
 

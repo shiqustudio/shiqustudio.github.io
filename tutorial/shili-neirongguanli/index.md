@@ -309,6 +309,6 @@ hugo new offline/index.md
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/tutorial/shili-neirongguanli/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/

@@ -146,6 +146,6 @@ Hugo 允许您通过覆盖主题模板来改造主题，例如：您可以创建
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
+> 作者: [Fun](https://blog.funvip.live/)  
 > URL: https://shiqustudio.github.io/tutorial/shili-jinjiepian/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/advanced/
