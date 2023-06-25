@@ -323,6 +323,6 @@
 
 ---
 
-> 作者: [Fun](https://blog.funvip.live/)  
+> 作者: [聪](/about)  
 > URL: https://shiqustudio.github.io/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/  
 

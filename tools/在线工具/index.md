@@ -877,6 +877,6 @@
 
 ---
 
-> 作者: [Fun](https://blog.funvip.live/)  
+> 作者: [聪](/about)  
 > URL: https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/  
 

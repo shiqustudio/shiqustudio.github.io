@@ -20,6 +20,6 @@
 
 ---
 
-> 作者: [Fun](https://blog.funvip.live/)  
+> 作者: [聪](/about)  
 > URL: https://shiqustudio.github.io/tools/%E6%B8%B8%E6%88%8F/  
 

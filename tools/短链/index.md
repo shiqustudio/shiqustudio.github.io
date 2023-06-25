@@ -159,6 +159,6 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ---
 
-> 作者: [Fun](https://blog.funvip.live/)  
+> 作者: [聪](/about)  
 > URL: https://shiqustudio.github.io/tools/%E7%9F%AD%E9%93%BE/  
 
