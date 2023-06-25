@@ -10,7 +10,7 @@
 
 {{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625212954282.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
 
-📁 网站简介：无线次免费压缩，可以收藏一下。
+📁 网站简介：无限次免费压缩，可以收藏一下。
 
 🔗 资源链接：[点击跳转](https://www.photofun.cn/compress/)
 
