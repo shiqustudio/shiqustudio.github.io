@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### JPEGView
+
+{{< image src="https://bib0.com/xc/i/2023/06/26/image-20230626212534317.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。
+
+🌐 资源地址：[Github地址](https://github.com/sylikc/jpegview)|[下载地址](https://github.com/sylikc/jpegview/releases)
+
 ### BeFunky
 
 {{< image src="https://bib0.com/xc/i/2023/06/26/image-20230626115848067.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
