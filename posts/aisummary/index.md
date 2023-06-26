@@ -27,7 +27,7 @@
 
 ⭐️  资源描述：AI工具汇总及操作指南
 
-🌐 资源地址: [点击跳转](https://www.mojidoc.com/05z7y-dd5pa7hu3zfmhnbngoeztyqcnq-00b)
+🌐 资源地址: [点击跳转](https://www.mojidoc.com/05z7y-dd5pa7hu3zfmhnbngoeztyqcnq-00b)|[文库合集](https://aigc.ioclab.com/index.html#)
 
 ### 一起用AI
 
