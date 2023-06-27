@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### solid-iconify
+
+{{< image src="https://bib0.com/xc/i/2023/06/27/image-20230627082507786.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：😈 使用Iconify为SolidJS设置的图标组件。
+
+🌐 资源地址: 资源地址：[点击跳转](https://iconify.nn.ci/)|[Github地址](https://github.com/Xhofe/solid-iconify)
+
 ### Segment-Anything
 
 {{< image src="https://bib0.com/xc/i/2023/06/24/photo_2023-06-24_19-35-00.jpg" alt="-" title="Fun's images">}}  

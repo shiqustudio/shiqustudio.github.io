@@ -4,9 +4,29 @@
     <link>https://shiqustudio.github.io/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 25 Jun 2023 17:27:11 &#43;0000</lastBuildDate>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 26 Jun 2023 17:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>每日一文</title>
+  <link>https://shiqustudio.github.io/books/%E6%AF%8F%E6%97%A5%E4%B8%80%E6%96%87/</link>
+  <pubDate>Mon, 26 Jun 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/books/%E6%AF%8F%E6%97%A5%E4%B8%80%E6%96%87/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/06/27/image-20230627083816424.png" referrerpolicy="no-referrer">
+      </div><p>每天一篇随机文章，每日一次阅读</p>]]></description>
+</item>
+<item>
+  <title>时光邮局</title>
+  <link>https://shiqustudio.github.io/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</link>
+  <pubDate>Mon, 26 Jun 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/06/27/header4.jpg" referrerpolicy="no-referrer">
+      </div><p>写一封信，透过时光，留给未来自己的阅读</p>]]></description>
+</item>
+<item>
   <title>图片编辑</title>
   <link>https://shiqustudio.github.io/tools/%E5%9B%BE%E7%89%87%E7%BC%96%E8%BE%91/</link>
   <pubDate>Sun, 25 Jun 2023 17:27:11 &#43;0000</pubDate>
@@ -92,30 +112,6 @@
         <img src="https://bib0.com/xc/i/2023/06/20/image-20230620213138658.png" referrerpolicy="no-referrer">
       </div><blockquote>
 <p>🤖整理并分享一些优质壁纸资源</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>历史价格查询</title>
-  <link>https://shiqustudio.github.io/website/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9F%A5%E8%AF%A2/</link>
-  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/website/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9F%A5%E8%AF%A2/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/23/image-20230623153952797.png" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>商品历史价格查询</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>招聘</title>
-  <link>https://shiqustudio.github.io/website/%E5%AE%98%E7%85%A4/</link>
-  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/website/%E5%AE%98%E7%85%A4/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/20/image-20230620211913269.png" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>🤖整理并分享一些官方发布的信息资源</p>
 </blockquote>]]></description>
 </item>
 </channel>

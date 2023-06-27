@@ -6,6 +6,14 @@
 
 <!--more-->
 
+### 偷懒工具
+
+{{< image src="https://bib0.com/xc/i/2023/06/27/image-20230627083028101.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：种类繁多，工具合集。
+
+🔗 资源链接：[点击跳转](https://toolight.cn/)|[偷懒周刊](https://toolight.zhubai.love/)
+
 ### 图片无损压缩
 
 {{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625212954282.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
