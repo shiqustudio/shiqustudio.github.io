@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### Jellulade
+
+{{< image src="https://bib0.com/xc/i/2023/06/27/TMD3d9.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：之前一直用浏览器插件方式来生成好看的截图，不过后面免费用户支持的类型比较少就寻找其他的方式代替，找到一个[「Jellulade 漂亮截图生成工具」](https://app.jellylade.com/)，所有功能全免费，生成出来的效果还特别有质感，以后可以成为我的默认工具了。
+
+🌐 资源地址：[点击跳转](https://app.jellylade.com/)
+
 ### JPEGView
 
 {{< image src="https://bib0.com/xc/i/2023/06/26/image-20230626212534317.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
