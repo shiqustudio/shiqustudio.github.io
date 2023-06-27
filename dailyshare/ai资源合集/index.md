@@ -5,6 +5,26 @@
 
 <!--more-->
 
+### ai-bot
+
+{{< image src="https://bib0.com/xc/i/2023/06/27/image-20230627091342795.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**AI 工具集导航**
+
+⭐️  资源描述：这个 AI 工具集导航整理比较清晰全面，基本上和 AI 相关的问答、翻译、编程、写作、图片、音频、视频、办公、学习都具备了，感谢收集的同学。
+
+🌐 资源地址：[点击跳转](https://ai-bot.cn/)
+
+### aitoolist
+
+{{< image src="https://bib0.com/xc/i/2023/06/27/image-20230627090829324.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**AI信息聚合平台**
+
+⭐️  资源描述：一个 AI 信息聚合网站，网站目前包含了 3k+AI 产品、重要的 AI 新闻以及开源项目，部分对 AI 感兴趣的朋友应该会喜欢。
+
+🌐 资源地址：[点击跳转](https://www.aitoolist.net/nav)
+
 ### 反ai检测
 
 {{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625214203659.png" alt="-" title="Fun's images">}} 
