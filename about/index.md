@@ -11,13 +11,12 @@ class Blog {
   }
 }
 const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
-<!--console.log(site.name);-->
 {{< /typeit >}}
 {{< /style >}}
 
 ## 资讯
 
-<!--[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/shiqustudio)--> 
+<!--[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/shiqustudio)<!console.log(site.name);--> 
 
 {{< admonition info "关于我" false >}}
 
