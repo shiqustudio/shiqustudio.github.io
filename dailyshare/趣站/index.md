@@ -21,6 +21,8 @@
 
 ### 实时全球高清摄像头直播
 
+{{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628080945329.png" alt="-" title="Fun's images">}}  
+
 🆔  资源名称：实时全球高清摄像头直播
 
 ⭐️  资源描述：画质很清晰，全球各地都有，可以看到观看人数等等，足不出户逛遍全球景区，很有意思。
@@ -57,17 +59,9 @@
 
 🌐 资源地址：[点击跳转](https://anvaka.github.io/city-roads/)
 
-### 每日一文
-
-{{< image src="https://bib0.com/xc/i/2023/06/27/image-20230627083816424.png" alt="-" title="Fun's images">}}     
-
-⭐️  资源描述：~~~一个每日随机文章阅读网站~~~
-
-🌐 资源地址：[点击跳转](https://meiriyiwen.com/)
-
 
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/books/%E8%B6%A3%E7%AB%99/  
+> URL: https://shiqustudio.github.io/dailyshare/%E8%B6%A3%E7%AB%99/  
 
