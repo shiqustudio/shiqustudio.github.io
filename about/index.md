@@ -40,7 +40,7 @@ const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
 
 {{< typeit group=paragraph3 >}}
 
-🔥爱好：骑行🚴‍♂️、攀岩🧗‍♀️、徒步🤹‍♂️、滑雪⛷️、冲浪🏄‍♂️、羽毛球🏸
+🔥爱好：骑行🚴‍♂️、攀岩🧗‍♀️、徒步🤹‍♂️、滑雪⛷️、冲浪🏄‍♂️、桌球🎱、羽毛球🏸
 
 {{< /typeit >}}
 
