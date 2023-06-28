@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Chatbene
+
+{{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628160915399.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**AI信息聚合平台**
+
+⭐️  资源描述：一个 AI 信息收集平台，包含很多真实场景，可以给AI实践寻找灵感和思路。包括**AI快讯**、**Prompts精选**、**ChatGPT客户端(免费)**
+
+🌐 资源地址：[点击跳转](https://chatbene.com/)
+
 ### ai-bot
 
 {{< image src="https://bib0.com/xc/i/2023/06/27/image-20230627091342795.png" alt="-" title="Fun's images">}} 
