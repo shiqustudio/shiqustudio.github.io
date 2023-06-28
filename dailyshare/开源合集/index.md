@@ -33,7 +33,7 @@
 
 ⭐️  资源描述：😈 使用Iconify为SolidJS设置的图标组件。
 
-🌐 资源地址: 资源地址：[点击跳转](https://iconify.nn.ci/)|[Github地址](https://github.com/Xhofe/solid-iconify)
+🌐 资源地址：[点击跳转](https://iconify.nn.ci/)|[Github地址](https://github.com/Xhofe/solid-iconify)
 
 ### Segment-Anything
 
@@ -41,7 +41,7 @@
 
 ⭐️  资源描述：可以通过单击轻松抠出任何图像中的任何物体。
 
-🌐 资源地址: 资源地址：[点击跳转](https://segment-anything.com/)|[Github地址](https://github.com/facebookresearch/segment-anything)
+🌐 资源地址：[点击跳转](https://segment-anything.com/)|[Github地址](https://github.com/facebookresearch/segment-anything)
 
 ### ChatALL
 
