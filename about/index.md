@@ -23,31 +23,31 @@ const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
 
 {{< typeit group=paragraph0 >}}
 
-👨‍💼姓名：`保密`
+👨‍💼姓名：㊙️
 
 {{< /typeit >}}
 
 {{< typeit group=paragraph1 >}}
 
-👨‍💻职业：社畜
+👨‍💻职业：`社畜`
 
 {{< /typeit >}}
 
 {{< typeit group=paragraph2 >}}
 
-📝星座：魔羯座
+🌈星座：魔羯座
 
 {{< /typeit >}}
 
 {{< typeit group=paragraph3 >}}
 
-📝爱好：骑行、攀岩、徒步、滑雪、冲浪、羽毛球
+📌爱好：骑行🚴‍♂️、攀岩🤹‍♂️、徒步⛹️‍♂️、滑雪⛷️、冲浪🏄‍♂️、羽毛球🤺
 
 {{< /typeit >}}
 
 {{< typeit group=paragraph4 >}}
 
-📝座右铭：If you think you can,you can!
+📝座右铭：If you think you can,you can!❤️
 
 {{< /typeit >}}
 
