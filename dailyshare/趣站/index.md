@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### Think Diffusion
+
+{{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628214954550.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：用AI生成炫酷二维码教程
+
+🌐 资源地址：[点击跳转](https://learn.thinkdiffusion.com/creating-qr-codes-with-controlnet/)
+
 ### 蒂姆霍尔曼
 
 {{< image src="https://bib0.com/xc/i/2023/05/04/image-20230504220048917.png" alt="-" title="Fun's images">}}  

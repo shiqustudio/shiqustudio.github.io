@@ -46,14 +46,6 @@
 
 🔗 资源链接：[点击跳转](https://avatar.0skyu.cn)
 
-### FileEagle
-
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154659445.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
-
-📁 网站简介：免费在线 Windows 软件资源库下载网站
-
-🔗 资源链接：[点击跳转](https://www.fileeagle.com/)
-
 ### Xplorer
 
 {{< image src="https://bib0.com/xc/i/2023/05/28/image-20230528204403638.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
@@ -69,24 +61,6 @@
 ⏬[下载页面](https://github.com/kimlimjustin/xplorer/releases) | 🧩[开源地址](https://github.com/kimlimjustin/xplorer)
 
 🔗 资源链接：[点击跳转](https://xplorer.space/)
-
-### Qwerty Learner
-
-{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230528204043999.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
-
-📁 网站简介：⌨️[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner) - 用练习打字的方式背单词
-
->📃开发者将英语单词记忆与英语键盘输入的肌肉记忆相结合，可以在背诵单词的同时加强英文肌肉记忆
->
->网站提供了 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语
->
->还包括程序员常见英语单词以及多种编程语言 API 等词库
->
->你还可以通过[VS Code插件](https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner)使用
-
-⏺[在线地址](http://qwerty.kaiyi.cool/) | ⏺[国内地址](https://kaiyiwing.gitee.io/qwerty-learner/)
-
-🔗 资源链接：[点击跳转](https://github.com/Kaiyiwing/qwerty-learner)
 
 ### Slidev
 

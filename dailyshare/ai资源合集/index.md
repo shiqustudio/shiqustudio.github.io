@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Cooltools
+
+{{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628214057047.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**导航网站**
+
+⭐️  资源描述：一个信息聚合平台，包括**AI导航**、**综合导航**、**开发者导航**
+
+🌐 资源地址：[AI导航](https://cooltools.top/ai.html)|[综合导航](https://cooltools.top/)|[开发者导航](https://cooltools.top/developers.html)
+
 ### Chatbene
 
 {{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628160915399.png" alt="-" title="Fun's images">}} 
