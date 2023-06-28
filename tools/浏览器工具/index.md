@@ -5,9 +5,7 @@
 
 {{< image src="https://bib0.com/xc/i/2023/06/28/photo_2023-03-25_10-30-55.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   
 
-🆔  插件名称：ChatGPT for Google
-
-⭐️  插件功能：搜索引擎加载ChatGPT
+⭐️  描述：搜索引擎加载ChatGPT
 
 ➡️  支持平台：#Chrome #Firefox
 
