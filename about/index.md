@@ -11,22 +11,45 @@ class Blog {
   }
 }
 const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
-console.log(site.name);
+<!--console.log(site.name);-->
 {{< /typeit >}}
 {{< /style >}}
 
 ## 资讯
 
-<!--[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/shiqustudio)-->
+<!--[![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/shiqustudio)--> 
 
 {{< admonition info "关于我" false >}}
 
-|      角色      |       职业       |
-| :------------: | :--------------: |
-| ~~在校大学生~~ | ~~学生~~ |
-|   ~~实习生~~   | ~~实习生~~ |
-|      ~~毕业~~      | ~~开发~~ |
-| 社畜 |   `保密`   |
+{{< typeit group=paragraph0 >}}
+
+👨‍💼姓名：`保密`
+
+{{< /typeit >}}
+
+{{< typeit group=paragraph1 >}}
+
+👨‍💻职业：社畜
+
+{{< /typeit >}}
+
+{{< typeit group=paragraph2 >}}
+
+📝星座：魔羯座
+
+{{< /typeit >}}
+
+{{< typeit group=paragraph3 >}}
+
+📝爱好：骑行、攀岩、徒步、滑雪、冲浪、羽毛球
+
+{{< /typeit >}}
+
+{{< typeit group=paragraph4 >}}
+
+📝座右铭：If you think you can,you can!
+
+{{< /typeit >}}
 
 {{< /admonition >}}
 
