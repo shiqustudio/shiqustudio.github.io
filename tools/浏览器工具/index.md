@@ -1,6 +1,39 @@
 # 浏览器工具
 
 
+### V2EX Polish
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629225754933.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  描述：🅰[V2EX Polish](https://github.com/coolpace/V2EX_Polish) - 一款增强 V2EX 的浏览器插件
+
+>💡Features
+>
+>🪄 界面美化
+>📥 评论回复嵌套层级
+>🔥 热门回复展示
+>😀 支持表情回复
+>💬长回复优化
+>📰内置主题列表
+>
+>🤫为什么选择 V2EX Polish
+>
+>在社区中早已存在众多用于增强 [v2ex](http://v2ex.com/) 的脚本和插件，然而它们带来的体验良莠不齐，且大多数已经停止更新。
+>
+>V2EX Polish 的目标是提供一个更加完善的插件，并且长期维护，快速响应 V2EX 用户的需求。我们希望打造最高质量的 V2EX 扩展，提供最佳的体验。
+
+🌐 资源地址：[点击跳转](https://github.com/coolpace/V2EX_Polish)
+
+### SssBar
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629220135833.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  描述：🔍[SssBar](https://bar.ssstab.com/)  - 一个在线工具聚合搜索网站
+
+>📃许多开发者开发了许多在线小工具，一个个书签找太麻烦，不妨试一下这个聚合搜索
+
+🌐 资源地址：[点击跳转](https://bar.ssstab.com/)|🧩[Chrome插件](https://chrome.google.com/webstore/detail/sssbar/lbdhkmfihdbjopkhgopfolpompdcpglk)
+
 ### ChatGPT for Google
 
 {{< image src="https://bib0.com/xc/i/2023/06/28/photo_2023-03-25_10-30-55.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   

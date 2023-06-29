@@ -5,6 +5,22 @@
 
 <!--more-->
 
+### StarChat
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629220945486.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**👩‍💻StarChat - 一个开源的 AI 编程助手**
+
+⭐️  资源描述：
+
+>📄和 Copilot 和 ChatGPT 类似，StarChat 也许是一个不错的开源的免费替代方案，支持中文
+>
+>它基于 Hugging Face 开源的拥有160亿参数的编程大语言模型「[StarCoder](https://github.com/bigcode-project/starcoder)」，使用了 80 多种编程语言、GitHub问题、Git提交和 Jupiter 笔记本的一万亿个token
+>
+>所以编程能力不可忽视，当时由于刚上线不久，还需要时间的验证
+
+🌐 资源地址：[点击跳转](https://huggingface.co/spaces/HuggingFaceH4/starchat-playground)
+
 ### Cooltools
 
 {{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628214057047.png" alt="-" title="Fun's images">}} 

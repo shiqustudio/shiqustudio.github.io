@@ -5,6 +5,104 @@
 
 <!--more-->
 
+### KeePassXC
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629232529112.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：📟[KeePassXC](https://keepassxc.org/) - 一款开源且跨平台的密码管理器
+
+>📄KeePassXC 可以生成、保存、管理和自动填充各种密码，并且同时支持Windows/MacOS/Linux
+>
+>下载之后会弹出浏览器插件页面，安装插件之后浏览器也可以自动填充保存再 KeePassXC 中的密码
+>
+>⚡️KeePassXC 最大的特点便是通过一个主密码、一个关键文件或者两者联合的方式对密码数据进行保护，实现了记住一个密码就可以登录所有账号
+
+🌐 资源地址：[点击跳转](https://keepassxc.org/) |🧩[开源地址](https://github.com/keepassxreboot/keepassxc) | ⬇️[下载页面](https://keepassxc.org/download/#)
+
+### Squirrel RIFE
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629230710076.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Squirrel RIFE](https://github.com/Justin62628/Squirrel-RIFE) - 一款基于RIFE算法的中文补帧软件
+
+>💡Features
+>
+>▫️显存占用极小，效果更好
+>▫️包含抽帧处理，可去除动漫卡顿感
+>▫️高精度转场识别，在多数视频中达到95%以上的精确度
+>
+>📄这是一款主要针对二刺螈视频/图像的插帧修复工具，内置开源的RIFE算法，可以有效提升视频帧率，使视频看起来更加丝滑、流畅
+>
+>你可以先去看看效果再决定是否下载使用
+>
+>⚠️软件对配置要求比较高，需要 Win10 及以上操作系统，2GB 以上显存，4GB 左右的空余运存以及 4GB+ 的磁盘空间
+
+🌐 资源地址：🙃[开源地址](https://github.com/Justin62628/Squirrel-RIFE) | ➡️[效果演示](https://space.bilibili.com/94367406) | 📂[下载页面](https://github.com/Justin62628/Squirrel-RIFE/releases)
+
+### Chat2DB
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/shujuku0629.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🍑[Chat2DB](https://github.com/chat2db/Chat2DB) - 一款适用于各种数据库的智能SQL客户端和报表工具
+
+>📄Chat2DBCha2DB 是一款开源免费的多数据库客户端工具，支持windows、mac本地安装，也支持服务器端部署，web网页访问
+>
+>🤖️最大的特点便是集成了 AIGC 的能力，能够将自然语言转换为SQL，也可以将SQL转换为自然语言，可以给出研发人员 SQL 的优化建议
+>
+>在未来即使是不懂 SQL 的人员也可以通过 AI 快速查询数据生成报表等
+
+🌐 资源地址：[点击跳转](https://chat2db.opensource.alibaba.com/) | 🙃[开源地址](https://github.com/chat2db/Chat2DB) | [说明文档](https://chat2db.opensource.alibaba.com/docs)
+
+### WeekToDo
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629225327700.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：❌[WeekToDo](https://weektodo.me/zh/) - 一款开源美观的待办清单软件
+
+>📄你可以使用 WeekToDo 简单直观地定义和管理一周 TODO 事项，从而提高工作效率
+>
+>🆚相比较 Microsoft To Do，WeekToDo 更加直观地展示了未来 TODO 事项，并且同时支持 Web、Windows、macOS、Linux
+>
+>⚙️如果你非常注重隐私安全，还可以自己部署在私人服务器上
+
+🌐 资源地址：🙃[开源地址](https://github.com/manuelernestog/weektodo) | ⬇️[下载页面](https://weektodo.me/zh/download/)
+
+### Screenshot.Rocks
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629215821966.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：✂️[Screenshot.Rocks](https://screenshot.rocks/) - 一款开源的网页截图、美化工具
+
+>📃输入网址，它会在服务器端渲染网页并截图，然后可以对截图进行美化
+>
+>⚠️遗憾的是大部分中文网页的中文无法正常显示
+
+🌐 资源地址：🧩[开源地址](https://github.com/daveearley/screenshot.rocks) | [Chrome插件](https://chrome.google.com/webstore/detail/screenshotrocks-one-click/oolmphedpohnagciifbnfpemadolahki/) | [Edge插件](https://microsoftedge.microsoft.com/addons/detail/screenshotrocks-onecli/clennbaklmghlnlamipjmfikdnlhiaem) | [火狐插件](https://addons.mozilla.org/en-US/firefox/addon/one-click-design-mockups/)
+
+### Lemmy 
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629213610074.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[🐭Lemmy - 一个联邦宇宙的链接聚合器和论坛](https://join-lemmy.org/)
+
+>📄Lemmy 同 [Reddit、Lobste.rs](http://xn--redditlobste-ec3k.rs) 以及 Hacker News 等网站类似：你可以订阅你感兴趣的论坛，发布链接和讨论，然后进行投票或评论
+>
+>但与其他的聚合平台不同，任何人都可以部署 Lemmy 服务器，所有 Lemmy 服务器都是联邦式的，并连接到联邦宇宙
+>
+>🟢说通俗点就有点像高级点的开源百度贴吧，玩法也很简单，进入[实例页面](https://join-lemmy.org/instances)选择喜欢的实例加入进去看看就得了，其中不乏许多NSFW的实例
+
+🌐 资源地址：[点击跳转](https://join-lemmy.org/)|🧩[开源地址](https://github.com/LemmyNet/lemmy) | [中文介绍](https://github.com/LemmyNet/lemmy/blob/main/readmes/README.zh.hans.md)
+
+### Offensive Bookmarks
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/offensive-bookmarks.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：📄该书签包含了开源情报、恶意软件开发、恶意软件分析、博客论坛等分类书签资源
+
+只要你对信息安全有兴趣，估计里面的内容对你会有用
+
+🌐 资源地址：[Github地址](https://github.com/kargisimos/offensive-bookmarks)|[⬇️下载](https://github.com/kargisimos/offensive-bookmarks/blob/master/offensive-bookmarks.html)
+
 ### Vertex 
 
 {{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628075156402.png" alt="-" title="Fun's images">}}  
@@ -83,29 +181,6 @@
 
 🌐 资源地址：[点击跳转](https://javascript.sumankunwar.com.np/en/)🧩[Github地址](https://github.com/sumn2u/learn-javascript)
 
-### 云空调 
-
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623142103746.png" alt="-" title="Fun's images">}}  
-
-🆔  资源名称：[❄️云空调 - 一个便携的开源在线空调](https://github.com/YunYouJun/air-conditioner)
-
-⭐️  资源描述：📄随时打开在线空调，并且完全静音，在这个炎炎夏日可以给你带来心理上的凉快
-
->**优势**
->
->- 🕐 随时随地打开空调
->- 📱 便携
->- 🔋 低功耗（使用 HTML CSS 而非 Canvas 绘制）
->- 🔊 静音
->- 🎮 操作简单
->- 🔧 安装便捷
->
->**劣势**
->
->- 💨 没有风
-
-🌐 资源地址：[点击跳转](https://ac.yunyoujun.cn/) | 🧩[Github地址](https://github.com/YunYouJun/air-conditioner)
-
 ### 个人博客系统
 
 {{< bilibili BV1oP411T7hA >}}
@@ -137,6 +212,22 @@
 >🗣上手体验了一下，手感比较丝滑，界面也非常简约，缺点是插件暂时还不够丰富
 
 🌐 资源地址：[点击跳转](https://ryensx.github.io/MediaBoxPluginRepository) | 🧩[Github地址](https://github.com/RyensX/MediaBoxPluginRepository)
+
+### ZYPlayer
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/light.png" alt="-" title="Fun's images">}}  
+
+🆔  资源名称：[🎬ZYPlayer - 一款开源的跨平台桌面视频播放器](https://github.com/Hiram-Wong/ZyPlayer)
+
+⭐️  资源描述：
+
+>📄ZYPlayer 基于已经停更近一年的「[ZY-Player](https://github.com/Hunlongyu/ZY-Player)」，目前已有新的开发者接盘继续更新
+>
+>和原项目最大的区别是它不再内置播放源，不过不用担心我已经准备好了一份可用源，下载直接导入就可以看了
+>
+>👍你也可以根据开发者提供的播放源模板，自制一份自己的播放源
+
+🌐 资源地址：[点击跳转](http://zyplayer.fun/) | 🧩[Github地址](https://github.com/Hiram-Wong/ZyPlayer) | ⬇️[下载页面](https://github.com/Hiram-Wong/ZyPlayer/releases) | {{< link href="/dailyshare/files/FunsYuan.json" content="播放源" title="播放源" download="FunsYuan.json" >}}
 
 ### 模组化素材管理
 

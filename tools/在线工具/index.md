@@ -6,6 +6,14 @@
 
 <!--more-->
 
+### Flowchart-fun
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629220453968.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：🔁[Flowchart-fun](https://flowchart.fun/)（乐趣流程图） - 一款可以在线把文字转流程图的工具，📃可以转换的流程图种类挺多。
+
+🔗 资源链接：[点击跳转](https://flowchart.fun/)
+
 ### 偷懒工具
 
 {{< image src="https://bib0.com/xc/i/2023/06/27/image-20230627083028101.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

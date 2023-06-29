@@ -5,6 +5,22 @@
 
 <!--more-->
 
+### ABCDPDF
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629233112795.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
+
+🆔  资源名称： 🔃[ABCDPDF](https://abcdpdf.com/zh-cn/) - 一款免费的 PDF 在线转换工具
+
+⭐️  资源描述： 
+
+>📄上传一个 PDF 文件，你可以对其进行合并、拆分、压缩、添加水印、加密、解密以及转换成 word 等操作
+>
+>同时也可以通过它来对 word 、excel 还有 ppt 等各种格式的文件进行修改
+>
+>🗣同类型的网站下面收集的也比较多，这个还算比较丝滑，免费用户只是上传文件的大小限制，日常够用
+
+🌐 资源地址: [点击跳转](https://abcdpdf.com/zh-cn/)
+
 ### office-converter
 
 {{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418225201238.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      

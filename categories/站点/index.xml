@@ -4,7 +4,19 @@
     <link>https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/</link>
     <description>站点 - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Thu, 22 Jun 2023 21:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E7%AB%99%E7%82%B9/" rel="self" type="application/rss+xml" /><item>
+  <title>线上转档</title>
+  <link>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
+  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/pdfyeah.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。</p>
+</blockquote>]]></description>
+</item>
+<item>
   <title>Ai知识集</title>
   <link>https://shiqustudio.github.io/posts/aisummary/</link>
   <pubDate>Thu, 22 Jun 2023 21:27:11 &#43;0000</pubDate>
@@ -38,18 +50,6 @@
         <img src="https://bib0.com/xc/i/hugoBlog/image-20230402215853220.png" referrerpolicy="no-referrer">
       </div><blockquote>
 <p>缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>线上转档</title>
-  <link>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
-  <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/hugoBlog/pdfyeah.png" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。</p>
 </blockquote>]]></description>
 </item>
 </channel>

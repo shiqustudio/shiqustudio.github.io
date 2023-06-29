@@ -5,6 +5,28 @@
 
 <!--more-->
 
+### Photoaid Tool
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629232244892.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🖼[Photoaid Tool](https://photoaid.com/tools) - 有一个免费的图像处理工具合集
+
+>📄网站共包含 14 个在线图像处理工具，比较实用的有图像放大和抠图，速度和效果都挺好，并且是完全免费的
+
+🌐 资源地址：[点击跳转](https://photoaid.com/tools) 
+
+### FotoSketcher
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/After.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🖌️[FotoSketcher](https://fotosketcher.com/) - 一款免费的照片转艺术画的软件
+
+>软件有 20 多种不同的风格供你选择，包括铅笔素描、水彩、油画、钢笔和水墨画、抽象艺术和卡通风格等
+>
+>生成的效果还真不错😄
+
+🌐 资源地址：[点击跳转](https://fotosketcher.com/) | ⬇️[下载](https://fotosketcher.com/download-fotosketcher/)（支持Windows和MacOS）
+
 ### Jellulade
 
 {{< image src="https://bib0.com/xc/i/2023/06/27/TMD3d9.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  

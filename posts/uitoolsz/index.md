@@ -5,6 +5,30 @@
 
 <!--more-->
 
+### Good Design Tools
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629222533091.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[**🌐Good Design Tools - 又一个设计资源导航网站**](https://www.gooddesign.tools/)
+
+⭐️  资源描述：
+
+>📄一个看起来非常舒服的网址导航，网站有 25 个分类共收录了超过 100 个设计资源网站，每个网站都有一句简介
+>
+>又差不多可以做个网址导航的精选合集了
+
+🌐 资源地址: [点击跳转](https://www.gooddesign.tools/)
+
+### CallToInspiration
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629222533091.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[**👩‍🎨CallToInspiration - 一个设计灵感收集网站**](https://calltoinspiration.com/)
+
+⭐️  资源描述：📄点击每个分类可以看到该分类下的所有同类型界面设计，作为你的设计参考灵感来源
+
+🌐 资源地址: [点击跳转](https://calltoinspiration.com/)
+
 ### uitoolz
 
 {{< image src="https://bib0.com/xc/i/2023/06/20/image-20230620220855987.png" alt="-"  title="Fun's images" >}}    
