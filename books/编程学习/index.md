@@ -45,7 +45,7 @@
 
 ⭐️  资源描述：专业软件仓库，免费学习，免费下载。
 
-🌐 资源地址：[点击跳转](https://ruancang.net/#/)
+🌐 资源地址：[点击跳转](https://ruancang.net/#/)|[博客地址](https://blog.ruancang.net)
 
 
 ---
