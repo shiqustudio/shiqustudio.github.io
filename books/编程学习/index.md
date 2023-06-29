@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Java 全栈知识体系
+
+{{< image src="https://bib0.com/xc/i/2023/06/29/index-read.gif" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：Java 全栈知识体系
+
+>包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目..
+
+🌐 资源地址：[点击跳转](https://www.pdai.tech/)
+
 ### Road To Coding
 
 {{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628210414123.png" alt="-" title="Fun's images">}}     
