@@ -29,6 +29,32 @@
 
 🔗 资源地址：[点击跳转](https://github.com/Kaiyiwing/qwerty-learner) | ⏺[在线地址](http://qwerty.kaiyi.cool/) | ⏺[国内地址](https://kaiyiwing.gitee.io/qwerty-learner/)
 
+### DailyDictation
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701082600249.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：通过听写练习英语，该网站包含数百个听写练习，以帮助英语学习者轻松练习并快速提高
+
+🌐 资源地址：[点击跳转](https://dailydictation.com/)
+
+### 巴别英语
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701075010388.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：[巴别英语](https://www.babelabc.com/) - 英语听力口语在线学习
+
+>每日 10 分钟, 轻松练英语听力
+>单句重复 / 灵活字幕 / 情境填词
+
+🌐 资源地址：[点击跳转](https://www.babelabc.com/)
+
+### 英语学习经验
+
+{{< bilibili BV1ns4y1A7fj>}}
+
+⭐️  资源描述：分享一下大佬的学习英语的经验，学完后可以做[词汇测试](https://my.vocabularysize.com/result/71ffbe2554f0ae3f28f737303da7772f)
+
+🌐 资源地址：[点击跳转](https://www.bilibili.com/video/BV1ns4y1A7fj)
 
 
 ---

@@ -29,6 +29,24 @@
 
 🌐 资源地址：[点击跳转](https://r2coding.com/)|[Github地址](https://github.com/rd2coding/Road2Coding)
 
+### DevToys
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701080940360.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：**开发人员的瑞士军刀**。
+
+>[DevToys](https://devtoys.app/) 帮助完成日常开发任务，例如格式化 JSON、比较文本和测试 RegExp。无需使用许多不可信的网站来处理您的数据执行简单的任务。通过智能检测，DevToys 可以检测用于复制到 Windows 剪贴板的数据的最佳工具。紧凑的覆盖让您可以保持应用程序较小并位于其他窗口之上。可以同时使用该应用程序的多个实例。
+
+🌐 资源地址：[点击跳转](https://devtoys.app/)|[Github地址](https://github.com/veler/DevToys)
+
+### freelearninglist
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701220821038.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：📚[freelearninglist](https://freelearninglist.org/) - 这个网站收集了10大分类优质学习资源，并且都是免费的
+
+🌐 资源地址：[点击跳转](https://freelearninglist.org/)
+
 
 ---
 

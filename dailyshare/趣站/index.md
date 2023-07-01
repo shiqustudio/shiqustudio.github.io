@@ -5,6 +5,40 @@
 
 <!--more-->
 
+### My Family Tree
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701222059664.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：👨‍👨‍👧‍👧[My Family Tree](https://chronoplexsoftware.com/myfamilytree/)（我的家族树） - 一款免费的本地族谱软件
+
+>📃在线的族谱工具数不胜数，但是由于是在线，所以隐私性永远不如本地的好
+>
+>我的家族树虽然没有开源，但是你完全可以控制其联网权限并完全离线运行
+>
+>通过此软件，你可以制作精美、详细的族谱，并且支持以思维导图、时间轴、南丁格尔玫瑰图、表格的形式展示
+>
+>⚙️设置中文
+>
+>进入下载页点击“Language Pack”安装，然后在软件“Option”中选择“language”即可切换简中
+
+🌐 资源地址：[点击跳转](https://chronoplexsoftware.com/myfamilytree/)
+
+### Versus
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701221356707.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🌐[Versus](https://versus.com/cn) - 一个可以对比万物的网站
+
+>📃输入关键词，网站会对你给出的关键词进行多维度对比
+>
+>关键词可以是手机、电脑、相机、硬件、软件等等，甚至可以对比大学
+>
+>最多可以同时支持7个对比项
+>
+>想买东西前、上大学前，甚至是去哪玩之前，对比一下
+
+🌐 资源地址：[点击跳转](https://versus.com/cn)
+
 ### 云空调 
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623142103746.png" alt="-" title="Fun's images">}}  
@@ -89,6 +123,16 @@
 ⭐️  资源描述：这个网站渲染了城市中的每一条道路
 
 🌐 资源地址：[点击跳转](https://anvaka.github.io/city-roads/)
+
+### 地球在线
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701220916273.png" alt="-" title="Fun's images">}}  
+
+🆔  资源名称：🌏[地球在线](https://www.earthol.com/g/) - 一个可以免翻的谷歌地图，放大效果与原版一致
+
+⭐️  资源描述：这个网站渲染了城市中的每一条道路
+
+🌐 资源地址：[点击跳转](https://www.earthol.com/g/)
 
 
 ---

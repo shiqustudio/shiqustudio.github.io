@@ -5,6 +5,57 @@
 
 <!--more-->
 
+### Where To
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701213848725.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**[Where To](https://www.wheretoai.com/) - AI 旅行设计师**
+
+⭐️  资源描述：
+
+>「[Where to](https://www.wheretoai.com/)」能够帮你解决出行做攻略这一大难题
+>
+>你只需要告诉「[Where to](https://www.wheretoai.com/)」旅行地点、时间、预算和同伙，它就会为你量身打造一份旅行攻略
+>
+>如果你不知道想去哪，你可以点击「Plan My Trip」填写预设的问题，AI 会自动扫描适合你去的地方并生成旅游攻略
+
+🌐 资源地址：[资源地址](https://www.wheretoai.com/) 
+
+### Lobe Theme
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701213337617.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**📦[Lobe Theme](https://github.com/canisminor1990/sd-webui-lobe-theme) - 一个高定制化的 Stable Diffusion 现代主题**
+
+⭐️  资源描述：
+
+>📄这是一个「Stable Diffusion web UI」的主题，比原版的颜值更高，体验更好 
+>
+>🌟Features
+>
+>▫️支持亮暗色主题，可以导航栏快速切换
+>▫️支持主题颜色和中性色自定义，支持 Logo 自定义
+>▫️支持 Prompt 一键格式化，并提供简易的标签编辑器
+>▫️移动端友好，针对手机屏幕完成部分优化....
+
+🌐 资源地址：[开源地址](https://github.com/canisminor1990/sd-webui-lobe-theme) | 📖[中文文档](https://github.com/canisminor1990/sd-webui-lobe-theme/blob/main/README-zh_CN.md)
+
+### Stable Diffusion web UI
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701213544973.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - 一个开源的 Stable Diffusion web 界面**
+
+⭐️  资源描述：
+
+>📄项目基于 Python 开源库 Gradio 构建，网页端界面更直观，小白上手比较容易
+>
+>SD 主要是吃显卡，算力越强，出图越快；显存越大，分辨率越高
+>
+>建议RTX4050、RTX3060、RTX4060显卡，核显就不要玩了
+
+🌐 资源地址：[开源地址](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |[英文文档](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki) | [中文安装教程](https://www.w3cschool.cn/stable_diffusion/stable_diffusion-yae53rki.html)
+
 ### StarChat
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629220945486.png" alt="-" title="Fun's images">}} 

@@ -5,6 +5,22 @@
 
 <!--more-->
 
+### PDFgear
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/banner-img.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
+
+🆔  资源名称： [PDFgear](https://www.pdfgear.com/) - 一款内置 AI 的 PDF 工具
+
+⭐️  资源描述： 
+
+>📄支持Windows/macOS/iOS ，并且都是免费的
+>
+>它支持数十种格式与 PDF 之间的转换，并且支持编辑、压缩、签名、文本提取、OCR文字识别等功能
+>
+>亮点就是接入了 AI 聊天机器人，没有聊天限制，我稍微使用下来感觉非常不错，再用一段时间看看能不能替代 Acrobat
+
+🌐 资源地址: [点击跳转](https://www.pdfgear.com/)
+
 ### ABCDPDF
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629233112795.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
