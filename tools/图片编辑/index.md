@@ -5,6 +5,33 @@
 
 <!--more-->
 
+### Hama
+
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704221744542.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：[Hama](https://www.hama.app/zh) - AI 擦除图像中不需要的部分
+
+>📄上传图片，用橡皮擦擦掉掉不需要的部分，稍等片刻便会给你一张你想要的效果图
+>
+>使用完全免费，但是只支持导出 720 像素的图片。效果上不如 Photoshop 的 Firefly AI ，但是胜在处理速度够快
+
+🌐 资源地址：[点击跳转](https://www.hama.app/zh)
+
+### Background Removal
+
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704221142982.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🖼[Background Removal](https://github.com/imgly/background-removal-js)  - 又一个开源的在线抠图工具
+
+>📄抠图工具层出不穷，这个工具最大的特点就是可以在浏览器中进行，不需要服务器，所有免费使用的同时也能够保证隐私
+>
+>上传一张图片，顷刻间你便可以获得一张抠好的图像，然后可以对图像进行在线编辑等操作
+>
+>📑相关阅读
+>
+
+🌐 资源地址：[点击跳转](https://github.com/imgly/background-removal-js) | 🌐[在线体验](https://img.ly/showcases/cesdk/web/background-removal/web)
+
 ### Photoaid Tool
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629232244892.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  

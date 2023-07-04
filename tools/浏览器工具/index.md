@@ -1,6 +1,18 @@
 # 浏览器工具
 
 
+### 猫抓
+
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704211022115.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：😹[猫抓](https://github.com/xifangczy/cat-catch) - 一款开源的资源嗅探插件
+
+>📄通过猫爪插件你可以轻松的抓取任意网页的视频图片等资源，并将其保存到本地，还可以自定义抓取格式类型
+>
+>其亮点功能是内置了一个的 m3u8 格式解析器，能够轻松合并下载的 m3u8 文件
+
+🌐 资源地址：🧩[开源地址](https://github.com/xifangczy/cat-catch) | 📖[文档](https://o2bmm.gitbook.io/cat-catch/)
+
 ### V2EX Polish
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629225754933.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    

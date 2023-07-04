@@ -5,6 +5,18 @@
 
 <!--more-->
 
+### LingoHut 
+
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704205713187.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：[LingoHut](https://www.lingohut.com/zh) - 一个免费学外语的网站
+
+>📄[LingoHut](https://www.lingohut.com/zh) 的全称是 Language-Learning Project，翻译成中文是全球人道主义语言学习项目
+>
+>你可以在此网站免费学习 50 种语言，每种语言都有多个课时，学完之后可以进行简单的交流
+
+🌐 资源地址：[点击跳转](https://www.lingohut.com/zh)
+
 ### up-6.com
 
 {{< image src="https://bib0.com/xc/i/2023/06/26/image-20230626213038698.png" alt="-" title="Fun's images">}}     

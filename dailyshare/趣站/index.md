@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### 斯瓦尔巴全球种子库
+
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704205821759.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🌱[斯瓦尔巴全球种子库全景体验](https://virtualtourcompany.co.uk/GlobalSeedVault/index.html)
+
+>📄斯瓦尔巴全球种子库又被叫做世界末日种子库、末日地窖、全球农业的诺亚方舟
+>
+>它是挪威政府于北冰洋斯瓦巴群岛上建造的非营利储藏库，用于保存全世界的农作物种子，为全球最大的种子库
+>
+>你可以通过此网站探索代表着世界上最大的作物多样性集合的种子库，看完之后相信你会有点震撼
+
+🌐 资源地址：[点击跳转](https://virtualtourcompany.co.uk/GlobalSeedVault/index.html)
+
 ### My Family Tree
 
 {{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701222059664.png" alt="-" title="Fun's images">}}  

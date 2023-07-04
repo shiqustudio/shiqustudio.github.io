@@ -6,6 +6,20 @@
 
 <!--more-->
 
+### 中国诗词
+
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704210714073.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：[中国诗词](https://shici.store/huajianji/) - 最全中文诗歌古典文集数据库
+
+>📄网站收录了唐宋两朝近一万四千古诗人， 接近 5.5 万首唐诗加26万宋诗，两宋时期1564位词人，21050首词
+>
+>并且数据库是开源的，你可以更方便快速的构建诗词类应用程序
+
+🌐 资源地址：🧩[开源地址](https://github.com/chinese-poetry/chinese-poetry)
+
+### 书画图
+
 {{< image src="https://bib0.com/xc/i/2023/05/28/image-20230519213205144.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📃分享几个古书/古画/古地图/历史网站

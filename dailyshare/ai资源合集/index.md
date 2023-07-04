@@ -5,6 +5,22 @@
 
 <!--more-->
 
+### Skybox AI
+
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704205254617.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**[Skybox AI](https://skybox.blockadelabs.com/) - 一款免费的 AI 绘制 3D 场景工具**
+
+⭐️  资源描述：
+
+>📄在输入框内输入一些 AI 绘画提示（英文），然后在左侧工具栏内点击画笔工具绘制一些简单的线条，最后点击「GENERATE」稍等片刻就可以生产一副 3D 场景绘画
+>
+>是的你可以拖拽查看生成的 3D 场景
+>
+>出了默认的数字绘画风格，网站还提供了写实、动画、科幻等近 30 种绘画风格，这些都可以免费使用
+
+🌐 资源地址：[资源地址](https://skybox.blockadelabs.com/) 
+
 ### Where To
 
 {{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701213848725.png" alt="-" title="Fun's images">}} 
