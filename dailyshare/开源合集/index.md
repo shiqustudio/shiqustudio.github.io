@@ -5,6 +5,66 @@
 
 <!--more-->
 
+### Tabby
+
+{{< image src="https://bib0.com/xc/i/2023/07/06/image-20230706221732473.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⚙️[Tabby](https://tabby.sh/) - 一个开源的、高度可定制的高颜值终端
+
+>📄它支持持 Local，SSH，Telnet，Serial 连接，但我们主要用于 SSH 连接；其最大的特点便是可高度可定制化，拥有丰富的插件库和界面自定义功能
+>
+>表明看似花里胡哨，实则内涵丰富，它还可以通过简单设置进行 Socks5 代理连接、堡垒机连接等等...
+
+🌐 资源地址：🧩[开源地址](https://github.com/Eugeny/tabby) | [点击跳转](https://tabby.sh/) | ⬇️[下载页面](https://github.com/Eugeny/tabby/releases/tag/v1.0.197)
+
+### Hitomi Downloader
+
+{{< image src="https://bib0.com/xc/i/2023/07/06/how_to_download.jif" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：▶️[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一款开源的在线视频下载工具
+
+>📄它支持 [1200+ 在线视频网站](http://ytdl-org.github.io/youtube-dl/supportedsites.html)，常见的网站基本都支持
+>
+>只需要复制需要下载的视频页面地址，它便会开始解析下载，并同时支持 BT 和 磁力
+>
+>😄今天试下载 YouTube 频道的视频，下载速度基本带宽拉满了，体验非常好
+
+🌐 资源地址：🧩[开源地址](https://github.com/KurtBestor/Hitomi-Downloader) | ⬇️[下载地址](https://github.com/KurtBestor/Hitomi-Downloader/releases) | 🌐[插件地址](https://github.com/KurtBestor/Hitomi-Downloader/wiki/Chrome-Extension)
+
+>📑**相关阅读**
+>
+>⏬分享一些开源的视频下载工具，比起第三方网页工具的优点是限制少速度快，缺点是需要自己部署
+>
+>[121k youtube-dl：支持网站最多](https://github.com/ytdl-org/youtube-dl)
+>
+>[47.8k yt-dlp：楼上的修改版](https://github.com/yt-dlp/yt-dlp)
+>
+>[47.4k you-get：支持国内网站最多](https://github.com/soimort/you-get)
+>
+>[21.1k lux：新晋下载工具，主打速度快](https://github.com/iawia002/lux)
+>
+>[14k Hitomi-Downloader：有客户端，支持多种文件格式](https://github.com/KurtBestor/Hitomi-Downloader)
+>
+>[5.4k BBDown：B站视频下载](https://github.com/nilaoda/BBDown)
+>
+>[1.6k tdl：电报无限制下载工具](https://github.com/iyear/tdl)
+
+### iStoreOS
+
+{{< image src="https://bib0.com/xc/i/2023/07/06/geek-preview1.9987f6a0.jpg" alt="-" title="Fun's images">}}  
+
+{{< image src="https://bib0.com/xc/i/2023/07/06/geek-istore-preview2.5e9c0323.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⚙️[iStoreOS](https://www.istoreos.com/) - 一个开源易上手的的路由、NAS 系统
+
+>📄iStoreOS 是一个基于原版 OpenWRT 的入门级的路由、NAS 系统
+>
+>它提供了入门极客、小白路由、轻 NAS 三个版本供你选择，支持硬件非常多，还内置了软件商店，极大降低了玩机门槛
+>
+>❓有人问这玩意可以干嘛，它可以用作你的私人网盘/同步相册/私人影院等一系列个人化的数字服务
+
+🌐 资源地址：🧩[开源地址](https://github.com/istoreos/istoreos) | 📖[文档](https://doc.linkease.com/zh/guide/istoreos/storeos_introduce.html)
+
 ### SafeLine
 
 {{< image src="https://bib0.com/xc/i/2023/07/04/68747470733a2f2f7761662d63652e63" alt="-" title="Fun's images">}}  
@@ -368,6 +428,20 @@
 >后端功能也比较完整，适应国人使用习惯，感兴趣的可以尝试搭建一下
 
 🌐 资源地址：🧩[Github地址](https://github.com/linhaojun857/aurora)|▶️[演示](https://www.linhaojun.top/) | [部署教程](https://www.bilibili.com/video/BV1oP411T7hA/)
+
+### Qexo
+
+{{< image src="https://bib0.com/xc/i/2023/07/06/e8942859.png" alt="-" title="Fun's images">}}  
+
+🆔  资源名称：🌐[Qexo](https://github.com/Qexo/Qexo) - 一个美观、强大的在线静态博客管理器
+
+⭐️  资源描述：
+
+>📄它可以为 Hexo、Hugo、Valaxy 等多种静态博客增加一个在线管理后台，不再局限于本机，可随时随地写博客发布
+>
+>该项目提供了详细地使用文档，尽量帮你实现了零成本写博客
+
+🌐 资源地址：🧩[Github地址](https://github.com/Qexo/Qexo)
 
 ### 视频漫画媒体容器 APP
 
