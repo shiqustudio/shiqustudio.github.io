@@ -19,7 +19,7 @@
 
 ### Hitomi Downloader
 
-{{< image src="https://bib0.com/xc/i/2023/07/06/how_to_download.jif" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/06/how_to_download.gif" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：▶️[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 一款开源的在线视频下载工具
 
@@ -29,7 +29,7 @@
 >
 >😄今天试下载 YouTube 频道的视频，下载速度基本带宽拉满了，体验非常好
 
-🌐 资源地址：🧩[开源地址](https://github.com/KurtBestor/Hitomi-Downloader) | ⬇️[下载地址](https://github.com/KurtBestor/Hitomi-Downloader/releases) | 🌐[插件地址](https://github.com/KurtBestor/Hitomi-Downloader/wiki/Chrome-Extension)
+🌐 资源地址：🧩[开源地址](https://github.com/KurtBestor/Hitomi-Downloader) | ⬇️[下载地址](https://github.com/KurtBestor/Hitomi-Downloader/releases) | [插件地址](https://github.com/KurtBestor/Hitomi-Downloader/wiki/Chrome-Extension)
 
 >📑**相关阅读**
 >
