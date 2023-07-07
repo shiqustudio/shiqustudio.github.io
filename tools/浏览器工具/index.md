@@ -1,6 +1,17 @@
 # 浏览器工具
 
 
+### 油小猴
+
+{{< image src="https://bib0.com/xc/i/2023/07/07/image-20230707092718422.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：👉一个汇聚了各种黑科技的小站
+
+>📄通过[油小猴](https://www.youxiaohou.com/)你可以轻松的找到各种油猴工具，网盘下载、网盘识别、网页加速、翻译助手、超级书签等等。
+>
+
+🌐 资源地址：[点击跳转](https://www.youxiaohou.com/)
+
 ### 猫抓
 
 {{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704211022115.png" alt="-" title="Fun's images">}}  

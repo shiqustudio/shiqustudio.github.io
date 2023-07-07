@@ -227,7 +227,7 @@
 
 ### KeePassXC
 
-{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629232529112.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/07/image-20230629232529112.jpeg" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：📟[KeePassXC](https://keepassxc.org/) - 一款开源且跨平台的密码管理器
 
