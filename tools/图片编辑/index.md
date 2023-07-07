@@ -27,8 +27,6 @@
 >
 >上传一张图片，顷刻间你便可以获得一张抠好的图像，然后可以对图像进行在线编辑等操作
 >
->📑相关阅读
->
 
 🌐 资源地址：[点击跳转](https://github.com/imgly/background-removal-js) | 🌐[在线体验](https://img.ly/showcases/cesdk/web/background-removal/web)
 
@@ -41,6 +39,14 @@
 >📄网站共包含 14 个在线图像处理工具，比较实用的有图像放大和抠图，速度和效果都挺好，并且是完全免费的
 
 🌐 资源地址：[点击跳转](https://photoaid.com/tools) 
+
+### photofun
+
+{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625212954282.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：无限次免费无损压缩，可以收藏一下。
+
+🔗 资源链接：[点击跳转](https://www.photofun.cn/compress/)
 
 ### FotoSketcher
 
