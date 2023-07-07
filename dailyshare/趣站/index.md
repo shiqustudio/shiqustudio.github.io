@@ -5,6 +5,18 @@
 
 <!--more-->
 
+### 我的3D房间
+
+{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701220031995.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🏠[我的3D房间](https://github.com/brunosimon/my-room-in-3d) - 一个开源的Three.js项目
+
+>📃你可以把这个项目搬到你自己的个人网站上去，效果一下起来了
+>
+>Three.js还是强大呀，感兴趣的可以去官网看更多[实现案例](https://threejs.org/)
+
+🌐 资源地址：🧩[开源地址](https://github.com/brunosimon/my-room-in-3d)
+
 ### 亨利·赫弗南
 
 {{< image src="https://bib0.com/xc/i/2023/07/06/image-20230706215050609.png" alt="-" title="Fun's images">}}  

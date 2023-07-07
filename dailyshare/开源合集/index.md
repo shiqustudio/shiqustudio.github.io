@@ -67,7 +67,7 @@
 
 ### SafeLine
 
-{{< image src="https://bib0.com/xc/i/2023/07/04/68747470733a2f2f7761662d63652e63" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/04/68747470733a2f2f7761662d63652e63.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：⚡️[SafeLine（雷池）](https://github.com/chaitin/safeline) - 一款开源的 Web 应用防火墙
 
@@ -224,18 +224,6 @@
 >有创意的朋友赶紧试一下，还可以把你的创作发到评论区让大家欣赏
 
 🌐 资源地址：[资源地址](https://www.pixilart.com/draw) | [pixilart画廊](https://www.pixilart.com/gallery) | [主页](https://www.pixilart.com/)
-
-### 我的3D房间
-
-{{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701220031995.png" alt="-" title="Fun's images">}}  
-
-⭐️  资源描述：🏠[我的3D房间](https://github.com/brunosimon/my-room-in-3d) - 一个开源的Three.js项目
-
->📃你可以把这个项目搬到你自己的个人网站上去，效果一下起来了
->
->Three.js还是强大呀，感兴趣的可以去官网看更多[实现案例](https://threejs.org/)
-
-🌐 资源地址：🧩[开源地址](https://github.com/brunosimon/my-room-in-3d)
 
 ### KeePassXC
 
