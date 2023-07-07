@@ -5,6 +5,30 @@
 
 <!--more-->
 
+### Gopeed 
+
+{{< image src="https://bib0.com/xc/i/2023/07/08/photo_2023-07-08_07-19-19.jpeg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⬇️[Gopeed](https://gopeed.com/zh-CN) - 一个开源并支持全平台使用的高速下载器
+
+>📄它支持HTTP、BitTorrent、Magnet 等协议，由于是使用 Flutter 开发，所以体积也非常小巧
+>
+>体验了一番，除了 BT 的速度一般，其他方式下载速度还是不错的
+>
+>❌说是支持全平台，其实不支持 iOS，猜测是 Apple 的政策原因
+
+🌐 资源地址：🙃[开源地址](https://github.com/GopeedLab/gopeed) | [点击跳转](https://gopeed.com/zh-CN) | 📖[使用指南](https://github.com/GopeedLab/gopeed/blob/main/README_zh-CN.md)
+
+### ICP Query
+
+{{< image src="https://bib0.com/xc/i/2023/07/08/photo_2023-07-08_07-15-39.jpeg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🔎[ICP Query](https://github.com/yuedanlabs/icp-query-extension) - 一个开源的网站信息查询插件
+
+>📄此插件可以快速查看国内网站的 ICP 备案信息，还可以查看 Whois、DNS、服务器位置及运营商信息
+
+🌐 资源地址：🧩[开源地址](https://github.com/yuedanlabs/icp-query-extension) |⬇️[Chrome 商店](https://chrome.google.com/webstore/detail/icp-query-extension/plmfnmaihcmijdanpbondfejclejejfa)
+
 ### Tabby
 
 {{< image src="https://bib0.com/xc/i/2023/07/06/image-20230706221732473.png" alt="-" title="Fun's images">}}  

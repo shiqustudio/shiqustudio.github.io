@@ -5,6 +5,18 @@
 
 <!--more-->
 
+### Super designer
+
+{{< image src="https://bib0.com/xc/i/2023/07/08/image-20230708071351879.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[**🖌️Super designer - 一个在线设计工具合集网站**](https://superdesigner.co/)
+
+⭐️  资源描述：
+
+>📄轻点几下，就可以创造出独特的设计，包括 SVG背景图、渐变图、形状、CSS等；完全免费无需登录
+
+🌐 资源地址: [点击跳转](https://superdesigner.co/)
+
 ### Good Design Tools
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629222533091.png" alt="-"  title="Fun's images" >}}    
