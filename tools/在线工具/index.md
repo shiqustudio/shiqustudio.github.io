@@ -6,6 +6,14 @@
 
 <!--more-->
 
+### 精准云工具
+
+{{< image src="https://bib0.com/xc/i/2023/07/08/image-20230708134542643.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：🔘 在线工具大全，种类丰富、功能非常多。
+
+🔗 资源链接：[点击跳转](https://tool.caoniang.com/)
+
 ### Flowchart-fun
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629220453968.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
