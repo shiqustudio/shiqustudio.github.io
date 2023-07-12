@@ -5,6 +5,26 @@
 
 <!--more-->
 
+### PromptAppGPT
+
+{{< image src="https://bib0.com/xc/i/2023/07/12/photo_2023-07-12_21-33-35.jpeg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🧑‍💻[PromptAppGPT](https://promptappgpt.wangzhishi.net/) - 首个自研全开源低代码提示的应用快速开发框架
+
+>📄PromptAppGPT 旨在基于 GPT 用自然语言开发应用程序
+>
+>它包含基于低代码提示的开发、GPT文本生成、DALLE图像生成、在线提示编辑器+编译器+运行器、自动用户界面生成、支持插件扩展等功能
+>
+>⚙️快速上手
+>
+>使用非常简单，进入界面先在右上角设置 ChatGPT API key，选择APP输入提示即可
+>
+>第一次使用先看看作者提供的示例程序，很快就可以上手
+>
+>👤开发者是[中国计算机学会理论计算机科学专业委员会](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCTCS/)委员张长旺
+
+🌐 资源地址：🧩[开源地址](https://github.com/mleoking/PromptAppGPT) | [点击跳转](https://promptappgpt.wangzhishi.net/) | [示例程序](https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md)
+
 ### Gopeed 
 
 {{< image src="https://bib0.com/xc/i/2023/07/08/photo_2023-07-08_07-19-19.jpeg" alt="-" title="Fun's images">}}  
@@ -440,6 +460,18 @@
 >后端功能也比较完整，适应国人使用习惯，感兴趣的可以尝试搭建一下
 
 🌐 资源地址：🧩[Github地址](https://github.com/linhaojun857/aurora)|▶️[演示](https://www.linhaojun.top/) | [部署教程](https://www.bilibili.com/video/BV1oP411T7hA/)
+
+### Jasmine
+
+{{< image src="https://bib0.com/xc/i/2023/07/12/theme.png" alt="-" title="Fun's images">}}  
+
+🆔  资源名称：🌐[Jasmine](https://github.com/liaocp666/Jasmine) - 一款开源的 Typecho 博客主题
+
+⭐️  资源描述：
+
+>📄偶然刷到开发者的博客，发现还挺清新脱俗的，让人惊喜的是开发者还开源了此主题，体验还不错
+
+🌐 资源地址：🧩[Github地址](https://github.com/liaocp666/Jasmine)|▶️[演示](https://www.liaocp.cn/) | 📖[文档](https://github.com/liaocp666/Jasmine/wiki)
 
 ### Qexo
 

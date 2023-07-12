@@ -1,6 +1,18 @@
 # 浏览器工具
 
 
+### Mobile FIRST
+
+{{< image src="https://bib0.com/xc/i/2023/07/12/screenshot_1.c0cab30.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：📱[Mobile FIRST](https://www.webmobilefirst.com/en/) - 一个模拟手机访问网站的浏览器插件
+
+>📄这个插件可以方便地在浏览器中模拟手机/平板/笔记本/TV/手表访问当前网页，内置数量众多设备
+>
+>除了模拟访问之外，还可以对当前模拟设备截图、录屏；支持中文
+
+🌐 资源地址：[点击跳转](https://www.webmobilefirst.com/en/)
+
 ### 油小猴
 
 {{< image src="https://bib0.com/xc/i/2023/07/07/image-20230707092718422.png" alt="-" title="Fun's images">}}  

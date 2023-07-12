@@ -4,9 +4,17 @@
     <link>https://shiqustudio.github.io/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</lastBuildDate>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>网络工具</title>
+  <link>https://shiqustudio.github.io/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</link>
+  <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</guid>
+  <description><![CDATA[网络工具]]></description>
+</item>
+<item>
   <title>搜索引擎</title>
   <link>https://shiqustudio.github.io/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
   <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
@@ -99,16 +107,6 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/2023/06/28/image-20230628075736696.png" referrerpolicy="no-referrer">
       </div><p>有趣的站点</p>]]></description>
-</item>
-<item>
-  <title>时光邮局</title>
-  <link>https://shiqustudio.github.io/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</link>
-  <pubDate>Mon, 26 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/27/header4.jpg" referrerpolicy="no-referrer">
-      </div><p>写一封信，透过时光，留给未来自己的阅读</p>]]></description>
 </item>
 </channel>
 </rss>

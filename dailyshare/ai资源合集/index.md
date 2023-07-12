@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### Samantha AI
+
+{{< image src="https://bib0.com/xc/i/2023/07/12/image-20230712212911379.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**[❤️Samantha AI](https://www.meetsamantha.ai/) - 一个 AI 聊天机器人**
+
+⭐️  资源描述：
+
+>📄萨曼莎这个名字应该是取自十年前的电影[《她》](https://movie.douban.com/subject/6722879//)，看这部电影的时候我还在上学，那时候对 AI 的概念就是一个聊天对象
+>
+>现在这个网站把电影中的 AI 实现了，你可以和她聊任何内容，有趣的是TA会在对话框旁边显示此刻的心理活动...同时支持中文
+
+🌐 资源地址：[资源地址](https://www.meetsamantha.ai/) 
+
 ### Skybox AI
 
 {{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704205254617.png" alt="-" title="Fun's images">}} 

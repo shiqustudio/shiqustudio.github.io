@@ -5,6 +5,22 @@
     <description>分类 - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
       <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>软件</title>
+  <link>https://shiqustudio.github.io/categories/%E8%BD%AF%E4%BB%B6/</link>
+  <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/categories/%E8%BD%AF%E4%BB%B6/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>网络</title>
+  <link>https://shiqustudio.github.io/categories/%E7%BD%91%E7%BB%9C/</link>
+  <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/categories/%E7%BD%91%E7%BB%9C/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>搜索引擎</title>
   <link>https://shiqustudio.github.io/categories/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
   <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
@@ -66,22 +82,6 @@
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://shiqustudio.github.io/categories/%E8%80%83%E7%A0%94/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>灵感</title>
-  <link>https://shiqustudio.github.io/categories/%E7%81%B5%E6%84%9F/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/%E7%81%B5%E6%84%9F/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>设计</title>
-  <link>https://shiqustudio.github.io/categories/%E8%AE%BE%E8%AE%A1/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/%E8%AE%BE%E8%AE%A1/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
