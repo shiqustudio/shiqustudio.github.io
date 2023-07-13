@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### Clipdrop
+
+{{< image src="https://bib0.com/xc/i/2023/07/13/image-20230713214859715.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🖼️[Clipdrop](https://clipdrop.co/tools) - 一款在线的 AI 修图工具
+
+> 📄Clipdrop 由 [stability.ai](https://stability.ai/) 开发，和知名开源 AI 绘画程序 StableDiffusion 同属以一家
+>
+> 网站包含 9 个功能强大的 AI 图像工具，擦除图像元素、一件抠图、图像打光、AI 绘画等等
+>
+> 🗣之前介绍过的几个工具同样出自这个网站
+
+🌐 资源地址：[点击跳转](https://clipdrop.co/tools)
+
 ### Hama
 
 {{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704221744542.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  

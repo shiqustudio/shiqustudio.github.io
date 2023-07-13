@@ -5,6 +5,22 @@
 
 <!--more-->
 
+### FreeGPT WebUI
+
+{{< image src="https://bib0.com/xc/i/2023/07/13/photo_2023-07-12_21-56-38.jpeg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：😸[FreeGPT WebUI](https://github.com/ramonvc/freegpt-webui) - 一个无需密钥便可以免费使用 ChatGPT3.5/4 的 Web 项目
+
+>📄该项目基于「gpt4free」提供的 API，可以免费使用 ChatPGT3.5/4 模型
+>
+>特色功能是提供了 ChatGPT 增强版—越狱模式，由于知识储备有限，我暂时也不知道越狱能提供什么，总之看起来很牛逼
+>
+>作者还趁热加入了楼上的 Claude 2.0，可以去演示网址体验一下，速度不如官方
+>
+>⚙️部署也非常简单，可以直接用开发者提供的 Doker 命令一键安装到你的服务器上私人使用
+
+🌐 资源地址：🧩[开源地址](https://github.com/ramonvc/freegpt-webui) | 🌐[演示网址](https://chat.ramxn.dev/chat/)
+
 ### PromptAppGPT
 
 {{< image src="https://bib0.com/xc/i/2023/07/12/photo_2023-07-12_21-33-35.jpeg" alt="-" title="Fun's images">}}  

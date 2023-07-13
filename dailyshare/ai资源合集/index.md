@@ -5,6 +5,34 @@
 
 <!--more-->
 
+### MindOS
+
+{{< image src="https://bib0.com/xc/i/2023/07/13/image-20230713214407897.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：**🧠[MindOS](https://mindos.com/) - 一个 0 门槛的自主人工智能系统**
+
+⭐️  资源描述：
+
+>📄为啥说零门槛，因为之前介绍的两个自主人工智能都有一定的上手门槛
+>
+>而今天介绍的 MindOS 经过我的深度体验，确实把「自主人工智能」做到了任何人可以上手的程度；看到英文也无需害怕，它支持中文对话
+>
+>⚙️使用
+>
+>⏺进入首页映入眼帘的数量庞大的 AI 助理，你在这里可以选择新闻助手、电影助手、开发助手、设计助手、方案助手，甚至还有 [KUN](https://mindos.com/#/chat/116196941297225728)  🐔🏀
+>
+>⏺点击聊天无从下手的话，可以点击上方的「User Guide」查看教程
+>
+>⏺点击「Create New Genius」，完善各项参数设置，你便可以创建一个只属于你自己的 AI 助理，极具个性化！
+>
+>⏺免费用户每月有 200 积分，输入 OpenAI Key 可以获取更多次数
+>
+>❓什么是「自主人工智能」
+>
+>自主人工智能被定义为一种人工智能形式，在没有人类干预的情况下自主执行任务；可以更简单地使唤 AI ，而无需输入一句又一句的 Prompt
+
+🌐 资源地址：[资源地址](https://mindos.com/) | 📖[文档](https://docs.mindverse.ai/overview/get-started) | 💬[和COO对话](https://mindos.com/#/chat/124188692377112576)
+
 ### Samantha AI
 
 {{< image src="https://bib0.com/xc/i/2023/07/12/image-20230712212911379.png" alt="-" title="Fun's images">}} 
