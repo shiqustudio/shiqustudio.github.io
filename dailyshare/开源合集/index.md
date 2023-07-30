@@ -33,7 +33,7 @@
 
 ### WebStackHugo
 
-{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730163243797.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730190752197.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：🌐[WebStackHugo](https://github.com/shenweiyan/WebStack-Hugo) - 一个基于 Hugo 的静态响应式网址导航主题
 
