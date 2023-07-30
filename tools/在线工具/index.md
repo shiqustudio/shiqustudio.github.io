@@ -6,6 +6,58 @@
 
 <!--more-->
 
+### 深言达意
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730181804652.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：📝[深言达意](https://www.shenyandayi.com/) - 一个帮你找到想要的词语和句子的网站，拯救词不达意
+
+>📄深言达意整合并升级了 [WantWords（反向词典）](https://wantwords.net/)和 [WantQuotes（据意查句）](https://wantquotes.net/)的功能
+>
+>旨在希望通过找到合适的词句，帮助你更好的表达思想
+
+🔗 资源链接：[点击跳转](https://www.shenyandayi.com/) | 🌐[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+
+### 反向词典
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730181216524.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：📔[反向词典](https://wantwords.net/) - 目前唯一支持中文及跨语言查询的在线反向词典
+
+>📃这个词典可通过描述意思来查找词语，基于前沿AI算法实现
+>
+>由清华大学自然语言处理实验室研发
+
+🔗 资源链接：[点击跳转](https://wantwords.net/) | 🧩[开源地址](https://github.com/thunlp/WantWords)
+
+### 据意查句
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730181358156.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：📘[据意查句](https://wantquotes.net/) - 一个可以根据意思查询名句的网站
+
+>📄输入你想说的话，然后筛选现代、古诗文、熟语、歇后语类型，网站便会输出包含你想说的话的名言名句
+>
+>由清华大学自然语言处理实验室出品
+
+🔗 资源链接：[点击跳转](https://wantquotes.net/)
+
+### 爱校对
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730181524980.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：✏️[爱校对](https://www.ijiaodui.com/) - 一个免费的文字、文本AI校对纠错工具
+
+>📃工具由清华大学人机交互实验室提供算法支持
+>
+>旨在为文字工作者提供便捷的AI纠错服务
+>
+>降低人工校对成本，提高校对效率和准确率
+>
+>支持wps/word插件
+
+🔗 资源链接：[点击跳转](https://www.ijiaodui.com/)
+
 ### 精准云工具
 
 {{< image src="https://bib0.com/xc/i/2023/07/08/image-20230708134542643.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

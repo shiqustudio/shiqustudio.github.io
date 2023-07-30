@@ -1,6 +1,20 @@
 # 软件资源
 
 
+### 开源软件杂志
+
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230730170711848.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+📁 网站简介：🌐[开源软件杂志](https://www.containerize.com/zh/) - 一个专门收集开源软件的网站
+
+>📄该网站收集了内容管理、写博客、在线聊天、论坛、客户支持、营销自动化等 30+ 个分类共接近 300 个开源软件
+>
+>并且每个开源软件页面都有详细介绍，包括简介、系统要求、安装教程等信息
+>
+>通过此网站可以快速定位你想要使用的开源软件
+
+🔗 资源地址：[点击跳转](https://www.containerize.com/zh/)
+
 ### FileEagle
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154659445.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    

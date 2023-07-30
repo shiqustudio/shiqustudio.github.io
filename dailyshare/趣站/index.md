@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Emoji to image
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730172005884.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⚙️[Emoji to image](https://emoji.aranja.com/) - 一个 emoji 导出工具
+
+>📄网站功能很简单，选择 emoji 表情，然后就可以下载高清的 PNG 图片
+
+🌐 资源地址：🧩[点击跳转](https://emoji.aranja.com/)
+
 ### 我的3D房间
 
 {{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701220031995.png" alt="-" title="Fun's images">}}  

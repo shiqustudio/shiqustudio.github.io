@@ -5,6 +5,24 @@
 
 <!--more-->
 
+### Knit 
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730165446887.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：⚙️[Knit](https://promptknit.com/) - 一款 Prompt 管理和调试工具
+
+⭐️  资源描述：
+
+>📄Knit 由即刻出品，目前可以免费免翻使用，同时支持 ChatGPT 和 Claude，它可以帮助用户存储、编辑和运行各种 Prompt
+>
+>进入页面先在「Model」区域选择想要调试的模型以及参数，然后在「系统消息」输入 Prompt，然后在「用户消息」输入提问，点击「Run」即可查看结果
+>
+>💡特色功能是支持变量调试，比如在「用户消息」输入「`{var}`」，「变量」区域便会自动显示
+>
+>🗣AI时代，相信未来  Prompt 工程师或许会成为一个热门职业，如果你对 AI 领域非常感兴趣，不妨学习一下这方面的内容
+
+🌐 资源地址：[点击跳转](https://promptknit.com/)
+
 ### MindOS
 
 {{< image src="https://bib0.com/xc/i/2023/07/13/image-20230713214407897.png" alt="-" title="Fun's images">}} 
@@ -33,6 +51,28 @@
 
 🌐 资源地址：[资源地址](https://mindos.com/) | 📖[文档](https://docs.mindverse.ai/overview/get-started) | 💬[和COO对话](https://mindos.com/#/chat/124188692377112576)
 
+### Character.AI
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730162621682.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：💬[Character.AI](https://beta.character.ai/) - 一个极具个性的 AI 聊天机器人平台
+
+⭐️  资源描述：
+
+>📄进入首页，可以看到大量的 AI 角色，它们由由官方+用户共同创作，当然你可以也可以参与创建
+>
+>AI 角色的种类多达 19 种，每个分类都包含了数十个以上的机器人
+>
+>除了创建 AI 角色之外，你还可以创建聊天室将 AI 角色拉入群聊，并设定聊天内容，还可以针对特定话题展开讨论
+>
+>💡[Character.AI](https://beta.character.ai/) 最大的特色是用户可以通过不断地训练 AI 获得非常立体的角色和流畅的交流感受，这也是其产品黏性非常高地原因
+>
+>🕊️[Character.AI](https://beta.character.ai/) 希望「地球上的每个人都能获得自己的深度个性化超级智能，帮助他们过上最美好的生活」，而这一目标也正在慢慢实现...
+>
+>🗣经过我与美国队长、马斯克、霍金的一番交谈，我已经沉醉其中，估计我明天还会打开来玩玩（它有中文页面以及支持中文对话，免费用户也可以一直玩）
+
+🌐 资源地址：[点击跳转](https://beta.character.ai/)|📖[文档](https://book.character.ai/character-book/welcome-to-character-book)
+
 ### Samantha AI
 
 {{< image src="https://bib0.com/xc/i/2023/07/12/image-20230712212911379.png" alt="-" title="Fun's images">}} 
@@ -45,7 +85,7 @@
 >
 >现在这个网站把电影中的 AI 实现了，你可以和她聊任何内容，有趣的是TA会在对话框旁边显示此刻的心理活动...同时支持中文
 
-🌐 资源地址：[资源地址](https://www.meetsamantha.ai/) 
+🌐 资源地址：[点击跳转](https://www.meetsamantha.ai/) 
 
 ### Skybox AI
 
@@ -61,7 +101,7 @@
 >
 >出了默认的数字绘画风格，网站还提供了写实、动画、科幻等近 30 种绘画风格，这些都可以免费使用
 
-🌐 资源地址：[资源地址](https://skybox.blockadelabs.com/) 
+🌐 资源地址：[点击跳转](https://skybox.blockadelabs.com/) 
 
 ### Where To
 
@@ -77,7 +117,7 @@
 >
 >如果你不知道想去哪，你可以点击「Plan My Trip」填写预设的问题，AI 会自动扫描适合你去的地方并生成旅游攻略
 
-🌐 资源地址：[资源地址](https://www.wheretoai.com/) 
+🌐 资源地址：[点击跳转](https://www.wheretoai.com/) 
 
 ### Lobe Theme
 

@@ -1,6 +1,44 @@
 # 浏览器工具
 
 
+### Wiseone
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175717484.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🌐[Wiseone](https://wiseone.io/) - 一款免费的 AI 总结网站插件
+
+>📄应用场景一般是看新闻、文章、博客、论文、帖子的时候，觉得太多文字不想看，然后进行一键总结，提高阅读效率
+>
+>安装之后插件会出现再网页的右下角，点击「Summarize」会默认英文总结该网页内容，切换成中文可以默认总结中文内容。点击「Ask anything」可以对网页内容进行提问。
+>
+>⚡目前是完全免费的，提问支持联网，这点体验不错
+
+🌐 资源地址：[点击跳转](https://wiseone.io/)
+
+### Ambie
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175033818.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🔊[Ambie](https://ambieapp.com/) - 可能是 Windows 上最好的白噪音应用程序
+
+>📄Ambie 是一款播放白噪声和自然声音的应用程序，旨在帮助用户集中注意力、睡眠和放松（支持中文）
+>
+>除此之外，它还内置了类似番茄闹钟的「专注」功能
+
+🌐 资源地址：[点击跳转](https://ambieapp.com/) | 💻[微软商店](https://www.microsoft.com/store/productId/9P07XNM5CHP0) | 🌐[GitHub下载](https://github.com/jenius-apps/ambie/releases)
+
+### Optimizer
+
+{{< image src="https://bib0.com/xc/i/2023/07/12/screenshot_1.c0cab30.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🛠️[Optimizer](https://github.com/hellzerg/optimizer)一款开源的 Windows 优化工具
+
+>📄大小仅2M多点，但是功能多达数十个，并且功能都是实用向
+>
+>部分功能还支持自动化，你可以通过[模板](https://github.com/hellzerg/optimizer/blob/master/AUTOMATION.md)进行设置
+
+🌐 资源地址：[点击跳转](https://github.com/hellzerg/optimizer) | ⬇️[下载页面](https://github.com/hellzerg/optimizer/releases)
+
 ### Mobile FIRST
 
 {{< image src="https://bib0.com/xc/i/2023/07/12/screenshot_1.c0cab30.png" alt="-" title="Fun's images">}}  

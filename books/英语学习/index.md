@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### English-Note
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730170242178.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：0️⃣[从 0 开始学习英语语法](https://hzpt-inet-club.github.io/english-note/)
+
+>📄该教程图文并茂，适合小白入门学习英语语法知识
+
+🌐 资源地址：[点击跳转](https://hzpt-inet-club.github.io/english-note/) |🧩[开源地址](https://github.com/hzpt-inet-club/english-note)
+
 ### LingoHut 
 
 {{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704205713187.png" alt="-" title="Fun's images">}}     

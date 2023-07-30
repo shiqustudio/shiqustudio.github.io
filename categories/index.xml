@@ -5,6 +5,14 @@
     <description>分类 - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
       <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>羊毛</title>
+  <link>https://shiqustudio.github.io/categories/%E7%BE%8A%E6%AF%9B/</link>
+  <pubDate>Sat, 29 Jul 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/categories/%E7%BE%8A%E6%AF%9B/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>软件</title>
   <link>https://shiqustudio.github.io/categories/%E8%BD%AF%E4%BB%B6/</link>
   <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
@@ -74,14 +82,6 @@
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://shiqustudio.github.io/categories/ui/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>考研</title>
-  <link>https://shiqustudio.github.io/categories/%E8%80%83%E7%A0%94/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/categories/%E8%80%83%E7%A0%94/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

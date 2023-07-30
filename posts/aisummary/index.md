@@ -5,6 +5,19 @@
 
 <!--more-->
 
+### Llama 2
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730171707014.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：🤖[Meta开源「次世代」大模型 Llama 2，免费可商用](https://ai.meta.com/)
+
+>📄说太深奥我怕大家看不懂，简单说就是暂时不如 ChatGPT3.5 但是可以吊打其他开源模型
+>
+>官方也明确表示，在编码能力方面 Llama2 和 GPT3.5 有「显著的差距」
+>via [oran_ge](https://twitter.com/oran_ge/status/1681427421558636559?s=20)并且目前暂时不支持中文，具体能力怎么样，自行体验！
+
+🌐 资源地址: [点击跳转](https://ai.meta.com/) | ⏺[体验1](https://llama.perplexity.ai/) | [体验2](https://llama2.skirano.repl.co/) | [体验3](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI)
+
 ### chatgpt_academic
 
 {{< image src="https://bib0.com/xc/i/2023/06/24/230598842-1d7fcddd-815d-40ee-af60-baf488a199df.png" alt="-" title="Fun's images">}}     
