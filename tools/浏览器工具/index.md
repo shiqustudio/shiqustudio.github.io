@@ -29,7 +29,7 @@
 
 ### Optimizer
 
-{{< image src="https://bib0.com/xc/i/2023/07/12/screenshot_1.c0cab30.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/30/banner.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：🛠️[Optimizer](https://github.com/hellzerg/optimizer)一款开源的 Windows 优化工具
 

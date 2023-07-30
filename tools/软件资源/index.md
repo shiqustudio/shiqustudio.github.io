@@ -1,9 +1,21 @@
 # 软件资源
 
 
+### 快点软件镜像站
+
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730192855374.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+📁 网站简介：[快点软件镜像站](https://mirrors.quickso.cn/) - 提供开源软件国内镜像信息服务
+
+>📄此网站提供了中国大陆可用的镜像站合集以及前端开源项目 CDN 和 PIP镜像
+>
+>适用场景为无法使用的代理的办公开发环境
+
+🔗 资源地址：[点击跳转](https://mirrors.quickso.cn/)
+
 ### 开源软件杂志
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230730170711848.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730170711848.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 📁 网站简介：🌐[开源软件杂志](https://www.containerize.com/zh/) - 一个专门收集开源软件的网站
 
