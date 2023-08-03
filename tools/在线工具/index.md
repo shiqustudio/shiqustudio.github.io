@@ -118,9 +118,7 @@
 >- 可定制化
 >- 多标签
 
-⏬[下载页面](https://github.com/kimlimjustin/xplorer/releases) | 🧩[开源地址](https://github.com/kimlimjustin/xplorer)
-
-🔗 资源链接：[点击跳转](https://xplorer.space/)
+🔗 资源链接：[点击跳转](https://xplorer.space/) | ⏬[下载页面](https://github.com/kimlimjustin/xplorer/releases) | 🧩[开源地址](https://github.com/kimlimjustin/xplorer)
 
 ### Slidev
 
@@ -134,9 +132,7 @@
 >
 >它有传统 ppt 拥有的所有功能，同时它基于Web驱动，比传统 ppt 来说，具有更大的拓展性和创新性
 
-🧩[开源地址](https://github.com/slidevjs/slidev) | 📖[文档](https://cn.sli.dev/guide/)
-
-🔗 资源链接：[点击跳转](https://cn.sli.dev/)
+🔗 资源链接：[点击跳转](https://cn.sli.dev/) | 🧩[开源地址](https://github.com/slidevjs/slidev) | 📖[文档](https://cn.sli.dev/guide/)
 
 ### boolv工具箱
 
@@ -175,9 +171,7 @@
 
 📁 网站简介：一款强大的编辑和处理图像的桌面工具。可用于创建、调整大小、裁剪、颜色校正和合成图像，支持超过 200 种的图像文件格式，适用于 Windows、Linux 和 macOS 系统。
 
-🔗 资源链接：[点击跳转](https://imagemagick.org/)
-
-🔗 GitHub资源链接：[点击跳转](https://github.com/ImageMagick/ImageMagick/)
+🔗 资源链接：[点击跳转](https://imagemagick.org/) | 🧩[开源地址](https://github.com/ImageMagick/ImageMagick/)
 
 ### LICEcap
 
@@ -209,9 +203,7 @@
 
 📁 网站简介：Windows 的快速文件和程序启动器，能够快速启动应用，方便地搜索文件、书签等内容，支持扩展插件、预览文件、系统命令、游戏模式等功能。
 
-🔗 资源链接：[点击跳转](https://www.flowlauncher.com/)
-
-🔗 GitHub资源链接：[点击跳转](https://github.com/Flow-Launcher/Flow.Launcher)
+🔗 资源链接：[点击跳转](https://www.flowlauncher.com/) | 🧩[开源地址](https://github.com/Flow-Launcher/Flow.Launcher)
 
 ### 找脚本
 
@@ -243,7 +235,7 @@
 
 📁 网站简介：Linux, macOS 与 Windows 上的文件检索工具，含有find以及Everything的各种功能，外加内容查找、上下层目录查找等。
 
-🔗 GitHub资源链接：[点击跳转](https://github.com/cxxsucks/SearchEverywhere/)
+🔗 资源链接：🧩[开源地址](https://github.com/cxxsucks/SearchEverywhere/)
 
 ### SQL Chat
 
@@ -291,9 +283,7 @@
 
 📁 网站简介：开源免费的 Epub 在线阅读器。
 
-🔗 资源链接：[点击跳转](https://www.flowoss.com/zh-CN)
-
-🔗 Github资源链接：[点击跳转](https://github.com/pacexy/flow)
+🔗 资源链接：[点击跳转](https://www.flowoss.com/zh-CN) |🧩[开源地址](https://github.com/pacexy/flow)
 
 ### Wikihow
 
@@ -317,9 +307,7 @@
 
 📁 网站简介：轻松地在 Linux 上运行 Windows 软件和游戏。
 
-🔗 资源链接：[点击跳转](https://usebottles.com/)
-
-🔗 Github资源链接：[点击跳转](https://github.com/bottlesdevs/Bottles)
+🔗 资源链接：[点击跳转](https://usebottles.com/) | 🧩[开源地址](https://github.com/bottlesdevs/Bottles)
 
 ### 库问搜索
 
@@ -343,9 +331,7 @@
 
 📁 网站简介：免费开源的文件传输工具，可以帮助您从命令行轻松快速地共享文件。
 
-🔗 资源链接：[点击跳转](https://transfer.sh/)
-
-🔗 Github资源链接：[点击跳转](https://github.com/dutchcoders/transfer.sh)
+🔗 资源链接：[点击跳转](https://transfer.sh/) |🧩[开源地址](https://github.com/dutchcoders/transfer.sh)
 
 ### 每日报告
 
@@ -385,9 +371,7 @@
 
 📁 网站简介：手绘风格绘画工具
 
-🔗 资源链接：[点击跳转](https://perfect-freehand-example.vercel.app/)
-
-🔗 Github资源链接：[点击跳转](https://github.com/steveruizok/perfect-freehand)
+🔗 资源链接：[点击跳转](https://perfect-freehand-example.vercel.app/) |🧩[开源地址](https://github.com/steveruizok/perfect-freehand)
 
 ### 白描网页版
 
@@ -410,9 +394,7 @@
 >
 > Notion贴纸生成器
 
-🔗 资源链接：[点击跳转](https://notion-avatar.vercel.app/zh)
-
-🔗 GitHub资源链接：[点击跳转](https://t.me/iGitHub/55)
+🔗 资源链接：[点击跳转](https://notion-avatar.vercel.app/zh) |🧩[开源地址](https://t.me/iGitHub/55)
 
 ### Dillinger
 
@@ -420,9 +402,7 @@
 
 📁 网站简介：在线 Markdown 编辑器，支持将 HTML 转换为 Markdown，支持导入、导出到 GitHub, Dropbox, Google Drive, One Drive 等平台，可以导出为 HTML, PDF 等文件。
 
-🔗 资源链接：[点击跳转](https://dillinger.io/)
-
-🔗 Github资源链接：[点击跳转](https://github.com/joemccann/dillinger)
+🔗 资源链接：[点击跳转](https://dillinger.io/) | 🧩[开源地址](https://github.com/joemccann/dillinger)
 
 ### MathB.in
 
@@ -430,9 +410,7 @@
 
 📁 网站简介：在线数学公式分享工具。可以用 LaTex 和 Markdown 输入公式和其他内容，把生成的网址分享给其他人。
 
-🔗 资源链接：[点击跳转](https://mathb.in/2)
-
-🔗 Github资源链接：[点击跳转](https://github.com/susam/mathb)
+🔗 资源链接：[点击跳转](https://mathb.in/2) | 🧩[开源地址](https://github.com/susam/mathb)
 
 ### diagrams.net
 
@@ -440,9 +418,7 @@
 
 📁 网站简介：开源免费的在线画流程图的网站。无需注册，无需登录，可以下载导出为 png, jpeg, svg, pdf 等格式。
 
-🔗 资源链接：[点击跳转](https://app.diagrams.net/)
-
-🔗 Github资源链接：[点击跳转](https://github.com/jgraph/drawio)
+🔗 资源链接：[点击跳转](https://app.diagrams.net/) | 🧩[开源地址](https://github.com/jgraph/drawio)
 
 ### Shots
 
