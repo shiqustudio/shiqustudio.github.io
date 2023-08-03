@@ -1,9 +1,8 @@
 # Vercel
 
 
-> 🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具
+> 🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具全部都是开源的，并且都可以一键部署到Vercel供私人使用
 >
-> 全部都是开源的，并且都可以一键部署到Vercel供私人使用
 
 <!--more-->
 
