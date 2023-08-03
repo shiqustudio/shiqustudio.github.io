@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "dark.min.css",
-	"sourceRoot": "D:/Hugo/Sites/hugo-FixIt-Me-Blog",
+	"sourceRoot": "G:/HugoBlog/hugo-blog",
 	"sources": [
 		"themes/FixIt/assets/lib/aplayer/dark.scss"
 	],
