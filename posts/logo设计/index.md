@@ -33,5 +33,5 @@ LOGO设计灵感收集网站
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/posts/logo%E8%AE%BE%E8%AE%A1/  
+> URL: https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/  
 

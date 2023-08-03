@@ -89,5 +89,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/posts/uitoolsz/  
+> URL: https://blog.funvip.live/posts/uitoolsz/  
 

@@ -7,5 +7,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/offline/  
+> URL: https://blog.funvip.live/offline/  
 

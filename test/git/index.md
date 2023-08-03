@@ -340,5 +340,5 @@ gitk --all
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/test/git/  
+> URL: https://blog.funvip.live/test/git/  
 

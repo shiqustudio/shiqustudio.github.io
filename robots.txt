@@ -65,4 +65,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://shiqustudio.github.io/sitemap.xml
+Sitemap: https://blog.funvip.live/sitemap.xml

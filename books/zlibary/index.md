@@ -106,5 +106,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/books/zlibary/  
+> URL: https://blog.funvip.live/books/zlibary/  
 

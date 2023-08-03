@@ -952,5 +952,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/  
+> URL: https://blog.funvip.live/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/  
 

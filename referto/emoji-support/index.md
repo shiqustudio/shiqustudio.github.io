@@ -5,5 +5,5 @@
 ---
 
 > 作者: [聪](https://blog.funvip.live)  
-> URL: https://shiqustudio.github.io/referto/emoji-support/  
+> URL: https://blog.funvip.live/referto/emoji-support/  
 

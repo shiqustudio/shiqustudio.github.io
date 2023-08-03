@@ -253,5 +253,5 @@ Imgbox 无须注册就能使用，不过如果登入将可管理上传过的相�
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/  
+> URL: https://blog.funvip.live/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/  
 

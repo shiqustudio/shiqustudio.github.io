@@ -5,5 +5,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/referto/%E7%95%99%E5%AD%98%E6%9F%A5%E9%98%85/  
+> URL: https://blog.funvip.live/referto/%E7%95%99%E5%AD%98%E6%9F%A5%E9%98%85/  
 

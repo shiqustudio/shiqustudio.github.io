@@ -72,5 +72,5 @@ drwxr-xr-x   5 liruihao  staff   160B Jul 29 17:48 file-share
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/test/linux-permission/  
+> URL: https://blog.funvip.live/test/linux-permission/  
 > 转载 URL: https://blog.csdn.net/icanlove/article/details/39667265/

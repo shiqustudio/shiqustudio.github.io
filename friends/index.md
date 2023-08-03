@@ -34,5 +34,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/friends/  
+> URL: https://blog.funvip.live/friends/  
 

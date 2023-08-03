@@ -244,5 +244,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/dailyshare/%E8%B6%A3%E7%AB%99/  
+> URL: https://blog.funvip.live/dailyshare/%E8%B6%A3%E7%AB%99/  
 

@@ -1,45 +1,45 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>拾趣资源</title>
-    <link>https://shiqustudio.github.io/</link>
+    <link>https://blog.funvip.live/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
       <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sat, 29 Jul 2023 17:27:11 &#43;0000</lastBuildDate>
-      <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://blog.funvip.live/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>羊毛·薅</title>
-  <link>https://shiqustudio.github.io/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</link>
+  <link>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</link>
   <pubDate>Sat, 29 Jul 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</guid>
+  <guid>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</guid>
   <description><![CDATA[<blockquote>
 <p>羊毛·薅</p>
 </blockquote>]]></description>
 </item>
 <item>
   <title>网络工具</title>
-  <link>https://shiqustudio.github.io/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</link>
+  <link>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</link>
   <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</guid>
+  <guid>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</guid>
   <description><![CDATA[网络工具]]></description>
 </item>
 <item>
   <title>搜索引擎</title>
-  <link>https://shiqustudio.github.io/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
+  <link>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
   <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
+  <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
   <description><![CDATA[<blockquote>
 <p>全能搜索引擎</p>
 </blockquote>]]></description>
 </item>
 <item>
   <title>如何提问：提问的智慧</title>
-  <link>https://shiqustudio.github.io/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</link>
+  <link>https://blog.funvip.live/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</link>
   <pubDate>Thu, 06 Jul 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</guid>
+  <guid>https://blog.funvip.live/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -48,28 +48,28 @@
 </item>
 <item>
   <title>书签工具</title>
-  <link>https://shiqustudio.github.io/tools/%E4%B9%A6%E7%AD%BE/</link>
+  <link>https://blog.funvip.live/tools/%E4%B9%A6%E7%AD%BE/</link>
   <pubDate>Sat, 01 Jul 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/tools/%E4%B9%A6%E7%AD%BE/</guid>
+  <guid>https://blog.funvip.live/tools/%E4%B9%A6%E7%AD%BE/</guid>
   <description><![CDATA[书签工具]]></description>
 </item>
 <item>
   <title>LOGO设计</title>
-  <link>https://shiqustudio.github.io/posts/logo%E8%AE%BE%E8%AE%A1/</link>
+  <link>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</link>
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
+  <guid>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/2023/06/29/image-20230629231127663.png" referrerpolicy="no-referrer">
       </div><p>LOGO设计灵感收集网站</p>]]></description>
 </item>
 <item>
   <title>Web Ui</title>
-  <link>https://shiqustudio.github.io/posts/webui/</link>
+  <link>https://blog.funvip.live/posts/webui/</link>
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/posts/webui/</guid>
+  <guid>https://blog.funvip.live/posts/webui/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/2023/06/29/image-20230629221848151.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -78,10 +78,10 @@
 </item>
 <item>
   <title>线上转档</title>
-  <link>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
+  <link>https://blog.funvip.live/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</guid>
+  <guid>https://blog.funvip.live/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/hugoBlog/pdfyeah.png" referrerpolicy="no-referrer">
       </div><blockquote>
@@ -90,20 +90,20 @@
 </item>
 <item>
   <title>学习建议</title>
-  <link>https://shiqustudio.github.io/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/</link>
+  <link>https://blog.funvip.live/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/</link>
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/</guid>
+  <guid>https://blog.funvip.live/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/2023/06/29/image-20230629224739493.png" referrerpolicy="no-referrer">
       </div><p>一个各专业前辈们的学习建议网站</p>]]></description>
 </item>
 <item>
   <title>域名搜索</title>
-  <link>https://shiqustudio.github.io/tools/%E5%9F%9F%E5%90%8D%E6%90%9C%E7%B4%A2/</link>
+  <link>https://blog.funvip.live/tools/%E5%9F%9F%E5%90%8D%E6%90%9C%E7%B4%A2/</link>
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/tools/%E5%9F%9F%E5%90%8D%E6%90%9C%E7%B4%A2/</guid>
+  <guid>https://blog.funvip.live/tools/%E5%9F%9F%E5%90%8D%E6%90%9C%E7%B4%A2/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/2023/06/29/image-20230629215452987.png" referrerpolicy="no-referrer">
       </div>域名搜索]]></description>

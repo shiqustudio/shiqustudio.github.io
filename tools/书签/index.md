@@ -77,5 +77,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tools/%E4%B9%A6%E7%AD%BE/  
+> URL: https://blog.funvip.live/tools/%E4%B9%A6%E7%AD%BE/  
 

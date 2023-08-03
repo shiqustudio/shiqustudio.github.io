@@ -62,5 +62,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/website/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/  
+> URL: https://blog.funvip.live/website/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/  
 

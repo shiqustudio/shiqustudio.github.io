@@ -24,5 +24,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/posts/webui/  
+> URL: https://blog.funvip.live/posts/webui/  
 

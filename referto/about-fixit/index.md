@@ -5,5 +5,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/referto/about-fixit/  
+> URL: https://blog.funvip.live/referto/about-fixit/  
 

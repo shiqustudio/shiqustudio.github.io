@@ -706,5 +706,5 @@ iLovePDF 跟我之前介绍过的「Smallpdf」有些类似，**值得一提的�
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/  
+> URL: https://blog.funvip.live/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/  
 

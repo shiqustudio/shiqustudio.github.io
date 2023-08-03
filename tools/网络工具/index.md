@@ -18,5 +18,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/  
+> URL: https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/  
 

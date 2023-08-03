@@ -670,5 +670,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/posts/aisummary/  
+> URL: https://blog.funvip.live/posts/aisummary/  
 

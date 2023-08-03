@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>测试文章 on 拾趣资源</title>
-    <link>https://shiqustudio.github.io/test/</link>
+    <link>https://blog.funvip.live/test/</link>
     <description>Recent content in 测试文章 on 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>43144966@qq.com (聪)</managingEditor>
-    <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>linux 文件权限</title>
-      <link>https://shiqustudio.github.io/test/linux-permission/</link>
+      <link>https://blog.funvip.live/test/linux-permission/</link>
       <pubDate>Mon, 20 Feb 2023 17:15:44 +0800</pubDate>
       <author>43144966@qq.com (聪)</author>
-      <guid>https://shiqustudio.github.io/test/linux-permission/</guid>
+      <guid>https://blog.funvip.live/test/linux-permission/</guid>
       <description>&lt;p&gt;记录 linux 系统下文件权限相关的内容，Mac OS 下类似。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Git 常用指令汇总</title>
-      <link>https://shiqustudio.github.io/test/git/</link>
+      <link>https://blog.funvip.live/test/git/</link>
       <pubDate>Mon, 20 Feb 2023 08:59:56 +0800</pubDate>
       <author>43144966@qq.com (聪)</author>
-      <guid>https://shiqustudio.github.io/test/git/</guid>
+      <guid>https://blog.funvip.live/test/git/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;工作区&lt;/strong&gt;：就是你在电脑里能看到的目录。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;暂存区&lt;/strong&gt;：英文叫 stage, 或 index。一般存放在 &amp;ldquo;.git 目录下&amp;rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。&lt;/li&gt;

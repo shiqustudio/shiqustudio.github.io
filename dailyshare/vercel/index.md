@@ -31,5 +31,5 @@
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/dailyshare/vercel/  
+> URL: https://blog.funvip.live/dailyshare/vercel/  
 

@@ -121,5 +121,5 @@ public class HelloWorld {
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/  
+> URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/tuozhanpian/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/typeit/

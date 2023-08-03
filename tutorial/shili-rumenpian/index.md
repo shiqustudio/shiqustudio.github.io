@@ -1122,5 +1122,5 @@ menu:
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tutorial/shili-rumenpian/  
+> URL: https://blog.funvip.live/tutorial/shili-rumenpian/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/basics/
