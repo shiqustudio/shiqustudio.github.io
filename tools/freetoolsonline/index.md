@@ -233,7 +233,7 @@
 
 🆔  资源名称： Pixelied 线上批次图片转档，支援各种常用格式
 
-⭐️  资源描述：Pixelied 是一家提供相片编辑器的服务商，旗下有个**「[Free Image Converter](https://pixelied.com/convert/)」免费图片转档、格式转换工具，让使用者透过浏览器进行线上批次编辑**，而且不用担心降低照片画质，也无需下载或安装任何应用程式，提供最快速、免费且易于使用的图片转档功能，**这项服务支援各种常见图片格式包括 PNG、JPG、WebP、SVG、GIF、AVIF 和TIFF 等超过100 种格式**。
+⭐️  资源描述：Pixelied 是一家提供相片编辑器的服务商，旗下有个「[Free Image Converter](https://pixelied.com/convert/)」**免费图片转档、格式转换工具，让使用者透过浏览器进行线上批次编辑**，而且不用担心降低照片画质，也无需下载或安装任何应用程式，提供最快速、免费且易于使用的图片转档功能，**这项服务支援各种常见图片格式包括 PNG、JPG、WebP、SVG、GIF、AVIF 和TIFF 等超过100 种格式**。
 
 🌐 资源地址： [点击跳转](https://pixelied.com/convert/)     
 
@@ -243,7 +243,7 @@
 
 🆔  资源名称： FileConverto 免费线上转档编辑工具，整合影片、音乐、图片和PDF 转换
 
-⭐️  资源描述：**「[FileConverto](https://www.fileconverto.com/)」是一个免费线上转档工具，整合影片、音乐、图片和PDF 文件四大类型常见功能**，可以在浏览器线上转档、压缩或编辑多媒体档案（例如MP4、MOV、MP3、WAV、PDF、PNG 和JPEG），是非常简单易用而且无须安装软体的线上服务。FileConverto 在首页列出一些较热门的功能：**影片压缩、影片静音消音、线上影片下载、调整影片音量、MP4 转MP3、对影片加入音乐、MP3 转M4R、图片压缩和PNG/JPG 转PDF。**当然 FileConverto 功能不仅于此，也有像是对影片加入浮水印、调整影片大小以符合Instagram 尺寸、MP3 裁切、将多个影片或MP3 合并为单一档案、图片EXIF 移除工具、旋转影片、修复损坏的影片、调整影片速度、循环播放影片等等，每个功能都有限制的档案大小。如果临时需要编辑或是转换档案格式不妨打开FileConverto 找一找有无合适的编辑器。
+⭐️  资源描述：**「[FileConverto](https://www.fileconverto.com/)」是一个免费线上转档工具，整合影片、音乐、图片和PDF 文件四大类型常见功能**，可以在浏览器线上转档、压缩或编辑多媒体档案（例如MP4、MOV、MP3、WAV、PDF、PNG 和JPEG），是非常简单易用而且无须安装软体的线上服务。FileConverto 在首页列出一些较热门的功能：**影片压缩、影片静音消音、线上影片下载、调整影片音量、MP4 转MP3、对影片加入音乐、MP3 转M4R、图片压缩和PNG/JPG 转PDF**。当然 FileConverto 功能不仅于此，也有像是对影片加入浮水印、调整影片大小以符合Instagram 尺寸、MP3 裁切、将多个影片或MP3 合并为单一档案、图片EXIF 移除工具、旋转影片、修复损坏的影片、调整影片速度、循环播放影片等等，每个功能都有限制的档案大小。如果临时需要编辑或是转换档案格式不妨打开FileConverto 找一找有无合适的编辑器。
 
 🌐 资源地址： [点击跳转](https://www.fileconverto.com/)     
 
@@ -380,7 +380,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：Iconscout File Converter 线上SVG 转档PNG、JPG 和PDF 格式
 
-⭐️  资源描述：「[File Converter](https://iconscout.com/converter/svg-to-png)」**透过这个简单的线上转档工具使用者就能将SVG 转档为其他格式，包括SVG 转PNG、SVG 转JPG、SVG 转PDF。**除此之外，还有提供PNG 转JPG、JPG 转PNG 两种常见图片格式互转功能，虽然这在内建的预览程式可能都能做到，若是临时需要，使用线上工具直接把图档放上去转换也是个很快速、简便的解决方案。
+⭐️  资源描述：「[File Converter](https://iconscout.com/converter/svg-to-png)」**透过这个简单的线上转档工具使用者就能将SVG 转档为其他格式，包括SVG 转PNG、SVG 转JPG、SVG 转PDF**。除此之外，还有提供PNG 转JPG、JPG 转PNG 两种常见图片格式互转功能，虽然这在内建的预览程式可能都能做到，若是临时需要，使用线上工具直接把图档放上去转换也是个很快速、简便的解决方案。
 
 🌐 资源地址： [点击跳转](https://iconscout.com/converter/svg-to-png)     
 
@@ -410,7 +410,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：PDF Converter 免费PDF 转档工具，支援Word、Excel 或PPT 文件互转
 
-⭐️  资源描述：「[PDF Converter](https://www.freepdfconvert.com/zh-cn)」是一项免费PDF 线上转档工具，来自立陶宛开发商Baltsoft，这项工具提供**包括Word、Excel、PowerPoint、JPG、OpenOffice 等档案转为PDF 格式，或是反向将PDF 转回Word、Excel、PowerPoint 或图片格式。**除此之外也有合并、分割、保护、压缩、删除页面或旋转等编辑功能。
+⭐️  资源描述：「[PDF Converter](https://www.freepdfconvert.com/zh-cn)」是一项免费PDF 线上转档工具，来自立陶宛开发商Baltsoft，这项工具提供**包括Word、Excel、PowerPoint、JPG、OpenOffice 等档案转为PDF 格式，或是反向将PDF 转回Word、Excel、PowerPoint 或图片格式**。除此之外也有合并、分割、保护、压缩、删除页面或旋转等编辑功能。
 
 🌐 资源地址： [点击跳转](https://www.freepdfconvert.com/zh-cn)     
 
@@ -430,7 +430,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：Zamzar 整合文件、图片、影音全方位线上转档，支援超过1100 种格式
 
-⭐️  资源描述：**「[Zamzar](https://www.zamzar.com/)」是一个让转档变得更容易的线上工具，可以转换文件、图片、影片和音讯，支援超过1100 种档案格式！**操作方式很简单，只要选择要转档的档案（或是直接贴上档案网址）、选择要转换的新格式，就能立即将档案上传转档，亦可输入电子邮件地址在完成后收到通知。**Zamzar 免费方案依然有每24 小时只能转换两个档案的使用限制，最大档案大小不能超过150 MB**，转换后档案保存时间较短，但对于临时要转档、手边没有适当的工具来说很有用。除此之外，免费方案转档和下载档案速度会稍微慢一些。
+⭐️  资源描述：**「[Zamzar](https://www.zamzar.com/)」是一个让转档变得更容易的线上工具，可以转换文件、图片、影片和音讯，支援超过1100 种档案格式**！操作方式很简单，只要选择要转档的档案（或是直接贴上档案网址）、选择要转换的新格式，就能立即将档案上传转档，亦可输入电子邮件地址在完成后收到通知。**Zamzar 免费方案依然有每24 小时只能转换两个档案的使用限制，最大档案大小不能超过150 MB**，转换后档案保存时间较短，但对于临时要转档、手边没有适当的工具来说很有用。除此之外，免费方案转档和下载档案速度会稍微慢一些。
 
 🌐 资源地址： [点击跳转](https://www.zamzar.com/)     
 
@@ -450,7 +450,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：PrintFriendly 让网页适合列印或转PDF，移除侧边栏或广告更省纸张墨水
 
-⭐️  资源描述：「[PrintFriendly](https://www.printfriendly.com/)」是一个很实用的线上服务，**主要功能是让任何网页都更适合列印或输出为PDF 格式**，它的作法并不会太复杂，将你要转换的网址复制贴上，直接在线上预览最佳化的结果，**在列印前可先进行简单编辑，把不必要的图片、文字段落或任何不想输出的部分删除，最后得到一个更适合列印、转为PDF 格式的网页画面。**对于没有大量使用需求的用户，可以直接开启PrintFriendly 输入网址进行，若要频繁使用这项服务也可考虑免费下载[PrintFriendly 浏览器扩充功能](https://www.printfriendly.com/extensions/chrome)，就能够一键快速转换。比较特别的是如果你是开发者、部落客或网站管理员，PrintFriendly 提供「[友善列印按钮](https://www.printfriendly.com/button)」（Print Friendly & PDF button）也可自由加入网站，让其他人点选后产生更适合列印或输出为PDF 的内容。
+⭐️  资源描述：「[PrintFriendly](https://www.printfriendly.com/)」是一个很实用的线上服务，**主要功能是让任何网页都更适合列印或输出为PDF 格式**，它的作法并不会太复杂，将你要转换的网址复制贴上，直接在线上预览最佳化的结果，**在列印前可先进行简单编辑，把不必要的图片、文字段落或任何不想输出的部分删除，最后得到一个更适合列印、转为PDF 格式的网页画面**。对于没有大量使用需求的用户，可以直接开启PrintFriendly 输入网址进行，若要频繁使用这项服务也可考虑免费下载[PrintFriendly 浏览器扩充功能](https://www.printfriendly.com/extensions/chrome)，就能够一键快速转换。比较特别的是如果你是开发者、部落客或网站管理员，PrintFriendly 提供「[友善列印按钮](https://www.printfriendly.com/button)」（Print Friendly & PDF button）也可自由加入网站，让其他人点选后产生更适合列印或输出为PDF 的内容。
 
 🌐 资源地址： [点击跳转](https://www.printfriendly.com/)    
 
@@ -480,7 +480,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：Pdf.to 线上PDF 转档集合Word、Excel、纯文字和图片等格式互转
 
-⭐️  资源描述：「[Pdf.to](https://pdf.to/)」是一款**免费线上PDF 转档服务**，主要以PDF 在不同格式间转换为主，包括最常被用到的PDF 转Word、PDF 转Excel、PDF 转CSV、PDF 转纯文字、PDF 转JPG 和PNG 图片格式，也能将这些格式包括[ODT](https://zh.wikipedia.org/wiki/开放文档格式)（开放文件格式，OpenDocument Format）转档为PDF ，操作上只要透过浏览器即可进行，无需额外下载或安装软体。有使用者询问Pdf.to 开发者：**这个服务和其他类似工具有何不同？**开发者表示 Pdf.to 对于文件处理效果很好，而网址部分也非常好记，例如要把PDF 转Word 只要记住 `pdf.to/word` 就能使用。如果对于安全隐私有所顾虑，Pdf.to 也会在转档处理后两小时将上传的文件从伺服器删除。
+⭐️  资源描述：「[Pdf.to](https://pdf.to/)」是一款**免费线上PDF 转档服务**，主要以PDF 在不同格式间转换为主，包括最常被用到的PDF 转Word、PDF 转Excel、PDF 转CSV、PDF 转纯文字、PDF 转JPG 和PNG 图片格式，也能将这些格式包括[ODT](https://zh.wikipedia.org/wiki/开放文档格式)（开放文件格式，OpenDocument Format）转档为PDF ，操作上只要透过浏览器即可进行，无需额外下载或安装软体。有使用者询问Pdf.to 开发者：**这个服务和其他类似工具有何不同**？开发者表示 Pdf.to 对于文件处理效果很好，而网址部分也非常好记，例如要把PDF 转Word 只要记住 `pdf.to/word` 就能使用。如果对于安全隐私有所顾虑，Pdf.to 也会在转档处理后两小时将上传的文件从伺服器删除。
 
 🌐 资源地址： [点击跳转](https://pdf.to/)   
 
@@ -490,7 +490,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：Apowersoft 线上文件压缩工具，支援各种常见图片、影片格式和PDF
 
-⭐️  资源描述：「[线上文件压缩](https://www.apowersoft.tw/compress-file-online)」工具来自Apowersoft，这是一个多合一档案压缩工具，提供压缩图片、影片或PDF 功能，无需注册或安装外挂，支援Google Chrome、Firefox 等主流浏览器，这个压缩工具的特性是**所有功能皆可免费使用，没有压缩次数、文件数或档案大小等限制，也支援所有常见档案格式。**Apowersoft 线上文件压缩工具提供中文在内多国语言介面，操作上相当简单，只要将支援的档案格式拖曳到网页中，上传后进行相关选项设定即可压缩、减少档案大小，线上工具的缺点是必须将档案上传才能处理，遇到较大的影片档可能会比较耗费时间，若档案数量太多或档案太大建议还是使用一般软体压缩。
+⭐️  资源描述：「[线上文件压缩](https://www.apowersoft.tw/compress-file-online)」工具来自Apowersoft，这是一个多合一档案压缩工具，提供压缩图片、影片或PDF 功能，无需注册或安装外挂，支援Google Chrome、Firefox 等主流浏览器，这个压缩工具的特性是**所有功能皆可免费使用，没有压缩次数、文件数或档案大小等限制，也支援所有常见档案格式**。Apowersoft 线上文件压缩工具提供中文在内多国语言介面，操作上相当简单，只要将支援的档案格式拖曳到网页中，上传后进行相关选项设定即可压缩、减少档案大小，线上工具的缺点是必须将档案上传才能处理，遇到较大的影片档可能会比较耗费时间，若档案数量太多或档案太大建议还是使用一般软体压缩。
 
 🌐 资源地址： [点击跳转](https://www.apowersoft.tw/compress-file-online)   
 
@@ -500,7 +500,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：Mockdown 线上将软体介面、网页或应用程式撷图转为Mockup 视觉稿
 
-⭐️  资源描述：「[Mockdown](https://epic.ai/mockdown/)」这是一个方便的线上工具，**可以将一般软体画面、网页撷图或手机应用程式介面线上自动转成Mockups 图片。**透过Mockdown 会将原有可供辨识、阅读的文字图片内容转为色块，如果要拿来做范例、投影片或操作流程介绍会更适合，使用者无需再手动处理看得到的资讯（可能不一定适合出现在简报中），线上即可快速转换处理。根据网站说明，Mockdown 利用人工智慧技术来处理画面，机器会自动判断每个区块，不用再使用Sketch 或Photoshop。
+⭐️  资源描述：「[Mockdown](https://epic.ai/mockdown/)」这是一个方便的线上工具，**可以将一般软体画面、网页撷图或手机应用程式介面线上自动转成Mockups 图片**。透过Mockdown 会将原有可供辨识、阅读的文字图片内容转为色块，如果要拿来做范例、投影片或操作流程介绍会更适合，使用者无需再手动处理看得到的资讯（可能不一定适合出现在简报中），线上即可快速转换处理。根据网站说明，Mockdown 利用人工智慧技术来处理画面，机器会自动判断每个区块，不用再使用Sketch 或Photoshop。
 
 🌐 资源地址： [点击跳转](https://epic.ai/mockdown/)   
 
@@ -530,7 +530,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：EasyPDF 免费线上PDF 转换器，转档编辑文件皆可快速完成免安装软体
 
-⭐️  资源描述：「[EasyPDF](https://easypdf.com/cn)」，这是线上PDF 转换器，可解决各种和PDF 相关需求，**兼具安全、匿名和免费三大特色，包括将所有类型PDF 档案转档为其他格式，或是将其他格式转为PDF，还有分割、合并、压缩及OCR 功能。**EasyPDF 不用注册就能使用，完全匿名，没有广告和使用限制，100% 免费，当然它的速度快、安全可靠，透过任何装置都能存取转换器，不用额外下载软体
+⭐️  资源描述：「[EasyPDF](https://easypdf.com/cn)」，这是线上PDF 转换器，可解决各种和PDF 相关需求，**兼具安全、匿名和免费三大特色，包括将所有类型PDF 档案转档为其他格式，或是将其他格式转为PDF，还有分割、合并、压缩及OCR 功能**。EasyPDF 不用注册就能使用，完全匿名，没有广告和使用限制，100% 免费，当然它的速度快、安全可靠，透过任何装置都能存取转换器，不用额外下载软体
 
 🌐 资源地址： [点击跳转](https://easypdf.com/cn)   
 
@@ -550,7 +550,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：YouCompress 免费线上压缩工具，针对各类型档案压缩以减少容量
 
-⭐️  资源描述：那么有没有一个多合一的选择，想压缩什么只要一个网站就能做到呢？本文要介绍的这款免费线上压缩工具「[YouCompress](https://www.youcompress.com/)」相当方便，**可以在浏览器里直接压缩各种类型文件，包括常见的MP4、MOV、MP3、PDF、PNG、JPG、JPEG、GIF**，几乎包办图片、文件、影片和音讯格式。YouCompress 针对不同档案格式给出不同的档案大小限制，毕竟大部分情况下如果档案不是很庞大，应该不会用到压缩工具，因此YouCompress 单档限制也相对宽裕，**图片单张可达50 MB、文件50 MB、音讯150 MB，影片则可到500 MB。**另一个使用者比较关心的问题是我的档案会被留在伺服器上多久？依照YouCompress 网站说明，**档案在压缩处理后的几小时会自动从伺服器移除，不过你也可以手动删除**，当然使用这类服务我们很难确保档案会如何处理，最好是不要上传太过私密或重要性的文件。
+⭐️  资源描述：那么有没有一个多合一的选择，想压缩什么只要一个网站就能做到呢？本文要介绍的这款免费线上压缩工具「[YouCompress](https://www.youcompress.com/)」相当方便，**可以在浏览器里直接压缩各种类型文件，包括常见的MP4、MOV、MP3、PDF、PNG、JPG、JPEG、GIF**，几乎包办图片、文件、影片和音讯格式。YouCompress 针对不同档案格式给出不同的档案大小限制，毕竟大部分情况下如果档案不是很庞大，应该不会用到压缩工具，因此YouCompress 单档限制也相对宽裕，**图片单张可达50 MB、文件50 MB、音讯150 MB，影片则可到500 MB**。另一个使用者比较关心的问题是我的档案会被留在伺服器上多久？依照YouCompress 网站说明，**档案在压缩处理后的几小时会自动从伺服器移除，不过你也可以手动删除**，当然使用这类服务我们很难确保档案会如何处理，最好是不要上传太过私密或重要性的文件。
 
 🌐 资源地址： [点击跳转](https://www.youcompress.com/)   
 
@@ -564,13 +564,13 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🌐 资源地址： [点击跳转](https://wordhtml.com/)   
 
-### WordHTML
+### PDFConvertFree
 
 {{< image src="https://bib0.com/xc/i/hugoBlog/pdf-convert-free.png" alt="-"  title="Fun's images" >}}     
 
 🆔  资源名称：PDFConvertFree 免费PDF 线上工具，可转档Word、Excel 也能合并分割
 
-⭐️  资源描述：「[PDFConvertFree](https://pdfconvertfree.com/)」是一款免费PDF线上工具，它的介面简单、功能专一，**包括PDF 转档（转图片、转Word 或Excel 等格式）、PDF 合并、PDF 分割、压缩旋转、密码破解等等都能在线上完成。**这个工具的好处是简单、快速，支援批次处理，最多每次可上传五个PDF 文件。通常类似工具最令人担心的是隐私问题，但在「PDFConvertFree」网页特别注明这是一项超级安全的服务，所有上传的文件都会在15 分钟内删除，而且100% 免费，**没有浮水印、也不会在文件内加入广告字样**，如果常用到类似工具不妨将它收藏书签。
+⭐️  资源描述：「[PDFConvertFree](https://pdfconvertfree.com/)」是一款免费PDF线上工具，它的介面简单、功能专一，**包括PDF 转档（转图片、转Word 或Excel 等格式）、PDF 合并、PDF 分割、压缩旋转、密码破解等等都能在线上完成**。这个工具的好处是简单、快速，支援批次处理，最多每次可上传五个PDF 文件。通常类似工具最令人担心的是隐私问题，但在「PDFConvertFree」网页特别注明这是一项超级安全的服务，所有上传的文件都会在15 分钟内删除，而且100% 免费，**没有浮水印、也不会在文件内加入广告字样**，如果常用到类似工具不妨将它收藏书签。
 
 🌐 资源地址： [点击跳转](https://pdfconvertfree.com/)   
 
@@ -706,5 +706,5 @@ iLovePDF 跟我之前介绍过的「Smallpdf」有些类似，**值得一提的�
 ---
 
 > 作者: [聪](/about)  
-> URL: https://shiqustudio.github.io/tools/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/  
+> URL: https://blog.funvip.live/tools/freetoolsonline/  
 
