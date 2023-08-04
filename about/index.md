@@ -80,7 +80,7 @@ const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
 ## 致谢
 
 {{< details "感谢大家的支持 🙏" >}}
-{{< reward wechatpay="/images/wechatpay.png" alipay="/images/alipay.png" comment="给博主买杯卡布奇诺～" mode="fixed" >}}
+{{< reward wechatpay="/images/wechatpay.jpg" alipay="/images/alipay.jpg" comment="给博主买杯卡布奇诺～" mode="fixed" >}}
 {{< sponsor-log >}}
 {{< /details >}}
 
