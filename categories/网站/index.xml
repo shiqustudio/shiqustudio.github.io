@@ -5,17 +5,7 @@
     <description>网站 - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
       <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E7%BD%91%E7%AB%99/" rel="self" type="application/rss+xml" /><item>
-  <title>LOGO设计</title>
-  <link>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/29/image-20230629231127663.png" referrerpolicy="no-referrer">
-      </div><p>LOGO设计灵感收集网站</p>]]></description>
-</item>
-<item>
-  <title>学习建议</title>
+  <title>👨‍🎓学习建议</title>
   <link>https://blog.funvip.live/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/</link>
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
@@ -25,7 +15,7 @@
       </div><p>一个各专业前辈们的学习建议网站</p>]]></description>
 </item>
 <item>
-  <title>域名搜索</title>
+  <title>🔍域名搜索</title>
   <link>https://blog.funvip.live/tools/%E5%9F%9F%E5%90%8D%E6%90%9C%E7%B4%A2/</link>
   <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
@@ -35,7 +25,17 @@
       </div>域名搜索]]></description>
 </item>
 <item>
-  <title>趣站</title>
+  <title>🔮LOGO设计</title>
+  <link>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</link>
+  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/06/29/image-20230629231127663.png" referrerpolicy="no-referrer">
+      </div><p>LOGO设计灵感收集网站 🌟</p>]]></description>
+</item>
+<item>
+  <title>🐸趣站</title>
   <link>https://blog.funvip.live/dailyshare/%E8%B6%A3%E7%AB%99/</link>
   <pubDate>Mon, 26 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
@@ -45,7 +45,7 @@
       </div><p>有趣的站点</p>]]></description>
 </item>
 <item>
-  <title>时光邮局</title>
+  <title>📩时光邮局</title>
   <link>https://blog.funvip.live/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</link>
   <pubDate>Mon, 26 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
@@ -53,7 +53,7 @@
   <description><![CDATA[<p>写一封信，透过时光，留给未来自己的阅读</p>]]></description>
 </item>
 <item>
-  <title>图片编辑</title>
+  <title>🎨图片编辑</title>
   <link>https://blog.funvip.live/tools/%E5%9B%BE%E7%89%87%E7%BC%96%E8%BE%91/</link>
   <pubDate>Sun, 25 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
@@ -65,7 +65,7 @@
 </blockquote>]]></description>
 </item>
 <item>
-  <title>隐私保护</title>
+  <title>🔐隐私保护</title>
   <link>https://blog.funvip.live/tools/%E9%9A%90%E7%A7%81/</link>
   <pubDate>Sun, 25 Jun 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
@@ -75,7 +75,7 @@
       </div>隐私保护]]></description>
 </item>
 <item>
-  <title>AI 法律助手</title>
+  <title>⚖️AI 法律助手</title>
   <link>https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</link>
   <pubDate>Thu, 22 Jun 2023 21:27:11 &#43;0000</pubDate>
   <author>聪</author>
@@ -85,23 +85,23 @@
 </blockquote>]]></description>
 </item>
 <item>
-  <title>公益权威</title>
-  <link>https://blog.funvip.live/website/%E5%AE%98%E7%85%A4/</link>
-  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/website/%E5%AE%98%E7%85%A4/</guid>
-  <description><![CDATA[<blockquote>
-<p>🤖整理并分享一些官方发布的公益、权威信息资源</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>历史价格查询</title>
+  <title>💵历史价格查询</title>
   <link>https://blog.funvip.live/website/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9F%A5%E8%AF%A2/</link>
   <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/website/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9F%A5%E8%AF%A2/</guid>
   <description><![CDATA[<blockquote>
 <p>商品历史价格查询</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>🗣公益权威</title>
+  <link>https://blog.funvip.live/website/%E5%AE%98%E7%85%A4/</link>
+  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/website/%E5%AE%98%E7%85%A4/</guid>
+  <description><![CDATA[<blockquote>
+<p>🤖整理并分享一些官方发布的公益、权威信息资源</p>
 </blockquote>]]></description>
 </item>
 </channel>
