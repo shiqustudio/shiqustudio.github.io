@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### **Micros Culpture**
+
+{{< image src="https://bib0.com/xc/i/2023/08/24/aKKToP.gif" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：**观察各种昆虫的网站**
+
+>📄网站收集了大量的高清效果图，可以放大查看细节，不过对于昆虫恐惧者不建议点击地址进去看，喜欢新奇玩意的可以随便看看。
+
+🌐 资源地址：[点击跳转](http://microsculpture.net/wasp-mimic-hoverfly.html)
+
 ### Emoji to image
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730172005884.png" alt="-" title="Fun's images">}}  
@@ -143,6 +153,16 @@
 ⭐️  资源描述：画质很清晰，全球各地都有，可以看到观看人数等等，足不出户逛遍全球景区，很有意思。
 
 🌐 资源地址：[点击跳转](https://www.skylinewebcams.com/zh/webcam.html)
+
+### **Dollar Street**
+
+{{< image src="https://bib0.com/xc/i/2023/08/24/Bkfscs.jpg" alt="-" title="Fun's images">}}  
+
+🆔  资源名称：一元一世界
+
+⭐️  资源描述：想象世界上的所有人都住在同一条街上，生活按收入的不同是一个什么样子？Gapminder 团队访问了数百个家庭，并为其日常生活中的物品，通过视频照片，可以清晰地看到收入差异是如何影响人们日常生活的各个方面的。
+
+🌐 资源地址：[点击跳转](https://www.gapminder.org/dollar-street)
 
 ### Drive & Listen
 
