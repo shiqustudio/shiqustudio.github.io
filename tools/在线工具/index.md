@@ -6,6 +6,27 @@
 
 <!--more-->
 
+### OLOCR
+
+{{< image src="https://bib0.com/xc/i/2023/08/25/48c4770394b94d8bb186468d15c240b2_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：
+
+>无需登录、免费使用的在线 OCR（从图像中提取文字）工具，支持 70 多种语言在图像与 PDF 中的文字提取功能。 
+
+🔗 资源链接：[点击跳转](https://olocr.com/zh-CN) 
+
+### workout
+
+{{< image src="https://bib0.com/xc/i/2023/08/25/b8d9e22c0edb4aa6824e799b89b9bccc_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：📝[workout](https://workout.lol/) - 这是一个可以帮助你健身的网站。
+
+>先选择健身器械，然后选择要锻炼哪一块肌肉，这个网站就会用视频和图像的方式告诉你应该用什么动作去锻炼。 
+>
+
+🔗 资源链接：[点击跳转](https://workout.lol/) 
+
 ### 深言达意
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730181804652.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

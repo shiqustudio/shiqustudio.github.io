@@ -23,6 +23,26 @@
 
 🌐 资源地址: [点击跳转](https://www.kkdaxue.com/)
 
+### **通识类的书单整理**
+
+{{< image src="https://bib0.com/xc/i/2023/08/25/ZDzN9K.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+>📄看到一个通识类的书单整理，来自于「聪明的阅读者」，包括了各个领域的知识和理解，很简单使用网页 Excel 直接整理，其中也分成了最小 50 本，以及完整的 1000+ 书籍整理，适合读书荒的朋友看看。
+
+🌐 资源地址：[点击跳转](https://docs.qq.com/sheet/DY2RmcVVMVE9Qd3JV?tab=BB08J2)
+
+### **设计师口袋心理学**
+
+{{< image src="https://bib0.com/xc/i/2023/08/25/KXjBVl.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+>📄发现有人在 Notion 梳理了一个「[设计师口袋心理学](https://iason.notion.site/6719c7650fd1406c92287f556520fbc3)」，将 53 个来自心理学的知识，汇集成一个简洁的参考和头脑风暴工具，每张卡片都描述了一种对人类行为的洞察力，并提出了将这种洞察力应用于网站、软件应用设计的方法，当作有趣的读物随便看看也还不错。
+
+🌐 资源地址：[点击跳转](https://iason.notion.site/6719c7650fd1406c92287f556520fbc3)
+
 
 ---
 

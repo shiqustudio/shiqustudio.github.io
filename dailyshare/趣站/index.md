@@ -15,6 +15,16 @@
 
 🌐 资源地址：[点击跳转](http://microsculpture.net/wasp-mimic-hoverfly.html)
 
+### Animated Fluent Emojis
+
+{{< image src="https://bib0.com/xc/i/2023/08/25/bc3718a28cd34e348d937eadf5cfead5_2192261542853668864.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⚙️[Emoji to image](https://emoji.aranja.com/) - 一个 emoji 导出工具
+
+>📄微软提供的 3D 动态表情大全，可以直接下载各个表情的 PNG 图片。
+
+🌐 资源地址：🧩[点击跳转](https://github.com/shiqustudio/Animated-Fluent-Emojis)
+
 ### Emoji to image
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730172005884.png" alt="-" title="Fun's images">}}  
