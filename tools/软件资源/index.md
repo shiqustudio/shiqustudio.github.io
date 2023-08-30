@@ -1,6 +1,40 @@
 # 💻软件资源
 
 
+### Windows 系统
+
+{{< image src="https://bib0.com/xc/i/2023/08/31/image-20230831074205126.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻在线体验各个版本的 Windows 系统
+
+>🌐[Windows 1.01/3.1/95/98/2000/MS-DOS 6.22](https://copy.sh/v86/)
+>
+>🌐[Windows 93](https://www.windows93.net/)
+>
+>🌐[Windows 98](https://98.js.org/) | 🧩[开源地址](https://github.com/1j01/98)
+>
+>🌐[Windows XP](https://winxp.vercel.app/) | 🧩[开源地址](https://github.com/ShizukuIchi/winXP)
+>
+>🌐[Window 7](https://nainemom.github.io/win7/) | 🧩[开源地址](https://github.com/nainemom/win7)
+>
+>🌐[Window 8](https://kishlaya.github.io/Windows-Web-8/) | 🧩[开源地址](https://github.com/kishlaya/Windows-Web-8)
+>
+>🌐[Window 10](https://win10.webjeet.me/)
+>
+>🌐[Windows 11](https://win11.blueedge.me/) | 🧩[开源地址](https://github.com/blueedgetechno/win11React)
+>
+>🌐[Windows 12](https://tjy-gitnub.github.io/win12/desktop.html) | 🧩[开源地址](https://github.com/tjy-gitnub/win12)
+
+### Onworks 
+
+{{< image src="https://bib0.com/xc/i/2023/08/31/image-20230831074336440.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[Onworks](https://www.onworks.net/os-distributions)- 一个免费在线体验 Linux 系统的网站
+
+>📄这个网站牛哇，提供多个 Linux 发行版、windows、软件供你在线体验，并且可以在里面访问网络
+
+▶️[在线体验](https://www.onworks.net/os-distributions)
+
 ### 快点软件镜像站
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730192855374.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
