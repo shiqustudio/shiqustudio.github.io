@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### DragGAN
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/DragGAN.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🖼️[DragGAN](https://github.com/XingangPan/DragGAN) - 牛逼的 AI PS 工具
+
+> 📄有小伙伴开始玩这个牛逼的 AI PS 工具了吗？叫 [DragGAN](https://github.com/XingangPan/DragGAN)，代码开源了，CC-BY-NC 许可，简单来说就是通过拖动以及简单操作的方式对图中对象进行姿势、形状、表情和布局具有灵活而精确的控制，效果太牛逼了，可玩玩看。
+
+🌐 资源地址：🧩[开源地址](https://github.com/XingangPan/DragGAN)
+
 ### **Upscayl**
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/8fBlZZ.gif" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
