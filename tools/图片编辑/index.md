@@ -5,6 +5,17 @@
 
 <!--more-->
 
+### **Upscayl**
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/8fBlZZ.gif" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🖼️[Upscayl](https://github.com/upscayl/upscayl) - 开源免费的图片 AI 放大工具
+
+> 📄这个开源免费的图片 AI 放大工具「[Upscayl](https://github.com/upscayl/upscayl) 」越做越好了，最近我不少包浆图都是用这个工具给救活了，完全使用本地的能力，底层使用了 Real-ESRGAN，甚至对于自动化场景你可以调用 real-esrgan-ncnn-vulkan 命令行工具来进行，正常使用直接下载客户端即可。
+>
+
+🌐 资源地址：🧩[开源地址](https://github.com/upscayl/upscayl)
+
 ### Clipdrop
 
 {{< image src="https://bib0.com/xc/i/2023/07/13/image-20230713214859715.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  

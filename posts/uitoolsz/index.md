@@ -1,9 +1,21 @@
-# 🖌️Ui工具集
+# 🖌️设计工具集
 
 
 > 设计资源网址导航 🌟🌟
 
 <!--more-->
+
+### 52 Design Principles
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/ZSre7p.gif" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[🖌️52 Design Principles](https://rpdc.xiaohongshu.com/52-design-principles) - 帮助你更好做产品设计
+
+⭐️  资源描述：
+
+>📄居然有人整理了一个帮助更好做产品设计的项目「[52 Design Principles](https://rpdc.xiaohongshu.com/52-desig)」，很细腻，他们是这样说的「设计的探索从不停步，好的产品有逻辑可循。我们争先恐后地寻找设计成功背后的原因。做尽可能好的设计决定 —— 是这个项目诞生的意义」。
+
+🌐 资源地址: [点击跳转](https://rpdc.xiaohongshu.com/52-design-principles)
 
 ### Super designer
 
