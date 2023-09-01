@@ -5,6 +5,19 @@
 
 <!--more-->
 
+### CodeGeeX2
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/hl4ml8.png" alt="-" title="Fun's images">}} 
+
+🆔  资源名称：[CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - 自部署的 AI 代码模型
+
+⭐️  资源描述：
+
+>📄很多时候对于公司内部业务代码开发场景，由于代码安全性，很难使用 Github Copilot 去 AI 生成，发现清华发布了「[CodeGeeX2](https://github.com/THUDM/CodeGeeX2)」，基于 ChatGLM2-6B 基座模型，CodeGeeX2-6B 进一步经过了 600B 代码数据预训练，相比上一代，能力有全面提升，可以部署玩玩看。
+>
+
+🌐 资源地址：🧩[开源地址](https://github.com/THUDM/CodeGeeX2) 
+
 ### Dify
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730193413347.png" alt="-" title="Fun's images">}} 
