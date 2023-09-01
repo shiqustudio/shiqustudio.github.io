@@ -25,6 +25,16 @@
 
 🌐 资源地址：[点击跳转](https://www.pdai.tech/)
 
+### 计算机考研专业课程
+
+{{< bilibili BV1884y1e733>}}  
+
+⭐️  资源描述：大学生计算机考研专业课程
+
+>突然觉得那种「[大学生计算机考研专业课程](https://github.com/ddy-ddy/cs-408)」的备考笔记整理很适合已经工作的软件工程师去看，相比去看焦虑文要好不少，有些像读书笔记的整理的感觉，这个仓库整理了作者从 2022 年 6 月备考以来的学习 408 心得，可收藏看。
+
+🌐 资源地址：🧩[开源地址](https://github.com/ddy-ddy/cs-408)
+
 ### Road To Coding
 
 {{< image src="https://bib0.com/xc/i/2023/06/28/image-20230628210414123.png" alt="-" title="Fun's images">}}     
@@ -37,7 +47,7 @@
 >- **高效的工具**
 >- **务实的技术文章**
 
-🌐 资源地址：[点击跳转](https://r2coding.com/)|[Github地址](https://github.com/rd2coding/Road2Coding)
+🌐 资源地址：[点击跳转](https://r2coding.com/) |🧩[开源地址](https://github.com/rd2coding/Road2Coding)
 
 ### DevToys
 

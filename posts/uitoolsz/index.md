@@ -5,6 +5,18 @@
 
 <!--more-->
 
+### InvokeAI
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/Aw4FZ8.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：🖌️[InvokeAI](https://github.com/invoke-ai/InvokeAI) - Stable Diffusion 开箱即用的版本
+
+⭐️  资源描述：
+
+>📄找到了一款适合设计师同学使用的 Stable Diffusion 开箱即用的版本「[InvokeAI](https://github.com/invoke-ai/InvokeAI)」，这才是我认为能让 SD 被广泛使用的产品形态，之前那个 Web UI 其实不少同学玩了几下就没有太大兴趣了，这个版本的更像一个产品化的东西了，还很漂亮。
+
+🌐 资源地址: 🧩[开源地址](https://github.com/invoke-ai/InvokeAI)
+
 ### 52 Design Principles
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/ZSre7p.gif" alt="-"  title="Fun's images" >}}    
