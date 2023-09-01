@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### 英语学习工具
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/Q8exyE.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：**[2023，我私藏的英语学习工具](https://sspai.com/post/80086)**
+
+>📄在少数派看到一篇关于学习英语的常用软件推荐的文章《2023，我私藏的英语学习工具》，里面的好几个工具也是我正在使用的，比如说沉浸式翻译、YouTube 双字幕、Myshell AI 都挺不错，此外还有阅读文献、英文会议记录的工具，各种场景下的最佳实践，可看看。
+
+🌐 资源地址：[点击跳转](https://sspai.com/post/80086)
+
 ### English-Note
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730170242178.png" alt="-" title="Fun's images">}}     
