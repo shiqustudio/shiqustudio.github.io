@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Vox
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/F1nlfG.jpg" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：[Vox](https://vox.com/) - 一个很适合学习英语的新闻网站
+
+>📄一个很适合学习英语的新闻网站「[Vox](https://vox.com/)」，新闻中十万个为什么的那种感觉，解释型新闻网站，相比其他的外文英文，很多时候你并没有什么兴趣阅读下去，这个不太一样，通过一些你感兴趣的问题来吸引你阅读。
+
+🌐 资源地址：[点击跳转](https://vox.com/)
+
 ### 英语学习工具
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/Q8exyE.png" alt="-" title="Fun's images">}}     
