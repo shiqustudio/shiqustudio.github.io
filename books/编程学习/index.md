@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### awesome-python
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/image-20230901084057428.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：[awesome-python](https://github.com/vinta/awesome-python) - 一个精选的python资源列表 
+
+>📄该列表收藏了Python框架、库、软件和各种资源，非常大而全。
+
+🌐 资源地址：[点击跳转](https://github.com/vinta/awesome-python)
+
 ### Java 全栈知识体系
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/index-read.gif" alt="-" title="Fun's images">}}     
