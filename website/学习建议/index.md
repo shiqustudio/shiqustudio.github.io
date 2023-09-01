@@ -23,6 +23,16 @@
 
 🌐 资源地址: [点击跳转](https://www.kkdaxue.com/)
 
+### 让你受益匪浅的名家写作经验
+
+{{< image src="https://bib0.com/xc/i/2023/09/01/Hv5yls.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+>📄这个腾讯文档上面梳理的「[让你受益匪浅的名家写作经验](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J)」还挺有趣的，居然有这么多老作家写过教你如何写东西的文章，发现越来越多的工程师其实不太愿意写东西了，或许也不太想写，也有可能动不了笔，不知道写啥，说不定可以看看作家行业是怎么弄的。
+
+🌐 资源地址：[点击跳转](https://docs.qq.com/aio/DWVRkZ1RUWHRsdU1J)
+
 ### **通识类的书单整理**
 
 {{< image src="https://bib0.com/xc/i/2023/08/25/ZDzN9K.jpg" alt="-" title="Fun's images">}}  
