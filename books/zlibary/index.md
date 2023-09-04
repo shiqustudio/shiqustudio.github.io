@@ -58,6 +58,14 @@
 
 🌐 资源地址：[点击跳转](https://omnivore.app/) | [中文文档](https://docs.omnivore.app/zh/) | [开源地址](https://github.com/omnivore-app/omnivore) | [下载地址](https://omnivore.app/settings/installation)
 
+### 阅读 - 源仓库
+
+{{< image src="https://bib0.com/xc/i/2023/09/04/image-20230904112452004.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：阅读、书源种类繁多，更新频率高，根据需求自行选择订阅。
+
+🌐 资源地址：[点击跳转](https://www.yckceo.com/yuedu/shuyuan/index.html)
+
 ### 无名图书
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623153321185.png" alt="-" title="Fun's images">}}     

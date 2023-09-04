@@ -15,6 +15,14 @@
 
 🌐 资源地址：[点击跳转](https://github.com/vinta/awesome-python)
 
+### TypeScript 教程
+
+{{< image src="https://bib0.com/xc/i/2023/09/04/image-20230904111253726.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：TypeScript 开源教程，介绍基本概念和用法，面向初学者
+
+🌐 资源地址：[点击跳转](https://wangdoc.com/typescript/)
+
 ### Java 全栈知识体系
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/index-read.gif" alt="-" title="Fun's images">}}     
@@ -24,6 +32,27 @@
 >包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目..
 
 🌐 资源地址：[点击跳转](https://www.pdai.tech/)
+
+### 🧬学习全栈最佳备忘单
+
+{{< image src="https://bib0.com/xc/i/2023/09/04/image-20230904110457667.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：🧬学习全栈开发的最佳备忘单
+
+>1. 🌐[HTML ](http://htmlcheatsheets.com)
+>2. 🌐[CSS ](http://bit.ly/cheatcss)
+>3. 🌐[JavaScript ](http://overapi.com/javascript)
+>4. 🌐[Tailwind CSS](http://bit.ly/tailwindcheat)
+>5. 🌐[Bootstrap CSS](http://bit.ly/bootstrapcheat)
+>6. 🌐[JQuery ](http://oscarotero.com/jquery)
+>7. 🌐[React ](http://bit.ly/reactcheat)
+>8. 🌐[NodeJS ](http://overapi.com/nodejs)
+>9. 🌐[ExpressJS ](http://bit.ly/expresscheat)
+>10. 🌐[Python ](http://pythoncheatsheet.org)
+>11. 🌐[Django ](http://bit.ly/djangocheat)
+>12. 🌐[MongoDB ](http://bit.ly/mongocheat)
+>13. 🌐[GIT ](http://bit.ly/cheat-git)
+>14. 🌐[Linux ](http://bit.ly/linuxcheat)
 
 ### 计算机考研专业课程
 
