@@ -44,7 +44,7 @@
 >3. 🌐[JavaScript ](http://overapi.com/javascript)
 >4. 🌐[Tailwind CSS](http://bit.ly/tailwindcheat)
 >5. 🌐[Bootstrap CSS](http://bit.ly/bootstrapcheat)
->6. 🌐[JQuery ](http://oscarotero.com/jquery)
+>6. 🌐[JQuery](http://oscarotero.com/jquery)
 >7. 🌐[React ](http://bit.ly/reactcheat)
 >8. 🌐[NodeJS ](http://overapi.com/nodejs)
 >9. 🌐[ExpressJS ](http://bit.ly/expresscheat)
