@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### 计算机专业学习路线
+
+{{< image src="https://bib0.com/xc/i/2023/09/05/image-20230905081729750.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：计算机专业学习路线 
+
+>📄本学习路线主要参考美国四大CS名校（卡耐基梅隆CMU、斯坦福Stanford、加州伯克利UC Berkeley、麻省理工MIT）以及哈佛Harvard、普林斯顿Princeton等6所计算机名校的课程安排与内容。而这六所名校也恰好是图灵奖得主最多的前六所，排名依次为：斯坦福、MIT、伯克利、普林斯顿、哈佛、CMU。世界上那些最优秀的IT名人可能都学过这些课程，耕耘其中，尽享奇妙。本学习路线会尽可能列出配套的视频、书籍、作业、项目等相关资源，而且会不断更新。
+
+🌐 资源地址：[点击跳转](https://hackway.org/docs/cs/intro)
+
 ### awesome-python
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/image-20230901084057428.png" alt="-" title="Fun's images">}}     
