@@ -5,6 +5,17 @@
 
 <!--more-->
 
+### 吐司鱼
+
+{{< image src="https://bib0.com/xc/i/2023/09/07/image-20230907075820860.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：[吐司鱼](https://github.com/Uahh/ToastFish)  - 一个利用摸鱼时间背单词的软件
+
+>📄这是一个利用 Windows 通知栏背单词的软件，可以让你在上班、上课等恶劣环境下安全隐蔽地背单词
+>内置了四六级、GRE、雅思托福、SAT、专八等词库，你可以把利碎片时间利用起来了!
+
+🌐 资源地址：🧩[开源地址](https://github.com/Uahh/ToastFish) | [下载地址](https://github.com/Uahh/ToastFish/releases)
+
 ### Vox
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/F1nlfG.jpg" alt="-" title="Fun's images">}}     
