@@ -7,7 +7,7 @@
 
 ### 吐司鱼
 
-{{< image src="https://bib0.com/xc/i/2023/09/07/image-20230907075820860.png" alt="-" title="Fun's images">}}     
+{{< image src="https://bib0.com/xc/i/2023/09/07/image-20230907082208101.png" alt="-" title="Fun's images">}}     
 
 ⭐️  资源描述：[吐司鱼](https://github.com/Uahh/ToastFish)  - 一个利用摸鱼时间背单词的软件
 
