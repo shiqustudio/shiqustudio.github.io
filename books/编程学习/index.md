@@ -5,6 +5,22 @@
 
 <!--more-->
 
+### Interview
+
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623161425784.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
+
+🌐 资源地址：[点击跳转](https://interview.huihut.com/#/)🧩[Github地址](https://github.com/huihut/interview)
+
+### Learn-Javascript
+
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623154153335.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：从零开始教授 JavaScript 编程语言基础的书，内含丰富的在线练习
+
+🌐 资源地址：[点击跳转](https://javascript.sumankunwar.com.np/en/)🧩[Github地址](https://github.com/sumn2u/learn-javascript)
+
 ### 计算机专业学习路线
 
 {{< image src="https://bib0.com/xc/i/2023/09/05/image-20230905081729750.png" alt="-" title="Fun's images">}}     
