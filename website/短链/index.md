@@ -7,19 +7,9 @@
 
 <!--more-->
 
-### LURL
-
-![LURL 免费缩短图片与影片分享工具，附密码保护和有效期限设定](https://bib0.com/xc/i/2023/04/15/lurl-1.jpg)
-
-🆔  资源名称：LURL 免费缩短图片与影片分享工具，附密码保护和有效期限设定
-
-⭐️  资源描述：**LURL 除了缩短网址还有照片短网址、影片短网址功能，简单来说就是图片空间和影片空间。**此外，还能在上传时设定浏览密码、有效日期和浏览次数限制。
-
-🌐 资源地址： [点击跳转](https://free.com.tw/lurl/)
-
 ### Short io
 
-![Short io](https://bib0.com/xc/i/hugoBlog/short-io-01.jpg)
+![Short io](images/short-io-01.jpg)
 
 🆔  资源名称： Short io 可自订网域名称的免费缩网址服务
 
@@ -29,7 +19,7 @@
 
 ###  Cuttly 
 
-![Cuttly](https://bib0.com/xc/i/hugoBlog/cuttly-01.jpg)
+![Cuttly](images/cuttly-01.jpg)
 
 🆔  资源名称： Cuttly 免费缩网址服务，提供自订网域名称和连结后缀功能
 
@@ -43,7 +33,7 @@
 
 ###  Bitly         
 
-![Bitly ](https://bib0.com/xc/i/hugoBlog/bitly-custom-domain.png)    
+![Bitly ](images/bitly-custom-domain.png)    
 
 🆔  资源名称：Bitly 免费缩网址自订网域名称教学，让短网址也具有品牌风格
 
@@ -53,7 +43,7 @@
 
 ###  Url Shortener
 
-![Url Shortener](https://bib0.com/xc/i/hugoBlog/url-shortener-chrome-07.jpg)
+![Url Shortener](images/url-shortener-chrome-07.jpg)
 
 🆔  资源名称： Url Shortener 一键缩短连结、产生QR code，支援六种缩网址服务
 
@@ -76,7 +66,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ###  MyPPT          
 
-![MyPPT 缩网址上传影片、照片转连结，设定浏览密码和过期时间](https://bib0.com/xc/i/hugoBlog/myppt-01.jpg)
+![MyPPT 缩网址上传影片、照片转连结，设定浏览密码和过期时间](images/myppt-01.jpg)
 
 🆔  资源名称：MyPPT 缩网址上传影片、照片转连结，设定浏览密码和过期时间
 
@@ -88,7 +78,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### LinkSafe 
 
-![LinkSafe 网站首页](https://bib0.com/xc/i/hugoBlog/linksafe-01.jpg)    
+![LinkSafe 网站首页](images/linksafe-01.jpg)    
 
 🆔  资源名称：LinkSafe 在缩网址加入reCAPTCHA 验证机制，阻止自动点击程式
 
@@ -98,7 +88,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### Sudopad 
 
-![Sudopad 将多个网址加入单一页面分享，支援多人协作收集网址很好用](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-13-12.44.jpg)
+![Sudopad 将多个网址加入单一页面分享，支援多人协作收集网址很好用](images/Screenshot-2022-07-13-12.44.jpg)
 
 🆔  资源名称：Sudopad 将多个网址加入单一页面分享，支援多人协作收集网址很好用
 
@@ -110,7 +100,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### TinyURL
 
-![TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结](https://bib0.com/xc/i/hugoBlog/Screenshot-2021-10-23-12.48.jpg)
+![TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结](images/Screenshot-2021-10-23-12.48.jpg)
 
 🆔  资源名称：TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结
 
@@ -122,7 +112,7 @@ TinyURL 和Bitly 一样都提供付费升级、可自订网域名称的功能，
 
 ### Emojied
 
-![Emojied 免费缩网址工具，让短网址带有个性化表情符号😂](https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-11-11.33.jpg)
+![Emojied 免费缩网址工具，让短网址带有个性化表情符号😂](images/Screenshot-2022-05-11-11.33.jpg)
 
 🆔  资源名称：Emojied 免费缩网址工具，让短网址带有个性化表情符号😂
 
@@ -134,7 +124,7 @@ Emojied 还有简单的统计功能，用来查看某个短网址被点击的次
 
 ### Zero Width Shortener 
 
-![消失的短网址？ Zero Width Shortener 让网址缩短到几乎没有长度](https://bib0.com/xc/i/hugoBlog/2019-07-22_1340.png)
+![消失的短网址？ Zero Width Shortener 让网址缩短到几乎没有长度](images/2019-07-22_1340.png)
 
 🆔  资源名称：消失的短网址？Zero Width Shortener 让网址缩短到几乎没有长度
 
@@ -146,7 +136,7 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ### Make My Link Longer
 
-![这是恶搞吗？ Make My Link Longer 让网址变超长的「缩网址」服务](https://bib0.com/xc/i/hugoBlog/2019-05-12_1339.png)
+![这是恶搞吗？ Make My Link Longer 让网址变超长的「缩网址」服务](images/2019-05-12_1339.png)
 
 🆔  资源名称：这是恶搞吗？Make My Link Longer 让网址变超长的「缩网址」服务
 
@@ -154,7 +144,17 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 不过把网址变长究竟有什么用？一时半刻好像说不上来，但有使用者表示把这段网址放在电子邮件名片档确实有提高点击率的效果，或是使用于交友软体以获取更多关注，如果在写报告需要让字元数增加，透过Make My Link Longer 让网址变长再放到最后参考资料也能让整体字数看起来…（好孩子不要学）。
 
-🌐 资源地址： [点击跳转](https://make-my-link-longer.glitch.me/)    
+🌐 资源地址： [点击跳转](https://make-my-link-longer.glitch.me/)   
+
+### TinyURL
+
+![TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选](images/Screenshot-2021-11-05-11.35.jpg)
+
+🆔  资源名称：TinyURL 免费自订网域名称设定教学，让个性化网址成为缩网址首选
+
+⭐️  资源描述：TinyURL 有三种Tiny Subdomain 网址选项：tiny.us、likes.fans 和has.coffee，使用者可自行选择要加在前面的子网域名称，例如pseric.tiny.us 或pseric.has.coffee，然后将你的原始链结以这样的短网址格式缩短、呈现出来，同时具备TinyURL 相关功能。
+
+🌐 资源地址： [点击跳转](https://tinyurl.com/)   
 
 
 ---

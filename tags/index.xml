@@ -3,48 +3,7 @@
     <title>标签 - 标签 - 拾趣资源</title>
     <link>https://shiqustudio.github.io/tags/</link>
     <description>标签 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
-      <webMaster>shiqustudio@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>工具</title>
-  <link>https://shiqustudio.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
-  <pubDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/tags/%E5%B7%A5%E5%85%B7/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>在线</title>
-  <link>https://shiqustudio.github.io/tags/%E5%9C%A8%E7%BA%BF/</link>
-  <pubDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/tags/%E5%9C%A8%E7%BA%BF/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Ai</title>
-  <link>https://shiqustudio.github.io/tags/ai/</link>
-  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/tags/ai/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Github</title>
-  <link>https://shiqustudio.github.io/tags/github/</link>
-  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/tags/github/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Vercel</title>
-  <link>https://shiqustudio.github.io/tags/vercel/</link>
-  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://shiqustudio.github.io/tags/vercel/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://shiqustudio.github.io/tags/" rel="self" type="application/rss+xml" /><item>
   <title>专注力</title>
   <link>https://shiqustudio.github.io/tags/%E4%B8%93%E6%B3%A8%E5%8A%9B/</link>
   <pubDate>Sun, 02 Apr 2023 17:27:11 &#43;0000</pubDate>
@@ -82,6 +41,46 @@
   <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://shiqustudio.github.io/tags/%E8%BD%AC%E6%A1%A3/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Ai</title>
+  <link>https://shiqustudio.github.io/tags/ai/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/ai/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>ChatGpt</title>
+  <link>https://shiqustudio.github.io/tags/chatgpt/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/chatgpt/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>文件批量重命名</title>
+  <link>https://shiqustudio.github.io/tags/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>职场</title>
+  <link>https://shiqustudio.github.io/tags/%E8%81%8C%E5%9C%BA/</link>
+  <pubDate>Thu, 30 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E8%81%8C%E5%9C%BA/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>问答</title>
+  <link>https://shiqustudio.github.io/tags/%E9%97%AE%E7%AD%94/</link>
+  <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E9%97%AE%E7%AD%94/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
