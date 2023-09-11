@@ -1,126 +1,103 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>所有文章 - 拾趣资源</title>
-    <link>https://blog.funvip.live/posts/</link>
+    <link>https://shiqustudio.github.io/posts/</link>
     <description>所有文章 | 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>🖌️设计工具集</title>
-  <link>https://blog.funvip.live/posts/uitoolsz/</link>
-  <pubDate>Mon, 19 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/uitoolsz/</guid>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>hexo 博客源码备份</title>
+  <link>https://shiqustudio.github.io/blog-backup/</link>
+  <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/blog-backup/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/20/Group-109.svg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>设计资源网址导航 🌟🌟</p>
-</blockquote>]]></description>
+        <img src="/posts/blog-backup/images/1.png" referrerpolicy="no-referrer">
+      </div><h2 id="备份-hexo-博客">备份 hexo 博客</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">//如果 themes/next（主题文件）下面有。git，请删除这个。git 文件夹。
+</span></span><span class="line"><span class="cl">cd hexo
+</span></span><span class="line"><span class="cl">git init  //初始化本地仓库
+</span></span><span class="line"><span class="cl">git add source themes scaffolds _config.yml package.json package-lock.json  //将必要的文件依次添加
+</span></span><span class="line"><span class="cl">git commit -m &#34;blog hexo&#34;
+</span></span><span class="line"><span class="cl">git branch hexo  //新建 hexo 分支
+</span></span><span class="line"><span class="cl">git checkout hexo  //切换到 hexo 分支上
+</span></span><span class="line"><span class="cl">git remote add origin git@github.com:username/username.github.io.git  //将本地与 Github 项目对接
+</span></span><span class="line"><span class="cl">git push origin hexo  //push 到 Github 项目的 hexo 分支上
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="在其他终端克隆和更新-hexo-博客">在其他终端克隆和更新 hexo 博客</h2>
+<blockquote>
+<p>nodejs,git,hexo 已经安装好，即搭建完成</p>
+</blockquote>
+<h3 id="克隆-hexo-博客备份">克隆 hexo 博客备份</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git clone -b hexo git@github.com:username/username.github.io.git  //将 Github 中 hexo 分支 clone 到本地
+</span></span><span class="line"><span class="cl">cd user.github.io
+</span></span><span class="line"><span class="cl">npm install  //注意，这里一定要切换到刚刚 clone 的文件夹内执行，安装必要的所需组件，不用再 init
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>这样我们的备份文件就会原封不动的拷贝到本地。</p>
+<h3 id="写新文章并备份和部署备用操作">写新文章并备份和部署（备用操作）</h3>
+<blockquote>
+<p>其实源码拷下来了，这步不做我们也知道怎么做了，完全没必要按照教程死搬硬套。灵活一点就行了。</p>
+</blockquote>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">//进入 username.github.io 文件夹，应是 hexo 分支
+</span></span><span class="line"><span class="cl">git pull origin hexo //本地和远端的融合
+</span></span><span class="line"><span class="cl">hexo new post &#34;new post name&#34;  //写新文章
+</span></span><span class="line"><span class="cl">git add source
+</span></span><span class="line"><span class="cl">git commit -m &#34;xxx&#34;
+</span></span><span class="line"><span class="cl">git push origin hexo  //备份
+</span></span><span class="line"><span class="cl">hexo d -g  //部署
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><a href="https://blog.csdn.net/Monkey_LZL/article/details/60870891"target="_blank" rel="external nofollow noopener noreferrer">参考<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+]]></description>
 </item>
 <item>
-  <title>🔮LOGO设计</title>
-  <link>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/29/image-20230629231127663.png" referrerpolicy="no-referrer">
-      </div><p>LOGO设计灵感收集网站 🌟</p>]]></description>
-</item>
-<item>
-  <title>🌏Web Ui</title>
-  <link>https://blog.funvip.live/posts/webui/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/webui/</guid>
-  <description><![CDATA[<blockquote>
-<p>Web Ui设计资源导航 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🔎搜索引擎</title>
-  <link>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
-  <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
-  <description><![CDATA[<blockquote>
-<p>全能搜索引擎 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🤖Ai知识集</title>
-  <link>https://blog.funvip.live/posts/aisummary/</link>
-  <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/aisummary/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🤖Ai知识集</title>
-  <link>https://blog.funvip.live/posts/aisummary/</link>
-  <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/aisummary/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🔎搜索引擎</title>
-  <link>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
-  <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
-  <description><![CDATA[<blockquote>
-<p>全能搜索引擎 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🐏羊毛·薅</title>
-  <link>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</link>
-  <pubDate>Thu, 29 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</guid>
-  <description><![CDATA[<blockquote>
-<p>羊毛·薅 🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🌏Web Ui</title>
-  <link>https://blog.funvip.live/posts/webui/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/webui/</guid>
-  <description><![CDATA[<blockquote>
-<p>Web Ui设计资源导航 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🔮LOGO设计</title>
-  <link>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/29/image-20230629231127663.png" referrerpolicy="no-referrer">
-      </div><p>LOGO设计灵感收集网站 🌟</p>]]></description>
-</item>
-<item>
-  <title>🖌️设计工具集</title>
-  <link>https://blog.funvip.live/posts/uitoolsz/</link>
-  <pubDate>Mon, 19 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/uitoolsz/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/20/Group-109.svg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>设计资源网址导航 🌟🌟</p>
-</blockquote>]]></description>
+  <title>在线离线算法</title>
+  <link>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</link>
+  <pubDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</guid>
+  <description><![CDATA[<h2 id="在线算法httpsbaikebaiducomiteme59ca8e7babfe7ae97e6b3954449947"><a href="https://baike.baidu.com/item/%E5%9C%A8%E7%BA%BF%E7%AE%97%E6%B3%95/4449947"target="_blank" rel="external nofollow noopener noreferrer">在线算法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<p>在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。</p>
+<p>在计算机科学中，一个在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。相对的，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。例如，选择排序在排序前就需要知道所有待排序元素，然而插入排序就不必。<br>
+因为在线算法并不知道整个的输入，所以它被迫做出的选择最后可能会被证明不是最优的，对在线算法的研究主要集中在当前环境下怎么做出选择。对相同问题的在线算法和离线算法的对比分析形成了以上观点。如果想从其他角度了解在线算法可以看一下流算法（关注精确呈现过去的输入所使用的内存的量），动态算法（关注维护一个在线输入的结果所需要的时间复杂度）和在线机器学习。<br>
+一个很好的展示在线算法概念的例子是 加拿大旅行者问题，这个问题的目标是在一个有权图中以最小的代价到达一个目标节点，但这个有权图中有些边是不可靠的可能已经被剔除。然而一个旅行者只有到某个边的一个端点时才能确定该边是否已经被移除了。最坏情况下，该问题会变得简单了，即所有的不确定的边都被移除该问题将会变成通常的最短路径问题。</p>
+<h2 id="离线算法httpsbaikebaiducomiteme7a6bbe7babfe7ae97e6b395"><a href="https://baike.baidu.com/item/%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95"target="_blank" rel="external nofollow noopener noreferrer">离线算法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></h2>
+<p>离线算法 ( off line algorithms)，是指基于在执行算法前输入数据已知的基本假设，也就是说，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。</p>
+<p>设计策略 在执行算法前输入已知的基本假设<br>
+前提 具有问题完全信息<br>
+算法设计策略都是基于在执行算法前输入数据已知的基本假设，也就是说，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果，通常将这类具有问题完全信息前提下设计出的算法称为离线算法 ( off line algorithms)</p>
+]]></description>
 </item>
 </channel>
 </rss>

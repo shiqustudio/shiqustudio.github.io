@@ -2,32 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>测试文章 on 拾趣资源</title>
-    <link>https://blog.funvip.live/test/</link>
+    <link>https://shiqustudio.github.io/test/</link>
     <description>Recent content in 测试文章 on 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <managingEditor>43144966@qq.com (聪)</managingEditor>
-    <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/test/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://shiqustudio.github.io/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>linux 文件权限</title>
-      <link>https://blog.funvip.live/test/linux-permission/</link>
-      <pubDate>Mon, 20 Feb 2023 17:15:44 +0800</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/test/linux-permission/</guid>
-      <description>&lt;p&gt;记录 linux 系统下文件权限相关的内容，Mac OS 下类似。&lt;/p&gt;</description>
+      <title>测试post文档创建</title>
+      <link>https://shiqustudio.github.io/test/%E6%B5%8B%E8%AF%95post%E6%96%87%E6%A1%A3%E5%88%9B%E5%BB%BA/</link>
+      <pubDate>Wed, 22 Mar 2023 10:18:30 +0800</pubDate>
+      
+      <guid>https://shiqustudio.github.io/test/%E6%B5%8B%E8%AF%95post%E6%96%87%E6%A1%A3%E5%88%9B%E5%BB%BA/</guid>
+      <description>&lt;div class=&#34;details admonition quote&#34;&gt;
+    &lt;div class=&#34;details-summary admonition-title&#34;&gt;
+      &lt;i class=&#34;icon fa-solid fa-quote-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;quote&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;details-content&#34;&gt;
+      &lt;div class=&#34;admonition-content&#34;&gt;note abstract info tip success question warning failure danger bug example quote&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;</description>
     </item>
     
     <item>
-      <title>Git 常用指令汇总</title>
-      <link>https://blog.funvip.live/test/git/</link>
-      <pubDate>Mon, 20 Feb 2023 08:59:56 +0800</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/test/git/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;工作区&lt;/strong&gt;：就是你在电脑里能看到的目录。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;暂存区&lt;/strong&gt;：英文叫 stage, 或 index。一般存放在 &amp;ldquo;.git 目录下&amp;rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;版本库&lt;/strong&gt;：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <title>3月分享合集</title>
+      <link>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      
+      <guid>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

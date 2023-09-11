@@ -1,87 +1,86 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>标签 - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/</link>
+    <link>https://shiqustudio.github.io/tags/</link>
     <description>标签 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>Github</title>
-  <link>https://blog.funvip.live/tags/github/</link>
-  <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/github/</guid>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://shiqustudio.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>职场</title>
+  <link>https://shiqustudio.github.io/tags/%E8%81%8C%E5%9C%BA/</link>
+  <pubDate>Thu, 30 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/%E8%81%8C%E5%9C%BA/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>开源</title>
-  <link>https://blog.funvip.live/tags/%E5%BC%80%E6%BA%90/</link>
-  <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/%E5%BC%80%E6%BA%90/</guid>
+  <title>测试</title>
+  <link>https://shiqustudio.github.io/tags/%E6%B5%8B%E8%AF%95/</link>
+  <pubDate>Wed, 22 Mar 2023 10:18:30 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/%E6%B5%8B%E8%AF%95/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>自动化</title>
-  <link>https://blog.funvip.live/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
-  <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+  <title>问答</title>
+  <link>https://shiqustudio.github.io/tags/%E9%97%AE%E7%AD%94/</link>
+  <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/%E9%97%AE%E7%AD%94/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Ai</title>
-  <link>https://blog.funvip.live/tags/ai/</link>
-  <pubDate>Wed, 09 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/ai/</guid>
+  <title>pdf转换工具</title>
+  <link>https://shiqustudio.github.io/tags/pdf%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/pdf%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>工具</title>
-  <link>https://blog.funvip.live/tags/%E5%B7%A5%E5%85%B7/</link>
-  <pubDate>Wed, 09 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/%E5%B7%A5%E5%85%B7/</guid>
+  <title>安装</title>
+  <link>https://shiqustudio.github.io/tags/%E5%AE%89%E8%A3%85/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/%E5%AE%89%E8%A3%85/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>ChatGpt</title>
-  <link>https://blog.funvip.live/tags/chatgpt/</link>
-  <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/chatgpt/</guid>
+  <title>合集</title>
+  <link>https://shiqustudio.github.io/tags/%E5%90%88%E9%9B%86/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/%E5%90%88%E9%9B%86/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>编程</title>
-  <link>https://blog.funvip.live/tags/%E7%BC%96%E7%A8%8B/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/%E7%BC%96%E7%A8%8B/</guid>
+  <title>基础</title>
+  <link>https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>网站</title>
-  <link>https://blog.funvip.live/tags/%E7%BD%91%E7%AB%99/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/%E7%BD%91%E7%AB%99/</guid>
+  <title>拓展</title>
+  <link>https://shiqustudio.github.io/tags/%E6%8B%93%E5%B1%95/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/%E6%8B%93%E5%B1%95/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>英语</title>
-  <link>https://blog.funvip.live/tags/%E8%8B%B1%E8%AF%AD/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/%E8%8B%B1%E8%AF%AD/</guid>
+  <title>Git</title>
+  <link>https://shiqustudio.github.io/tags/git/</link>
+  <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/git/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>软件</title>
-  <link>https://blog.funvip.live/tags/%E8%BD%AF%E4%BB%B6/</link>
-  <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/%E8%BD%AF%E4%BB%B6/</guid>
+  <title>hexo</title>
+  <link>https://shiqustudio.github.io/tags/hexo/</link>
+  <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tags/hexo/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

@@ -1,110 +1,1234 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>拾趣资源</title>
-    <link>https://blog.funvip.live/</link>
+    <link>https://shiqustudio.github.io/</link>
     <description>世界在下沉，我们在狂欢</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</lastBuildDate>
-      <atom:link href="https://blog.funvip.live/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 30 Mar 2023 17:27:11 &#43;0000</lastBuildDate>
+      <atom:link href="https://shiqustudio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>🧩Github</title>
-  <link>https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/</link>
-  <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2021-10-05_00-02-53.jpg" referrerpolicy="no-referrer">
-      </div><p>整理收集开源、自动化项目相关资源。</p>]]></description>
-</item>
-<item>
-  <title>🧠Ai工具</title>
-  <link>https://blog.funvip.live/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/</link>
-  <pubDate>Wed, 09 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-10_21-09-15.jpg" referrerpolicy="no-referrer">
-      </div><p>整理收集Ai相关热门资源。 🌟🌟🌟🌟🌟</p>]]></description>
-</item>
-<item>
-  <title>🤖Ai知识集</title>
-  <link>https://blog.funvip.live/posts/aisummary/</link>
-  <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/aisummary/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>✍️英语学习</title>
-  <link>https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/26/image-20230626213913396.png" referrerpolicy="no-referrer">
-      </div><p>整理收集英语学习相关资源。</p>]]></description>
-</item>
-<item>
-  <title>🐵编程学习</title>
-  <link>https://blog.funvip.live/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/28/bianchengxuexi.png" referrerpolicy="no-referrer">
-      </div><p>整理收集编程相关资源。</p>]]></description>
-</item>
-<item>
-  <title>🛡️网络工具</title>
-  <link>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</link>
-  <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7/</guid>
-  <description><![CDATA[网络工具]]></description>
-</item>
-<item>
-  <title>🔎搜索引擎</title>
-  <link>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
-  <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
-  <description><![CDATA[<blockquote>
-<p>全能搜索引擎 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>如何提问：提问的智慧</title>
-  <link>https://blog.funvip.live/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</link>
-  <pubDate>Thu, 06 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</guid>
+  <title>职场进阶之如何复盘</title>
+  <link>https://shiqustudio.github.io/dailyshare/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/</link>
+  <pubDate>Thu, 30 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dailyshare/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
       </div><blockquote>
-<p>平时我们工作学习中都会遇到很多问题，如何更好的提问，从而促进问题的解决呢？问对问题才有会有正确的答案。这里强烈推荐看这篇《提问的智慧》，本文翻译自<a href="http://www.catb.org/~esr/faqs/smart-questions.html"target="_blank" rel="external nofollow noopener noreferrer">How To Ask Questions The Smart Way<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，原文在GitHub有几万的赞，足以见得本文被推崇的程度。</p>
-</blockquote>]]></description>
+<p>想必在职场中，总是会听到或者提及工作复盘一词，相信很多人在职场工作中也会用到复盘，当我们在完成一个项目时，如果要想形成一个完整的闭环，需要我们进行复盘，复盘能帮助我们快速梳理工作中出现的问题，从而吸取经验教训，有所成长。学会科学高效的复盘是职场人一项重要的能力。但很多人的复盘没有真正解决问题，只是为了复盘而复盘。怎样高效复盘呢，就让我们今天来聊聊复盘的知识吧。</p>
+</blockquote>
+<p>记得柳传志讲过,“通过复盘总结经验教训、尤其是失败的事情，要认真，不给自己留任何情面的把这个事想清楚， 把事情想明白，然后就可以谋定而后动了。”</p>
+<h3 id="一复盘的定义"><strong>一、复盘的定义</strong></h3>
+<p>复盘原是围棋术语，是指对弈者下完一盘棋之后，重新在棋盘上把对弈过程摆一遍，通过复盘，棋手们可以回顾自己对弈的棋局，分析得失、 总结经验，从而优化自己的技术，提升棋力。由此延申至我们的生活中，我们可以理解为：复盘其实是对过去已经做过的事情做一次回忆思考，分析事物成功与失败的关键因素，对其经验和教训进行总结，从而指导我们在日后生活和工作中进行改进，复盘的核心价值在于“巩固成功因素和纠正错误因素。”</p>
+<figure>
+</figure>
+
+<p>我们在工作所说的复盘是指运用科学的方法，对组织或个人以往的工作进行回顾，发现以往工作中的优点和不足，进而为未来的工作和计划做好准备。</p>
+<p>复盘不同于一般的工作总结，具有以下三个特点：</p>
+<ol>
+<li>结构化，复盘有固定的逻辑、程序或者框架</li>
+<li>学习导向，需要对照目标、结果、差异原因、从中学到经验和教训</li>
+<li>总结的基础上进行可能性探讨，即复盘需要分析、推演、找规律一系列过程</li>
+</ol>
+<p>复盘的时间大致分为：第一小事及时复盘 ，第二大事阶段性复盘 ，第三项目结束全面复盘。</p>
+<p>复盘的目的：有意识地从自己亲身经历的、过去的实践中进行总结分析，学到经验教训，达成能力的提升。</p>
+<p>复盘的本质：是一个问题解决的过程，复盘考查当初是如何确定目标以及现在做成的结果之间的差异，并且根据差异从而分析原因，以寻求解决方案，并开展后续的行动。</p>
+<h3 id="二复盘的方法和流程"><strong>二、复盘的方法和流程</strong></h3>
+<p>复盘是一种以学习为导向的、结构化的工作总结，那什么是结构化的思维呢？简单而言，结构化整理输入的信息，就是说横向信息的模块化整理，而不是东一块西一块的信息拼凑复盘。目的是促进团队和个人从经验中学习，因此需要把学习的逻辑嵌入到整个复盘的过程中。</p>
+<figure>
+</figure>
+
+<p>复盘一般而言分为四个步骤：1. 回顾目标 2. 评估结果 3. 分析原因 4. 总结经验</p>
+<p>第一步、回顾目标：当初的目标或期望的结果是什么；</p>
+<p>第二步、评估结果：对照原来设定的目标找出过程中的亮点和不足；</p>
+<p>第三步、分析原因：事情做成功的关键原因和失败的根本原因，包括主观和客观两方面；</p>
+<p>第四步、总结经验：包括体会、体验、反思、规律，以及接下来的行动计划。</p>
+<figure>
+</figure>
+
+<p><strong>第一步：回顾目标</strong></p>
+<p>在回顾目标的时候，我们需要问以下几个问题：</p>
+<p>● 需求是如何从提出到立项的？（需求背景）</p>
+<p>● 想要实现的目标和收益是什么？（业务目标）</p>
+<p>● 最初的计划是怎样的？（执行计划）</p>
+<p>● 预期的风险和应对措施是怎样的？（风险点&amp;对策）</p>
+<p>在实际操作过程中，大家可能会遇到以下问题：</p>
+<p>没有目标，如果开始没有设定目标，就谈不上复盘。其实是目标不清 ，不清楚自己的目标或者前期目标定的比较笼统，没有衡量标准，这时可以使用 SMART 原则来明确目标（如下图）</p>
+<figure>
+</figure>
+
+<p><strong>第二步：评估结果</strong></p>
+<p>在回顾完当初的目标后，需要对照目标和结果，找出亮点和不足。同样，我们需要回答以下几个问题：</p>
+<p>● 最初的目标和收益有没有实现？</p>
+<p>● 最初制定的计划，实际结果是怎么样的？</p>
+<p>● 与目标相比，哪些地方做的好？哪些地方未达到预期或有待改进？</p>
+<p>● 发生了哪些意料之外的事情？有何影响？</p>
+<p>通过问题，以客观事实层面回顾整个执行过程，将过程中存在各种问题进行整理总结，在下次遇到同样问题的时候可以迅速地响应并给出方案。评估结果的本质其实是发现问题的过程，问题是实际达成情况和计划目标之间的差距，如果是正向的，即目标超额完成，就萃取成功经验 如果结果是负向的，即没有达成目标，找到问题、分析原因、寻找解决之策。那么找到了问题，如何清晰、准确地表达出来呢？通常有句话”如果一个问题得到了正确的表达，可以说这个问题就已经解决了一半“。</p>
+<p><strong>第三步：分析原因</strong></p>
+<p>分析原因，是复盘中的核心环节。主要从成功的关键原因或失败的根本原因着手，包括主观和客观两方面。需要回答以下几个问题：</p>
+<p>● 亮点的主观/客观原因有哪些？</p>
+<p>● 其中真正起关键成功因素是什么？</p>
+<p>● 不足的主观/客观原因有哪些？</p>
+<p>● 其中最重要的根本原因是什么？</p>
+<p>在实际分析问题的时候，我们经常像盲人摸象，不能全面的思考一个问题，如何才能保证我们找出的原因是全面的呢？这时就可以运用复盘时常用的工具，帮助我们进行结构化的思考：</p>
+<p>分析问题的工具之“鱼骨图”，鱼骨图也被称为鱼刺图或石川图 ，是一种辅助分析决策工具，可以帮助我们对问题的原因进行归类、逻辑化、条理化。它看上去有些像鱼骨，将问题标在“鱼头”处。在鱼骨上长出鱼刺，按照产生问题的可能原因进行罗列出来，有助于说明各个原因是如何影响后果的。</p>
+<figure>
+</figure>
+
+<p>鱼骨图一般是与分析问题的工具之“5W2H” 搭配使用。（如下图）</p>
+<figure>
+</figure>
+
+<figure>
+</figure>
+
+<p><strong>第四步：总结经验</strong></p>
+<p>总结经验则需要进行经验和规律提炼，沉淀可以复用的流程/方法/能力/工具，并制定行动计划。不能只是草草做记录或简单下结论。可以从以下问题入手来理清思路：</p>
+<p>●从过程中学到了什么新东西?</p>
+<p>●是否可以扩展到其他项目中？</p>
+<p>●如果有人要进行类似的项目，我会给到什么建议?</p>
+<p>●接下来我们该做些什么，有哪些具体todos?</p>
+<p>要让复盘真正起到作用，就必须落实到具体的行动计划，并执行到位。只有将学到的经验教训付诸行动，转化为未来的的行动改进，才算完整的学习，提炼经验、行动或方案：</p>
+<p>1.继续执行的</p>
+<p>2.停止执行的</p>
+<p>3.调整执行的</p>
+<p>4.新增执行的</p>
+<p>5.证明有效的方案固化</p>
+<p>6.避免不良结果的方案的固化</p>
+<p><strong>复盘模版表</strong></p>
+<p>复盘的方法是结构化剖析以往工作的过程，快速复盘的具体操作 ：先填表，再细化。填表可以 对复盘过程有个整体的了解。填表的过程就是复盘的过程，回顾了目标，对结果进行分析，好在哪 问题在哪，成功与失败的原因，接下来怎么调整，一目了然。然后在表格的基础在再去细化、分析和提炼。</p>
+<figure>
+</figure>
+
+<h3 id="三复盘的案例"><strong>三、复盘的案例</strong></h3>
+<p>个人/业务复盘框架</p>
+<p><strong>1. 目标回顾</strong></p>
+<p>●SMART 法则（具体的，可衡量的，可实现的，有相关型的，有时限性的）</p>
+<p>●注意区分目的和手段</p>
+<p>●总的目标/对着项目流程图，写出每个工作环节的目标</p>
+<p><strong>2. 过程描述</strong></p>
+<p>● 可依据项目流程图，回忆每个环节的所做、所想。</p>
+<p>●注意点：1.按时间线梳理 2.真实客观 3.全面完整、细节丰富</p>
+<p><strong>3. 目标：结果对比</strong></p>
+<p>● 将原定目标和已经完成的结果两者进行对比</p>
+<p>● 结果与目标的差距，就是需要分析得关键点。</p>
+<p><strong>4. 分析原因</strong></p>
+<p>● 重点找到分析的入手点，寻找造成结果的真正原因</p>
+<p>从 与“ 预期不一致”  的地方入手</p>
+<p>用“五个为什么 ”  来挖掘原因</p>
+<p><strong>5 .探寻规律</strong></p>
+<p>● 提高规律准确性的方法：</p>
+<p>排除不可控因素</p>
+<p>用因果总结规律</p>
+<p>调整可控参数</p>
+<p><strong>6. 形成文档</strong></p>
+<p>●定期查看-减少决策成本</p>
+<p>●反复验证-形成方法论</p>
+<p><strong>结语</strong></p>
+<p>● 复盘是落地践行成长思维的一个非常重要的能力，你的能力不是静止的，而是不断成长的；</p>
+<p>● 持之以恒，养成复盘的习惯，把复盘作为流程的常规一部分，是提升组织管理能力最有效的方法</p>
+<p>● 并非所有复盘都要非常正式，中小型项目和日常，都可以快速复盘，积累经验和时刻反思。</p>
+<p>● 以成长为目标，不断积累知识库，把复盘的内容沉淀在统一的知识库内，经年累月，不断构筑高墙。</p>
+<p>● 设计复盘也是设计沉淀，沉淀可持续、可复用、可提升工作效率的工作或方法，达到能力提升。</p>]]></description>
 </item>
 <item>
-  <title>🏷️书签工具</title>
-  <link>https://blog.funvip.live/tools/%E4%B9%A6%E7%AD%BE/</link>
-  <pubDate>Sat, 01 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E4%B9%A6%E7%AD%BE/</guid>
-  <description><![CDATA[🔖书签工具 🌟🌟]]></description>
-</item>
-<item>
-  <title>🐏羊毛·薅</title>
-  <link>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</link>
-  <pubDate>Thu, 29 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</guid>
+  <title>常见问答</title>
+  <link>https://shiqustudio.github.io/question/</link>
+  <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/question/</guid>
   <description><![CDATA[<blockquote>
-<p>羊毛·薅 🌟</p>
-</blockquote>]]></description>
+<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>403144966</code>。</p>
+</blockquote>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>为什么不支持早期版本的 Hugo？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">由于 <a href="https://gohugo.io/functions/path.clean/"target="_blank" rel="external nofollow noopener noreferrer">函数 <code>path.Clean</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 在 <a href="https://github.com/gohugoio/hugo/releases/tag/v0.89.0"target="_blank" rel="external nofollow noopener noreferrer">Hugo 发行版 v0.89.0<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中被引入的，因此本主题只支持不低于 <strong>0.89.0</strong> 的 Hugo 版本。</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>为什么推荐使用 Hugo extended 版本？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">由于这个主题的一些特性需要将 SCSS 转换为 CSS, 推荐使用 Hugo <strong>extended</strong> 版本来获得更好的使用体验。</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>如何切换 Hugo 的运行环境？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p><code>hugo server</code> 的默认运行环境是 <code>development</code>, 而 <code>hugo</code> 的默认运行环境是 <code>production</code>。</p>
+<p>由于本地 <code>development</code> 环境的限制， <strong>评论系统</strong> , <strong>CDN</strong> 和 <strong>fingerprint</strong> 不会在 <code>development</code> 环境下启用。</p>
+<p>你可以使用 <code>hugo server -e production</code> 命令来开启这些特性。</p>
+</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>怎样选择搜索引擎？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>以下是两种搜索引擎的对比：</p>
+<ul>
+<li><code>fuse</code>: 简单，无需同步 <code>index.json</code>, 没有 <code>contentLength</code> 的限制，性能高</li>
+<li><code>lunr</code>: 简单，无需同步 <code>index.json</code>, 没有 <code>contentLength</code> 的限制，但占用带宽大且性能低（特别是中文需要一个较大的分词依赖库）</li>
+<li><code>algolia</code>: 高性能并且占用带宽低，但需要同步 <code>index.json</code> 且有 <code>contentLength</code> 的限制</li>
+</ul>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.3"target="_blank" rel="external nofollow noopener noreferrer"></a> 文章内容被 <code>h2</code> 和 <code>h3</code> HTML 标签切分来提高查询效果并且基本实现全文搜索。 <code>contentLength</code> 用来限制 <code>h2</code> 和 <code>h3</code> HTML 标签开头的内容部分的最大长度。</p>
+</div>
+    </div>
+  </div>
+<div class="details admonition question">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>其他问题？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><div id="id-2"><div class="typeit"><div id="id-1" class="highlight"></div></div>
+</div>
+</div>
+    </div>
+  </div>
+<p>没找到你的问题？加入 <a href="https://github.com/hugo-fixit/FixIt/discussions/new?category=q-a"target="_blank" rel="external nofollow noopener noreferrer">讨论<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 QQ 群：<code>403144966</code>。</p>]]></description>
+</item>
+<item>
+  <title>3月分享合集</title>
+  <link>https://shiqustudio.github.io/dailyshare/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/dailyshare/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
+      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>
+<h1 id="03-21">03-21</h1>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>ChatGPT<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><figure><figcaption>
+            <h4>Lighthouse (figure)</h4>
+        </figcaption>
+</figure>
+<p>🆔  插件名称：ChatGPT for Google</p>
+<p>⭐️  插件功能：搜索引擎加载ChatGPT</p>
+<p>➡️  支持平台：#Chrome #Firefox</p>
+<p>📁  插件简介：<a href="https://t.me/kkaifenxiang"target="_blank" rel="external nofollow noopener noreferrer">一个免费的浏览器扩展工具，能够在谷歌搜索、必应、百度、yandex、DuckDuckGo等主流搜索引擎搜索结果旁边显示ChatGPT对话响应结果，通过 ChatGPT 的强大功能增强搜索引擎。<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>软件特点：</p>
+<blockquote>
+<p>◉ 支持所有主流的搜索引擎</p>
+<p>◉ 支持OpenAI官方API</p>
+<p>◉ 从插件弹窗里快速使用ChatGPT</p>
+<p>◉ 支持Markdown渲染</p>
+<p>◉ 支持代码高亮</p>
+<p>◉ 支持深色模式</p>
+<p>◉ 可自定义ChatGPT触发模式</p>
+</blockquote>
+<p>🌐 插件下载：<a href="https://chatgpt4google.com/"target="_blank" rel="external nofollow noopener noreferrer">点击下载<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+</div>
+    </div>
+  </div>
+<hr>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>SubtitleEdit<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><figure><figcaption>
+            <h4>Lighthouse (figure)</h4>
+        </figcaption>
+</figure>
+<p>🆔  软件名称：SubtitleEdit</p>
+<p>⭐️  软件功能：字幕编辑</p>
+<p>➡️  支持平台：#Windows</p>
+<p>📁  软件简介：<a href="https://t.me/kkaifenxiang"target="_blank" rel="external nofollow noopener noreferrer">一款简单好用的视频字幕编辑制作软件。可以快速编辑制作字幕，可以通过多种方式轻松调整原有 的字幕，支持从头开始自己添加创建调整字幕行，可使用时间线/波形/频谱图等，或者是进行字幕翻译添加。<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>🌐 软件下载：<a href="https://github.com/SubtitleEdit/subtitleedit/releases"target="_blank" rel="external nofollow noopener noreferrer">点击下载<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+</div>
+    </div>
+  </div>]]></description>
+</item>
+<item>
+  <title>3月分享合集</title>
+  <link>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/test/%E5%88%86%E4%BA%AB%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/test/images/image-20230329222351552.png" referrerpolicy="no-referrer">
+      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>
+<h1 id="03-21">03-21</h1>
+<figure><figcaption>
+            <h4>Lighthouse (figure)</h4>
+        </figcaption>
+</figure>
+
+<p>描述：</p>
+<p>​	◎ 解锁会员，点击购买然后取消。</p>
+<p>​	🎁关注挖掘宝藏↓</p>
+<p>​	👉<a href="https://qssily.com/"target="_blank" rel="external nofollow noopener noreferrer">趣导航<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>描述：
+❏ Photoshop的在线简版应用, 是强大的在线图像处理，设计工具。</p>
+<p>🆔  网站名称： 懒得勤快</p>
+<p>📁 网站简介：个人资源网站，互联网分享精神，乐于发现，勤于分享</p>
+<p>🌐 网站网址： <a href="https://ldqk.xyz/"target="_blank" rel="external nofollow noopener noreferrer">点击直达<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>⭐️资源来源∶ <a href="https://t.me/ziyuan917"target="_blank" rel="external nofollow noopener noreferrer">优质网站汇总频道<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>📁 资源名称： <a href="https://t.me/yqc_123/2018"target="_blank" rel="external nofollow noopener noreferrer">Android VPN Inf MOD.4.106<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>💬 资源简介：VPN Inf - 免费稳定快速无限制的 VPN</p>
+<p>🔗 资源链接：<a href="https://www.mediafire.com/file/d97l5e0pxvlz9eb/Inf-VPN-v7_4_106-Premium-Mod_apps2app.com.apk/file"target="_blank" rel="external nofollow noopener noreferrer">VPN Inf MOD APK 7.4.106<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>📌 资源标签：#VPNInf #代理工具 #安卓应用 #安卓破解 #VPN
+✈
+🎉 机场套餐：9.5元/年200G/月  5元2000G/月  18元1T不过期
+➡️官网 三分机场.xyz</p>
+<p>🚀 搜群神器 TG中文频道导航</p>
+<p>🎁 搞钱</p>
+<p>🧧 成人</p>
+<p>🔞 <a href="https://t.me/souqun666"target="_blank" rel="external nofollow noopener noreferrer">搜索群 🔭<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>🈲 一键搜索所有你想的</p>
+<p>🔥 一键探索你所需要的</p>
+<p>😏 一键解决日常所有问题</p>
+<p>➡️ 频道：@souqun666</p>
+<p>🤖<a href="https://t.me/Yqc_PrivateChatBot"target="_blank" rel="external nofollow noopener noreferrer">消息投稿/广告投放/合作联系<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>⬅️</p>
+<hr>
+<a href="https://github.com/hugo-fixit/FixIt" title="source of FixIt Theme"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
+    <span class="cl-content">
+      <span class="cl-text">
+        <span class="cl-title">FixIt 主题的仓库</span>
+        <span class="cl-meta">
+          <svg class="cl-icon-link" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M574 665.4c-3.1-3.1-8.2-3.1-11.3 0L446.5 781.6c-53.8 53.8-144.6 59.5-204 0-59.5-59.5-53.8-150.2 0-204l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3l-39.8-39.8c-3.1-3.1-8.2-3.1-11.3 0L191.4 526.5c-84.6 84.6-84.6 221.5 0 306s221.5 84.6 306 0l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3L574 665.4zM832.6 191.4c-84.6-84.6-221.5-84.6-306 0L410.3 307.6c-3.1 3.1-3.1 8.2 0 11.3l39.7 39.7c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c53.8-53.8 144.6-59.5 204 0 59.5 59.5 53.8 150.2 0 204L665.3 562.6c-3.1 3.1-3.1 8.2 0 11.3l39.8 39.8c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c84.5-84.6 84.5-221.5 0-306.1z" fill="#a9a9b3"></path><path d="M610.1 372.3c-3.1-3.1-8.2-3.1-11.3 0L372.3 598.7c-3.1 3.1-3.1 8.2 0 11.3l39.6 39.6c3.1 3.1 8.2 3.1 11.3 0l226.4-226.4c3.1-3.1 3.1-8.2 0-11.3l-39.5-39.6z" fill="#a9a9b3"></path></svg>
+          <span class="cl-url">https://github.com/hugo-fixit/FixIt</span>
+        </span>
+      </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">当你运行 <code>hugo server</code> 时，当文件内容更改时，页面会随着更改自动刷新。</div>
+    </div>
+  </div>
+<p><div class="details admonition tip">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>This is a tip<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>技巧</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>技巧</strong> 横幅</div>
+    </div>
+  </div></p>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>注意</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition abstract open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-list-ul fa-fw" aria-hidden="true"></i>摘要<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>摘要</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition info open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>信息</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition success open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-check-circle fa-fw" aria-hidden="true"></i>成功<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>成功</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition question open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i>问题<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>问题</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition warning open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>警告</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition failure open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>失败<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>失败</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition danger open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-skull-crossbones fa-fw" aria-hidden="true"></i>危险<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>危险</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition bug open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-bug fa-fw" aria-hidden="true"></i>Bug<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>Bug</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition example open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-list-ol fa-fw" aria-hidden="true"></i>示例<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>示例</strong> 横幅</div>
+    </div>
+  </div>
+<div class="details admonition quote open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-quote-right fa-fw" aria-hidden="true"></i>引用<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">一个 <strong>引用</strong> 横幅</div>
+    </div>
+  </div>
+<p><a href="https://www.thinkcmf.com/font/font_awesome/whatisnew.html"target="_blank" rel="external nofollow noopener noreferrer">图标<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p>代码块原样输出
+{{&lt; admonition quote &gt;}} 一个 <strong>引用</strong> 横幅 {{&lt; /admonition &gt;}}</p>
+<p>Front Matter中常用的变量
+title: 内容标题
+date: 该页面的时间, 一般用来存放页面的创建时间.
+draft: 如果true, 表示页面为草稿页, 内容不会呈现在网站中, 除非添加 –buildDrafts 给hugo命令.
+keywords: 页面的关键字
+description: 内容描述, 主要用于SEO优化.
+weight: 列表页的文章排序, 值越小越靠前, 默认是按时间先后排序的, 也就是date中的值
+模板页中常用的变量
+.Title: 获取Front Matter中title的值
+.Content: 获取文章的内容
+.Date: 获取Front Matter中date的值
+.Description: 获取Front Matter中description的值, 一般用于meta中的description字段
+.Keywords: 获取Front Matter中keywords的值, 用于meta中的keyword字段
+.Permalink: 获取页面的链接地址(URL)
+.Next: 下一个页面
+.Prev: 上一个页面
+.WordCount: 内容的字数
+.ReadingTime: 阅读内容的预估时间
+.Pages: 当前列表页面下的内容页面的集合, 该变量在内容页模板的上下文中值为nil
+.Site: 站点变量, 该变量下包含很多站点级别的属性和方法.</p>
+<p>文档
+-每日分享
+-实用工具
+-搜索下载
+-英语
+-合集
+-另类
+关于
+-友链
+-教程
+-参考
+-分类
+-标签
+-常见问题
+留言
+RSS订阅
+每日60秒</p>
+<p>这个是text-muted属性的强调色！</p>
+<p>这个是text-primary属性的强调色！
+这个是text-success属性的强调色！
+这个是text-info属性的强调色！
+这个是text-warning属性的强调色！
+这个是text-danger属性的强调色！</p>]]></description>
+</item>
+<item>
+  <title>pdf转word等格式工具</title>
+  <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>
+<h1 id="pdf类型科普">📚PDF类型【科普】</h1>
+<p><strong>在转换PDF文档前，我们要先了解所转换的PDF文档是属于什么编码类型</strong></p>
+<p><strong>PDF文档分：标准编码的文字型PDF 和 非标准编码的文字型PDF</strong></p>
+<p>👉 <a href="https://www.yuque.com/xtranslator/zy/qnizp1"target="_blank" rel="external nofollow noopener noreferrer">详情了解 《标准编码的文字型PDF定义及非标准编码PDF类型》<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><strong>标准编码的文字型PDF：</strong></p>
+<blockquote>
+<p>PDF中可以正确的选中文字、复制它，并粘贴到记事本中之后看到的文字和pdf中相同，故<code>标准编码的PDF</code>可以直接无损转换，有些带OCR功能的软件可以直接转换图片的文字</p>
+</blockquote>
+<figure><figcaption>
+            <h4>Lighthouse (figure)</h4>
+        </figcaption>
+</figure>
+
+<p><strong>非标准编码的文字型PDF：</strong></p>
+<blockquote>
+<p>PDF文档大部分都是不能选中文字、复制它，因为基本都是图片形式</p>
+<p>这类PDF文档就要利用第三方软件转换成可编辑的标准编码格式,再进行转换</p>
+<p>👉 转换软件：<a href="https://wwc.lanzoul.com/i4lBM0cajm4d"target="_blank" rel="external nofollow noopener noreferrer">蓝奏云<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+</blockquote>
+<figure><figcaption>
+            <h4>Lighthouse (figure)</h4>
+        </figcaption>
+</figure>]]></description>
+</item>
+<item>
+  <title>进阶篇</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/tutorial/shili-jinjiepian/images/featured-image.png" referrerpolicy="no-referrer">
+      </div><p>探索 Hugo - <strong>FixIt</strong> 主题的的进阶使用。</p>
+<h2 id="自定义样式">自定义样式</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.8"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content"><p>Hugo <strong>extended</strong> 版本对于自定义样式是必需的。</p>
+<p>通过定义自定义 <code>.scss</code> 样式文件，<strong>FixIt</strong> 主题支持可配置的样式。</p>
+<p>包含自定义 <code>.scss</code> 样式文件的目录相对于 <strong>你的项目根目录</strong> 的路径为 <code>assets/css</code>。</p>
+<p>在 <code>assets/css/_override.scss</code> 中，你可以覆盖 <code>themes/FixIt/assets/css/_variables.scss</code> 中的变量以自定义样式。</p>
+</div>
+    </div>
+  </div>
+<p>这是一个例子：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-scss" data-lang="scss"><span class="line"><span class="cl"><span class="k">@import</span> <span class="sx">url(&#39;https://fonts.googleapis.com/css?family=Fira+Mono:400,700&amp;display=swap&amp;subset=latin-ext&#39;)</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="nv">$code-font-family</span><span class="o">:</span> <span class="n">Fira</span> <span class="n">Mono</span><span class="o">,</span> <span class="n">Source</span> <span class="n">Code</span> <span class="n">Pro</span><span class="o">,</span> <span class="n">Menlo</span><span class="o">,</span> <span class="n">Consolas</span><span class="o">,</span> <span class="n">Monaco</span><span class="o">,</span> <span class="ni">monospace</span><span class="p">;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>在 <code>assets/css/_custom.scss</code> 中，你可以添加一些 CSS 样式代码以自定义样式。</p>
+<h3 id="页面宽度">页面宽度</h3>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>FixIt 主题提供了页面宽度配置选项 <code>pageStyle</code> 并提供三种选项。</p>
+<ul>
+<li><strong>narrow</strong> 保留 <code>&lt;v0.2.13</code> 页面目录宽度比</li>
+<li><strong>normal</strong> 新的默认页面目录宽度比</li>
+<li><strong>wide</strong> 较大的页面目录宽度比</li>
+</ul>
+<p>另外，你还可以在 <code>assets/css/_custom.scss</code> 中，自定义 <code>pageStyle</code> 值</p>
+<p>例如： <code>pageStyle=&quot;custom&quot;</code></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-scss" data-lang="scss"><span class="line"><span class="cl"><span class="k">@media</span> <span class="n">only</span> <span class="ni">screen</span> <span class="ow">and</span> <span class="p">(</span><span class="na">min-width</span><span class="o">:</span> <span class="mi">1441</span><span class="kt">px</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="o">[</span><span class="nt">data-page-style</span><span class="o">=</span><span class="s1">&#39;custom&#39;</span><span class="o">]</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nc">.page</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">70</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nt">aside</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">15</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">@media</span> <span class="n">only</span> <span class="ni">screen</span> <span class="ow">and</span> <span class="p">(</span><span class="na">max-width</span><span class="o">:</span> <span class="mi">1440</span><span class="kt">px</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="o">[</span><span class="nt">data-page-style</span><span class="o">=</span><span class="s1">&#39;custom&#39;</span><span class="o">]</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nc">.page</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">60</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nt">aside</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">20</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">@media</span> <span class="n">only</span> <span class="ni">screen</span> <span class="ow">and</span> <span class="p">(</span><span class="na">max-width</span><span class="o">:</span> <span class="mi">1200</span><span class="kt">px</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="o">[</span><span class="nt">data-page-style</span><span class="o">=</span><span class="s1">&#39;custom&#39;</span><span class="o">]</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nc">.page</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">56</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nt">aside</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">      <span class="na">width</span><span class="o">:</span> <span class="mi">22</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">  <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="打印样式">打印样式</h3>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>在 FixIt 主题中，提供有三个打印视图相关的 CSS 类</p>
+<ul>
+<li><code>page-break-before</code> 在元素之前插入分页符</li>
+<li><code>page-break-after</code> 在元素之后插入分页符</li>
+<li><code>print-d-none</code> 在打印视图中隐藏元素</li>
+</ul>
+<p>下面是一个简单的例子：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;page-break-before&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;page-break-after&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;print-d-none&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  您希望在打印视图中隐藏的某些内容写在此处。
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>如果设置 <code>goldmark.parser.attribute.block</code> 为 <code>true</code>，你也可以这样用：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{.page-break-before}
+</span></span><span class="line"><span class="cl">{.page-break-after}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">您希望在打印视图中隐藏的某些内容写在此处。
+</span></span><span class="line"><span class="cl">{.print-d-none}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="自定义脚本">自定义脚本</h2>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.16"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p>包含自定义脚本文件 <code>custom.js</code> 的目录相对于 <strong>你的项目根目录</strong> 的路径为 <code>assets/js</code>。</p>
+<p>如果脚本文件 <code>assets/js/custom.js</code> 存在，它将在每篇文章和页面的末尾执行。</p>
+<h2 id="自定义模板">自定义模板</h2>
+<p>Hugo 允许您通过覆盖主题模板来改造主题，例如：您可以创建 <code>layouts/404.html</code> 文件以覆盖 <code>themes/FixIt/layouts/404.html</code>，从而实现自定义 FixIt 主题 404 页面模板的需求。</p>
+<p>但是，对于主题的大多数模板，FixIt 通常不建议您这样做，因为这样可能会导致未来升级主题困难。</p>
+<p>为了避免升级冲突问题，基于这一特性，FixIt 主题在常用的位置开放了几个空的模板以供用户客制化，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.customFilePath</code> 参数。</p>
+<p>例如，FixIt 主题文档站点通过创建 <code>layouts/partials/custom/profile.html</code> 自定义了首页的 profile 部分。</p>
+<p>首先，启用自定义文件路径参数：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">params</span><span class="p">.</span><span class="nx">customFilePath</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">profile</span> <span class="p">=</span> <span class="s2">&#34;custom/profile.html&#34;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>然后，自定义模板：</p>
+<h2 id="pwa-支持">PWA 支持</h2>
+<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/guides/pwa-support/"target="_blank" rel="external nofollow noopener noreferrer">PWA 支持页面<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中介绍。</p>]]></description>
+</item>
+<item>
+  <title>扩展 Shortcode - bilibili</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>bilibili</code> shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。</p>
+<p>如果视频只有一个部分，则仅需要视频的 BV <code>id</code>, 例如：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://www.bilibili.com/video/BV1Sx411T7QQ
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>一个 <code>bilibili</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">BV1Sx411T7QQ</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">id</span><span class="o">=</span><span class="nx">BV1Sx411T7QQ</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1Sx411T7QQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
+<p>如果视频包含多个部分，则除了视频的 BV <code>id</code> 之外，还需要 <code>p</code>, 默认值为 <code>1</code>, 例如：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://www.bilibili.com/video/BV1TJ411C7An?p=3
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">BV1TJ411C7An</span><span class="w"> </span><span class="nx">3</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">bilibili</span><span class="w"> </span><span class="nx">id</span><span class="o">=</span><span class="nx">BV1TJ411C7An</span><span class="w"> </span><span class="nx">p</span><span class="o">=</span><span class="nx">3</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1TJ411C7An&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></description>
+</item>
+<item>
+  <title>扩展 Shortcode - echarts</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供数据可视化的功能。</p>
+<ul>
+<li>
+<p><strong>ECharts</strong> 是一个帮助你生成交互式数据可视化的库。</p>
+<p>ECharts 提供了常规的 <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">折线图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">柱状图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-scatter"target="_blank" rel="external nofollow noopener noreferrer">散点图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-pie"target="_blank" rel="external nofollow noopener noreferrer">饼图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-candlestick"target="_blank" rel="external nofollow noopener noreferrer">K 线图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 用于统计的 [盒形图][boxplot], 用于地理数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-map"target="_blank" rel="external nofollow noopener noreferrer">地图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-heatmap"target="_blank" rel="external nofollow noopener noreferrer">热力图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-lines"target="_blank" rel="external nofollow noopener noreferrer">线图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 用于关系数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-graph"target="_blank" rel="external nofollow noopener noreferrer">关系图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-treemap"target="_blank" rel="external nofollow noopener noreferrer">treemap<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-sunburst"target="_blank" rel="external nofollow noopener noreferrer">旭日图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 多维数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-parallel"target="_blank" rel="external nofollow noopener noreferrer">平行坐标<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 还有用于 BI 的 <a href="https://echarts.apache.org/zh/option.html#series-funnel"target="_blank" rel="external nofollow noopener noreferrer">漏斗图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-gauge"target="_blank" rel="external nofollow noopener noreferrer">仪表盘<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 并且支持图与图之间的混搭。</p>
+<p>只需在 <code>echarts</code> shortcode 中以 <code>JSON</code>/<code>YAML</code>/<code>TOML</code> 格式插入 ECharts 选项即可。</p>
+<p>一个 <code>JSON</code> 格式的 <code>echarts</code> 示例:</p>
+<div class="echarts" id="id-1" style="width: 100%; height: 30rem;"></div>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="l"><div class="echarts" id="id-2" style="width: 100%; height: 30rem;"></div></span><span class="w">
+</span></span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="nx"><div class="echarts" id="id-3" style="width: 100%; height: 30rem;"></div></span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p><code>echarts</code> shortcode 还有以下命名参数:</p>
+<ul>
+<li>
+<p><strong>width</strong> <em>[可选]</em> (<strong>第一个</strong>位置参数)</p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 数据可视化的宽度，默认值是 <code>100%</code></p>
+</li>
+<li>
+<p><strong>height</strong> <em>[可选]</em> (<strong>第二个</strong>位置参数)</p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 数据可视化的高度，默认值是 <code>30rem</code></p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title>扩展 Shortcode - mapbox</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供互动式地图的功能。</p>
+<p><a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个 JavaScript 库，它使用 WebGL, 以 <a href="https://docs.mapbox.com/help/glossary/vector-tiles/"target="_blank" rel="external nofollow noopener noreferrer">vector tiles<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/"target="_blank" rel="external nofollow noopener noreferrer">Mapbox styles<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 为来源，将它们渲染成互动式地图。</p>
+<p><code>mapbox</code> shortcode 有以下命名参数来使用 Mapbox GL JS:</p>
+<ul>
+<li>
+<p><strong>lng</strong> <em>[必需]</em>（<strong>第一个</strong>位置参数）</p>
+<p>地图初始中心点的经度，以度为单位。</p>
+</li>
+<li>
+<p><strong>lat</strong> <em>[必需]</em>（<strong>第二个</strong>位置参数）</p>
+<p>地图初始中心点的纬度，以度为单位。</p>
+</li>
+<li>
+<p><strong>zoom</strong> <em>[可选]</em>（<strong>第三个</strong>位置参数）</p>
+<p>地图的初始缩放级别，默认值是 <code>10</code>。</p>
+</li>
+<li>
+<p><strong>marked</strong> <em>[可选]</em>（<strong>第四个</strong>位置参数）</p>
+<p>是否在地图的初始中心点添加图钉，默认值是 <code>true</code>。</p>
+</li>
+<li>
+<p><strong>light-style</strong> <em>[可选]</em>（<strong>第五个</strong>位置参数）</p>
+<p>浅色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+</li>
+<li>
+<p><strong>dark-style</strong> <em>[可选]</em>（<strong>第六个</strong>位置参数）</p>
+<p>深色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+</li>
+<li>
+<p><strong>navigation</strong> <em>[可选]</em></p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#navigationcontrol"target="_blank" rel="external nofollow noopener noreferrer">NavigationControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+</li>
+<li>
+<p><strong>geolocate</strong> <em>[可选]</em></p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#geolocatecontrol"target="_blank" rel="external nofollow noopener noreferrer">GeolocateControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+</li>
+<li>
+<p><strong>scale</strong> <em>[可选]</em></p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#scalecontrol"target="_blank" rel="external nofollow noopener noreferrer">ScaleControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+</li>
+<li>
+<p><strong>fullscreen</strong> <em>[可选]</em></p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#fullscreencontrol"target="_blank" rel="external nofollow noopener noreferrer">FullscreenControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+</li>
+<li>
+<p><strong>width</strong> <em>[可选]</em></p>
+<p>地图的宽度，默认值是 <code>100%</code>。</p>
+</li>
+<li>
+<p><strong>height</strong> <em>[可选]</em></p>
+<p>地图的高度，默认值是 <code>20rem</code>。</p>
+</li>
+</ul>
+<p>一个简单的 <code>mapbox</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><div class="mapbox" id="id-1" style="width: 100%; height: 20rem;"></div>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><div class="mapbox" id="id-2" style="width: 100%; height: 20rem;"></div>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="mapbox" id="id-3" style="width: 100%; height: 20rem;"></div>
+<p>一个带有自定义样式的 <code>mapbox</code> 示例：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><div class="mapbox" id="id-4" style="width: 100%; height: 20rem;"></div>
+</span></span><span class="line"><span class="cl">或者
+</span></span><span class="line"><span class="cl"><div class="mapbox" id="id-5" style="width: 100%; height: 20rem;"></div>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下：</p>
+<div class="mapbox" id="id-6" style="width: 100%; height: 20rem;"></div>
+]]></description>
+</item>
+<item>
+  <title>扩展 Shortcode - mermaid</title>
+  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供绘制图表和流程图的功能。</p>
+<p><a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个可以帮助你在文章中绘制图表和流程图的库，类似 Markdown 的语法。</p>
+<p>只需将你的 mermaid 代码插入 <code>mermaid</code> shortcode 中即可。</p>
+<div class="details admonition tip open">
+    <div class="details-summary admonition-title">
+      <i class="icon fa-solid fa-lightbulb fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+      <div class="admonition-content">你可以在 <code>config.toml</code> 中通过 <code>params.mermaid</code> 参数全局配置 mermaid 的主题</div>
+    </div>
+  </div>
+<h2 id="流程图">流程图</h2>
+<p>一个 <strong>流程图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">graph LR;
+</span></span><span class="line"><span class="cl">    A[Hard edge] --&gt;|Link text| B(Round edge)
+</span></span><span class="line"><span class="cl">    B --&gt; C{Decision}
+</span></span><span class="line"><span class="cl">    C --&gt;|One| D[Result one]
+</span></span><span class="line"><span class="cl">    C --&gt;|Two| E[Result two]
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-1"></div>
+<h2 id="时序图">时序图</h2>
+<p>一个 <strong>时序图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">sequenceDiagram
+</span></span><span class="line"><span class="cl">    participant Alice
+</span></span><span class="line"><span class="cl">    participant Bob
+</span></span><span class="line"><span class="cl">    Alice-&gt;&gt;John: Hello John, how are you?
+</span></span><span class="line"><span class="cl">    loop Healthcheck
+</span></span><span class="line"><span class="cl">        John-&gt;John: Fight against hypochondria
+</span></span><span class="line"><span class="cl">    end
+</span></span><span class="line"><span class="cl">    Note right of John: Rational thoughts <span class="p">&lt;</span><span class="nt">br</span><span class="p">/&gt;</span>prevail...
+</span></span><span class="line"><span class="cl">    John--&gt;Alice: Great!
+</span></span><span class="line"><span class="cl">    John-&gt;Bob: How about you?
+</span></span><span class="line"><span class="cl">    Bob--&gt;John: Jolly good!
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-2"></div>
+<h2 id="甘特图">甘特图</h2>
+<p>一个 <strong>甘特图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">gantt
+</span></span><span class="line"><span class="cl">dateFormat  YYYY-MM-DD
+</span></span><span class="line"><span class="cl">title Adding GANTT diagram to mermaid
+</span></span><span class="line"><span class="cl">excludes weekdays 2014-01-10
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">section A section
+</span></span><span class="line"><span class="cl">Completed task            :done,    des1, 2014-01-06,2014-01-08
+</span></span><span class="line"><span class="cl">Active task               :active,  des2, 2014-01-09, 3d
+</span></span><span class="line"><span class="cl">Future task               :         des3, after des2, 5d
+</span></span><span class="line"><span class="cl">Future task2              :         des4, after des3, 5d
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-3"></div>
+<h2 id="类图">类图</h2>
+<p>一个 <strong>类图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">classDiagram
+</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Duck
+</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Fish
+</span></span><span class="line"><span class="cl">    Animal <span class="err">&lt;</span>|-- Zebra
+</span></span><span class="line"><span class="cl">    Animal : +int age
+</span></span><span class="line"><span class="cl">    Animal : +String gender
+</span></span><span class="line"><span class="cl">    Animal: +isMammal()
+</span></span><span class="line"><span class="cl">    Animal: +mate()
+</span></span><span class="line"><span class="cl">    class Duck{
+</span></span><span class="line"><span class="cl">        +String beakColor
+</span></span><span class="line"><span class="cl">        +swim()
+</span></span><span class="line"><span class="cl">        +quack()
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">    class Fish{
+</span></span><span class="line"><span class="cl">        -int sizeInFeet
+</span></span><span class="line"><span class="cl">        -canEat()
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">    class Zebra{
+</span></span><span class="line"><span class="cl">        +bool is_wild
+</span></span><span class="line"><span class="cl">        +run()
+</span></span><span class="line"><span class="cl">    }
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-4"></div>
+<h2 id="状态图">状态图</h2>
+<p>一个 <strong>状态图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">stateDiagram-v2
+</span></span><span class="line"><span class="cl">    [*] --&gt; Still
+</span></span><span class="line"><span class="cl">    Still --&gt; [*]
+</span></span><span class="line"><span class="cl">    Still --&gt; Moving
+</span></span><span class="line"><span class="cl">    Moving --&gt; Still
+</span></span><span class="line"><span class="cl">    Moving --&gt; Crash
+</span></span><span class="line"><span class="cl">    Crash --&gt; [*]
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-5"></div>
+<h2 id="git-图">Git 图</h2>
+<p>一个 <strong>Git 图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">gitGraph
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    branch develop
+</span></span><span class="line"><span class="cl">    checkout develop
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    checkout main
+</span></span><span class="line"><span class="cl">    merge develop
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">    commit
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-6"></div>
+<h2 id="实体关系图">实体关系图</h2>
+<p>一个 <strong>实体关系图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">erDiagram
+</span></span><span class="line"><span class="cl">    CUSTOMER ||--o{ ORDER : places
+</span></span><span class="line"><span class="cl">    ORDER ||--|{ LINE-ITEM : contains
+</span></span><span class="line"><span class="cl">    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="mermaid" id="id-7"></div>
+<h2 id="用户体验旅程图">用户体验旅程图</h2>
+<p>一个 <strong>用户体验旅程图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">journey
+</span></span><span class="line"><span class="cl">    title My working day
+</span></span><span class="line"><span class="cl">    section Go to work
+</span></span><span class="line"><span class="cl">      Make tea: 5: Me
+</span></span><span class="line"><span class="cl">      Go upstairs: 3: Me
+</span></span><span class="line"><span class="cl">      Do work: 1: Me, Cat
+</span></span><span class="line"><span class="cl">    section Go home
+</span></span><span class="line"><span class="cl">      Go downstairs: 5: Me
+</span></span><span class="line"><span class="cl">      Sit down: 5: Me
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-8"></div>
+<h2 id="饼图">饼图</h2>
+<p>一个 <strong>饼图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">pie
+</span></span><span class="line"><span class="cl">    &#34;Dogs&#34; : 386
+</span></span><span class="line"><span class="cl">    &#34;Cats&#34; : 85
+</span></span><span class="line"><span class="cl">    &#34;Rats&#34; : 15
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-9"></div>
+<h2 id="依赖图">依赖图</h2>
+<p>一个 <strong>依赖图</strong> <code>mermaid</code> 示例:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">requirementDiagram
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">requirement test_req {
+</span></span><span class="line"><span class="cl">id: 1
+</span></span><span class="line"><span class="cl">text: the test text.
+</span></span><span class="line"><span class="cl">risk: high
+</span></span><span class="line"><span class="cl">verifymethod: test
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">element test_entity {
+</span></span><span class="line"><span class="cl">type: simulation
+</span></span><span class="line"><span class="cl">}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">test_entity - satisfies -&gt; test_req
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">mermaid</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>呈现的输出效果如下:</p>
+<div class="mermaid" id="id-10"></div>
+]]></description>
 </item>
 </channel>
 </rss>

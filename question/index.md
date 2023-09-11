@@ -1,7 +1,7 @@
 # 常见问答
 
 
-> 本文档记录一些常见的问答，主要来自 [GitHub Discussions](https://github.com/shiqustudio/giscus/discussions) 和 QQ 群：`864217652`。
+> 本文档记录一些常见的问答，主要来自 [GitHub Discussions](https://github.com/hugo-fixit/FixIt/discussions) 和 QQ 群：`403144966`。
 
 <!--more-->
 
@@ -45,7 +45,7 @@
 
 {{< typeit code=javascript >}}
 
-欢迎留言补充......
+欢迎留言补充。
 
 {{< /typeit >}}
 
@@ -53,12 +53,11 @@
 
 {{< /admonition >}}
 
-没找到你的问题？加入 [讨论<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i>](https://github.com/orgs/hugo-fixit/discussions/new/choose) 或者 QQ 群：`864217652`。
-
+没找到你的问题？加入 [讨论<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i>](https://github.com/hugo-fixit/FixIt/discussions/new?category=q-a) 或者 QQ 群：`403144966`。
 
 
 ---
 
-> 作者: [聪](/about)  
-> URL: https://blog.funvip.live/question/  
+> 作者: [xucong](https://shiqustudio.github.io/)  
+> URL: https://shiqustudio.github.io/question/  
 
