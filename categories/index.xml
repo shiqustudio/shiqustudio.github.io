@@ -1,41 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>分类 - 分类 - 拾趣资源</title>
+    <title>Categories - 分类 - 拾趣资源</title>
     <link>https://shiqustudio.github.io/categories/</link>
-    <description>分类 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://shiqustudio.github.io/categories/" rel="self" type="application/rss+xml" /><item>
-  <title>杂谈</title>
-  <link>https://shiqustudio.github.io/categories/%E6%9D%82%E8%B0%88/</link>
-  <pubDate>Thu, 30 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/categories/%E6%9D%82%E8%B0%88/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>实验</title>
-  <link>https://shiqustudio.github.io/categories/%E5%AE%9E%E9%AA%8C/</link>
-  <pubDate>Wed, 22 Mar 2023 10:18:30 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/categories/%E5%AE%9E%E9%AA%8C/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>问答</title>
-  <link>https://shiqustudio.github.io/categories/%E9%97%AE%E7%AD%94/</link>
-  <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/categories/%E9%97%AE%E7%AD%94/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>工具</title>
-  <link>https://shiqustudio.github.io/categories/%E5%B7%A5%E5%85%B7/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/categories/%E5%B7%A5%E5%85%B7/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
+    <description>Categories - 分类 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/" rel="self" type="application/rss+xml" /><item>
   <title>示例</title>
   <link>https://shiqustudio.github.io/categories/%E7%A4%BA%E4%BE%8B/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
@@ -52,27 +20,67 @@
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Git</title>
-  <link>https://shiqustudio.github.io/categories/git/</link>
-  <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
+  <title>学习资料</title>
+  <link>https://shiqustudio.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</link>
+  <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/categories/git/</guid>
+  <guid>https://shiqustudio.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>posts</title>
+  <link>https://shiqustudio.github.io/categories/posts/</link>
+  <pubDate>Wed, 08 Mar 2023 09:55:43 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/categories/posts/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Go</title>
+  <link>https://shiqustudio.github.io/categories/go/</link>
+  <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/categories/go/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>Memo</title>
   <link>https://shiqustudio.github.io/categories/memo/</link>
-  <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
+  <pubDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</pubDate>
   <author>xucong</author>
   <guid>https://shiqustudio.github.io/categories/memo/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Grocery</title>
-  <link>https://shiqustudio.github.io/categories/grocery/</link>
-  <pubDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</pubDate>
+  <title>JavaScript</title>
+  <link>https://shiqustudio.github.io/categories/javascript/</link>
+  <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/categories/grocery/</guid>
+  <guid>https://shiqustudio.github.io/categories/javascript/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Projects</title>
+  <link>https://shiqustudio.github.io/categories/projects/</link>
+  <pubDate>Sun, 23 May 2021 17:15:41 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/categories/projects/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>瞎折腾</title>
+  <link>https://shiqustudio.github.io/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/</link>
+  <pubDate>Tue, 02 Mar 2021 21:46:40 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/categories/%E7%9E%8E%E6%8A%98%E8%85%BE/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>随笔</title>
+  <link>https://shiqustudio.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+  <pubDate>Wed, 24 Apr 2019 21:23:22 &#43;0000</pubDate>
+  <author>xucong</author>
+  <guid>https://shiqustudio.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

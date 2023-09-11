@@ -5,12 +5,12 @@
     <description>基础 - 标签 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/" rel="self" type="application/rss+xml" /><item>
   <title>进阶篇</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</link>
+  <link>https://shiqustudio.github.io/shili-jinjiepian/kuaisushangshou/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-jinjiepian/</guid>
+  <guid>https://shiqustudio.github.io/shili-jinjiepian/kuaisushangshou/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/tutorial/shili-jinjiepian/images/featured-image.png" referrerpolicy="no-referrer">
+        <img src="/shili-jinjiepian/kuaisushangshou/images/featured-image.png" referrerpolicy="no-referrer">
       </div><p>探索 Hugo - <strong>FixIt</strong> 主题的的进阶使用。</p>
 <h2 id="自定义样式">自定义样式</h2>
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.8"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -173,7 +173,7 @@
 <h2 id="自定义模板">自定义模板</h2>
 <p>Hugo 允许您通过覆盖主题模板来改造主题，例如：您可以创建 <code>layouts/404.html</code> 文件以覆盖 <code>themes/FixIt/layouts/404.html</code>，从而实现自定义 FixIt 主题 404 页面模板的需求。</p>
 <p>但是，对于主题的大多数模板，FixIt 通常不建议您这样做，因为这样可能会导致未来升级主题困难。</p>
-<p>为了避免升级冲突问题，基于这一特性，FixIt 主题在常用的位置开放了几个空的模板以供用户客制化，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.customFilePath</code> 参数。</p>
+<p>为了避免升级冲突问题，基于这一特性，FixIt 主题在常用的位置开放了几个空的模板以供用户客制化，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.customFilePath</code> 参数。</p>
 <p>例如，FixIt 主题文档站点通过创建 <code>layouts/partials/custom/profile.html</code> 自定义了首页的 profile 部分。</p>
 <p>首先，启用自定义文件路径参数：</p>
 <div class="highlight"><div class="chroma">
@@ -188,14 +188,14 @@
 </div>
 </div><p>然后，自定义模板：</p>
 <h2 id="pwa-支持">PWA 支持</h2>
-<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/guides/pwa-support/"target="_blank" rel="external nofollow noopener noreferrer">PWA 支持页面<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中介绍。</p>]]></description>
+<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/guides/pwa-support/"target="_blank" rel="external nofollow noopener noreferrer">PWA 支持页面</a> 中介绍。</p>]]></description>
 </item>
 <item>
   <title>扩展 Shortcode - bilibili</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
+  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
+  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -249,18 +249,18 @@
 </item>
 <item>
   <title>扩展 Shortcode - echarts</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
+  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
+  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供数据可视化的功能。</p>
+<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts</a> 库提供数据可视化的功能。</p>
 <ul>
 <li>
 <p><strong>ECharts</strong> 是一个帮助你生成交互式数据可视化的库。</p>
-<p>ECharts 提供了常规的 <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">折线图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">柱状图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-scatter"target="_blank" rel="external nofollow noopener noreferrer">散点图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-pie"target="_blank" rel="external nofollow noopener noreferrer">饼图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-candlestick"target="_blank" rel="external nofollow noopener noreferrer">K 线图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 用于统计的 [盒形图][boxplot], 用于地理数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-map"target="_blank" rel="external nofollow noopener noreferrer">地图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-heatmap"target="_blank" rel="external nofollow noopener noreferrer">热力图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-lines"target="_blank" rel="external nofollow noopener noreferrer">线图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 用于关系数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-graph"target="_blank" rel="external nofollow noopener noreferrer">关系图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-treemap"target="_blank" rel="external nofollow noopener noreferrer">treemap<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-sunburst"target="_blank" rel="external nofollow noopener noreferrer">旭日图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 多维数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-parallel"target="_blank" rel="external nofollow noopener noreferrer">平行坐标<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 还有用于 BI 的 <a href="https://echarts.apache.org/zh/option.html#series-funnel"target="_blank" rel="external nofollow noopener noreferrer">漏斗图<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, <a href="https://echarts.apache.org/zh/option.html#series-gauge"target="_blank" rel="external nofollow noopener noreferrer">仪表盘<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 并且支持图与图之间的混搭。</p>
+<p>ECharts 提供了常规的 <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">折线图</a>, <a href="https://echarts.apache.org/zh/option.html#series-line"target="_blank" rel="external nofollow noopener noreferrer">柱状图</a>, <a href="https://echarts.apache.org/zh/option.html#series-scatter"target="_blank" rel="external nofollow noopener noreferrer">散点图</a>, <a href="https://echarts.apache.org/zh/option.html#series-pie"target="_blank" rel="external nofollow noopener noreferrer">饼图</a>, <a href="https://echarts.apache.org/zh/option.html#series-candlestick"target="_blank" rel="external nofollow noopener noreferrer">K 线图</a>, 用于统计的 [盒形图][boxplot], 用于地理数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-map"target="_blank" rel="external nofollow noopener noreferrer">地图</a>, <a href="https://echarts.apache.org/zh/option.html#series-heatmap"target="_blank" rel="external nofollow noopener noreferrer">热力图</a>, <a href="https://echarts.apache.org/zh/option.html#series-lines"target="_blank" rel="external nofollow noopener noreferrer">线图</a>, 用于关系数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-graph"target="_blank" rel="external nofollow noopener noreferrer">关系图</a>, <a href="https://echarts.apache.org/zh/option.html#series-treemap"target="_blank" rel="external nofollow noopener noreferrer">treemap</a>, <a href="https://echarts.apache.org/zh/option.html#series-sunburst"target="_blank" rel="external nofollow noopener noreferrer">旭日图</a>, 多维数据可视化的 <a href="https://echarts.apache.org/zh/option.html#series-parallel"target="_blank" rel="external nofollow noopener noreferrer">平行坐标</a>, 还有用于 BI 的 <a href="https://echarts.apache.org/zh/option.html#series-funnel"target="_blank" rel="external nofollow noopener noreferrer">漏斗图</a>, <a href="https://echarts.apache.org/zh/option.html#series-gauge"target="_blank" rel="external nofollow noopener noreferrer">仪表盘</a>, 并且支持图与图之间的混搭。</p>
 <p>只需在 <code>echarts</code> shortcode 中以 <code>JSON</code>/<code>YAML</code>/<code>TOML</code> 格式插入 ECharts 选项即可。</p>
 <p>一个 <code>JSON</code> 格式的 <code>echarts</code> 示例:</p>
 <div class="echarts" id="id-1" style="width: 100%; height: 30rem;"></div>
@@ -296,15 +296,15 @@
 </item>
 <item>
   <title>扩展 Shortcode - mapbox</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
+  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
+  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供互动式地图的功能。</p>
-<p><a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个 JavaScript 库，它使用 WebGL, 以 <a href="https://docs.mapbox.com/help/glossary/vector-tiles/"target="_blank" rel="external nofollow noopener noreferrer">vector tiles<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/"target="_blank" rel="external nofollow noopener noreferrer">Mapbox styles<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 为来源，将它们渲染成互动式地图。</p>
+<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS</a> 库提供互动式地图的功能。</p>
+<p><a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS</a> 是一个 JavaScript 库，它使用 WebGL, 以 <a href="https://docs.mapbox.com/help/glossary/vector-tiles/"target="_blank" rel="external nofollow noopener noreferrer">vector tiles</a> 和 <a href="https://docs.mapbox.com/mapbox-gl-js/style-spec/"target="_blank" rel="external nofollow noopener noreferrer">Mapbox styles</a> 为来源，将它们渲染成互动式地图。</p>
 <p><code>mapbox</code> shortcode 有以下命名参数来使用 Mapbox GL JS:</p>
 <ul>
 <li>
@@ -325,27 +325,27 @@
 </li>
 <li>
 <p><strong>light-style</strong> <em>[可选]</em>（<strong>第五个</strong>位置参数）</p>
-<p>浅色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+<p>浅色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
 </li>
 <li>
 <p><strong>dark-style</strong> <em>[可选]</em>（<strong>第六个</strong>位置参数）</p>
-<p>深色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+<p>深色主题的地图样式，默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
 </li>
 <li>
 <p><strong>navigation</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#navigationcontrol"target="_blank" rel="external nofollow noopener noreferrer">NavigationControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#navigationcontrol"target="_blank" rel="external nofollow noopener noreferrer">NavigationControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
 </li>
 <li>
 <p><strong>geolocate</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#geolocatecontrol"target="_blank" rel="external nofollow noopener noreferrer">GeolocateControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#geolocatecontrol"target="_blank" rel="external nofollow noopener noreferrer">GeolocateControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
 </li>
 <li>
 <p><strong>scale</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#scalecontrol"target="_blank" rel="external nofollow noopener noreferrer">ScaleControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#scalecontrol"target="_blank" rel="external nofollow noopener noreferrer">ScaleControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
 </li>
 <li>
 <p><strong>fullscreen</strong> <em>[可选]</em></p>
-<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#fullscreencontrol"target="_blank" rel="external nofollow noopener noreferrer">FullscreenControl<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置的值。</p>
+<p>是否添加 <a href="https://docs.mapbox.com/mapbox-gl-js/api#fullscreencontrol"target="_blank" rel="external nofollow noopener noreferrer">FullscreenControl</a>, 默认值是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#front-matter"target="_blank" rel="external nofollow noopener noreferrer">前置参数</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置的值。</p>
 </li>
 <li>
 <p><strong>width</strong> <em>[可选]</em></p>
@@ -390,15 +390,15 @@
 </item>
 <item>
   <title>扩展 Shortcode - mermaid</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
+  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
+  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供绘制图表和流程图的功能。</p>
-<p><a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个可以帮助你在文章中绘制图表和流程图的库，类似 Markdown 的语法。</p>
+<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid</a> 库提供绘制图表和流程图的功能。</p>
+<p><a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">mermaid</a> 是一个可以帮助你在文章中绘制图表和流程图的库，类似 Markdown 的语法。</p>
 <p>只需将你的 mermaid 代码插入 <code>mermaid</code> shortcode 中即可。</p>
 <div class="details admonition tip open">
     <div class="details-summary admonition-title">
@@ -743,17 +743,17 @@
 </item>
 <item>
   <title>扩展 Shortcode - music</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</link>
+  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</guid>
+  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/featured-image.png" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 提供了一个内嵌的响应式音乐播放器。</p>
+<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer</a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS</a> 提供了一个内嵌的响应式音乐播放器。</p>
 <p>有三种方式使用 <code>music</code> shortcode。</p>
 <h2 id="1-自定义音乐-url">1 自定义音乐 URL</h2>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的完整用法。</p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用</a> 的完整用法。</p>
 <p><code>music</code> shortcode 有以下命名参数来使用自定义音乐 URL:</p>
 <ul>
 <li>
@@ -891,13 +891,13 @@
 </item>
 <item>
   <title>扩展 Shortcode - typeit</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</link>
+  <link>https://shiqustudio.github.io/shili-tuozhanpian/tuozhanpian/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/tuozhanpian/</guid>
+  <guid>https://shiqustudio.github.io/shili-tuozhanpian/tuozhanpian/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/tutorial/shili-tuozhanpian/tuozhanpian/images/featured-image.png" referrerpolicy="no-referrer">
-      </div><p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 提供了打字动画。</p>
+        <img src="/shili-tuozhanpian/tuozhanpian/images/featured-image.png" referrerpolicy="no-referrer">
+      </div><p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt</a> 提供了打字动画。</p>
 <p>只需将你需要打字动画的内容插入 <code>typeit</code> shortcode 中即可。</p>
 <p><code>typeit</code> shortcode 有以下命名参数：</p>
 <ul>
@@ -928,58 +928,38 @@
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-tex" data-lang="tex"><span class="line"><span class="cl"><span class="nb">{{</span>&lt; typeit tag=h4 &gt;<span class="nb">}}</span>
-</span></span><span class="line"><span class="cl">这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-</span></span><span class="line"><span class="cl"><span class="nb">{{</span>&lt; /typeit &gt;<span class="nb">}}</span>
+<pre tabindex="0" class="chroma"><code class="language-tex" data-lang="tex"><span class="line"><span class="cl"><div class="typeit"><h4 id="id-1"></h4></div>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit" data-loop="false"><div id="id-1"></div></div>
+<div class="typeit" data-loop="false"><div id="id-2"></div></div>
 <p>另外，你也可以自定义 <strong>HTML 标签</strong>.</p>
 <p>一个带有 <code>h4</code> 标签的 <code>typeit</code> 示例：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">typeit</span> <span class="na">tag</span><span class="o">=</span><span class="s">h4</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit"><h4 id="id-3"></h4></div>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit"><h4 id="id-2"></h4></div>
+<div class="typeit"><h4 id="id-4"></h4></div>
 <h2 id="代码内容">代码内容</h2>
 <p>代码内容也是允许的，并且通过使用参数 <code>code</code> 指定语言类型可以实习语法高亮。</p>
 <p>一个带有 <code>code</code> 参数的 <code>typeit</code> 示例：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">typeit</span> <span class="na">code</span><span class="o">=</span><span class="s">java</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">public class HelloWorld {
-</span></span><span class="line"><span class="cl">    public static void main(String []args) {
-</span></span><span class="line"><span class="cl">        System.out.println(&#34;Hello World&#34;);
-</span></span><span class="line"><span class="cl">    }
-</span></span><span class="line"><span class="cl">}
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit"><div id="id-5" class="highlight"></div></div>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit"><div id="id-3" class="highlight"></div></div>
+<div class="typeit"><div id="id-6" class="highlight"></div></div>
 <h2 id="分组内容">分组内容</h2>
 <p>默认情况下，所有打字动画都是同时开始的。 但是有时你可能需要按顺序开始一组 <code>typeit</code> 内容的打字动画。</p>
 <p>一组具有相同 <code>group</code> 参数值的 <code>typeit</code> 内容将按顺序开始打字动画。</p>
@@ -989,31 +969,23 @@
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">typeit</span> <span class="na">group</span><span class="o">=</span><span class="s">paragraph</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">**首先**, 这个段落开始
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><div class="typeit" data-loop="false"><div id="id-7"></div></div>
 </span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">{{<span class="err">&lt;</span>/* typeit group=paragraph &gt;}}
-</span></span><span class="line"><span class="cl">**然后**, 这个段落开始
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">typeit</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl"><div class="typeit" data-loop="false"><div id="id-8"></div></div>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<div class="typeit" data-loop="false"><div id="id-4"></div></div>
-<div class="typeit" data-loop="false"><div id="id-5"></div></div>]]></description>
+<div class="typeit" data-loop="false"><div id="id-9"></div></div>
+<div class="typeit" data-loop="false"><div id="id-10"></div></div>]]></description>
 </item>
 <item>
   <title>扩展 Shortcodes</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</link>
+  <link>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</guid>
+  <guid>https://shiqustudio.github.io/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
@@ -1030,7 +1002,7 @@
   </div>
 <p><code>style</code> shortcode 用来在你的文章中插入自定义样式。</p>
 <p><code>style</code> shortcode 有两个位置参数。</p>
-<p>第一个参数是自定义样式的内容。它支持 <a href="https://sass-lang.com/documentation/style-rules/declarations#nesting"target="_blank" rel="external nofollow noopener noreferrer"> SASS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的嵌套语法， 并且 <code>&amp;</code> 指代这个父元素。</p>
+<p>第一个参数是自定义样式的内容。它支持 <a href="https://sass-lang.com/documentation/style-rules/declarations#nesting"target="_blank" rel="external nofollow noopener noreferrer"> SASS</a> 中的嵌套语法， 并且 <code>&amp;</code> 指代这个父元素。</p>
 <p>第二个参数是包裹你要更改样式的内容的 HTML 标签，默认值是 <code>div</code>。</p>
 <p>一个 <code>style</code> 示例：</p>
 <div class="highlight"><div class="chroma">
@@ -1049,8 +1021,8 @@
 <div id="id-1">This is a <strong>right-aligned</strong> paragraph.</div>
 <h2 id="link">link</h2>
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>link</code> shortcode 是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/basics/#links"target="_blank" rel="external nofollow noopener noreferrer">Markdown 链接语法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的替代。 <code>link</code> shortcode 可以提供一些其它的功能并且可以在代码块中使用。</p>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的完整用法。</p>
+<p><code>link</code> shortcode 是 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/basics/#links"target="_blank" rel="external nofollow noopener noreferrer">Markdown 链接语法</a> 的替代。 <code>link</code> shortcode 可以提供一些其它的功能并且可以在代码块中使用。</p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用</a> 的完整用法。</p>
 <p><code>link</code> shortcode 有以下命名参数：</p>
 <ul>
 <li>
@@ -1121,9 +1093,9 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下：</p>
-<a href="https://assemble.io"target="_blank" rel="external nofollow noopener noreferrer">https://assemble.io<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<a href="https://assemble.io"target="_blank" rel="external nofollow noopener noreferrer">https://assemble.io</a>
 <a href="mailto:contact@revolunet.com">mailto:contact@revolunet.com</a>
-<p><a href="https://assemble.io"target="_blank" rel="external nofollow noopener noreferrer">Assemble<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>
+<p><a href="https://assemble.io"target="_blank" rel="external nofollow noopener noreferrer">Assemble</a>
 一个带有标题的 <code>link</code> 示例：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1138,7 +1110,7 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>呈现的输出效果如下 （将鼠标悬停在链接上，会有一行提示）:</p>
-<p><a href="https://github.com/upstage/"target="_blank" rel="external nofollow noopener noreferrer">Upstage<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://github.com/upstage/"target="_blank" rel="external nofollow noopener noreferrer">Upstage</a></p>
 <p>一个卡片式 <code>link</code> 示例：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1188,8 +1160,8 @@
       </span><svg class="cl-icon-download" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M824.32 473.6c-15.36-2.56-25.6-15.36-25.6-30.72 0-112.64-71.68-217.6-179.2-250.88-148.48-46.08-289.28 38.4-332.8 166.4-2.56 10.24-12.8 17.92-23.04 20.48C143.36 401.92 51.2 509.44 51.2 637.44v2.56c0 115.2 97.28 204.8 209.92 204.8h524.8c102.4-2.56 184.32-84.48 184.32-186.88 2.56-89.6-61.44-163.84-145.92-184.32z m-273.92 225.28c-12.8 12.8-30.72 15.36-46.08 10.24H501.76c-5.12-2.56-10.24-5.12-15.36-10.24L366.08 578.56c-15.36-15.36-15.36-43.52 0-58.88 15.36-15.36 43.52-15.36 58.88 0l51.2 51.2V352.4608c0-23.04 17.92-40.96 40.96-40.96 23.04 0 40.96 17.92 40.96 40.96v218.4192l51.2-51.2c17.92-17.92 43.52-17.92 61.44 0 17.92 15.36 17.92 40.96 0 58.88l-120.32 120.32z" fill="#4FC089"></path></svg></span></a>
 <h2 id="image">image</h2>
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><code>image</code> shortcode 是 [<code>figure</code> shortcode][figure] 的替代。<code>image</code> shortcode 可以充分利用 <a href="https://github.com/sachinchoolur/lightgallery"target="_blank" rel="external nofollow noopener noreferrer">lightgallery<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的完整用法。</p>
+<p><code>image</code> shortcode 是 [<code>figure</code> shortcode][figure] 的替代。<code>image</code> shortcode 可以充分利用 <a href="https://github.com/sachinchoolur/lightgallery"target="_blank" rel="external nofollow noopener noreferrer">lightgallery</a>。</p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用</a> 的完整用法。</p>
 <p><code>image</code> shortcode 有以下命名参数：</p>
 <ul>
 <li>
@@ -1400,23 +1372,23 @@
     </div>
   </div>
 <h2 id="mermaid">mermaid</h2>
-<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供绘制图表和流程图的功能。</p>
-<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - mermaid<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/"target="_blank" rel="external nofollow noopener noreferrer">Mermaid</a> 库提供绘制图表和流程图的功能。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - mermaid</a>。</p>
 <h2 id="echarts">echarts</h2>
-<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供数据可视化的功能。</p>
-<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - echarts<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts</a> 库提供数据可视化的功能。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - echarts</a>。</p>
 <h2 id="mapbox">mapbox</h2>
-<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供互动式地图的功能。</p>
-<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - mapbox<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js"target="_blank" rel="external nofollow noopener noreferrer">Mapbox GL JS</a> 库提供互动式地图的功能。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - mapbox</a>。</p>
 <h2 id="music">music</h2>
-<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供了一个内嵌的响应式音乐播放器。</p>
-<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - music<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer</a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS</a> 库提供了一个内嵌的响应式音乐播放器。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - music</a>。</p>
 <h2 id="bilibili">bilibili</h2>
 <p><code>bilibili</code> shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。</p>
-<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - bilibili<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - bilibili</a>。</p>
 <h2 id="typeit">typeit</h2>
-<p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 提供了打字动画。</p>
-<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/typeit/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - typeit<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt</a> 提供了打字动画。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/typeit/"target="_blank" rel="external nofollow noopener noreferrer">扩展 Shortcode - typeit</a>。</p>
 <h2 id="script">script</h2>
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.8"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p><code>script</code> shortcode 用来在你的文章中插入 <strong>Javascript</strong> 脚本。</p>
@@ -1504,7 +1476,7 @@ this is a center-quote shortcode example.
 <h2 id="fixit-encryptor">fixit-encryptor</h2>
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p>您可以使用 <code>fixit-encryptor</code> shortcode 来加密部分内容。</p>
-<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/"target="_blank" rel="external nofollow noopener noreferrer">内容加密<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p>完整文档请查看页面 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/"target="_blank" rel="external nofollow noopener noreferrer">内容加密</a>。</p>
 <h2 id="raw">raw</h2>
 <p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.16"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p><code>raw</code> shortcode 用来在你的文章中插入原始 <strong>HTML</strong> 内容。</p>
@@ -1563,8 +1535,8 @@ this is a center-quote shortcode example.
     <div class="comment">给作者买杯卡布奇诺～</div>
     <input type="checkbox" class="reward-input" name="reward" id="id-2" hidden />
     <label class="reward-button" for="id-2">赞赏</label>
-    <div class="reward-ways"><div><span>支付宝</span>
-          </div><div><span>微信</span>
+    <div class="reward-ways"><div><span data-animation>支付宝</span>
+          </div><div><span data-animation>微信</span>
           </div></div>
   </div> 
 </span></span></code></pre></td></tr></table>
@@ -1574,19 +1546,19 @@ this is a center-quote shortcode example.
     <div class="comment">给作者买杯卡布奇诺～</div>
     <input type="checkbox" class="reward-input" name="reward" id="id-3" hidden />
     <label class="reward-button" for="id-3">赞赏</label>
-    <div class="reward-ways"><div><span>支付宝</span>
-          </div><div><span>微信</span>
+    <div class="reward-ways"><div><span data-animation>支付宝</span>
+          </div><div><span data-animation>微信</span>
           </div></div>
   </div>]]></description>
 </item>
 <item>
   <title>内容管理</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-neirongguanli/</link>
+  <link>https://shiqustudio.github.io/shili-neirongguanli/neirongguanli/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-neirongguanli/</guid>
+  <guid>https://shiqustudio.github.io/shili-neirongguanli/neirongguanli/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/tutorial/shili-neirongguanli/images/featured-image.jpg" referrerpolicy="no-referrer">
+        <img src="/shili-neirongguanli/neirongguanli/images/featured-image.jpg" referrerpolicy="no-referrer">
       </div><p>了解如何在 <strong>FixIt</strong> 主题中快速，直观地创建和组织内容。</p>
 <h2 id="内容组织">内容组织</h2>
 <p>以下是一些方便你清晰管理和生成文章的目录结构建议：</p>
@@ -1603,13 +1575,13 @@ this is a center-quote shortcode example.
       <div class="admonition-content"><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p>有三种方法来引用<strong>图片</strong>和<strong>音乐</strong>等本地资源：</p>
 <ol>
-<li>使用 <a href="https://gohugo.io/content-management/page-bundles/"target="_blank" rel="external nofollow noopener noreferrer">页面包<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <a href="https://gohugo.io/content-management/page-resources/"target="_blank" rel="external nofollow noopener noreferrer">页面资源<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。 你可以使用适用于 <code>Resources.GetMatch</code> 的值或者直接使用相对于当前页面目录的文件路径来引用页面资源。</li>
+<li>使用 <a href="https://gohugo.io/content-management/page-bundles/"target="_blank" rel="external nofollow noopener noreferrer">页面包</a> 中的 <a href="https://gohugo.io/content-management/page-resources/"target="_blank" rel="external nofollow noopener noreferrer">页面资源</a>。 你可以使用适用于 <code>Resources.GetMatch</code> 的值或者直接使用相对于当前页面目录的文件路径来引用页面资源。</li>
 <li>将本地资源放在 <strong>assets</strong> 目录中，默认路径是 <code>/assets</code>。 引用资源的文件路径是相对于 assets 目录的。</li>
 <li>将本地资源放在 <strong>static</strong> 目录中，默认路径是 <code>/static</code>。 引用资源的文件路径是相对于 static 目录的。</li>
 </ol>
 <p>引用的<strong>优先级</strong>符合以上的顺序。</p>
 <p>在这个主题中的很多地方可以使用上面的本地资源引用， 例如 <strong>链接</strong> , <strong>图片</strong> , <code>image</code> shortcode, <code>music</code> shortcode 和<strong>前置参数</strong>中的部分参数。</p>
-<p>页面资源或者 <strong>assets</strong> 目录中的 <a href="https://gohugo.io/content-management/image-processing/"target="_blank" rel="external nofollow noopener noreferrer">图片处理<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 会在未来的版本中得到支持。 非常酷的功能！</p>
+<p>页面资源或者 <strong>assets</strong> 目录中的 <a href="https://gohugo.io/content-management/image-processing/"target="_blank" rel="external nofollow noopener noreferrer">图片处理</a> 会在未来的版本中得到支持。 非常酷的功能！</p>
 </div>
     </div>
   </div>
@@ -1620,13 +1592,13 @@ this is a center-quote shortcode example.
       <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content"><strong>不是所有</strong>的以下前置参数都必须在你的每篇文章中设置。 只有在文章的参数和你的 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>page</code> 部分不一致时才有必要这么做。</div>
+      <div class="admonition-content"><strong>不是所有</strong>的以下前置参数都必须在你的每篇文章中设置。 只有在文章的参数和你的 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>page</code> 部分不一致时才有必要这么做。</div>
     </div>
   </div>
 <ul>
 <li><strong>title</strong>: 文章标题</li>
 <li><strong>subtitle</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 文章副标题</li>
-<li><strong>date</strong>: 这篇文章创建的日期时间它通常是从文章的前置参数中的 <code>date</code> 字段获取的，但是也可以在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中设置</li>
+<li><strong>date</strong>: 这篇文章创建的日期时间它通常是从文章的前置参数中的 <code>date</code> 字段获取的，但是也可以在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中设置</li>
 <li><strong>lastmod</strong>: 上次修改内容的日期时间</li>
 <li><strong>draft</strong>: 如果设为 <code>true</code>, 除非 <code>hugo</code> 命令使用了 <code>--buildDrafts</code>/<code>-D</code> 参数，这篇文章不会被渲染</li>
 <li><strong>authorAvatar</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a> 是否启用文章作者头像</li>
@@ -1644,35 +1616,35 @@ this is a center-quote shortcode example.
 <li><strong>hiddenFromHomePage</strong>: 如果设为 <code>true</code>, 这篇文章将不会显示在主页上</li>
 <li><strong>hiddenFromSearch</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章将不会显示在搜索结果中</li>
 <li><strong>twemoji</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章会使用 twemoji</li>
-<li><strong>lightgallery</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.lightgallery</code> 部分相同</li>
-<li><strong>ruby</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/#ruby"target="_blank" rel="external nofollow noopener noreferrer">上标注释扩展语法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><strong>fraction</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/#fraction"target="_blank" rel="external nofollow noopener noreferrer">分数扩展语法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><strong>fontawesome</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/#fontawesome"target="_blank" rel="external nofollow noopener noreferrer">Font Awesome 扩展语法<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><strong>lightgallery</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.lightgallery</code> 部分相同</li>
+<li><strong>ruby</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/#ruby"target="_blank" rel="external nofollow noopener noreferrer">上标注释扩展语法</a></li>
+<li><strong>fraction</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/#fraction"target="_blank" rel="external nofollow noopener noreferrer">分数扩展语法</a></li>
+<li><strong>fontawesome</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 这篇文章会使用 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/#fontawesome"target="_blank" rel="external nofollow noopener noreferrer">Font Awesome 扩展语法</a></li>
 <li><strong>linkToMarkdown</strong>: 如果设为 <code>true</code>, 内容的页脚将显示指向原始 Markdown 文件的链接</li>
 <li><strong>rssFullText</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.4"target="_blank" rel="external nofollow noopener noreferrer"></a> 如果设为 <code>true</code>, 在 RSS 中将会显示全文内容</li>
-<li><strong>pageStyle</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a> 页面样式，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/advanced/#page-style"target="_blank" rel="external nofollow noopener noreferrer">页面宽度<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
+<li><strong>pageStyle</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a> 页面样式，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/advanced/#page-style"target="_blank" rel="external nofollow noopener noreferrer">页面宽度</a></li>
 <li><strong>gravatarForce</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.14"target="_blank" rel="external nofollow noopener noreferrer"></a> <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a> 强制使用 Gravatar 作为作者头像</li>
-<li><strong>toc</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.9"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.toc</code> 部分相同</li>
-<li><strong>expirationReminder</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.expirationReminder</code> 部分相同</li>
-<li><strong>code</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.code</code> 部分相同</li>
-<li><strong>edit</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.14"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.edit</code> 部分相同</li>
-<li><strong>math</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.math</code> 部分相同</li>
-<li><strong>mapbox</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.mapbox</code> 部分相同</li>
-<li><strong>share</strong>: 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.share</code> 部分相同</li>
-<li><strong>comment</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.comment</code> 部分相同</li>
-<li><strong>library</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.7"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.library</code> 部分相同</li>
-<li><strong>seo</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.seo</code> 部分相同</li>
-<li><strong>type</strong>: 页面渲染模板，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#templates"target="_blank" rel="external nofollow noopener noreferrer">页面模板<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><strong>menu</strong>: 详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#content-to-menu"target="_blank" rel="external nofollow noopener noreferrer">添加内容到菜单<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><strong>password</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a> 加密页面内容的密码，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#content-encryption"target="_blank" rel="external nofollow noopener noreferrer">内容加密<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><strong>message</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a> 加密提示信息，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#content-encryption"target="_blank" rel="external nofollow noopener noreferrer">内容加密<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
-<li><strong>repost</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.repost</code> 部分相同</li>
-<li><strong>autoBookmark</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.autoBookmark</code> 部分相同</li>
-<li><strong>wordCount</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.wordCount</code> 部分相同</li>
-<li><strong>readingTime</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.readingTime</code> 部分相同</li>
-<li><strong>endFlag</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.endFlag</code> 部分相同</li>
-<li><strong>reward</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.reward</code> 部分相同</li>
-<li><strong>instantPage</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>params.page.instantPage</code> 部分相同</li>
+<li><strong>toc</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.9"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.toc</code> 部分相同</li>
+<li><strong>expirationReminder</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.13"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.expirationReminder</code> 部分相同</li>
+<li><strong>code</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.code</code> 部分相同</li>
+<li><strong>edit</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.14"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.edit</code> 部分相同</li>
+<li><strong>math</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.math</code> 部分相同</li>
+<li><strong>mapbox</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.mapbox</code> 部分相同</li>
+<li><strong>share</strong>: 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.share</code> 部分相同</li>
+<li><strong>comment</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.comment</code> 部分相同</li>
+<li><strong>library</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.7"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.library</code> 部分相同</li>
+<li><strong>seo</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.seo</code> 部分相同</li>
+<li><strong>type</strong>: 页面渲染模板，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#templates"target="_blank" rel="external nofollow noopener noreferrer">页面模板</a></li>
+<li><strong>menu</strong>: 详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#content-to-menu"target="_blank" rel="external nofollow noopener noreferrer">添加内容到菜单</a></li>
+<li><strong>password</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a> 加密页面内容的密码，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#content-encryption"target="_blank" rel="external nofollow noopener noreferrer">内容加密</a></li>
+<li><strong>message</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a> 加密提示信息，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#content-encryption"target="_blank" rel="external nofollow noopener noreferrer">内容加密</a></li>
+<li><strong>repost</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.15"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.repost</code> 部分相同</li>
+<li><strong>autoBookmark</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.autoBookmark</code> 部分相同</li>
+<li><strong>wordCount</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.wordCount</code> 部分相同</li>
+<li><strong>readingTime</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.readingTime</code> 部分相同</li>
+<li><strong>endFlag</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.endFlag</code> 部分相同</li>
+<li><strong>reward</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.reward</code> 部分相同</li>
+<li><strong>instantPage</strong>: <a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18"target="_blank" rel="external nofollow noopener noreferrer"></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>params.page.instantPage</code> 部分相同</li>
 </ul>
 <div class="details admonition tip open">
     <div class="details-summary admonition-title">
@@ -1680,8 +1652,8 @@ this is a center-quote shortcode example.
     </div>
     <div class="details-content">
       <div class="admonition-content"><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><strong>featuredImage</strong> 和 <strong>featuredImagePreview</strong> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的完整用法。</p>
-<p>如果带有在前置参数中设置了 <code>name: featured-image</code> 或 <code>name: featured-image-preview</code> 属性的页面资源， 没有必要在设置 <code>featuredImage</code> 或 <code>featuredImagePreview</code>:<strong>不是所有</strong>的以下前置参数都必须在你的每篇文章中设置。 只有在文章的参数和你的 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中的 <code>page</code> 部分不一致时才有必要这么做。</p>
+<p><strong>featuredImage</strong> 和 <strong>featuredImagePreview</strong> 支持 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/introduction/#contents-organization"target="_blank" rel="external nofollow noopener noreferrer">本地资源引用</a> 的完整用法。</p>
+<p>如果带有在前置参数中设置了 <code>name: featured-image</code> 或 <code>name: featured-image-preview</code> 属性的页面资源， 没有必要在设置 <code>featuredImage</code> 或 <code>featuredImagePreview</code>:<strong>不是所有</strong>的以下前置参数都必须在你的每篇文章中设置。 只有在文章的参数和你的 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 中的 <code>page</code> 部分不一致时才有必要这么做。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1699,7 +1671,7 @@ this is a center-quote shortcode example.
 </span></span></span></code></pre></td></tr></table>
 </div>
 </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.12"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
-<p><strong>FixIt</strong> 主题内嵌了一些 <a href="https://gohugo.io/content-management/archetypes/"target="_blank" rel="external nofollow noopener noreferrer">原型<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，在使用以下命令创建新内容时生效，会自动带入常用的前置参数：</p>
+<p><strong>FixIt</strong> 主题内嵌了一些 <a href="https://gohugo.io/content-management/archetypes/"target="_blank" rel="external nofollow noopener noreferrer">原型</a>，在使用以下命令创建新内容时生效，会自动带入常用的前置参数：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -1936,7 +1908,7 @@ this is a center-quote shortcode example.
     </div>
   </div>
 <h3 id="离线页面">离线页面</h3>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.12"target="_blank" rel="external nofollow noopener noreferrer"></a> 详见 <a href="https://fixit.lruihao.cn/zh-cn/guides/pwa-support/"target="_blank" rel="external nofollow noopener noreferrer">PWA 支持<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
+<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.12"target="_blank" rel="external nofollow noopener noreferrer"></a> 详见 <a href="https://fixit.lruihao.cn/zh-cn/guides/pwa-support/"target="_blank" rel="external nofollow noopener noreferrer">PWA 支持</a></p>
 <p>在前置参数中设置 <code>type: offline</code>，并在 <code>config.toml</code> 中开启 <code>enablePWA</code>：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1970,20 +1942,20 @@ this is a center-quote shortcode example.
     </div>
   </div>
 <h2 id="内容加密">内容加密</h2>
-<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/"target="_blank" rel="external nofollow noopener noreferrer">内容加密页面<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中介绍。</p>
+<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/"target="_blank" rel="external nofollow noopener noreferrer">内容加密页面</a> 中介绍。</p>
 <h2 id="markdown-语法">Markdown 语法</h2>
-<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/basics/"target="_blank" rel="external nofollow noopener noreferrer">Markdown 基本语法页面<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/"target="_blank" rel="external nofollow noopener noreferrer">Markdown 扩展语法页面<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中介绍。</p>
+<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/basics/"target="_blank" rel="external nofollow noopener noreferrer">Markdown 基本语法页面</a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/"target="_blank" rel="external nofollow noopener noreferrer">Markdown 扩展语法页面</a> 中介绍。</p>
 <h2 id="shortcodes">Shortcodes</h2>
-<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/"target="_blank" rel="external nofollow noopener noreferrer">Shortcodes 页面<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中介绍。</p>]]></description>
+<p>这部分内容在 <a href="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/"target="_blank" rel="external nofollow noopener noreferrer">Shortcodes 页面</a> 中介绍。</p>]]></description>
 </item>
 <item>
   <title>入门篇</title>
-  <link>https://shiqustudio.github.io/tutorial/shili-rumenpian/</link>
+  <link>https://shiqustudio.github.io/shili-rumenpian/kuaisushangshou/</link>
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tutorial/shili-rumenpian/</guid>
+  <guid>https://shiqustudio.github.io/shili-rumenpian/kuaisushangshou/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/tutorial/shili-rumenpian/images/featured-image.png" referrerpolicy="no-referrer">
+        <img src="/shili-rumenpian/kuaisushangshou/images/featured-image.png" referrerpolicy="no-referrer">
       </div><p>探索 Hugo - <strong>FixIt</strong> 主题的的基础知识和背后的核心概念。</p>
 <h2 id="安装方式">安装方式</h2>
 <a href="https://github.com/hugo-fixit/FixIt" title="source of FixIt Theme"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/fixit.min.svg);"></span>
@@ -1995,9 +1967,9 @@ this is a center-quote shortcode example.
           <span class="cl-url">https://github.com/hugo-fixit/FixIt</span>
         </span>
       </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
-<p>实际上有多种方式可以快速安装主题，选择其中 <strong>一种</strong> 即可（推荐 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#git-submodule"target="_blank" rel="external nofollow noopener noreferrer">Git 子模块<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#hugo-module"target="_blank" rel="external nofollow noopener noreferrer">Hugo 模块<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>）。</p>
+<p>实际上有多种方式可以快速安装主题，选择其中 <strong>一种</strong> 即可（推荐 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#git-submodule"target="_blank" rel="external nofollow noopener noreferrer">Git 子模块</a> 或者 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#hugo-module"target="_blank" rel="external nofollow noopener noreferrer">Hugo 模块</a>）。</p>
 <h3 id="手动下载">手动下载</h3>
-<p>你可以下载主题的 <a href="https://github.com/hugo-fixit/FixIt/releases"target="_blank" rel="external nofollow noopener noreferrer">最新版本 .zip 文件<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 并且解压放到 <code>themes</code> 目录。</p>
+<p>你可以下载主题的 <a href="https://github.com/hugo-fixit/FixIt/releases"target="_blank" rel="external nofollow noopener noreferrer">最新版本 .zip 文件</a> 并且解压放到 <code>themes</code> 目录。</p>
 <h3 id="git-克隆">Git 克隆</h3>
 <p>或者，也可以直接把这个主题克隆到 <code>themes</code> 目录：</p>
 <div class="highlight"><div class="chroma">
@@ -2018,7 +1990,7 @@ this is a center-quote shortcode example.
           <span class="cl-url">https://github.com/hugo-fixit/hugo-fixit-blog</span>
         </span>
       </span><svg class="cl-icon-globe" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
-<p>另外，在您的项目目录初始化一个空的 Git 存储库，将 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 主题克隆到 <code>themes</code> 目录中，将其作为 <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules"target="_blank" rel="external nofollow noopener noreferrer">Git 子模块<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 添加到您的项目中。</p>
+<p>另外，在您的项目目录初始化一个空的 Git 存储库，将 <a href="https://github.com/hugo-fixit/FixIt"target="_blank" rel="external nofollow noopener noreferrer">FixIt</a> 主题克隆到 <code>themes</code> 目录中，将其作为 <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules"target="_blank" rel="external nofollow noopener noreferrer">Git 子模块</a> 添加到您的项目中。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -2060,7 +2032,7 @@ this is a center-quote shortcode example.
 <blockquote>
 <p>以这种方式，无需要在 <code>config.toml</code> 中配置 <code>theme = &quot;FixIt&quot;</code>。</p>
 </blockquote>
-<p>将 <a href="https://gohugo.io/hugo-modules/"target="_blank" rel="external nofollow noopener noreferrer">Hugo 模块<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 用于主题的最简单方法是将其导入配置中。请参阅 <a href="https://gohugo.io/hugo-modules/use-modules/"target="_blank" rel="external nofollow noopener noreferrer">使用 Hugo 模块<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p>将 <a href="https://gohugo.io/hugo-modules/"target="_blank" rel="external nofollow noopener noreferrer">Hugo 模块</a> 用于主题的最简单方法是将其导入配置中。请参阅 <a href="https://gohugo.io/hugo-modules/use-modules/"target="_blank" rel="external nofollow noopener noreferrer">使用 Hugo 模块</a>。</p>
 <ol>
 <li>
 <p>初始化 Hugo 模块系统：<code>hugo mod init github.com/&lt;your_user&gt;/&lt;your_project&gt;</code></p>
@@ -2082,7 +2054,7 @@ this is a center-quote shortcode example.
 </div></li>
 </ol>
 <h2 id="完整配置">完整配置</h2>
-<p>在开始配置之前，建议您执行以下命令，将主题的默认 <a href="https://github.com/hugo-fixit/FixIt/blob/master/config.toml"target="_blank" rel="external nofollow noopener noreferrer">config.toml<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 复制到您的项目中：</p>
+<p>在开始配置之前，建议您执行以下命令，将主题的默认 <a href="https://github.com/hugo-fixit/FixIt/blob/master/config.toml"target="_blank" rel="external nofollow noopener noreferrer">config.toml</a> 复制到您的项目中：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -2094,7 +2066,7 @@ this is a center-quote shortcode example.
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="菜单配置">菜单配置</h3>
-<p>Hugo 有一个简单而强大的 <a href="https://gohugo.io/content-management/menus/"target="_blank" rel="external nofollow noopener noreferrer">菜单系统<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>。</p>
+<p>Hugo 有一个简单而强大的 <a href="https://gohugo.io/content-management/menus/"target="_blank" rel="external nofollow noopener noreferrer">菜单系统</a>。</p>
 <p>根据 Hugo 提供的接口，FixIt 主题只实现了部分功能，这足以满足大多数人的需求，也让用户在使用上更加简单。</p>
 <p>下面是一个完整的菜单项配置：</p>
 <div class="highlight"><div class="chroma">
@@ -2192,7 +2164,7 @@ this is a center-quote shortcode example.
 </span></span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="主题配置">主题配置</h3>
-<p>除了 <a href="https://gohugo.io/overview/configuration/"target="_blank" rel="external nofollow noopener noreferrer">Hugo 全局配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#menu-configuration"target="_blank" rel="external nofollow noopener noreferrer">菜单配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 之外，<strong>FixIt</strong> 主题还允许您在网站配置中定义以下参数。</p>
+<p>除了 <a href="https://gohugo.io/overview/configuration/"target="_blank" rel="external nofollow noopener noreferrer">Hugo 全局配置</a> 和 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#menu-configuration"target="_blank" rel="external nofollow noopener noreferrer">菜单配置</a> 之外，<strong>FixIt</strong> 主题还允许您在网站配置中定义以下参数。</p>
 <p>请打开下面的代码块查看完整的 <code>config.toml</code> 示例配置:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -3943,7 +3915,7 @@ this is a center-quote shortcode example.
 </div>
 </div><p>所有支持的社交链接的默认数据位于 <code>themes/FixIt/assets/data/social.yaml</code>。 你可以参考它来配置你的社交链接。</p>
 <h4 id="搜索配置">搜索配置</h4>
-<p>基于 <a href="https://lunrjs.com/"target="_blank" rel="external nofollow noopener noreferrer">Lunr.js<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、 <a href="https://www.algolia.com/"target="_blank" rel="external nofollow noopener noreferrer">algolia<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或 <a href="https://fusejs.io/"target="_blank" rel="external nofollow noopener noreferrer">Fuse.js<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，<strong>FixIt</strong> 主题支持搜索功能，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的 <code>params.search</code> 配置。</p>
+<p>基于 <a href="https://lunrjs.com/"target="_blank" rel="external nofollow noopener noreferrer">Lunr.js</a>、 <a href="https://www.algolia.com/"target="_blank" rel="external nofollow noopener noreferrer">algolia</a> 或 <a href="https://fusejs.io/"target="_blank" rel="external nofollow noopener noreferrer">Fuse.js</a>，<strong>FixIt</strong> 主题支持搜索功能，详见 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration"target="_blank" rel="external nofollow noopener noreferrer">主题配置</a> 的 <code>params.search</code> 配置。</p>
 <p>为了生成搜索功能所需要的 <code>index.json</code>, 请在你的站点配置中添加 <code>JSON</code> 输出文件类型到 <code>outputs</code> 部分的 <code>home</code> 字段中。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -3960,7 +3932,7 @@ this is a center-quote shortcode example.
       <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i><strong>关于 algolia 的使用技巧</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content">你需要上传 <code>index.json</code> 到 algolia 来激活搜索功能。你可以使用浏览器来上传 <code>index.json</code> 文件但是一个自动化的脚本可能效果更好。 <a href="https://github.com/chrisdmacrae/atomic-algolia"target="_blank" rel="external nofollow noopener noreferrer">Algolia Atomic<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 是一个不错的选择。 为了兼容 Hugo 的多语言模式，你需要上传不同语言的 <code>index.json</code> 文件到对应的 algolia index, 例如 <code>zh-cn/index.json</code> 或 <code>fr/index.json</code>……</div>
+      <div class="admonition-content">你需要上传 <code>index.json</code> 到 algolia 来激活搜索功能。你可以使用浏览器来上传 <code>index.json</code> 文件但是一个自动化的脚本可能效果更好。 <a href="https://github.com/chrisdmacrae/atomic-algolia"target="_blank" rel="external nofollow noopener noreferrer">Algolia Atomic</a> 是一个不错的选择。 为了兼容 Hugo 的多语言模式，你需要上传不同语言的 <code>index.json</code> 文件到对应的 algolia index, 例如 <code>zh-cn/index.json</code> 或 <code>fr/index.json</code>……</div>
     </div>
   </div>
 <h3 id="网站图标浏览器配置网站清单">网站图标，浏览器配置，网站清单</h3>
@@ -3973,7 +3945,7 @@ this is a center-quote shortcode example.
 <li>android-chrome-192x192.png (192x192)</li>
 <li>android-chrome-512x512.png (512x512)</li>
 </ul>
-<p>放在 <code>/static</code> 目录。利用 <a href="https://realfavicongenerator.net/"target="_blank" rel="external nofollow noopener noreferrer">https://realfavicongenerator.net/<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 可以很容易地生成这些文件。</p>
+<p>放在 <code>/static</code> 目录。利用 <a href="https://realfavicongenerator.net/"target="_blank" rel="external nofollow noopener noreferrer">https://realfavicongenerator.net/</a> 可以很容易地生成这些文件。</p>
 <p>可以自定义 <code>browserconfig.xml</code> 和 <code>site.webmanifest</code> 文件来设置 <code>theme-color</code> 和 <code>background-color</code>。</p>
 <h3 id="多语言和-i18n">多语言和 i18n</h3>
 <p><strong>FixIt</strong> 主题完全兼容 Hugo 的多语言模式，并且支持在网页上切换语言。</p>
@@ -4086,7 +4058,7 @@ this is a center-quote shortcode example.
 </tbody>
 </table>
 <h4 id="基本配置">基本配置</h4>
-<p>学习了 <a href="https://gohugo.io/content-management/multilingual"target="_blank" rel="external nofollow noopener noreferrer">Hugo 如何处理多语言网站<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 之后，请在站点配置中定义你的网站语言。</p>
+<p>学习了 <a href="https://gohugo.io/content-management/multilingual"target="_blank" rel="external nofollow noopener noreferrer">Hugo 如何处理多语言网站</a> 之后，请在站点配置中定义你的网站语言。</p>
 <p>例如，一个支持英语，中文和法语的网站配置：</p>
 <p>然后，对于每个新页面，将语言代码附加到文件名中。</p>
 <p>单个文件 <code>my-page.md</code> 需要分为三个文件：</p>
@@ -4100,13 +4072,13 @@ this is a center-quote shortcode example.
       <i class="icon fa-solid fa-info-circle fa-fw" aria-hidden="true"></i>技巧<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
     </div>
     <div class="details-content">
-      <div class="admonition-content">也可以使用 <a href="https://gohugo.io/content-management/multilingual#translate-your-content"target="_blank" rel="external nofollow noopener noreferrer">文章前置参数<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 来翻译网址。</div>
+      <div class="admonition-content">也可以使用 <a href="https://gohugo.io/content-management/multilingual#translate-your-content"target="_blank" rel="external nofollow noopener noreferrer">文章前置参数</a> 来翻译网址。</div>
     </div>
   </div>
 <h4 id="修改默认的翻译字符串">修改默认的翻译字符串</h4>
-<p>翻译字符串用于在主题中使用的常见默认值。 目前提供 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#language-compatibility"target="_blank" rel="external nofollow noopener noreferrer">一些语言<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 的翻译，但你可能自定义其他语言或覆盖默认值。</p>
+<p>翻译字符串用于在主题中使用的常见默认值。 目前提供 <a href="https://fixit.lruihao.cn/zh-cn/documentation/basics/#language-compatibility"target="_blank" rel="external nofollow noopener noreferrer">一些语言</a> 的翻译，但你可能自定义其他语言或覆盖默认值。</p>
 <p>要覆盖默认值，请在你项目的 i18n 目录 <code>i18n/&lt;languageCode&gt;.toml</code> 中创建一个新文件，并从 <code>themes/FixIt/i18n/en.toml</code> 中获得提示。</p>
-<p>另外，由于你的翻译可能会帮助到其他人，请花点时间通过 <a href="https://github.com/hugo-fixit/FixIt/pulls"target="_blank" rel="external nofollow noopener noreferrer">创建一个 PR <i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 来贡献主题翻译，谢谢！</p>]]></description>
+<p>另外，由于你的翻译可能会帮助到其他人，请花点时间通过 <a href="https://github.com/hugo-fixit/FixIt/pulls"target="_blank" rel="external nofollow noopener noreferrer">创建一个 PR </a> 来贡献主题翻译，谢谢！</p>]]></description>
 </item>
 </channel>
 </rss>

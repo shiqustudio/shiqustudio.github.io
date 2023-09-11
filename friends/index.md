@@ -6,14 +6,14 @@
 > Warn: 超過兩年為更新或長期挂掉的站點將被取消！
 -->
 
-{{< link href="https://shiqustudio.github.io/friends/opml.xml" content=":(far fa-star fa-fw): Subscribe ours" download="opml.xml" card=true >}}
+{{< link href="https://lruihao.cn/friends/opml.xml" content=":(far fa-star fa-fw): Subscribe ours" download="opml.xml" card=true >}}
 
 ## 基本資訊
 
 ```yaml
-- nickname: 拾趣
-  avatar: https://shiqustudio.github.io/images/avatar.jpg
-  url: https://shiqustudio.github.io
+- nickname: 菠菜眾長
+  avatar: https://lruihao.cn/images/avatar.jpg
+  url: https://lruihao.cn
   description: 不怕萬人阻擋，只怕自己投降
 ```
 
