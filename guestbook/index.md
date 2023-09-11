@@ -2,7 +2,7 @@
 
 
 {{< admonition abstract "感谢大家的支持 🙏"  false >}}
-{{< reward wechatpay="/images/wechatpay.gif" alipay="/images/alipay.gif" comment="给博主买杯卡布奇诺～" >}}
+{{< reward wechatpay="/images/wechatpay.png" alipay="/images/alipay.png" comment="给博主买杯卡布奇诺～" >}}
 {{< sponsor-log >}}
 {{< /admonition >}}
 
@@ -27,6 +27,6 @@
 
 ---
 
-> 作者: [xucong](https://shiqustudio.github.io/)  
+> 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/guestbook/  
 

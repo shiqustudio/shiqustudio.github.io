@@ -1,0 +1,10 @@
+---
+title: 常见问答
+menu:
+  main:
+    name: 问答
+    parent: about
+    weight: 13
+    params:
+      icon: fa-solid fa-fire text-danger
+---

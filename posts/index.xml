@@ -3,424 +3,50 @@
     <title>所有文章 - 拾趣资源</title>
     <link>https://shiqustudio.github.io/posts/</link>
     <description>所有文章 | 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>Beego 安装及配置</title>
-  <link>https://shiqustudio.github.io/beego-install/</link>
-  <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/beego-install/</guid>
-  <description><![CDATA[<p>记录 GO 及 Beego 框架安装及基础配置。</p>
-<h2 id="安装-go">安装 Go</h2>
-<ol>
-<li>
-<p>官网下载安装包：<a href="https://golang.google.cn/dl/"target="_blank" rel="external nofollow noopener noreferrer">https://golang.google.cn/dl/</a></p>
-</li>
-<li>
-<p>通过二进制文件快速安装，默认安装目录：<code>/usr/local/go</code></p>
-</li>
-<li>
-<p>配置环境变量 <code>vim ~/.bash_profile</code></p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># golang</span>
-</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOROOT</span><span class="o">=</span>/usr/local/go
-</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOBIN</span><span class="o">=</span><span class="nv">$GOROOT</span>/bin
-</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:<span class="nv">$GOBIN</span>
-</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOPATH</span><span class="o">=</span><span class="nv">$HOME</span>/go
-</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">GOPROXY</span><span class="o">=</span>https://goproxy.cn
-</span></span><span class="line"><span class="cl"><span class="c1"># Go work bin</span>
-</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:<span class="nv">$GOPATH</span>/bin
-</span></span></code></pre></td></tr></table>
-</div>
-</div></li>
-</ol>
-<h2 id="安装-beego">安装 Beego</h2>
-<ul>
-<li><a href="https://github.com/beego/beego"target="_blank" rel="external nofollow noopener noreferrer">Beego repository</a></li>
-<li><a href="https://beego.vip/"target="_blank" rel="external nofollow noopener noreferrer">Beego docs</a></li>
-<li><a href="https://beego.gocn.vip/"target="_blank" rel="external nofollow noopener noreferrer">Beego new docs</a></li>
-</ul>
-<p>Beego 的安装需要在新建项目且 <code>go mod init &lt;module_name&gt;</code>之后，在项目下执行，具体参考 <a href="https://github.com/beego/beego#quick-start"target="_blank" rel="external nofollow noopener noreferrer">beego#quick-start</a>。</p>
-<h2 id="安装-bee">安装 bee</h2>
-<ul>
-<li><a href="https://github.com/beego/bee"target="_blank" rel="external nofollow noopener noreferrer">bee repository</a></li>
-</ul>
-<blockquote>
-<p>注意：arm64 架构的 mac (M1 ～系列)，下载安装 bee 时最好，使用 Rosetta 打开终端，不然无法下载 <code>darwin_arm64</code> 的依赖，如果已经安装了，可以使用 Rosetta 打开终端后，运行 <code>bee update</code> 升级，升级完后将终端复原。</p>
-</blockquote>
-<p>bee 工具安装，<code>go install</code> 安裝指定版本的 bee 工具，例如：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">go install github.com/beego/bee/v2@latest
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>安装成功后，可以在 <code>$GOPATH/bin</code> 下看到 <code>bee</code> 的可执行文件。</p>
-<p>检验 bee 工具是否安装成功：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">bee version
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>创建一个新的 Beego 项目</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">bee new hello
-</span></span><span class="line"><span class="cl"><span class="nb">cd</span> hello
-</span></span><span class="line"><span class="cl">go mod tidy
-</span></span><span class="line"><span class="cl">bee run
-</span></span></code></pre></td></tr></table>
-</div>
-</div>]]></description>
-</item>
-<item>
-  <title>Mac 配置 ADB</title>
-  <link>https://shiqustudio.github.io/adb-for-mac/</link>
-  <pubDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/adb-for-mac/</guid>
-  <description><![CDATA[<p>作为非安卓专业开发，无需下载 Android SDK，<br>
-仅下载 Android SDK 中的 <a href="https://developer.android.com/studio/releases/platform-tools?hl=zh-cn"target="_blank" rel="external nofollow noopener noreferrer">platform-tools</a> 命令行工具即可，并配置好环境变量。</p>
-<h2 id="安装">安装</h2>
-<ul>
-<li><a href="https://developer.android.com/studio/releases/platform-tools?hl=zh-cn"target="_blank" rel="external nofollow noopener noreferrer">platform-tools</a></li>
-</ul>
-<h2 id="配置环境变量">配置环境变量</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">open .bash_profile
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>写入以下内容</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl"># platform-tools of Android SDK
-</span></span><span class="line"><span class="cl">export PATH=$PATH:$HOME/Applications/platform-tools
-</span></span></code></pre></td></tr></table>
-</div>
-</div><div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">source</span> .bash_profile
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>Windows 系统打开高级设置，配置 PATH 变量，增加一条路径即可。</p>
-<h2 id="adb-命令">ADB 命令</h2>
-<p>通过 USB 连接手机和电脑，执行以下命令</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># 1. 打开手机 tcpip 5555 端口</span>
-</span></span><span class="line"><span class="cl">adb tcpip <span class="m">5555</span>
-</span></span><span class="line"><span class="cl"><span class="c1"># 2. 查看手机网络 IP</span>
-</span></span><span class="line"><span class="cl">adb shell ifconfig
-</span></span><span class="line"><span class="cl"><span class="c1"># 3. 在电脑上 ping 手机网络 IP</span>
-</span></span><span class="line"><span class="cl"><span class="c1"># 4. adb connect [Android IP]</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><ul>
-<li><a href="https://developer.android.com/studio/command-line/adb?hl=zh-cn"target="_blank" rel="external nofollow noopener noreferrer">Android 调试桥 (adb)</a></li>
-<li><a href="https://github.com/mzlogin/awesome-adb"target="_blank" rel="external nofollow noopener noreferrer">awesome-adb</a></li>
-</ul>
-<h2 id="注意">注意</h2>
-<p>windows 系统下的文件（夹）命名所采用的是 GBK 编码，而 linux 是采用的 UTF-8 编码，使用 adb 的
-push 和 pull 命令时由于编码方式的不同会产生错误，因此需要修改 adb 的源代码来支持编码转换。</p>]]></description>
-</item>
-<item>
-  <title>script 的三种加载方式 (async, defer)</title>
-  <link>https://shiqustudio.github.io/async-defer/</link>
-  <pubDate>Sun, 08 Sep 2019 11:47:50 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/async-defer/</guid>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>Git 常用指令汇总</title>
+  <link>https://shiqustudio.github.io/git/</link>
+  <pubDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/git/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/posts/async-defer/images/async_vs_defer.svg" referrerpolicy="no-referrer">
-      </div><div class="details admonition note open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">JS 的加载分为两个部分：下载和执行。<br>
-浏览器在执行 HTML 的时候如果遇到<code>&lt;script&gt;</code>时会停止页面的渲染，去下载和执行 js 的文件直接遇见<code>&lt;/scirpt&gt;</code>会继续渲染页面。故浏览器在执行 js 文件的时候浏览器表现为一片空白，为了解决这个问题 ECMAScript 定义了 defer 和 async 两个属性用于控制 JS 的下载和执行。</div>
-    </div>
-  </div>
-<h2 id="不带任何属性">不带任何属性</h2>
-<blockquote>
-<p>同步模式，又称阻塞模式，我们平时使用的最多的一种方式。当浏览器解析到<code>&lt;script&gt;</code>标签时，浏览器会停止解析其后的内容，而优先下载脚本文件，并执行其中的代码，是个同步阻塞的过程。<br>
-一般建议把<code>&lt;script&gt;</code>标签放在<code>&lt;body&gt;</code>结尾处，这样尽可能减少页面阻塞。<br>
-而如果想要异步执行 script，则可以给其加上 async 或 defer 属性。</p>
-</blockquote>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><h2 id="defer">defer</h2>
-<blockquote>
-<p>defer 属性在 HTML 解析期间异步下载文件，并且只在 HTML 解析完成后才执行它。对于 defer，我们可以理解是将外链的 js 放在了页面底部。js 的加载不会阻塞页面的渲染和资源的加载。不过 defer 会按照原本的 js 的顺序执行，<strong>所以如果前后有依赖关系的 js 可以放心使用。</strong></p>
-</blockquote>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span> <span class="na">defer</span><span class="p">&gt;</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><h2 id="async">async</h2>
-<blockquote>
-<p>async 属性会在 HTML 解析期间异步下载文件，并在完成下载后立即暂停 HTML 解析器去执行 script 中的代码。在执行过程中浏览器处于阻塞状态，响应不了任何需求。<strong>如果 js 前后有依赖性，用 async，就很有可能出错。</strong></p>
-</blockquote>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span> <span class="na">async</span><span class="p">&gt;</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><h2 id="区别">区别</h2>
-<h3 id="相同点">相同点</h3>
-<ol>
-<li>加载文件时不阻塞页面渲染</li>
-<li>对于 inline 的 script 无效（只适用有<code>src</code>的外部 js）</li>
-<li>使用这两个属性的脚本中不能调用 document.write 方法</li>
-<li>有脚本的 onload 的事件回调</li>
-</ol>
-<h3 id="区别点">区别点</h3>
-<ol>
-<li>html4.0 中定义了 defer；html5.0 中定义了 async</li>
-<li>浏览器支持不同</li>
-<li>每一个 async 属性的脚本都在它下载结束之后立刻执行，同时会在 window 的 load 事件之前执行。所以就有可能出现脚本执行顺序被打乱的情况；每一个 defer 属性的脚本都是在页面解析完毕之后，按照原本的顺序执行，同时会在 document 的 DOMContentLoaded 之前执行。</li>
-</ol>
-<h2 id="那么这三种方式各在什么情况下使用呢">那么这三种方式各在什么情况下使用呢？</h2>
-<p>通常来说，尽可能使用<code>async</code>，然后是<code>defer</code>，最后不使用属性。
-并遵循以下规则：</p>
-<ul>
-<li>如果脚本是模块化的，并且不依赖于任何脚本，则使用<code>async</code>。</li>
-<li>如果脚本依赖于或依赖于另一个脚本，则使用<code>defer</code>。</li>
-<li>如果脚本很小并且有<code>async</code>脚本依赖该脚本，则不加属性。</li>
-</ul>
-<h2 id="兼容性">兼容性</h2>
-<ol>
-<li>Internet Explorer 10、Firefox、Opera、Chrome 和 Safari 支持 async 属性。</li>
-<li>所有主流浏览器都支持 defer 属性。</li>
-</ol>
-<h2 id="参考">参考</h2>
-<ul>
-<li><a href="https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html"target="_blank" rel="external nofollow noopener noreferrer">https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html</a></li>
-<li><a href="https://www.jianshu.com/p/17dc82bf08f1"target="_blank" rel="external nofollow noopener noreferrer">https://www.jianshu.com/p/17dc82bf08f1</a></li>
+        <img src="/images/relation-1.png" referrerpolicy="no-referrer">
+      </div><ul>
+<li><strong>工作区</strong>：就是你在电脑里能看到的目录。</li>
+<li><strong>暂存区</strong>：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。</li>
+<li><strong>版本库</strong>：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。</li>
 </ul>]]></description>
 </item>
 <item>
-  <title>第一次面试经历</title>
-  <link>https://shiqustudio.github.io/1thintervivew/</link>
-  <pubDate>Wed, 24 Apr 2019 21:23:22 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/1thintervivew/</guid>
-  <description><![CDATA[<blockquote>
-<p>时间过得真快，一下从大一到了大三，马上就要实习毕业等等了。</p>
-</blockquote>
-<div class="details admonition success open">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-check-circle fa-fw" aria-hidden="true"></i>Success<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content"><p>富士康在学校有一个春招的机会，我和朋友抱着侥幸的心理去试了试。
-虽然深知自己还身有很多缺点，但是不面试不知道，一面试都暴露出来了，以下记录一下自己的不足之处：</p>
-<ul>
-<li>php 和 sql 的经典组合虽然有所接触了解，但是确实什么都会，得花时间学</li>
-<li>html/css 等虽然平时折腾博客这些应用的比较多，但是今天竟然紧张地忘记了 margin 和 padding 都不会写了</li>
-<li>如上一条，公众表现能力有待加强。正如当今“酒香也怕巷子深”，何况“不香”。</li>
-</ul>
-<p>惊喜的事说来就来，本来知道自己这么多缺点，这么菜后，觉得这个实习的 offer 是没戏了，没想到下午技术主管微信发来消息，说录用了。当场懵逼，受宠若惊的感觉！非常谢谢面试官老师！<br>
-无论生活还是学习，希望以后的自己一定要保持一颗谦逊爱学的心，早日实现全栈工程师的梦想，还有早点存钱把大学学费的贷款还掉！</p>
-</div>
-    </div>
-  </div>]]></description>
+  <title>linux 文件权限</title>
+  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <pubDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
 </item>
 <item>
-  <title>hexo 博客源码备份</title>
-  <link>https://shiqustudio.github.io/blog-backup/</link>
-  <pubDate>Sat, 03 Nov 2018 12:49:28 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/blog-backup/</guid>
+  <title>linux 文件权限</title>
+  <link>https://shiqustudio.github.io/linux-permission/</link>
+  <pubDate>Mon, 20 Feb 2023 17:15:44 &#43;0800</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/linux-permission/</guid>
+  <description><![CDATA[<p>记录 linux 系统下文件权限相关的内容，Mac OS 下类似。</p>]]></description>
+</item>
+<item>
+  <title>Git 常用指令汇总</title>
+  <link>https://shiqustudio.github.io/git/</link>
+  <pubDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/git/</guid>
   <description><![CDATA[<div class="featured-image">
-        <img src="/posts/blog-backup/images/1.png" referrerpolicy="no-referrer">
-      </div><h2 id="备份-hexo-博客">备份 hexo 博客</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span><span class="lnt">9
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">//如果 themes/next（主题文件）下面有。git，请删除这个。git 文件夹。
-</span></span><span class="line"><span class="cl">cd hexo
-</span></span><span class="line"><span class="cl">git init  //初始化本地仓库
-</span></span><span class="line"><span class="cl">git add source themes scaffolds _config.yml package.json package-lock.json  //将必要的文件依次添加
-</span></span><span class="line"><span class="cl">git commit -m &#34;blog hexo&#34;
-</span></span><span class="line"><span class="cl">git branch hexo  //新建 hexo 分支
-</span></span><span class="line"><span class="cl">git checkout hexo  //切换到 hexo 分支上
-</span></span><span class="line"><span class="cl">git remote add origin git@github.com:username/username.github.io.git  //将本地与 Github 项目对接
-</span></span><span class="line"><span class="cl">git push origin hexo  //push 到 Github 项目的 hexo 分支上
-</span></span></code></pre></td></tr></table>
-</div>
-</div><h2 id="在其他终端克隆和更新-hexo-博客">在其他终端克隆和更新 hexo 博客</h2>
-<blockquote>
-<p>nodejs,git,hexo 已经安装好，即搭建完成</p>
-</blockquote>
-<h3 id="克隆-hexo-博客备份">克隆 hexo 博客备份</h3>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git clone -b hexo git@github.com:username/username.github.io.git  //将 Github 中 hexo 分支 clone 到本地
-</span></span><span class="line"><span class="cl">cd user.github.io
-</span></span><span class="line"><span class="cl">npm install  //注意，这里一定要切换到刚刚 clone 的文件夹内执行，安装必要的所需组件，不用再 init
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>这样我们的备份文件就会原封不动的拷贝到本地。</p>
-<h3 id="写新文章并备份和部署备用操作">写新文章并备份和部署（备用操作）</h3>
-<blockquote>
-<p>其实源码拷下来了，这步不做我们也知道怎么做了，完全没必要按照教程死搬硬套。灵活一点就行了。</p>
-</blockquote>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">//进入 username.github.io 文件夹，应是 hexo 分支
-</span></span><span class="line"><span class="cl">git pull origin hexo //本地和远端的融合
-</span></span><span class="line"><span class="cl">hexo new post &#34;new post name&#34;  //写新文章
-</span></span><span class="line"><span class="cl">git add source
-</span></span><span class="line"><span class="cl">git commit -m &#34;xxx&#34;
-</span></span><span class="line"><span class="cl">git push origin hexo  //备份
-</span></span><span class="line"><span class="cl">hexo d -g  //部署
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p><a href="https://blog.csdn.net/Monkey_LZL/article/details/60870891"target="_blank" rel="external nofollow noopener noreferrer">参考</a></p>
-]]></description>
-</item>
-<item>
-  <title>在线离线算法</title>
-  <link>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</link>
-  <pubDate>Thu, 26 Jul 2018 09:57:32 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/%E5%9C%A8%E7%BA%BF%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95/</guid>
-  <description><![CDATA[<h2 id="在线算法httpsbaikebaiducomiteme59ca8e7babfe7ae97e6b3954449947"><a href="https://baike.baidu.com/item/%E5%9C%A8%E7%BA%BF%E7%AE%97%E6%B3%95/4449947"target="_blank" rel="external nofollow noopener noreferrer">在线算法</a></h2>
-<p>在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。</p>
-<p>在计算机科学中，一个在线算法是指它可以以序列化的方式一个个的处理输入，也就是说在开始时并不需要已经知道所有的输入。相对的，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。例如，选择排序在排序前就需要知道所有待排序元素，然而插入排序就不必。<br>
-因为在线算法并不知道整个的输入，所以它被迫做出的选择最后可能会被证明不是最优的，对在线算法的研究主要集中在当前环境下怎么做出选择。对相同问题的在线算法和离线算法的对比分析形成了以上观点。如果想从其他角度了解在线算法可以看一下流算法（关注精确呈现过去的输入所使用的内存的量），动态算法（关注维护一个在线输入的结果所需要的时间复杂度）和在线机器学习。<br>
-一个很好的展示在线算法概念的例子是 加拿大旅行者问题，这个问题的目标是在一个有权图中以最小的代价到达一个目标节点，但这个有权图中有些边是不可靠的可能已经被剔除。然而一个旅行者只有到某个边的一个端点时才能确定该边是否已经被移除了。最坏情况下，该问题会变得简单了，即所有的不确定的边都被移除该问题将会变成通常的最短路径问题。</p>
-<h2 id="离线算法httpsbaikebaiducomiteme7a6bbe7babfe7ae97e6b395"><a href="https://baike.baidu.com/item/%E7%A6%BB%E7%BA%BF%E7%AE%97%E6%B3%95"target="_blank" rel="external nofollow noopener noreferrer">离线算法</a></h2>
-<p>离线算法 ( off line algorithms)，是指基于在执行算法前输入数据已知的基本假设，也就是说，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果。</p>
-<p>设计策略 在执行算法前输入已知的基本假设<br>
-前提 具有问题完全信息<br>
-算法设计策略都是基于在执行算法前输入数据已知的基本假设，也就是说，对于一个离线算法，在开始时就需要知道问题的所有输入数据，而且在解决一个问题后就要立即输出结果，通常将这类具有问题完全信息前提下设计出的算法称为离线算法 ( off line algorithms)</p>
-]]></description>
-</item>
-<item>
-  <title>Adjacent Replacements</title>
-  <link>https://shiqustudio.github.io/adjacent-replacements/</link>
-  <pubDate>Sun, 22 Jul 2018 11:54:14 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/adjacent-replacements/</guid>
-  <description><![CDATA[<p><a href="https://codeforces.com/contest/1006/problem/A"target="_blank" rel="external nofollow noopener noreferrer">A. Adjacent Replacements</a></p>
-<p>第一次打 cf 就做出一道这样的找规律的题，打到自闭。</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="line"><span class="cl"><span class="cp">#include</span><span class="cpf">&lt;bits/stdc++.h&gt;</span><span class="cp">
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
-</span></span><span class="line"><span class="cl">    <span class="kt">int</span> <span class="n">n</span><span class="p">,</span><span class="n">a</span><span class="p">[</span><span class="mi">1001</span><span class="p">];</span>
-</span></span><span class="line"><span class="cl">    <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">n</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">    <span class="kt">int</span> <span class="n">i</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">    <span class="kt">int</span> <span class="n">flag</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">    <span class="k">for</span><span class="p">(</span><span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;</span><span class="n">n</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">){</span>
-</span></span><span class="line"><span class="cl">        <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
-</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="p">(</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">&amp;</span><span class="mi">1</span><span class="p">))</span> <span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">--</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="n">flag</span><span class="p">)</span> <span class="p">{</span><span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">];</span><span class="n">flag</span><span class="o">=</span><span class="mi">1</span><span class="p">;}</span>
-</span></span><span class="line"><span class="cl">        <span class="k">else</span> <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">&#34; &#34;</span><span class="o">&lt;&lt;</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
-</span></span><span class="line"><span class="cl">    <span class="p">}</span>
-</span></span><span class="line"><span class="cl">	<span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div>]]></description>
+        <img src="/images/relation-1.png" referrerpolicy="no-referrer">
+      </div><ul>
+<li><strong>工作区</strong>：就是你在电脑里能看到的目录。</li>
+<li><strong>暂存区</strong>：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。</li>
+<li><strong>版本库</strong>：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。</li>
+</ul>]]></description>
 </item>
 </channel>
 </rss>

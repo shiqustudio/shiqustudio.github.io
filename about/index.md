@@ -1,4 +1,4 @@
-# 關於
+# 关于
 
 
 {{< style "min-height: 230px;" >}}
@@ -10,54 +10,61 @@ class Blog {
     this.url = url;
   }
 }
-const site = new Blog('菠菜眾長', 'Lruihao', 'https://lruihao.cn');
+const site = new Blog('拾趣', 'Shiqu', 'https://shiqustudio.github.io');
 console.log(site.name);
 {{< /typeit >}}
 {{< /style >}}
 
-## 資訊
+## 资讯
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/Lruihao.svg?style=social&label=Followers)](https://github.com/Lruihao)
 
-{{< admonition info "關於我" false >}}
-|      角色      |       職業       |
+{{< admonition info "关于我" false >}}
+
+|      角色      |       职业       |
 | :------------: | :--------------: |
-| ~~在校大學生~~ | ~~Web 前端開發~~ |
-|   ~~實習生~~   | ~~Web 后端開發~~ |
-|      社畜      | ~~Web 全棧開發~~ |
-|                |   Web 前端開發   |
+| ~~在校大學生~~ | ~~后端开发~~ |
+|   ~~實習生~~   | ~~后端开发~~ |
+|      ~~毕业~~      | ~~后棧开发~~ |
+| 社畜 |   全栈开发   |
+
 {{< /admonition >}}
 
-> 用我所学，学我所用。不盲目堆疊技術棧，保持謙遜，保持探索欲，砥礪前行。
+> 用我所学，学我所用。不盲目堆叠技术栈，保持谦逊，保持探索欲，砥砺前行。
 
-{{< link href="https://github.com/users/Lruihao/projects/1" content="@Lruihao's Recent activity" card=true >}}
+{{< link href="https://github.com/users/shiqustudio/projects/1" content="@Shiqu's Recent activity" card=true >}}
 
 ## 初衷
 
-建站的初衷不是為了炫耀所知，而是記錄無知。  
-人知道的越多，就會發現無知的越多。有更廣袤的世界可以探索，真是莫大的快樂！
+建站的初衷不是为了炫耀所知，而是记录无知。  
+人知道的越多，就会发现无知的越多。有更广袤的世界可以<font color = red>``探索``</font>，真是莫大的快乐！
 
-—— 创建于 2018-05-28 20:01:01
-{style="text-align: right;font-size: 80%;"}
+<p style="text-align: right;font-size: 100%;" >—— 创建于 2023-04-01 20:01:01</p>
 
-## 期許
+## 期许
 
-{{% center-quote %}}
-不卑不亢，不矜不伐，戒驕戒躁  
-不嗔不怒，不爭不棄，獨善其身
+{{% center-quote %}} 
+不卑不亢，不矜不伐，戒骄戒躁  
+不嗔不怒，不爭不弃，独善其身
 {{% /center-quote %}}
 
-## 訂閱
+## 订阅
 
-- [RSS](http://lruihao.cn/index.xml)
-- [GitHub](https://github.com/Lruihao/hugo-blog)
-- [![云+社区](https://imgcache.qq.com/open_proj/proj_qcloud_v2/community-pc/build/base/images/c-nav-logo-icon-white.svg)](https://cloud.tencent.com/developer/column/94521)
+- [RSS](http://shiqustudio.github.io/index.xml)
+- [GitHub](https://github.com/shiqustudio/hugo-blog)
 
-{{< music url="https://cdn-1256932288.cos.ap-chengdu.myqcloud.com/files/nanjing.mp3" name="李志" artist="你离开了南京，从此没人和我说话" cover="https://p2.music.126.net/UuSe-Vc6rS7JtRJSQgDU2g==/2323268069553116.jpg?param=300x300" fixed=true >}}
+## 致谢
+
+{{< details "感谢大家的支持 🙏" >}}
+{{< reward wechatpay="/images/wechatpay.png" alipay="/images/alipay.png" comment="给博主买杯卡布奇诺～" mode="fixed" >}}
+{{< sponsor-log >}}
+{{< /details >}}
+
+{{< music url="https://cdn-1256932288.cos.ap-chengdu.myqcloud.com/files/nanjing.mp3" name="老王" artist="你离开了深圳，从此没人和我说话" cover="https://p2.music.126.net/UuSe-Vc6rS7JtRJSQgDU2g==/2323268069553116.jpg?param=300x300" fixed=true >}}
 
 
 ---
 
-> 作者: [xucong](https://shiqustudio.github.io/)  
+> 作者: [聪](https://shiqustudio.github.io/)  
 > URL: https://shiqustudio.github.io/about/  
 

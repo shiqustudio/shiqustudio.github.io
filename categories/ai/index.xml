@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Ai - 分类 - 拾趣资源</title>
+    <link>https://shiqustudio.github.io/categories/ai/</link>
+    <description>Ai - 分类 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/ai/" rel="self" type="application/rss+xml" /><item>
+  <title>OpenAI &#43; Vercel</title>
+  <link>https://shiqustudio.github.io/website/openaiandvercel/</link>
+  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/openaiandvercel/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230405210045531.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具</p>
+<p>全部都是开源的，并且都可以一键部署到Vercel供私人使用</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>Ai站点汇总</title>
+  <link>https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230401204204708.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

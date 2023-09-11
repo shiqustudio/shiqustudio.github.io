@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>短链 - 标签 - 拾趣资源</title>
+    <link>https://shiqustudio.github.io/tags/%E7%9F%AD%E9%93%BE/</link>
+    <description>短链 - 标签 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E7%9F%AD%E9%93%BE/" rel="self" type="application/rss+xml" /><item>
+  <title>缩短链接</title>
+  <link>https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/</link>
+  <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230402215853220.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面，缩网址的好处一来大幅减少网址的字元数，二来可让网址看起来更干净简洁，在社群网站经常被用到（尤其是撰写长篇内容），不会因为过长的网址而产生被截断、无法顺利打开的问题。</p>
+<p>现今缩网址服务也整合各种附加功能，最常见的像是点击统计、密码保护、流量追踪（加入UTM、Google 分析或Facebook Pixel 代码）或是依照不同作业系统、装置或浏览器分别设定不同的目标网址，甚至能在付费后设定自己的网域名称，将网址打造为个性化的短网址。</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

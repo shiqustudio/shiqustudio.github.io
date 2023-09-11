@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>工具 - 分类 - 拾趣资源</title>
+    <link>https://shiqustudio.github.io/categories/%E5%B7%A5%E5%85%B7/</link>
+    <description>工具 - 分类 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><lastBuildDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/categories/%E5%B7%A5%E5%85%B7/" rel="self" type="application/rss+xml" /><item>
+  <title>在线工具</title>
+  <link>https://shiqustudio.github.io/website/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</link>
+  <pubDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/website/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230405211457511.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>🤖整理收录各类在线工具</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>文件批量重命名</title>
+  <link>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</link>
+  <pubDate>Fri, 31 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tools/%E6%96%87%E4%BB%B6%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8D/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="/tools/images/image-20230401200250094.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>文件批量重命名工具，有在线处理站点和离线处理工具</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>pdf转word等格式工具</title>
+  <link>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
+  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tools/%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
+      </div><p><strong>资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。</strong></p>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,86 +1,87 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Tags - 标签 - 拾趣资源</title>
+    <title>标签 - 标签 - 拾趣资源</title>
     <link>https://shiqustudio.github.io/tags/</link>
-    <description>Tags - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-  <title>安装</title>
-  <link>https://shiqustudio.github.io/tags/%E5%AE%89%E8%A3%85/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/%E5%AE%89%E8%A3%85/</guid>
+    <description>标签 - 标签 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shiqustudio@qq.com (聪)</managingEditor>
+      <webMaster>shiqustudio@qq.com (聪)</webMaster><atom:link href="https://shiqustudio.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>工具</title>
+  <link>https://shiqustudio.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
+  <pubDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E5%B7%A5%E5%85%B7/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>基础</title>
-  <link>https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/%E5%9F%BA%E7%A1%80/</guid>
+  <title>在线</title>
+  <link>https://shiqustudio.github.io/tags/%E5%9C%A8%E7%BA%BF/</link>
+  <pubDate>Wed, 12 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E5%9C%A8%E7%BA%BF/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>拓展</title>
-  <link>https://shiqustudio.github.io/tags/%E6%8B%93%E5%B1%95/</link>
-  <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/%E6%8B%93%E5%B1%95/</guid>
+  <title>Ai</title>
+  <link>https://shiqustudio.github.io/tags/ai/</link>
+  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/ai/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Laravel</title>
-  <link>https://shiqustudio.github.io/tags/laravel/</link>
-  <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/laravel/</guid>
+  <title>Github</title>
+  <link>https://shiqustudio.github.io/tags/github/</link>
+  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/github/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Markdown</title>
-  <link>https://shiqustudio.github.io/tags/markdown/</link>
-  <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/markdown/</guid>
+  <title>Vercel</title>
+  <link>https://shiqustudio.github.io/tags/vercel/</link>
+  <pubDate>Tue, 04 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/vercel/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>PHP</title>
-  <link>https://shiqustudio.github.io/tags/php/</link>
-  <pubDate>Sun, 12 Mar 2023 20:51:11 &#43;0000</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/php/</guid>
+  <title>专注力</title>
+  <link>https://shiqustudio.github.io/tags/%E4%B8%93%E6%B3%A8%E5%8A%9B/</link>
+  <pubDate>Sun, 02 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E4%B8%93%E6%B3%A8%E5%8A%9B/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>posts</title>
-  <link>https://shiqustudio.github.io/tags/posts/</link>
-  <pubDate>Wed, 08 Mar 2023 09:55:43 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/posts/</guid>
+  <title>图片空间</title>
+  <link>https://shiqustudio.github.io/tags/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</link>
+  <pubDate>Sat, 01 Apr 2023 19:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Beego</title>
-  <link>https://shiqustudio.github.io/tags/beego/</link>
-  <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/beego/</guid>
+  <title>线上</title>
+  <link>https://shiqustudio.github.io/tags/%E7%BA%BF%E4%B8%8A/</link>
+  <pubDate>Sat, 01 Apr 2023 19:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E7%BA%BF%E4%B8%8A/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Go</title>
-  <link>https://shiqustudio.github.io/tags/go/</link>
-  <pubDate>Wed, 31 Aug 2022 09:32:44 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/go/</guid>
+  <title>短链</title>
+  <link>https://shiqustudio.github.io/tags/%E7%9F%AD%E9%93%BE/</link>
+  <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E7%9F%AD%E9%93%BE/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>ADB</title>
-  <link>https://shiqustudio.github.io/tags/adb/</link>
-  <pubDate>Tue, 05 Jul 2022 15:39:34 &#43;0800</pubDate>
-  <author>xucong</author>
-  <guid>https://shiqustudio.github.io/tags/adb/</guid>
+  <title>转档</title>
+  <link>https://shiqustudio.github.io/tags/%E8%BD%AC%E6%A1%A3/</link>
+  <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://shiqustudio.github.io/tags/%E8%BD%AC%E6%A1%A3/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
