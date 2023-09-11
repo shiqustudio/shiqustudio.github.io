@@ -2,52 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>站点合集 on 拾趣资源</title>
-    <link>https://shiqustudio.github.io/website/</link>
+    <link>https://blog.funvip.live/website/</link>
     <description>Recent content in 站点合集 on 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://shiqustudio.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <managingEditor>43144966@qq.com (聪)</managingEditor>
+    <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>图片空间</title>
-      <link>https://shiqustudio.github.io/website/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</link>
-      <pubDate>Sat, 01 Apr 2023 19:27:11 +0000</pubDate>
-      
-      <guid>https://shiqustudio.github.io/website/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</guid>
+      <title>👨‍🎓学习建议</title>
+      <link>https://blog.funvip.live/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/</guid>
+      <description>&lt;p&gt;一个各专业前辈们的学习建议网站&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>⚖️AI 法律助手</title>
+      <link>https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</link>
+      <pubDate>Thu, 22 Jun 2023 21:27:11 +0000</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;图片空间列表、介绍，再也不怕上传图片找不到空间啰！&lt;/p&gt;
+&lt;p&gt;AI 法律助手&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>缩短链接</title>
-      <link>https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/</link>
-      <pubDate>Sat, 01 Apr 2023 17:27:11 +0000</pubDate>
-      
-      <guid>https://shiqustudio.github.io/website/%E7%9F%AD%E9%93%BE/</guid>
+      <title>💵历史价格查询</title>
+      <link>https://blog.funvip.live/website/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9F%A5%E8%AF%A2/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/website/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC%E6%9F%A5%E8%AF%A2/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面，缩网址的好处一来大幅减少网址的字元数，二来可让网址看起来更干净简洁，在社群网站经常被用到（尤其是撰写长篇内容），不会因为过长的网址而产生被截断、无法顺利打开的问题。&lt;/p&gt;
-&lt;p&gt;现今缩网址服务也整合各种附加功能，最常见的像是点击统计、密码保护、流量追踪（加入UTM、Google 分析或Facebook Pixel 代码）或是依照不同作业系统、装置或浏览器分别设定不同的目标网址，甚至能在付费后设定自己的网域名称，将网址打造为个性化的短网址。&lt;/p&gt;
+&lt;p&gt;商品历史价格查询&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>线上转档</title>
-      <link>https://shiqustudio.github.io/website/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
-      <pubDate>Sat, 01 Apr 2023 17:27:11 +0000</pubDate>
-      
-      <guid>https://shiqustudio.github.io/website/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</guid>
+      <title>🏜️壁纸</title>
+      <link>https://blog.funvip.live/website/%E5%A3%81%E7%BA%B8/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/website/%E5%A3%81%E7%BA%B8/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。&lt;/p&gt;
+&lt;p&gt;🤖整理并分享一些优质壁纸资源&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>Ai站点汇总</title>
-      <link>https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</link>
-      <pubDate>Fri, 31 Mar 2023 17:27:11 +0000</pubDate>
-      
-      <guid>https://shiqustudio.github.io/website/ai%E5%B7%A5%E5%85%B7%E5%90%88%E9%9B%86/</guid>
+      <title>🗣公益权威</title>
+      <link>https://blog.funvip.live/website/%E5%AE%98%E7%85%A4/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/website/%E5%AE%98%E7%85%A4/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;ChatGPT 是一款先进的人工智慧语言模型，由&lt;a href=&#34;https://openai.com/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;OpenAI&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。&lt;/p&gt;
+&lt;p&gt;🤖整理并分享一些官方发布的公益、权威信息资源&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>🎓论文</title>
+      <link>https://blog.funvip.live/website/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/</link>
+      <pubDate>Tue, 04 Apr 2023 17:27:11 +0000</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/website/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🤖整理并分享一些关于论文的资源&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>📚古籍</title>
+      <link>https://blog.funvip.live/website/%E8%AF%86%E5%85%B8%E5%8F%A4%E7%B1%8D/</link>
+      <pubDate>Tue, 04 Apr 2023 17:27:11 +0000</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/website/%E8%AF%86%E5%85%B8%E5%8F%A4%E7%B1%8D/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🤖整理并分享一些关于古书/古画/古地图/历史网站&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     

@@ -1,70 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>问答 - 标签 - 拾趣资源</title>
-    <link>https://shiqustudio.github.io/tags/%E9%97%AE%E7%AD%94/</link>
+    <link>https://blog.funvip.live/tags/%E9%97%AE%E7%AD%94/</link>
     <description>问答 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://shiqustudio.github.io/tags/%E9%97%AE%E7%AD%94/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://blog.funvip.live/tags/%E9%97%AE%E7%AD%94/" rel="self" type="application/rss+xml" /><item>
   <title>常见问答</title>
-  <link>https://shiqustudio.github.io/question/</link>
+  <link>https://blog.funvip.live/question/</link>
   <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
   <author>聪</author>
-  <guid>https://shiqustudio.github.io/question/</guid>
+  <guid>https://blog.funvip.live/question/</guid>
   <description><![CDATA[<blockquote>
-<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/hugo-fixit/FixIt/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>403144966</code>。</p>
-</blockquote>
-<div class="details admonition question">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>为什么不支持早期版本的 Hugo？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">由于 <a href="https://gohugo.io/functions/path.clean/"target="_blank" rel="external nofollow noopener noreferrer">函数 <code>path.Clean</code><i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 在 <a href="https://github.com/gohugoio/hugo/releases/tag/v0.89.0"target="_blank" rel="external nofollow noopener noreferrer">Hugo 发行版 v0.89.0<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 中被引入的，因此本主题只支持不低于 <strong>0.89.0</strong> 的 Hugo 版本。</div>
-    </div>
-  </div>
-<div class="details admonition question">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>为什么推荐使用 Hugo extended 版本？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content">由于这个主题的一些特性需要将 SCSS 转换为 CSS, 推荐使用 Hugo <strong>extended</strong> 版本来获得更好的使用体验。</div>
-    </div>
-  </div>
-<div class="details admonition question">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>如何切换 Hugo 的运行环境？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content"><p><code>hugo server</code> 的默认运行环境是 <code>development</code>, 而 <code>hugo</code> 的默认运行环境是 <code>production</code>。</p>
-<p>由于本地 <code>development</code> 环境的限制， <strong>评论系统</strong> , <strong>CDN</strong> 和 <strong>fingerprint</strong> 不会在 <code>development</code> 环境下启用。</p>
-<p>你可以使用 <code>hugo server -e production</code> 命令来开启这些特性。</p>
-</div>
-    </div>
-  </div>
-<div class="details admonition question">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>怎样选择搜索引擎？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content"><p>以下是两种搜索引擎的对比：</p>
-<ul>
-<li><code>fuse</code>: 简单，无需同步 <code>index.json</code>, 没有 <code>contentLength</code> 的限制，性能高</li>
-<li><code>lunr</code>: 简单，无需同步 <code>index.json</code>, 没有 <code>contentLength</code> 的限制，但占用带宽大且性能低（特别是中文需要一个较大的分词依赖库）</li>
-<li><code>algolia</code>: 高性能并且占用带宽低，但需要同步 <code>index.json</code> 且有 <code>contentLength</code> 的限制</li>
-</ul>
-<p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.3"target="_blank" rel="external nofollow noopener noreferrer"></a> 文章内容被 <code>h2</code> 和 <code>h3</code> HTML 标签切分来提高查询效果并且基本实现全文搜索。 <code>contentLength</code> 用来限制 <code>h2</code> 和 <code>h3</code> HTML 标签开头的内容部分的最大长度。</p>
-</div>
-    </div>
-  </div>
-<div class="details admonition question">
-    <div class="details-summary admonition-title">
-      <i class="icon fa-solid fa-question-circle fa-fw" aria-hidden="true"></i><strong>其他问题？</strong><i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
-    </div>
-    <div class="details-content">
-      <div class="admonition-content"><div id="id-2"><div class="typeit"><div id="id-1" class="highlight"></div></div>
-</div>
-</div>
-    </div>
-  </div>
-<p>没找到你的问题？加入 <a href="https://github.com/hugo-fixit/FixIt/discussions/new?category=q-a"target="_blank" rel="external nofollow noopener noreferrer">讨论<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 或者 QQ 群：<code>403144966</code>。</p>]]></description>
+<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/shiqustudio/giscus/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>864217652</code>。</p>
+</blockquote>]]></description>
 </item>
 </channel>
 </rss>

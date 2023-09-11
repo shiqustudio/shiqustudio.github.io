@@ -6,6 +6,6 @@
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/offline/  
+> 作者: [聪](/about)  
+> URL: https://blog.funvip.live/offline/  
 

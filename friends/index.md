@@ -1,35 +1,38 @@
-# 友情鏈接
+# 友情链接
 
 
 <!--
-> 暫時不接受友鏈！
-> Warn: 超過兩年為更新或長期挂掉的站點將被取消！
+
+> 暂时不接受友链！
+> Warn: 超过两年未更新或长期挂掉的站点将被取消！
 -->
 
-{{< link href="https://shiqustudio.github.io/friends/opml.xml" content=":(far fa-star fa-fw): Subscribe ours" download="opml.xml" card=true >}}
+{{< link href="/friends/opml.xml" content=":(far fa-star fa-fw): Subscribe ours" download="opml.xml" card=true >}}
 
-## 基本資訊
+## 基本资讯
 
 ```yaml
-- nickname: 拾趣
-  avatar: https://shiqustudio.github.io/images/avatar.jpg
-  url: https://shiqustudio.github.io
-  description: 不怕萬人阻擋，只怕自己投降
+- nickname: Fun
+  avatar: https://blog.funvip.live/images/avatar.jpg
+  url: https://blog.funvip.live/
+  description: Keep doing, keep loving.❤
 ```
+
+<!--description不怕千万人阻挡，只怕自己投降。-->
 
 ## 友情提醒
 
 {{< admonition info "Notice" true >}}
 
-1. 互換友鏈請按以上格式在評論留言。（僅限個人非商業部落格/網站）
-2. :(fa-solid fa-exclamation-triangle): 網站失效、停止維護、內容不當都可能被取消連結！
-3. 那些不尊重他人勞動成果，轉載不加出處的，或惡意行為的網站，還請您不要來進行交換了。
+1. 互换友链请按以上格式在评论区留言。（仅限个人非商业部落格/网站）
+2. ️️️️:(fa-solid fa-exclamation-triangle text-warning): 网站失效、停止维护、內容不当都可能被取消连接！
+3. 😈那些不尊重他人劳动成果，转载不加出处的，或恶意行为的网站，还请您不要来这里交换了。
 
 {{< /admonition >}}
 
 
 ---
 
-> 作者: [聪](https://shiqustudio.github.io/)  
-> URL: https://shiqustudio.github.io/friends/  
+> 作者: [聪](/about)  
+> URL: https://blog.funvip.live/friends/  
 
