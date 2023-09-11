@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>相关参考 on 拾趣资源</title>
+    <link>https://blog.funvip.live/referto/</link>
+    <description>Recent content in 相关参考 on 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>43144966@qq.com (聪)</managingEditor>
+    <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/referto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emoji 支持</title>
+      <link>https://blog.funvip.live/referto/emoji-support/</link>
+      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/referto/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji 可以通过多种方式在 Hugo 项目中启用。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>查阅参考</title>
+      <link>https://blog.funvip.live/referto/%E7%95%99%E5%AD%98%E6%9F%A5%E9%98%85/</link>
+      <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/referto/%E7%95%99%E5%AD%98%E6%9F%A5%E9%98%85/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;资源不在多，在于精，选择自己需要的就行，存储太多反而给自己徒增烦恼。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于 FixIt</title>
+      <link>https://blog.funvip.live/referto/about-fixit/</link>
+      <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
+      <author>43144966@qq.com (聪)</author>
+      <guid>https://blog.funvip.live/referto/about-fixit/</guid>
+      <description>FixIt 是一个由 Lruihao 开发的简洁、优雅且高效的 Hugo 博客主题。 它的原型基于 LoveIt 主题，KeepIt 主题 和 LeaveIt 主题。 Hugo 主题 FixIt 特性 性能和 SEO :(fa-solid fa-rocket fa-fw): 性能优化：在 Google PageSpeed Insights 中， [99]/[100] 的移动设备得分和 [100]/[100] 的桌面设备得分 :(fa-brands fa-searchengin fa-fw): 使用基于 JSON-LD 格式 的 SEO SCHEMA 文件进行 SEO 优化 :(fa-brands fa-google fa-fw): 支持 Google Analytics :(fa-regular fa-chart-bar fa-fw): 支持 Fathom Analytics :(fa-solid fa-search fa-fw): 支持搜索引擎的网站验证 (Google, Bing, Yandex, Pinterest, Baidu, 360 and Sogou) :(fa-solid fa-tachometer-alt fa-fw): 支持所</description>
+    </item>
+    
+  </channel>
+</rss>

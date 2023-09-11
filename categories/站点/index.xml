@@ -1,0 +1,54 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>站点 - 分类 - 拾趣资源</title>
+    <link>https://blog.funvip.live/categories/%E7%AB%99%E7%82%B9/</link>
+    <description>站点 - 分类 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E7%AB%99%E7%82%B9/" rel="self" type="application/rss+xml" /><item>
+  <title>🤖Ai知识集</title>
+  <link>https://blog.funvip.live/posts/aisummary/</link>
+  <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/posts/aisummary/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>📚线上转档</title>
+  <link>https://blog.funvip.live/tools/freetoolsonline/</link>
+  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tools/freetoolsonline/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/pdfyeah.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>🖼️图片空间</title>
+  <link>https://blog.funvip.live/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</link>
+  <pubDate>Sat, 01 Apr 2023 19:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</guid>
+  <description><![CDATA[<blockquote>
+<p>图片空间列表、介绍，再也不怕上传图片找不到空间啰！</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>🔗缩短链接</title>
+  <link>https://blog.funvip.live/tools/%E7%9F%AD%E9%93%BE/</link>
+  <pubDate>Sat, 01 Apr 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tools/%E7%9F%AD%E9%93%BE/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230402215853220.png" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of 拾趣 from Inoreader [https://blog.funvip.live/]</title>
+  </head>
+  <body>
+    <outline text="blogs" title="blogs">
+	  <outline text="拾趣" title="拾趣" type="rss" xmlUrl="https://blog.funvip.live/index.xml" htmlUrl="https://blog.funvip.live/"/>
+    </outline>
+  </body>
+</opml>
