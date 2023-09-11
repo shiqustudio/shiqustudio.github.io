@@ -5,6 +5,26 @@
 
 <!--more-->
 
+### Human Clock
+
+{{< image src="https://bib0.com/xc/i/2023/09/11/42853668864.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+>📄用人类手持图像的图片展示当前时间，在时间变化的时候会自动刷新。 
+
+🌐 资源地址：[点击跳转](https://humanclock.com/)
+
+### 7.5亿年前的地球
+
+{{< image src="https://bib0.com/xc/i/2023/09/11/261542853668864.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：7.5亿年前的地球
+
+>📄这个网站可以让你看到地球在过去7.5亿年的变化，可以输入位置看到它在过去的地理位置和环境是什么样的。例如杭州市，在7.5亿年前是处于南极洲附近的一个冰冻的地方~。 
+
+🌐 资源地址：[点击跳转](https://dinosaurpictures.org/ancient-earth#750)
+
 ### **Micros Culpture**
 
 {{< image src="https://bib0.com/xc/i/2023/08/24/aKKToP.gif" alt="-" title="Fun's images">}}  

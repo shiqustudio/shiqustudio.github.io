@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 天工 AI 搜索
+
+{{< image src="https://bib0.com/xc/i/2023/09/11/428536q1168864.png" alt="-" title="Fun's images">}} 
+
+⭐️  资源描述：昆仑万维公司出品的 AI 搜索引擎，通过 AI 总结从互联网上搜索到的实时内容。
+
+🌐 资源地址：[点击跳转](https://search.tiangong.cn/) 
+
 ### CodeGeeX2
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/hl4ml8.png" alt="-" title="Fun's images">}} 
@@ -36,7 +44,7 @@
 >
 >全称是「Large Language Model Operations」，翻译成中文是「大型语言模型操作」，是一个涵盖了大型语言模型（如GPT系列）开发、部署、维护和优化的一整套实践和流程
 
-🌐 资源地址：[点击跳转](https://dify.ai/) | 🌐[开源地址](https://github.com/langgenius/dify) | 📖[中文文档](https://docs.dify.ai/v/zh-hans/getting-started/intro-to-dify)
+🌐 资源地址：[点击跳转](https://dify.ai/) | 🧩[开源地址](https://github.com/langgenius/dify) | 📖[中文文档](https://docs.dify.ai/v/zh-hans/getting-started/intro-to-dify)
 
 ### Knit 
 

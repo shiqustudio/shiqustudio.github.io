@@ -21,6 +21,14 @@
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
+### 武侠世界
+
+{{< image src="https://bib0.com/xc/i/2023/09/11/1542853668864.png" alt="-" title="Fun's images">}}     
+
+🆔  资源名称： [武侠世界](https://www.wuxiaworld.com/) - 全世界第一个中国网络文学英译网站，有各种中文网络玄幻小说翻译成英文的版本。 
+
+🌐 资源地址：[点击跳转](https://www.wuxiaworld.com/) 
+
 ### Internet Archive
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730171102136.png" alt="-" title="Fun's images">}}     
