@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Neal.Fun
+
+{{< image src="https://bib0.com/xc/i/2023/09/20/image-20230920080747618.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🧩[Neal.Fun](https://neal.fun/) - 互联网上的一个小网站
+
+>📃作者是个非常有趣的人，他的这个网站有很多有趣的数据以及心理测试，还有几个小工具和游戏 
+
+🌐 资源地址：[点击跳转](https://neal.fun/)
+
 ### Human Clock
 
 {{< image src="https://bib0.com/xc/i/2023/09/11/42853668864.png" alt="-" title="Fun's images">}}  
@@ -173,6 +183,16 @@
 > 我觉得比较有趣的是他的「[无用网站](https://theuselessweb.com/)」，每点一下按钮便会带你跳转到一个「无用」网站，会玩
 
 🌐 资源地址：[点击跳转](https://theuselessweb.com/)
+
+### 世界直播
+
+{{< image src="https://bib0.com/xc/i/2023/09/20/image-20230920081013379.png" alt="-" title="Fun's images">}}  
+
+🆔  资源名称：▶️[世界直播](https://www.worldlivecamera.com/) - 一个收集了世界是公开直播的网站。
+
+⭐️  资源描述：你可以通过此网站实时观看世界各地的场景，和下面资源功能相同，可对比感受下。
+
+🌐 资源地址：[点击跳转](https://www.worldlivecamera.com/)
 
 ### 实时全球高清摄像头直播
 

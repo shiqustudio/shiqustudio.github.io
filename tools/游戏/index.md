@@ -1,6 +1,58 @@
 # 🎮游戏工具
 
 
+### 在线游戏合集
+
+{{< image src="https://bib0.com/xc/i/2023/09/20/image-20230920075934895.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🎮分享一些在线玩的游戏合集网站
+
+>🌐 [POKI](https://poki.com/) - 右下角切换中国区，疑似阉割，建议玩原版🆓
+>
+>🌐 [pogo](https://www.pogo.com/) - 英文🆓
+>
+>🌐 [Game-Game](https://tw.game-game.com/) - 有中文🆓
+>
+>🌐 [Y8](https://zh.y8.com/) - 有中文🆓
+>
+>🌐 [iO游戏](https://www.io233.com/) - 中文🆓
+>
+>🌐 [crazy games](https://www.crazygames.com/) - 英文🆓
+>
+>🌐 [Infinity Games](https://games.infinitynewtab.com/) - 英文🆓
+>
+>🌐 [Lagged](https://lagged.com/) - 英文🆓
+>
+>🌐 [AGAME](https://www.agame.com/) - 英文🆓
+>
+>🌐 [bestgames](https://www.bestgames.com/) - 英文🆓
+>
+>🌐 [Arkadium](https://www.arkadium.com/) - 英文，有付费跳过广告
+>
+>🌐 [CardGame](https://cardgames.io/) - 英文，各种纸牌游戏🆓
+>
+>🌐 [ArmorGames](https://armorgames.com/) - 英文，免费，4399从这个网站搬运了很多
+>
+>🌐 [Yandex Game](https://yandex.com/games/) - 中文菜单，大部分免费
+>
+>🌐 [KBH Games](https://kbhgames.com/) - 英文，免费
+>
+>🌐 [MINICLIP](https://www.miniclip.com/) - 英文，免费🆕
+>
+>🌐 [kongregate](https://www.kongregate.com/) - 英文，免费🆕
+>
+>🌐 [Addicting Games](https://www.addictinggames.com/) - 英文，免费🆕
+>
+>🌐 [Shockwave](https://www.shockwave.com/) - 英文，免费🆕
+>
+>🌐 [kiz10](https://kiz10.com/) - 英文，免费🆕
+>
+>🌐 [silvergames](https://www.silvergames.com/) - 免费🆕
+>
+>🌐 [游戏天堂](https://www.i-gamer.net/) - 繁中，免费🆕
+>
+>⭕️原创不易，搬运请注明出处
+
 ### Playnite
 
 {{< image src="https://bib0.com/xc/i/2023/06/20/screen2.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  

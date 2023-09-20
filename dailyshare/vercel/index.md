@@ -22,9 +22,15 @@
 
 8️⃣ [TextSummarizer](https://text-summarizer-seven.vercel.app/) - 在几秒钟内从文本生成摘要
 
-9️⃣ [智能文案小助手](http://www.linglan01.cn/c/chatgpt/) - 你的个人工作助理
+9️⃣ ~~[智能文案小助手](http://www.linglan01.cn/c/chatgpt/)~~ - 你的个人工作助理
 
 1️⃣0️⃣[设计灵感助手](https://www.aigenprompt.com/zh-CN) - 生成AI绘图 prompt
+
+1️⃣1️⃣[Ask2End](https://ask2end.com/) - 一个支持「打破砂锅问到底」的AI
+
+1️⃣2️⃣[Panit by text](https://paintbytext.chat/)  - 通过输入文字实现P图
+
+1️⃣3️⃣[面试押题王](https://yatiwang.linkly.ai/) - AI精准押中面试题
 
 
 ---
