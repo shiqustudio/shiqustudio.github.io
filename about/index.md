@@ -58,6 +58,8 @@ const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
 
 {{< link href="https://github.com/users/shiqustudio/projects/1" content="@Fun's Recent activity" card=true >}}
 
+{{< link href="/Fun.apk" content="Fun's App For Android" title="Download Fun's App" download="Fun.apk" card=true >}}
+
 ## 初衷
 
 建站的初衷不是为了炫耀所知，而是记录无知。  
