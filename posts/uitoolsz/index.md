@@ -5,6 +5,30 @@
 
 <!--more-->
 
+### SaaS 产品灵感获取
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/gfE8tC.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：🖌️一个不错的 SaaS 产品灵感获取汇集
+
+⭐️  资源描述：
+
+>📄发现一个不错的 SaaS 产品灵感获取汇集，从页面网址设计本身，包括登陆、定价、产品、博客、关于、顾问、联系方式等场景的设计参考，挺适合头疼想做一个啥的同学。
+
+🌐 资源地址: [点击跳转](https://www.saaspo.com/)
+
+### 设计师知识库
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/20231103101246.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：🖌️超级全的设计师知识库
+
+⭐️  资源描述：
+
+>📄发现一个超级全的设计师知识库「[年少的游戏厅](https://tuulih6pyq.feishu.cn/wiki/AVhMwAP14iXVKxkc32ackfGInAc)」，基本上可以当做新一代入门设计师的一些知识全面了解，包括书签收藏、作品集、视觉设计、用户研究、B 端设计等方面，比较适合收藏着有时间慢慢看一遍。
+
+🌐 资源地址: [点击跳转](https://tuulih6pyq.feishu.cn/wiki/AVhMwAP14iXVKxkc32ackfGInAc)
+
 ### InvokeAI
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/Aw4FZ8.png" alt="-"  title="Fun's images" >}}    

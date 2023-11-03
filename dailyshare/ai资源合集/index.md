@@ -5,6 +5,36 @@
 
 <!--more-->
 
+### Documate
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/4g3tEo.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：[Documate](https://documate.site/) - 将 AI 聊天对话嵌入到你的文档网站中
+
+>发现一个开箱即用的开源小工具 [Documate](https://documate.site/)，可以将 AI 聊天对话嵌入到你的文档网站中，根据内容回答用户的问题。有个人博客或者文档网站的小伙伴可以试试看，对主流框架支持很好。
+
+🌐 资源地址：点击跳转](https://documate.site/)
+
+### Headshot AI
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/SCR-20230925-mvul.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：[Headshot AI](https://github.com/leap-ai/headshots-starter) - 开源的 AI 商业项目样板
+
+>很适合想开展一个 AI 独立产品项目，但不知道怎么开始写代码和设计的同学，这个「[headshots-starter](https://github.com/leap-ai/headshots-starter)」是一个 AI 头像照片生成的开源项目，从注册到使用到付费流程，支持 Vercel 上一键部署，可以 Fork 代码到自己仓库，基于他的代码来快速修改成自己的项目。
+
+🌐 资源地址：🧩[开源地址](https://github.com/leap-ai/headshots-starter) | 🌐[点击跳转](https://headshots-starter.vercel.app/)
+
+### Open Interpreter
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/20231103104319.png" alt="-" title="Fun's images">}} 
+
+⭐️  资源描述：[Open Interpreter](https://github.com/KillianLucas/open-interpreter/) - 适合工程师的 AI 工具
+
+>在 Github 上面逛到一个很不错的适合工程师的 AI 工具「[Open Interpreter](https://github.com/KillianLucas/open-interpreter/)」，在本地实现开源的 OpenAI 的代码解释器。安装后在终端上运行 $interpreter 即可通过类似 ChatGPT 的界面与 Open Interpreter 聊天，效果非常不错，甚至可以二次开发。
+
+🌐 资源地址：🧩[开源地址](https://github.com/KillianLucas/open-interpreter/) | 🌐[点击跳转](https://openinterpreter.com/)
+
 ### 天工 AI 搜索
 
 {{< image src="https://bib0.com/xc/i/2023/09/11/428536q1168864.png" alt="-" title="Fun's images">}} 

@@ -6,6 +6,56 @@
 
 <!--more-->
 
+### tldraw
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/ckfk4B.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[tldraw](https://tldraw.com/) - 白板开源工具
+
+>假如你需要找一个好用的白板开源工具，推荐试试 [tldraw](https://tldraw.com/)，支持协作，此外他的编辑器、UI 和底层库都是开源的，甚至你可以使用它的 npm 包自己来创建一个上层的白板工具。
+
+🔗 资源链接：🌐[点击跳转](https://tldraw.com/)
+
+### Live
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/SCR-20230926-mrhq.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[Live](https://live.fanmingming.com/) - 一个国内可直连的直播源分享项目
+
+>最近在看 Apple TV 上的视频源，发现一个永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持 IPv4/IPv6 双栈访问，所有播放源均收集于互联网，仅供测试研究使用，不得商用。
+
+🔗 资源链接：🧩[开源地址](https://github.com/fanmingming/live)  | 🌐[点击跳转](https://live.fanmingming.com/)
+
+### CasaOS
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/RktnzC.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[CasaOS](https://github.com/IceWhaleTech/CasaOS) - 简单、易用的开源个人云系统
+
+>作者判断后面计算能力和存储成本正在迅速降低，但消费者数据资产的所有权和归属问题一直被忽视，所以假如后面足够便宜的话，我们是可以将这个个人云服务将作为个人数据中心的，为创作者和小型组织存储和管理数据，提供低成本的数据协作解决方案。看了看，支持多类硬件的部署，软件页面本身做得很简洁精致易用。
+
+🔗 资源链接：🧩[开源地址](https://github.com/IceWhaleTech/CasaOS)  | 🌐[点击跳转](https://casaos.io/)
+
+### I Miss My Bar
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/SCR-20230917-tpjl.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[I Miss My Bar](http://imissmybar.com/) - 不错的清酒白噪音工具
+
+>发现一个很不错的清酒白噪音工具「[I Miss My Bar](http://imissmybar.com/)」，相比其他的白噪音工具多了不少情趣，有点儿微醺的感觉，调酒师的工作、与他人交谈、整体空间、雨滴拍打在窗户上以及夜晚的氛围等音效，结合 Spotify 纯音乐播放列表。
+
+🔗 资源链接：[点击跳转](http://imissmybar.com/) 
+
+### 网页转 Markdown 格式
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/6WPlNb.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[把网页转换成 Markdown 格式存储](https://devtool.tech/html-md)
+
+>发现一款工具可以很好的把网页转换成 Markdown 格式存储，直接输入对应页面的地址，就可以解析成 Markdown 来复制使用，同时也支持用 HTML 的方式来转换，很适合有时候你发现不错的文档，然后想保存到本地笔记本的诉求，真的很好用。
+
+🔗 资源链接：[点击跳转](https://devtool.tech/html-md) 
+
 ### OLOCR
 
 {{< image src="https://bib0.com/xc/i/2023/08/25/48c4770394b94d8bb186468d15c240b2_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

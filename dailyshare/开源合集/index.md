@@ -5,6 +5,66 @@
 
 <!--more-->
 
+### AgentVerse
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/85EJMg.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：AgentVerse - 让 ChatGPT 自己去思考
+
+>假如一个问题，你编辑好规则，然后让 ChatGPT 自己去思考会如何，发现一个工具叫 AgentVerse，简化了为大型语言模型创建自定义多智能体环境的过程，比如说让 AI 来模拟 囚徒困境 有点儿意思。
+
+🌐 资源地址：🧩[开源地址](https://github.com/OpenBMB/AgentVerse)
+
+### Generative Image Dynamics
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/tKvqX5.gif" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Generative Image Dynamics](https://generative-dynamics.github.io/) - 生成图像动力学
+
+>这个 Google Research 的 [Generative Image Dynamics](https://generative-dynamics.github.io/) 生成图像动力学 Paper 值得关注，相当于对场景动态建模，可以将单张图像转化为无缝循环的视频或交互式动态场景，而且效果很真实自然的样子。
+
+🌐 资源地址：🌐[跳转站点](https://generative-dynamics.github.io/)
+
+### Awesome-Selfhosted
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/SCR-20230918-rngx.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Awesome-Selfhosted](https://awesome-selfhosted.net/) - 超棒的自托管开源合集
+
+>这个开源合集「[Awesome-Selfhosted](https://awesome-selfhosted.net/)」太牛逼了，超棒的自托管开源合集，在自己的服务器上托管和管理应用程序，而不是从 SaaS 提供商那里获取，包括自动化、博客平台、通信能力、内容管理、监控、API 管理等等，顿时有一种给我全包了的感觉。
+
+🌐 资源地址：🌐[跳转站点](https://awesome-selfhosted.net/)
+
+### Track Awesome List Updates Daily
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/2fiMnU.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Track Awesome List Updates Daily](https://trackawesomelist.com/)
+
+>我对 Github 上面的各种 Awesome 特别感兴趣，不过看过一次后由于内容一段时间内相同就不会反复看，发现「[Track Awesome List Updates Daily](https://trackawesomelist.com/)」完美解决了这个问题，他跟踪了 500 个 Awesome 仓库，将更新的部分自动生成汇总给你，甚至可以通过 RSS 来订阅。
+
+🌐 资源地址：🌐[点击跳转](https://trackawesomelist.com/)
+
+### Build your own X
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/9736.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
+>打造属于你自己的 X，通过从零开始重新创建您最喜欢的技术，掌握编程技能，包括 3D 渲染器、游戏、前端框架、文本编辑器、神经网络甚至操作系统的从零开始的教程。
+
+🌐 资源地址：🧩[开源地址](https://github.com/codecrafters-io/build-your-own-x) | 🌐[点击跳转](https://codecrafters.io/)
+
+### RealChar
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/1c0up.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[RealChar](https://github.com/Shaunwei/RealChar). - Your Realtime AI Character
+
+>发现一个不错的 AI 角色扮演解决方案「[RealChar. - Your Realtime AI Character](https://github.com/Shaunwei/RealChar)」，可以实时创建、定制并与您的 AI 角色/伴侣进行对话，可以定制您的 AI 角色的个性、背景，甚至声音，想玩的小伙伴可以去试试看。
+
+🌐 资源地址：🧩[开源地址](https://github.com/Shaunwei/RealChar)
+
 ### Ollama
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175502897.png" alt="-" title="Fun's images">}}  
@@ -15,7 +75,7 @@
 >
 >🍏目前仅支持 MacOS ，Windows 版本即将推出
 
-🌐 资源地址：🧩[开源地址](https://github.com/jmorganca/ollama)
+🌐 资源地址：🧩[开源地址](https://github.com/jmorganca/ollama) 
 
 ### Immich 
 
@@ -136,7 +196,7 @@
 >
 >❌说是支持全平台，其实不支持 iOS，猜测是 Apple 的政策原因
 
-🌐 资源地址：🙃[开源地址](https://github.com/GopeedLab/gopeed) | [点击跳转](https://gopeed.com/zh-CN) | 📖[使用指南](https://github.com/GopeedLab/gopeed/blob/main/README_zh-CN.md)
+🌐 资源地址：🙃[开源地址](https://github.com/GopeedLab/gopeed) | 🌐[点击跳转](https://gopeed.com/zh-CN) | 📖[使用指南](https://github.com/GopeedLab/gopeed/blob/main/README_zh-CN.md)
 
 ### ICP Query
 
@@ -158,7 +218,7 @@
 >
 >表明看似花里胡哨，实则内涵丰富，它还可以通过简单设置进行 Socks5 代理连接、堡垒机连接等等...
 
-🌐 资源地址：🧩[开源地址](https://github.com/Eugeny/tabby) | [点击跳转](https://tabby.sh/) | ⬇️[下载页面](https://github.com/Eugeny/tabby/releases/tag/v1.0.197)
+🌐 资源地址：🧩[开源地址](https://github.com/Eugeny/tabby) | 🌐[点击跳转](https://tabby.sh/) | ⬇️[下载页面](https://github.com/Eugeny/tabby/releases/tag/v1.0.197)
 
 ### Hitomi Downloader
 
@@ -172,7 +232,7 @@
 >
 >😄今天试下载 YouTube 频道的视频，下载速度基本带宽拉满了，体验非常好
 
-🌐 资源地址：🧩[开源地址](https://github.com/KurtBestor/Hitomi-Downloader) | ⬇️[下载地址](https://github.com/KurtBestor/Hitomi-Downloader/releases) | [插件地址](https://github.com/KurtBestor/Hitomi-Downloader/wiki/Chrome-Extension)
+🌐 资源地址：🧩[开源地址](https://github.com/KurtBestor/Hitomi-Downloader) | ⬇️[下载地址](https://github.com/KurtBestor/Hitomi-Downloader/releases) | 🌐[插件地址](https://github.com/KurtBestor/Hitomi-Downloader/wiki/Chrome-Extension)
 
 >📑**相关阅读**
 >

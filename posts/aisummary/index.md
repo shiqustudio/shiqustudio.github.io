@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 通往 AGI 之路
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/Rb1To8.png" alt="-"  title="Fun's images" >}}     
+
+⭐️  资源描述：发现一个梳理得挺全面、易于理解的 AI 学习路径，帮助你了解 AI 从概念到应用等各方面知识的，叫「[通往 AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)」飞书文档库，可以收藏慢慢来看了。
+
+🌐 资源地址: [点击跳转](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+
 ### Llama2 Chinese
 
 {{< image src="https://bib0.com/xc/i/2023/09/07/image-20230907080230010.png" alt="-" title="Fun's images">}}     

@@ -5,13 +5,73 @@
 
 <!--more-->
 
+### WebGL 
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/20231103111011.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：**WebGL 理论基础**
+
+>学习过 WebGL 的小伙伴应该看到这个「WebGL 理论基础」在线教程，属于入门基础的讲解，很适合想学习前端 3D 相关的同学。
+
+🌐 资源地址：[点击跳转](https://webglfundamentals.org/webgl/lessons/zh_cn/)
+
+### 一个很全的循序渐进的视频技术的介绍
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/20231103110817.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：一个很全的循序渐进的视频技术的介绍
+
+>关于数字视频技术应该不少写上层应用的同学不是很熟悉，在 Github 看到了一个很全的循序渐进的视频技术的介绍，结合讲解和练习的方式让工程师可以快速上手了解。
+
+🌐 资源地址：[开源地址](https://github.com/leandromoreira/digital_video_introduction/blob/master/README-cn.md)
+
+### Redesign Design System
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/SCR-20230925-muby.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Redesign Design System](https://redesigningdesign.systems/component-process/getting-started.html) - 重新设计设计系统
+
+>这个设计师学习网站有点儿意思，对于设计师而言重新设计你的设计系统，包括如何创建、记录、维护你的设计系统组件，从研究->设计->建设->发布过程全流程的教程文档，很实用的设计指南。
+
+🌐 资源地址：[点击跳转](https://redesigningdesign.systems/component-process/getting-started.html)
+
+### 免费 Rust 课程
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/iYOcI0.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Google 的 Android 团队开发的免费 Rust 课程](https://google.github.io/comprehensive-rust/index.html)
+
+>Google 的 Android 团队最近放出了一个免费 Rust 课程，涵盖了 Rust 不少内容，从基本语法到高级主题，比较适合从其他语言转过来的新手学习，一共 3 天的一个课程，还有对应的练习题，挺适合快速入门了解的。
+
+🌐 资源地址：[点击跳转](https://google.github.io/comprehensive-rust/index.html)
+
+### 一个超级全免费开发者资源网站
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/20231103103311.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[一个超级全免费开发者资源网站](https://free-for.dev/#/)
+
+>发现一个超级全免费开发者资源网站，包括各类 SaaS、PaaS、IaaS 服务，包括云服务、CMS、设计灵感、字体、IDE 和代码编辑、监控等，纯英文的可借助翻译工具。
+
+🌐 资源地址：🧩[开源地址](https://github.com/ripienaar/free-for-dev) | 🌐[点击跳转](https://free-for.dev/#/)
+
+### engblogs
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/20231103100411.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[engblogs](https://engineeringblogs.xyz/) - 国外技术博客汇集工具
+
+>发现一个很不错的国外技术博客汇集工具「[engblogs](https://engineeringblogs.xyz/)」，将 506 个工程师的博客的 RSS 给订阅起来，将每天有更新的自动同步到网站上，甚至你可以汇集的方式来订阅。
+
+🌐 资源地址：[点击跳转](https://engineeringblogs.xyz/) 
+
 ### Interview
 
 {{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623161425784.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
 
-🌐 资源地址：[点击跳转](https://interview.huihut.com/#/)🧩[Github地址](https://github.com/huihut/interview)
+🌐 资源地址：[点击跳转](https://interview.huihut.com/#/) | 🧩[Github地址](https://github.com/huihut/interview)
 
 ### Learn-Javascript
 
@@ -19,7 +79,7 @@
 
 ⭐️  资源描述：从零开始教授 JavaScript 编程语言基础的书，内含丰富的在线练习
 
-🌐 资源地址：[点击跳转](https://javascript.sumankunwar.com.np/en/)🧩[Github地址](https://github.com/sumn2u/learn-javascript)
+🌐 资源地址：[点击跳转](https://javascript.sumankunwar.com.np/en/) | 🧩[Github地址](https://github.com/sumn2u/learn-javascript)
 
 ### 计算机专业学习路线
 
@@ -112,7 +172,7 @@
 
 >[DevToys](https://devtoys.app/) 帮助完成日常开发任务，例如格式化 JSON、比较文本和测试 RegExp。无需使用许多不可信的网站来处理您的数据执行简单的任务。通过智能检测，DevToys 可以检测用于复制到 Windows 剪贴板的数据的最佳工具。紧凑的覆盖让您可以保持应用程序较小并位于其他窗口之上。可以同时使用该应用程序的多个实例。
 
-🌐 资源地址：[点击跳转](https://devtoys.app/)|[Github地址](https://github.com/veler/DevToys)
+🌐 资源地址：[点击跳转](https://devtoys.app/)|🧩[开源地址](https://github.com/veler/DevToys)
 
 ### freelearninglist
 

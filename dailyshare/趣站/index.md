@@ -5,6 +5,56 @@
 
 <!--more-->
 
+### SpeedRun
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/OV3gts.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[SpeedRun](http://speedrun.com/) - 游戏最快速度通关的网站
+
+>发现一个游戏最快速度通关的网站 SpeedRun，喜欢玩游戏的人应该比较熟悉这个，你还可以自己上传自己的速通内容，可以去看看别人怎么玩的。
+
+🌐 资源地址：[点击跳转](http://speedrun.com/)
+
+### 用千亿像素看世界各个城市
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/6PYFTCJT3TELMVZv.jpeg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：用千亿像素看世界各个城市
+
+>一个挺有趣的网站，用千亿像素看世界各个城市，具体效果可以看这个视频，挺好玩的，适合随便看看。
+
+🌐 资源地址：[点击跳转](http://pf.bigpixel.cn/zh-CN/city/1.html)
+
+### Ancient Earth Globe
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/TBAOVy.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#200) - 古老的地球仪
+
+>这个工具很适合喜欢天文的同学，可以从当前回溯到 7.5 亿年前的地球模样，通过地球仪的方式给展示出来，做得还不错。
+
+🌐 资源地址：[点击跳转](https://dinosaurpictures.org/ancient-earth/#200)
+
+### 播客小镇
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/SCR-20230918-rmbb.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[播客小镇](https://podtown.xyz/) - 一张中文播客地图
+
+>发现一个做得特别好的播客汇集工具「[播客小镇](https://podtown.xyz/)」，一张中文播客地图，用以好玩的方式呈现中文播客的一种样貌和其中的可能性，很有活着的感觉，特别适合我这种想寻找之前没有听过的有趣的播客的人，更像是一个随便走走随便听听的感觉，非常推荐。
+
+🌐 资源地址：[点击跳转](https://podtown.xyz/)
+
+### YesNo
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/W4TkvZ.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[YesOrNo](https://yesno.wtf/) - 帮助你快速决策的工具
+
+>发现一个超级逗的帮助你快速决策的工具，每次你访问会随机提供一个「Yes」或者「No」的答案，结合一个搞笑的 GIF 背景图片，很适合纠结小伙伴使用，甚至我感觉可以用在代替抽奖的场景，哈哈哈。
+
+🌐 资源地址：[点击跳转](https://yesno.wtf/)
+
 ### Neal.Fun
 
 {{< image src="https://bib0.com/xc/i/2023/09/20/image-20230920080747618.png" alt="-" title="Fun's images">}}  
@@ -44,6 +94,16 @@
 >📄网站收集了大量的高清效果图，可以放大查看细节，不过对于昆虫恐惧者不建议点击地址进去看，喜欢新奇玩意的可以随便看看。
 
 🌐 资源地址：[点击跳转](http://microsculpture.net/wasp-mimic-hoverfly.html)
+
+### Emoji 合并
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/C9ez0B.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：一个很有趣的 Emoji 合并的工具
+
+>发现一个很有趣的 Emoji 合并的工具，你可以直接随机选择两个合并成神奇的样子，也可以去看看当前合并的排行榜找找思路，挺好玩的，甚至有兴趣你可以做一个表情包玩玩。
+
+🌐 资源地址：[点击跳转](https://tikolu.net/emojimix/)
 
 ### Animated Fluent Emojis
 

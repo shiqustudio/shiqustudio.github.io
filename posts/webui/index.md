@@ -5,6 +5,54 @@
 
 <!--more-->
 
+### Behance
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/1riy3X.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[Behance](http://behance.net/) - 类似于设计师的 Github 社区
+
+⭐️  资源描述：
+
+> 发现一个类似于设计师的 Github 社区 [Behance](http://behance.net/)，Adobe 旗下用于展示并发现创意的在线平台，喜欢设计的小伙伴没啥事的时候可以去逛逛看。
+
+🌐 资源地址: [点击跳转](http://behance.net/) 
+
+### Godot
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/911shots_so.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[Godot](https://godotengine.org/) - 一个功能丰富的跨平台游戏引擎
+
+⭐️  资源描述：
+
+> [Godot](https://godotengine.org/) 是一个功能丰富的跨平台游戏引擎，可用统一界面创建 2D 和 3D 游戏。有一套全面工具，帮助开发者可专注于制作，不需要再造轮子，做好以后一键导出到多个平台，感兴趣的可以试试看，玩了玩简单案例还不错。
+
+🌐 资源地址: [点击跳转](https://godotengine.org/) 
+
+### 免费图标库
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/SCR-20230918-rfaf.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[yesicon](https://yesicon.app/) - 157 组开源、免费的图标库
+
+⭐️  资源描述：
+
+> 这个 [yesicon](https://yesicon.app/) 合集的整理太太太赞了，157 组开源、免费的图标库，很感谢整理的人，不是简单地将单纯收集，还对 icon 本身进行了语义化翻译，很方便国内的同学直接搜索使用，非常适合开发者和设计师直接 copy 使用。
+
+🌐 资源地址: [点击跳转](https://yesicon.app/) 
+
+### useAnimations
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/3yAaFK.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[useAnimations](https://useanimations.com/index.html) - 带动画效果的 icon 汇集网站
+
+⭐️  资源描述：
+
+> 网页开发的时候假如加入一点儿微动效会让你的效果很有惊喜感，看到一个不错的带动画效果的 icon 汇集网站「[useAnimations](https://useanimations.com/index.html)」，底层使用 Lottie 的方式来渲染，格式类比于 JSON 描述 + SVG，很简单可以使用，效果很细腻可以试试看。
+
+🌐 资源地址: [点击跳转](https://useanimations.com/index.html) 
+
 ### Arwes
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629221409117.png" alt="-"  title="Fun's images" >}}    

@@ -53,6 +53,16 @@
 
 🌐 资源地址：[点击跳转](https://iason.notion.site/6719c7650fd1406c92287f556520fbc3)
 
+### BookStash
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/1YmroJ.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[BookStash](https://bookstash.io/) - 快速决定一本书是否要看
+
+>📄喜欢看书的朋友可以去看看这个站点「[BookStash](https://bookstash.io/)」，将国外一些著名人物推荐的书籍用 3 分钟很简单的方式来了解，觉得不错再去买书看，大部分书看了看都是经典书籍同时也有中文版本。
+
+🌐 资源地址：[点击跳转](https://bookstash.io/)
+
 
 ---
 
