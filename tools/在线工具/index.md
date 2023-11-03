@@ -6,6 +6,16 @@
 
 <!--more-->
 
+### Spacedrive
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/iWI2Lz.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[Spacedrive](https://spacedrive.com/) - 跨平台文件管理器
+
+>之前一直关注的 Spacedrive 终于发布可用版本了，一个用 Rust 编写的开源的跨平台文件管理器，类比 Mac 上面 Finder，支持多个平台，做得挺精致，有兴趣小伙伴可以试试看。
+
+🔗 资源链接：🌐[点击跳转](https://spacedrive.com/)
+
 ### tldraw
 
 {{< image src="https://bib0.com/xc/i/2023/11/03/ckfk4B.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
