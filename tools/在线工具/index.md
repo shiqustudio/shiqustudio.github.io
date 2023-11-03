@@ -6,6 +6,26 @@
 
 <!--more-->
 
+### 去重排序匹配
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/19226154233464.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：
+
+>这个工具提供了对于多行文本的去重和排序功能，比如：要对很多人名按照笔画、拼音字母进行排序的时候就很有用，同时还提供了按照文本长度排序、按照文本中的数字大小排序等功能。 
+
+🔗 资源链接：🌐[点击跳转](https://toolight.cn/text/sort)
+
+### Speechify
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/20231103162247.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[Speechify](https://speechify.com/text-to-speech-online/) - 免费文本转语音工具
+
+>这是一个无需登录即可使用的免费文本转语音工具，支持包括中文在内的多种语言，并可选择多种音色和速度。
+
+🔗 资源链接：🌐[点击跳转](https://speechify.com/text-to-speech-online/)
+
 ### Spacedrive
 
 {{< image src="https://bib0.com/xc/i/2023/11/03/iWI2Lz.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

@@ -95,6 +95,26 @@
 
 🌐 资源地址：[点击跳转](http://microsculpture.net/wasp-mimic-hoverfly.html)
 
+### EmojiGen
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/2192261542853232364.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+>通过输入提示词, 生成 emoji 表情风格的新表情，无需登录，可以免费使用，下面的表情是通过“一个在长城上面骑着猪握着剑的少年”这段提示词生成的。 
+
+🌐 资源地址：[点击跳转](https://emoji.fly.dev/)
+
+### sdxl-emoji
+
+{{< image src="https://bib0.com/xc/i/2023/11/03/2192261542853668864.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+>基于苹果 Emojis 表情符号训练的模型，通过输入描述或者上传参考图来生成 Emoji 风格的图像，下图是通过“一个在长城上面骑着猪握着剑的少年”这段提示词生成的。 
+
+🌐 资源地址：[点击跳转](https://replicate.com/fofr/sdxl-emoji)
+
 ### Emoji 合并
 
 {{< image src="https://bib0.com/xc/i/2023/11/03/C9ez0B.png" alt="-" title="Fun's images">}}  
