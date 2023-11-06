@@ -1,20 +1,22 @@
-<h1 align="center">菠菜眾長</h1>
+<h1 align="center">拾趣</h1>
 
 <div align="center">
-博採眾長—取“兼收并蓄，博采众长。”之意。
+拾趣 共享 生活 学习
 
-[预览](https://lruihao.github.io/) | [源码](https://github.com/Lruihao/hugo-blog)
+
+
+[预览](https://shiqustudio.github.io/) | [源码](https://github.com/shiqustudio/hugo-blog)
 </div>
 
 ## Content management
 
-博客内容主要以 Web 前端为主。
+博客内容主要以专注分享各种高质量网站、工具、APP、开源项目等一切好玩的东西🚀为主。
 
-分享一些有趣程序、技巧、开发教程、心情和学习记录！
+同时分享一些有趣程序、技巧、开发教程、心情和学习记录！
 
 ## Copyright
 
-:copyright: 2018 - 2022 [Lruihao](https://github.com/Lruihao)
+:copyright: 2018 - 2023 [Fun](https://github.com/shiqustudio)
 
 ## Stargazers over time
 
