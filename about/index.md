@@ -63,7 +63,7 @@ const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
 ## 初衷
 
 建站的初衷不是为了炫耀所知，而是记录无知。  
-人知道的越多，就会发现无知的越多。有更广袤的世界可以<font color = red>``探索``</font>，真是莫大的快乐！
+人知道的越多，就会发现无知的越多。有更广袤的世界可以<font color = red>`探索`</font>，真是莫大的快乐！
 
 <p style="text-align: right;font-size: 100%;" >—— 创建于 2023-04-01 20:01:01</p>
 
