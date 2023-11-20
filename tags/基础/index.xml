@@ -22,7 +22,7 @@
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p><code>bilibili</code> shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。</p>]]></description>
 </item>
 <item>
@@ -33,7 +33,7 @@
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供数据可视化的功能。</p>]]></description>
 </item>
 <item>
@@ -64,7 +64,7 @@
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/featured-image.png" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 提供了一个内嵌的响应式音乐播放器。</p>]]></description>
 </item>
 <item>
@@ -85,7 +85,7 @@
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</guid>
   <description><![CDATA[<div class="featured-image">
         <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
+      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
 <p><strong>FixIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode。</p>]]></description>
 </item>
 <item>
