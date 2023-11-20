@@ -19,6 +19,7 @@
 :copyright: 2018 - 2023 [Fun](https://github.com/shiqustudio)
 
 ## Stargazers over time
+
 <!--
 [![Stargazers over time](https://starchart.cc/Lruihao/lruihao.github.io.svg)](https://starchart.cc/Lruihao/lruihao.github.io)
 -->
@@ -26,3 +27,4 @@
 <p align="center" width="100%">
 <img src="https://api.star-history.com/svg?repos=shiqustudio/shiqustudio.github.io&type=Date" alt="Wechat" style="width: 100%; display: block; margin: auto;">
 </p>
+
