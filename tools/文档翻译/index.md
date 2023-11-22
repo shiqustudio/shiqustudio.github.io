@@ -17,7 +17,7 @@
 
 > PDF中可以正确的选中文字、复制它，并粘贴到记事本中之后看到的文字和pdf中相同，故`标准编码的PDF`可以直接翻译，有些带OCR功能的软件可以直接翻译图片的文字
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_16-28-37.jpg" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_16-28-37.jpg" alt="-" title="Fun's images" width="800px">}}  
 
 **非标准编码的文字型PDF：**
 
@@ -27,7 +27,7 @@
 >
 > 👉 转换软件：[蓝奏云](https://silece.lanzouw.com/iwvUf1fkwati)
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_16-30-21.jpg" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_16-30-21.jpg" alt="-" title="Fun's images" width="800px">}}  
 
 ## DeepL翻译
 
@@ -56,7 +56,7 @@
 +    [安卓APP](https://silece.lanzouw.com/iBaaU1fkwjqj)
 +    [在线翻译](https://www.deepl.com/translator)
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_17-47-27.jpg" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_17-47-27.jpg" alt="-" title="Fun's images" width="800px">}}  
 
 ## 百度网盘内置翻译
 
@@ -66,7 +66,7 @@
 +   翻译完导出的是`docx`文档格式，方便编辑或修改
 +   如果你没有百度网盘会员，需要翻译文档`小于30M`，可以私聊或群里@`群主` 免费代转
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_18-09-25.jpg" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_18-09-25.jpg" alt="-" title="Fun's images" width="800px">}}  
 
 ## 知云文献翻译工具
 
@@ -88,7 +88,7 @@
 
 翻译引擎内置了百度AI翻译、谷歌智能云翻译、谷歌生物医学专用翻译、有道翻译、搜狗翻译和Deepl翻译
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_17-57-38.jpg" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_17-57-38.jpg" alt="-" title="Fun's images" width="800px">}}  
 
 其中只有百度AI翻译 和有道翻译 免费使用，其余翻译引擎需要`获取积分`才能使用该翻译引擎
 
@@ -96,7 +96,7 @@
 
 支持切换译文方式，方便校对阅读
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_18-37-47.jpg" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_18-37-47.jpg" alt="-" title="Fun's images" width="800px">}}  
 
 ## CopyTranslator
 
@@ -127,7 +127,7 @@
 +   [CopyTranslator v8.3.0](https://copytranslator.gitee.io/guide/8.3.0)
 +   [CopyTranslator v7 (opens new window)](https://www.bilibili.com/video/av37503818/)：仍支持32位系统，仅支持windows
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_19-15-39.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_19-15-39.jpg" alt="-" title="Fun's images" width="800px">}}
 
 ## 趣卡翻译
 
@@ -143,11 +143,11 @@
 
 **赞助密钥：** 赞助密钥无任何字符限制 [详情](https://zanzhu.qukaa.com/order/zanzhu)
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_19-33-06.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_19-33-06.jpg" alt="-" title="Fun's images" width="800px">}}
 
 翻译界面
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_19-58-02.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_19-58-02.jpg" alt="-" title="Fun's images" width="800px">}}
 
 ## QTranslate
 
@@ -185,7 +185,7 @@
 
 **快捷键：** 选中翻译的文本，按 `Ctrl + Q` 即可显示搜索结果
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_20-15-01.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_20-15-01.jpg" alt="-" title="Fun's images" width="800px">}}
 
 ## PandaOCR
 
@@ -207,7 +207,7 @@
 +   激活专业版后不受任何限制，您可以使用全部功能，包括全部已接入的API接口和高级功能，如：图文批量识别、调用本地接口、屏幕对照翻译、屏幕显示按键、按键音效播放、快捷短语翻译等！
 +   如果您喜欢并愿意支持本工具继续提供更好的功能或体验可以考虑激活专业版，也可以单纯捐助，谢谢！
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_20-48-05.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_20-48-05.jpg" alt="-" title="Fun's images" width="800px">}}
 
 ## RubberTrans
 
@@ -219,17 +219,17 @@
 
 > RubberTranslator会自动监视识别剪贴板中的信息，并自动翻译
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_21-10-54.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_21-10-54.jpg" alt="-" title="Fun's images" width="800px">}}
 
 ## Office Word 软件
 
 📚[office完整版 2013 - 2019](https://flowus.cn/share/f06968cd-1751-4aec-8c92-c0ea6e88eb73 "office完整版 2013 - 2019") 
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/1622882bf.png" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/1622882bf.png" alt="-" title="Fun's images" width="800px">}}
 
 wps-word
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_21-57-25.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2022-09-24_21-57-25.jpg" alt="-" title="Fun's images" width="800px">}}
 
 ## GitHub资源
 
@@ -252,7 +252,7 @@ wps-word
 ◾支持多个平台翻译服务，比如：腾讯、彩云、deepl等  
 🌐[资源地址](https://github.com/immersive-translate/next-immersive-translate) | 🌐[网站地址](https://immersive-translate.owenyoung.com/)
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/20230119164045.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/20230119164045.jpg" alt="-" title="Fun's images" width="800px">}}
 
 ### 2.可可翻译
 
@@ -260,7 +260,7 @@ wps-word
 
 🧩[开源地址](https://github.com/chunibyocola/sc-translator-crx "GitHub")
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/daily-use.gif" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/daily-use.gif" alt="-" title="Fun's images" width="800px">}}
 
 ### 3.划词翻译
 
@@ -268,7 +268,7 @@ wps-word
 
 🌐[官网地址](https://hcfy.app/docs/install/ "官网") | 🧩[开源地址](https://github.com/hcfyapp/crx-selection-translate "GitHub")
 
-{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2023-01-19_16-50-08.jpg" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/11/22/Snipaste_2023-01-19_16-50-08.jpg" alt="-" title="Fun's images" width="800px">}}
 
 
 ---
