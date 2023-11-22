@@ -402,6 +402,99 @@
 >
 >**[📒 雅思真题免费在线测试及答案](https://ieltsonlinetests.com/zh-hans/ielts-exam-library#all-test)**
 
+## 写作润色
+
+>🌐[Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)  
+>⭐️可以查到源于英语母语学习者的地道表达。Academic Phrasebank也有literature review、critical writing等方方面面的写作指导  
+>
+>🌐[Hemingway Editor](https://hemingwayapp.com/)  
+>⭐️可以修改语法错误，自动检测文章中的长难句，给出修改意见。  
+>
+>🌐[Grammarly](https://www.grammarly.com/)  
+>⭐️帮助识别重复的单词、错别字、错误的介词、冗长的句子、过度使用的单词和被动语态，甚至可以检查标点  
+>
+>🌐[Ginger](https://www.gingersoftware.com/)  
+>⭐️可以逐句优化，还有句子改写、字典功能和发音阅读等  
+>
+>🌐[Quillbot](https://quillbot.com/)
+>⭐️同义词替换，去掉长杂句,还可以调整类型比如普通，流利，缩短，扩写等等  
+>
+>🌐[Thesaurus](https://www.thesaurus.com/)  
+>⭐️高级词汇,帮你查找同义词  
+>
+>🌐[ARizona](https://awc.ashford.edu/thesis-generator)  
+>⭐️可以帮助你解决撰写论文中通常最困难的部分：提出论文  
+>
+>🌐[Ludwig](https://ludwig.guru/)  
+>⭐️一个集翻译、替换、查找、比较等功能于一身的英文写作工具，可以帮助你修改论文语法，提高词汇多样性，甚至让你写出来的句子更加local.可以把你的大白话变成学术用语  
+>
+>🌐[剑桥Write&Improve](http://www.writeandimprove.com/)  
+>⭐️剑桥大学推出的免费写作训练网站  
+>
+>🌐[改写匠](https://www.rewriter.cn/)  
+>⭐️人工智能英语批改和写作辅助平台，可针对不同文体、不同写作维度和不同错误类型进行智能评估，给出对应的润色建议，并支持一键改写  
+>
+>🌐[1Checker](http://www.1checker.com/)  
+>⭐️校对、语法检查和智能润色  
+>
+>🌐[SlickWrite](https://www.slickwrite.com/)  
+>⭐️在线校对+文章可读性检测软件，就和GRAMMARLY差不多。  
+>
+>🌐[Reverso Spell Checker](https://www.reverso.net/spell-checker/english-spelling-grammar/)  
+>⭐️用拼写+语法错误的检查，还能帮你修改标点符号 
+>
+>🌐[Linggle](https://www.linggle.com/)  
+>⭐️可用于英语写作的语法、句子工具，可帮助学习者分析更准确的英文写作建议  
+>
+>🌐[Nounplus](https://www.nounplus.net/)  
+>⭐️可以检查语法措辞及修正建议。也会用不同的颜色贴心的帮你标记出来。  
+>
+>🌐[微软爱写作](http://aimwriting.mtutor.engkoo.com/)  
+>⭐️免费英语作文批改网站，国内也可使用  
+>
+>🌐[Virtual Writing Tutor Grammar Checker](https://www.virtualwritingtutor.com/)  
+>⭐️语法检查网站,校对器帮助作者计算单词、检查拼写、检查语法和标点、检查释义、改进单词选择、自我评估目标结构的使用以及掌握英语发音 
+>
+>🌐[秘塔写作猫](https://xiezuocat.com/#/)  
+>⭐️国产好用的润色工具，支持中英文润色 
+>
+>🌐[Antidote 【法语润色】](https://www.antidote.info/en/)  
+>⭐️可以修改语法、词法、句法，也可以当字典以及语法书用 
+>
+>🌐[LanguageTool](https://languagetool.org/)  
+>⭐️一款语法、文风和拼字校对工具，LanguageTool支持超过20种语言 
+>
+>🌐[Rewordify](http://rewordify.com/)  
+>⭐️一个功能强大的免费在线软件，可以改善阅读、学习和教学，也可以用于重写润色。
+>
+>🌐[Triivi](https://download.cnet.com/Triivi-English-Typing-Accelerator/3000-2079_4-10576967.html)  
+>⭐️一款SCI论文写作的辅助工具，分分钟解决论文写作中词汇量的问题  
+>英文输入软件，免费开源，具备词频调整、智能纠错，根据已经输入的字母猜出想写点词或短语，提高英文输入速度！标准版具有50万词汇量,专业词库(约20万词汇). 
+>
+>🌐[StyleWriter](https://www.stylewriter-usa.com/)  
+>⭐️这款润色神器除了校对功能外，还有专业术语、句子和可读性检查等多达39项检测，会自动给出修改建议及原因，并用不同的颜色来标记，其检查的准确性高 
+>
+>🌐[Write like a PRO](https://wordvice.ai/cn)  
+>⭐️一款英文自动校对工具，可为您自动检测文本各类语言使用错误，完成准确高效的校对  
+>
+>🌐[British national corpus3](http://www.natcorp.ox.ac.uk/)  
+>⭐️可以根据自己需要的意思找到比较常用的说法  
+>
+>🌐[ProwritingAid](https://prowritingaid.com/)  
+>⭐️拥有查重功能，以及选择写作风格  
+>
+>🌐[句解霸](http://www.en998.com/)  
+>⭐️英语句子成分分析  
+>
+>🌐[WhiteSmoke](https://www.whitesmoke.com/)  
+>⭐️一款强大的写作辅助工具，能够检测数百个语法和拼写错误，并给提供拼写建议；可以提供全文翻译、多语言字典；同时能够改善语句、词汇和写作风格  
+>
+>🌐[Wordtune:人工智能写作伴侣](https://www.wordtune.com/)  
+>⭐️帮助作者将思想提炼成正确的单词，检查语法错误 
+>
+>🌐Microsoft office Word  
+>⭐️内置软件拼写和语法检查软件，可以帮助作者找出语法和拼写错误或标点错误
+
 ## 经验分享
 
 ### 大佬分享
