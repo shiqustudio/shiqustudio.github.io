@@ -404,60 +404,62 @@
 
 ## 经验分享
 
+### 大佬分享
+
+{{< bilibili BV1ns4y1A7fj>}}
+
+⭐️  资源描述：分享一下大佬的学习英语的经验，学完后可以做[词汇测试](https://my.vocabularysize.com/result/71ffbe2554f0ae3f28f737303da7772f)
+
+🌐 资源地址：[点击跳转](https://www.bilibili.com/video/BV1ns4y1A7fj)
+
+### 其他分享
+
 {{< admonition tip "篇一" >}}
 
 🔴 **内容转自：** 📝[文章地址](https://t.me/isaiahsystem/587) 丨 🦸‍♂️[博客](https://kidsseeghosts.art/)
 
-语言学习最主要的是情境和惯习（惯习，布迪厄语），我认为这是很重要的，有情境（语境），也有对情境形成不假思索的反应。这可以很好概括语言学习，语言也自是如此。
-
-以前我陆续分享了不少语言学习相关，工具、教程、方案。
+> 语言学习最主要的是情境和惯习（惯习，布迪厄语），我认为这是很重要的，有情境（语境），也有对情境形成不假思索的反应。这可以很好概括语言学习，语言也自是如此。
 
 **工具：**
 
-[Lingq](https://t.me/isaiahsystem/49)：这是我很喜欢的，用来学除英语外的其它语言很有效。精熟几十种语言的 [Steve Kaufmann](https://www.youtube.com/c/Thelinguist) 是联合创始人。对文本、单词、短语取词制卡，真正利用 context 语境优势渐进沉浸学习。
+- [Lingq](https://t.me/isaiahsystem/49)：这是我很喜欢的，用来学除英语外的其它语言很有效。精熟几十种语言的 [Steve Kaufmann](https://www.youtube.com/c/Thelinguist) 是联合创始人。对文本、单词、短语取词制卡，真正利用 context 语境优势渐进沉浸学习。
 
-[Burning Vocabulary](https://t.me/isaiahsystem/163)：网页标注单词，全网高亮，间隔重复记忆。这个以前在用，目前感觉不必要，已经关了。同类型插件 [Relingo](https://t.me/isaiahsystem/230)，还免费，和之前提到的 Clearly 阅读器同开发。
+- [Burning Vocabulary](https://t.me/isaiahsystem/163)：网页标注单词，全网高亮，间隔重复记忆。这个以前在用，目前感觉不必要，已经关了。同类型插件 [Relingo](https://t.me/isaiahsystem/230)，还免费，和之前提到的 Clearly 阅读器同开发。
 
-[YouTube 双字幕](https://t.me/isaiahsystem/184)：用于油管视频学习，也是很有用的。
+- [YouTube 双字幕](https://t.me/isaiahsystem/184)：用于油管视频学习，也是很有用的。
 
-[沙拉查词](https://saladict.crimx.com/)：目前返璞，也主要用这个划词翻译插件。
+- [沙拉查词](https://saladict.crimx.com/)：目前返璞，也主要用这个划词翻译插件。
 
-[雪球英语 APP](https://mobile.twitter.com/iwilldev)：这个确实很多人推荐，可以试试。
+- [雪球英语 APP](https://mobile.twitter.com/iwilldev)：这个确实很多人推荐，可以试试。
 
 **Space Repetition System（ SRS 间隔重复系统）：**
 
 提到语言学习，自然不能忽视渐进记忆和算法。各种花哨 APP 就不推荐了。
 
-[Anki](https://apps.ankiweb.net/)：承载 SM-2 算法的闪卡记忆工具，多平台，可以学习单词。现在很多软件，尤其笔记软件也有记忆功能，比如 [Remnote](https://www.remnote.com/) 还有个关于 SRS 的频道推荐：[@anki\_keeper](https://t.me/anki_keeper)
+- [Anki](https://apps.ankiweb.net/)：承载 SM-2 算法的闪卡记忆工具，多平台，可以学习单词。现在很多软件，尤其笔记软件也有记忆功能，比如 [Remnote](https://www.remnote.com/) 还有个关于 SRS 的频道推荐：[@anki\_keeper](https://t.me/anki_keeper)
 
-[Supermemo](https://www.yuque.com/supermemo/wiki/help)：这个不多介绍了，最优秀的算法，摘录、排期、优先级都非常不错的。适合文章处理，如果记单词，建议录入整个句子，语境。Supermemo 文档也是人生指南宝藏。
+- [Supermemo](https://www.yuque.com/supermemo/wiki/help)：这个不多介绍了，最优秀的算法，摘录、排期、优先级都非常不错的。适合文章处理，如果记单词，建议录入整个句子，语境。Supermemo 文档也是人生指南宝藏。
 
 **教程：**
 
-[English-level-up-tips](https://github.com/byoungd/English-level-up-tips)：Github 一个英语进阶库，很不错。
+- [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)：Github 一个英语进阶库，很不错。
 
-[Dr. Stephen Krashen on Language Learning](https://medium.com/learning-languages/dr-stephen-krashen-on-language-learning-and-acquisition-notes-47b6757ebc01)：剖析语言大师克拉申的经验。
+- [Dr. Stephen Krashen on Language Learning](https://medium.com/learning-languages/dr-stephen-krashen-on-language-learning-and-acquisition-notes-47b6757ebc01)：剖析语言大师克拉申的经验。
 
-[How I Learned French in 12 Months](https://t.me/isaiahsystem/90)：HN 上一个法语学习经验贴。
+- [How I Learned French in 12 Months](https://t.me/isaiahsystem/90)：HN 上一个法语学习经验贴。
 
-[Don’t learn languages—acquire them](https://t.me/isaiahsystem/51)：一个生产力玩家语言学习建议。
+- [Don’t learn languages—acquire them](https://t.me/isaiahsystem/51)：一个生产力玩家语言学习建议。
 
-[如何提高英语水平](https://linghao.io/posts/improve-english#Popover19-toggle)：之前发现一个频道主的内容，分享。
+- [如何提高英语水平](https://linghao.io/posts/improve-english#Popover19-toggle)：之前发现一个频道主的内容，分享。
 
 **导航：**
 
 第一个不错，英语学习导航（*后面可看看*）  
-[https://www.up-6.com/](https://www.up-6.com/)  
-[http://www.yywz123.com/](http://www.yywz123.com/)  
-[http://www.dioenglish.com/diolinks/](http://www.dioenglish.com/diolinks/)  
-[https://www.zueiai.com/yingyu/](https://www.zueiai.com/yingyu/)  
-[http://www.114222.com/lu/lu56.html](http://www.114222.com/lu/lu56.html)  
-[http://www.63243.com/qita/yingyu/](http://www.63243.com/qita/yingyu/)  
-[https://www.8769.com/list/5/87/](https://www.8769.com/list/5/87/)
+◎ [导航1](https://www.up-6.com/)  | ◎ [导航2](http://www.yywz123.com/)  | ◎ [导航3](http://www.dioenglish.com/diolinks/)  | ◎ [导航4](https://www.zueiai.com/yingyu/)  | ◎ [导航5](http://www.114222.com/lu/lu56.html)  | ◎ [导航6](http://www.63243.com/qita/yingyu/)  | ◎ [导航7](https://www.8769.com/list/5/87/)
 
-之前还分享了[英文写作相关资源](https://t.me/isaiahsystem/512) 
+之前还分享了🌐[英文写作相关资源](https://t.me/isaiahsystem/512) 
 
-今天分享的，就我目前的一些经验。语言学习相通。当然还有某些网站或者语言学习小玩具，那些就看自己喜好。如果语言学习非新手，就可以直接摄入内容，沉浸其中。如果是新手，这些工具辅助使用，结合油管看一下基本教学，都可（尤其学新的外语）。这个持续更新。
+> 今天分享的，就我目前的一些经验。语言学习相通。当然还有某些网站或者语言学习小玩具，那些就看自己喜好。如果语言学习非新手，就可以直接摄入内容，沉浸其中。如果是新手，这些工具辅助使用，结合油管看一下基本教学，都可（尤其学新的外语）。这个持续更新。
 
 {{< /admonition >}}
 
@@ -529,11 +531,13 @@
 
 {{< /admonition >}}
 
-## 文档翻译软件
+## 文档翻译
 
 >**[🆎 翻译软件](/tools/文档翻译/)**
 >
 >**[🆎 英语词频统计工具，计算字符、单词、句子、行数](https://textmechanic.com/text-tools/basic-text-tools/count-characters-words-lines/)**
+
+## 其他工具
 
 ### Phraseum
 
@@ -640,14 +644,6 @@
 >单句重复 / 灵活字幕 / 情境填词
 
 🌐 资源地址：[点击跳转](https://www.babelabc.com/)
-
-### 英语学习经验
-
-{{< bilibili BV1ns4y1A7fj>}}
-
-⭐️  资源描述：分享一下大佬的学习英语的经验，学完后可以做[词汇测试](https://my.vocabularysize.com/result/71ffbe2554f0ae3f28f737303da7772f)
-
-🌐 资源地址：[点击跳转](https://www.bilibili.com/video/BV1ns4y1A7fj)
 
 
 ---
