@@ -8,7 +8,7 @@
 
 ### 名畫檔案
 
-{{< image src="https://bib0.com/xc/i/2023/08/25/c1d39816102f40beba858f493de5b572_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   
+{{< image src="https://bib0.com/xc/i/2023/08/25/c1d39816102f40beba858f493de5b572_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}   
 
 ⭐️  资源描述：
 
@@ -18,7 +18,7 @@
 
 ### 善本古籍
 
-{{< image src="https://bib0.com/xc/i/2023/08/25/9d730c0baa5f4520977260b5434a6d50_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   
+{{< image src="https://bib0.com/xc/i/2023/08/25/9d730c0baa5f4520977260b5434a6d50_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}   
 
 ⭐️  资源描述：
 
@@ -28,7 +28,7 @@
 
 ### 中华古籍资源库
 
-{{< image src="https://bib0.com/xc/i/2023/08/25/3d586e7660d1425090a3545891fe6429_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   
+{{< image src="https://bib0.com/xc/i/2023/08/25/3d586e7660d1425090a3545891fe6429_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}   
 
 ⭐️  资源描述：
 
@@ -39,7 +39,7 @@
 
 ### 中国诗词
 
-{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704210714073.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704210714073.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}    
 
 ⭐️  资源描述：[中国诗词](https://shici.store/huajianji/) - 最全中文诗歌古典文集数据库
 
@@ -51,7 +51,7 @@
 
 ### 书画图
 
-{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230519213205144.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/05/28/image-20230519213205144.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}    
 
 📃分享几个古书/古画/古地图/历史网站
 
