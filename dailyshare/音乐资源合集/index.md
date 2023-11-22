@@ -205,7 +205,7 @@ npm run pack:linux
 
 ⭐软件说明：一款免费简洁的音乐播放器
 
-🌐跳转地址：🔗**[官网地址](http://morin.vin/)**
+🌐跳转地址：🔗[官网地址](http://morin.vin/)
 
 📌支持平台： **Windows / 安卓**
 
@@ -338,7 +338,7 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 
 界面：网页在线
 
-Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+说明：Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 
 支持：网易云音乐(ncm), QQ音乐(qmc, mflac, mgg), 酷狗音乐(kgm), 虾米音乐(xm), 酷我音乐(.kwm)
 
@@ -348,7 +348,7 @@ Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文�
 
 界面：网页在线
 
-移除已购音乐的加密保护。 目前支持网易云音乐(ncm)、QQ音乐(qmc, mflac, tkm, ogg) 。
+支持：移除已购音乐的加密保护。 目前支持网易云音乐(ncm)、QQ音乐(qmc, mflac, tkm, ogg) 。
 
 项目：🧩[开源地址](https://github.com/ZogeMung/DecrypeMusic)
 
@@ -366,7 +366,7 @@ Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文�
 
 界面：WIN客户端图像界面
 
-用于将QQ音乐的QMCFLAC格式转换为Mp3的桌面程序
+说明：用于将QQ音乐的QMCFLAC格式转换为Mp3的桌面程序
 
 项目：🧩[开源地址](https://github.com/OnlyPiglet/qmcflactomp3)
 
@@ -374,7 +374,7 @@ Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文�
 
 界面：WIN、linux图像界面
 
-(mflac/mflac0/mflac1/mgg/mgg0/mgg1) 格式文件解密。
+说明：(mflac/mflac0/mflac1/mgg/mgg0/mgg1) 格式文件解密。
 
 网址：🌐[资源地址](https://jixunmoe.github.io/qmc2/)
 
@@ -382,7 +382,7 @@ Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文�
 
 界面：网页在线
 
-一个网页版的QQ音乐解码器（qmcflac/qmc0/qmc3 转 flac/mp3），仅为个人学习参考用
+说明：一个网页版的QQ音乐解码器（qmcflac/qmc0/qmc3 转 flac/mp3），仅为个人学习参考用
 
 网址：🌐[资源地址](http://mbear.top/qmc.html)
 
@@ -390,9 +390,9 @@ Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文�
 
 界面：带有跨平台的Java图形界面
 
-解码QQ音乐下载文件（\*.qmc0 \*.qmc3 \*.qmcogg \*.qmcflac）
+说明：解码QQ音乐下载文件（\*.qmc0 \*.qmc3 \*.qmcogg \*.qmcflac）
 
-带有跨平台的Java图形界面
+支持：带有跨平台的Java图形界面
 
 网址：🧩[开源地址](https://github.com/hexian000/qmcdecode)
 
@@ -400,7 +400,7 @@ Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文�
 
 界面：仅支持macOS，图形界面
 
-Q音乐QMC格式转换为普通格式(qmcflac转flac，qmc0,qmc3转mp3)，仅支持macOS，可自动识别到QQ音乐下载目录，默认转换结果存储到~/Music/QMCConvertOutput,可自定义需要转换的文件和输出路径
+说明：Q音乐QMC格式转换为普通格式(qmcflac转flac，qmc0,qmc3转mp3)，仅支持macOS，可自动识别到QQ音乐下载目录，默认转换结果存储到~/Music/QMCConvertOutput,可自定义需要转换的文件和输出路径
 
 网址：🧩[开源地址](https://github.com/gongjiehong/QMCDecode)
 
@@ -408,7 +408,7 @@ Q音乐QMC格式转换为普通格式(qmcflac转flac，qmc0,qmc3转mp3)，仅支
 
 界面：WIN客户端图像界面
 
-QQ音乐解码程序，QMC解密
+说明：QQ音乐解码程序，QMC解密
 
 网址：🧩[开源地址](https://github.com/Ras0N/QMCTrans)
 
@@ -416,7 +416,7 @@ QQ音乐解码程序，QMC解密
 
 界面：WIN客户端图像界面
 
-QQ音乐VIP歌曲文件解密器
+说明：QQ音乐VIP歌曲文件解密器
 
 网址：🧩[开源地址](https://github.com/REND42/qmc_file_decrypter)
 
@@ -424,7 +424,7 @@ QQ音乐VIP歌曲文件解密器
 
 界面：安卓端
 
-QQ音乐加密文件解密转换mp3 安卓客户端
+说明：QQ音乐加密文件解密转换mp3 安卓客户端
 
 网址：🧩[开源地址](https://github.com/deedywu/qmcToMp3Android)
 
@@ -455,7 +455,7 @@ QQ音乐加密文件解密转换mp3 安卓客户端
 
 ### lrc-maker歌词滚动姬
 
-歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
+⭐歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
 
 项目：🧩[开源地址](https://github.com/magic-akari/lrc-maker) | 🌐[资源地址](https://lrc-maker.github.io/) | 🌐[资源地址](https://magic-akari.github.io/lrc-maker/)
 
