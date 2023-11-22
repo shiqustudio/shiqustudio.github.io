@@ -320,7 +320,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 🆔  资源名称：PDF Unlocker Online 破解PDF 无法列印、复制内容限制免费工具
 
-⭐️  资源描述：「[PDF Unlocker Online](https://www.pdfzilla.com/online/pdfunlocker/zh-cn.php)」是一个免费线上解锁PDF 文件的工具，虽然是线上工具，**但可以做到不用将档案上传到远端伺服器，直接在使用者浏览器进行解锁，让整个过程更安全。**透过解锁方式解除原PDF 文件加入的列印或复制限制，就能变成跟一般PDF 文件一样。通常可以在2-3 秒左右解锁一个受保护的PDF 文件，档案超过10MB 会需要更长的时间。PDF Unlocker Online 特色是无需上传PDF 档案，在几秒钟时间即可解锁受保护的档案，不用注册帐号或安装软体，支援大多数常见的浏览器，更能确保使用者的隐私及安全性。这项服务也没有档案大小或文件数量等限制，如果需要批次解锁大量的PDF 文件，也可以考虑从网站下载Windows、Mac 免费应用程式。
+⭐️  资源描述：「[PDF Unlocker Online](https://www.pdfzilla.com/online/pdfunlocker/zh-cn.php)」是一个免费线上解锁PDF 文件的工具，虽然是线上工具，**但可以做到不用将档案上传到远端伺服器，直接在使用者浏览器进行解锁，让整个过程更安全**。透过解锁方式解除原PDF 文件加入的列印或复制限制，就能变成跟一般PDF 文件一样。通常可以在2-3 秒左右解锁一个受保护的PDF 文件，档案超过10MB 会需要更长的时间。PDF Unlocker Online 特色是无需上传PDF 档案，在几秒钟时间即可解锁受保护的档案，不用注册帐号或安装软体，支援大多数常见的浏览器，更能确保使用者的隐私及安全性。这项服务也没有档案大小或文件数量等限制，如果需要批次解锁大量的PDF 文件，也可以考虑从网站下载Windows、Mac 免费应用程式。
 
 🌐 资源地址： [点击跳转](https://www.pdfzilla.com/online/pdfunlocker/zh-cn.php)     
 
