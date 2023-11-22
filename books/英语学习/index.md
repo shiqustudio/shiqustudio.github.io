@@ -148,6 +148,393 @@
 | 🔗 资源地址                                          | 🌐[资源地址](https://metword.co/)                             |
 | 🖼️截图展示                                           | {{< image src="https://bib0.com/xc/i/2023/11/21/photo_2023-09-27_13-49-59.jpg" alt="-" title="Fun's images">}} |
 
+## 查询工具
+
+>**📔 [英语词源字典](https://www.quword.com/ciyuan/s/)**
+>
+>**📔 [查英语词源的](https://www.etymonline.com/)**
+>
+>**📔 [英语词频统计工具，计算字符、单词、句子、行数](https://textmechanic.com/text-tools/basic-text-tools/count-characters-words-lines/)**
+>
+>**📔 [英语的同义词词典，查询同义词，也可以根据描述返回对应的词，加载速度很快](http://www.onelook.com/thesaurus/)**
+>
+>**📔 [可以查到一个词的多项意义对应的同义词](https://www.thesaurus.com/)**
+>
+>**📔 [海词词典\_在线词典\_在线翻译\_海量正版权威词典官方网站](https://dict.cn/)**
+>
+>**📔[一个适合精学单词，尤其是了解一个单词的多种用法和释义的网站/app](https://www.vocabulary.com/)** ⭐
+>
+>**📔[学英语，背单词，考雅思](https://ducky.pages.dev/)** ⭐
+>
+>**📔[Memword-单词记忆，随时随地学习，记单词](https://danci.0231019.top/)** ⭐
+>
+>**📔[查网络梗词和流行语](https://www.urbandictionary.com/)** ⭐
+
+## 学习工具
+
+>**📒[免费在线语法检查器来改善单词的使用，任何英语文本的时态和标点符号](https://writer.com/grammar-checker/)** ⭐
+>
+>**📒[在线免费AI英语雅思口语分析机器人](https://app.insta-speak.com/)** ⭐
+>
+>**📒[微软的免费在线语法检查器,无需注册登录,可以帮助你修改语法错误](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-editor/grammar-checker)** ⭐
+>
+>**📒[雅思作文批改评分工具](https://www.ielts9.me/)** ⭐
+>
+>**📒[由剑桥大学开发的免费学习英语工具，练习书面英语还能自动反馈改进建议，不需要注册，适用于任何人](https://writeandimprove.com/workbooks#/wi-workbooks/7485eb41-a047-4d23-ae25-5afb7387eba9)** ⭐
+>
+>**📒[2023，我私藏的英语学习工具](https://sspai.com/post/80086)** ⭐
+>
+>**📒[Speak&Improve剑桥大学的AI机器人提高英语听力和口语](https://speakandimprove.com/)** ⭐
+>
+>**📒[一个只会用1000个单词讲话的机器人：1000 Words-SimpleBot](https://app.myshell.ai/zh/bot/ec703952118841268b8b5e4005466308)** ⭐
+
+## 语法词汇
+
+>**[📕 从0开始学习英语语法](https://hzpt-inet-club.github.io/english-note/) | 🧩[开源地址](https://github.com/hzpt-inet-club/english-note)**
+>
+>**📕 [程序员工作中常见的英语词汇](https://learn-english.dev/) | 🧩[开源地址](https://github.com/Wei-Xia/most-frequent-technology-english-words)**
+>
+>**📕 [新概念英语笔记,英语学习资料](https://protogenesis.github.io/NewConceptEnglish/) | 🧩[开源地址](https://github.com/protogenesis/NewConceptEnglish)**
+>
+>**📕 [排版好看并且内容准确的老友记剧本 PDF](https://fangj.github.io/friends/)** | 🧩[**开源地址**](https://github.com/cj1128/learn-english-with-friends)
+>
+>**📕 [一份英文->中文字典的双解词典数据库](https://github.com/skywind3000/ECDICT)**
+>
+>**📕 [在线英语句子语法分析](http://enpuz.com/)**
+>
+>**📕 [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)**
+>
+>**📕 [解谜英语语法](http://www.yinwang.org/blog-cn/2018/11/23/grammar)**
+>
+>**[📕 计算机专业术语中英文对照](https://github.com/EarsEyesMouth/computerese-cross-references)**
+>
+>**[📕 英语语法网-全面详细介绍英语词法与句法以及语法学习的重点、难点和考点](http://www.yygrammar.com/)**
+>
+>**[📕 柯帕斯英语网，主打英语语法](https://www.cpsenglish.com/)**
+>
+>**[📕 英语单词词库](https://github.com/kajweb/dict)** ⭐
+>
+>📕 [**各种免费词典:一个公益性词典网站,中文词典，英语词典，百科词典等各种**](https://downloads.freemdict.com/#%E4%B8%AD%E6%96%87)⭐
+>
+>**📕 [Vocabulary适合精学单词，尤其是了解一个单词的多种用法和释义的网站/app](https://www.vocabulary.com/)** ⭐
+>
+>**📕 [COCA 20000词表 (Anki APKG格式)](https://github.com/ninja33/ninja33.github.io/blob/master/_posts/2017-03-06-anki-coca-20000-apkg.md)** ⭐
+>
+>**📕 [英语书籍词典Search FreeMdict Files](https://search.freemdict.com/)** ⭐
+>
+>**📕 [COCA 词汇语料库](https://www.english-corpora.org/)** ⭐
+>
+>**📕 [从词性开始 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)** ⭐
+>
+>**📕[1000个最常用的英语单词的列表](https://gonaturalenglish.com/1000-most-common-words-in-the-english-language/)** ⭐
+>
+>**[📕 单词词汇](https://downloads.freemdict.com/#%E4%B8%AD%E6%96%87)** ⭐
+>
+>**[📕 常用英语词汇表](https://github.com/jnoodle/English-Vocabulary-Word-List)** ⭐
+
+## 学习指南
+
+>**[📗 专为程序员编写的英语学习指南](https://a-programmers-guide-to-english.harryyu.me/)**  | 🧩[**开源地址**](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+>
+>**[📗 如何学好英语？](https://jacksonwuu.github.io/blog/thinking/%E5%A6%82%E4%BD%95%E5%AD%A6%E5%A5%BD%E8%8B%B1%E8%AF%AD%EF%BC%9F/)**
+>
+>**[📗 可能是让你受益匪浅的英语进阶指南](https://byoungd.gitbook.io/english-level-up-tips/)**
+>
+>**[📗 我是如何从哑巴英语到无障碍英文工作沟通的](https://www.kenshinji.me/wo-shi-ru-he-cong-ya-ba-ying-yu-dao-wu-zhang-ai-ying-wen-gong-zuo-gou-tong-de/)**
+>
+>**[📗 背单词计划表](https://exam4.us/)**
+>
+>**[📗 人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)**
+>
+>**[📗 可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips)**
+>
+>**[📗 颠覆你英文阅读、单词学习的工具方法](https://zhuanlan.zhihu.com/p/136959984)**
+>
+>**[📗 程序员英语学习指南](https://github.com/terrytyli/terrys-english-learning-guide)**
+>
+>**[📗 English-introduction 英语自学指南](https://bewaters.me/limxtop/2021/08/18/English-introduction/)** ⭐
+>
+>**[📗 【转】我是如何学英文的，包含资料链接](https://twitter.com/LauraIsland0/status/1585840029426909184) ⭐**  
+>
+>**📗 [成年人英语速成指南（附资源及工具）](https://mirror.xyz/abetterweb3.eth/mn5hFTBz3PzvL-o8BtkDd12TPlrGNPZcasuTg2lpeUg) ⭐**  
+>
+>**📗 [如何提高英语水平](https://linghao.io/posts/improve-english#Popover19-toggle) ⭐** 
+>
+>**📗 [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips) ⭐** 
+>
+>**📗 [成年人英语速成指南（附资源及工具）](https://abetterweb3.notion.site/a769cd3afb7d4bf19727391df27d1cdb) ⭐** 
+>
+>**📗 [离谱的英语进阶指南](https://byoungd.github.io/English-level-up-tips/#/) ⭐** 
+>
+>**📗 [如何毫不费力学英语【零基础学英语课程】](https://space.bilibili.com/160507280/channel/collectiondetail?sid=48449) ⭐**  
+>
+>**📗 [How I learn English? 我如何学习英语 ?](https://github.com/dekuofa1995/MyNotes/blob/main/20230425T165757--how-i-learn-english__english_learning.org) ⭐** 
+
+## 英语测试
+
+>**[📙 英语数字听力练习](https://english-number.com/number-test)**
+>
+>**[📙 英语听力精听、背单词](https://www.youzack.com/)**
+>
+>**[📙 英语真题在线](https://zhenti.burningvocabulary.com/)**
+>
+>**[📙 在线英语发音纠正](https://corrector.justsong.cn/)** | 🧩**[开源地址](https://github.com/songquanpeng/pronunciation-corrector)**
+>
+>**[📙 测试你的英语词汇量](https://preply.com/en/learn/english/test-your-vocab)**
+>
+>**[📙 测试英语词汇量,此网站也可测试中文，其他语言，游戏，影视等词汇量](https://www.arealme.com/vocabulary-size-test/en/)**
+>
+>**[📙 雅思真题免费在线测试及答案](https://ieltsonlinetests.com/zh-hans/ielts-exam-library)**
+>
+>**[📙 雅思官方推出：雅思机考模拟系统 在线模拟雅思真题考试](https://cdielts.gelielts.com/)**
+>
+>**[📙 在线测试：你的英语词汇量有多少](https://www.arealme.com/vocabulary-size-test/en/)**
+>
+>**[📙 英语测试：包括KET、PET、FCE、雅思、TOEIC®和TOEFL iBT™](https://test-english.com/)**
+>
+>**[📙 英语级别测试](https://www.englishtag.com/tests/intro.asp)**
+>
+>**[📙 免费测试您的英语、法语、德语和西班牙语水平](https://www.languagelevel.com/index.php)**
+>
+>**[📙 不同水平都能用的听力学习网站](https://www.elllo.org/index.htm) ⭐**
+>
+>**[📙 Atomic Learning 英语听力练习](https://atomiclearning.app/) ⭐**
+>
+>**[📙 DailyDictation 通过听写练习英语](https://dailydictation.com/) ⭐**
+
+## 学习网站
+
+>**[📘 给力英语网-新](http://www.geilien.cn/)**
+>
+>**[📘 给力英语网-旧](http://www.geilien.cn/old.asp)**
+>
+>**[📘 交互式英语单词学习网站](https://visuwords.com/)**
+>
+>**[📘 英语词源字典](https://www.quword.com/ciyuan/s/)**
+>
+>**[📘 英语学习导航](https://www.up-6.com/)**
+>
+>**[📘 目前在线的最大发音指南](https://forvo.com/)**
+>
+>**[📘 在线英语发音纠正](https://corrector.justsong.cn/)** | 🧩**[开源地址](https://github.com/songquanpeng/pronunciation-corrector)**
+>
+>**[📘 从 YouTube 搜索母语发音者，练习口语，支持英文、中文、手语在内的 18 种语言](https://youglish.com/)**
+>
+>**[📘 台词英语学习网站 通过从各种影视，动漫，儿童英语教学片等中，截成一个个小片段，来学习英语听力](https://www.voscreen.com/)**
+>
+>**[📘 查英语词源的](https://www.etymonline.com/)**
+>
+>**[📘 排版好看并且内容准确的老友记剧本 PDF，用于学习英语](https://github.com/cj1128/learn-english-with-friends)**
+>
+>**[📘 练习和纠正英语发音](https://elsaspeak.com/en/)**
+>
+>**[📘 作者在阅读论文的过程中收集整理的一些好的英语用法](https://github.com/yzy1996/English-Writing)**
+>
+>**[📘 EnglishClub英语学习网站，语法，词汇，发音，听力，口语等](https://www.englishclub.com/)**
+>
+>**[📘 在线英语听力练习网站](https://www.elllo.org/index.htm)**
+>
+>**[📘 看漫画学英语](https://mangapanda.onl/search)**
+>
+>**[📘 可可英语 - 双语新闻|中英双语新闻|中英文对照新闻](http://www.kekenet.com/read/news/)**
+>
+>**[📘 语言学习论坛，包括多种语言](https://forum.wordreference.com/forums/english-only.6/)**
+>
+>**[📘 英语固定搭配查询，适合有一定英语基础的同学使用，因为是全英文的](https://idioms.thefreedictionary.com/)**
+>
+>**[📘 可查询英语常见问题，语法类，单词类都可](https://www.hjenglish.com/)**
+>
+>**[📘 英语语法网-全面详细介绍英语词法与句法以及语法学习的重点、难点和考点](http://www.yygrammar.com/)**
+>
+>**[📘 柯帕斯英语网，主打英语语法](https://www.cpsenglish.com/)**
+>
+>**[📘 一个提高英语口语和听力网站（网络需要国际网络）](https://www.voicetube.com/)**
+>
+>**[📘 ELLLO 免费的英语听力学习网站，每篇内容都提供了文本、词汇、练习](https://www.elllo.org/)**
+>
+>**[📘 学习一门语言的前1000个单词，目前只能通过英语学习法语](https://www.lumalanguage.com/)**
+>
+>**[📘 用来练习英语听力，里面还有对应的口语练习材料](https://www.esl-lab.com/)**
+>
+>**[📘 学习者的论坛，涵盖英语词典、汉语词典、其他语种等词典](https://forum.freemdict.com/c/13-category/13) ⭐**
+>
+>**[📘 英语词典、汉语词典、其他语种等词典搜索下载](https://search.freemdict.com/) ⭐**
+>
+>[📘 **ESLBUZZ免费的英语课程【英文】**](https://www.eslbuzz.com/) ⭐
+>
+>**[📘 儿童英语学习资料网站](https://www.nortechplus.com/)** ⭐
+>
+>**[📘 中国高校外语慕课平台（UMOOCs）](https://umoocs.unipus.cn/)** ⭐
+>
+>**[📘 搜寻英文短语的发音，视频片段主要截取自经典电影和美剧](https://www.playphrase.me/#/search)** ⭐
+>
+>**[📘 英语学习 | 数字生活指南导航](https://nav.guidebook.top/english)** ⭐
+>
+>**[📘 英文少儿有声书网站，经典英文读物都有（音频+文本）](https://www.storynory.com/)** ⭐
+>
+>**[📘 查网络梗词和流行语](https://www.urbandictionary.com/)** ⭐
+>
+>**[📘 形式中文，用英文语法将中文形式化并限定于阅读和写作的方式称为形式中文](https://ishare20.github.io/formalizedChinese/docs/intro)** ⭐
+>
+>**[📘 外语教材下载](https://languagelearning.site/)** ⭐
+>
+>**[📘 沉浸语言学习](https://jiangzilong.notion.site/09128b7095974b188c9640d5333917b5)** ⭐
+>
+>**[📘 使用 AI 备考雅思口语考试](https://learningprompt.wiki/zh-Hans/docs/ai-101/best-practice/learning/learning-IELTS)** ⭐
+>
+>**[📘 免费双语读物](http://zh.bilinguis.com/book/)** ⭐
+>
+>**[📘 免费在线课程 | 50种语言](https://www.loecsen.com/zh)** ⭐
+>
+>**[📘 「OGDEN’s BASIC ENGLISH」用于简化你的英语学习和日常使用](http://ogden.basic-english.org/)** ⭐
+>
+>**[📘 巴别英语 - 英语听力口语在线学习](https://www.babelabc.com/)** ⭐
+
+## 题库真题
+
+>**[📒 给力英语网真题试卷](http://www.geilien.cn/)**
+>
+>**[📒 大学英语题库查询](https://shitidaquan.com/c/zk810avl)**
+>
+>**[📒 中国重要政治词汇对外翻译标准化专题库](http://210.72.20.108/app/special/index.jsp)**
+>
+>**[📒 英语真题在线](https://zhenti.burningvocabulary.com/)**
+>
+>**[📒 雅思真题免费在线测试及答案](https://ieltsonlinetests.com/zh-hans/ielts-exam-library#all-test)**
+
+## 经验分享
+
+{{< admonition tip "篇一" >}}
+
+🔴 **内容转自：** 📝[文章地址](https://t.me/isaiahsystem/587) 丨 🦸‍♂️[博客](https://kidsseeghosts.art/)
+
+语言学习最主要的是情境和惯习（惯习，布迪厄语），我认为这是很重要的，有情境（语境），也有对情境形成不假思索的反应。这可以很好概括语言学习，语言也自是如此。
+
+以前我陆续分享了不少语言学习相关，工具、教程、方案。
+
+**工具：**
+
+[Lingq](https://t.me/isaiahsystem/49)：这是我很喜欢的，用来学除英语外的其它语言很有效。精熟几十种语言的 [Steve Kaufmann](https://www.youtube.com/c/Thelinguist) 是联合创始人。对文本、单词、短语取词制卡，真正利用 context 语境优势渐进沉浸学习。
+
+[Burning Vocabulary](https://t.me/isaiahsystem/163)：网页标注单词，全网高亮，间隔重复记忆。这个以前在用，目前感觉不必要，已经关了。同类型插件 [Relingo](https://t.me/isaiahsystem/230)，还免费，和之前提到的 Clearly 阅读器同开发。
+
+[YouTube 双字幕](https://t.me/isaiahsystem/184)：用于油管视频学习，也是很有用的。
+
+[沙拉查词](https://saladict.crimx.com/)：目前返璞，也主要用这个划词翻译插件。
+
+[雪球英语 APP](https://mobile.twitter.com/iwilldev)：这个确实很多人推荐，可以试试。
+
+**Space Repetition System（ SRS 间隔重复系统）：**
+
+提到语言学习，自然不能忽视渐进记忆和算法。各种花哨 APP 就不推荐了。
+
+[Anki](https://apps.ankiweb.net/)：承载 SM-2 算法的闪卡记忆工具，多平台，可以学习单词。现在很多软件，尤其笔记软件也有记忆功能，比如 [Remnote](https://www.remnote.com/) 还有个关于 SRS 的频道推荐：[@anki\_keeper](https://t.me/anki_keeper)
+
+[Supermemo](https://www.yuque.com/supermemo/wiki/help)：这个不多介绍了，最优秀的算法，摘录、排期、优先级都非常不错的。适合文章处理，如果记单词，建议录入整个句子，语境。Supermemo 文档也是人生指南宝藏。
+
+**教程：**
+
+[English-level-up-tips](https://github.com/byoungd/English-level-up-tips)：Github 一个英语进阶库，很不错。
+
+[Dr. Stephen Krashen on Language Learning](https://medium.com/learning-languages/dr-stephen-krashen-on-language-learning-and-acquisition-notes-47b6757ebc01)：剖析语言大师克拉申的经验。
+
+[How I Learned French in 12 Months](https://t.me/isaiahsystem/90)：HN 上一个法语学习经验贴。
+
+[Don’t learn languages—acquire them](https://t.me/isaiahsystem/51)：一个生产力玩家语言学习建议。
+
+[如何提高英语水平](https://linghao.io/posts/improve-english#Popover19-toggle)：之前发现一个频道主的内容，分享。
+
+**导航：**
+
+第一个不错，英语学习导航（*后面可看看*）  
+[https://www.up-6.com/](https://www.up-6.com/)  
+[http://www.yywz123.com/](http://www.yywz123.com/)  
+[http://www.dioenglish.com/diolinks/](http://www.dioenglish.com/diolinks/)  
+[https://www.zueiai.com/yingyu/](https://www.zueiai.com/yingyu/)  
+[http://www.114222.com/lu/lu56.html](http://www.114222.com/lu/lu56.html)  
+[http://www.63243.com/qita/yingyu/](http://www.63243.com/qita/yingyu/)  
+[https://www.8769.com/list/5/87/](https://www.8769.com/list/5/87/)
+
+之前还分享了[英文写作相关资源](https://t.me/isaiahsystem/512) 
+
+今天分享的，就我目前的一些经验。语言学习相通。当然还有某些网站或者语言学习小玩具，那些就看自己喜好。如果语言学习非新手，就可以直接摄入内容，沉浸其中。如果是新手，这些工具辅助使用，结合油管看一下基本教学，都可（尤其学新的外语）。这个持续更新。
+
+{{< /admonition >}}
+
+{{< admonition tip "篇二" >}}
+
+🔴 **内容转自：**  📝[文章地址](https://t.me/isaiahsystem/512) **丨** 🦸‍♂️[博客](https://kidsseeghosts.art/)
+
+梳理了一下英文书写、编辑和修改的相关工具，属实吃饭家伙了。
+
+**第一部分**：语法错误检测、同类句转换 Rephraser 以及编辑相关，可以整体把握文本。
+
++   [Grammarly](https://app.grammarly.com/ddocs/1779550646)
++   [Hemingway](https://hemingwayapp.com/)
++   [Telegraph](https://telegra.ph/)
++   [QuillBot](https://quillbot.com/)
++   [Phrasekbank](https://www.phrasebank.manchester.ac.uk/)
++   [Rephraser](https://www.gingersoftware.com/products/sentence-rephraser)
++   [DeepL](https://www.deepl.com/translator)
++   [参考文献](https://wordvice.cn/citation-generator/)
+
+**第二部分**：释义溯源相关，俚语辞典以及 Linggle 相关的平行文本搜索，可以把握单词用法。
+
++   [Define](https://www.google.com/search?q=define:)
++   [Linguee](https://www.linguee.com/)
++   [UrbanDic](https://www.urbandictionary.com/)
++   [Etymonline](https://www.etymonline.com/)
++   [FreeDic](https://www.thefreedictionary.com/)
++   [SlangDic](http://onlineslangdictionary.com/)
++   [Linggle](https://www.linggle.com/)
++   [SentenceStack](https://sentencestack.com/)
+
+**第三部分**：语法增强和替换，同义词、反义词以及韵律 Rhyme 等词汇的处理，可以让文本增色不少。
+
++   [Thesaurus](https://www.powerthesaurus.org/)
++   [WordHippo](https://www.wordhippo.com/)
++   [Synonym](https://www.synonym.com/synonyms/love)
++   [AbbreviationsDic](https://www.allacronyms.com/)
++   [Abbreviations](https://www.abbreviations.com/)
++   [RhymeZone](https://www.rhymezone.com/)
++   [Rhyme](https://www.rhymer.com/)
+
+{{< /admonition >}}
+
+{{< admonition tip "篇三" >}}
+
+**✖️【[转X](https://twitter.com/vista8/status/1686204015174955008?s=20)】学英语缺阅读素材？**
+
+往往太长的看不下去，太短的趣味性不足。
+
+最近发现两个网站，都是专业作家和写手UGC的100字英文短篇故事，每篇又短又有趣。
+
+- [100字故事](https://100wordstory.org/)
+
+- [星期五快闪小说的100字故事](https://fridayflashfiction.com/100-word-stories)
+
+配合 [沉浸式翻译插件](https://immersivetranslate.com/) 或 [Trancy](https://www.trancy.org/zh-cn) 工具，一起读起来。
+
+![photo_2023-09-27_13-49-59](https://bib0.com/xc/i/2023/11/22/photo_2023-09-27_13-22-07.jpg)  
+
+{{< /admonition >}}
+
+{{< admonition tip "篇四" >}}
+
+- [**【罗肖尼】如何永远学会一个单词？**](https://www.bilibili.com/video/BV1ns4y1A7fj?t=1.1)
+
+- [**【程序员的喵】英语学习分享**](https://catcoding.me/)
+
+![Snipaste_2023-09-27_13-52-54](https://bib0.com/xc/i/2023/11/22/Snipaste_2023-09-27_13-52-54.png)
+
+{{< /admonition >}}
+
+## 文档翻译软件
+
+>**[🆎 翻译软件](/tools/文档翻译/)**
+>
+>**[🆎 英语词频统计工具，计算字符、单词、句子、行数](https://textmechanic.com/text-tools/basic-text-tools/count-characters-words-lines/)**
+
 ### Phraseum
 
 {{< image src="https://bib0.com/xc/i/2023/11/03/20231103111841.png" alt="-" title="Fun's images">}}     
