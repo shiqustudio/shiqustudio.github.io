@@ -142,7 +142,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 🆔  资源名称：TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结
 
-⭐️  资源描述：最初[TinyURL](https://tinyurl.com/)缩网址只会产生tinyurl.com 开头的网址链结，**后来加入让使用者可自订链结的选项，提供新的rotf.lol 和tiny.one 两种短网址，也能自订别名（alias 就是在网址后面的那串文字）。**如果你想追踪短网址被点击次数，或是手动删除和编辑TinyURL 短网址，记得先免费注册帐号。
+⭐️  资源描述：最初[TinyURL](https://tinyurl.com/)缩网址只会产生tinyurl.com 开头的网址链结，**后来加入让使用者可自订链结的选项，提供新的rotf.lol 和tiny.one 两种短网址，也能自订别名（alias 就是在网址后面的那串文字）**。如果你想追踪短网址被点击次数，或是手动删除和编辑TinyURL 短网址，记得先免费注册帐号。
 
 TinyURL 和Bitly 一样都提供付费升级、可自订网域名称的功能，简单来说，如果你想要将自己注册的网址做为短网址使用，直接整合到TinyURL 现有系统的话可透过付费升级来开启相关功能，依照产生的短网址数量计价。
 

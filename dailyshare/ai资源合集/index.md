@@ -13,7 +13,7 @@
 
 >发现一个开箱即用的开源小工具 [Documate](https://documate.site/)，可以将 AI 聊天对话嵌入到你的文档网站中，根据内容回答用户的问题。有个人博客或者文档网站的小伙伴可以试试看，对主流框架支持很好。
 
-🌐 资源地址：点击跳转](https://documate.site/)
+🌐 资源地址：[点击跳转](https://documate.site/)
 
 ### Headshot AI
 

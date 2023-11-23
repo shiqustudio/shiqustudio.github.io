@@ -278,7 +278,7 @@
 >
 >**[📙 英语真题在线](https://zhenti.burningvocabulary.com/)**
 >
->**[📙 在线英语发音纠正](https://corrector.justsong.cn/)** | 🧩**[开源地址](https://github.com/songquanpeng/pronunciation-corrector)**
+>**[📙 在线英语发音纠正](https://corrector.justsong.cn/)** | 🧩[**开源地址**](https://github.com/songquanpeng/pronunciation-corrector)
 >
 >**[📙 测试你的英语词汇量](https://preply.com/en/learn/english/test-your-vocab)**
 >

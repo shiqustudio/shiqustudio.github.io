@@ -498,11 +498,11 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 >
 > 一款可以将音乐标题、演唱者姓名、封面图、歌词、专辑名等信息添加至音乐文件中的软件，支持 Windows、Android，信息源来自 QQ 音乐、网易云音乐、iTunes、酷我、Last.fm、VGMdb，可以批量为多个音乐文件添加ID3信息
 
-**当前版本：**1.0.9.0
+**当前版本**：1.0.9.0
 
-**运行环境：**.NET Framework 4.6.1
+**运行环境**：.NET Framework 4.6.1
 
-**操作系统：**Windows Vista以上
+**操作系统**：Windows Vista以上
 
 **资源地址**：📃[博客](https://www.cnblogs.com/vinlxc/p/11347744.html "博客") | ☁️[百度云（提取码：x081）](https://pan.baidu.com/s/18vN9wWGbbNC2foEy4MfJEA "百度云（提取码：x081）")| ☁️[蓝奏云（解码密码：www.coolapk.com）](https://wwc.lanzouy.com/ik0lo0ae7bcf "蓝奏云（解码密码：www.coolapk.com）")
 
