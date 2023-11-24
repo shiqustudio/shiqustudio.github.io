@@ -5,6 +5,17 @@
 
 <!--more-->
 
+### GPT Crawler
+
+{{< image src="https://bib0.com/xc/i/2023/11/24/image-20231124083052511.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：🤖️[GPT Crawler](https://github.com/BuilderIO/gpt-crawler) - 将网站变成自定义 GPT
+
+>📄运行该项目，输入网址，然后项目会爬取该网站所有内容并生成 Json 文件，然后它会将该文件喂给 ChatGPT，打造个人知识库或者智能助理
+>我感觉非常实用，尤其是面对密密麻麻的英文开发文档之时，可以直接与其对话
+
+🌐 资源地址：🧩[开源地址](https://github.com/BuilderIO/gpt-crawler) |▶️[演示教程](https://www.builder.io/blog/custom-gpt)
+
 ### Documate
 
 {{< image src="https://bib0.com/xc/i/2023/11/03/4g3tEo.png" alt="-" title="Fun's images">}}
