@@ -5,11 +5,27 @@
     <description>标签 - 标签 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
       <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>Github</title>
+  <link>https://blog.funvip.live/tags/github/</link>
+  <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tags/github/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>存储</title>
   <link>https://blog.funvip.live/tags/%E5%AD%98%E5%82%A8/</link>
   <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tags/%E5%AD%98%E5%82%A8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>加速</title>
+  <link>https://blog.funvip.live/tags/%E5%8A%A0%E9%80%9F/</link>
+  <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tags/%E5%8A%A0%E9%80%9F/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
@@ -53,14 +69,6 @@
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>Github</title>
-  <link>https://blog.funvip.live/tags/github/</link>
-  <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/github/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
   <title>开源</title>
   <link>https://blog.funvip.live/tags/%E5%BC%80%E6%BA%90/</link>
   <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
@@ -74,14 +82,6 @@
   <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>Ai</title>
-  <link>https://blog.funvip.live/tags/ai/</link>
-  <pubDate>Wed, 09 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tags/ai/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
