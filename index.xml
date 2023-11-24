@@ -4,9 +4,19 @@
     <link>https://blog.funvip.live/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Tue, 21 Nov 2023 17:27:11 &#43;0000</lastBuildDate>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://blog.funvip.live/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>💿文件存储</title>
+  <link>https://blog.funvip.live/tools/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8/</link>
+  <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tools/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/11/24/9bb4644d3b0f3a7e00ff1aeba41590df.png" referrerpolicy="no-referrer">
+      </div>优质实用文件存储平台]]></description>
+</item>
+<item>
   <title>🎧音乐软件</title>
   <link>https://blog.funvip.live/dailyshare/%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/</link>
   <pubDate>Tue, 21 Nov 2023 17:27:11 &#43;0000</pubDate>
@@ -96,18 +106,6 @@
   <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
   <description><![CDATA[<blockquote>
 <p>全能搜索引擎 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>如何提问：提问的智慧</title>
-  <link>https://blog.funvip.live/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</link>
-  <pubDate>Thu, 06 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/personal/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="/dailyshare/images/image-20230329222351552.png" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>平时我们工作学习中都会遇到很多问题，如何更好的提问，从而促进问题的解决呢？问对问题才有会有正确的答案。这里强烈推荐看这篇《提问的智慧》，本文翻译自<a href="http://www.catb.org/~esr/faqs/smart-questions.html"target="_blank" rel="external nofollow noopener noreferrer">How To Ask Questions The Smart Way<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>，原文在GitHub有几万的赞，足以见得本文被推崇的程度。</p>
 </blockquote>]]></description>
 </item>
 </channel>

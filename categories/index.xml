@@ -5,6 +5,22 @@
     <description>分类 - 分类 - 拾趣资源</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
       <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>存储</title>
+  <link>https://blog.funvip.live/categories/%E5%AD%98%E5%82%A8/</link>
+  <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/categories/%E5%AD%98%E5%82%A8/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>网站</title>
+  <link>https://blog.funvip.live/categories/%E7%BD%91%E7%AB%99/</link>
+  <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/categories/%E7%BD%91%E7%AB%99/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>翻译</title>
   <link>https://blog.funvip.live/categories/%E7%BF%BB%E8%AF%91/</link>
   <pubDate>Tue, 21 Nov 2023 17:27:11 &#43;0000</pubDate>
@@ -66,22 +82,6 @@
   <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/categories/%E7%AB%99%E7%82%B9/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>编程</title>
-  <link>https://blog.funvip.live/categories/%E7%BC%96%E7%A8%8B/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/categories/%E7%BC%96%E7%A8%8B/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>网站</title>
-  <link>https://blog.funvip.live/categories/%E7%BD%91%E7%AB%99/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/categories/%E7%BD%91%E7%AB%99/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
