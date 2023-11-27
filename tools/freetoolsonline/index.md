@@ -5,6 +5,27 @@
 
 <!--more-->
 
+### Nero PDF Tools
+
+{{< image src="https://bib0.com/xc/i/2023/11/27/preview.gif" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}     
+
+🆔  资源名称： [Nero PDF Tools](https://pdf.nero.com) - 免费在线加密/解密/拆分/合并/压缩PDF文件
+
+⭐️  资源描述： 
+
+>**[Nero PDF Tools](https://pdf.nero.com)免费提供在线拆分、合并、压缩PDF文件服务，还可为你的PDF文件添加密码和解除PDF文件密码。**无需注册或下载软件，直接在Nero PDF Tools网站上即可免费使用这些功能，页面简洁无广告，而且**支持最大100MB的PDF文件，还不限制免费使用次数！**
+>
+>##### 🛠Nero PDF Tools功能介绍
+>
+>- **免费在线合并PDF**：可将最多30个PDF文件合并成一个文件，单个文件限50MB。
+>- **免费在线拆分PDF**：可将一个PDF文件拆分成两个文件，单个文件限50MB。
+>- **免费在线压缩PDF**：可将一个PDF文件压缩成更小的尺寸，单个文件限100MB。
+>- **免费在线解锁PDF**：可将加密的PDF文件密码解除，单个文件限100MB
+>- **免费在线保护PDF**：可使用密码加密PDF文件，单个文件限50MB，可同时加密30个文件。
+>- **为保证隐私，Nero PDF Tools不会保留你的文件，页面关闭后，所有上传的文件都将被删除。**
+
+🌐 资源地址: [点击跳转](https://pdf.nero.com/)
+
 ### PDFgear
 
 {{< image src="https://bib0.com/xc/i/2023/07/01/banner-img.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
