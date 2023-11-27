@@ -1,9 +1,209 @@
 # 🖼️图片空间
 
 
-> 图片空间列表、介绍，再也不怕上传图片找不到空间啰！[图床使用和工具选择经验](https://zj1123581321.com/post/2019-04-28154/)
+> ✅图片空间列表、介绍，再也不怕上传图片找不到空间啰！[图床使用和工具选择经验](https://zj1123581321.com/post/2019-04-28154/)
+>
+> ✅图片外链（图床）可以用于论坛、网站、评论、聊天等；免费稳定好用的永久图片外链图床
+>
+> ⁉️图片外链因为xxx原因、国内无法访问，且图片无法显示无法打开或者防盗链问题可以看：[图片防盗链最终解决方案](/tools/防盗链/)
+>
+> 👉如果上面的都不能解决问题，更多的免费图片外链网站可以看：[免费图床导航](http://imgdh.com/)
+>
+> ⁉️怎么找到本页？如果你不幸丢失了本页，那么可以在谷歌中搜索：`免费图片外链`，`免费图床`，`免费外链`
 
 <!--more-->
+
+### 临时图床
+
+<table>
+  <tbody>
+    <tr>
+      <td>网址</td>
+      <td>服务器</td>
+      <td>图片限制</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://img.ink/">水墨图床</a>
+      </td>
+      <td>国内cdn</td>
+      <td>50M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://img.xwyue.com/">星跃图床</a>
+      </td>
+      <td>香港cdn</td>
+      <td>50M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://img.chkaja.com/">爱上传</a>
+      </td>
+      <td>香港cdn</td>
+      <td>10M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://locimg.com/">LOC</a>
+      </td>
+      <td>美国</td>
+      <td>100M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://imger.nl/">Imger</a>
+      </td>
+      <td>亚太cdn</td>
+      <td>5M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://moeyy.cn/blog">Moeyy</a>
+      </td>
+      <td>亚太cdn</td>
+      <td>5M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://dd.ci/">DD图床</a>
+      </td>
+      <td>香港腾讯云</td>
+      <td>5M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://aisb.top/">Aisb</a>
+      </td>
+      <td>亚马逊云</td>
+      <td>5M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://rmimg.com/">Rmimg</a>
+      </td>
+      <td>香港腾讯云</td>
+      <td>10M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://img.lu/">img.lu</a>
+      </td>
+      <td>cfcdn</td>
+      <td>5M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://imgfg.com/">imgfg</a>
+      </td>
+      <td>cfcdn</td>
+      <td>100M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.uhsea.com/">屋舍</a>
+      </td>
+      <td>cfcdn</td>
+      <td>100M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://imgur.la/">imgur.la</a>
+      </td>
+      <td>cfcdn</td>
+      <td>10M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.yopngs.com/">Yopngs</a>
+      </td>
+      <td>cfcdn</td>
+      <td>10M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://38.382222.xyz/">38.382222</a>
+      </td>
+      <td>印度</td>
+      <td>10M</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://VRimg.com/">vrimg</a>
+      </td>
+      <td>美国</td>
+      <td>5M</td>
+    </tr>
+  </tbody>
+  </table
+
+> 👆上方图床不用注册，国内速度尚可，推荐临时使用。更多的可以看：[免费图床速度比拼](https://fileup.dev/imgtest) 
+>
+> 👉如果用于商业用途或用于个人网站还是自己搭建比较靠谱，图片存储在别人服务器，不存在稳定的说法。
+
+### hostloc图床
+
+![如显示该文字说明图片已挂](https://3o.hk/images/2023/11/27/home_cover_1594834731811_56bfe8.jpg "如显示该文字说明图片已挂")
+
+⭐️  资源描述： hostloc论坛的一些大佬提供的图床，需要注册，稳定性尚可。
+
+🌐 资源地址: 🚩[3o首页](https://3o.hk/) |🚩[mjj首页](https://mjj.today/) |📌[拾趣示例-3o](https://3o.hk/shiqu) | 📌[拾趣示例-mjj](https://mjj.today/shiqu)
+
+### 路过图床
+
+![路过图床图片外链，如显示该文字说明图片已挂](https://s1.ax1x.com/2020/05/11/YYMh1P.jpg "路过图床图片外链，如显示该文字说明图片已挂")
+
+⭐️  资源描述：2011年提供的知名免费图床，以托管千万图片，免注册，支持HTTPS 速度一般，最大支持10M的图片
+
+👉速度：海外服务器 ❤ ❤ ❤
+
+🌐 资源地址: [点击跳转](https://imgse.com/)
+
+### sm.ms
+
+![SM.MS外链，如显示该文字说明图片已挂](https://ooo.0o0.ooo/2017/02/13/58a1ad6ac4363.jpg "SM.MS外链，如显示该文字说明图片已挂")
+
+> 🚩 图片外链展示 图片上传日期：2017年2月13日
+
+⭐️  资源描述：15年成立的免费图片外链网站。上传下载速度尚可。
+
+> - 需要注册，默认原图上传，支持https
+>
+> - 速度：国外服务器 ❤ ❤
+>
+> - [smms.app](https://smms.app/) 支持的图片格式包括 JPG、JPEG、GIF、PNG 及 BMP，单档不超过 5 MB，单次可上传图片最大10张。图片永久保存，请勿上传非法图片，需要注册
+
+🌐 资源地址: [点击跳转](https://smms.app/)
+
+### z4a图床
+
+![z4a.net如显示该文字说明图片已挂](https://www.z4a.net/images/2017/07/20/myles-tan-91630.jpg "z4a.net如显示该文字说明图片已挂")
+
+> 🚩 图片外链展示 图片上传日期：2017年7月02日
+
+⭐️  资源描述：
+
+> 🟢需要注册，支持HTTPS 速度一般
+>
+> 👉速度：海外服务器 ❤ ❤ ❤
+>
+> 🟠[z4a.net](https://www.z4a.net/) 由于成立时间较短，稳定性未知。
+
+🌐 资源地址: [点击跳转](https://www.z4a.net/)
+
+###  Imgur      
+
+{{< image src="https://bib0.com/xc/i/hugoBlog/imgur2013-07-04_1201.png" alt="-"  title="Fun's images" >}}    
+
+🆔  资源名称：[Imgur](https://imgur.com/) 免费图片空间使用教学，免注册上传分享图片❤ ❤ ❤
+
+⭐️  资源描述：[imgur](https://imgur.com/)是一个老牌的图片上传空间，从2009 年开始提供服务，因为它很稳定、操作介面简单，加上使用限制少，所以深受用户喜爱，目前已经有相当庞大的使用族群，也和一些第三方服务结合，更方便将图片上传到imgur 后产生分享链结。
+
+> [imgur](https://imgur.com/) 支援 JPEG, PNG, GIF, APNG, TIFF, BMP, PDF, XCF (GIMP) 等图片格式，TIFF, BMP, PDF 和XCF (GIMP) 会自动被转为PNG 上传。图片大小限制为10 MB（非动态图），当图片超过1 MB 时，会被强制压缩到1 MB 以获得最佳的浏览品质，最大的动态图档大小为2 MB（例如GIF 和PNG）。
+>
+> [imgur](https://imgur.com/) 不会对图片流量进行限制，也就是说无论连结到imgur 浏览图片，或是使用直接连结，都是无限流量。当图片在6 个月内都没有任何人检视，就会自动从系统中移除。
+
+🌐 资源地址： [点击跳转](https://imgur.com/)    
 
 ### LinkPicture
 
@@ -28,20 +228,6 @@ LinkPicture 在上传图片后会产生各种网址格式，包括HTML、BBcode�
 Imghut 比较像是「网路相簿」运作方式，每个使用者都有自己的页面，可以建立资料夹、对于不同的相片进行分类整理，上传图片时直接从线上进行尺寸裁切、设定要在多少时间后自动删除，最后取得相片的分享链结、HTML、BBCode、Markdown 语法，和Imgur 一样的是imghut 也支援图片直接连结。
 
 🌐 资源地址： [点击跳转](https://imghut.com/)          
-
-###  Imgur      
-
-{{< image src="https://bib0.com/xc/i/hugoBlog/imgur2013-07-04_1201.png" alt="-"  title="Fun's images" >}}    
-
-🆔  资源名称：Imgur 免费图片空间使用教学，免注册上传分享图片
-
-⭐️  资源描述：[imgur](https://imgur.com/)是一个老牌的图片上传空间，从2009 年开始提供服务，因为它很稳定、操作介面简单，加上使用限制少，所以深受用户喜爱，目前已经有相当庞大的使用族群，也和一些第三方服务结合，更方便将图片上传到imgur 后产生分享链结。
-
-imgur 支援 JPEG, PNG, GIF, APNG, TIFF, BMP, PDF, XCF (GIMP) 等图片格式，TIFF, BMP, PDF 和XCF (GIMP) 会自动被转为PNG 上传。图片大小限制为10 MB（非动态图），当图片超过1 MB 时，会被强制压缩到1 MB 以获得最佳的浏览品质，最大的动态图档大小为2 MB（例如GIF 和PNG）。
-
-imgur 不会对图片流量进行限制，也就是说无论连结到imgur 浏览图片，或是使用直接连结，都是无限流量。当图片在6 个月内都没有任何人检视，就会自动从系统中移除。
-
-🌐 资源地址： [点击跳转](https://imgur.com/)    
 
 ### ZoomHub
 

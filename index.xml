@@ -4,9 +4,19 @@
     <link>https://blog.funvip.live/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</lastBuildDate>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://blog.funvip.live/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>⛓️防盗链</title>
+  <link>https://blog.funvip.live/tools/%E9%98%B2%E7%9B%97%E9%93%BE/</link>
+  <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tools/%E9%98%B2%E7%9B%97%E9%93%BE/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/11/27/GMwN2MyMjY2LnBuZw.png" referrerpolicy="no-referrer">
+      </div>防盗链]]></description>
+</item>
+<item>
   <title>💿文件存储</title>
   <link>https://blog.funvip.live/tools/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8/</link>
   <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
@@ -97,16 +107,6 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/2023/06/28/bianchengxuexi.png" referrerpolicy="no-referrer">
       </div><p>整理收集编程相关资源。</p>]]></description>
-</item>
-<item>
-  <title>🛡️网络工具</title>
-  <link>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C/</link>
-  <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C/</guid>
-  <description><![CDATA[<blockquote>
-<p>收集有关网络安全的辅助工具。例如：<a href="https://ip.skk.moe/"target="_blank" rel="external nofollow noopener noreferrer">IP查询<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、<a href="https://blog.tanglu.me/blogcdn/"target="_blank" rel="external nofollow noopener noreferrer">免费CDN<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、</p>
-</blockquote>]]></description>
 </item>
 </channel>
 </rss>
