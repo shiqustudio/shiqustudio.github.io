@@ -6,6 +6,16 @@
 
 <!--more-->
 
+### FastMirror
+
+{{< image src="https://bib0.com/xc/i/2023/11/27/image-20231127100058845.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：
+
+>这个工具提供了镜像加速、剪切板、图床、常用资源下载、白板、Maven镜像加速等功能。 
+
+🔗 资源链接：🌐[点击跳转](https://tools.fastmirror.net/)
+
 ### 去重排序匹配
 
 {{< image src="https://bib0.com/xc/i/2023/11/03/19226154233464.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
