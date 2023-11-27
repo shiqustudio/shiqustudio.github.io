@@ -147,7 +147,7 @@
 
 ⭐️  资源描述： hostloc论坛的一些大佬提供的图床，需要注册，稳定性尚可。
 
-🌐 资源地址: 🚩[3o首页](https://3o.hk/) |🚩[mjj首页](https://mjj.today/) |📌[拾趣示例-3o](https://3o.hk/shiqu) | 📌[拾趣示例-mjj](https://mjj.today/shiqu)
+🌐 资源地址: 🚩[3o首页](https://3o.hk/) |🚩[mjj首页](https://mjj.today/) |🚩[moe首页](https://moe.photo/signup) |📌[拾趣示例-3o](https://3o.hk/shiqu) | 📌[拾趣示例-mjj](https://mjj.today/shiqu)  | 📌[拾趣示例-moe](https://moe.photo/shiqu)
 
 ### 路过图床
 
