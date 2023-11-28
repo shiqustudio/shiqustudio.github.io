@@ -24,16 +24,16 @@
 
 {{< admonition info "MP3 下载站">}} 
 
-| 域名                                                 | 状态       |      |
-| :--------------------------------------------------- | :--------- | ---- |
-| 🔽[mp3juices](https://mp3juices.zone/)                | **`可用`** | ✅    |
-| 🔽[freemp3hunter](https://freemp3hunter.com/)         | **`可用`** | ✅    |
-| 🔽[free-mp3-download](https://free-mp3-download.net/) | **`可用`** | ✅    |
-| 🔽[freemp3cloud](https://freemp3cloud.com/)           | **`可用`** | ✅    |
-| 🔽[mp3juice](https://mp3juice.cafe/)                  | **`可用`** | ✅    |
-| 🔽[mp3paw](https://mp3paw.mobi/)                      | **`可用`** | ✅    |
-| 🔽[mp3db](https://mp3db.pro/)                         | **`可用`** | ✅    |
-| 🔽[mp3juice](https://mp3juice.party/)                 | **`可用`** | ✅    |
+| 域名                                         | 状态       |      |
+| :------------------------------------------- | :--------- | ---- |
+| 🔽[mp3juices](https://mp3juices.zone/)        | **`可用`** | ✅    |
+| 🔽[freemp3hunter](https://freemp3hunter.com/) | **`可用`** | ✅    |
+| 🔽[freemp3](https://free-mp3-download.net/)   | **`可用`** | ✅    |
+| 🔽[freemp3cloud](https://freemp3cloud.com/)   | **`可用`** | ✅    |
+| 🔽[mp3juice](https://mp3juice.cafe/)          | **`可用`** | ✅    |
+| 🔽[mp3paw](https://mp3paw.mobi/)              | **`可用`** | ✅    |
+| 🔽[mp3db](https://mp3db.pro/)                 | **`可用`** | ✅    |
+| 🔽[mp3juice](https://mp3juice.party/)         | **`可用`** | ✅    |
 
  {{< /admonition >}}
 
