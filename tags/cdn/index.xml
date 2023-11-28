@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>CDN - 标签 - 拾趣资源</title>
+    <link>https://blog.funvip.live/tags/cdn/</link>
+    <description>CDN - 标签 - 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/cdn/" rel="self" type="application/rss+xml" /><item>
+  <title>🛬CDN资源库</title>
+  <link>https://blog.funvip.live/tools/cdn/</link>
+  <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/tools/cdn/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/11/28/192a17c745c30d541eea0ebb9056dac1.jfif" referrerpolicy="no-referrer">
+      </div><blockquote>
+<p>CDN公共库是指将常用的JS库存放在CDN节点，以方便广大开发者直接调用。与将JS库存放在服务器单机上相比，CDN公共库更加稳定、高速。现在web应用都在使用JS类库，这些类库小的几十K，大的几百K，而国内网络访问速度大家都知道不是那么惬意，所以给各位开发者推荐常用JS类库的CDN缓存，这样不管客户在哪里访问你的页面，调用公共类库的速度都会为你的页面节省很多时间。</p>
+<p>一般的CDN公共库都会包含全球所有最流行的开源JavaScript库，你可以在自己的网页上直接通过script标记引用这些资源。这样做不仅可以为您 节省流量，还能通过CDN加速，获得更快的访问速度。</p>
+</blockquote>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,7 +1,24 @@
 # 🕸️浏览器工具
 
 
-### Wiseone
+
+
+### 拓展商店
+
+⭐️  资源描述：**Chrome/Edge/Firefox 浏览器扩展商店**
+
+|      | 域名                                      | 状态       |
+| :--- | :---------------------------------------- | :--------- |
+| ✅    | [Crxsoso](https://www.crxsoso.com/)       | **`可用`** |
+| ✅    | [Extfans](https://www.extfans.com/)       | **`可用`** |
+| ✅    | [CrxDL](https://crxdl.com/)               | **`可用`** |
+| ✅    | [Crx4chrome](https://www.crx4chrome.com/) | **`可用`** |
+| ✅    | [Gugeapps](https://www.gugeapps.net/)     | **`可用`** |
+| ✅    | [Chrome666](https://www.chrome666.com/)   | **`可用`** |
+| ✅    | [Cnplugins](https://www.cnplugins.com/)   | **`可用`** |
+| ✅    | [Huajiakeji](https://huajiakeji.com/)     | **`可用`** |
+
+### Wiseone 
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175717484.png" alt="-" title="Fun's images">}}  
 
