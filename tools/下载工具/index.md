@@ -37,11 +37,15 @@
 
 ### BitTorrent Tracker
 
-> 公共 **BitTorrent Tracker** 部分内容来源：[TrackersList官网](https://trackerslist.com/#/zh) 由Github：[XIU2](https://github.com/XIU2/)维护。
+> 公共 **BitTorrent Tracker** 部分内容来源：📦️[TrackersList官网](https://trackerslist.com/#/zh) 由Github：[XIU2](https://github.com/XIU2/)维护。
 
 #### Best Tracker
 
-🌐 资源地址：[点击查看](https://trackerslist.com/best.txt)
+```
+https://trackerslist.com/all_aria2.txt
+```
+
+🌐 资源地址：[点击跳转](https://trackerslist.com/all_aria2.txt)
 
 #### Aria2 Tracker
 
@@ -49,19 +53,28 @@
 https://trackerslist.com/all_aria2.txt
 ```
 
+🌐 资源地址：[点击跳转](https://trackerslist.com/all_aria2.txt)
+
 #### BitTorrent Tracker
 
 ```auto
 https://trackerslist.com/all.txt
 ```
 
-> 其他自动更新列表
+🌐 资源地址：[点击跳转](https://trackerslist.com/all.txt)
 
-🧩[开源地址](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)  | 🧩[开源地址](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt)
+#### 其他自动更新列表
 
-BitTorrent Tracker列表可根据自己体验情况选择使用哪个列表，上面的列表都是每天更新，在这里感谢这些默默维护列表的大佬们。
+```
+https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
+```
 
-#### 如何使用？
+🌐 资源地址：🧩[开源地址1](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)  | 🧩[开源地址2](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt)
+
+🎁BitTorrent Tracker列表可根据自己体验情况选择使用哪个列表，上面的列表都是每天更新，在这里感谢这些默默维护列表的大佬们。
+
+#### ❓如何使用？
 
 **BitComet (比特彗星)** - 比特彗星便携版(已配置 Tracker)：👉[点击查看](https://lanzoup.com/b073c7g4f)
 
@@ -88,7 +101,7 @@ BitTorrent Tracker列表可根据自己体验情况选择使用哪个列表，�
 bt-tracker=http://xxx.xx:80/announce,udp://yyy.yy:80/announce
 ```
 
-注意： 粘贴前请先删除旧的资源Tracker 内容，避免格式错误！
+👉注意： 粘贴前请先删除旧的资源Tracker 内容，避免格式错误！
 
 #### ⁉️Tracker 连不上？
 
@@ -107,7 +120,7 @@ BT 下载速度取决于 其他下载同一资源的用户上传速度。
 
 也就是做种的人越多（做种就是上传文件给他人），你的下载速度越快！如果一个资源没人提供上传，你就会完全没有下载速度。
 
-做种： 指上传文件数据给其他 BT 用户的行为。
+❗做种： 指上传文件数据给其他 BT 用户的行为。
 
 Tracker 的作用就是更快的找到其他下载同一资源的用户，并帮助你们之间建立链接，间接提高 BT 下载速度（前提是有人做种）。
 
@@ -115,15 +128,13 @@ Tracker 的作用就是更快的找到其他下载同一资源的用户，并帮
 
 #### 🟢Tracker来源
 
-该项目汇集了以下公共跟踪器列表：
-
+✔️该项目汇集了以下公共跟踪器列表：  
 [https://github.com/ngosang/trackerslist](https://github.com/ngosang/trackerslist)  
+[https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](https://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)  
 [https://newtrackon.com/list](https://newtrackon.com/list)  
 [https://torrents.io/tracker-list/](https://torrents.io/tracker-list/)  
-[http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt](http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt)  
 [https://tinytorrent.net/best-torrent-tracker-list-updated/](https://tinytorrent.net/best-torrent-tracker-list-updated/)  
-[https://torrenttrackerss.com/torrent-tracker-list/](https://torrenttrackerss.com/torrent-tracker-list/)  
-[http://www.torrenttrackerlist.com/torrent-tracker-list](http://www.torrenttrackerlist.com/torrent-tracker-list)
+[https://www.torrenttrackerlist.com/torrent-tracker-list](https://www.torrenttrackerlist.com/torrent-tracker-list) 
 
 
 ---
