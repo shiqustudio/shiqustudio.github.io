@@ -7,7 +7,7 @@
 
 ### Motrix
 
-![Motrix下载器](https://i.loli.net/2021/10/27/t1g8hNGUnf4BwVQ.png "Motrix下载器")
+{{< image src="https://i.loli.net/2021/10/27/t1g8hNGUnf4BwVQ.png" alt="-" title="Fun's images" width="800px" >}}  
 
 ⭐️  资源描述：Motrix是一款基于Aria2的免费开源下载管理工具，支持几乎所有下载方式，支持Windows、Mac、Linux主流操作系统。
 
@@ -17,6 +17,8 @@
 
 ### FDM
 
+{{< image src="https://bib0.com/xc/i/2023/11/29/src_win20231129.svg" alt="-" title="Fun's images" width="800px" >}}  
+
 ⭐️  资源描述：Free Download Manager（简称FDM）是一款支持Windows/安卓/Mac的免费下载工具，相较于IDM和NDM的简陋洁面，FDM的UI比较舒服，同样支持多线程下载。**下载文件的速度往往取决于自身的网络环境，及文件服务器速度，与下载软件关系不大。**
 
 ✅桌面端有提供[.crx浏览器扩展](/tools/浏览器工具/)，装完后可接管Edge、Chrome浏览器下载操作。
@@ -24,6 +26,8 @@
 🌐 资源地址：🔽[官网下载](https://www.freedownloadmanager.org/) | 🔽[123网盘下载](https://www.123pan.com/s/V65A-OXlLd.html) | 👉[火狐浏览器扩展](https://addons.mozilla.org/firefox/addon/free-download-manager-addon/) |👉[谷歌浏览器扩展](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/)`国内无法访问可以通过上方下载链接下载.crx安装`
 
 ### NDM
+
+{{< image src="https://bib0.com/xc/i/2023/11/29/31212wwee22.jpg" alt="-" title="Fun's images" width="800px" >}}  
 
 ⭐️  资源描述：ndm（NeatDownloadManager） 是一款与idm 无论是界面还是功能都极度相似的下载软件，支持32线程。与idm最大的区别是 ndm是一款完全免费的下载工具，且支持Mac系统。嗅探方便稍逊idm一筹，下载方面没区别。
 
