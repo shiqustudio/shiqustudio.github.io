@@ -10,9 +10,7 @@
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-bilibili/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/bilibili/featured-image.jpg" title="扩展 Shortcode - bilibili" alt="扩展 Shortcode - bilibili" referrerpolicy="no-referrer"/></div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
 <p><code>bilibili</code> shortcode 提供了一个内嵌的用来播放 bilibili 视频的响应式播放器。</p>]]></description>
 </item>
 <item>
@@ -21,9 +19,7 @@
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-echarts/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/echarts/featured-image.jpg" title="扩展 Shortcode - echarts" alt="扩展 Shortcode - echarts" referrerpolicy="no-referrer"/></div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
 <p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/"target="_blank" rel="external nofollow noopener noreferrer">ECharts<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 库提供数据可视化的功能。</p>]]></description>
 </item>
 <item>
@@ -32,9 +28,7 @@
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" referrerpolicy="no-referrer">
-      </div>Create watermark for webpage and automatic adjust when window resize.]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/featured-image.jpg" title="扩展 Shortcode - mapbox" alt="扩展 Shortcode - mapbox" referrerpolicy="no-referrer"/></div>Create watermark for webpage and automatic adjust when window resize.]]></description>
 </item>
 <item>
   <title>扩展 Shortcode - mermaid</title>
@@ -42,9 +36,7 @@
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" referrerpolicy="no-referrer">
-      </div>Create watermark for webpage and automatic adjust when window resize.]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/featured-image.png" title="扩展 Shortcode - mermaid" alt="扩展 Shortcode - mermaid" referrerpolicy="no-referrer"/></div>Create watermark for webpage and automatic adjust when window resize.]]></description>
 </item>
 <item>
   <title>扩展 Shortcode - music</title>
@@ -52,9 +44,7 @@
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/featured-image.png" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/featured-image.png" title="扩展 Shortcode - music" alt="扩展 Shortcode - music" referrerpolicy="no-referrer"/></div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
 <p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer"target="_blank" rel="external nofollow noopener noreferrer">APlayer<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 <a href="https://github.com/metowolf/MetingJS"target="_blank" rel="external nofollow noopener noreferrer">MetingJS<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 提供了一个内嵌的响应式音乐播放器。</p>]]></description>
 </item>
 <item>
@@ -63,9 +53,7 @@
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/tuozhanpian/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="/tutorial/shili-tuozhanpian/tuozhanpian/images/featured-image.png" referrerpolicy="no-referrer">
-      </div><p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 提供了打字动画。</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="/tutorial/shili-tuozhanpian/tuozhanpian/images/featured-image.png" title="扩展 Shortcode - typeit" alt="扩展 Shortcode - typeit" referrerpolicy="no-referrer"/></div><p><code>typeit</code> shortcode 基于 <a href="https://typeitjs.com/"target="_blank" rel="external nofollow noopener noreferrer">TypeIt<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 提供了打字动画。</p>]]></description>
 </item>
 <item>
   <title>扩展 Shortcodes</title>
@@ -73,9 +61,7 @@
   <pubDate>Thu, 16 Mar 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" referrerpolicy="no-referrer">
-      </div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"></a></p>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/featured-image.jpg" title="扩展 Shortcodes" alt="扩展 Shortcodes" referrerpolicy="no-referrer"/></div><p><a href="https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0"target="_blank" rel="external nofollow noopener noreferrer"><img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/></a></p>
 <p><strong>FixIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode。</p>]]></description>
 </item>
 <item>
@@ -84,9 +70,7 @@
   <pubDate>Mon, 20 Feb 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/featured-image.webp" referrerpolicy="no-referrer">
-      </div><p>[<strong>FixIt</strong> 主题提供了一些扩展的语法便于你撰写文章。</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/featured-image.webp" title="Markdown 扩展语法" alt="Markdown 扩展语法" referrerpolicy="no-referrer"/></div><p>[<img loading="lazy" src="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg" srcset="https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=small, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=medium 1.5x, https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg?size=large 2x" sizes="auto" data-title="FixIt 0.2.0 | 更改" data-alt="FixIt 0.2.0 | 更改" class="suffix-invalid suffix-invalid__small suffix-invalid__large" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const i of ['style', 'data-title','data-alt','onerror','onload']){this.removeAttribute(i);}"/><strong>FixIt</strong> 主题提供了一些扩展的语法便于你撰写文章。</p>]]></description>
 </item>
 <item>
   <title>内容加密</title>
@@ -94,9 +78,7 @@
   <pubDate>Mon, 20 Feb 2023 17:27:11 &#43;0000</pubDate>
   <author>聪</author>
   <guid>https://blog.funvip.live/tutorial/shili-tuozhanpian/%E5%86%85%E5%AE%B9%E5%8A%A0%E5%AF%86/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/featured-image.png" referrerpolicy="no-referrer">
-      </div><p>了解如何在 FixIt 主题中加密内容。</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://fixit.lruihao.cn/zh-cn/documentation/content-management/encryption/featured-image.png" title="内容加密" alt="内容加密" referrerpolicy="no-referrer"/></div><p>了解如何在 FixIt 主题中加密内容。</p>]]></description>
 </item>
 <item>
   <title>linux 文件权限</title>
