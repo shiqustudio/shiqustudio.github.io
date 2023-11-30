@@ -91,11 +91,11 @@
 
 ## Adobe软件
 
-### Adobe CC 2023 
+### Adobe CC 
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629141701637.png" alt="-" title="Fun's images">}}     
 
-⭐️  资源描述：Adobe CC 2023 Win/Mac
+⭐️  资源描述：**Adobe 全家桶 持续更新** ❤❤
 
 🌐 资源地址：[点击跳转](https://www.superso.top/Adobe/)
 
