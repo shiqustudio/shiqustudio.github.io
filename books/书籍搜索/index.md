@@ -1,81 +1,9 @@
 # 🗺️书籍搜索
 
 
-**🍖 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub等资源**
+💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub等资源
 
 <!--more-->
-
-## 推荐方法
-
-⭐电子书教程v4.0
-
-🔽PDF教程下载：[蓝奏云](https://wwpj.lanzoul.com/iTjYh1bitikd)
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2023-10-11_21-14-30.png)
-
-⭐最新中文书籍下载教程
-
-🔽PDF教程下载：[蓝奏云](https://wwpj.lanzoul.com/iMYkw115ia8j)
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Eureka_2023-07-03_15-12-32.png)
-
-⭐目前可用SS号显示脚本
-
-🔽PDF教程下载：[蓝奏云](https://silece.lanzouw.com/iQeOA1fsouti)
-
-🎉使用说明：下载后，添加新脚本，复制内容保存即可
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Eureka_2023-06-27_01-22-49.png)
-
-⭐最新可用秒传码网站
-
-👉**电子书秒传码搜索**  
-🌐搜索地址：[找书网](https://findbooks.eu.org/)  
-<!--2，[http://444433.xyz/](http://444433.xyz/) 不支持检索SS号-->
-
-☁️**百度网盘秒传链接提取(最新可维护版本)**  
-👉 [油猴脚本](https://greasyfork.org/zh-CN/scripts/427628-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96-%E6%9C%80%E6%96%B0%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%89%88%E6%9C%AC)  
-**Ps：** 目前可用秒传脚本，仅支持长链接*（即有3个#分割的秒传链接）*
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Eureka_2023-06-08_21-41-47.png)
-
-**使用方法**
-
-⭐电子书找书教程V2.0
-
-👉**此教程PDF可以解决你99%电子书资源问题**
-
-🔽PDF教程下载：[蓝奏云](https://wwpj.lanzoul.com/iVoz80md79wj)
-
-⭐[找书网](https://findbooks.eu.org/) - 图书信息搜索平台！  
-
-📗中文书籍教程PDF
-
-🔽PDF教程下载：[蓝奏云](https://wwpj.lanzoul.com/izbfR0k4rowd)  
-**Ps：认真看完，可解决99%书籍~**
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230105185130.jpg)
-
-⭐最全中文电子书免费下载方法
-
-> **📚全国图书馆参考咨询联盟/超星电子书库分享**
->
-> Ps：基本可以下载市面绝大部分付费中文PDF，同时认真看网站教程，不明白的多看几遍教程，很小白~
-
-1.  SSdown  
-    🔗网站：[点击跳转](https://ssdown.org/)  
-    🗺️教程：[教程详情](https://ssdown.org/archives/1694769328287) 
-2.  FreeMbook  
-    🔗网站：[点击跳转](https://freembook.com/)  
-    🗺️教程：参考上面SSdown，方法雷同
-
-**没有百度网盘会员不能满速下载的可以用IDM下载**  
-🔽IDM下载：[蓝奏云](https://silece.lanzouw.com/iD30T1fsp0kf)
-
-**上面图书下载后需要用到的工具都在此**  
-🛠工具：[蓝奏云](https://silece.lanzouw.com/iRT961fsp37a)
-
-🔴**注意** 2019年3月份起出版的书很少有，20、21、22出版的新书都没有
 
 ## 搜索引擎
 
@@ -113,9 +41,7 @@
 > 7.  🌐[Google (aufe.cf)](https://search.aufe.cf/) ⭐`11-24`
 > 8.  🌐[Google (ahut.cf)](https://search.ahut.cf/) ⭐`11-24`
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658040373859-e9d6a370-19b1-4e36-a46b-dcc830a6f4ba(png).jpg)
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658040549607-064f7bfb-180f-4eb0-abd1-412520500c01(png).jpg)
+![image-20231128163341553](https://bib0.com/xc/i/2023/11/28/image-20231128163341553.png)
 
 ### 📝Google学术搜索
 
@@ -123,10 +49,16 @@
 >
 > 1.  🌐[https://scholar.google.com/](https://scholar.google.com/) `官网`
 > 2.  🌐[https://www.library.ac.cn/](https://www.library.ac.cn/) `镜像网站合集`
-> 3.  🌐[https://ac.scmor.com/](https://ac.scmor.com/)
+> 3.  🌐[https://ac.scmor.com/ ](https://ac.scmor.com/) `镜像网站合集`
 > 4.  🌐[https://xs.zidianzhan.net/](https://xs.zidianzhan.net/) ⭐`11-24`
 > 5.  🌐[https://scholar.lanfanshu.cn/](https://scholar.lanfanshu.cn/) ⭐`11-24`
 > 6.  🌐[https://xueshu.lanfanshu.cn/](https://xueshu.lanfanshu.cn/) ⭐`11-24`
+> 7.  🌐[https://scholar.lanfanshu.cn](https://scholar.lanfanshu.cn/)⭐`11-28`
+> 8.  🌐[https://sc.panda321.com](https://sc.panda321.com/)⭐`11-28`
+> 9.  🌐[https://xueshu.lanfanshu.cn](https://xueshu.lanfanshu.cn/)⭐`11-28`
+> 10.  🌐https://www.scidown.cn/go⭐`11-28`
+> 11.  🌐[http://zc14.add.pub](http://zc14.add.pub/)⭐`11-28`
+> 12.  🌐[https://c.aalib.net/tool/ggscholar/](https://c.aalib.net/tool/ggscholar/) ⭐`Google 谷歌学术合集`
 
 ![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-11-04_14-25-30.jpg)
 
@@ -144,7 +76,7 @@
 >8. 🌐[wikipedia.cdutcm](https://www.wikipedia.cdutcm.cf) ⭐`11-24`
 >9. 🌐[wikipedia.hbcnc](https://www.wikipedia.hbcnc.cf) ⭐`11-24`
 
-![image-20231124094839249](D:\Hugo\Sites\imagesUpload\image-20231124094839249.png)
+![image-20231201163059130](https://bib0.com/xc/i/2023/12/01/image-20231201163059130.png)
 
 ## Z-Library
 
@@ -152,137 +84,33 @@
 
 🌐 官网：[点击跳转](https://z-lib.org/)
 
-> Z-Library 是成立于 2009 年的电子书网站，免费提供书籍和文章下载，Z-Library 自称是全球最大的数字图书馆。  
-> 在网站上，未注册的用户每日限制下载5次，注册并验证邮箱后每日限制下载10次（只需要邮箱就可以注册），  
-> 当然你也可以通过捐赠网站的方式获取更多下载次数和附加功能
-
-> 20222年11月4号 各大网路通知Z-Lirary被美当局禁止，其下域名均被和谐
->
-> 💬[Z-library被禁](https://www.reddit.com/r/zlibrary/comments/yljn16/oh_god_what_now/)
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658043970436-eaa1942e-fcd0-49d8-a17a-35a7adba349f(png).jpg)
+> Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于某些关系，Z-Library 访问并不稳定，使用下方的方法可以得到解决。
 
 ### 🧶目前可用方法
 
 #### **📒Zlibrary下载**
 
-**Z-Library客户端：**  
-[ZLibrary推出了桌面启动器](https://t.me/zlibrary_official/27)，现在无需在网上到处搜索可用的链接\[不需要翻墙\]，可以直接通过启动器登录 Z-Library 下载全网的书籍  
-支持：Win/Mac/Linux/安卓  
-网络：亲测支持国内网络直接访问  
-🔽下载：[123云盘](https://www.123pan.com/s/V65A-zglLd.html) 提取码:shiq  
-**Z-library网站：**  
-地址1：[Z-library 1](https://singlelogin.re/)  
-地址2：[Z-library 2](https://singlelogin.site/)
+**Z-Library 目前国内可注册的地址**
 
-**Z-Library图书馆最全下载方式汇总v1.0**  
-**PDF下载：**[蓝奏云](https://silece.lanzouw.com/b019re8ch) 密码:4uet
+🌐[注册地址](http://zh.z-library.se/registration.php)
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2023-01-12_22-17-16.jpg)
+首先注册账户，注册完毕后，登陆点击右上角的图标，在个人资料中会有两个**私有链接**，收藏任意私有链接到收藏夹即可国内长久访问。如无法访问，可向官方的邮箱 `blackbox@zlib.se` 发个任意邮件，等回复邮件中的官方域名。
 
-##### **方法1**
+**Z-Library 官方客户端**  🎉[客户端地址](https://zh.z-library.se/z-access)
 
-1.  下载 洋葱浏览器  
-    🔽[洋葱浏览器下载](https://www.torproject.org/zh-CN/download/)
-2.  打开 [网址1](http://zh.loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/confirm.php) 或者 [网址2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) 注册登录下载即可  
-    网址1：[点击跳转](http://zh.loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/confirm.php)  
-    网址2：[点击跳转](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
+该网址为官方客户端下载网址，里面有多平台的客户端下载，还有提供浏览器扩展插件 Z-Library Finder，可用来寻找 Z-Library 最新网址。
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/photo_2022-11-13_18-45-18.jpg)
+**Z-Library 最新可用方法** *网页版 / 不用登陆账号 / 无每日下载限制*
 
-##### 方法2
+🌐[资源地址1](https://zbook.lol/) | 🌐[资源地址2](https://zbook.eu.org/) | 🌐[资源地址3](https://zlib.missuo.me/) |🌐[资源地址4](https://zlib.knat.network/) |🌐[资源地址5](https://ylibrary.org/) (zhelper 接口）| 🌐[资源地址6](https://tool.ssdown.org/) （zhelper 接口汇总）
 
-电报机器人 [点击跳转](https://t.me/firstlibrarybot)
+🔥 **需要关注的教程**
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-11-14_15-18-14.jpg)
+✨[Zlibrary资讯汇总](https://ssdown.org/archives/1694769328287)（Zlibrary/Superlib 访问方式与资讯汇总 - 持续更新）⭐️
 
-##### **方法3**
+✨[Z-library Pro](https://kf369.cn/sites/2731.html) （Z-library Pro 助手及最新网址 - 持续更新）⭐️
 
-安卓版Zlibrary开国际网络正常下载  
-☁️[蓝奏云](https://silece.lanzouw.com/iDxRa1fspzqb)
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-11-14_15-21-07.jpg)
-
-#### **📕zlib-download**
-
-zlib.download 是一个代理访问 zlibrary API 的工具。能够提供与原 zlibrary 网站基本一致的下载体验。  
-zlib.download 服务器本身不存储任何数据。所有内容均从 zlibrary 服务器实时获取并转发。
-
-🗺️[简介](https://zlib.download/#/ "简介") | 🧩[项目](https://github.com/zlib-download/zlib-download "项目") | 🔽[下载教程](https://zlib.download/zh/) 🔽[Zhelper V4](https://v4.zhelper.net/ "Zhelper V4")  | 🔽[Zhelper V5](https://v5.zhelper.net/ "Zhelper V5")
-
-**项目介绍**
-
-zlib.download 最初由 zhelper 小组开发，作为 zhelper V4 的下载组件提供服务。zhelper V4 于 2022.11.23 上线，截止 2022.11.19 为止，提供了 110M/s 峰值下载速度的下载服务，以及共计 40T 的数据传输。
-
-但由于直接提供下载服务风险过大且不可控制。zhelper 小组于 2022.11.20 暂停了下载服务。并于同日启动 zlib.download 网址，希望能够将原下载服务可靠地分布式部署，分散风险，提高可用性。
-
-##### **方法1**
-
-由于本项目从 zhelper 迁移得来，最方便的方式是直接在 zhelper 下载界面上修改域名。
-
-首先仍然是使用 [zhelper V4](https://v4.zhelper.net/) 进行查询，在下载界面，将 `download.v4.zhelper.net` 替换成 `zlib.download` 即可切换到 `zlib.download` 网站，直接选择公共服务器即可下载。此外，界面也沿袭原设计。力图还原当初的体验。
-
-**详细图文**
-
-打开 [zhelper V4](https://v4.zhelper.net/)
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/uTools_1669953816935.png)  
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/uTools_1669953850711.png)  
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/uTools_1669953950828.png)  
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/uTools_1669954071335.png)
-
-##### **方法2**
-
-1.  从搜索网页获取所需要下载书籍的信息
-
-<table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">从 TOR 官网获取：搜索完成后，在详情界面，复制链接如： </span><br><span class="line">http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/book/11651373/1132ee</span><br><span class="line"></span><br><span class="line">从 zhelper V4 获取：搜索完成后，在下载界面，复制链接如：</span><br><span class="line">https://download.v4.zhelper.net/download/3511909/db1f53</span><br><span class="line"></span><br><span class="line">从 clibrary 获取：搜索完成后，在详情界面，复制链接如：</span><br><span class="line">https://clibrary.top/book/3511911/f37da4</span><br></pre></td></tr></tbody></table>
-
-2.  注意其中共同的特点：最后以 数字/字符串 的形式结尾。如 3511909/db1f53 或者 3511911/f37da4
-3.  然后，请访问 \[替换成可用的服务器域名\]/download/\[替换成上一步的数字\]/\[替换成上一步的字符串\] 即可
-4.  如果需要使用自己的额度，请使用 \[替换成可用的服务器域名\]/download/\[替换成上一步的数字\]/\[替换成上一步的字符串\]/\[替换成remix\_userid\]/\[替换成remix\_userkey\]
-
-#### 📗zlibrary下载
-
-更新：2022-12-04
-
-**总结：**
-
-**一个能够一站式搜索超星和 zlibrary 两大中文书库的网站——Ylibrary去中心化图书馆。**  
-地址：[点击跳转](https://ylib.zhelper.net/)  
-备用地址：[点击跳转](https://search.ylibrary.org/)  
-这是zhelper新上线的，详情移步具体网页。
-
-**秒传链接提取**  
-用于提取和生成百度网盘秒传链接  
-[秒传链接提取](https://greasyfork.org/zh-CN/scripts/424574-%E7%A7%92%E4%BC%A0%E9%93%BE%E6%8E%A5%E6%8F%90%E5%8F%96)
-
-主站在：[跳转跳转](https://www.zhelper.net/)  
-资源：读秀+zlib  
-V5提供秒传、BT、PILIMI、IPFS等下载方式。（V5搜索结果貌似没有V4多）  
-v4提供的zlid-down 方式，可弥补V5的不足。
-
-**秒链查询获取网站（仅读秀库）**  
-（1）[点击跳转](https://freembook.com/)  
-（2）[点击跳转](https://www.chajide.cn/)
-
-* * *
-
-**ZLibrary 电子书下载的各等级用户操作权限（来自官网）：**
-
-> ⭕ 不注册账号，1天可免费下载5次。  
-> ⭕ 注册账号即为初级用户，1天可免费下载10次。  
-> ⭕ 通过捐赠成为高级用户，1天最多可下载999次（视捐赠金额而定）。
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658042347333-954c86a1-1585-438c-bd5d-abd49964e80b(png).jpg)
-
-### 🌵 Z-Library 安卓版本
-
-`安卓版本`直接可以在打开的网站里面下载
-
-+   网站：[点击跳转](https://zh.zlibrary.org/android)
-+   下载：[点击下载](https://zh.zlibrary.org/soft/zlibrary-app-latest.apk)
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658044881226-34020151-0acd-4292-a6c9-1c7dbb2a9e6d(png).jpg)
+✨[Z-library 可行方法](https://anotherdayu.com/2022/3809/) （Z-library 现阶段可行的访问方法和替代方法 2023 - 持续更新）⭐️
 
 ### 🌏 Z-Library可用镜像网站
 
@@ -290,52 +118,30 @@ Z-library 有很多入口，大致分为官方网站和民间镜像。官方自�
 `（在任何第三方登录账号密码时候，都要注意账号密码安全，可单独注册一个账号密码专门用于此类第三方登录）`
 
 > **—— 随时更新，避免失效 ——**
->
-> 1.  [https://1lib.ink/](https://1lib.ink/) ⭐`11-04`
-> 2.  [https://zlib.ren/](https://zlib.ren/) ⭐`11-04`
-> 3.  [https://1lib.ren/](https://1lib.ren/) ⭐`11-04`
-> 4.  [https://zlib.ink/](https://zlib.ink/) ⭐`11-04`
-> 5.  [https://en.booksee.org/](https://en.booksee.org/) 需国际网络 ⭐`11-04`
-> 6.  [https://libcats.org/](https://libcats.org/) 需国际网络 ⭐`11-04`
-> 7.  [https://www.bookzz.ren/](https://www.bookzz.ren/) 需国际网络 ⭐`11-04`
-> 8.  [https://www.ooopn.com/tool/zlibrary/](https://www.ooopn.com/tool/zlibrary/) 镜像集合 ⭐`11-04`
-> 9.  [http://pilimi.org/](http://pilimi.org/) ⭐`11-04`  
->     Pirate Library Mirror 镜像了 z-lib 今年8月份的全部图书，约24TB
-> 10.  [https://zh.singlelogin.me/](https://zh.singlelogin.me/) ⭐`11-22`
-> 11.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像网站、12-07`
 
 ## Library Genesis
 
 ### 🚩 简介
 
-🌐 官网：[点击跳转](http://gen.lib.rus.ec/)
+🌐 官网：[点击跳转](https://libgen.unblockit.foo/)
 
 > 一个学术论文和电子书籍免费获取的网站，几乎每天都有更新。兼具论文、文献、书籍下载功能，爱看英文原版书建议收藏，全部免费
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658046600422-3649e1d3-0d58-4f3b-ae49-8779a8c7cb72(png).jpg)
+{{< image src="https://bib0.com/xc/i/2023/11/28/image-20231128143839766.png" alt="-" title="Fun's images">}} 
 
 ### 🌏 网站
 
 > **—— 随时更新，避免失效 ——**
 >
-> 1.  [http://libgen.rs/](http://libgen.rs/)
-> 2.  [https://libgen.rocks/](https://libgen.rocks/)
-> 3.  [https://cdn1.booksdl.org/](https://cdn1.booksdl.org/)
+> 1.  https://c.aalib.net/tool/libgen/ `镜像合集`
+> 2.  [http://libgen.rs/](http://libgen.rs/)
+> 3.  [https://libgen.rocks/](https://libgen.rocks/)
 > 4.  [https://libgen.gs/](https://libgen.gs/)
 > 5.  [http://libgen.rs/search.php](http://libgen.rs/search.php)
 > 6.  [https://www.libgen.tw/](https://www.libgen.tw/)
-> 7.  [https://libgen.fun/](https://libgen.fun/) ⭐`11-04`
-> 8.  [https://libgen.ink/](https://libgen.ink/) ⭐`11-04`
-> 9.  [https://libgen.icu/](https://libgen.icu/) ⭐`11-04`
-> 10.  [https://libgen.ee/](https://libgen.ee/) ⭐`11-04`
-> 11.  [https://libgen.unblockit.nz/](https://libgen.unblockit.nz/) ⭐`11-04`
-> 12.  [https://libgen.is/](https://libgen.is/) ⭐`11-04`
-> 13.  [https://libgen.st/](https://libgen.st/) ⭐`11-04`
-> 14.  [https://libgen.ee/](https://libgen.ee/) ⭐`12-07`
-> 15.  [https://libgen.li/](https://libgen.li/) ⭐`12-07`
-> 16.  [https://libgen.lc/](https://libgen.lc/) ⭐`12-07`
-> 17.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像收集、12-07`
-> 18.  [https://libgen.unblockit.ink/](https://libgen.unblockit.ink/) ⭐`2023-01-08`
+> 7.  [https://llhlf.com/](https://llhlf.com/) ⭐`11-28`
+> 8.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像收集`
+> 9.  [https://unblockit.foo/](https://unblockit.foo/) ⭐`11-28`
 
 ### ⏬ 下载
 
@@ -343,43 +149,34 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 也可根据个人需求选择`Fiction小说`**、**`Scientific Articles 科学论文`**、**`Magazines杂志`
 
-1.  进入网站在检索框输入 书名 或 作者 或 和所找书籍相关的 关键词进行检索
-    
-    **比如：**活着
-    
+1. 进入网站在检索框输入 书名 或 作者 或 和所找书籍相关的 关键词进行检索
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658047482892-a72b942f-aa98-401f-832f-51da0bee51c0(png).jpg)
+   ![image-20231201155649004](https://bib0.com/xc/i/2023/12/01/image-20231201155649004.png)
 
 2.  搜索后，在`Mirrors`下方就是下载地址，`Library genesis`没有直接显示下载地址
     
     显示的是镜像下载地址，点击任意一个下载即可.
     
+    ![image-20231201155956319](https://bib0.com/xc/i/2023/12/01/image-20231201155956319.png)
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658047684313-019e8984-dcd3-4dd6-84a3-100dd56a9c85(png).jpg)
+3. 点击 `GET` 即可直接下载
 
-3.  点击 `GET` 即可直接下载
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658047841936-bc79f0da-3dad-49a5-a7ae-3ca7b9ae6237(png).jpg)
+   ![image-20231201160038571](https://bib0.com/xc/i/2023/12/01/image-20231201160038571.png)
 
 ## Sci-hub
 
 ### 🚩 简介
 
-🌐 `官网`
+🌐 `官网地址` ：[点击跳转 1](https://sci-hub.se/) | [点击跳转 2](https://sci-hub.ru/) |[点击跳转 3](https://sci-hub.st/)
 
-+   [点击跳转 1](https://sci-hub.se/)
-+   [点击跳转 2](https://sci-hub.ru/)
-+   [点击跳转 3](https://sci-hub.st/)
-
-🙍 `关于作者` [点击跳转](https://sci-hub.ru/alexandra)  
-🐋`作者推特` [点击跳转](https://twitter.com/ringo_ring)
+🙍 `关于作者`： [点击跳转](https://sci-hub.ru/alexandra)   | 🐋`作者推特`： [点击跳转](https://twitter.com/ringo_ring)
 
 > 一个影子图书馆网站，通过以各种方式绕过出版商的付费墙，可以免费访问数百万篇研究论文和书籍，而无需考虑版权。 Sci-Hub 由 Alexandra Elbakyan 于 2011 年在哈萨克斯坦创立，以应对付费墙背后的高昂研究论文成本。
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658048873182-1c8afcb0-6031-4895-98b3-286392e74f18(png).jpg)
+![image-20231201160201222](https://bib0.com/xc/i/2023/12/01/image-20231201160201222.png)
 
 📊 `关于Sci-Hub使用情况的统计数据` [点击跳转](https://sci-hub.ru/stats)  
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658049880946-07e36239-69de-4496-a596-94164d77a0a1(png).jpg)
+![image-20231201160305302](https://bib0.com/xc/i/2023/12/01/image-20231201160305302.png)
 
 ### 🌏 网站
 
@@ -389,26 +186,21 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 > 2.  [https://lovescihub.wordpress.com/](https://lovescihub.wordpress.com/) #此网站实时更新Sci-Hub可用域名
 > 3.  [https://www.ooopn.com/tool/scihub/](https://www.ooopn.com/tool/scihub/) #此网站实时更新Sci-Hub可用域名
 > 4.  [http://sci-hub.fan/](http://sci-hub.fan/) #输入地址自动跳转可用Sci-Hub域名
-> 5.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) #此网站实时更新Sci-Hub可用域名 ⭐`12-07`
 > 6.  [https://sci-hub.mksa.top/](https://sci-hub.mksa.top/)
-> 7.  [https://sci.hubg.org/](https://sci.hubg.org/)
 > 8.  [https://sci-hub.shop/](https://sci-hub.shop/)
 > 9.  [https://sci-hub.st/](https://sci-hub.st/)
 > 10.  [http://sci-hub.is/](http://sci-hub.is/)
 > 11.  [https://sci-hub.ren/](https://sci-hub.ren/)
 > 12.  [https://sci-hub.ee/](https://sci-hub.ee/)
 > 13.  [https://sci-hub.cat/](https://sci-hub.cat/)
-> 14.  [https://sci-hub.pro/](https://sci-hub.pro/)
 > 15.  [https://sci-hub.mksa.top/](https://sci-hub.mksa.top/)
-> 16.  [https://sci-hub.ink/](https://sci-hub.ink/) ⭐`11-04`
-> 17.  [https://sci-hub.cab/](https://sci-hub.cab/) ⭐`11-04`
-> 18.  [https://sci-hub.wf/](https://sci-hub.wf/) ⭐`11-04`
-> 19.  [https://sci-hub.se/](https://sci-hub.se/) ⭐`11-04`
-> 20.  [https://sci-hub.yt/](https://sci-hub.yt/) ⭐`11-04`
-> 21.  [https://sci-hub.ru/](https://sci-hub.ru/) ⭐`11-04`
-> 22.  [https://sci-hub.org.cn/](https://sci-hub.org.cn/) ⭐`11-04`
-> 23.  [https://sci-hub.hkvisa.net/](https://sci-hub.hkvisa.net/) ⭐`11-04`
-> 24.  [https://sci-hub.3800808.com/](https://sci-hub.3800808.com/) ⭐`11-04`
+> 18.  [https://sci-hub.wf/](https://sci-hub.wf/) ⭐
+> 19.  [https://sci-hub.se/](https://sci-hub.se/) ⭐
+> 20.  [https://sci-hub.yt/](https://sci-hub.yt/) ⭐
+> 21.  [https://sci-hub.ru/](https://sci-hub.ru/) ⭐
+> 22.  [https://sci-hub.org.cn/](https://sci-hub.org.cn/) ⭐
+> 23.  [https://sci-hub.hkvisa.net/](https://sci-hub.hkvisa.net/) ⭐
+> 24.  [https://sci-hub.3800808.com/](https://sci-hub.3800808.com/) ⭐
 
 ### ⏬ 网页下载
 
@@ -421,32 +213,11 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 > 3.  [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
 > 4.  [https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658051890631-a8ebcee4-8085-45af-90c0-2025091aaf2a(png).jpg)
+![image-20231201161230564](https://bib0.com/xc/i/2023/12/01/image-20231201161230564.png)
 
 2.  点击 `下载` 即可
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658052077673-fc7101e1-ec16-4658-9d26-3fc076d1cf87(png).jpg)
-
-## Internet Archive
-
-新增：2023-04-05
-
-**Internet Archive中电子书pdf的下载**
-
-[视频链接](https://www.bilibili.com/video/BV1MV4y1471C/?share_source=copy_web&vd_source=d348fbbdbf67a3085f2a6259a4d580a9 "视频链接") [视频中用到的软件（提取码：lpcn ）](https://pan.baidu.com/s/1uxjBpPJ2-Q209JYltpQZ-A?pwd=lpcn "视频中用到的软件（提取码：lpcn ）")
-
-**说明**
-
-【**转引述**】感谢 [@aim呀哎](https://space.bilibili.com/10404359) 大佬的视频，因为大佬的视频声音小+没字幕，自己录了一个有字幕的教程  
-大佬视频指路：[BV1P5411M7sC](https://www.bilibili.com/video/BV1P5411M7sC/?spm_id_from=333.788.video.desc.click)
-
-首先需要在Internet Archive上注册一个账号并登录，才能进行视频中的后续操作。  
-[Internet Archive的网址](https://archive.org/) 丨 [插件链接](https://github.com/apprenticeharper/DeDRM_tools/releases/tag/v6.8.1)
-
-**只能借1hour的下载链接：**  
-[点击跳转](https://archive.org/services/loans/loan/?action=media_url&identifier=%E3%80%90%E3%80%91&format=pdf&redirect=1)
-
-将上面链接里的中括号【】替换为需要下载的书的id，然后粘贴到浏览器的地址栏就开始下载了。（在做这步之前请确保这本书已经被你借了，也就是已经点击了“Borrow for 1 hour”这个蓝色按钮并且变为“Return now”红色按钮了）
+![image-20231201161324227](https://bib0.com/xc/i/2023/12/01/image-20231201161324227.png)
 
 ## 文献辅助插件类
 
@@ -469,13 +240,13 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
     > 浏览器建议使用谷歌内核浏览器，或者任一支持油猴脚本管理器的浏览器均可.
     
 
-**打开：**[点击跳转](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
+🌐 资源地址：[点击跳转](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
 
 ![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658058373119-e29a591b-2620-49e6-9769-131034928303(png).jpg)
 
 2.  安装 文`献下载助手插件` 脚本
 
-**打开：**[点击跳转](https://greasyfork.org/zh-CN/scripts/448015)  
+🌐资源地址：[点击跳转](https://greasyfork.org/zh-CN/scripts/448015)  
 
 ![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-09-22_22-18-04.jpg)
 
@@ -605,9 +376,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 +   CAJ 转 PDF 转换器（GUI 版本）
 
 🍽️ **支持：**`Windows`、`MacOS`  
-🌐 **官网：**[点击跳转](https://caj2pdf-qt.sainnhe.dev/)  
-🚩 **项目：**[开源地址](https://github.com/sainnhe/caj2pdf-qt)  
-⏬ **下载：**[蓝奏云](https://wwc.lanzoul.com/iMLIx04r9mib)  
+🌐 **官网：**[点击跳转](https://caj2pdf-qt.sainnhe.dev/)  |🚩 **项目：**[开源地址](https://github.com/sainnhe/caj2pdf-qt)  | ⏬ **下载：**[蓝奏云](https://silece.lanzouw.com/iRSIC1giij7a)  
 
 ![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/1658131940345-2e5cf2cc-dfca-49ed-9f50-2b0532dca282(png).jpg)
 
@@ -635,7 +404,6 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 | **英文 DOI检索网站**                                         | [https://www.doi.org/](https://www.doi.org/)                 | 全球最大的DOI注册机构                                        | **期刊** |
 | **中文 DOI检索网站**                                         | [http://www.chinadoi.cn/portal/index.htm](http://www.chinadoi.cn/portal/index.htm) | 亚洲唯一的DOI注册机构网站，中文论文都经此注册                | **期刊** |
 | **Internet Archive**                                         | [https://archive.org/details/GeneralIndex](https://archive.org/details/GeneralIndex) |                                                              |          |
-| [打不开官方网站打开此镜像网站跳转](https://www.library.ac.cn/?=njau) | 该数据库可以索引到 1.07 亿篇学术论文                         | **论文**                                                     |          |
 | **臺灣大學學術期刊資料庫**                                   | [http://ejournal.press.ntu.edu.tw/main.php](http://ejournal.press.ntu.edu.tw/main.php) |                                                              | **期刊** |
 | **CAMBRIDGE**                                                | [https://www.cambridge.org/](https://www.cambridge.org/)     | 剑桥大学出版社，超过350种期刊接受开放存取                    | **期刊** |
 | **Connected Papers**                                         | [https://www.connectedpapers.com/](https://www.connectedpapers.com/) | 该免费的数据库囊括了1.8亿多篇学术论文，涉及计算机科学、分子生物学、微生物学和神经科学等多学科领域。[详情](https://xueshu.baidu.com/usercenter/papercheck/news?kind=3&site=wangpanpc) | **论文** |
@@ -717,36 +485,34 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ## 外文 - 找书网站
 
-| **名称**                                                     | **简介**                                                     | **网址**                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **PDF drive**                                                | 国外免费的PDF电子书网站，有很多电子书。                      | [https://www.pdfdrive.com/](https://www.pdfdrive.com/)       |
-| **Internet Archive**                                         | 一个包含数百万免费书籍、电影、软件、音乐、网站等的非营利性图书馆 | [https://archive.org/](https://archive.org/)                 |
-| [https://web.archive.org/](https://web.archive.org/)         |                                                              |                                                              |
-| [打不开官方网站打开此镜像网站跳转](https://www.library.ac.cn/?=njau) |                                                              |                                                              |
-| **Project Gutenberg**                                        | 古登堡计划一个以自由的和电子化的形式，基于互联网，大量提供版权过期而进入公有领域书籍的一项协作计划 | [http://www.gutenberg.org/](http://www.gutenberg.org/)       |
-| **magazinelib**                                              | 无需注册下载全球上万本杂志期刊                               | [https://magazinelib.com/](https://magazinelib.com/)         |
-| **OAPEN**                                                    | 一项由阿姆斯特丹大学搭建的庞大数据库，主要收集的是欧陆资料   | [https://oapen.org/](https://oapen.org/)                     |
-| **British Library blogs**                                    | 不列颠图书馆搭建的共享资料网站                               | [http://www.bl.uk/blogs](http://www.bl.uk/blogs)             |
-| **epdf**                                                     | 名副其实的国际性图书馆，英文、法文、俄文、西班牙文……一应俱全。号称提供了世界上最多的电子文档 | [https://epdf.pub/](https://epdf.pub/)                       |
-| **forgottenbooks**                                           | 一个外文电子书网站，目前有1271515本书可供在线阅读            | [https://www.forgottenbooks.com/en](https://www.forgottenbooks.com/en) |
-| **The Met**                                                  | 可在线阅读或下载艺术、文化、历史等书籍，目前有600多册，大多为pdf格式。 | [https://www.metmuseum.org/art/metpublications/](https://www.metmuseum.org/art/metpublications/) |
-| **freebookcentre**                                           | 免费下载技术类书籍，包括计算机科学、编程、移动技术、物理学、医学等类型。 | [http://www.freebookcentre.net/CompuScience/compscCategory.html](http://www.freebookcentre.net/CompuScience/compscCategory.html) |
-| **digilibraries**                                            | 免费下载，下载时候会有弹窗广告，关闭即可                     | [https://digilibraries.com/](https://digilibraries.com/)     |
-| **pdfcookie**                                                |                                                              | [https://pdfcookie.com/](https://pdfcookie.com/)             |
-| **D-PDF**                                                    |                                                              | [https://d-pdf.com/](https://d-pdf.com/)                     |
-| **YesPDF**                                                   |                                                              | [https://yes-pdf.com/](https://yes-pdf.com/)                 |
-| **Z-ePub**                                                   |                                                              | [https://www.z-epub.com/](https://www.z-epub.com/)           |
-| **OiiPDF**                                                   |                                                              | [https://oiipdf.com/](https://oiipdf.com/)                   |
-| **VODC**                                                     |                                                              | [https://vdoc.pub/](https://vdoc.pub/)                       |
-| **National library of medicine**                             | 美国国家医学图书馆                                           | [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/) |
-| **dirzon**                                                   | 免费下载文档和有声读物                                       | [https://www.dirzon.com/](https://www.dirzon.com/) `⭐新增：2022-12-03` |
-| **Docero.tips**                                              | PDF和电子书共享社区                                          | [https://docero.tips/](https://docero.tips/) `⭐新增：2022-12-03` |
-| **PDFCOFFEE**                                                | 我们的网站使您可以轻松找到有助于备考的书籍、完整的报告和研究论文，以及各个领域的自学书籍。Web 资源的教育图书馆包含数以千计的各种学术科目的培训手册、文章和书籍。 | [https://pdfcoffee.com/](https://pdfcoffee.com/) `⭐新增：2022-12-03` |
-| **Academia**                                                 | 一个分享学术研究的平台。学术界已上传 4000 万篇论文，每月有 9500 万学者、专业人士和学生阅读学术界的论文 | [https://www.academia.edu/](https://www.academia.edu/) `⭐新增：2022-12-03` |
-| **DocerArgentina**                                           | 访问数以千万计的免费文档                                     | [https://docer.com.ar/](https://docer.com.ar/) `⭐新增：2022-12-03` |
-| **PDFSLIDE**                                                 | 通过演示文稿、信息图表、文档等分享您所了解和喜爱的内容       | [https://pdfslide.net/](https://pdfslide.net/) `⭐新增：2022-12-03` |
-| **a2zstudiovn**                                              | 法语教科书教材文档-下载前可看链接里面的视频下载教程          | [https://a2zstudiovn.com/category/chia-se-tai-nguyen/tai-lieu-tieng-phap/](https://a2zstudiovn.com/category/chia-se-tai-nguyen/tai-lieu-tieng-phap/) `⭐新增：2022-12-03` |
-| **ac-fle.ru**                                                | 学习和教授法语的资源                                         | [https://www.ac-fle.ru/ru/](https://www.ac-fle.ru/ru/) `⭐新增：2022-12-03` |
+| **名称**                         | **简介**                                                     | **网址**                                                     |
+| -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **PDF drive**                    | 国外免费的PDF电子书网站，有很多电子书。                      | [https://www.pdfdrive.com/](https://www.pdfdrive.com/)       |
+| **Internet Archive**             | 一个包含数百万免费书籍、电影、软件、音乐、网站等的非营利性图书馆 | [https://archive.org/](https://archive.org/)                 |
+| **Project Gutenberg**            | 古登堡计划一个以自由的和电子化的形式，基于互联网，大量提供版权过期而进入公有领域书籍的一项协作计划 | [http://www.gutenberg.org/](http://www.gutenberg.org/)       |
+| **magazinelib**                  | 无需注册下载全球上万本杂志期刊                               | [https://magazinelib.com/](https://magazinelib.com/)         |
+| **OAPEN**                        | 一项由阿姆斯特丹大学搭建的庞大数据库，主要收集的是欧陆资料   | [https://oapen.org/](https://oapen.org/)                     |
+| **British Library blogs**        | 不列颠图书馆搭建的共享资料网站                               | [http://www.bl.uk/blogs](http://www.bl.uk/blogs)             |
+| **epdf**                         | 名副其实的国际性图书馆，英文、法文、俄文、西班牙文……一应俱全。号称提供了世界上最多的电子文档 | [https://epdf.pub/](https://epdf.pub/)                       |
+| **forgottenbooks**               | 一个外文电子书网站，目前有1271515本书可供在线阅读            | [https://www.forgottenbooks.com/en](https://www.forgottenbooks.com/en) |
+| **The Met**                      | 可在线阅读或下载艺术、文化、历史等书籍，目前有600多册，大多为pdf格式。 | [https://www.metmuseum.org/art/metpublications/](https://www.metmuseum.org/art/metpublications/) |
+| **freebookcentre**               | 免费下载技术类书籍，包括计算机科学、编程、移动技术、物理学、医学等类型。 | [http://www.freebookcentre.net/CompuScience/compscCategory.html](http://www.freebookcentre.net/CompuScience/compscCategory.html) |
+| **digilibraries**                | 免费下载，下载时候会有弹窗广告，关闭即可                     | [https://digilibraries.com/](https://digilibraries.com/)     |
+| **pdfcookie**                    |                                                              | [https://pdfcookie.com/](https://pdfcookie.com/)             |
+| **D-PDF**                        |                                                              | [https://d-pdf.com/](https://d-pdf.com/)                     |
+| **YesPDF**                       |                                                              | [https://yes-pdf.com/](https://yes-pdf.com/)                 |
+| **Z-ePub**                       |                                                              | [https://www.z-epub.com/](https://www.z-epub.com/)           |
+| **OiiPDF**                       |                                                              | [https://oiipdf.com/](https://oiipdf.com/)                   |
+| **VODC**                         |                                                              | [https://vdoc.pub/](https://vdoc.pub/)                       |
+| **National library of medicine** | 美国国家医学图书馆                                           | [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/) |
+| **dirzon**                       | 免费下载文档和有声读物                                       | [https://www.dirzon.com/](https://www.dirzon.com/) `⭐新增：2022-12-03` |
+| **Docero.tips**                  | PDF和电子书共享社区                                          | [https://docero.tips/](https://docero.tips/) `⭐新增：2022-12-03` |
+| **PDFCOFFEE**                    | 我们的网站使您可以轻松找到有助于备考的书籍、完整的报告和研究论文，以及各个领域的自学书籍。Web 资源的教育图书馆包含数以千计的各种学术科目的培训手册、文章和书籍。 | [https://pdfcoffee.com/](https://pdfcoffee.com/) `⭐新增：2022-12-03` |
+| **Academia**                     | 一个分享学术研究的平台。学术界已上传 4000 万篇论文，每月有 9500 万学者、专业人士和学生阅读学术界的论文 | [https://www.academia.edu/](https://www.academia.edu/) `⭐新增：2022-12-03` |
+| **DocerArgentina**               | 访问数以千万计的免费文档                                     | [https://docer.com.ar/](https://docer.com.ar/) `⭐新增：2022-12-03` |
+| **PDFSLIDE**                     | 通过演示文稿、信息图表、文档等分享您所了解和喜爱的内容       | [https://pdfslide.net/](https://pdfslide.net/) `⭐新增：2022-12-03` |
+| **a2zstudiovn**                  | 法语教科书教材文档-下载前可看链接里面的视频下载教程          | [https://a2zstudiovn.com/category/chia-se-tai-nguyen/tai-lieu-tieng-phap/](https://a2zstudiovn.com/category/chia-se-tai-nguyen/tai-lieu-tieng-phap/) `⭐新增：2022-12-03` |
+| **ac-fle.ru**                    | 学习和教授法语的资源                                         | [https://www.ac-fle.ru/ru/](https://www.ac-fle.ru/ru/) `⭐新增：2022-12-03` |
 
 ## 小说网站
 
@@ -816,7 +582,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ## 玩转PDF系列
 
-📃**[pdf资源怎么找](https://www.pdfdrive.com/)**
+📃[**pdf资源怎么找**](https://www.pdfdrive.com/)
 
 🌐 资源地址: [点击跳转](https://www.pdfdrive.com/) 
 
