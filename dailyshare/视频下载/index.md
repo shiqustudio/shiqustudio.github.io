@@ -609,7 +609,6 @@ Facebook、Twitter、Instagram、Tumblr等社交媒体
 
 ```bash
 $ lux "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-
  Site:      YouTube youtube.com
  Title:     Rick Astley - Never Gonna Give You Up (Video)
  Type:      video
@@ -618,13 +617,11 @@ $ lux "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
      Quality:         1080p video/webm; codecs="vp9"
      Size:            63.93 MiB (67038963 Bytes)
      # download with: lux -f 248 ...
-
  41.88 MiB / 63.93 MiB [=================>-------------]  65.51% 4.22 MiB/s 00m05s
 ```
 
 ```bash
 $ lux -i "https://www.bilibili.com/video/av21877586" "https://www.bilibili.com/video/av21990740"
-
  Site:      哔哩哔哩 bilibili.com
  Title:     【莓机会了】甜到虐哭的13集单集MAD「我现在什么都不想干,更不想看14集」
  Type:      video
@@ -633,7 +630,6 @@ $ lux -i "https://www.bilibili.com/video/av21877586" "https://www.bilibili.com/v
      Quality:         高清 1080P
      Size:            51.88 MiB (54403767 Bytes)
      # download with: lux -f default "URL"
-
 
  Site:      哔哩哔哩 bilibili.com
  Title:     【莓救了】甜到虐哭！！！国家队单集MAD-当熟悉的bgm响起，眼泪从脸颊滑下
