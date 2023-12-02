@@ -573,6 +573,6 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/dailyshare/%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/  
 

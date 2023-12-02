@@ -173,6 +173,6 @@ LLMs 可以真正把你的笔记变成**第二大脑**，它们可以在你写�
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/personal/%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95%E5%AE%9E%E8%B7%B5/  
 > 转载 URL: https://www.indigox.me/feynman-technique-in-practice/

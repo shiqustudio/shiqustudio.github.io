@@ -433,6 +433,6 @@ HD-DVD和 Blu-Ray Rip、Re都是把原始的高清数据进行压缩和重编码
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/dailyshare/%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90/  
 
