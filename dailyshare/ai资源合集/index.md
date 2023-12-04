@@ -464,6 +464,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/dailyshare/ai%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/  
 

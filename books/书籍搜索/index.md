@@ -601,6 +601,6 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/  
 
