@@ -393,6 +393,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/dailyshare/%E8%B6%A3%E7%AB%99/  
 

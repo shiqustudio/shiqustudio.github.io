@@ -109,6 +109,6 @@ https://img.noobzone.ru/getimg.php?url=
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E9%98%B2%E7%9B%97%E9%93%BE/  
 
