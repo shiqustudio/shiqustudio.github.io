@@ -220,6 +220,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B7%A5%E5%85%B7/  
 
