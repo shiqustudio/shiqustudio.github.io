@@ -139,6 +139,33 @@
 >
 >📬[阿里云邮箱](https://mail.aliyun.com)
 
+👉**其他邮箱**
+
+>[mail](https://mail.td/zh/mail)不错的临时邮箱，随机生成临时邮箱，支持的后缀较多，邮箱地址可以直接在浏览器地址栏复制。
+>
+>gmail 邮箱可以生成临时的 gmail 后缀邮箱，大部分网站都不会将 `@gmail.com` 加入黑名单。
+>
+>[临时gmail 邮箱1](https://www.emailnator.com/bulk-emails) | [临时 gmail 邮箱2](https://smailpro.com/advanced)
+>
+>> 临时邮箱 UI 很简洁，可以自定义也可以随机生成，重新生成可以保留之前的邮箱进行切换。
+>
+>[临时邮箱](https://www.snapmail.cc/)  | [临时邮箱](https://www.8164.cc/)  | [临时邮箱](https://linshiyou.com/)  | [临时邮箱](https://mail.tm/zh)  | [临时邮箱](https://www.linshi-email.com/)
+>
+>10minutemail（10 分钟邮箱）[10minutemail](https://10minutemail.com/)10 分钟邮箱，老牌网站 07 年稳定至今。
+>
+>[rootsh mail](https://rootsh.com/) （原 bccto.cc 支持绑定域名邮箱。支持切换多种域名后缀）
+>
+>打开 [maildrop](https://maildrop.cc/) 会自动生成一个临时的邮箱，如果你不想更改地址，可以直接点右上角的 Go 进入收件箱页面，也可以在右上角修改邮箱前缀地址，在进入临时收件箱页面。
+>
+>> 转发邮箱
+>
+>- [spamcage](https://www.spamcage.com/zh/forward)
+>- [遨游百变邮箱](https://www.uu.me/)
+>- [域名邮箱](https://laod.cn/tools/yumingyouxiang.html)
+>- [无限别名域名邮箱](https://haoduck.com/489.html)
+>
+>上方服务在保护隐私的同时，也能生成更多的临时邮箱。可以自定义邮箱然后转发给真实邮箱
+
 {{< /admonition >}}
 
 🌐 资源地址：[点击跳转](https://mail.tm/zh/)

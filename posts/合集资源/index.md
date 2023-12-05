@@ -134,6 +134,17 @@ https://lqzh.me/Shmily/
 Windows取证之导出微信&QQ聊天记录  
 https://saucer-man.com/information_security/1038.html 
 
+## 🐤语雀 Markdown 个人文档、图片备份脚本
+
+> 备份语雀 Markdown 格式文档及图片
+
+🛠**使用方式**
+
+> 打开[这里](https://ghproxy.com/https://gist.githubusercontent.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b/raw/efb88bd835e05555823cd195eb5f9ed2f73fdf14/yuque-markdown-download)，全选里面的代码，登陆语雀网页端后访问 https://www.yuque.com/dashboard 按 F12 或审查元素打开开发者工具，粘贴代码到控制台运行。
+> 下载过程中可能弹出提示：想要下载多个文件，请点击允许。
+
+📣代码地址：[点击查看](https://gist.github.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b)
+
 ------
 
 ## 🏖 解压网站
