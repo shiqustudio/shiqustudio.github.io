@@ -5,7 +5,7 @@
 
 <!--more-->
 
-## 本地视频播放软件![PT影视](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_22-34-02.jpg)
+## 本地视频播放软件
 
 ### PotPlayer
 
@@ -38,7 +38,7 @@
 
 ## 1\. 从主流视频平台下载
 
-### **1.1 从主流视频软件下载电影资源到本地播放**![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-04_22-47-05.jpg)
+### **1.1 从主流视频软件下载电影资源到本地播放**
 
 +   **[优酷](https://youku.com/) [爱奇艺](http://www.iqiyi.com/) [腾讯视频](https://v.qq.com/)** `优爱腾`视频下载后是各视频平台专有格式，用[转换工具](https://pan.baidu.com/s/11T-ht-YbJhIZyoMh5Atjtw?pwd=8jwj)转换成MP4即可
 +   **[哔哩哔哩](https://www.bilibili.com/)**
@@ -94,7 +94,7 @@ b 打开 任一视频解析网站 [http://www.mmore.xyz/](http://www.mmore.xyz/)
 
 ### 2.1 搜索引擎关键字搜索
 
-通过百度、谷歌等搜索引擎搜索影视资源  ![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_21-37-03.jpg)
+通过百度、谷歌等搜索引擎搜索影视资源 
 
 +   **例如： 找 `【转运手之恋】` 这部影片**
 
@@ -109,7 +109,7 @@ b 打开 任一视频解析网站 [http://www.mmore.xyz/](http://www.mmore.xyz/)
 **关键字**：`转运手之恋 百度云`  
 通过关键字搜索后即可找到相关内容，然后根据提供的链接下载即可  
 
-### 2.2 浏览器插件法![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_21-38-53.jpg)
+### 2.2 浏览器插件法
 
 #### ① 用豆瓣网 + 油猴插件脚本来搜索影视
 
@@ -147,7 +147,7 @@ b 打开 任一视频解析网站 [http://www.mmore.xyz/](http://www.mmore.xyz/)
 
 * * *
 
-## 3\. 微博博主分享![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_22-34-41.jpg)
+## 3\. 微博博主分享
 
 +   介绍几位微博博主会不定时在其微博下面分享一些影片、影评，喜欢淘片的可以去关注。  
     在微博这类博主很多，感兴趣搜索还有很多。
@@ -188,7 +188,7 @@ AGE动漫 [点击查看](https://www.agefans.vip/)
 
 ## 4.网盘搜索电影  
 
-**通过网盘搜索相关电影名**![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_21-52-27.jpg)  
+**通过网盘搜索相关电影名**  
 <!--小猪快盘 [https://www.xiaozhukuaipan.com/](https://www.xiaozhukuaipan.com/)-->
 
 👉阿里盘搜 [点击查看](https://www.alipansou.com/)
@@ -206,7 +206,7 @@ AGE动漫 [点击查看](https://www.agefans.vip/)
 
 * * *
 
-## 6\. PT影视论坛![PT影视](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_22-34-23.jpg)
+## 6\. PT影视论坛
 
 ### PT指南和教程
 
@@ -224,14 +224,14 @@ AGE动漫 [点击查看](https://www.agefans.vip/)
 **BT资源**  
 [搜索神器](https://github.com/xiandanin/magnetW) | [BT在线](https://docs.google.com/spreadsheets/d/e/2PACX-1vT1FVrTUd1coJcCXbrZwldQz0Zf6NGIiaMGQYGAD-IACM6PkauwlOQGu-zTMVvDWTdDxcRXm6SjngtQ/pubhtml?gid=1396124732&single=true)  
 
-## 8\. 资源分享
+## 7\. 资源分享
 
 > 5300部电影磁力合集 [链接](https://wwc.lanzoul.com/iqBKT05gloeb)  
 > 5320个4K蓝光原盘磁力 [链接](https://wwc.lanzoul.com/iQGy8092jgeb)
 
 * * *
 
-## 9\. 字幕下载![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_22-08-34.jpg)
+## 8\. 字幕下载
 
 ### 中文字幕
 
@@ -253,7 +253,7 @@ Addic7ed [点击查看](https://www.addic7ed.com/)
 
 * * *
 
-## 压制×264 ×265的电影字幕常用软件![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_22-10-16.jpg)
+## 压制×264 ×265的电影字幕常用软件
 
 ### 入门级
 
@@ -287,8 +287,6 @@ ffmpeg命令使用详解
 教程：[点击查看](https://zhuanlan.zhihu.com/p/91852363)
 
 * * *
-
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-05_22-16-17.jpg)
 
 ## 影片版本科普之一
 

@@ -14,7 +14,8 @@
 > 🌐[在线OCR5](https://www.gaitubao.com/tupian-wenzi)  
 > 🌐[在线OCR6](https://zhcn.109876543210.com/)  
 > 🌐[在线OCR7](https://catocr.com/#/)  
-> 🌐[在线OCR8](https://www.onlineocr.net/)
+> 🌐[在线OCR8](https://www.onlineocr.net/)  
+> 🌐[在线OCR9](https://olocr.com/zh-CN)
 
 ## 飞浆PaddleOCR
 
@@ -436,7 +437,7 @@
 
 ## 各平台OCR接口开通教程
 
-{{< image src="https://bib0.com/xc/i/2023/12/04/image-20231204153047684.png" alt="-" title="Fun's images" width="800px">}} 
+{{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205081905238.png" alt="-" title="Fun's images" width="800px">}} 
 
 ⭐️  资源描述：各平台OCR接口开通教程、常见问题、使用技巧
 
