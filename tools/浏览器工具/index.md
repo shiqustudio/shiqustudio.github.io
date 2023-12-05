@@ -1,7 +1,7 @@
 # 🕸️浏览器工具
 
 
-
+<!--more-->
 
 ### 拓展商店
 
@@ -18,9 +18,44 @@
 | ✅    | [Cnplugins](https://www.cnplugins.com/)   | **`可用`** |
 | ✅    | [Huajiakeji](https://huajiakeji.com/)     | **`可用`** |
 
+### 8KMM
+
+{{< image src="https://bib0.com/xc/i/2023/12/05/kbfr.gif" alt="-" title="Fun's images" width="800px">}}  
+
+{{< image src="https://bib0.com/xc/i/2023/12/05/2wh7.gif" alt="-" title="Fun's images" width="800px">}}
+
+⭐️  资源描述：[8KMM](https://s.8kmm.com/crx/) - 智能、简洁、美观、实用的 Chrome 浏览器起始页插件。
+
+>💥60 + 功能定制，即开即用，化繁为简！  
+>✨8K 起始页以最简洁的设计容纳诸多实用功能。
+>
+>✅**全能搜索框**  
+>优质网站一键直达 | 输入算式直接计算结果 | 一键翻译搜索内容 | 支持众多搜索引擎！
+>—— 助您事半功倍
+>
+>✅**网站捷径**  
+>添加您的常用网站，一键快捷访问。
+>
+>✅**搜索引擎侧栏**  
+>给各大主流搜索引擎增加侧栏，方便快捷切换获取不同的结果。
+>
+>✅**加密云便笺**  
+>随时记录您的灵感、待办事项和备忘清单，云端同步。👉[在线体验地址](https://www.8kmm.com/note/)
+>
+>✅**壁纸**  
+>将您喜爱的任意图片 \mp4 设为壁纸，或使用精选的动态壁纸。
+>
+>✅**随心自定义**  
+>60+ 个性化设置，打造专属于您的起始页。
+>
+>✅**其它功能**  
+>美化百度、快速收藏网址、番茄时钟、今日任务、天气日历、今日热点
+
+🌐 资源地址：🔗[Chrome 插件](https://s.8kmm.com/crx/) | 🔗[在线版](https://www.8kmm.com/bookmark/)
+
 ### Wiseone 
 
-{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175717484.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175717484.png" alt="-" title="Fun's images" width="800px">}}  
 
 ⭐️  资源描述：🌐[Wiseone](https://wiseone.io/) - 一款免费的 AI 总结网站插件
 
@@ -34,7 +69,7 @@
 
 ### Ambie
 
-{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175033818.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730175033818.png" alt="-" title="Fun's images" width="800px">}}  
 
 ⭐️  资源描述：🔊[Ambie](https://ambieapp.com/) - 可能是 Windows 上最好的白噪音应用程序
 
@@ -46,7 +81,7 @@
 
 ### Optimizer
 
-{{< image src="https://bib0.com/xc/i/2023/07/30/banner.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/30/banner.png" alt="-" title="Fun's images" width="800px">}}  
 
 ⭐️  资源描述：🛠️[Optimizer](https://github.com/hellzerg/optimizer)一款开源的 Windows 优化工具
 
@@ -58,7 +93,7 @@
 
 ### Mobile FIRST
 
-{{< image src="https://bib0.com/xc/i/2023/07/12/screenshot_1.c0cab30.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/12/screenshot_1.c0cab30.png" alt="-" title="Fun's images" width="800px">}}  
 
 ⭐️  资源描述：📱[Mobile FIRST](https://www.webmobilefirst.com/en/) - 一个模拟手机访问网站的浏览器插件
 
@@ -70,7 +105,7 @@
 
 ### 油小猴
 
-{{< image src="https://bib0.com/xc/i/2023/07/07/image-20230707092718422.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/07/image-20230707092718422.png" alt="-" title="Fun's images" width="800px">}}  
 
 ⭐️  资源描述：👉一个汇聚了各种黑科技的小站
 
@@ -81,7 +116,7 @@
 
 ### 猫抓
 
-{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704211022115.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/07/04/image-20230704211022115.png" alt="-" title="Fun's images" width="800px">}}  
 
 ⭐️  资源描述：😹[猫抓](https://github.com/xifangczy/cat-catch) - 一款开源的资源嗅探插件
 
@@ -93,7 +128,7 @@
 
 ### V2EX Polish
 
-{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629225754933.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629225754933.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
 
 ⭐️  描述：🅰[V2EX Polish](https://github.com/coolpace/V2EX_Polish) - 一款增强 V2EX 的浏览器插件
 
@@ -116,7 +151,7 @@
 
 ### SssBar
 
-{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629220135833.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629220135833.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
 
 ⭐️  描述：🔍[SssBar](https://bar.ssstab.com/)  - 一个在线工具聚合搜索网站
 
@@ -126,7 +161,7 @@
 
 ### ChatGPT for Google
 
-{{< image src="https://bib0.com/xc/i/2023/06/28/photo_2023-03-25_10-30-55.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   
+{{< image src="https://bib0.com/xc/i/2023/06/28/photo_2023-03-25_10-30-55.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}} 
 
 ⭐️  描述：搜索引擎加载ChatGPT
 
@@ -154,7 +189,7 @@
 
 ### tabliss
 
-{{< image src="https://bib0.com/xc/i/2023/06/27/Ql3jOK.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/27/Ql3jOK.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
 
 ⭐️  描述：🤖[**漂亮简洁的浏览器新标签页**](https://tabliss.io/)
 
@@ -165,7 +200,7 @@
 
 ### ZipZap
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623142711360.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623142711360.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
 
 ⭐️  描述：🤖[ZipZap - 一款基于 ChatGPT 免费 AI 浏览器助理](https://www.zipzap.ai/)
 
@@ -177,7 +212,7 @@
 
 ### 图片助手
 
-{{< image src="https://bib0.com/xc/i/2023/06/19/image-20230619215210442.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/19/image-20230619215210442.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
 
 ⭐️  描述：🖼[图片助手](https://www.pullywood.com/ImageAssistant/) - 一款用于嗅探、分析网页图片、图片筛选、下载等功能的浏览器插件
 
@@ -191,7 +226,7 @@
 
 ### Distill
 
-{{< image src="https://bib0.com/xc/i/2023/06/13/image-20230613214853409.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/13/image-20230613214853409.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
 
 ⭐️  描述：🔎[Distill](https://distill.io/) - 一个可以监控网页变动的通知工具
 
@@ -211,7 +246,7 @@
 
 ### 123浏览器 
 
-{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610082729049.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/10/image-20230610082729049.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
 
 ⭐️  描述：[123浏览器](https://123llq.com/) 不错的浏览器，可以试试。
 
