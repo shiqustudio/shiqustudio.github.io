@@ -9,31 +9,76 @@
 
 {{< admonition info >}} {{< typeit >}}📢 内容不定期更新...... {{< /typeit >}}{{< /admonition >}}
 
+## ⚙️工具合集
+
+| 资源信息                                 | 资源信息                                | 资源信息                                    | 资源信息                              |
+| :--------------------------------------- | :-------------------------------------- | :------------------------------------------ | :------------------------------------ |
+| [影视大全](/dailyshare/影视资源/)        | [音乐大全](/dailyshare/音乐资源合集/)   | [办公软件资源](/tools/软件资源/)            | [在线工具](/tools/在线工具/)          |
+| [浏览器工具](/tools/浏览器工具/)         | [线上转档](/tools/freetoolsonline/)     | [OpenAI 汇总](/posts/aisummary/)            | [AI工具汇总](/dailyshare/ai资源合集/) |
+| [GitHub 加速方法](/tools/github加速/)    | [资源搜索引擎](/posts/搜索引擎/)        | [隐私保护](/tools/隐私/)                    | [在线分享](/tools/在线分享/)          |
+| [图片编辑](/tools/图片编辑/)             | [图床大全](/tools/图片空间/)            | [文件存储](/tools/文件存储/)                | [短地址汇总](/tools/短链/)            |
+| [文献搜索](/books/书籍搜索/)             | [阅读大全](/books/zlibary/)             | [古籍查看](/website/识典古籍/)              | [网络安全](/tools/网络/)              |
+| [英语学习](/books/英语学习/)             | [英文翻译](/books/文档翻译/)            | [壁纸大全](/website/壁纸/)                  | [OCR识别](/tools/ocr识别/)            |
+| [精准云工具](https://tool.caoniang.com/) | [爱资料工具箱](https://www.toolnb.com/) | [在线 pdf 工具箱](https://tools.pdf24.org/) | [独特工具箱](https://www.dute.org/)   |
+
+## ⚔️常用在线工具
+
+| 资源信息                                               | 资源信息                                                     | 资源信息                                       | 资源信息                                         |
+| :----------------------------------------------------- | :----------------------------------------------------------- | :--------------------------------------------- | :----------------------------------------------- |
+| [文件传输](https://www.uhsea.com/)                     | [音乐下载](http://tools.liumingye.cn/music)                  | [每日早报](https://smzdk.top/)                 | [自由飞翔](https://gg.gg/17siih)                 |
+| [今日热榜](https://github.com/imsyy/DailyHot)          | [短视频解析](https://lab.5ime.cn/video/)                     | [记事本](https://text.is/)                     | [免费图床](https://img.ink/)                     |
+| [crx 搜搜](https://www.crxsoso.com/)                   | [企业查询](https://dingtalk.com/qidian/)                     | [ip 查询](https://ip.skk.moe/)                 | [在线小说](http://qidian.com/)                   |
+| [看杂志](http://qikan.lifves.com/)                     | [看报纸](http://www.53bk.com/Baokan/)                        | [电子书下载](https://www.book123.info/)        | [匿名分享](https://paste.fastmirror.net/)        |
+| [无版权音乐](https://www.chosic.com/free-music/all/)   | [在线影视](/dailyshare/影视资源/)                            | [论文下载](https://pubscholar.cn/)             | [在线翻译](https://transmart.qq.com/zh-CN/index) |
+| [tts 转语音](https://www.ttson.cn/)                    | [在线抠图](https://cutout.aiwave.cc/)                        | [高清壁纸](https://wallhere.com/)              | [缩短网址](https://zo.cm/)                       |
+| [今天吃啥](https://tool.browser.qq.com/whattoeat.html) | [图文 OCR](https://catocr.com/)                              | [改图神器](https://img.logosc.cn/bigjpg)       | [免费云手机](https://cloudphoneh5.buy.139.com/)  |
+| [文章润色](https://www.writingo.net/document)          | [视频创作](https://aigc.yizhentv.com/?_f=iui)                | [图片压缩](https://imgsmall.com/)              | [b 站下载](https://xbeibeix.com/api/bilibili/)   |
+| [在线 ps](https://www.nuanque.com/ps/)                 | [网页更新提醒](https://courier.toptopn.com/)                 | [找词找句](https://www.shenyandayi.com/)       | [生活急救指南](https://m.youlai.cn/jijiu)        |
+| [公共教育资源](https://www.smartedu.cn/)               | [免费音效下载](https://taira-komori.jpn.org/freesoundcn.html) | [错字校对](https://www.ijiaodui.com/workbench) | [智能法律咨询](https://ai.12348.gov.cn/)         |
+
+## 🛠️实用在线工具
+
+| 资源信息                                                 | 资源信息                                                     | 资源信息                                                     |
+| :------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| [在线笔记](https://sharenote.app/)                       | [电视直播源](https://live.fanmingming.com/)                  | [开发者备忘](https://quickref.cn/)                           |
+| [ppt 资源下载](https://www.ypppt.com/)                   | [在线 ppt 制作](https://pptist.gitee.io/)                    | [临时邮箱](https://www.snapmail.cc/)                         |
+| [网站打包下载](https://website-downloader.onrender.com/) | [图片处理](https://qingtu.cn/)                               | [为图配诗](https://shipian.zsio.net/)                        |
+| [行政区划查询](https://map.ruiduobao.com/)               | [艺术画作鉴赏](https://gallerix.asia/storeroom/306549019/N/1137642734/) | [网站分析](https://clarity.microsoft.com/)                   |
+| [打字练习](https://www.eletypes.com/)                    | [英文单词练习](https://qwerty.kaiyi.cool/gallery)            | [论文降重](https://www.xiegelunwen.com/)                     |
+| [课本教材](http://www.dzkbw.com/)                        | [密码生成](https://pass.fastmirror.net/)                     | [备胎书屋](https://beitai.cc/)                               |
+| [在线格式转换](https://convertio.co/zh/)                 | [阿里 ocr](https://duguang.aliyun.com/experience?type=universal&subtype=general_text#intro) | [在线白板](https://tools.fastmirror.net/douBoard/)           |
+| [视频 AI 转换文本](https://shihangbiji.com/)             | [写简历](https://www.polebrief.com/edit)                     | [表格转换工具](https://tableconvert.com/)                    |
+| [文案生成器](https://www.wenanabc.xyz/)                  | [音乐剪辑](https://vocalremover.org/ch/)                     | [跑马灯](https://tool.retiehe.com/marquee)                   |
+| [视频转 gif](https://dongci.kawo.com/)                   | [直播源转换](https://guihet.com/tvlistconvert.html)          | [图片转换器](https://renzhezhilu.gitee.io/webp2jpg-online/)  |
+| [在线图标制作](http://bingoicon.com/)                    | [图片编辑](https://3dimg.com/editor/)                        | [每日报告](https://www.mrbaogao.com/)                        |
+| [冷熊简历](https://cv.ftqq.com/)                         | [站长工具](https://ping.chinaz.com/)                         | [m3u8 下载](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) |
+| [相似词查询](https://kmcha.com/)                         | [宜家特价](https://ikea-lp.netlify.app/)                     | [免费 ocr 识别](https://pearocr.com/#/)                      |
+
 ## 📕 PDF处理工具推荐
 
 > 集合了很多 PDF 处理工具，支持格式转换、PDF 编辑、合并、分割、加水印、OCR 识别、压缩、签名、加密/解密、旋转等，功能非常丰富
 
-| 网站                  | 网址                                                         | 网站                           | 网址                                                         |
-| --------------------- | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ |
-| smallPDF              | [https://smallpdf.com/](https://smallpdf.com/)               | ALL TO ALL                     | [https://www.alltoall.net/](https://www.alltoall.net/)       |
-| Online OCR            | [https://www.onlineocr.net/](https://www.onlineocr.net/)     | inyWow                         | [https://tinywow.com/](https://tinywow.com/)                 |
-| PDF to Word Converter | [https://www.pdftoword.com/](https://www.pdftoword.com/)     | PDF转换器                      | [https://www.pdfwordconvert.com/zh/](https://www.pdfwordconvert.com/zh/) |
-| 加加PDF               | [https://www.addpdf.cn/pdf-to-word](https://www.addpdf.cn/pdf-to-word) | PDF转换                        | [https://www.onlinepdftoimage.com/zh/](https://www.onlinepdftoimage.com/zh/) |
-| ilovePDF              | [https://www.ilovepdf.com/](https://www.ilovepdf.com/)       | 免费在线PDF分配器              | [https://www.splitapdf.com/zh/](https://www.splitapdf.com/zh/) |
-| PDFconverter          | [https://www.pdfconverter.com](https://www.pdfconverter.com/) | 文件格式转换工具               | [https://www.aconvert.com/](https://www.aconvert.com/)       |
-| PDFbao                | [http://www.pdfbao.com/](http://www.pdfbao.com/)             | ZAMZAR                         | [https://www.zamzar.com/](https://www.zamzar.com/)           |
-| LightPDF              | [https://lightpdf.com/zh/](https://lightpdf.com/zh/)         | CAJ 转 PDF 转换器              | [https://caj2pdf-qt.sainnhe.dev/](https://caj2pdf-qt.sainnhe.dev/) |
-| cloudconvert          | [https://cloudconvert.com/pdf-to-doc](https://cloudconvert.com/pdf-to-doc) | Web Apps by 123apps            | [https://123apps.com/](https://123apps.com/)                 |
-| 迅捷PDF转换器         | [https://app.xunjiepdf.com/](https://app.xunjiepdf.com/)     | 立即翻译任何文档格式为任意语言 | [https://www.onlinedoctranslator.com/zh-CN/](https://www.onlinedoctranslator.com/zh-CN/) |
-| UPDF正文编辑          | [https://www.updf.cn/updf/](https://www.updf.cn/updf/)       | docsmall                       | [https://docsmall.com/](https://docsmall.com/)               |
-| PDF2go                | [https://www.pdf2go.com/zh/](https://www.pdf2go.com/zh/)     | HiPDF让PDF变得简单高效         | [https://www.hipdf.cn/](https://www.hipdf.cn/)               |
-| ABBYY FineReader      | [https://ocr.abbyy.cn/](https://ocr.abbyy.cn/)               | PDF派                          | [https://www.pdfpai.com/](https://www.pdfpai.com/)           |
-| PDF.IO                | [https://pdf.io/tw/](https://pdf.io/tw/)                     | onlineocr                      | [https://www.onlineocr.net/](https://www.onlineocr.net/)     |
-| PDFtodoc              | [http://pdf2doc.com/zh/](http://pdf2doc.com/zh/)             | rightpdf                       | [https://online.rightpdf.com/cn/office-to-pdf](https://online.rightpdf.com/cn/office-to-pdf) |
-| pdfcandy              | [https://pdfcandy.com/cn/](https://pdfcandy.com/cn/)         | PDF格式转换                    | [http://www.pdfbao.com/pdf2word.html](http://www.pdfbao.com/pdf2word.html) |
-| 记灵工具              | [https://remeins.com/](https://remeins.com/)                 | 将DOC/DOCX文档转换成PDF        | [https://doctopdf.com/zh/](https://doctopdf.com/zh/)         |
-| 超级PDF               | [https://xpdf.cn/](https://xpdf.cn/)                         | PDF Burger                     | [https://pdfburger.com/combine-to-pdf](https://pdfburger.com/combine-to-pdf) |
-| PDF24 Tools           | [https://tools.pdf24.org/zh/](https://tools.pdf24.org/zh/)   | PDF转换器                      | [https://pdf.to/](https://pdf.to/)                           |
+| 网址                                                | 网址                                                         |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| [smallPDF](https://smallpdf.com/)                   | [ALL TO ALL](https://www.alltoall.net/)                      |
+| [Online OCR](https://www.onlineocr.net/)            | [inyWow](https://tinywow.com/)                               |
+| [PDF to Word Converter](https://www.pdftoword.com/) | [PDF转换器](https://www.pdfwordconvert.com/zh/)              |
+| [加加PDF](https://www.addpdf.cn/pdf-to-word)        | [PDF转换](https://www.onlinepdftoimage.com/zh/)              |
+| [ilovePDF](https://www.ilovepdf.com/)               | [免费在线PDF分配器](https://www.splitapdf.com/zh/)           |
+| [PDFconverter](https://www.pdfconverter.com/)       | [文件格式转换工具](https://www.aconvert.com/)                |
+| [PDFbao](http://www.pdfbao.com/)                    | [ZAMZAR](https://www.zamzar.com/)                            |
+| [LightPDF](https://lightpdf.com/zh/)                | [CAJ 转 PDF 转换器](https://caj2pdf-qt.sainnhe.dev/)         |
+| [cloudconvert](https://cloudconvert.com/pdf-to-doc) | [Web Apps by 123apps](https://123apps.com/)                  |
+| [迅捷PDF转换器](https://app.xunjiepdf.com/)         | [立即翻译任何文档格式为任意语言](https://www.onlinedoctranslator.com/zh-CN/) |
+| [UPDF正文编辑](https://www.updf.cn/updf/)           | [docsmall](https://docsmall.com/)                            |
+| [PDF2go](https://www.pdf2go.com/zh/)                | [HiPDF让PDF变得简单高效](https://www.hipdf.cn/)              |
+| [ABBYY FineReader](https://ocr.abbyy.cn/)           | [PDF派](https://www.pdfpai.com/)                             |
+| [PDF.IO](https://pdf.io/tw/)                        | [onlineocr](https://www.onlineocr.net/)                      |
+| [PDFtodoc](http://pdf2doc.com/zh/)                  | [rightpdf](https://online.rightpdf.com/cn/office-to-pdf)     |
+| [pdfcandy](https://pdfcandy.com/cn/)                | [PDF格式转换](http://www.pdfbao.com/pdf2word.html)           |
+| [记灵工具](https://remeins.com/)                    | [将DOC/DOCX文档转换成PDF](https://doctopdf.com/zh/)          |
+| [超级PDF](https://xpdf.cn/)                         | [PDF Burger](https://pdfburger.com/combine-to-pdf)           |
+| [PDF24 Tools](https://tools.pdf24.org/zh/)          | [PDF转换器](https://pdf.to/)                                 |
 
 * * *
 
@@ -41,18 +86,18 @@
 
 > 一些机器人服务工具，免费付费的都有
 
-| 网站                 | 网址                                                         | 简介                                                         |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 傻妞机器人           | [https://github.com/cdle/sillyGirl](https://github.com/cdle/sillyGirl) |                                                              |
-| 图灵机器人           | [http://www.turingapi.com/](http://www.turingapi.com/)       | 需求实名制认证，并每天免费数量只有 100 条                    |
-| 青云客智能聊天机器人 | [http://api.qingyunke.com/](http://api.qingyunke.com/)       | 无须申请，无数量限制，但有点智障，分手神器。分手神器，慎用   |
-| 智能闲聊（腾讯）     | [https://ai.qq.com/](https://ai.qq.com/)                     | 申请使用，免费且无限量。大厂靠谱                             |
-| 天行机器人           | [https://www.tianapi.com/apiview/47](https://www.tianapi.com/apiview/47) | 认证后有 7 万条免费使用。之后收费：1 万条/1 块钱             |
-| 海知智能             | [https://ruyi.ai/](https://ruyi.ai/)                         | 功能很强大，不仅仅用于聊天。需申请 key，免费                 |
-| 思知对话机器人       | [https://www.ownthink.com/](https://www.ownthink.com/)       | 免费，可不申请 appid                                         |
-| 一个AI               | [http://www.yige.ai/](http://www.yige.ai/)                   | 免费且无数量限制。可自定义回复、对话、场景。但高级功能使用比较复杂。但已长时间没人维护 |
-| 小I机器人            | [https://www.xiaoi.com/index](https://www.xiaoi.com/index)   |                                                              |
-| 茉莉机器人           | [https://mlyai.com/](https://mlyai.com/)                     |                                                              |
+| 网址                                              | 简介                                                         |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| [傻妞机器人](https://github.com/cdle/sillyGirl)   |                                                              |
+| [图灵机器人](http://www.turingapi.com/)           | 需求实名制认证，并每天免费数量只有 100 条                    |
+| [青云客智能聊天机器人](http://api.qingyunke.com/) | 无须申请，无数量限制，但有点智障，分手神器。分手神器，慎用   |
+| [智能闲聊（腾讯）](https://ai.qq.com/)            | 申请使用，免费且无限量。大厂靠谱                             |
+| [天行机器人](https://www.tianapi.com/apiview/47)  | 认证后有 7 万条免费使用。之后收费：1 万条/1 块钱             |
+| [海知智能](https://ruyi.ai/)                      | 功能很强大，不仅仅用于聊天。需申请 key，免费                 |
+| [思知对话机器人](https://www.ownthink.com/)       | 免费，可不申请 appid                                         |
+| [一个AI](http://www.yige.ai/)                     | 免费且无数量限制。可自定义回复、对话、场景。但高级功能使用比较复杂。但已长时间没人维护 |
+| [小I机器人](https://www.xiaoi.com/index)          |                                                              |
+| [茉莉机器人](https://mlyai.com/)                  |                                                              |
 
 * * *
 
@@ -151,21 +196,16 @@ https://saucer-man.com/information_security/1038.html
 
 > 有趣的解压创意网站，在工作、生活中添加一些乐趣
 
-| 网站                                               | 网址                                                         | 简介                                         |
-| -------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- |
-| 1\. Earth.fm                                       | [https://earth.fm/](https://earth.fm/)                       | 一个可以聆听来自世界各地的自然声音的网站     |
-| 2\. 动感解压节奏                                   | [https://aidn.jp/mikutap/](https://aidn.jp/mikutap/)         | 配合空格键和鼠标按键敲出节奏                 |
-| 3\. 弹力球                                         | [https://bouncyballs.org/](https://bouncyballs.org/)         | 可以选择球的外观——塑料、气泡、表情符号或眼球 |
-| 球会根据麦克风（和声音）和鼠标的点击来进行跳动     |                                                              |                                              |
-| 可以播放一段音乐，会发生变化                       |                                                              |                                              |
-| 4\. Patatap                                        | [https://www.patatap.com/](https://www.patatap.com/)         | 敲击键盘，就会通过声音和简短的动画           |
-| 按空格切换背景和模式                               |                                                              |                                              |
-| 5\. Pixel Thoughts                                 | [https://www.pixelthoughts.co/#](https://www.pixelthoughts.co/#) | 把你的压力写上去                             |
-| 网站可以带你进行 60 秒的冥想课程，为您提供最佳体验 |                                                              |                                              |
-| 6.A Soft Murmur                                    | [https://asoftmurmur.com/](https://asoftmurmur.com/)         | 使用该网站来创建令人敬畏且富有成效的环境噪音 |
-| 7\. 找到隐藏的牛                                   | [https://findtheinvisiblecow.com/](https://findtheinvisiblecow.com/) | 移动你的鼠标直到你找到了隐藏的牛             |
-| 你鼠标离得越近，它叫的越响                         |                                                              |                                              |
-| 8\. 创造你的沙画                                   | [https://thisissand.com/](https://thisissand.com/)           | 在电脑屏幕前创造一幅沙画                     |
+| 网址                                             | 简介                                                         |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| [ Earth.fm](https://earth.fm/)                   | 一个可以聆听来自世界各地的自然声音的网站                     |
+| [动感解压节奏](https://aidn.jp/mikutap/)         | 配合空格键和鼠标按键敲出节奏                                 |
+| [弹力球](https://bouncyballs.org/)               | 可以选择球的外观——塑料、气泡、表情符号或眼球，球会根据麦克风（和声音）和鼠标的点击来进行跳动，可以播放一段音乐，会发生变化 |
+| [Patatap](https://www.patatap.com/)              | 敲击键盘，就会通过声音和简短的动画，按空格切换背景和模式     |
+| [Pixel Thoughts](https://www.pixelthoughts.co/#) | 把你的压力写上去，网站可以带你进行 60 秒的冥想课程，为您提供最佳体验 |
+| [A Soft Murmur](https://asoftmurmur.com/)        | 使用该网站来创建令人敬畏且富有成效的环境噪音                 |
+| [找到隐藏的牛](https://findtheinvisiblecow.com/) | 移动你的鼠标直到你找到了隐藏的牛，你鼠标离得越近，它叫的越响 |
+| [创造你的沙画](https://thisissand.com/)          | 在电脑屏幕前创造一幅沙画                                     |
 
 * * *
 
@@ -173,19 +213,19 @@ https://saucer-man.com/information_security/1038.html
 
 > 一些新媒体人必备的文案素材网站，不论你是不会写文、没有题材还是缺乏灵感，看看这些都足以帮你解决问题，写出优秀的文案
 
-| 网站          | 网址                                                         | 简介                               |
-| ------------- | ------------------------------------------------------------ | ---------------------------------- |
-| 1\. 文案迷    | [http://www.wenanmi.com/](http://www.wenanmi.com/)           | 专注于广告文案                     |
-| 2\. 素材巷    | [http://www.sucaixiang.com/](http://www.sucaixiang.com/)     | 分享文字素材的资源平台             |
-| 3\. 小鸡词典  | [https://jikipedia.com/](https://jikipedia.com/)             | 汇集最新网络热梗                   |
-| 4\. 学句子    | [http://www.xuejuzi.cn/](http://www.xuejuzi.cn/)             | 唯美句子大全                       |
-| 5\. addog     | [https://www.addog.vip/](https://www.addog.vip/)             | 广告人的网址导航                   |
-| 6\. 名言通    | [https://www.mingyantong.com/](https://www.mingyantong.com/) | 提供高品质名言的专业网站           |
-| 7\. 句子控    | [https://www.juzikong.com/](https://www.juzikong.com/)       | 文字分享社区                       |
-| 8\. 广告门    | [https://www.adquan.com/](https://www.adquan.com/)           | 聚集行业顶尖广告创意文案制作人才   |
-| 9\. 数英网    | [https://www.digitaling.com/](https://www.digitaling.com/)   | 汇集大量优秀营销案例，激发文案灵感 |
-| 10\. 押韵助手 | [https://yayun.la/](https://yayun.la/)                       | 辅助词句押韵的在线工具             |
-| 11\. 句易网   | [http://www.ju1.cn/](http://www.ju1.cn/)                     | 敏感、违禁词汇查询                 |
+| 网址                                   | 简介                               |
+| -------------------------------------- | ---------------------------------- |
+| [文案迷](http://www.wenanmi.com/)      | 专注于广告文案                     |
+| [素材巷](http://www.sucaixiang.com/)   | 分享文字素材的资源平台             |
+| [小鸡词典](https://jikipedia.com/)     | 汇集最新网络热梗                   |
+| [ 学句子](http://www.xuejuzi.cn/)      | 唯美句子大全                       |
+| [addog](https://www.addog.vip/)        | 广告人的网址导航                   |
+| [名言通](https://www.mingyantong.com/) | 提供高品质名言的专业网站           |
+| [ 句子控](https://www.juzikong.com/)   | 文字分享社区                       |
+| [ 广告门](https://www.adquan.com/)     | 聚集行业顶尖广告创意文案制作人才   |
+| [数英网](https://www.digitaling.com/)  | 汇集大量优秀营销案例，激发文案灵感 |
+| [押韵助手](https://yayun.la/)          | 辅助词句押韵的在线工具             |
+| [句易网](http://www.ju1.cn/)           | 敏感、违禁词汇查询                 |
 
 * * *
 
