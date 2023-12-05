@@ -50,7 +50,7 @@
 | [视频 AI 转换文本](https://shihangbiji.com/)             | [写简历](https://www.polebrief.com/edit)                     | [表格转换工具](https://tableconvert.com/)                    |
 | [文案生成器](https://www.wenanabc.xyz/)                  | [音乐剪辑](https://vocalremover.org/ch/)                     | [跑马灯](https://tool.retiehe.com/marquee)                   |
 | [视频转 gif](https://dongci.kawo.com/)                   | [直播源转换](https://guihet.com/tvlistconvert.html)          | [图片转换器](https://renzhezhilu.gitee.io/webp2jpg-online/)  |
-| [在线图标制作](http://bingoicon.com/)                    | [图片编辑](https://3dimg.com/editor/)                        | [每日报告](https://www.mrbaogao.com/)                        |
+| [在线图标制作](http://bingoicon.com/)                    | [图片编辑](https://3dimg.com/editor/)                        | [书签导航 (xybin.top)](https://nav.xybin.top/?u=xybin)       |
 | [冷熊简历](https://cv.ftqq.com/)                         | [站长工具](https://ping.chinaz.com/)                         | [m3u8 下载](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) |
 | [相似词查询](https://kmcha.com/)                         | [宜家特价](https://ikea-lp.netlify.app/)                     | [免费 ocr 识别](https://pearocr.com/#/)                      |
 
