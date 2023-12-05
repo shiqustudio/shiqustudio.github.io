@@ -6,6 +6,50 @@
 
 <!--more-->
 
+### 常用在线工具
+
+| 资源信息                                               | 资源信息                                                     | 资源信息                                       | 资源信息                                         |
+| :----------------------------------------------------- | :----------------------------------------------------------- | :--------------------------------------------- | :----------------------------------------------- |
+| [文件传输](https://www.uhsea.com/)                     | [音乐下载](http://tools.liumingye.cn/music)                  | [每日早报](https://smzdk.top/)                 | [自由飞翔](https://gg.gg/17siih)                 |
+| 今日热榜                                               | [短视频解析](https://lab.5ime.cn/video/)                     | [记事本](https://text.is/)                     | [免费图床](https://img.ink/)                     |
+| [crx 搜搜](https://www.crxsoso.com/)                   | [企业查询](https://dingtalk.com/qidian/)                     | [ip 查询](https://ip.skk.moe/)                 | [在线小说](http://qidian.com/)                   |
+| [看杂志](http://qikan.lifves.com/)                     | [看报纸](http://www.53bk.com/Baokan/)                        | [电子书下载](https://www.book123.info/)        | [匿名分享](https://paste.fastmirror.net/)        |
+| [无版权音乐](https://www.chosic.com/free-music/all/)   | 在线影视                                                     | [论文下载](https://pubscholar.cn/)             | [在线翻译](https://transmart.qq.com/zh-CN/index) |
+| [tts 转语音](https://www.ttson.cn/)                    | [在线抠图](https://cutout.aiwave.cc/)                        | [高清壁纸](https://wallhere.com/)              | [缩短网址](https://zo.cm/)                       |
+| [今天吃啥](https://tool.browser.qq.com/whattoeat.html) | [图文 OCR](https://catocr.com/)                              | [改图神器](https://img.logosc.cn/bigjpg)       | [免费云手机](https://cloudphoneh5.buy.139.com/)  |
+| [文章润色](https://www.writingo.net/document)          | [视频创作](https://aigc.yizhentv.com/?_f=iui)                | [图片压缩](https://imgsmall.com/)              | [b 站下载](https://xbeibeix.com/api/bilibili/)   |
+| [在线 ps](https://www.nuanque.com/ps/)                 | [网页更新提醒](https://courier.toptopn.com/)                 | [找词找句](https://www.shenyandayi.com/)       | [生活急救指南](https://m.youlai.cn/jijiu)        |
+| [公共教育资源](https://www.smartedu.cn/)               | [免费音效下载](https://taira-komori.jpn.org/freesoundcn.html) | [错字校对](https://www.ijiaodui.com/workbench) | [智能法律咨询](https://ai.12348.gov.cn/)         |
+
+### 实用在线工具
+
+| 资源信息                                                 | 资源信息                                                     | 资源信息                                                     |
+| :------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| [在线笔记](https://sharenote.app/)                       | [电视直播源](https://live.fanmingming.com/)                  | [开发者备忘](https://quickref.cn/)                           |
+| [ppt 资源下载](https://www.ypppt.com/)                   | [在线 ppt 制作](https://pptist.gitee.io/)                    | [临时邮箱](https://www.snapmail.cc/)                         |
+| [网站打包下载](https://website-downloader.onrender.com/) | [图片处理](https://qingtu.cn/)                               | [为图配诗](https://shipian.zsio.net/)                        |
+| [行政区划查询](https://map.ruiduobao.com/)               | [艺术画作鉴赏](https://gallerix.asia/storeroom/306549019/N/1137642734/) | [网站分析](https://clarity.microsoft.com/)                   |
+| [打字练习](https://www.eletypes.com/)                    | [英文单词练习](https://qwerty.kaiyi.cool/gallery)            | [论文降重](https://www.xiegelunwen.com/)                     |
+| [课本教材](http://www.dzkbw.com/)                        | [密码生成](https://pass.fastmirror.net/)                     | [备胎书屋](https://beitai.cc/)                               |
+| [在线格式转换](https://convertio.co/zh/)                 | [阿里 ocr](https://duguang.aliyun.com/experience?type=universal&subtype=general_text#intro) | 加密格式音乐解锁                                             |
+| [视频 AI 转换文本](https://shihangbiji.com/)             | [写简历](https://www.polebrief.com/edit)                     | [表格转换工具](https://tableconvert.com/)                    |
+| [文案生成器](https://www.wenanabc.xyz/)                  | [音乐剪辑](https://vocalremover.org/ch/)                     | [跑马灯](https://tool.retiehe.com/marquee)                   |
+| [视频转 gif](https://dongci.kawo.com/)                   | [直播源转换](https://guihet.com/tvlistconvert.html)          | [图片转换器](https://renzhezhilu.gitee.io/webp2jpg-online/)  |
+| [在线图标制作](http://bingoicon.com/)                    | [图片编辑](https://3dimg.com/editor/)                        | 支付宝到账语音                                               |
+| [冷熊简历](https://cv.ftqq.com/)                         | [站长工具](https://ping.chinaz.com/)                         | [m3u8 下载](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) |
+| [相似词查询](https://kmcha.com/)                         | [宜家特价](https://ikea-lp.netlify.app/)                     | [免费 ocr 识别](https://pearocr.com/#/)                      |
+
+### 工具合集
+
+| 资源信息        | 资源信息                                | 资源信息                                    | 资源信息                            |
+| :-------------- | :-------------------------------------- | :------------------------------------------ | :---------------------------------- |
+| 影视在线大全    | 音乐在线大全                            | 短信接码网站                                | tts 转语音服务                      |
+| GitHub 加速方法 | 资源搜索引擎                            | ChatGPT OpenAI 汇总                         | 国内在线分享服务                    |
+| 图片压缩网站    | 在线抠图大全                            | 免费文件存储                                | 临时邮箱大全                        |
+| 免费图床大全    | 二维码生成                              | 短地址汇总                                  | ip 查询大全                         |
+| 免费电子书下载  | 免费壁纸大全                            | 资源搜索大全                                | 国内好用的搜索引擎                  |
+| 小白工具箱      | [爱资料工具箱](https://www.toolnb.com/) | [在线 pdf 工具箱](https://tools.pdf24.org/) | [独特工具箱](https://www.dute.org/) |
+
 ### FastMirror
 
 {{< image src="https://bib0.com/xc/i/2023/11/27/image-20231127100058845.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

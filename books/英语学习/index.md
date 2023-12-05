@@ -228,9 +228,11 @@
 >
 >**📕[1000个最常用的英语单词的列表](https://gonaturalenglish.com/1000-most-common-words-in-the-english-language/)** ⭐
 >
->**[📕 单词词汇](https://downloads.freemdict.com/#%E4%B8%AD%E6%96%87)** ⭐
+>📕**[单词词汇](https://downloads.freemdict.com/#%E4%B8%AD%E6%96%87)** ⭐
 >
->**[📕 常用英语词汇表](https://github.com/jnoodle/English-Vocabulary-Word-List)** ⭐
+>📕**[常用英语词汇表](https://github.com/jnoodle/English-Vocabulary-Word-List)** ⭐
+>
+>📕[**英语词库**](https://www.mffac.com/)⭐
 
 ## 学习指南
 

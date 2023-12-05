@@ -1,6 +1,8 @@
 # 🔐隐私保护
 
 
+### 免费短信
+
 ### 临时邮箱
 
 {{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625211501107.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
@@ -182,7 +184,7 @@
 >
 >提供桌面共享、文本聊天和简单邀请链接等功能。借助 Javascript 和 Vue 的知识，可以轻松添加更多内容。
 
-🌐 资源地址：[点击跳转](https://brie.fi/ng)|[Github地址](https://github.com/holtwick/briefing/)
+🌐 资源地址：[点击跳转](https://brie.fi/ng) | [Github地址](https://github.com/holtwick/briefing/)
 
 
 

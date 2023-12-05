@@ -18,9 +18,13 @@
 🎵 [在线音乐频道4](https://tonzhon.com/)  
 🎵 [在线音乐频道5](http://ayy.ayxhk.com/)  
 🎵 [在线音乐频道6](https://peal.cc/player)  
-🎵 [在线音乐频道7](https://www.yinyue.love/?ref=yinyueke.net)
+🎵 [在线音乐频道7](https://www.yinyue.love/?ref=yinyueke.net)  
+🎵[在线音乐频道8](https://www.fangpi.net/)   
+🎵[在线音乐频道9](https://www.gequbao.com/)   
+🎵[在线音乐频道10](https://music.dogged.cn/)  
+🎵[在线音乐频道11](https://www.musicenc.com/) 
 
- {{< /admonition >}}
+{{< /admonition >}}
 
 {{< admonition info "MP3 下载站">}} 
 
@@ -38,6 +42,34 @@
  {{< /admonition >}}
 
 ## 音乐软件
+
+### 卡音
+
+⭐️**软件说明**：卡音 - 一款拥有三个搜索引擎、支持无损下载歌曲的安卓音乐软件。
+
+🎉**功能支持**：
+
+> 音乐解析音质 - 标准、极高、无损、Hi-Res  
+> 短视频无水印下载  
+> 100+ 免费在线功能
+
+📌**平台支持：安卓**
+
+🌐**资源地址**：🔗[官网地址](http://music.ijanz.cn/) | 🔽[点击下载](http://y.ijanz.cn/api.php?act=down)
+
+{{< image src="https://bib0.com/xc/i/2023/12/05/app.png" alt="-" title="Fun's images" width="800px">}}
+
+### Audiomack 
+
+⭐️**软件说明**：Audiomack 是一个音乐共享和发现平台，同时提供了音乐播放下载，支持 iOS、Android、Web，可以试听和下载免费歌曲。
+
+🎉**功能支持**： 注册用户可以无限制的免费上传音频，并且**不限制任何内容** 歌曲来自用户上传，英文和小语种歌曲较全，中文歌曲没有国内的平台完善。👉**安卓 app 有广告并且 bug 较多不推荐，iOS 相对好用**。
+
+📌**平台支持**：iOS、Android、Web
+
+🌐**资源地址**：🔗[官网地址](https://audiomack.com/) | 🔽[iOS点击下载](https://apps.apple.com/cn/app/audiomack-stream-new-music/id921765888) 
+
+{{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205150936802.png" alt="-" title="Fun's images" width="800px">}}
 
 ### NCMD
 
