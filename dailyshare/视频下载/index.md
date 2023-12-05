@@ -514,6 +514,24 @@
 
 🌐资源地址：🧩[开源资源](https://github.com/KurtBestor/Hitomi-Downloader "GitHub") | 🔽[开源资源下载](https://github.com/KurtBestor/Hitomi-Downloader/releases/tag/v3.8f)
 
+>📑**相关阅读**
+>
+>⏬分享一些开源的视频下载工具，比起第三方网页工具的优点是限制少速度快，缺点是需要自己部署
+>
+>[121k youtube-dl：支持网站最多](https://github.com/ytdl-org/youtube-dl)
+>
+>[47.8k yt-dlp：楼上的修改版](https://github.com/yt-dlp/yt-dlp)
+>
+>[47.4k you-get：支持国内网站最多](https://github.com/soimort/you-get)
+>
+>[21.1k lux：新晋下载工具，主打速度快](https://github.com/iawia002/lux)
+>
+>[14k Hitomi-Downloader：有客户端，支持多种文件格式](https://github.com/KurtBestor/Hitomi-Downloader)
+>
+>[5.4k BBDown：B 站视频下载](https://github.com/nilaoda/BBDown)
+>
+>[1.6k tdl：电报无限制下载工具](https://github.com/iyear/tdl)
+
 {{< image src="https://bib0.com/xc/i/2023/12/05/how_to_download.gif" alt="-" title="Fun's images" width="800px">}}  
 
 ### 3\. Gihosoft TubeGet
