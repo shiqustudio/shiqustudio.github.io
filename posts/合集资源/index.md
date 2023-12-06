@@ -104,31 +104,18 @@
 
 > 微信 or QQ机器人、微信群管理、多开等辅助工具
 
-| 网站                                          | 网址                                                         | 简介                                             |
-| --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
-| 茉莉QQ机器人                                  | [项目](https://github.com/xggz/mqr) 📍 [文档](http://mqr.molicloud.com/) | 采用mirai的Android协议实现的QQ机器人服务，       |
-| 通过web控制机器人的启停和配置                 |                                                              |                                                  |
-| QQBotHub                                      | [项目](https://github.com/yiyungent/QQBotHub) 📍 [文档](https://moeci.com/QQBotHub/#/) | QQ 机器人,基于 Konata.Core, 一键免费部署         |
-| 高效率 QQ 机器人支持库                        | [项目](https://github.com/mamoe/mirai)                       | mirai 是一个在全平台下运行，                     |
-| 提供 QQ Android 协议支持的高效率机器人库      |                                                              |                                                  |
-| 微信SDK                                       | [项目](https://github.com/silenceper/wechat) 📍 [文档](https://silenceper.com/wechat/) | 使用Golang开发的微信SDK，简单、易用。            |
-| 微信助手                                      | [项目](https://github.com/sfyc23/EverydayWechat)             | 1.每日定时给好友（女友）发送定制消息。           |
-| 2.机器人自动回复好友。                        |                                                              |                                                  |
-| 3.群助手功能                                  |                                                              |                                                  |
-| （例如：查询垃圾分类、天气、日历、            |                                                              |                                                  |
-| 电影实时票房、快递物流、PM2.5等）             |                                                              |                                                  |
-| 微信每日说                                    | [项目](https://github.com/leochen-g/wechatBot)               | 教你用Node做一个微信哄女友(基友)神器！           |
-| 还能帮女朋友解决垃圾分类难题                  |                                                              |                                                  |
-| WxPusher (微信推送服务)                       | [项目](https://github.com/wxpusher/wxpusher-sdk-java/) 📍 [文档](https://wxpusher.zjiecode.com/docs/#/) | 一个使用微信公众号作为通道的，实时信息推送平台， |
-| 你可以通过调用API的方式，把信息推送到微信上， |                                                              |                                                  |
-| 无需安装额外的软件，即可做到信息实时通知。    |                                                              |                                                  |
-| 你可以使用WxPusher来做服务器报警通知、        |                                                              |                                                  |
-| 抢课通知、抢票通知，信息更新提示等。          |                                                              |                                                  |
-| 贴心小助手客户端                              | [项目](https://github.com/lizhounet/wx-intimate-pro)         | 微信机器人, 群管理、头像处理、智能机器人对话、   |
-| 好友互动、定时任务，情侣每日说等功能的配置    |                                                              |                                                  |
-| itchat开源的微信个人号接口                    | [项目](https://github.com/littlecodersh/ItChat) 📍 [文档](https://itchat.readthedocs.io/zh/latest/) | 微信个人号接口、微信机器人及命令行微信，         |
-| 三十行即可自定义个人号机器人                  |                                                              |                                                  |
-| Wechaty                                       | [项目](https://github.com/wechaty/wechaty) 📍 [文档](https://wechaty.gitbook.io/wechaty/v/zh/) | 一个开源的的对话机器人 SDK，支持 个人号 微信     |
+| 网站                       | 网址                                                         | 简介                                                         |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 茉莉QQ机器人               | [项目](https://github.com/xggz/mqr) 📍 [文档](http://mqr.molicloud.com/) | 采用mirai的Android协议实现的QQ机器人服务，通过web控制机器人的启停和配置 |
+| QQBotHub                   | [项目](https://github.com/yiyungent/QQBotHub) 📍 [文档](https://moeci.com/QQBotHub/#/) | QQ 机器人,基于 Konata.Core, 一键免费部署                     |
+| 高效率 QQ 机器人支持库     | [项目](https://github.com/mamoe/mirai)                       | mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效率机器人库 |
+| 微信SDK                    | [项目](https://github.com/silenceper/wechat) 📍 [文档](https://silenceper.com/wechat/) | 使用Golang开发的微信SDK，简单、易用。                        |
+| 微信助手                   | [项目](https://github.com/sfyc23/EverydayWechat)             | 1.每日定时给好友（女友）发送定制消息。<br />2.机器人自动回复好友。<br />3.群助手功能<br />（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等） |
+| 微信每日说                 | [项目](https://github.com/leochen-g/wechatBot)               | 教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题 |
+| WxPusher (微信推送服务)    | [项目](https://github.com/wxpusher/wxpusher-sdk-java/) 📍 [文档](https://wxpusher.zjiecode.com/docs/#/) | 一个使用微信公众号作为通道的，实时信息推送平台，你可以通过调用API的方式，把信息推送到微信上，无需安装额外的软件，即可做到信息实时通知。你可以使用WxPusher来做服务器报警通知、抢课通知、抢票通知，信息更新提示等。 |
+| 贴心小助手客户端           | [项目](https://github.com/lizhounet/wx-intimate-pro)         | 微信机器人, 群管理、头像处理、智能机器人对话、好友互动、定时任务，情侣每日说等功能的配置 |
+| itchat开源的微信个人号接口 | [项目](https://github.com/littlecodersh/ItChat) 📍 [文档](https://itchat.readthedocs.io/zh/latest/) | 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人 |
+| Wechaty                    | [项目](https://github.com/wechaty/wechaty) 📍 [文档](https://wechaty.gitbook.io/wechaty/v/zh/) | 一个开源的的对话机器人 SDK，支持 个人号 微信                 |
 
 ------
 
