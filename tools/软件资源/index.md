@@ -118,7 +118,7 @@
 
 🌐**网站地址：**[点击跳转](https://w14.monkrus.ws/)
 
-![](https://eureka-1302416167.cos.ap-nanjing.myqcloud.com/img/Snipaste_2022-08-28_21-12-59.jpg)
+{{< image src="https://bib0.com/xc/i/2023/12/06/image-20231206080537312.png" alt="-" title="Fun's images">}}  
 
 ## 软件仓库
 
