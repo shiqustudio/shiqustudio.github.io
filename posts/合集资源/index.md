@@ -58,27 +58,28 @@
 
 > 集合了很多 PDF 处理工具，支持格式转换、PDF 编辑、合并、分割、加水印、OCR 识别、压缩、签名、加密/解密、旋转等，功能非常丰富
 
-| 网址                                                | 网址                                                         |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| [smallPDF](https://smallpdf.com/)                   | [ALL TO ALL](https://www.alltoall.net/)                      |
-| [Online OCR](https://www.onlineocr.net/)            | [inyWow](https://tinywow.com/)                               |
-| [PDF to Word Converter](https://www.pdftoword.com/) | [PDF转换器](https://www.pdfwordconvert.com/zh/)              |
-| [加加PDF](https://www.addpdf.cn/pdf-to-word)        | [PDF转换](https://www.onlinepdftoimage.com/zh/)              |
-| [ilovePDF](https://www.ilovepdf.com/)               | [免费在线PDF分配器](https://www.splitapdf.com/zh/)           |
-| [PDFconverter](https://www.pdfconverter.com/)       | [文件格式转换工具](https://www.aconvert.com/)                |
-| [PDFbao](http://www.pdfbao.com/)                    | [ZAMZAR](https://www.zamzar.com/)                            |
-| [LightPDF](https://lightpdf.com/zh/)                | [CAJ 转 PDF 转换器](https://caj2pdf-qt.sainnhe.dev/)         |
-| [cloudconvert](https://cloudconvert.com/pdf-to-doc) | [Web Apps by 123apps](https://123apps.com/)                  |
-| [迅捷PDF转换器](https://app.xunjiepdf.com/)         | [立即翻译任何文档格式为任意语言](https://www.onlinedoctranslator.com/zh-CN/) |
-| [UPDF正文编辑](https://www.updf.cn/updf/)           | [docsmall](https://docsmall.com/)                            |
-| [PDF2go](https://www.pdf2go.com/zh/)                | [HiPDF让PDF变得简单高效](https://www.hipdf.cn/)              |
-| [ABBYY FineReader](https://ocr.abbyy.cn/)           | [PDF派](https://www.pdfpai.com/)                             |
-| [PDF.IO](https://pdf.io/tw/)                        | [onlineocr](https://www.onlineocr.net/)                      |
-| [PDFtodoc](http://pdf2doc.com/zh/)                  | [rightpdf](https://online.rightpdf.com/cn/office-to-pdf)     |
-| [pdfcandy](https://pdfcandy.com/cn/)                | [PDF格式转换](http://www.pdfbao.com/pdf2word.html)           |
-| [记灵工具](https://remeins.com/)                    | [将DOC/DOCX文档转换成PDF](https://doctopdf.com/zh/)          |
-| [超级PDF](https://xpdf.cn/)                         | [PDF Burger](https://pdfburger.com/combine-to-pdf)           |
-| [PDF24 Tools](https://tools.pdf24.org/zh/)          | [PDF转换器](https://pdf.to/)                                 |
+| 网址                                                         | 网址                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [smallPDF](https://smallpdf.com/)                            | [ALL TO ALL](https://www.alltoall.net/)                      |
+| [Online OCR](https://www.onlineocr.net/)                     | [inyWow](https://tinywow.com/)                               |
+| [PDF to Word Converter](https://www.pdftoword.com/)          | [PDF转换器](https://www.pdfwordconvert.com/zh/)              |
+| [加加PDF](https://www.addpdf.cn/pdf-to-word)                 | [PDF转换](https://www.onlinepdftoimage.com/zh/)              |
+| [ilovePDF](https://www.ilovepdf.com/)                        | [免费在线PDF分配器](https://www.splitapdf.com/zh/)           |
+| [PDFconverter](https://www.pdfconverter.com/)                | [文件格式转换工具](https://www.aconvert.com/)                |
+| [PDFbao](http://www.pdfbao.com/)                             | [ZAMZAR](https://www.zamzar.com/)                            |
+| [LightPDF](https://lightpdf.com/zh/)                         | [CAJ 转 PDF 转换器](https://caj2pdf-qt.sainnhe.dev/)         |
+| [cloudconvert](https://cloudconvert.com/pdf-to-doc)          | [Web Apps by 123apps](https://123apps.com/)                  |
+| [迅捷PDF转换器](https://app.xunjiepdf.com/)                  | [立即翻译任何文档格式为任意语言](https://www.onlinedoctranslator.com/zh-CN/) |
+| [UPDF正文编辑](https://www.updf.cn/updf/)                    | [docsmall](https://docsmall.com/)                            |
+| [PDF2go](https://www.pdf2go.com/zh/)                         | [HiPDF让PDF变得简单高效](https://www.hipdf.cn/)              |
+| [ABBYY FineReader](https://ocr.abbyy.cn/)                    | [PDF派](https://www.pdfpai.com/)                             |
+| [PDF.IO](https://pdf.io/tw/)                                 | [onlineocr](https://www.onlineocr.net/)                      |
+| [PDFtodoc](http://pdf2doc.com/zh/)                           | [rightpdf](https://online.rightpdf.com/cn/office-to-pdf)     |
+| [pdfcandy](https://pdfcandy.com/cn/)                         | [PDF格式转换](http://www.pdfbao.com/pdf2word.html)           |
+| [记灵工具](https://remeins.com/)                             | [将DOC/DOCX文档转换成PDF](https://doctopdf.com/zh/)          |
+| [超级PDF](https://xpdf.cn/)                                  | [PDF Burger](https://pdfburger.com/combine-to-pdf)           |
+| [PDF24 Tools](https://tools.pdf24.org/zh/)                   | [PDF转换器](https://pdf.to/)                                 |
+| [PDF文档转换合成为一张图片](https://github.com/yuanqimanong/imgconvert-tool) |                                                              |
 
 * * *
 
@@ -252,6 +253,9 @@ https://saucer-man.com/information_security/1038.html
 **简单易用的图片压缩软件**  
 [https://tuya.xinxiao.tech/](https://tuya.xinxiao.tech/)
 
+**Real-ESRGAN v0.3.0图片视频变清晰**
+https://github.com/xinntao/Real-ESRGAN
+
 * * *
 
 ## 🌐 Chrome谷歌浏览器
@@ -358,6 +362,25 @@ https://saucer-man.com/information_security/1038.html
 [https://dh6.ink/](https://dh6.ink/)  
 [https://anran.gs/T/dwz/](https://anran.gs/T/dwz/)  
 [http://suo.nz/](http://suo.nz/)
+
+## 🖼️图床网站
+
+https://im.gurl.eu.org/
+https://img.fzxx.xyz/index2
+https://imgse.com/
+https://img.gejiba.com/
+https://imgloc.com/
+https://www.superbed.cn/
+https://www.helloimg.com/
+https://im.ge/
+https://png.cm/
+https://img.ax/
+https://tucdn.wpon.cn/
+https://locimg.com/
+https://xiray.cf/
+https://pic.sl.al/
+https://lvse.eu.org/
+https://img.ink/
 
 * * *
 
