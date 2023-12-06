@@ -203,7 +203,7 @@
 
 🔗 资源地址：[点击跳转](https://mirrors.quickso.cn/)
 
-## 开源软件
+## 开源资源
 
 ### 开源软件杂志
 
@@ -218,6 +218,18 @@
 >通过此网站可以快速定位你想要使用的开源软件
 
 🔗 资源地址：[点击跳转](https://www.containerize.com/zh/)
+
+### ExplorerPatcher
+
+{{< image src="https://bib0.com/xc/i/2023/12/06/image-20231206162519393.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 一键「开倒车」 
+
+>📄这个软件可以让你轻松地在 Windows11 上换回 Windows10 的风格
+>
+>包括任务栏、右键菜单和文件管理器命令栏等，让你轻松开倒车
+
+🌐 资源地址：🔽[下载地址 ](https://github.com/valinet/ExplorerPatcher/releases) | 📝[说明文档](https://github.com/valinet/ExplorerPatcher/wiki)
 
 ## PE 维护
 
@@ -235,6 +247,7 @@
 >🌐 资源地址：[点击跳转](https://www.ventoy.net/cn/)  
 >⭐️  资源描述：WEPE工具箱VIP网络版  
 >🌐 资源地址：☁️[百度云](https://pan.baidu.com/s/1n7F2Z9uyoLSx8wb_-RXAqQ) 提取码: he59 
+
 
 
 ---

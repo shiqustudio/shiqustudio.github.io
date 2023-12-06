@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### DigiKam
+
+{{< image src="https://bib0.com/xc/i/2023/12/06/about_editor_albumview.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  描述：🖼[DigiKam](https://www.digikam.org/) - 一款开源的跨平台照片管理工具 
+
+> 📄DigiKam 已有20多年历史，最大的优势是采用数据库存储缩略图，所以浏览大量图片的速度非常快
+>
+> 它支持标签、评分、地图、插件、人脸识别、查找相似图片等功能
+>
+> ⚠️实测第一次打开可能会有点卡，多开几次就好了，体验不错
+
+🌐 资源地址：[点击跳转](https://www.digikam.org/)
+
 ### DragGAN
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/DragGAN.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
