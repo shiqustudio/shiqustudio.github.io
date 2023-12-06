@@ -772,6 +772,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/  
 

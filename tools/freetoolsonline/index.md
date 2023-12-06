@@ -726,6 +726,6 @@ iLovePDF 跟我之前介绍过的「Smallpdf」有些类似，**值得一提的�
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/freetoolsonline/  
 
