@@ -365,21 +365,21 @@ https://github.com/xinntao/Real-ESRGAN
 
 ## 🖼️图床网站
 
-https://im.gurl.eu.org/
-https://img.fzxx.xyz/index2
-https://imgse.com/
-https://img.gejiba.com/
-https://imgloc.com/
-https://www.superbed.cn/
-https://www.helloimg.com/
-https://im.ge/
-https://png.cm/
-https://img.ax/
-https://tucdn.wpon.cn/
-https://locimg.com/
-https://xiray.cf/
-https://pic.sl.al/
-https://lvse.eu.org/
+https://im.gurl.eu.org/  
+https://img.fzxx.xyz/index2  
+https://imgse.com/   
+https://img.gejiba.com/  
+https://imgloc.com/  
+https://www.superbed.cn/  
+https://www.helloimg.com/  
+https://im.ge/  
+https://png.cm/  
+https://img.ax/  
+https://tucdn.wpon.cn/  
+https://locimg.com/  
+https://xiray.cf/  
+https://pic.sl.al/  
+https://lvse.eu.org/  
 https://img.ink/
 
 * * *
