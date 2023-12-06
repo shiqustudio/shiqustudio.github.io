@@ -1,4 +1,4 @@
-# 费曼学习法实践
+# 👨‍💻费曼学习法实践
 
 
 > 把自己如何获取信息、聚焦阅读、汇总研究和深度长文输出的方法分享给大家，全文由费曼学习法、信息获取与知识输出的方法论，还有笔记工具的进化三部分组成。
@@ -162,17 +162,9 @@ LLMs 可以真正把你的笔记变成**第二大脑**，它们可以在你写�
 +   [Mem.ai](https://mem.ai/?ref=indigox.me) - Mem is the world's first AI-powered workspace that's personalized to you.  
     
 
-## 推荐阅读
-
-[![](https://www.indigox.me/content/images/2023/01/article-banners.005.jpeg)](https://www.indigox.me/the-evolution-of-machine-intelligence/)
-
-[![](https://www.indigox.me/content/images/2023/01/article-banners.004.jpeg)](https://www.indigox.me/the-future-and-reality-of-web3/)
-
-[![](https://www.indigox.me/content/images/2023/01/article-banners.003.jpeg)](https://www.indigox.me/metaverse-and-digital-transformation/)
-
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/personal/%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95%E5%AE%9E%E8%B7%B5/  
 > 转载 URL: https://www.indigox.me/feynman-technique-in-practice/
