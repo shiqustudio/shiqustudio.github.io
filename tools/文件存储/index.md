@@ -12,6 +12,26 @@
 
 🌐 资源地址：[点击跳转](https://ufile.io/)
 
+### PikPak
+
+{{< image src="https://bib0.com/xc/i/2023/12/07/phone-pc2.5766971a.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+> PikPak 是一个新加坡网盘，支持离线下载，可以在线播放，免费用户拥有 6g 的离线空间，不限速，空间容量不够的话可以批量登陆多个账户突破容量限制。
+>
+> 目前新用户有赠送 VIP，VIP 到期后使用[临时邮箱](/tools/隐私/)再次注册一个账号即可。
+>
+> **PikPak 第三方网页版**
+>
+> 有网友制作了第三方网页版，提供了便利，推荐优先使用第一个。
+>
+> [网页版PikPak1](https://pikpak.kinh.cc/) | [网页版PikPak2](https://pikpak.tjsky.net/pikpak)
+>
+> (如网页错位，请使用电脑端 edge/chrome 浏览器) 如注册失败，可以尝试[备用注册入口](https://pikpak.tjsky.net/pikpak/#/register)注册。临时使用可以自己生成[免费账号](https://pikpak.kinh.cc/?Type=Register)，随机生成账号使用，或搭配[临时邮箱](/tools/隐私/)批量注册，资源的搜索可以访问 [搜索引擎](/posts/搜索引擎/)
+
+🌐 资源地址：[官网地址](https://mypikpak.com/drive/login)
+
 ### 屋舍
 
 ⭐️  资源描述：免费公益文件存储平台，上传可以获得直链，没有流量限制和文件类型限制。游客可上传最大100m，登录后最大可上传500m，国内速度不错，下载最高可达10m/s 该服务为免费公益服务，不可滥用和上传违法内容。如音频能播放代表服务可用。
