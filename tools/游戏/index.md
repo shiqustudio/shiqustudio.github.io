@@ -72,6 +72,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E6%B8%B8%E6%88%8F/  
 
