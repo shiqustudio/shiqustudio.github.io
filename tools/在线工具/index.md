@@ -6,6 +6,16 @@
 
 <!--more-->
 
+### Snippet generator
+
+{{< image src="https://bib0.com/xc/i/2023/12/07/snippet-generator.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[Snippet generator](https://snippet-generator.app/) - 片段生成器
+
+>[Snippet generator](https://snippet-generator.app/) 是一个小型的 React 应用程序，可帮助您创建 [Visual Studio Code](https://code.visualstudio.com/)、[Sublime Text](https://www.sublimetext.com/) 和 [Atom](https://atom.io/) 代码段 
+
+🔗 资源链接：🌐[点击跳转](https://snippet-generator.app/)
+
 ### FastMirror
 
 {{< image src="https://bib0.com/xc/i/2023/11/27/image-20231127100058845.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
