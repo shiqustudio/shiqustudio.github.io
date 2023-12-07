@@ -75,6 +75,14 @@
 
    **开源地址**：🧩[开源地址](https://github.com/OdysseusYuan/LKY_OfficeTools#lky-office-tools) | 🔽[下载地址](https://github.com/OdysseusYuan/LKY_OfficeTools/releases/tag/v1.2.1)
 
+6. **Windows系统一句命令激活**
+
+   > 🔥**命令提示符(管理员)：slmgr /skms kms.v0v.bid && slmgr /ato**
+
+   **资源地址**：🔗[点击跳转](https://v0v.bid/) | 📝[详细教程](https://v0v.bid/kms.php)
+
+   {{< image src="https://bib0.com/xc/i/2023/12/07/help.png" alt="-" title="Fun's images">}}     
+
 ## 办公软件
 
 >1. WPS
