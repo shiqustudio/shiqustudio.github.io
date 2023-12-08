@@ -135,6 +135,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/website/%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/  
 

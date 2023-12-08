@@ -446,6 +446,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/ocr%E8%AF%86%E5%88%AB/  
 
