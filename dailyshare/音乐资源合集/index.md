@@ -16,13 +16,14 @@
 🎵 [在线音乐频道2](https://www.yinyueke.net/)  
 🎵 [在线音乐频道3](http://tools.liumingye.cn/music/)  
 🎵 [在线音乐频道4](https://tonzhon.com/)  
-🎵 [在线音乐频道5](http://ayy.ayxhk.com/)  
-🎵 [在线音乐频道6](https://peal.cc/player)  
-🎵 [在线音乐频道7](https://www.yinyue.love/?ref=yinyueke.net)  
-🎵[在线音乐频道8](https://www.fangpi.net/)   
-🎵[在线音乐频道9](https://www.gequbao.com/)   
-🎵[在线音乐频道10](https://music.dogged.cn/)  
-🎵[在线音乐频道11](https://www.musicenc.com/) 
+🎵 [在线音乐频道5](https://peal.cc/player)  
+🎵 [在线音乐频道6](https://www.yinyue.love/?ref=yinyueke.net)  
+🎵[在线音乐频道7](https://www.fangpi.net/)   
+🎵[在线音乐频道8](https://www.gequbao.com/)   
+🎵[在线音乐频道9](https://music.dogged.cn/)  
+🎵[在线音乐频道10](https://www.musicenc.com/) 
+
+<!--🎵 [在线音乐频道5](http://ayy.ayxhk.com/)-->  
 
 {{< /admonition >}}
 
