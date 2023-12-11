@@ -18,10 +18,10 @@
 🎵 [在线音乐频道4](https://tonzhon.com/)  
 🎵 [在线音乐频道5](https://peal.cc/player)  
 🎵 [在线音乐频道6](https://www.yinyue.love/?ref=yinyueke.net)  
-🎵[在线音乐频道7](https://www.fangpi.net/)   
-🎵[在线音乐频道8](https://www.gequbao.com/)   
-🎵[在线音乐频道9](https://music.dogged.cn/)  
-🎵[在线音乐频道10](https://www.musicenc.com/) 
+🎵 [在线音乐频道7](https://www.fangpi.net/)   
+🎵 [在线音乐频道8](https://www.gequbao.com/)   
+🎵 [在线音乐频道9](https://music.dogged.cn/)  
+🎵 [在线音乐频道10](https://www.musicenc.com/) 
 
 <!--🎵 [在线音乐频道5](http://ayy.ayxhk.com/)-->  
 
@@ -586,13 +586,13 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 
 🌐[项目](https://github.com/yoyicue/mp3tag-douban-id3-plugins "项目") | 📃[介绍](https://www.appinn.com/douban-plugins-for-mp3tag/ "介绍") | 🔽[下载](https://github.com/yoyicue/mp3tag-douban-id3-plugins/releases/tag/v2.5.1 "下载")
 
-**安装方法**
+🛠**安装方法**
 
 找到 `%appdata%\mp3tag\data\sources` 位置，
 
 下载 [release](https://github.com/yoyicue/mp3tag-douban-id3-plugins/releases) 版本或者把最新的 [DoubanMusic.src](https://raw.githubusercontent.com/yoyicue/mp3tag-douban-id3-plugins/main/DoubanMusic.src) 直接粘贴在这个目录下，重启 **Mp3tag** 即可
 
-**使用方式**
+🔨**使用方式**
 
 1.  安装成功后，工具栏`标签数据源(S)` 下会有 `DoubanMusic` 选项
 2.  点击 `下一步(N)>` 后会弹出一个查询条件的搜索框，写着`专辑集`，但这里是模糊查询，可以 `“歌手 专辑名”`
@@ -603,9 +603,23 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 
 {{< image src="https://bib0.com/xc/i/2023/11/22/mp3tag_zhsumhmghc.jpg" alt="-" title="Fun's images" width="800px">}}
 
+## 音乐迁移
+
+{{< image src="https://bib0.com/xc/i/2023/12/11/image-20231211083411639.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+📁 资源简介：🎵迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music
+
+💥**迁移教程**
+
+>1️⃣打开 [music.unmeta.cn](https://music.unmeta.cn/) 填入歌单链接并复制结果
+>
+>2️⃣打开 [TunemyMusic](https://www.tunemymusic.com/zh-CN/transfer) 点击「任意文本」并粘贴上面结果
+>
+>3️⃣最后选择需要迁移的目标平台
+
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/dailyshare/%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/  
 
