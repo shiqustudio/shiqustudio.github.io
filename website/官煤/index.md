@@ -6,6 +6,18 @@
 
 <!--more-->
 
+### TRADING ECONOMICS
+
+{{< image src="https://bib0.com/xc/i/2023/12/12/image-20231212094840019.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：📊[TRADING ECONOMICS](https://zh.tradingeconomics.com/) - 世界贸易经济数据网站
+
+>📄该网站可以查看全球 196 个国家经济数据、包括货币汇率、股票指数、商品价格、国内生产总值、通货膨胀率、失业率等
+>
+>该网站提供实时更新的各国官网公开数据，并且可以根据用户的需求进行筛选和排序
+
+🌐 资源地址：[点击跳转](https://zh.tradingeconomics.com/)
+
 ### DrugBank Online
 
 {{< image src="https://bib0.com/xc/i/2023/07/06/image-20230706221327671.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
@@ -31,6 +43,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/website/%E5%AE%98%E7%85%A4/  
 

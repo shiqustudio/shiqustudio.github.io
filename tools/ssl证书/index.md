@@ -46,6 +46,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/ssl%E8%AF%81%E4%B9%A6/  
 

@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### 摩斯密码
+
+{{< image src="https://bib0.com/xc/i/2023/12/12/image-20231212094702132.png" alt="-" title="Fun's images">}} 
+
+⭐️  资源描述：⌨️[学习摩斯密码](https://www.perry.qa/morse)
+
+>📄你可以通过此网站学习摩斯密码，关键时刻或许有用
+
+🌐 资源地址：[点击跳转](https://www.perry.qa/morse)
+
 ### Floor796
 
 {{< image src="https://bib0.com/xc/i/2023/12/06/image-20231206162005604.png" alt="-" title="Fun's images">}}  
@@ -407,6 +417,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/dailyshare/%E8%B6%A3%E7%AB%99/  
 
