@@ -1048,6 +1048,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/  
 
