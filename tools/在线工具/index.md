@@ -6,6 +6,16 @@
 
 <!--more-->
 
+### Obsidian美化插件
+
+{{< image src="https://bib0.com/xc/i/2023/12/12/c-a7a3-1121c1fc88f7.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[Obsidian](https://github.com/PKM-er/Blue-topaz-example) - 美化插件
+
+>[Obsidian](https://obsidian.md/)使用者的福音，包含大量插件目前有七十多个，很多插件都是辅助类插件，可以根据需要删除或者关闭，漂亮美观。
+
+🔗 资源链接：🧩[开源地址](https://github.com/PKM-er/Blue-topaz-example) | 🌐[Obsidian官网](https://obsidian.md/) | 📝[Obsidian使用手册](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B)
+
 ### Snippet generator
 
 {{< image src="https://bib0.com/xc/i/2023/12/07/snippet-generator.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

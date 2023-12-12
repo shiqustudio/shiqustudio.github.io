@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### 深度学习经典
+
+{{< image src="https://bib0.com/xc/i/2023/12/12/image-20231212190219717.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：**深度学习经典、新论文逐段精读**
+
+>包括已经录制完成和之后将要介绍的论文。选取的原则是10年内深度学习里有影响力文章（必读文章），或者近期比较有意思的文章。
+
+🌐 资源地址：[点击跳转](https://github.com/mli/paper-reading)
+
 ### FreeBookCentre
 
 {{< image src="https://bib0.com/xc/i/2023/12/06/image-20231206144803423.png" alt="-" title="Fun's images">}}  

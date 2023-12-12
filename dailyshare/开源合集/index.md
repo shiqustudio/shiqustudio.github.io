@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Gmeek
+
+{{< image src="https://bib0.com/xc/i/2023/12/12/light.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[Gmeek](https://github.com/Meekdai/Gmeek) - 超轻量级个人博客模板
+
+>一个博客框架，超轻量级个人博客模板。完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。不需要本地部署，从搭建到写作，只需要18秒，2步搭建好博客，第3步就是写作。
+
+🌐 资源地址：🧩[开源地址](https://github.com/Meekdai/Gmeek) | 🦸‍♂️[演示地址](https://blog.meekdai.com/) | 📃[版本日志](https://blog.meekdai.com/post/Gmeek-geng-xin-ri-zhi.html)
+
 ### AgentVerse
 
 {{< image src="https://bib0.com/xc/i/2023/11/03/85EJMg.png" alt="-" title="Fun's images">}}  
