@@ -187,6 +187,6 @@ CD音轨转换到MP3,WMA,OGG,AAC....
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/dailyshare/%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/  
 

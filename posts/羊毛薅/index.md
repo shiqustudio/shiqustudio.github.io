@@ -24,6 +24,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/  
 
