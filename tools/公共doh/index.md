@@ -138,6 +138,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/  
 
