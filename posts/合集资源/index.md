@@ -1088,6 +1088,8 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 
 ✅[焦虑自救小册](https://github.com/chenyukang/anxiety-handbook)
 
+📢[查看更多](/website/急救/)
+
 ## 💥优质播客
 
 ✅[技术周刊](https://weekly.fre123.com/)：🗞 FRE123 精选周刊信息流 - 汇聚30+优质精选技术周刊 

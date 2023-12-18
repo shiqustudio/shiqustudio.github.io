@@ -4,9 +4,19 @@
     <link>https://blog.funvip.live/</link>
     <description>世界在下沉，我们在狂欢</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 04 Dec 2023 17:27:11 &#43;0000</lastBuildDate>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 17 Dec 2023 20:27:11 &#43;0000</lastBuildDate>
       <atom:link href="https://blog.funvip.live/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>🧰健康急救</title>
+  <link>https://blog.funvip.live/website/%E6%80%A5%E6%95%91/</link>
+  <pubDate>Sun, 17 Dec 2023 20:27:11 &#43;0000</pubDate>
+  <author>聪</author>
+  <guid>https://blog.funvip.live/website/%E6%80%A5%E6%95%91/</guid>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/12/18/3f6f3a1ce753e7431331649aac223791.png" referrerpolicy="no-referrer">
+      </div><p>💡 收集有关健康安全急救防护知识</p>]]></description>
+</item>
+<item>
   <title>🈴合集资源</title>
   <link>https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/</link>
   <pubDate>Mon, 04 Dec 2023 17:27:11 &#43;0000</pubDate>
@@ -93,16 +103,6 @@
   <description><![CDATA[<div class="featured-image">
         <img src="https://bib0.com/xc/i/2023/11/28/7ce0d2238e20d6cc88c191e6a43dab1c.png" referrerpolicy="no-referrer">
       </div><p>💡 资源下载工具汇总</p>]]></description>
-</item>
-<item>
-  <title>🎯公共DoH</title>
-  <link>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</link>
-  <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/28/DNS20231128171059.jpg" referrerpolicy="no-referrer">
-      </div><p>💡 DoH 对于普通用户的用处主要体现了防止运营商对内容进行HTTP劫持，可以一定程度减少广告弹窗与内容篡改。更多可通过<a href="https://remeins.com/index/app/dns"target="_blank" rel="external nofollow noopener noreferrer">地址列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看。</p>]]></description>
 </item>
 </channel>
 </rss>
