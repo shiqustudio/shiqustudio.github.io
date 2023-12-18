@@ -693,6 +693,6 @@ YouTube, Vimeo, SoundCloud, Flickr, Facebook, DailyMotion，tiktok等网站的�
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/dailyshare/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD/  
 

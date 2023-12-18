@@ -84,6 +84,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/
