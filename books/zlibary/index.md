@@ -43,6 +43,17 @@
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
+### 寻书
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218102009770.png" alt="-" title="Fun's images">}}     
+
+🆔  资源名称： 
+
+> 😍聚合多个Zlibrary、安娜的档案、Library Genesis、鸠摩等著名的电子书搜索引擎  
+> 😍直接搜索即可
+
+🌐 资源地址：[点击跳转](https://www.xunshu.xyz/#/) 
+
 ### 武侠世界
 
 {{< image src="https://bib0.com/xc/i/2023/09/11/1542853668864.png" alt="-" title="Fun's images">}}     
@@ -143,6 +154,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/books/zlibary/  
 

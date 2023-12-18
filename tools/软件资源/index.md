@@ -99,6 +99,18 @@
 
 ## Adobe软件
 
+### 最新Adobe 2024全家桶 
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218101601404.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：
+
+>😍无解压密码，一键直装版本  
+>😍无广告，非常纯净  
+>😍由于文件过大，采用百度网盘传输
+
+🌐 资源地址：☁️[百度网盘](https://pan.baidu.com/s/1-gbPN0_HtsUoR8EIVoG03g?pwd=mtza)
+
 ### Adobe CC 
 
 {{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629141701637.png" alt="-" title="Fun's images">}}     
@@ -145,6 +157,14 @@
 ⭐️  资源描述：专业软件仓库，免费学习，免费下载。
 
 🌐 资源地址：[点击跳转](https://ruancang.net/#/)|[博客地址](https://blog.ruancang.net)
+
+### 🟡软件库
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218105545831.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：全网独家资源，应该是最好的软件库之一，不仅仅包含大量纯净破解软件，而且还有几百个常用实用工具，影视大全，趣味游戏等等都不在话下！
+
+🌐 资源地址：[点击跳转](https://ruanjianku.cloud/caise/)
 
 ### 🟢绿化软件
 
@@ -260,6 +280,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/  
 

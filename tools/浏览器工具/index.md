@@ -18,6 +18,16 @@
 | ✅    | [Cnplugins](https://www.cnplugins.com/)   | **`可用`** |
 | ✅    | [Huajiakeji](https://huajiakeji.com/)     | **`可用`** |
 
+### EXdock
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218102404302.png" alt="-" title="Fun's images" width="800px">}}  
+
+⭐️  资源描述：📌 [EXdock](https://extensiondock.com/) - Chrome 插件下载
+
+>一个专业的 Chrome 插件下载网站，提供插件的 CRX 文件下载，同时为你推荐热门好用的谷歌浏览器插件，支持搜索功能,方便实用。
+
+🌐 资源地址：[点击跳转](https://extensiondock.com/)
+
 ### 8KMM
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/kbfr.gif" alt="-" title="Fun's images" width="800px">}}  
@@ -255,6 +265,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B7%A5%E5%85%B7/  
 

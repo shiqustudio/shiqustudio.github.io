@@ -1084,9 +1084,27 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 ◾️ 【网易工作台】AI 智能语音识别自动生成字幕  
 [https://jianwai.youdao.com/](https://jianwai.youdao.com/)
 
+## ❤焦虑自救小册
+
+✅[焦虑自救小册](https://github.com/chenyukang/anxiety-handbook)
+
+## 💥优质播客
+
+✅[技术周刊](https://weekly.fre123.com/)：🗞 FRE123 精选周刊信息流 - 汇聚30+优质精选技术周刊 
+
+✅[Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)：播客 🎧 编程、设计、Vlog、音乐、访谈、博客... 
+
+✅[科技爱好者周刊](https://github.com/ruanyf/weekly) ：记录每周值得分享的科技内容，周五发布。
+
+>P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3684)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+
+✅[Chinese independent developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
+
+✅[老胡的周刊](https://weekly.howie6879.com/) - 记录有价值的信息，针对优秀项目、软件、教程资料、网站等
+
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/  
 

@@ -1,6 +1,16 @@
 # 💿文件存储
 
 
+### ACdata
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218103352730.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：
+
+> 📌 可以发送无限数量的文件，每个文件最多 250 GB。安全措施到位，无需注册会员，方便远程办公！
+
+🌐 资源地址：[点击跳转](https://ac-data.info/)
+
 ### Ufile.io
 
 {{< image src="https://bib0.com/xc/i/2023/12/07/image-20231207103312896.png" alt="-" title="Fun's images">}}  
@@ -143,6 +153,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8/  
 

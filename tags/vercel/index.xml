@@ -3,13 +3,16 @@
     <title>Vercel - 标签 - 拾趣资源</title>
     <link>https://blog.funvip.live/tags/vercel/</link>
     <description>Vercel - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 04 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/vercel/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 04 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/vercel/" rel="self" type="application/rss+xml" /><item>
   <title>⚜️Vercel</title>
   <link>https://blog.funvip.live/dailyshare/vercel/</link>
   <pubDate>Sun, 04 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>作者</author>
+  <author>聪</author>
   <guid>https://blog.funvip.live/dailyshare/vercel/</guid>
-  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/hugoBlog/image-20230405210045531.png" title="⚜️Vercel" alt="⚜️Vercel" referrerpolicy="no-referrer"/></div><blockquote>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/hugoBlog/image-20230405210045531.png" referrerpolicy="no-referrer">
+      </div><blockquote>
 <p>🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具全部都是开源的，并且都可以一键部署到Vercel供私人使用</p>
 </blockquote>]]></description>
 </item>

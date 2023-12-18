@@ -167,6 +167,28 @@
 >- [无限别名域名邮箱](https://haoduck.com/489.html)
 >
 >上方服务在保护隐私的同时，也能生成更多的临时邮箱。可以自定义邮箱然后转发给真实邮箱
+>
+>https://10minutemail.com/
+>
+>https://10minemail.com/zh/
+>
+>https://tempmail.altmails.com/
+>
+>https://www.guerrillamail.com/zh/
+>
+>https://temp-mail.org/zh/
+>
+>https://10minutemail.net/m/?lang=zh-cn
+>
+>https://yopmail.com/zh/
+>
+>https://www.tempmail.vip/zh
+>
+>https://moakt.com/zh
+>
+>https://www.linshi-email.com/
+>
+>https://linshiyouxiang.net/
 
 {{< /admonition >}}
 
@@ -190,6 +212,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E9%9A%90%E7%A7%81/  
 

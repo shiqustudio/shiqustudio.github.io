@@ -5,6 +5,40 @@
 
 <!--more-->
 
+### 中国独立开发者项目列表
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218111539162.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：👩‍💻[Chinese independent developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
+
+>这个项目收集了中国独立开发者项目列表，列表不定期更新。
+>
+>每个项目都会给出链接和相关介绍，如果你也开发了网站或App可以 Issue 投稿给作者。
+
+🌐 资源地址：🧩[开源地址](https://github.com/1c7/chinese-independent-developer)
+
+### 技术周刊
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218112217885.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：**🗞 [FRE123](https://weekly.fre123.com/) 精选周刊信息流 - 汇聚30+优质精选技术周刊**
+
+>一个收集优质技术周刊的聚合网站，目前汇聚30+优质精选技术周刊。
+>
+>收集的周刊质量都很高，例如HelloGitHub、Python 潮流周刊、Web 技术周刊、前端精读周刊等。
+
+🌐 资源地址：[点击跳转](https://weekly.fre123.com/)
+
+### 老胡的周刊
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218112041839.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🗒[老胡的周刊](https://weekly.howie6879.com/) - 记录有价值的信息，针对优秀项目、软件、教程资料、网站等
+
+>老胡的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享。
+
+🌐 资源地址：🧩[项目地址](https://github.com/howie6879/weekly) | 🌐[网站链接](https://weekly.howie6879.com/) | 📬[RSS](https://weekly.howie6879.com/rss/rss.xml)
+
 ### 深度学习经典
 
 {{< image src="https://bib0.com/xc/i/2023/12/12/image-20231212190219717.png" alt="-" title="Fun's images">}}  
@@ -206,6 +240,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/  
 

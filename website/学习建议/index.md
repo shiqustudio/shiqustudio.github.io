@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 公务员考试资料
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218103003325.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：一位网友分享的关于公务员考试所需要的相关学习资料，包括网盘、网站等资源;行测、申论、法律、经济、哲学、常识等笔记，笔记持续更新中。
+
+🌐 资源地址：[点击跳转](https://www.kdocs.cn/l/ctYoDB9lU4o9)
+
 ### 面试押题王
 
 {{< image src="https://bib0.com/xc/i/2023/12/07/image-20231207104610309.png" alt="-" title="Fun's images">}}  
@@ -76,6 +84,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/website/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE/  
 
