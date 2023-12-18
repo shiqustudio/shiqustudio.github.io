@@ -5,6 +5,18 @@
 
 <!--more-->
 
+### Hiddify-Manager
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218155621356.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   
+
+📁 网站简介：[Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - 代理工具
+
+>一个强大而专业的反审查工具箱，它是一个多用户面板，安装简单，支持超过20种协议，包括Reality和Telegram代理，可以绕过过滤。它针对审查进行了优化。
+>
+>支持多种流行的协议，如VLESS、VMess、Trojan、Shadowsocks、SSR、WireGuard等。
+
+🔗 资源地址：🧩[开源地址](https://github.com/hiddify/Hiddify-Manager)
+
 ### IP 工具箱
 
 {{< image src="https://bib0.com/xc/i/2023/12/11/image-20231211082900688.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
