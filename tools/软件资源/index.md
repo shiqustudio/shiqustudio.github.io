@@ -172,6 +172,14 @@
 >
 >🔴PS：`因受Lan奏限制，2023年9月19日以后分享的apk和ipa文件需要将手机浏览器UA调成电脑模式后才能下载`
 
+### 🟢刷机资源
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218145632058.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：一个专门收集安卓刷机资源的 AList 资源盘，资源包括刷机包、Recovery、工具软件、模块补丁、驱动等文件。
+
+🌐 资源地址：[点击跳转](https://www.yhcres.top/)
+
 ### 🟠其他资源
 
 🔵APKTurbo： [点击跳转](https://www.apkturbo.com/)  
@@ -263,19 +271,54 @@
 
 > **`PE系统主要用来系统的安装，维护修复，数据恢复，开机密码破解等功能`**
 
->⭐️  资源描述：微PE工具箱   
+>⭐️  资源描述：微PE工具箱 - `推荐，简洁无广告`  
 >🌐 资源地址：[点击跳转](http://www.wepe.com.cn/)  
 >⭐️  资源描述：杏雨梨云启动维护系统  
 >🌐 资源地址：[点击跳转](https://www.xyboot.com/)  
->⭐️  资源描述：IT天空 - 优启通  
+>⭐️  资源描述：IT天空 - 优启通 - `装机人员最爱`  
 >🌐 资源地址：[点击跳转](https://www.itsk.com/thread-424686-1-1.html)   
 >⭐️  资源描述：金狐系统维护盘  
 >🌐 资源地址：[点击跳转](http://www.jinhu.me/article.asp?id=252)  
 >⭐️  资源描述：Ventoy - 新一代多系统启动U盘解决方案  
 >🌐 资源地址：[点击跳转](https://www.ventoy.net/cn/)  
 >⭐️  资源描述：WEPE工具箱VIP网络版  
->🌐 资源地址：☁️[百度云](https://pan.baidu.com/s/1n7F2Z9uyoLSx8wb_-RXAqQ) 提取码: he59 
+>🌐 资源地址：☁️[百度云](https://pan.baidu.com/s/1n7F2Z9uyoLSx8wb_-RXAqQ) 提取码: he59  
+>⭐️  资源描述：HotPE  
+>🌐 资源地址：[点击跳转](https://www.hotpe.top)    
+>⭐️  资源描述：FirPE - `一个纯净、强大、优雅的开源Win11PE`  
+>🌐 资源地址：[点击跳转](https://www.firpe.cn)    
+>⭐️  资源描述：Edgeless - `兼容性好，更新足够，稳定性高`  
+>🌐 资源地址：[点击跳转](https://home.edgeless.top)  
+>⭐️  资源描述：WinpeMaker（斗鱼PE生成器）- `强大而优雅的半开源PE工具`  
+>🌐 资源地址：[点击跳转](https://winpemaker.ccpe.net)  
+>⭐️  资源描述：Hikari PE Project  
+>🌐 资源地址：[点击跳转](https://hikaripe-sc.hikaricalyx.com)  
+>⭐️  资源描述：CMDPE  
+>🌐 资源地址：[点击跳转](https://www.cmdpe.com)  
+>⭐️  资源描述：U盘魔术师  
+>🌐 资源地址：[点击跳转](https://www.sysceo.com/usm)
+>
+>🚩选择标准（来自知乎）：
+>✔️只是用来快速装系统，没有维护需求 - 微PE
+>✔️电脑城装机员要面对各种新旧设备 - 优启通
+>✔️电脑比较多，但是没那么复杂的设备 - FirPE
+>✔️新电脑维护可玩性的上限 - HotPE
+>✔️需要走到哪用到哪的U盘电脑 - Edgeless
+>✔️我超能作死的 - 斗鱼PE生成器
+>
+>除了PE工具，如果只是需要U盘启动工具，强烈推荐Ventoy或Rufus
+>⭐️  资源描述：Ventoy - `功能极为强大，开源`
+>🌐 资源地址：[点击跳转](https://www.ventoy.net)
+>⭐️  资源描述：Rufus - `简洁，开源`
+>🌐 资源地址：[点击跳转](https://rufus.ie/zh/)
 
+## 电脑修复检测
+
+🟡资源名称：🖥️194款电脑常用修复工具软件
+
+📃资源说明：😍共计194款修复、检测工具，可以轻松应对日常电脑使用时所遇到的问题
+
+🕺下载地址：☁️[百度云盘](https://pan.baidu.com/s/1_wUQVeTreXFH7rG4DlUGEw?pwd=3ytf)
 
 
 ---

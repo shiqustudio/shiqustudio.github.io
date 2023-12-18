@@ -1,6 +1,20 @@
 # 🎮游戏工具
 
 
+### GODOT
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218143850302.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：[GODOT](https://godotengine.org/download/windows/) - 游戏引擎
+
+>一个免费开源的游戏引擎，它支持多种编程语言、2D 和 3D 图形、以及跨平台开发。
+>
+>可以使用 Godot 自带的 GDScript、C#、C++，或者使用 GDExtension 引入你自己的语言。
+>
+>[Godot](https://godotengine.org/download/windows/) 的 3D 节点可以让你构建、动画化、和渲染你的 3D 世界和角色。
+
+🌐 资源地址：[点击跳转](https://godotengine.org/download/windows/)
+
 ### 在线游戏合集
 
 {{< image src="https://bib0.com/xc/i/2023/09/20/image-20230920075934895.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
@@ -53,6 +67,22 @@
 >
 >⭕️原创不易，搬运请注明出处
 
+### PC游戏种子合集
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218150528901.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：PC游戏种子合集上万部，可以收藏下～
+
+🌐 资源地址：☁️[迅雷云盘](https://pan.xunlei.com/s/VNjpKouvVjnDtOpyd_V6i9MLA1?pwd=5xau#)
+
+### PC游戏下载网盘
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218150955715.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：一个界面简洁的电脑游戏下载网盘
+
+🌐 资源地址：☁️[网盘地址](http://sj.ysupan.com/gbtgame#/)
+
 ### Playnite
 
 {{< image src="https://bib0.com/xc/i/2023/06/20/screen2.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
@@ -67,7 +97,7 @@
 >
 >Playnite 也支持中文，同时还可以修改主题、使用插件、统计本地游戏运行时间等，体验非常好
 
-🌐 资源地址：[点击跳转](https://playnite.link/)|[开源地址](https://github.com/JosefNemec/Playnite) | [文档地址](https://api.playnite.link/docs/master/tutorials/extensions/intro.html)
+🌐 资源地址：[点击跳转](https://playnite.link/) | [开源地址](https://github.com/JosefNemec/Playnite) | [文档地址](https://api.playnite.link/docs/master/tutorials/extensions/intro.html)
 
 
 ---

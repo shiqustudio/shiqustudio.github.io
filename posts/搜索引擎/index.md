@@ -44,11 +44,11 @@ https://www.wuzhuiso.com/s?q=%s
 
 ### 强力聚合
 
-{{< image src="https://bib0.com/xc/i/2023/11/24/image-20231124144924631.png" alt="-"  title="Fun's images" >}}   
+{{< image src="https://bib0.com/xc/i/2023/11/24/image-20231124144924631.png" alt="-"  title="Fun's images"  width="800px">}}   
 
 ### PDF Drive
 
-{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730163811673.png" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730163811673.png" alt="-"  title="Fun's images"  width="800px">}}    
 
 🆔  资源名称：[**📂PDF Drive - 一个可以免费下载 PDF 的搜索引擎网站**](https://www.pdfdrive.com/)
 
@@ -61,19 +61,6 @@ https://www.wuzhuiso.com/s?q=%s
 
 🌐 资源地址: [点击跳转](https://www.pdfdrive.com/) 
 
-### FilePursuit 
-
-{{< image src="https://bib0.com/xc/i/2023/07/08/photo_2023-07-08_07-29-17.jpeg" alt="-"  title="Fun's images" >}}    
-
-🆔  资源名称：[**🔎FilePursuit - 一个在线文件搜索引擎**](https://filepursuit.com/)
-
-⭐️  资源描述：
-
-> 📄[FilePursuit](https://filepursuit.com/)通过机器人实时扫描互联网上的各种资源和文件存储网站，你可以在此网站找到各种文件，包括电影、音乐、电子书、软件等等...
->
-> 试了一下中文搜索，响应很快，并且支持搜索 NSFW
-
-🌐 资源地址: [点击跳转](https://filepursuit.com/) 
 
 
 ---

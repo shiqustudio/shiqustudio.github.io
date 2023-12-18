@@ -68,6 +68,24 @@
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205091953295.png" alt="-" title="Fun's images" width="800px">}}  
 
+### 4\. 小红书作品采集工具
+
+◾📕 XHS_Downloader - 小红书作品采集工具
+
+👉项目介绍: 一款完全开源，基于 Requests 模块实现的小红书图文/视频作品采集工具。
+
+▎功能特征:
+- 采集小红书图文/视频作品信息
+- 获取小红书图文/视频作品下载地址
+- 下载小红书图文/视频作品文件
+- 自动跳过已存在的作品文件
+- 作品文件完整性处理机制
+- 批量下载小红书作品文件
+
+🌐资源地址：🧩[开源地址](https://github.com/JoeanAmier/XHS_Downloader)
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218153628574.png" alt="-" title="Fun's images" width="800px">}}  
+
 * * *
 
 ## 优爱腾
@@ -281,7 +299,7 @@
 +   捕获后，可进行预览和下载
 +   支持 Win/Mac
 
-🌐资源地址：🧩[开源地址](https://github.com/lecepin/WeChatVideoDownloader "GitHub") | ☁️[百度云](https://pan.baidu.com/s/1Vo5rlZoLl-x9qPzEVR595g?pwd=hpa7) 提取码: hpa7 
+🌐资源地址：🧩[开源地址](https://github.com/lecepin/WeChatVideoDownloader "GitHub") | 📥 [软件下载](https://github.com/lecepin/WeChatVideoDownloader/releases) | ☁️[百度云](https://pan.baidu.com/s/1Vo5rlZoLl-x9qPzEVR595g?pwd=hpa7) 提取码: hpa7 
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205093034157.png" alt="-" title="Fun's images" width="800px">}}  
 
@@ -402,9 +420,13 @@
 >     🌐资源地址：[点击跳转](https://www.online-downloader.com/index-Chinese)
 >
 
-### 3\. Snaptube
+### 3\. y2mate
 
-一款可以一键下载 YouTuBe 视频、音乐的神器的应用`安卓端`
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218153903562.png" alt="-" title="Fun's images">}}  
+
+⭐️资源描述：y2mate - Youtube视频在线下载网站、免费无广告 下载速度相当快
+
+🌐资源地址：[点击获取](https://www.y2mate.com/en869)
 
 ### 4\. 其他油管下载软件
 

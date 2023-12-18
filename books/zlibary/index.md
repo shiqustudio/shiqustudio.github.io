@@ -54,6 +54,30 @@
 
 🌐 资源地址：[点击跳转](https://www.xunshu.xyz/#/) 
 
+### 搜书网
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218153242147.png" alt="-" title="Fun's images">}}     
+
+🆔  资源名称： 🔍 [搜书网](https://www.soushu.vip/) - 电子书聚合搜索引擎
+
+> 一个简洁的电子书聚合搜索引擎，整合Zlibrary、Library Genesis、鸠摩、无名、书格等知名十几个书籍下载站，直接搜索书名即可，支持书源切换。
+
+🌐 资源地址：[点击跳转](https://www.soushu.vip/) 
+
+### Open Library
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218152836966.png" alt="-" title="Fun's images">}}     
+
+🆔  资源名称： [Open Library](https://openlibrary.org/) - 在线图书馆
+
+> 一个庞大的图书数据库，其中包含了各种各样的书籍，包括小说、非小说、科学文献等。
+>
+> 可以在线阅读或借阅数字图书。有些图书可以直接在网站上阅读，而有些图书则提供了借阅服务。
+>
+> 所有的在线阅读和借阅服务都是免费的，用户只需要创建一个账户即可使用这些服务。
+
+🌐 资源地址：[点击跳转](https://openlibrary.org/) 
+
 ### 武侠世界
 
 {{< image src="https://bib0.com/xc/i/2023/09/11/1542853668864.png" alt="-" title="Fun's images">}}     

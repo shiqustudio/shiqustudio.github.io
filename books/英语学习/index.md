@@ -634,6 +634,18 @@
 
 ## 其他工具
 
+### 七彩英语
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218145755804.png" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述：📚 [七彩英语](http://www.qcenglish.com/) - 一个提供各类英文原版电子书下载站 
+
+>一个由山东理工大学外国语学院学生设计维护的英文电子书下载站。电子书资源类型丰富，有文学、励志、网络、生活等多领域书籍，提供 TXT 和 PDF 下载。
+>
+>网站还提供作者推荐的100本书和向您推荐的100本书，帮助读者找到喜欢的书籍和筛选，网站定期更新。
+
+🌐 资源地址：[点击跳转](http://www.qcenglish.com/)
+
 ### 7ESL
 
 {{< image src="https://bib0.com/xc/i/2023/11/27/image-20231127091301805.png" alt="-" title="Fun's images">}}     
@@ -694,7 +706,7 @@
 
 🌐 资源地址：[点击跳转](https://vox.com/)
 
-### 英语学习工具
+### 学习工具集
 
 {{< image src="https://bib0.com/xc/i/2023/09/01/Q8exyE.png" alt="-" title="Fun's images">}}     
 

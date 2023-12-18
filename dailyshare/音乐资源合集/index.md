@@ -555,6 +555,23 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 
 ## 歌词工具
 
+### Lyricify
+
+⭐Lyricify滚动歌词 - 一款功能强大滚动歌词的软件，可以为多个音乐播放器提供滚动歌词，并支持多种显示方式、本地歌词导入、歌词搜索和翻译等功能。
+
+🔨版本介绍:
+
+[Lyricify 4](https://github.com/WXRIW/Lyricify-App#lyricify-4)  - Lyricify 4 仅支持 Spotify
+[安装](https://github.com/WXRIW/Lyricify-App/releases/tag/v4.2.0)     |     [指南](https://github.com/WXRIW/Lyricify-App/blob/main/docs/Lyricify%204/README.md)
+
+[Lyricify Mobile](https://github.com/WXRIW/Lyricify-App#lyricify-mobile) - Lyricify Mobile 为 Lyricify 家族的移动端，支持安卓和iOS。
+ [安装](https://github.com/WXRIW/Lyricify-App/releases/tag/mobile-v1.4.1)     |     [指南](https://github.com/WXRIW/Lyricify-App/blob/main/docs/Lyricify%20Mobile/README.md)
+
+[Lyricify 3](https://github.com/WXRIW/Lyricify-App#lyricify-3) - 一款为 Spotify、iTunes、Apple Music、Music Center、QQ 音乐、网易云音乐、YesPlayMusic 提供滚动歌词的软件。
+ [安装](https://github.com/WXRIW/Lyricify-App/releases/tag/v3.8.6)     |     [指南](https://github.com/WXRIW/Lyricify-App/blob/main/docs/Lyricify%203/README.md)
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218152547519.png" alt="-" title="Fun's images" width="800px">}}
+
 ### lrc-maker歌词滚动姬
 
 ⭐歌词滚动姬｜可能是你所能见到的最好用的歌词制作工具
