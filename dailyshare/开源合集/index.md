@@ -25,7 +25,7 @@
 
 ### Bypass Paywalls
 
-{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218103928107.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/12/20/image-20231220080714430.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：📰 [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - 一款开源浏览器插件，帮助绕过付费墙免费看文章
 
@@ -67,7 +67,7 @@
 
 > 一个 [Typora](https://typora.io/) 功能增强插件，带有四十种多种功能，并提供详细使用方法和单个插件介绍，理论支持所有 Typora 版本。
 
-🌐 资源地址：🧩 [开源地址](https://github.com/obgnail/typora_plugin?tab=readme-ov-file) | 🔽[下载地址]([Release 1.7.13 · obgnail/typora_plugin (github.com)](https://github.com/obgnail/typora_plugin/releases/tag/1.7.13))
+🌐 资源地址：🧩 [开源地址](https://github.com/obgnail/typora_plugin?tab=readme-ov-file) | 🔽[下载地址](https://github.com/obgnail/typora_plugin/releases/tag/1.7.13)
 
 ### Gmeek
 

@@ -1104,6 +1104,13 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 
 ✅[老胡的周刊](https://weekly.howie6879.com/) - 记录有价值的信息，针对优秀项目、软件、教程资料、网站等
 
+## 💯值得持续阅读的内容平台
+
+{{< image src="https://bib0.com/xc/i/2023/12/20/image-20231220082324210.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📚[2023 年值得持续阅读的内容平台](https://justgoidea.com/posts/2023-063/)
+
+
 
 ---
 

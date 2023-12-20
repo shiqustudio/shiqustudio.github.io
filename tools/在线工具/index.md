@@ -6,6 +6,14 @@
 
 <!--more-->
 
+### SearchEmoji
+
+{{< image src="https://bib0.com/xc/i/2023/12/20/screenshot.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：🧐 SearchEmoji - 🔍搜索表情符号，🖱️点击复制 - 支持 30 种语言的表情符号搜索引擎
+
+🔗 资源链接：🌐[点击跳转](https://searchemoji.app/zh-hans) | 🧩[开源地址](https://github.com/rotick/searchemoji?tab=readme-ov-file)
+
 ### Obsidian美化插件
 
 {{< image src="https://bib0.com/xc/i/2023/12/12/c-a7a3-1121c1fc88f7.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
