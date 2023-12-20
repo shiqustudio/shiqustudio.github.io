@@ -20,6 +20,7 @@
 | √    | [https://gitclone.com](https://gitclone.com/)     | **可用** |
 | √    | [https://ghproxy.com](https://ghproxy.com/)       | **可用** |
 | √    | [https://github.ur1.fun](https://github.ur1.fun/) | **可用** |
+| √    | [https://521github.com/](https://521github.com/)  | **可用** |
 
 ### GitHub加速镜像
 

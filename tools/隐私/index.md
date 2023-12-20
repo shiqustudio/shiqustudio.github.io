@@ -147,7 +147,7 @@
 >
 >gmail 邮箱可以生成临时的 gmail 后缀邮箱，大部分网站都不会将 `@gmail.com` 加入黑名单。
 >
->[临时gmail 邮箱1](https://www.emailnator.com/bulk-emails) | [临时 gmail 邮箱2](https://smailpro.com/advanced)
+>[临时gmail 邮箱1](https://www.emailnator.com/bulk-emails) | [临时 gmail 邮箱2](https://smailpro.com/advanced) 
 >
 >> 临时邮箱 UI 很简洁，可以自定义也可以随机生成，重新生成可以保留之前的邮箱进行切换。
 >
