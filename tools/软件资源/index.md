@@ -180,6 +180,8 @@
 
 🌐 资源地址：[点击跳转](https://www.yhcres.top/)
 
+> 👉 [MIUI下载站](https://roms.miuier.com/mobile/zh-cn)，收录系统版本全，刷机可参考
+
 ### 🟠其他资源
 
 🔵APKTurbo： [点击跳转](https://www.apkturbo.com/)  

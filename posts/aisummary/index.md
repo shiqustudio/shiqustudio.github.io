@@ -11,7 +11,7 @@
 
 ⭐️  资源描述：[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - gpt相关开源项目合集
 
->- **[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)**是关于GPT开源精选项目的合集（170+全网最全） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
+>- [**awesome-open-gpt**](https://github.com/EwingYangs/awesome-open-gpt)是关于GPT开源精选项目的合集（170+全网最全） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
 >- awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
 
 🌐 资源地址: 🧩[开源地址](https://github.com/EwingYangs/awesome-open-gpt)
