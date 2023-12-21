@@ -417,6 +417,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/dailyshare/%E8%B6%A3%E7%AB%99/  
 
