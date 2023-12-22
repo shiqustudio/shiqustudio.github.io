@@ -91,6 +91,6 @@ const site = new Blog('拾趣', 'Fun', 'https://blog.funvip.live/');
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/about/  
 

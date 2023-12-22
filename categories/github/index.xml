@@ -3,34 +3,29 @@
     <title>Github - 分类 - 拾趣资源</title>
     <link>https://blog.funvip.live/categories/github/</link>
     <description>Github - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/github/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/github/" rel="self" type="application/rss+xml" /><item>
   <title>🧩Github加速</title>
   <link>https://blog.funvip.live/tools/github%E5%8A%A0%E9%80%9F/</link>
   <pubDate>Thu, 23 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/tools/github%E5%8A%A0%E9%80%9F/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/24/81873ce7c5a602e9ff0daa95e99e4978.png" referrerpolicy="no-referrer">
-      </div><p>💡 GitHub这几年国内普通用户越来越难以访问，github作为全球最大的开源平台，里面有用的内容很多，不管是对专业用户还是普通用户，无法访问都是很严重的问题，使用频率高的推荐使用科学方式，下面的方法适合应急或低频率使用。</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/11/24/81873ce7c5a602e9ff0daa95e99e4978.png" title="🧩Github加速" alt="🧩Github加速" referrerpolicy="no-referrer"/></div><p>💡 GitHub这几年国内普通用户越来越难以访问，github作为全球最大的开源平台，里面有用的内容很多，不管是对专业用户还是普通用户，无法访问都是很严重的问题，使用频率高的推荐使用科学方式，下面的方法适合应急或低频率使用。</p>]]></description>
 </item>
 <item>
   <title>🧩开源资源</title>
   <link>https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/</link>
   <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2021-10-05_00-02-53.jpg" referrerpolicy="no-referrer">
-      </div><p>💡 整理收集优质开源、自动化项目相关资源。<a href="/tools/github%e5%8a%a0%e9%80%9f/">Github 加速</a> 可优化访问速率</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/06/10/photo_2021-10-05_00-02-53.jpg" title="🧩开源资源" alt="🧩开源资源" referrerpolicy="no-referrer"/></div><p>💡 整理收集优质开源、自动化项目相关资源。<a href="/tools/github%e5%8a%a0%e9%80%9f/">Github 加速</a> 可优化访问速率</p>]]></description>
 </item>
 <item>
   <title>⚖️AI 法律助手</title>
   <link>https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</link>
   <pubDate>Thu, 22 Jun 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</guid>
-  <description><![CDATA[<blockquote>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/11/29/49982da788198c042d1c7400d772d292.jfif" title="⚖️AI 法律助手" alt="⚖️AI 法律助手" referrerpolicy="no-referrer"/></div><blockquote>
 <p>AI 法律助手</p>
 </blockquote>]]></description>
 </item>
@@ -38,11 +33,9 @@
   <title>⚜️Vercel</title>
   <link>https://blog.funvip.live/dailyshare/vercel/</link>
   <pubDate>Sun, 04 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/dailyshare/vercel/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/hugoBlog/image-20230405210045531.png" referrerpolicy="no-referrer">
-      </div><blockquote>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/hugoBlog/image-20230405210045531.png" title="⚜️Vercel" alt="⚜️Vercel" referrerpolicy="no-referrer"/></div><blockquote>
 <p>🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具全部都是开源的，并且都可以一键部署到Vercel供私人使用</p>
 </blockquote>]]></description>
 </item>
