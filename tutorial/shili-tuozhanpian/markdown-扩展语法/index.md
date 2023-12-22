@@ -168,6 +168,6 @@ $$ c = \pm\sqrt{a^2 + b^2} $$
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/markdown-%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/markdown-syntax/extended/

@@ -1,7 +1,7 @@
 # 🛡️网络工具
 
 
-💡 收集有关网络安全的辅助工具。例如：[IP查询](https://ip.skk.moe/)、[IP聚合查询](https://ip.im/)、 [免费CDN](https://blog.tanglu.me/blogcdn/)、
+💡 收集有关网络安全的辅助工具。例如：[IP查询](https://ip.skk.moe/)、[IP聚合查询](https://ip.im/)、 [免费CDN](https://blog.tanglu.me/blogcdn/)、 [IP和DNS查询](https://nstool.netease.com/) 
 
 <!--more-->
 
@@ -108,6 +108,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C/  
 
