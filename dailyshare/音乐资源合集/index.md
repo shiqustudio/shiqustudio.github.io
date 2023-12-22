@@ -92,7 +92,7 @@
 
 🌐**资源地址**：🧩[项目地址](https://github.com/heyManNice/EasyMusic/) |📥 [软件下载](https://github.com/heyManNice/EasyMusic/releases)
 
-{{< image src="https://bib0.com/xc/i/2023/12/05/app.png" alt="-" title="Fun's images" width="800px">}}
+{{< image src="https://bib0.com/xc/i/2023/12/22/2.png" alt="-" title="Fun's images" width="800px">}}
 
 ### 卡音
 
