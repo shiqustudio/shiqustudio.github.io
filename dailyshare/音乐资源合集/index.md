@@ -70,7 +70,7 @@
 
 🌐**资源地址**：🔗[官网地址](https://nuclear.js.org/) | 🔽[下载地址](https://github.com/nukeop/nuclear/releases)
 
-{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218104545447.png" alt="-" title="Fun's images" width="800px">}}
+{{< image src="https://bib0.com/xc/i/2023/12/22/mockup1.png" alt="-" title="Fun's images" width="800px">}}
 
 ### EasyMusic
 
