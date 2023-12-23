@@ -75,6 +75,6 @@ Watt Toolkit 支持Windows 、macOS 、Android 版本上使用
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/github%E5%8A%A0%E9%80%9F/  
 
