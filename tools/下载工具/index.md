@@ -21,10 +21,9 @@
 
 ⭐️  资源描述：下载神器internet Download Manager（支持官网最新版本）注册激活方法分享。
 
->
->自行准备官方最新版本安装包
->🦸‍♂️[官网链接](https://www.internetdownloadmanager.com/)
->📣具体操作如下
+>自行准备官方最新版本安装包  
+>🦸‍♂️[官网链接](https://www.internetdownloadmanager.com/)  
+>📣具体操作如下  
 >1.下载安装好官网最新版本IDM后右下角任务栏退出。  
 >2、hosts 里面添加185.199.108.133 [raw.githubusercontent.com](https://raw.githubusercontent.com/)  
 >3、powershell运行复制的代码
