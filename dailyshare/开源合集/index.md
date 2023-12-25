@@ -5,9 +5,9 @@
 
 <!--more-->
 
-### Bypass Paywalls
+### 紫微斗数排盘工具库
 
-{{< image src="https://bib0.com/xc/i/2023/12/20/image-20231225110937772.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225110937772.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：一套轻量级紫微斗数排盘工具库
 
@@ -17,7 +17,7 @@
 
 ### Rime auto deploy
 
-{{< image src="https://bib0.com/xc/i/2023/12/20/image-20231225093113886.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225093113886.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：✅[Rime auto deploy](https://github.com/Mark24Code/rime-auto-deploy/) 一个 Rime 输入法安装脚本，让一切更轻松 
 

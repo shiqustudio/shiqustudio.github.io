@@ -7,7 +7,7 @@
 
 ### v0.dev
 
-{{< image src="https://bib0.com/xc/i/2023/11/25/image-20231225090925731.png" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225124904848.png" alt="-" title="Fun's images">}}
 
 ⭐️  资源描述：🎁[Vercel v0](https://v0.dev/) 已对所有人开放！
 
@@ -23,7 +23,7 @@
 
 ### COZE
 
-{{< image src="https://bib0.com/xc/i/2023/11/25/landing-page-swiper-edit.3102a2d6.png" alt="-" title="Fun's images">}}
+{{< image src="https://bib0.com/xc/i/2023/12/25/landing-page-swiper-edit.3102a2d6.png" alt="-" title="Fun's images">}}
 
 ⭐️  资源描述：🤖白嫖 ChatGPT4！字节跳动旗下免费 AI 机器人构建平台
 

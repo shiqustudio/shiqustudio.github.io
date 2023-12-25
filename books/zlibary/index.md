@@ -43,6 +43,16 @@
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
+### PubScholar
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225113841098.png" alt="-" title="Fun's images">}}     
+
+🆔  资源名称： [PubScholar](https://pubscholar.cn) - 公益学术平台
+
+> [PubScholar](https://pubscholar.cn)公益学术平台是中国科学院作为国家战略科技力量的主力军，履行学术资源保障“国家队”职责，为满足全国科技界和全社会科技创新的学术资源基础保障需求，建设的提供公益性学术资源的检索发
+
+🌐 资源地址：[点击跳转](https://pubscholar.cn)
+
 ### Librum
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225094405524.png" alt="-" title="Fun's images">}}     
