@@ -21,7 +21,8 @@
 🎵 [在线音乐频道7](https://www.fangpi.net/)   
 🎵 [在线音乐频道8](https://www.gequbao.com/)   
 🎵 [在线音乐频道9](https://music.dogged.cn/)  
-🎵 [在线音乐频道10](https://www.musicenc.com/) 
+🎵 [在线音乐频道10](https://www.musicenc.com/)  
+🎵 [在线音乐频道11](https://xiageba.com/)  
 
 <!--🎵 [在线音乐频道5](http://ayy.ayxhk.com/)-->  
 
