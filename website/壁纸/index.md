@@ -8,7 +8,7 @@
 
 ## Nbfox
 
-{{< image src="https://bib0.com/xc/i/2023/11/25/1634395834-ziyuanku-toutu-800px.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+{{< image src="https://bib0.com/xc/i/2023/12/25/1634395834-ziyuanku-toutu-800px.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
 
 ⭐️  资源描述：[麦田艺术](https://www.nbfox.com) - 收尽世界名画，无水印高清油画免费下载
 
