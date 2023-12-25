@@ -17,10 +17,17 @@
 
 <table>
   <tbody>
-    <tr>
+     <tr>
       <td>网址</td>
       <td>服务器</td>
       <td>图片限制</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://png.cm/">简单图床</a>
+      </td>
+      <td>国内cdn</td>
+      <td>50M</td>
     </tr>
     <tr>
       <td>
