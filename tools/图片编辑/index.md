@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### EasyCover
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/EasyCover.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  描述：简单封面[EasyCover](https://www.jiandan.link/) – 用最简单的方式制作封面图片
+
+> 简单封面，用最简单的方式制作封面图片。如果你也有找封面图的烦恼，不妨试试简单封面。简单的图片搭配文字，也可以生成很酷的封面图。不需要登录，不需要付费，无广告，无打扰，做最简单好用的封面图制作工具
+
+🌐 资源地址：[点击跳转](https://www.jiandan.link)
+
 ### DigiKam
 
 {{< image src="https://bib0.com/xc/i/2023/12/06/about_editor_albumview.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

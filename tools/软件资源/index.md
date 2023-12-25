@@ -209,6 +209,28 @@
 🌐 资源地址：[点击跳转](https://www.yhcres.top/)
 
 > 👉 [MIUI下载站](https://roms.miuier.com/mobile/zh-cn)，收录系统版本全，刷机可参考
+>
+> 安卓系统ROM下载，包含国内外版本，大多都是MIUI的，还有一些刷机搞机相关的软件教程等等。
+>
+> [https://sourceforge.net/](https://sourceforge.net/)  
+> [https://addrom.com/](https://addrom.com/)  
+> [https://mifirm.net/](https://mifirm.net/)  
+> [https://mi.fiime.cn/](https://mi.fiime.cn/)  
+> [https://mifirmware.com/](https://mifirmware.com/)  
+> [https://www.miuios.cz/](https://www.miuios.cz/)  
+> [https://miuidownload.com/](https://miuidownload.com/)  
+> [https://mirom.ezbox.idv.tw/en/](https://mirom.ezbox.idv.tw/en/)  
+> [https://miuirom.org/](https://miuirom.org/)  
+> [https://romprovider.com/](https://romprovider.com/)  
+> [https://xiaomi.eu/community/](https://xiaomi.eu/community/)  
+> [https://c.mi.com/global/](https://c.mi.com/global/)  
+> [https://xiaomifirmware.com/](https://xiaomifirmware.com/)  
+> [https://xiaomifirmwareupdater.com/](https://xiaomifirmwareupdater.com/)  
+> [https://xiaomistockrom.com/](https://xiaomistockrom.com/)  
+> [https://mi-globe.com/](https://mi-globe.com/)  
+> [https://xiaomirom.com/](https://xiaomirom.com/)
+>
+> 被屏蔽就换浏览器，打不开就开代理。
 
 ### 🟠其他资源
 
