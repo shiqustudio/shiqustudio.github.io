@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### LingoHut
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225163929879.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：自学一门外语. 使用[LingoHut](https://www.lingohut.com/zh)，你可以用自己的母语来学习超过45中语言，例如南非荷兰语、阿拉伯语、中文、荷兰语、英语、法语、德语、印地语、意大利语、日语、波斯语、葡萄牙语、俄语、西班牙语、土耳其语等。 LingoHut提供125节免费课程，零基础即可学习日常实用的短句和词汇。
+
+🌐 资源地址：[点击跳转](https://www.lingohut.com/zh)
+
 ### 公务员考试资料
 
 {{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218103003325.png" alt="-" title="Fun's images">}}  

@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 皮影数字博物馆
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/toucha.png" alt="-" title="Fun's images">}} 
+
+⭐️  资源描述：皮影数字博物馆
+
+🌐 资源地址：[点击跳转](http://shadow.caa.edu.cn/#/)
+
 ### 摩斯密码
 
 {{< image src="https://bib0.com/xc/i/2023/12/12/image-20231212094702132.png" alt="-" title="Fun's images">}} 

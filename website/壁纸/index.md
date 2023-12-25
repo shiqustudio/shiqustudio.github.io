@@ -6,6 +6,16 @@
 
 <!--more-->
 
+## Nbfox
+
+{{< image src="https://bib0.com/xc/i/2023/11/25/1634395834-ziyuanku-toutu-800px.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  资源描述：[麦田艺术](https://www.nbfox.com) - 收尽世界名画，无水印高清油画免费下载
+
+> 歌德说：“除了艺术之外，没有更妥善的逃世之方；而要与世界联系，也没有一种方法比艺术更好。”麦田艺术提供世界名画、无水印高清油画作品欣赏和免费下载，让你离艺术更近。
+
+🌐 资源地址：[点击跳转](https://www.nbfox.com)
+
 ## 拾光壁纸
 
 {{< image src="https://bib0.com/xc/i/2023/11/23/image-20231123110016165.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}   
