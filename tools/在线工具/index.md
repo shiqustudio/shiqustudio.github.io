@@ -6,6 +6,14 @@
 
 <!--more-->
 
+### Rename
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225111208593.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[Rename](https://rename.jgrass.xyz/)-在线批量文件重命名工具
+
+🔗 资源链接：🌐[点击跳转](https://rename.jgrass.xyz/) | 🧩[开源地址](https://github.com/JasonGrass/rename)
+
 ### SearchEmoji
 
 {{< image src="https://bib0.com/xc/i/2023/12/20/screenshot.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
@@ -1066,6 +1074,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/  
 

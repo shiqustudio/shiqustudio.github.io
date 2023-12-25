@@ -33,55 +33,83 @@
 
 ## 系统激活
 
-1. #### Qwins一键激活
+### Microsoft Activation Scripts
 
-   >支持Win7 Win10系统
-   >
-   >会被系统误杀，添加到白名单即可正常实用
-   >
-   >🔽下载地址：☁️[百度云](https://pan.baidu.com/s/1SoBhMv9A7zSkxPrIBEivMw) 提取码: cgnw 
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225104826078.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
-2. #### HEU\_KMS\_Activator
+⭐️  资源描述：💻[Microsoft Activation Scripts](https://massgrave.dev/index.html) - Windows 最新激活脚本
 
-   > 一款持续更新，简洁易用的 Windows/Office 激活工具。
-   >
-   > 下载地址由 [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases) 提供，如有压缩密码为：**HEU168**
-   >
-   > 🔽下载地址：☁️[百度云](https://pan.baidu.com/s/1L7YhpPS2nOOtITgt19PnFg) 提取码: s3nv  | ☁️[蓝奏云](https://wwi.lanzoup.com/b05gumbe) 提取码: 9xum
+>早些时候，微软封杀了 Windows 10/11 使用 HWID（硬件标识符） 永久激活通道，但是asdcorp和其团队发现了新的激活方式，史称 HWID2
+>
+>现在，你可以使用最新的 MAS 激活 Windows10/11 和 Office！
+>
+>✅激活方式
+>
+>▫️在 PowerShell 中输入以下代码并按下回车，选择「1」并按下回车即可激活
+>
+>```
+>irm https://massgrave.dev/get | iex
+>```
+>
+>▫️也可也从 MAS 的 Github 页面下载激活文件「MAS_AIO.cmd」，打开运行即可
 
-3. #### KMS 激活 Windows 系统  
+🌐 资源地址：[点击跳转](https://massgrave.dev/index.html)
 
-   🔥[激活地址1](https://kms.cx/)  |🔥 [激活地址2](https://www.moerats.com/kms/)  | 🔥[激活地址3](https://kms.cangshui.net/)  
+### Qwins一键激活
 
-4. #### **Microsoft Activation Scripts** 
+>支持Win7 Win10系统
+>
+>会被系统误杀，添加到白名单即可正常实用
+>
+>🔽下载地址：☁️[百度云](https://pan.baidu.com/s/1SoBhMv9A7zSkxPrIBEivMw) 提取码: cgnw 
 
-   > 一款全能的 Microsoft 激活批处理脚本，支持激活所有 Windows,Office 产品 整合激活方式包括：数字许可证永久激活 (HWID), 离线或联网 KMS38, 在线或本地 KMS 激活 180 天，支持更改 Win10/11 许可证密钥和系统版本
-   >
-   > 介绍说明下载参阅 [puresys](https://www.puresys.net/1025.html) 
+### HEU\_KMS\_Activator
 
-   **开源地址**：🧩[开源地址](https://github.com/massgravel/Microsoft-Activation-Scripts) | 🔽[下载地址](https://massgrave.dev/genuine-installation-media.html) | ☁️[蓝奏云](https://silece.lanzouw.com/i3l2W1gdi0cb) 
+> 一款持续更新，简洁易用的 Windows/Office 激活工具。
+>
+> 下载地址由 [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases) 提供，如有压缩密码为：**HEU168**
+>
+> 🔽下载地址：☁️[百度云](https://pan.baidu.com/s/1L7YhpPS2nOOtITgt19PnFg) 提取码: s3nv  | ☁️[蓝奏云](https://wwi.lanzoup.com/b05gumbe) 提取码: 9xum
+>
+> 💻[HEU KMS Activator v40.0.0](https://github.com/zbezj/HEU_KMS_Activator/releases) - Windows 最新激活工具
+>
+> 📄该工具可一键激活 Windows、Office 及 VL 版本，内置了 HWID2激活通道
+>
+> ⚠️该软件可能会出现报毒情况，最好先关闭安全保护再运行
 
-5. #### LKY Office Tools 
+### KMS 激活 Windows 系统  
 
-   > 一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒。
-   >
-   > 目前包含的功能：
-   >
-   > - 一键快速下载、安装、激活最新版 Microsoft Office 软件。
-   > - 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype。
-   > - 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
-   > - 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
-   > - 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。
+🔥[激活地址1](https://kms.cx/)  |🔥 [激活地址2](https://www.moerats.com/kms/)  | 🔥[激活地址3](https://kms.cangshui.net/)  
 
-   **开源地址**：🧩[开源地址](https://github.com/OdysseusYuan/LKY_OfficeTools#lky-office-tools) | 🔽[下载地址](https://github.com/OdysseusYuan/LKY_OfficeTools/releases/tag/v1.2.1)
+### **Microsoft Activation Scripts** 
 
-6. **Windows系统一句命令激活**
+> 一款全能的 Microsoft 激活批处理脚本，支持激活所有 Windows,Office 产品 整合激活方式包括：数字许可证永久激活 (HWID), 离线或联网 KMS38, 在线或本地 KMS 激活 180 天，支持更改 Win10/11 许可证密钥和系统版本
+>
+> 介绍说明下载参阅 [puresys](https://www.puresys.net/1025.html) 
 
-   > 🔥**命令提示符(管理员)：slmgr /skms kms.v0v.bid && slmgr /ato**
+**开源地址**：🧩[开源地址](https://github.com/massgravel/Microsoft-Activation-Scripts) | 🔽[下载地址](https://massgrave.dev/genuine-installation-media.html) | ☁️[蓝奏云](https://silece.lanzouw.com/i3l2W1gdi0cb) 
 
-   **资源地址**：🔗[点击跳转](https://v0v.bid/) | 📝[详细教程](https://v0v.bid/kms.php)
+### LKY Office Tools 
 
-   {{< image src="https://bib0.com/xc/i/2023/12/07/help.png" alt="-" title="Fun's images">}}     
+> 一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒。
+>
+> 目前包含的功能：
+>
+> - 一键快速下载、安装、激活最新版 Microsoft Office 软件。
+> - 用户可在安装 Word、PPT、Excel 的同时，根据软件提示，自助安装其它组件，包括： Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype。
+> - 工具可自动识别不同的操作系统架构，自动下载适配版本的 Office。
+> - 本工具激活 Office 的方式为正版激活模式，不会篡改任何系统文件。
+> - 当系统中存在多个冗余 Office 版本时，本工具在用户同意的情况下，可实现自动升级。
+
+**开源地址**：🧩[开源地址](https://github.com/OdysseusYuan/LKY_OfficeTools#lky-office-tools) | 🔽[下载地址](https://github.com/OdysseusYuan/LKY_OfficeTools/releases/tag/v1.2.1)
+
+### **Windows系统一句命令激活**
+
+> 🔥**命令提示符(管理员)：slmgr /skms kms.v0v.bid && slmgr /ato**
+
+**资源地址**：🔗[点击跳转](https://v0v.bid/) | 📝[详细教程](https://v0v.bid/kms.php)
+
+{{< image src="https://bib0.com/xc/i/2023/12/07/help.png" alt="-" title="Fun's images">}}     
 
 ## 办公软件
 
@@ -191,6 +219,10 @@
 🟢反斗限免： [点击跳转](http://free.apprcn.com/)  
 🟢反斗软件： [点击跳转](http://www.apprcn.com/)
 
+🟠安卓工程码
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225110555132.png" alt="-" title="Fun's images">}}  
+
 ## 系统在线体验
 
 ### Windows 系统
@@ -227,6 +259,132 @@
 
 🔗 资源地址：▶️[在线体验](https://www.onworks.net/os-distributions)
 
+## 💻操作系统
+
+### Pear OS
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225102557933.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🍐[Pear OS](https://pearos.xyz/) - 一个 macOS 风格的 Linux 系统
+
+>Pear OS 的中文叫梨子系统，明显是对标苹果系统的😄
+>
+>整体风格高仿 MacOS ，一些窗口特效、软件界面等等。令人惊喜的是还支持简体中文，不过部分不全
+>
+>由于系统基于 Arch Linux ，所以配置要求不高，软件可以从 [Spark](https://www.spark-app.store/)商店下载
+
+🌐 资源地址：[点击跳转](https://pearos.xyz/) | ⬇️[下载地址（.iso）](https://github.com/pearOS-archlinux/iso/releases/)| [安装教程](https://www.youtube.com/watch?v=BpUZhMOAo04&feature=youtu.be)
+
+### Ghost Spectre
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225102943443.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[Ghost Spectre](http://ghostspectre.the-ninja.jp/20H2.X64.html)（幽灵组织） - 一个相对注重安全性的优化版Windows系统
+
+>⏬详细介绍、安装教程以及下载
+>
+>[Windows10](https://tech-latest.com/ghost-spectre-windows-10-superlite-version/) | [Windows11](https://tech-latest.com/ghost-spectre-windows-11/)
+>
+>💡Feature
+>
+>- 集成LZX算法
+>- 内置 .NET 框架 4.0/4.5/4.6/4.7/4.8
+>- 优化的页面文件/服务/计划/搜索索引器
+>- 优化隐私和性能
+>- 内置幽灵工具箱（可以添加或删除 Windows 应用商店等功能）
+>- 更多主题
+>- 可升级系统和更新补丁
+>- 更多...
+>
+>📃Ghost Spectre 首次发行于2019年
+>
+>最新版本的 Ghost Spectre 基于 Windows 10 20H2 和 Build 19042.985，并且与 AtlasOS 一样，特别针对游戏性能进行优化
+>
+>Ghost Spectre没有阉割Defender，所以安全性方面比AtlasOS更好一些
+>
+>安装时可选 COMPACT (默认版)、LITE (精简版)、SE (定制版，对系统一些功能进行改动，例如使用 StartIsBack 代替了开始菜单)
+>
+>如大多数优化版系统，Ghost Spectre把系统自带的应用基本都精简掉了
+>
+>此外，你还可以使用幽灵工具箱优化游戏性能
+>
+>需要注意的是，这个系统的中文界面部分不全，但是实际体验下来还不错
+
+🌐 资源地址：[点击跳转](http://ghostspectre.the-ninja.jp/20H2.X64.html)
+
+### ReviOS
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225103217683.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[ReviOS](https://www.revi.cc/) - 一个性能和稳定兼备的Windows系统
+
+>[ReviOS 常见问题解答](https://revios.rignoa.com/) | [ReviOS实测结果](https://imgur.com/a/v72g8vA)
+>
+>💡Features
+>
+>- 支持Windows10/11
+>- 内置「Revision Tool」优化配置工具
+>- 提高游戏性能：极大改善游戏帧率稳定
+>- 保证稳定性：ReviOS通过杀除后台冗余任务和服务来加速系统，从而不会影响稳定性
+>- 保护隐私：去除UWP/AppX Apps、Windows更新、Cortana等这些收集用户信息的服务
+>- 社区支持：加入[ReviOS Discord](https://discord.com/invite/962y4pU)获得帮助支持
+>
+>📃与之前介绍的AtlasOS不同的是，ReviOS显得没那么“激进”
+>
+>因为AtlasOS是专门为游戏用户打造，所以精简了大量组件，使得日常使用中许多功能不可用
+>
+>而ReviOS在没有牺牲稳定性的前提下，同样也对游戏性能有所提升，所以日常游戏或者办公都可以使用这个系统
+>
+>📖总结
+>
+>ReviOS在性能和稳定之间做了平衡，相比较AtlasOS适合的群体更多
+>
+>并且ReviOS也声明了对老机器支持良好，所以如果你的电脑配置不高也可以考虑装这个系统
+>
+>当做主力使用的话，建议现在虚拟机装一遍
+
+🌐 资源地址：[点击跳转](https://www.revi.cc/)
+
+### AtlasOS
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225103706762.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[AtlasOS](https://atlasos.net/) - 专为游戏党定制的高性能Windows 10系统
+
+>⏬[下载页面](https://atlasos.net/downloads) | 🧩[开源地址](https://github.com/Atlas-OS/Atlas) | 📖[更改中文](https://www.landiannews.com/archives/96172.html) |🎦[视频教程](https://www.youtube.com/watch?v=Le-0wHEKvow)
+>
+>📃通俗点说，这就是一个精简过的优化版Windows，可以有效提升游戏性能，适合老机器
+>
+>官方数据表明，阿特拉斯的默认进程是35个，原版则是185个；内存占用是600M，原版则是1.5G；ISO包大小是1.49G，原版则是4.5G。
+>
+>📚我装系统一般会先备份C盘重要文件，然后再进入PE格式化整个装系统的固态硬盘，确保是GPT格式，4K对齐，然后再重建分区。最后再用WinNT安装即可。
+
+🌐 资源地址：[点击跳转](https://atlasos.net/)
+
+### Windows X-Lite
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225102205889.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[Windows X-Lite](https://windowsxlite.com/) - 又一精简版 Windows 系统
+
+>📄Windows X-Lite 包含 10 和 11，按作者的话来说该系统旨在增强性能、稳定性、隐私等，适用于老旧电脑
+>
+>不过提醒大家，系统默认是英文的，需要自己设置成中文，不建议用于主力系统使用，也不必过分迷信老外的优化能力
+
+🌐 资源地址：[点击跳转](https://windowsxlite.com/)
+
+### ExplorerPatcher
+
+{{< image src="https://bib0.com/xc/i/2023/12/06/image-20231206162519393.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 一键「开倒车」 
+
+>📄这个软件可以让你轻松地在 Windows11 上换回 Windows10 的风格
+>
+>包括任务栏、右键菜单和文件管理器命令栏等，让你轻松开倒车
+
+🌐 资源地址：🔽[下载地址 ](https://github.com/valinet/ExplorerPatcher/releases) | 📝[说明文档](https://github.com/valinet/ExplorerPatcher/wiki)
+
 ## 镜像资源
 
 ### 快点软件镜像站
@@ -256,18 +414,6 @@
 >通过此网站可以快速定位你想要使用的开源软件
 
 🔗 资源地址：[点击跳转](https://www.containerize.com/zh/)
-
-### ExplorerPatcher
-
-{{< image src="https://bib0.com/xc/i/2023/12/06/image-20231206162519393.png" alt="-" title="Fun's images">}}  
-
-⭐️  资源描述：💻[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 一键「开倒车」 
-
->📄这个软件可以让你轻松地在 Windows11 上换回 Windows10 的风格
->
->包括任务栏、右键菜单和文件管理器命令栏等，让你轻松开倒车
-
-🌐 资源地址：🔽[下载地址 ](https://github.com/valinet/ExplorerPatcher/releases) | 📝[说明文档](https://github.com/valinet/ExplorerPatcher/wiki)
 
 ## PE 维护
 
@@ -314,6 +460,16 @@
 >⭐️  资源描述：Rufus - `简洁，开源`  
 >🌐 资源地址：[点击跳转](https://rufus.ie/zh/)
 
+### WinPenPack
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225110341914.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：[WinPenPack](https://www.winpenpack.com/en/index.php) - 便携式绿色软件合集
+
+>数百种免费便携式软件
+
+🌐 资源地址：[点击跳转](https://www.winpenpack.com/en/index.php)
+
 ## 电脑修复检测
 
 🟡资源名称：🖥️194款电脑常用修复工具软件
@@ -322,9 +478,35 @@
 
 🕺下载地址：☁️[百度云盘](https://pan.baidu.com/s/1_wUQVeTreXFH7rG4DlUGEw?pwd=3ytf)
 
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225110446774.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：[Windows故障修复](https://zh.tinystm.org/)
+
+🌐 资源地址：[点击跳转](https://zh.tinystm.org/)
+
+## 辅助工具
+
+### MSEdgeRedirect
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225101823621.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：🔟[MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - 一个解禁 Windows 功能的工具 
+
+>📄众所周知，科技巨头们因为欧盟数字市场法案，所以都会做一些妥协。
+>
+>比如欧洲的 Windows 拥有一些其他地区没有的功能：
+>
+>▫️卸载 Edge 浏览器  
+>▫️可以更换 Windows 默认搜索引擎、浏览器  
+>▫️关闭 Windows 开始菜单、小部件广告等
+>
+>而使用 MSEdgeRedirect ，你也可以为你的 Windows 解禁这些功能了，原理是修改系统内置的区域代码为欧洲地区
+
+🌐 资源地址：[点击跳转](https://github.com/rcmaehl/MSEdgeRedirect) | ⬇️[下载页面](https://github.com/rcmaehl/MSEdgeRedirect/releases)
+
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/  
 

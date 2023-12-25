@@ -5,15 +5,25 @@
 
 <!--more-->
 
+### Just Laws
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225094758248.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：⚖️[Just Laws](https://www.justlaws.cn/) - 一个简洁且便捷的中国法律文库 
+
+>📄开发者经常在 B 站观看罗老师的视频，发现查阅法条时手动百度时经常误入广告和奇葩网站，某次在 GitHub 上发现一个关于宪法的网站项目激发了将所有法律条文收录到一个网站的想法
+
+🌐 资源地址：[点击跳转](https://www.justlaws.cn/)
+
 ### AI 法律助手
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623160920712.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623160920712.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="1000px">}}    
 
 ⭐️  资源描述：⚖️AI 法律助手
 
-🌐 资源地址：[点击跳转](https://law.ai2045.com/)|[Github地址](https://github.com/lvwzhen/law-cn-ai)
+🌐 资源地址：[点击跳转](https://law.ai2045.com/) |🧩[Github地址](https://github.com/lvwzhen/law-cn-ai)
 
-### chatlaw
+### ChatLaw
 
 {{< image src="https://bib0.com/xc/i/2023/07/01/image-20230701212453765.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
@@ -41,6 +51,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/  
 

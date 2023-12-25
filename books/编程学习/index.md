@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### Everything
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/sssmall2.gif" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：**[Everything](https://www.voidtools.com/zh-cn/)** - 基于名称快速定位文件和文件夹。
+
+>👉[Everything 索引原理探讨](https://v2ex.com/t/1001347#reply18)
+>
+>👉[是什么让 Everything 的文件搜索和索引如此高效？](https://stackoverflow.com/questions/47686560/what-makes-everythings-file-search-and-index-so-efficient)
+>
+>👉[Everything的原理猜想与实现](https://github.com/LeiHao0/Fake-Everything)
+
+🌐 资源地址：[点击跳转](https://www.voidtools.com/zh-cn/)
+
 ### 中国独立开发者项目列表
 
 {{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218111539162.png" alt="-" title="Fun's images">}}  
@@ -240,6 +254,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/  
 

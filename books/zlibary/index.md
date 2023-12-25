@@ -43,6 +43,18 @@
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
+### Librum
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225094405524.png" alt="-" title="Fun's images">}}     
+
+🆔  资源名称： 📖[Librum](https://librumreader.com/) - 一款开源的电子书阅读器
+
+> 📄它支持 PDF、EPUB、CBZ (漫画书)、XPS、PS 等电子书格式，内置了 7000+ 免费电子书图书馆
+>
+> 支持中文和多平台
+
+🌐 资源地址：[点击跳转](https://librumreader.com/)
+
 ### 寻书
 
 {{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218102009770.png" alt="-" title="Fun's images">}}     
@@ -178,6 +190,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/books/zlibary/  
 

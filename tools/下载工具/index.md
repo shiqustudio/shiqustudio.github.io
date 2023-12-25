@@ -15,6 +15,29 @@
 
 🌐 资源地址：🔽[官网下载](https://motrix.app/zh-CN/download) | ❓ [常见问题解决](https://www.yuque.com/moapp/help/issues)
 
+### IDM
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/idm_screenshot_6_35.png" alt="-" title="Fun's images" width="800px" >}}  
+
+⭐️  资源描述：下载神器internet Download Manager（支持官网最新版本）注册激活方法分享。
+
+>
+>自行准备官方最新版本安装包
+>🦸‍♂️[官网链接](https://www.internetdownloadmanager.com/)
+>📣具体操作如下
+>1.下载安装好官网最新版本IDM后右下角任务栏退出。  
+>2、hosts 里面添加185.199.108.133 [raw.githubusercontent.com](https://raw.githubusercontent.com/)  
+>3、powershell运行复制的代码
+>
+>```
+>irm https://massgrave.dev/ias | iex
+>```
+>
+>4、弹出来的小窗口先输入3，再输入1
+>然后就会提示激活成功了
+
+🌐 资源地址：🔽[官网下载](https://www.internetdownloadmanager.com/) 
+
 ### FDM
 
 {{< image src="https://bib0.com/xc/i/2023/11/29/src_win20231129.svg" alt="-" title="Fun's images" width="800px" >}}  
@@ -139,6 +162,6 @@ Tracker 的作用就是更快的找到其他下载同一资源的用户，并帮
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/  
 

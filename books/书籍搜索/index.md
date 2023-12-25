@@ -133,15 +133,18 @@ Z-library 有很多入口，大致分为官方网站和民间镜像。官方自�
 
 > **—— 随时更新，避免失效 ——**
 >
-> 1.  https://c.aalib.net/tool/libgen/ `镜像合集`
-> 2.  [http://libgen.rs/](http://libgen.rs/)
-> 3.  [https://libgen.rocks/](https://libgen.rocks/)
-> 4.  [https://libgen.gs/](https://libgen.gs/)
-> 5.  [http://libgen.rs/search.php](http://libgen.rs/search.php)
-> 6.  [https://www.libgen.tw/](https://www.libgen.tw/)
-> 7.  [https://llhlf.com/](https://llhlf.com/) ⭐`11-28`
-> 8.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像收集`
-> 9.  [https://unblockit.foo/](https://unblockit.foo/) ⭐`11-28`
+> 1.  [http://library.lol/](http://library.lol/) `Library Genesis图书馆地址发布页`
+> 2.  [https://c.aalib.net/tool/libgen/](https://c.aalib.net/tool/libgen/) `镜像合集`
+> 3.  [http://libgen.rs/](http://libgen.rs/)
+> 4.  [http://libgen.st/](http://libgen.st/)
+> 5.  [http://libgen.is/](http://libgen.is/)
+> 6.  [https://libgen.rocks/](https://libgen.rocks/)
+> 7.  [https://libgen.gs/](https://libgen.gs/)
+> 8.  [http://libgen.rs/search.php](http://libgen.rs/search.php)
+> 9.  [https://www.libgen.tw/](https://www.libgen.tw/)
+> 10.  [https://llhlf.com/](https://llhlf.com/) ⭐`11-28`
+> 11.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像收集`
+> 12.  [https://unblockit.foo/](https://unblockit.foo/) ⭐`11-28`
 
 ### ⏬ 下载
 
@@ -530,6 +533,6 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/  
 

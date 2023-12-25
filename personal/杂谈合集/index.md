@@ -196,6 +196,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/personal/%E6%9D%82%E8%B0%88%E5%90%88%E9%9B%86/  
 
