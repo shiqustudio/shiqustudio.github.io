@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### AI副业资讯
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225125711649.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
+
+🌐 资源地址：[点击跳转](https://github.com/bleedline/aimoneyhunter)
+
 ### v0.dev
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225124904848.png" alt="-" title="Fun's images">}}

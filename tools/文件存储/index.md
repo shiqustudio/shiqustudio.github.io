@@ -150,6 +150,18 @@
 
 🌐 资源地址：[点击跳转](https://anonfiles.com/)
 
+### netdisk-fast-download
+
+{{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225144437603.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 网盘直链解析神器
+
+> 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/UC网盘/小飞机盘/亿方云/123云盘等
+
+🌐 资源地址：🧩 [开源地址](https://github.com/qaiu/netdisk-fast-download) | [预览地址](https://lz.qaiu.top/)
+
+{{< bilibili BV1C14y1S7AV>}}
+
 
 ---
 
