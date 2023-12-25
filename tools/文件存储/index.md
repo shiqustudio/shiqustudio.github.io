@@ -153,6 +153,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8/  
 
