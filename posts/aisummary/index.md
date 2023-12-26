@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### AwesomeGPTs.pro
+
+{{< image src="https://bib0.com/xc/i/2023/12/26/image-20231226161918151.png" alt="-"  title="Fun's images" >}}     
+
+⭐️  资源描述：一个关于GPTs的导航站和搜索引擎
+
+🌐 资源地址: [点击跳转](https://awesomegpts.pro/)
+
 ### awesome-open-gpt
 
 {{< image src="https://bib0.com/xc/i/2023/12/20/gpt-header.jpeg" alt="-"  title="Fun's images" >}}     
