@@ -17,6 +17,9 @@
 | ✅    | [Chrome666](https://www.chrome666.com/)   | **`可用`** |
 | ✅    | [Cnplugins](https://www.cnplugins.com/)   | **`可用`** |
 | ✅    | [Huajiakeji](https://huajiakeji.com/)     | **`可用`** |
+| ✅    | [chromefk](https://www.chromefk.com/)     | **`可用`** |
+| ✅    | [极简插件](https://chrome.zzzmh.cn/)      | **`可用`** |
+| ✅    | [插件迷](https://www.chajianmi.com/)      | **`可用`** |
 
 ### EXdock
 
