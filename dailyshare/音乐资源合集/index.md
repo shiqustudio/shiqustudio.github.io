@@ -22,7 +22,7 @@
 🎵 [在线音乐频道8](https://www.gequbao.com/)   
 🎵 [在线音乐频道9](https://music.dogged.cn/)  
 🎵 [在线音乐频道10](https://www.musicenc.com/)  
-🎵 [在线音乐频道11](https://xiageba.com/)  
+<!--🎵 [在线音乐频道11](https://xiageba.com/)-->  
 
 <!--🎵 [在线音乐频道5](http://ayy.ayxhk.com/)-->  
 
@@ -40,6 +40,7 @@
 | 🔽[mp3paw](https://mp3paw.mobi/)              | **`可用`** | ✅    |
 | 🔽[mp3db](https://mp3db.pro/)                 | **`可用`** | ✅    |
 | 🔽[mp3juice](https://mp3juice.party/)         | **`可用`** | ✅    |
+| 🔽[下歌吧](https://xiageba.com/)              | **`可用`** | ✅    |
 
  {{< /admonition >}}
 
