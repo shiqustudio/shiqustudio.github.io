@@ -65,6 +65,6 @@ https://www.wuzhuiso.com/s?q=%s
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/  
 
