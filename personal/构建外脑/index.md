@@ -328,6 +328,6 @@ Dan Shipper 在《[The End of Organizing](https://every.to/chain-of-thought/the-
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/personal/%E6%9E%84%E5%BB%BA%E5%A4%96%E8%84%91/  
 > 转载 URL: https://www.indigox.me/build-exobrain/
