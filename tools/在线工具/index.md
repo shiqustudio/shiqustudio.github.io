@@ -20,7 +20,11 @@
 
 📁 网站简介：🧐 SearchEmoji - 🔍搜索表情符号，🖱️点击复制 - 支持 30 种语言的表情符号搜索引擎
 
-🔗 资源链接：🌐[点击跳转](https://searchemoji.app/zh-hans) | 🧩[开源地址](https://github.com/rotick/searchemoji?tab=readme-ov-file)
+>⚓其他类似相关
+>
+>[EmojiAll 😀](https://www.emojiall.com/zh-hans) | [Emoji 😀](https://funletu.com/emoji/)
+
+🔗 资源链接：🌐[点击跳转](https://searchemoji.app/zh-hans) | 🧩[开源地址](https://github.com/rotick/searchemoji?tab=readme-ov-file) 
 
 ### Obsidian美化插件
 
@@ -1074,6 +1078,6 @@
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/  
 
