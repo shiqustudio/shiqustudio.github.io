@@ -1,9 +1,7 @@
-# 🎬TVBox
+# 📺TVBox
 
 
-💡 **想要简单省事且免费的 app，使用 TVBox 是最优选择**。
-
-TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加 **源**，速度和资源量是根据添加的配置而决定的，只要添加的 **配置** 里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。  
+💡 TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加 **源**，速度和资源量是根据添加的配置而决定的，只要添加的 **配置** 里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。  **想要简单省事且免费的 app，使用 TVBox 是最优选择**。
 
 <!--more-->
 
@@ -76,7 +74,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 * * *
 
-🔗 EasyBox 1.10 **（安卓竖屏版）**：[蓝奏云](https://silece.lanzouw.com/ionNF1j9i8ja)、
+🔗 EasyBox 1.10 **（安卓竖屏版）**：[蓝奏云](https://silece.lanzouw.com/ionNF1j9i8ja)
 
 ## TVBox 内置源版
 
@@ -92,11 +90,11 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 龙门影视 2.1.0：[蓝奏云](https://silece.lanzouw.com/iew6j1j9xxxe)、[118 网盘](https://kyon.118pan.com/b1125943)
 
-[**可可影视**](https://www.123pan.com/s/ZAzA-MPUwh.html) *安卓内置线路的影视 app* - `适合懒人使用，线路较多，目前无广告`。
+[可可影视](https://www.123pan.com/s/ZAzA-MPUwh.html) *安卓内置线路的影视 app* - `适合懒人使用，线路较多，目前无广告`。
 
-[**龙门视频**](https://www.looo.top/) *聚合全网影视的 APP* - `适合懒人使用，内置了 150+影视资源站点`。
+[龙门视频](https://www.looo.top/) *聚合全网影视的 APP* - `适合懒人使用，内置了 150+影视资源站点`。
 
-**[美益达影视 app](http://meiyida.tv/label/app.html)** *安卓内置线路的影视 app* - `图省事的可以用内置海量线路，美益达影视 app`。
+[美益达影视 app](http://meiyida.tv/label/app.html) *安卓内置线路的影视 app* - `图省事的可以用内置海量线路，美益达影视 app`。
 
 **其他APP推荐**:
 
@@ -114,7 +112,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 **TVBox 影视 tv** *@fongmi 魔改版*，支持 **自动切换失效源**。
 
-[123云盘下载](https://www.123pan.com/s/V65A-5tlLd.html)
+🔽[123云盘下载](https://www.123pan.com/s/V65A-5tlLd.html)
 
 蜂蜜影视支持自动更新 app，在设置中点击 **版本** 会自动检测更新，如没有弹出更新，可以反复点击，直至弹出更新即可，如安装闪退或无法使用，可安装支持安卓 4.1 的 [fongmi 老系统专用版](https://haosu.lanzoui.com/iwdQo0ww46kf)
 
@@ -122,7 +120,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 **TVBox 影视 tv** *@takagen99 版*
 
-[123云盘下载](https://www.123pan.com/s/V65A-5tlLd.html)
+🔽[123云盘下载](https://www.123pan.com/s/V65A-5tlLd.html)
 
 下载地址来自 GitHub，版本为 20231121 版，TVBox 只要能用可以不更新
 
@@ -130,7 +128,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 **影视@fengmi** *安卓手机竖屏*
 
-[123云盘下载](https://www.123pan.com/s/V65A-5tlLd.html)
+🔽[123云盘下载](https://www.123pan.com/s/V65A-5tlLd.html)
 
 UI 简洁，**自动切换失效源**。
 
@@ -138,7 +136,7 @@ UI 简洁，**自动切换失效源**。
 
 **EasyBox 下载** *安卓手机竖屏*
 
-[`.apk` 下载](http://www.6ll.com/soft/11288.html) | [蓝奏云下载](https://silece.lanzouw.com/ionNF1j9i8ja)
+🔽[`.apk` 下载](http://www.6ll.com/soft/11288.html) | [蓝奏云下载](https://silece.lanzouw.com/ionNF1j9i8ja)
 
 EasyBox 是 TVBox 的安卓竖屏版，app 无广告 UI 简洁，可当作安卓影视 app 使用，有电视直播功能。
 
@@ -352,7 +350,7 @@ https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
 
 > 📄 TVBOX 使用方法+更多视频源获取方法，希望你以后都 **再也不用** 为影视 APP 这个问题犯愁！！
 
-## **TVBOX**
+### **TVBOX**
 
 其实现在基本上影视 APP 采用的都是用「套壳＋视频源」的模式，包括但不限于醉拳、斑马、蜗牛、行星影视等等：这类 APP 基本上就只是名字、图标不同，APP 内部的界面、内容几乎一模一样的
 
