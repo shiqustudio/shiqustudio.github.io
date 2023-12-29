@@ -438,7 +438,15 @@
 
 ## 综合平台视频下载
 
-### 1\. 视频下载 - 微博党
+### TiQu.cc
+
+◾ 视频聚合解析网站 支持国内国外100多平台 复制链接一键下载
+
+🌐资源地址：[TiQu.cc](https://tiqu.cc/)
+
+{{< image src="https://bib0.com/xc/i/2023/12/29/image-20231229191253078.png" alt="-" title="Fun's images" width="800px">}}  
+
+### 视频下载 - 微博党
 
 ◾ 在线解析网站中嵌入的视频。目前支持MP4、MP3、M3U8的处理。
 
@@ -448,7 +456,7 @@
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205093804416.png" alt="-" title="Fun's images" width="800px">}}  
 
-### 2\. Hitomi Downloader
+### Hitomi Downloader
 
 特征
 
@@ -558,7 +566,7 @@
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/how_to_download.gif" alt="-" title="Fun's images" width="800px">}}  
 
-### 3\. Gihosoft TubeGet
+### Gihosoft TubeGet
 
 ◾ `专注于下载YouTube超高清视频` 支持720P、1080P、2K、4K、8K分辨率视频的获取
 
@@ -574,7 +582,7 @@ Facebook、Twitter、Instagram、Tumblr等社交媒体
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205094034775.png" alt="-" title="Fun's images" width="800px">}}  
 
-### 4\. VideoFK
+### VideoFK
 
 ◾ 该网站可以下载twitter、Facebook、哔哩哔哩、Instagram、TED等非常多个网站的视频。
 
@@ -582,7 +590,7 @@ Facebook、Twitter、Instagram、Tumblr等社交媒体
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205094058047.png" alt="-" title="Fun's images" width="800px">}}  
 
-### 5\. lux 命令行下载方式
+### lux 命令行下载方式
 
 🏷️ Lux 是一个用 Go 构建的跨平台快速简单的视频下载器。
 
@@ -683,7 +691,7 @@ $ lux -i "https://www.bilibili.com/video/av21877586" "https://www.bilibili.com/v
      # download with: lux -f default "URL"
 ```
 
-### 6\. 4K Video Downloader
+### 4K Video Downloader
 
 ◾ 油管高清视频下载利器，可提取视频字幕和音乐，  
 ◾ 智能下载高清画质视频，一键下载字幕，  
@@ -697,7 +705,7 @@ YouTube, Vimeo, SoundCloud, Flickr, Facebook, DailyMotion，tiktok等网站的�
 
 {{< image src="https://bib0.com/xc/i/2023/12/05/image-20231205094141626.png" alt="-" title="Fun's images" width="800px">}}  
 
-### 7\. HD Video Converter Factory Pro
+### HD Video Converter Factory Pro
 
 ◾ 国外堪称转换速度最快的高清视频转换软件
 
