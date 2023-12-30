@@ -146,6 +146,6 @@ Hugo 允许您通过覆盖主题模板来改造主题，例如：您可以创建
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tutorial/shili-jinjiepian/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/advanced/

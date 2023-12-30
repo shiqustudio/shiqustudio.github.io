@@ -32,6 +32,6 @@ LOGO设计灵感收集网站 🌟
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/  
 
