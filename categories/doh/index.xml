@@ -3,13 +3,16 @@
     <title>DoH - 分类 - 拾趣资源</title>
     <link>https://blog.funvip.live/categories/doh/</link>
     <description>DoH - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/doh/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/doh/" rel="self" type="application/rss+xml" /><item>
   <title>🎯公共DoH</title>
   <link>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</link>
   <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>作者</author>
+  <author>聪</author>
   <guid>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</guid>
-  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/11/28/DNS20231128171059.jpg" title="🎯公共DoH" alt="🎯公共DoH" referrerpolicy="no-referrer"/></div><p>💡 DoH 对于普通用户的用处主要体现了防止运营商对内容进行HTTP劫持，可以一定程度减少广告弹窗与内容篡改。更多可通过<a href="https://remeins.com/index/app/dns"target="_blank" rel="external nofollow noopener noreferrer">地址列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看。</p>]]></description>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/11/28/DNS20231128171059.jpg" referrerpolicy="no-referrer">
+      </div><p>💡 DoH 对于普通用户的用处主要体现了防止运营商对内容进行HTTP劫持，可以一定程度减少广告弹窗与内容篡改。更多可通过<a href="https://remeins.com/index/app/dns"target="_blank" rel="external nofollow noopener noreferrer">地址列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看。</p>]]></description>
 </item>
 </channel>
 </rss>

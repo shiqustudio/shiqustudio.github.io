@@ -514,6 +514,6 @@ APP 需要到 Github 上下载：[https://github.com/cuiocean/ZY-Player-APP](htt
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/dailyshare/tvbox/  
 

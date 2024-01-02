@@ -3,13 +3,16 @@
     <title>CDN - 标签 - 拾趣资源</title>
     <link>https://blog.funvip.live/tags/cdn/</link>
     <description>CDN - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/cdn/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
+      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/cdn/" rel="self" type="application/rss+xml" /><item>
   <title>🛬CDN资源库</title>
   <link>https://blog.funvip.live/tools/cdn/</link>
   <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>作者</author>
+  <author>聪</author>
   <guid>https://blog.funvip.live/tools/cdn/</guid>
-  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/11/28/192a17c745c30d541eea0ebb9056dac1.jfif" title="🛬CDN资源库" alt="🛬CDN资源库" referrerpolicy="no-referrer"/></div><p>💡 CDN公共库是指将常用的JS库存放在CDN节点，以方便广大开发者直接调用。</p>]]></description>
+  <description><![CDATA[<div class="featured-image">
+        <img src="https://bib0.com/xc/i/2023/11/28/192a17c745c30d541eea0ebb9056dac1.jfif" referrerpolicy="no-referrer">
+      </div><p>💡 CDN公共库是指将常用的JS库存放在CDN节点，以方便广大开发者直接调用。</p>]]></description>
 </item>
 </channel>
 </rss>
