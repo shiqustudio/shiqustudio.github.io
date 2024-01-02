@@ -11,6 +11,18 @@
 
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
+### Drawing Prompt
+
+{{< image src="https://bib0.com/xc/i/2024/01/02/image-20240102080611357.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：🖼[Drawing Prompt](https://drawing-prompt.com/zh-Hans)（绘画提示） - 一款 AI 驱动的提示词生成工具 
+
+>📄绘图提示提供 3 个功能：自动扩展提示词、随机生成提示和 AI 生图
+>
+>**工具完全免费，无需登录**
+
+🌐 资源地址：[点击跳转](https://drawing-prompt.com/zh-Hans)
+
 ### v0.dev
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225124904848.png" alt="-" title="Fun's images">}}
