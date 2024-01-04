@@ -5,39 +5,39 @@
 
 **FixIt** 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode。
 
-<!--more-->
+&lt;!--more--&gt;
 
 ## style
 
 [![FixIt 0.2.0 | 更改](https://fixit.lruihao.cn/svg/version/0.2.0-changed.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0)
 
-{{< admonition >}} 
+{{&lt; admonition &gt;}} 
 
 Hugo **extended** 版本对于 `style` shortcode 是必需的。
 
- {{< /admonition >}}
+ {{&lt; /admonition &gt;}}
 
 `style` shortcode 用来在你的文章中插入自定义样式。
 
 `style` shortcode 有两个位置参数。
 
-第一个参数是自定义样式的内容。它支持 [ SASS](https://sass-lang.com/documentation/style-rules/declarations#nesting) 中的嵌套语法， 并且 `&` 指代这个父元素。
+第一个参数是自定义样式的内容。它支持 [ SASS](https://sass-lang.com/documentation/style-rules/declarations#nesting) 中的嵌套语法， 并且 `&amp;` 指代这个父元素。
 
 第二个参数是包裹你要更改样式的内容的 HTML 标签，默认值是 `div`。
 
 一个 `style` 示例：
 
 ```go-html-template
-{{</* style "text-align:right; strong{color:#00b1ff;}" */>}}
+{{&lt;/* style &#34;text-align:right; strong{color:#00b1ff;}&#34; */&gt;}}
 This is a **right-aligned** paragraph.
-{{</* /style */>}}
+{{&lt;/* /style */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< style "text-align:right; strong{color:#00b1ff;}" >}}
+{{&lt; style &#34;text-align:right; strong{color:#00b1ff;}&#34; &gt;}}
 This is a **right-aligned** paragraph.
-{{< /style >}}
+{{&lt; /style &gt;}}
 
 ## link
 
@@ -90,32 +90,32 @@ This is a **right-aligned** paragraph.
 一个 `link` 示例：
 
 ```go-html-template
-{{</* link "https://assemble.io" */>}}
+{{&lt;/* link &#34;https://assemble.io&#34; */&gt;}}
 或者
-{{</* link href="https://assemble.io" */>}}
+{{&lt;/* link href=&#34;https://assemble.io&#34; */&gt;}}
 
-{{</* link "mailto:contact@revolunet.com" */>}}
+{{&lt;/* link &#34;mailto:contact@revolunet.com&#34; */&gt;}}
 或者
-{{</* link href="mailto:contact@revolunet.com" */>}}
+{{&lt;/* link href=&#34;mailto:contact@revolunet.com&#34; */&gt;}}
 
-{{</* link "https://assemble.io" Assemble */>}}
+{{&lt;/* link &#34;https://assemble.io&#34; Assemble */&gt;}}
 或者
-{{</* link href="https://assemble.io" content=Assemble */>}}
+{{&lt;/* link href=&#34;https://assemble.io&#34; content=Assemble */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< link "https://assemble.io" >}}
+{{&lt; link &#34;https://assemble.io&#34; &gt;}}
 
-{{< link "mailto:contact@revolunet.com" >}}
+{{&lt; link &#34;mailto:contact@revolunet.com&#34; &gt;}}
 
-{{< link "https://assemble.io" Assemble >}}
+{{&lt; link &#34;https://assemble.io&#34; Assemble &gt;}}
 一个带有标题的 `link` 示例：
 
 ```go-html-template
-{{</* link "https://github.com/upstage/" Upstage "Visit Upstage!" */>}}
+{{&lt;/* link &#34;https://github.com/upstage/&#34; Upstage &#34;Visit Upstage!&#34; */&gt;}}
 或者
-{{</* link href="https://github.com/upstage/" content=Upstage title="Visit Upstage!" */>}}
+{{&lt;/* link href=&#34;https://github.com/upstage/&#34; content=Upstage title=&#34;Visit Upstage!&#34; */&gt;}}
 ```
 
 呈现的输出效果如下 （将鼠标悬停在链接上，会有一行提示）:
@@ -125,28 +125,28 @@ This is a **right-aligned** paragraph.
 一个卡片式 `link` 示例：
 
 ```go-html-template
-{{</* link "https://github.com/hugo-fixit/FixIt" "FixIt Theme" "source of FixIt Theme" true */>}}
+{{&lt;/* link &#34;https://github.com/hugo-fixit/FixIt&#34; &#34;FixIt Theme&#34; &#34;source of FixIt Theme&#34; true */&gt;}}
 或者
-{{</* link href="https://github.com/hugo-fixit/FixIt" content="FixIt Theme" title="source of FixIt Theme" card=true */>}}
+{{&lt;/* link href=&#34;https://github.com/hugo-fixit/FixIt&#34; content=&#34;FixIt Theme&#34; title=&#34;source of FixIt Theme&#34; card=true */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< link "https://github.com/hugo-fixit/FixIt" "FixIt Theme" "source of FixIt Theme" true >}}
+{{&lt; link &#34;https://github.com/hugo-fixit/FixIt&#34; &#34;FixIt Theme&#34; &#34;source of FixIt Theme&#34; true &gt;}}
 
 一个可下载的 `link` 示例：
 
 ```go-html-template
-{{</* link href="/music/Wavelength.mp3" content="Wavelength" title="Download Wavelength.mp3" download="Wavelength.mp3" */>}}
+{{&lt;/* link href=&#34;/music/Wavelength.mp3&#34; content=&#34;Wavelength&#34; title=&#34;Download Wavelength.mp3&#34; download=&#34;Wavelength.mp3&#34; */&gt;}}
 
-{{</* link href="/music/Wavelength.mp3" content="Wavelength.mp3" title="Download Wavelength.mp3" download="Wavelength.mp3" card=true */>}}
+{{&lt;/* link href=&#34;/music/Wavelength.mp3&#34; content=&#34;Wavelength.mp3&#34; title=&#34;Download Wavelength.mp3&#34; download=&#34;Wavelength.mp3&#34; card=true */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< link href="/music/Wavelength.mp3" content="Wavelength" title="Download Wavelength.mp3" download="Wavelength.mp3" >}}
+{{&lt; link href=&#34;/music/Wavelength.mp3&#34; content=&#34;Wavelength&#34; title=&#34;Download Wavelength.mp3&#34; download=&#34;Wavelength.mp3&#34; &gt;}}
 
-{{< link href="/music/Wavelength.mp3" content="Wavelength.mp3" title="Download Wavelength.mp3" download="Wavelength.mp3" card=true >}}
+{{&lt; link href=&#34;/music/Wavelength.mp3&#34; content=&#34;Wavelength.mp3&#34; title=&#34;Download Wavelength.mp3&#34; download=&#34;Wavelength.mp3&#34; card=true &gt;}}
 
 ## image
 
@@ -213,12 +213,12 @@ This is a **right-aligned** paragraph.
 一个 `image` 示例：
 
 ```
-{{</* image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" */>}} 
+{{&lt;/* image src=&#34;/images/lighthouse.jpg&#34; caption=&#34;Lighthouse (`image`)&#34; src_s=&#34;/images/lighthouse-small.jpg&#34; src_l=&#34;/images/lighthouse-large.jpg&#34; */&gt;}} 
 ```
 
 呈现的输出效果如下：
 
-{{< image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" >}} 
+{{&lt; image src=&#34;/images/lighthouse.jpg&#34; caption=&#34;Lighthouse (`image`)&#34; src_s=&#34;/images/lighthouse-small.jpg&#34; src_l=&#34;/images/lighthouse-large.jpg&#34; &gt;}} 
 
 ## admonition
 
@@ -226,29 +226,29 @@ This is a **right-aligned** paragraph.
 
 *支持 Markdown 或者 HTML 格式。*
 
-{{< admonition tip "This is a tip" false>}}一个 **技巧** 横幅{{< /admonition >}}
+{{&lt; admonition tip &#34;This is a tip&#34; false&gt;}}一个 **技巧** 横幅{{&lt; /admonition &gt;}}
 
-{{< admonition >}} 一个 **注意** 横幅 {{< /admonition >}}
+{{&lt; admonition &gt;}} 一个 **注意** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition abstract>}} 一个 **摘要** 横幅 {{< /admonition >}}
+{{&lt; admonition abstract&gt;}} 一个 **摘要** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition info >}} 一个 **信息** 横幅 {{< /admonition >}}
+{{&lt; admonition info &gt;}} 一个 **信息** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition success >}} 一个 **成功** 横幅 {{< /admonition >}}
+{{&lt; admonition success &gt;}} 一个 **成功** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition question >}} 一个 **问题** 横幅 {{< /admonition >}}
+{{&lt; admonition question &gt;}} 一个 **问题** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition warning >}} 一个 **警告** 横幅 {{< /admonition >}}
+{{&lt; admonition warning &gt;}} 一个 **警告** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition failure >}} 一个 **失败** 横幅 {{< /admonition >}}
+{{&lt; admonition failure &gt;}} 一个 **失败** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition danger >}} 一个 **危险** 横幅 {{< /admonition >}}
+{{&lt; admonition danger &gt;}} 一个 **危险** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition bug >}} 一个 **Bug** 横幅 {{< /admonition >}}
+{{&lt; admonition bug &gt;}} 一个 **Bug** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition example >}} 一个 **示例** 横幅 {{< /admonition >}}
+{{&lt; admonition example &gt;}} 一个 **示例** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition quote >}} 一个 **引用** 横幅 {{< /admonition >}}
+{{&lt; admonition quote &gt;}} 一个 **引用** 横幅 {{&lt; /admonition &gt;}}
 
 `admonition` shortcode 有以下命名参数：
 
@@ -267,20 +267,20 @@ This is a **right-aligned** paragraph.
 一个 `admonition` 示例：
 
 ```go-html-template
-{{</* admonition type=tip title="This is a tip" open=false */>}}
+{{&lt;/* admonition type=tip title=&#34;This is a tip&#34; open=false */&gt;}}
 一个 **技巧** 横幅
-{{</* /admonition */>}}
+{{&lt;/* /admonition */&gt;}}
 或者
-{{</* admonition tip "This is a tip" false */>}}
+{{&lt;/* admonition tip &#34;This is a tip&#34; false */&gt;}}
 一个 **技巧** 横幅
-{{</* /admonition */>}}
+{{&lt;/* /admonition */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< admonition tip "This is a tip" false >}}
+{{&lt; admonition tip &#34;This is a tip&#34; false &gt;}}
 一个 **技巧** 横幅
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## mermaid
 
@@ -324,18 +324,18 @@ This is a **right-aligned** paragraph.
 
 `script` shortcode 用来在你的文章中插入 **Javascript** 脚本。
 
-{{< admonition >}}
+{{&lt; admonition &gt;}}
 
 脚本内容可以保证在所有的第三方库加载之后按顺序执行。 所以你可以自由地使用第三方库。
 
- {{< /admonition >}}
+ {{&lt; /admonition &gt;}}
 
 一个 `script` 示例：
 
 ```go-html-template
-{{</* script */>}}
-console.log('Hello FixIt!');
-{{</* /script */>}}
+{{&lt;/* script */&gt;}}
+console.log(&#39;Hello FixIt!&#39;);
+{{&lt;/* /script */&gt;}}
 ```
 
 你可以在开发者工具的控制台中看到输出。
@@ -355,20 +355,20 @@ console.log('Hello FixIt!');
 一个 `details` 示例：
 
 ```go-html-template
-{{</* details "**Copyright** 2022." */>}}
+{{&lt;/* details &#34;**Copyright** 2022.&#34; */&gt;}}
 *All pages and graphics on this web site are the property of FixIt.*
-{{</* /details */>}}
+{{&lt;/* /details */&gt;}}
 或者
-{{</* details summary="**Copyright** 2022." */>}}
+{{&lt;/* details summary=&#34;**Copyright** 2022.&#34; */&gt;}}
 *All pages and graphics on this web site are the property of FixIt.*
-{{</* /details */>}}
+{{&lt;/* /details */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< details "**Copyright** 2022." >}}
+{{&lt; details &#34;**Copyright** 2022.&#34; &gt;}}
 *All pages and graphics on this web site are the property of FixIt.*
-{{< /details >}}
+{{&lt; /details &gt;}}
 
 ## center-quote
 
@@ -379,18 +379,18 @@ console.log('Hello FixIt!');
 一个 `center-quote` 示例：
 
 ```go-html-template
-{{</* center-quote */>}}
+{{&lt;/* center-quote */&gt;}}
 **hello** *world*  
 this is a center-quote shortcode example.
-{{</* /center-quote */>}}
+{{&lt;/* /center-quote */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< center-quote >}}
+{{&lt; center-quote &gt;}}
 **hello** *world*  
 this is a center-quote shortcode example.
-{{< /center-quote >}}
+{{&lt; /center-quote &gt;}}
 
 ## fixit-encryptor
 
@@ -415,26 +415,26 @@ this is a center-quote shortcode example.
 一个 `raw` 示例:
 
 ```go-html-template
-{{< raw >}}行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{< /raw >}}
+{{&lt; raw &gt;}}行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}&#43;\mathbf{E}_{2}&#43;\mathbf{E}_{3}&#43;\cdots\){{&lt; /raw &gt;}}
 
-{{< raw >}}
+{{&lt; raw &gt;}}
 公式块：
-\[ a=b+c \\ d+e=f \]
-{{< /raw >}}
+\[ a=b&#43;c \\ d&#43;e=f \]
+{{&lt; /raw &gt;}}
 
-原始的带有 Markdown 和 HTML 语法的内容：{{< raw "span" >}}**Hello** <strong>FixIt</strong>{{< /raw >}}
+原始的带有 Markdown 和 HTML 语法的内容：{{&lt; raw &#34;span&#34; &gt;}}**Hello** &lt;strong&gt;FixIt&lt;/strong&gt;{{&lt; /raw &gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< raw >}}行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}+\mathbf{E}_{2}+\mathbf{E}_{3}+\cdots\){{< /raw >}}
+{{&lt; raw &gt;}}行内公式：\(\mathbf{E}=\sum_{i} \mathbf{E}_{i}=\mathbf{E}_{1}&#43;\mathbf{E}_{2}&#43;\mathbf{E}_{3}&#43;\cdots\){{&lt; /raw &gt;}}
 
-{{< raw >}}
+{{&lt; raw &gt;}}
 公式块：
-\[ a=b+c \\ d+e=f \]
-{{< /raw >}}
+\[ a=b&#43;c \\ d&#43;e=f \]
+{{&lt; /raw &gt;}}
 
-原始的带有 Markdown 和 HTML 语法的内容：{{< raw "span" >}}**Hello** <strong>FixIt</strong>{{< /raw >}}
+原始的带有 Markdown 和 HTML 语法的内容：{{&lt; raw &#34;span&#34; &gt;}}**Hello** &lt;strong&gt;FixIt&lt;/strong&gt;{{&lt; /raw &gt;}}
 
 ## reward
 
@@ -452,16 +452,16 @@ this is a center-quote shortcode example.
 一个 `reward` 示例:
 
 ```
-{{< reward wechatpay="/images/wechatpay.gif" alipay="/images/alipay.gif" comment="给作者买杯卡布奇诺～" >}} 
+{{&lt; reward wechatpay=&#34;/images/wechatpay.gif&#34; alipay=&#34;/images/alipay.gif&#34; comment=&#34;给作者买杯卡布奇诺～&#34; &gt;}} 
 ```
 
 呈现的输出效果如下：
 
-{{< reward wechatpay="/images/wechatpay.gif" alipay="/images/alipay.gif" comment="给作者买杯卡布奇诺～" >}}
+{{&lt; reward wechatpay=&#34;/images/wechatpay.gif&#34; alipay=&#34;/images/alipay.gif&#34; comment=&#34;给作者买杯卡布奇诺～&#34; &gt;}}
 
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcodes/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/introduction/
