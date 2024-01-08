@@ -2,17 +2,14 @@
   <channel>
     <title>播放器 - 分类 - 拾趣资源</title>
     <link>https://blog.funvip.live/categories/%E6%92%AD%E6%94%BE%E5%99%A8/</link>
-    <description>播放器 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Wed, 27 Dec 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E6%92%AD%E6%94%BE%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
+    <description>播放器 - 分类 | 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 27 Dec 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E6%92%AD%E6%94%BE%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
   <title>📺TVBox</title>
   <link>https://blog.funvip.live/dailyshare/tvbox/</link>
   <pubDate>Wed, 27 Dec 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/dailyshare/tvbox/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/12/29/9dc2f050cd4e438a557bdee8e2756eaf.jpg" referrerpolicy="no-referrer">
-      </div><p>💡 TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加 <strong>源</strong>，速度和资源量是根据添加的配置而决定的，只要添加的 <strong>配置</strong> 里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。  <strong>想要简单省事且免费的 app，使用 TVBox 是最优选择</strong>。</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/12/29/9dc2f050cd4e438a557bdee8e2756eaf.jpg" alt="📺TVBox" title="📺TVBox" referrerpolicy="no-referrer"/></div><p>💡 TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加 <strong>源</strong>，速度和资源量是根据添加的配置而决定的，只要添加的 <strong>配置</strong> 里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。  <strong>想要简单省事且免费的 app，使用 TVBox 是最优选择</strong>。</p>]]></description>
 </item>
 </channel>
 </rss>
