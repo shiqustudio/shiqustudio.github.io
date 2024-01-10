@@ -1,13 +1,13 @@
 # 👨‍💻费曼学习法实践
 
 
-> 把自己如何获取信息、聚焦阅读、汇总研究和深度长文输出的方法分享给大家，全文由费曼学习法、信息获取与知识输出的方法论，还有笔记工具的进化三部分组成。
+&gt; 把自己如何获取信息、聚焦阅读、汇总研究和深度长文输出的方法分享给大家，全文由费曼学习法、信息获取与知识输出的方法论，还有笔记工具的进化三部分组成。
 
-<!--more-->  
+&lt;!--more--&gt;  
 
 ## I. 什么是费曼学习法
 
-费曼学习法，也称“费曼技巧”，英文原文是 [Feynman Technique](https://fs.blog/feynman-technique/?ref=indigox.me)。是实力派 + 偶像派物理学家，诺贝尔奖获得者 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman?ref=indigox.me)（理查德·费曼）开发的个人方法，用来深入学习和内化研究课题。核心是：当你准备学习一门新知识时，必须站在传授者的立场，假设要向别人讲解这门知识。你一定要用最简洁、清晰和易于理解的语言表达出来 …  
+费曼学习法，也称“费曼技巧”，英文原文是 [Feynman Technique](https://fs.blog/feynman-technique/?ref=indigox.me)。是实力派 &#43; 偶像派物理学家，诺贝尔奖获得者 [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman?ref=indigox.me)（理查德·费曼）开发的个人方法，用来深入学习和内化研究课题。核心是：当你准备学习一门新知识时，必须站在传授者的立场，假设要向别人讲解这门知识。你一定要用最简洁、清晰和易于理解的语言表达出来 …  
 
 ### 1.1 费曼技巧的五个步骤
 
@@ -25,24 +25,24 @@
 
 费曼认为，以教代学的输出方式属于“主动学习”，是主动去征服，而不是被知识所选择。为知识建立一个具有自己标准的“过滤器”，通过输出与回顾，将其内化。好的学习方法能够养成一个人对世界犀利的理解力，也是创造宏大事业的基础。  
 
-### 1.2 Dale's Cone Experience
+### 1.2 Dale&#39;s Cone Experience
 
-其实这一个很朴素的方法 - Learning by Teaching，我们可能早就知道，并且一直都在使用，只不过在费曼的光环下，这个技巧就显得特别耀眼。学习专家 [Edgar Dale](https://en.wikipedia.org/wiki/Edgar_Dale?ref=indigox.me)（爱德加·戴尔）在上世纪六十年代，提出了 [Dale's Cone Experience](https://www.queensu.ca/teachingandlearning/modules/active/documents/Dales_Cone_of_Experience_summary.pdf?ref=indigox.me) 的模型，这是美国缅因州的国家训练实验室，对不同形式学习效果的量化研究成果，从数据上验证了“费曼技巧”的效能。
+其实这一个很朴素的方法 - Learning by Teaching，我们可能早就知道，并且一直都在使用，只不过在费曼的光环下，这个技巧就显得特别耀眼。学习专家 [Edgar Dale](https://en.wikipedia.org/wiki/Edgar_Dale?ref=indigox.me)（爱德加·戴尔）在上世纪六十年代，提出了 [Dale&#39;s Cone Experience](https://www.queensu.ca/teachingandlearning/modules/active/documents/Dales_Cone_of_Experience_summary.pdf?ref=indigox.me) 的模型，这是美国缅因州的国家训练实验室，对不同形式学习效果的量化研究成果，从数据上验证了“费曼技巧”的效能。
 
 ![](https://www.indigox.me/content/images/2023/01/figure-02-cone-of-experience.png)
 
-配图02：Dale's Cone Experience
+配图02：Dale&#39;s Cone Experience
 
 Cone Experience 用数字形象地呈现了：采用不同的学习方式，学习者在两周以后还能记住的内容（平均学习保持率）有多少。再创作写出来，还有对他人传授这种 **主动学习**（Active Learning）方法的记忆效果最好，可达 70 - 90% 的保持率。
 
-费曼向来不主张追求数量的“贪多求全”的学习，他曾经嘲讽地说，“如果有人愿意拿自己有限的生命去追逐无限的知识，并且还为此感动，那他纯粹就是一个无知的妄人”。。。更多关于费曼学习法的“观点记录”，可以阅读“求师得 Qiutopia”的这篇《[费曼学习法](http://www.qiusir.com/?p=21995&ref=indigox.me)》，作者详细整理了费曼推上关于这个技巧的语录，很有启发性！
+费曼向来不主张追求数量的“贪多求全”的学习，他曾经嘲讽地说，“如果有人愿意拿自己有限的生命去追逐无限的知识，并且还为此感动，那他纯粹就是一个无知的妄人”。。。更多关于费曼学习法的“观点记录”，可以阅读“求师得 Qiutopia”的这篇《[费曼学习法](http://www.qiusir.com/?p=21995&amp;ref=indigox.me)》，作者详细整理了费曼推上关于这个技巧的语录，很有启发性！
 
 ## II. 信息获取与知识输出
 
 在 2021 年三月份，写过一篇《[新内容创作方式的体验与实践](https://www.indigox.me/indigo-blog-refactoring/)》，在里面特别提到了我自己的信息获取方式：
 
-+   **随机漫步**（Random Reading）：随机无差别的阅读任何觉得有趣的信息，收藏可能会用得到的内容；
-+   **聚焦阅读**（Focus Reading）：明确了 1 - 3 个近期会创作的主题后，聚焦的筛选阅读信息，自动忽略掉那些无关的，提高大脑的感知敏锐度，用打标签的方式收藏内容；
+&#43;   **随机漫步**（Random Reading）：随机无差别的阅读任何觉得有趣的信息，收藏可能会用得到的内容；
+&#43;   **聚焦阅读**（Focus Reading）：明确了 1 - 3 个近期会创作的主题后，聚焦的筛选阅读信息，自动忽略掉那些无关的，提高大脑的感知敏锐度，用打标签的方式收藏内容；
 
 那时还不知道“费曼技巧”，不过聚焦阅读应该算是“确立目标”，提升专注力的一种方式。按照香农信息论的概念，就是通过自己的信息处理模型，逐步向着高“信息熵”的源头探索的过程（通俗来讲就是向对于自己信息量大的干货内容聚焦），这个过程可以把杂乱的信息有序转换为可以系统输出的知识。这里我绘制了一张自己使用的信息获取与知识输出流程图。
 
@@ -52,19 +52,19 @@ Cone Experience 用数字形象地呈现了：采用不同的学习方式，学�
 
 全过程分为 **输入**（Input）与 **输出**（Output）两大部分。输入过程包括了“**随机漫步**”和确立了目标之后的“**聚焦阅读**”；输出部分则是由“**笔记与观点输出**”、“**长文输出**”和“**课程输出**”构成。
 
-其中 **笔记与观点**（Notes & Short Optinions）是无结构化的片段输出，这个适合读后无关联的快速观点分享；**长文**（Long Articles）是深度理解后的结构化和概念连接性输出；**课程**（Live Classes）则是最后自己内化的知识，它经过了 **主题研究**（Research）的回顾，发现自己不够深度理解的地方，回炉再造，简化结构之后，增加案例制作成可以直播讲解的课程。  
+其中 **笔记与观点**（Notes &amp; Short Optinions）是无结构化的片段输出，这个适合读后无关联的快速观点分享；**长文**（Long Articles）是深度理解后的结构化和概念连接性输出；**课程**（Live Classes）则是最后自己内化的知识，它经过了 **主题研究**（Research）的回顾，发现自己不够深度理解的地方，回炉再造，简化结构之后，增加案例制作成可以直播讲解的课程。  
 
 ### 2.1 主题归类和结构
 
 因为爱好还有工作的原因，分类以科技主题为主，这个类别会用在收藏夹、笔记本的分类目录以及 Twitter Bookmark。这是所有工具的一级分类（不建议超过十个），二级采用**标签**（Tags）归档，非常灵活自由，也便于检索。
 
-+   Metaverse
-+   Cloud & SaaS
-+   Web 3 & Crypto
-+   AI & Robotics
-+   Biotechs
-+   Physics & Science
-+   Political & Economy  
+&#43;   Metaverse
+&#43;   Cloud &amp; SaaS
+&#43;   Web 3 &amp; Crypto
+&#43;   AI &amp; Robotics
+&#43;   Biotechs
+&#43;   Physics &amp; Science
+&#43;   Political &amp; Economy  
     
 
 ### 2.2 输入的渠道与工具
@@ -97,8 +97,8 @@ Cone Experience 用数字形象地呈现了：采用不同的学习方式，学�
 
 ## III. 笔记工具的进化
 
-> Note taking is building a relationship with a future version of yourself.  
-> 记笔记是在与未来的自己建立联系。
+&gt; Note taking is building a relationship with a future version of yourself.  
+&gt; 记笔记是在与未来的自己建立联系。
 
 \- DAN SHIPPER《[The End of Organizing](https://every.to/superorganizers/the-end-of-organizing?ref=indigox.me)》
 
@@ -150,21 +150,21 @@ LLMs 可以真正把你的笔记变成**第二大脑**，它们可以在你写�
 
 ## 工具与参考
 
-+   [费曼学习法](http://www.qiusir.com/?p=21995&ref=indigox.me) - 求师得 Qiutopia
-+   [The End of Organizing](https://every.to/superorganizers/the-end-of-organizing?ref=indigox.me) - DAN SHIPPER
-+   [Notion](https://www.notion.so/?ref=indigox.me) - 用来建立个人知识库的在线 Note 工具
-+   [Pocket](https://getpocket.com/?ref=indigox.me) - Read it Later 工具
-+   [Raindrop](https://raindrop.io/?ref=indigox.me) - Web Bookmark 工具
-+   [Readwise Reader](https://readwise.io/read?ref=indigox.me) - 最新的 Newsletter 和 RSS 阅读器
-+   [IFTTT](https://ifttt.com/?ref=indigox.me) - 自动化内容同步工具
-+   [Heptabase](https://heptabase.com/?ref=indigox.me) - 一款专注可视化学习的笔记工具
-+   [Snipd](https://www.snipd.com/?ref=indigox.me) - 一款可以智能 Highlight 和生成语音摘要的 Podcast播放器
-+   [Mem.ai](https://mem.ai/?ref=indigox.me) - Mem is the world's first AI-powered workspace that's personalized to you.  
+&#43;   [费曼学习法](http://www.qiusir.com/?p=21995&amp;ref=indigox.me) - 求师得 Qiutopia
+&#43;   [The End of Organizing](https://every.to/superorganizers/the-end-of-organizing?ref=indigox.me) - DAN SHIPPER
+&#43;   [Notion](https://www.notion.so/?ref=indigox.me) - 用来建立个人知识库的在线 Note 工具
+&#43;   [Pocket](https://getpocket.com/?ref=indigox.me) - Read it Later 工具
+&#43;   [Raindrop](https://raindrop.io/?ref=indigox.me) - Web Bookmark 工具
+&#43;   [Readwise Reader](https://readwise.io/read?ref=indigox.me) - 最新的 Newsletter 和 RSS 阅读器
+&#43;   [IFTTT](https://ifttt.com/?ref=indigox.me) - 自动化内容同步工具
+&#43;   [Heptabase](https://heptabase.com/?ref=indigox.me) - 一款专注可视化学习的笔记工具
+&#43;   [Snipd](https://www.snipd.com/?ref=indigox.me) - 一款可以智能 Highlight 和生成语音摘要的 Podcast播放器
+&#43;   [Mem.ai](https://mem.ai/?ref=indigox.me) - Mem is the world&#39;s first AI-powered workspace that&#39;s personalized to you.  
     
 
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/personal/%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95%E5%AE%9E%E8%B7%B5/  
 > 转载 URL: https://www.indigox.me/feynman-technique-in-practice/
