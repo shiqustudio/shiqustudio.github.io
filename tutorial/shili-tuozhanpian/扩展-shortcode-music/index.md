@@ -5,7 +5,7 @@
 
 `music` shortcode 基于 [APlayer](https://github.com/MoePlayer/APlayer) 和 [MetingJS](https://github.com/metowolf/MetingJS) 提供了一个内嵌的响应式音乐播放器。
 
-<!--more-->
+&lt;!--more--&gt;
 
 有三种方式使用 `music` shortcode。
 
@@ -34,12 +34,12 @@
 一个使用自定义音乐 URL 的 `music` 示例：
 
 ```go-html-template
-{{</* music url="/music/Wavelength.mp3" name=Wavelength artist=oldmanyoung cover="/images/Wavelength.jpg" */>}}
+{{&lt;/* music url=&#34;/music/Wavelength.mp3&#34; name=Wavelength artist=oldmanyoung cover=&#34;/images/Wavelength.jpg&#34; */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< music url="/music/Wavelength.mp3" name=Wavelength artist=oldmanyoung cover="/images/Wavelength.jpg" >}}
+{{&lt; music url=&#34;/music/Wavelength.mp3&#34; name=Wavelength artist=oldmanyoung cover=&#34;/images/Wavelength.jpg&#34; &gt;}}
 
 ## 2 音乐平台 URL 的自动识别
 
@@ -52,12 +52,12 @@
 一个使用音乐平台 URL 的自动识别的 `music` 示例：
 
 ```go-html-template
-{{</* music auto="https://music.163.com/#/playlist?id=60198" */>}}
+{{&lt;/* music auto=&#34;https://music.163.com/#/playlist?id=60198&#34; */&gt;}}
 或者
-{{</* music "https://music.163.com/#/playlist?id=60198" */>}}
+{{&lt;/* music &#34;https://music.163.com/#/playlist?id=60198&#34; */&gt;}}
 ```
 
-{{< music auto="https://music.163.com/#/playlist?id=60198" >}}
+{{&lt; music auto=&#34;https://music.163.com/#/playlist?id=60198&#34; &gt;}}
 
 ## 3 自定义音乐平台，类型和 ID
 
@@ -82,14 +82,14 @@
 一个使用自定义音乐平台的 `music` 示例：
 
 ```go-html-template
-{{</* music server="netease" type="song" id="1868553" */>}}
+{{&lt;/* music server=&#34;netease&#34; type=&#34;song&#34; id=&#34;1868553&#34; */&gt;}}
 或者
-{{</* music netease song 1868553 */>}}
+{{&lt;/* music netease song 1868553 */&gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< music server="netease" type="song" id="1868553" >}}
+{{&lt; music server=&#34;netease&#34; type=&#34;song&#34; id=&#34;1868553&#34; &gt;}}
 
 ## 4 其它参数
 
@@ -144,6 +144,6 @@
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-music/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/music/
