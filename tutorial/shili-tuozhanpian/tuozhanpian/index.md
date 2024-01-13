@@ -3,7 +3,7 @@
 
 `typeit` shortcode 基于 [TypeIt](https://typeitjs.com/) 提供了打字动画。
 
-&lt;!--more--&gt;
+<!--more-->
 
 只需将你需要打字动画的内容插入 `typeit` shortcode 中即可。
 
@@ -36,32 +36,32 @@
 一个 `typeit` 示例：
 
 ```tex
-{{&lt;/* typeit tag=h4 */&gt;}}
+{{</* typeit tag=h4 */>}}
 这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-{{&lt;/* /typeit */&gt;}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
 
-{{&lt; typeit &gt;}}
+{{< typeit >}}
 这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-{{&lt; /typeit &gt;}}
+{{< /typeit >}}
 
 另外，你也可以自定义 **HTML 标签**.
 
 一个带有 `h4` 标签的 `typeit` 示例：
 
 ```html
-{{&lt;/* typeit tag=h4 */&gt;}}
+{{</* typeit tag=h4 */>}}
 这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-{{&lt;/* /typeit */&gt;}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
 
-{{&lt; typeit tag=h4 &gt;}}
+{{< typeit tag=h4 >}}
 这一个带有基于 [TypeIt](https://typeitjs.com/) 的 **打字动画** 的 *段落*……
-{{&lt; /typeit &gt;}}
+{{< /typeit >}}
 
 ## 代码内容
 
@@ -70,24 +70,24 @@
 一个带有 `code` 参数的 `typeit` 示例：
 
 ```html
-{{&lt;/* typeit code=java */&gt;}}
+{{</* typeit code=java */>}}
 public class HelloWorld {
     public static void main(String []args) {
-        System.out.println(&#34;Hello World&#34;);
+        System.out.println("Hello World");
     }
 }
-{{&lt;/* /typeit */&gt;}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
 
-{{&lt; typeit code=java &gt;}}
+{{< typeit code=java >}}
 public class HelloWorld {
     public static void main(String []args) {
-        System.out.println(&#34;Hello World&#34;);
+        System.out.println("Hello World");
     }
 }
-{{&lt; /typeit &gt;}}
+{{< /typeit >}}
 
 ## 分组内容
 
@@ -98,28 +98,28 @@ public class HelloWorld {
 一个带有 `group` 参数的 `typeit` 示例：
 
 ```html
-{{&lt;/* typeit group=paragraph */&gt;}}
+{{</* typeit group=paragraph */>}}
 **首先**, 这个段落开始
-{{&lt;/* /typeit &gt;}}
+{{</* /typeit >}}
 
-{{&lt;/* typeit group=paragraph */&gt;}}
+{{</* typeit group=paragraph */>}}
 **然后**, 这个段落开始
-{{&lt;/* /typeit */&gt;}}
+{{</* /typeit */>}}
 ```
 
 呈现的输出效果如下：
 
-{{&lt; typeit group=paragraph &gt;}}
+{{< typeit group=paragraph >}}
 **首先**, 这个段落开始
-{{&lt; /typeit &gt;}}
+{{< /typeit >}}
 
-{{&lt; typeit group=paragraph &gt;}}
+{{< typeit group=paragraph >}}
 **然后**, 这个段落开始
-{{&lt; /typeit &gt;}}
+{{< /typeit >}}
 
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/tuozhanpian/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/typeit/
