@@ -9,78 +9,78 @@
 
 只需将你的 mermaid 代码插入 `mermaid` shortcode 中即可。
 
-{{< admonition tip>}}
+{{&lt; admonition tip&gt;}}
 
 你可以在 `config.toml` 中通过 `params.mermaid` 参数全局配置 mermaid 的主题
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## 流程图
 
 一个 **流程图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-{{</* /mermaid */>}}
+    A[Hard edge] --&gt;|Link text| B(Round edge)
+    B --&gt; C{Decision}
+    C --&gt;|One| D[Result one]
+    C --&gt;|Two| E[Result two]
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-{{< /mermaid >}}
+    A[Hard edge] --&gt;|Link text| B(Round edge)
+    B --&gt; C{Decision}
+    C --&gt;|One| D[Result one]
+    C --&gt;|Two| E[Result two]
+{{&lt; /mermaid &gt;}}
 
 ## 时序图
 
 一个 **时序图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 sequenceDiagram
     participant Alice
     participant Bob
-    Alice->>John: Hello John, how are you?
+    Alice-&gt;&gt;John: Hello John, how are you?
     loop Healthcheck
-        John->John: Fight against hypochondria
+        John-&gt;John: Fight against hypochondria
     end
-    Note right of John: Rational thoughts <br/>prevail...
-    John-->Alice: Great!
-    John->Bob: How about you?
-    Bob-->John: Jolly good!
-{{</* /mermaid */>}}
+    Note right of John: Rational thoughts &lt;br/&gt;prevail...
+    John--&gt;Alice: Great!
+    John-&gt;Bob: How about you?
+    Bob--&gt;John: Jolly good!
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 sequenceDiagram
     participant Alice
     participant Bob
-    Alice->>John: Hello John, how are you?
+    Alice-&gt;&gt;John: Hello John, how are you?
     loop Healthcheck
-        John->John: Fight against hypochondria
+        John-&gt;John: Fight against hypochondria
     end
-    Note right of John: Rational thoughts <br/>prevail...
-    John-->Alice: Great!
-    John->Bob: How about you?
-    Bob-->John: Jolly good!
-{{< /mermaid >}}
+    Note right of John: Rational thoughts &lt;br/&gt;prevail...
+    John--&gt;Alice: Great!
+    John-&gt;Bob: How about you?
+    Bob--&gt;John: Jolly good!
+{{&lt; /mermaid &gt;}}
 
 ## 甘特图
 
 一个 **甘特图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -91,12 +91,12 @@ Completed task            :done,    des1, 2014-01-06,2014-01-08
 Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2              :         des4, after des3, 5d
-{{</* /mermaid */>}}
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -107,98 +107,98 @@ Completed task            :done,    des1, 2014-01-06,2014-01-08
 Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2              :         des4, after des3, 5d
-{{< /mermaid >}}
+{{&lt; /mermaid &gt;}}
 
 ## 类图
 
 一个 **类图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
+    Animal &lt;|-- Duck
+    Animal &lt;|-- Fish
+    Animal &lt;|-- Zebra
+    Animal : &#43;int age
+    Animal : &#43;String gender
+    Animal: &#43;isMammal()
+    Animal: &#43;mate()
     class Duck{
-        +String beakColor
-        +swim()
-        +quack()
+        &#43;String beakColor
+        &#43;swim()
+        &#43;quack()
     }
     class Fish{
         -int sizeInFeet
         -canEat()
     }
     class Zebra{
-        +bool is_wild
-        +run()
+        &#43;bool is_wild
+        &#43;run()
     }
-{{</* /mermaid */>}}
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
+    Animal &lt;|-- Duck
+    Animal &lt;|-- Fish
+    Animal &lt;|-- Zebra
+    Animal : &#43;int age
+    Animal : &#43;String gender
+    Animal: &#43;isMammal()
+    Animal: &#43;mate()
     class Duck{
-        +String beakColor
-        +swim()
-        +quack()
+        &#43;String beakColor
+        &#43;swim()
+        &#43;quack()
     }
     class Fish{
         -int sizeInFeet
         -canEat()
     }
     class Zebra{
-        +bool is_wild
-        +run()
+        &#43;bool is_wild
+        &#43;run()
     }
-{{< /mermaid >}}
+{{&lt; /mermaid &gt;}}
 
 ## 状态图
 
 一个 **状态图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 stateDiagram-v2
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-{{</* /mermaid */>}}
+    [*] --&gt; Still
+    Still --&gt; [*]
+    Still --&gt; Moving
+    Moving --&gt; Still
+    Moving --&gt; Crash
+    Crash --&gt; [*]
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 stateDiagram-v2
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-{{< /mermaid >}}
+    [*] --&gt; Still
+    Still --&gt; [*]
+    Still --&gt; Moving
+    Moving --&gt; Still
+    Moving --&gt; Crash
+    Crash --&gt; [*]
+{{&lt; /mermaid &gt;}}
 
 ## Git 图
 
 一个 **Git 图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 gitGraph
     commit
     commit
@@ -210,12 +210,12 @@ gitGraph
     merge develop
     commit
     commit
-{{</* /mermaid */>}}
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 gitGraph
     commit
     commit
@@ -227,34 +227,34 @@ gitGraph
     merge develop
     commit
     commit
-{{< /mermaid >}}
+{{&lt; /mermaid &gt;}}
 
 ## 实体关系图
 
 一个 **实体关系图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-{{</* /mermaid */>}}
+{{&lt;/* /mermaid */&gt;}}
 ```
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-{{< /mermaid >}}
+{{&lt; /mermaid &gt;}}
 
 ## 用户体验旅程图
 
 一个 **用户体验旅程图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 journey
     title My working day
     section Go to work
@@ -264,12 +264,12 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-{{</* /mermaid */>}}
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 journey
     title My working day
     section Go to work
@@ -279,36 +279,36 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-{{< /mermaid >}}
+{{&lt; /mermaid &gt;}}
 
 ## 饼图
 
 一个 **饼图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 pie
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
-{{</* /mermaid */>}}
+    &#34;Dogs&#34; : 386
+    &#34;Cats&#34; : 85
+    &#34;Rats&#34; : 15
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 pie
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
-{{< /mermaid >}}
+    &#34;Dogs&#34; : 386
+    &#34;Cats&#34; : 85
+    &#34;Rats&#34; : 15
+{{&lt; /mermaid &gt;}}
 
 ## 依赖图
 
 一个 **依赖图** `mermaid` 示例:
 
 ```markdown
-{{</* mermaid */>}}
+{{&lt;/* mermaid */&gt;}}
 requirementDiagram
 
 requirement test_req {
@@ -322,13 +322,13 @@ element test_entity {
 type: simulation
 }
 
-test_entity - satisfies -> test_req
-{{</* /mermaid */>}}
+test_entity - satisfies -&gt; test_req
+{{&lt;/* /mermaid */&gt;}}
 ```
 
 呈现的输出效果如下:
 
-{{< mermaid >}}
+{{&lt; mermaid &gt;}}
 requirementDiagram
 
 requirement test_req {
@@ -342,12 +342,12 @@ element test_entity {
 type: simulation
 }
 
-test_entity - satisfies -> test_req
-{{< /mermaid >}}
+test_entity - satisfies -&gt; test_req
+{{&lt; /mermaid &gt;}}
 
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mermaid/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mermaid/

@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
     <meta name="robots" content="noodp" />
-    <title>Git 常用指令汇总 - 拾趣资源</title><meta name="author" content="聪">
-<meta name="author-link" content="/about">
+    <title>Git 常用指令汇总 - 拾趣资源</title><meta name="author" content="">
+<meta name="author-link" content="">
 <meta name="description" content="
 工作区：就是你在电脑里能看到的目录。
 暂存区：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。
@@ -17,7 +17,7 @@
 暂存区：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。
 版本库：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。
 "><meta itemprop="datePublished" content="2023-02-20T08:59:56+08:00" />
-<meta itemprop="dateModified" content="2024-01-13T13:19:18+00:00" />
+<meta itemprop="dateModified" content="2024-01-14T01:15:10+00:00" />
 <meta itemprop="wordCount" content="3612"><meta itemprop="image" content="https://blog.funvip.live/images/avatar.png" />
 <meta itemprop="keywords" content="Git," /><meta property="og:title" content="Git 常用指令汇总" />
 <meta property="og:description" content="
@@ -28,7 +28,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://blog.funvip.live/test/git/" /><meta property="og:image" content="https://blog.funvip.live/images/avatar.png" /><meta property="article:section" content="test" />
 <meta property="article:published_time" content="2023-02-20T08:59:56+08:00" />
-<meta property="article:modified_time" content="2024-01-13T13:19:18+00:00" />
+<meta property="article:modified_time" content="2024-01-14T01:15:10+00:00" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://blog.funvip.live/images/avatar.png" /><meta name="twitter:title" content="Git 常用指令汇总"/>
@@ -40,7 +40,9 @@
 <meta name="application-name" content="Fun">
 <meta name="apple-mobile-web-app-title" content="Fun"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://blog.funvip.live/test/git/" /><link rel="next" href="https://blog.funvip.live/test/linux-permission/" /><link rel="stylesheet" href="/css/style.min.52af98efc5b79c2d212183bd7bb4439c3870ee41b588c5925744c53aaea3f23d.css" integrity="sha256-Uq&#43;Y78W3nC0hIYO9e7RDnDhw7kG1iMWSV0TFOq6j8j0="><link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"><link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.min.css"><script type="application/ld+json">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://blog.funvip.live/test/git/" /><link rel="prev" href="https://blog.funvip.live/friends/" /><link rel="next" href="https://blog.funvip.live/test/linux-permission/" /><link rel="stylesheet" href="/css/style.min.52af98efc5b79c2d212183bd7bb4439c3870ee41b588c5925744c53aaea3f23d.css" integrity="sha256-Uq+Y78W3nC0hIYO9e7RDnDhw7kG1iMWSV0TFOq6j8j0="><link rel="preload" href="https://unpkg.com/@fortawesome/fontawesome-free@6.4.2/css/all.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free@6.4.2/css/all.min.css"></noscript><link rel="preload" href="https://unpkg.com/animate.css@4.1.1/animate.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
@@ -50,18 +52,18 @@
       "@type": "WebPage",
       "@id": "https:\/\/blog.funvip.live\/test\/git\/"
     },"image": ["https:\/\/blog.funvip.live\/site-meta.jpg"],"genre": "posts","keywords": "Git","wordcount":  3612 ,
-    "url": "https:\/\/blog.funvip.live\/test\/git\/","datePublished": "2023-02-20T08:59:56+08:00","dateModified": "2024-01-13T13:19:18+00:00","publisher": {
+    "url": "https:\/\/blog.funvip.live\/test\/git\/","datePublished": "2023-02-20T08:59:56+08:00","dateModified": "2024-01-14T01:15:10+00:00","publisher": {
       "@type": "Organization",
       "name": "Fun","logo": "https:\/\/blog.funvip.live\/images\/avatar.jpg"},"author": {
         "@type": "Person",
-        "name": "聪"
+        "name": "作者"
       },"description": ""
   }
   </script></head>
   <body data-header-desktop="sticky" data-header-mobile="auto"><script>(window.localStorage?.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('data-theme', 'dark');</script><div class="wrapper" data-page-style="normal"><header class="desktop animate__faster" id="header-desktop">
   <div class="header-wrapper">
     <div class="header-title">
-      <a href="/" title="拾趣资源"><img loading="lazy" src="/images/avatar.png" srcset="/images/avatar.png, /images/avatar.png 1.5x, /images/avatar.png 2x" sizes="auto" data-title="拾趣资源" data-alt="拾趣资源" class="logo" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span class="header-title-text">Fun</span></a><span id="typeit-header-subtitle-desktop" class="typeit header-subtitle"></span></div>
+      <a href="/" title="拾趣资源"><img loading="lazy" src="/images/avatar.png" alt="拾趣资源" data-title="拾趣资源" class="logo" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span class="header-title-text">Fun</span></a><span id="typeit-header-subtitle-desktop" class="typeit header-subtitle"></span></div>
     <nav>
       <ul class="menu"><li class="menu-item">
               <a
@@ -219,7 +221,7 @@
   <div class="header-container">
     <div class="header-wrapper">
       <div class="header-title">
-        <a href="/" title="拾趣资源"><img loading="lazy" src="/images/avatar.png" srcset="/images/avatar.png, /images/avatar.png 1.5x, /images/avatar.png 2x" sizes="auto" data-title="/images/avatar.png" data-alt="/images/avatar.png" class="logo" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span class="header-title-text">Fun</span></a><span id="typeit-header-subtitle-mobile" class="typeit header-subtitle"></span></div>
+        <a href="/" title="拾趣资源"><img loading="lazy" src="/images/avatar.png" alt="/images/avatar.png" data-title="/images/avatar.png" class="logo" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span class="header-title-text">Fun</span></a><span id="typeit-header-subtitle-mobile" class="typeit header-subtitle"></span></div>
       <div class="menu-toggle" id="menu-toggle-mobile">
         <span></span><span></span><span></span>
       </div>
@@ -400,23 +402,18 @@
   </div><nav aria-label="breadcrumb" class="breadcrumb-container sticky">
     <ol class="breadcrumb"><li class="breadcrumb-item"><a href="/" title="拾趣资源">主页</a></li><li class="breadcrumb-item"><a href="/test/" title="测试文章">测试文章</a></li><li class="breadcrumb-item active" aria-current="page">Git 常用指令汇总</li>
     </ol>
-  </nav><main class="container"><aside class="toc" id="toc-auto"><h2 class="toc-title">目录&nbsp;<i class="toc-icon fa-solid fa-angle-down fa-fw" aria-hidden="true"></i></h2>
-      <div class="toc-content" id="toc-content-auto"></div></aside>
-
-  <aside class="aside-custom">
-    </aside>
+  </nav><main class="container"><aside class="aside-collection animate__animated animate__fadeIn animate__faster" aria-label="合集"></aside>
 
   <article class="page single">
     <div class="header"><h1 class="single-title animate__animated animate__flipInX"><span>Git 常用指令汇总</span>
       </h1></div><div class="post-meta">
-      <div class="post-meta-line"><span class="post-author"><a href="/about" title="作者" rel=" author" class="author"><img loading="lazy" src="/images/avatar.png" srcset="/images/avatar.png, /images/avatar.png 1.5x, /images/avatar.png 2x" sizes="auto" data-title="聪" data-alt="聪" class="avatar" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/>&nbsp;聪</a></span>
-          <span class="post-category">收录于 <a href="/categories/git/"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> Git</a></span></div>
-      <div class="post-meta-line"><span title="发布于 2023-02-20 08:59:56"><i class="fa-regular fa-calendar-alt fa-fw me-1" aria-hidden="true"></i><time datetime="2023-02-20">2023-02-20</time></span>&nbsp;<span title="更新于 2024-01-13 13:19:18"><i class="fa-regular fa-edit fa-fw me-1" aria-hidden="true"></i><time datetime="2024-01-13">2024-01-13</time></span>&nbsp;<span><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 3612 字</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>预计阅读 8 分钟</span>&nbsp;<span class="comment-visitors" data-flag-title="Git 常用指令汇总">
+      <div class="post-meta-line"><span class="post-author"><span class="author"><i class="fa-solid fa-user-circle" aria-hidden="true"></i>
+      </span></span><span class="post-included-in">&nbsp;收录于 <a href="/categories/git/" class="post-category" title="分类 - Git"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> Git</a></span></div><div class="post-meta-line"><span title="发布于 2023-02-20 08:59:56"><i class="fa-solid fa-calendar-days fa-fw me-1" aria-hidden="true"></i><time datetime="2023-02-20">2023-02-20</time></span>&nbsp;<span title="更新于 2024-01-14 01:15:10"><i class="fa-regular fa-calendar-check fa-fw me-1" aria-hidden="true"></i><time datetime="2024-01-14">2024-01-14</time></span>&nbsp;<span title="3612 字"><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 3700 字</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>预计阅读 8 分钟</span>&nbsp;<span class="comment-visitors" data-flag-title="Git 常用指令汇总">
               <i class="fa-regular fa-eye fa-fw me-1" aria-hidden="true"></i><span data-path="/test/git/" class="waline-pageview-count">-</span>&nbsp;次阅读
             </span>&nbsp;<span class="comment-count" data-flag-title="Git 常用指令汇总">
               <i class="fa-regular fa-comments fa-fw me-1" aria-hidden="true"></i><span data-path="/test/git/" class="waline-comment-count">-</span>&nbsp;条评论
             </span>&nbsp;</div>
-    </div><div class="featured-image"><img loading="lazy" src="/test/git/images/relation-1.png" srcset="/test/git/images/relation-1.png, /test/git/images/relation-1.png 1.5x, /test/git/images/relation-1.png 2x" sizes="auto" data-title="/test/git/images/relation-1.png" data-alt="/test/git/images/relation-1.png" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></div><div class="details toc" id="toc-static" data-kept="false">
+    </div><div class="featured-image"><img loading="lazy" src="/test/git/images/relation-1.png" alt="/test/git/images/relation-1.png" data-title="/test/git/images/relation-1.png" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></div><div class="details toc" id="toc-static" data-kept="false">
         <div class="details-summary toc-title">
           <span>目录</span>
           <span><i class="details-icon fa-solid fa-angle-right" aria-hidden="true"></i></span>
@@ -455,17 +452,17 @@
 <li><strong>暂存区</strong>：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。</li>
 <li><strong>版本库</strong>：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。</li>
 </ul>
-<h2 id="介绍">介绍</h2>
-<blockquote>
+<h2 id="介绍" class="heading-element">
+  <a href="#%e4%bb%8b%e7%bb%8d" class="heading-mark"></a>介绍</h2><blockquote>
 <p><a href="https://git-scm.com/"target="_blank" rel="external nofollow noopener noreferrer">https://git-scm.com/<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>
 </blockquote>
 <p>先通过几张图片来大致了解一下 Git 的工作原理吧！<br>
 文章开头的流程图已经简单明了地说明了 Git 常用操作的工作流程，下图换种风格再展示一次：
-<img loading="lazy" src="images/relation-2.jpg" srcset="/test/git/images/relation-2.jpg, images/relation-2.jpg 1.5x, /test/git/images/relation-2.jpg 2x" sizes="auto" data-title="关系图" data-alt="关系图" width="553" height="462" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></p>
+<img loading="lazy" src="/test/git/images/relation-2.jpg" alt="关系图" srcset="/test/git/images/relation-2.jpg?size=small, /test/git/images/relation-2.jpg?size=medium 1.5x, /test/git/images/relation-2.jpg?size=large 2x" sizes="auto" data-title="关系图" style="--width: 553px;--aspect-ratio: 553 / 462;background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
 <p>提到 Git 就会联想到 github, 下图从 Git 的角度简单说明了一些 Github 常用操作的关系：
-<img loading="lazy" src="images/github.jpg" srcset="/test/git/images/github.jpg, images/github.jpg 1.5x, /test/git/images/github.jpg 2x" sizes="auto" data-title="github 流程" data-alt="github 流程" width="924" height="480" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></p>
+<img loading="lazy" src="/test/git/images/github.jpg" alt="github 流程" srcset="/test/git/images/github.jpg?size=small, /test/git/images/github.jpg?size=medium 1.5x, /test/git/images/github.jpg?size=large 2x" sizes="auto" data-title="github 流程" style="--width: 924px;--aspect-ratio: 924 / 480;background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
 <p>下面这个图则展示了工作区、版本库中的暂存区和版本库之间的关系：
-<img loading="lazy" src="images/work.jpg" srcset="/test/git/images/work.jpg, images/work.jpg 1.5x, /test/git/images/work.jpg 2x" sizes="auto" data-title="工作区、暂存区和版本库" data-alt="工作区、暂存区和版本库" width="683" height="357" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></p>
+<img loading="lazy" src="/test/git/images/work.jpg" alt="工作区、暂存区和版本库" srcset="/test/git/images/work.jpg?size=small, /test/git/images/work.jpg?size=medium 1.5x, /test/git/images/work.jpg?size=large 2x" sizes="auto" data-title="工作区、暂存区和版本库" style="--width: 683px;--aspect-ratio: 683 / 357;background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
 <p>图中左侧为工作区，右侧为版本库。在版本库中标记为 <code>&quot;index&quot;</code> 的区域是暂存区（stage, index），标记为 &ldquo;master&rdquo; 的是 master 分支所代表的目录树。<br>
 <strong>HEAD 指针：每个 git 仓库有且仅有一个 HEAD 指针，它通常指向當前某个活動的本地分支指针（最初本地仓库 master)。也可以是某个提交记录、某个 tag，但这会让其处于 detached HEAD（游离头）状态，此状态下的所有提交都无效。</strong><br>
 图中我们可以看出此时 <code>&quot;HEAD&quot;</code> 实际是指向 master 分支的一个&quot;游标&quot;。所以图示的命令中出现 HEAD 的地方可以用 master 来替换。<br>
@@ -476,8 +473,8 @@
 当执行 <code>&quot;git rm --cached &lt;file&gt;&quot;</code> 命令时，会直接从暂存区删除文件，工作区则不做出改变。<br>
 当执行 <code>&quot;git checkout .&quot;</code> 或者 <code>&quot;git checkout -- &lt;file&gt;&quot;</code> 命令时，会用暂存区全部或指定的文件替换工作区的文件。这个操作很危险，会清除工作区中未添加到暂存区的改动。<br>
 当执行 <code>&quot;git checkout HEAD .&quot;</code> 或者 <code>&quot;git checkout HEAD &lt;file&gt;&quot;</code> 命令时，会用 <code>HEAD</code> 指向的 master 分支中的全部或者部分文件替换暂存区和以及工作区中的文件。这个命令也是极具危险性的，因为不但会清除工作区中未提交的改动，也会清除暂存区中未提交的改动。</p>
-<h2 id="git-配置">Git 配置</h2>
-<div class="highlight"><div class="chroma">
+<h2 id="git-配置" class="heading-element">
+  <a href="#git-%e9%85%8d%e7%bd%ae" class="heading-mark"></a>Git 配置</h2><div class="highlight" id="id-1"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -522,11 +519,10 @@
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">git config --global core.protectNTFS <span class="nb">false</span> <span class="c1"># 关闭 NTFS 文件保护</span>
 </span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">git config --global url.<span class="s2">&#34;https://&#34;</span>.insteadOf git:// <span class="c1"># git:// 报错</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git config --global url.<span class="s2">&#34;https://&#34;</span>.insteadOf git:// <span class="c1"># git:// 报错</span></span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="基本操作">基本操作</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="基本操作" class="heading-element">
+  <a href="#%e5%9f%ba%e6%9c%ac%e6%93%8d%e4%bd%9c" class="heading-mark"></a>基本操作</h3><div class="highlight" id="id-2"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -545,8 +541,7 @@
 </span></span><span class="line"><span class="cl">git add .                   <span class="c1">## 监控工作区的状态树，使用它会把工作时的所有变化提交到暂存区</span>
 </span></span><span class="line"><span class="cl">git commit -m <span class="s2">&#34;message&#34;</span>     <span class="c1">## 从暂存区提交到本地仓库</span>
 </span></span><span class="line"><span class="cl">git commit -a -m <span class="s2">&#34;message&#34;</span>  <span class="c1">## 相当于省略 git add，但是无法提交新增的文件</span>
-</span></span><span class="line"><span class="cl">git push origin master      <span class="c1">## Git 会把 master 分支推送到远程库对应的远程分支上</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git push origin master      <span class="c1">## Git 会把 master 分支推送到远程库对应的远程分支上</span></span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition tip open">
     <div class="details-summary admonition-title">
@@ -558,8 +553,8 @@
 可以使用<code>git commit --amend -m &quot;message&quot;</code>指令。它可以在不增加一个新的 commit-id 的情况下将新修改的代码追加到前一次的 commit-id 中。提交之后 message 也将被本次的 message 覆盖，所以还需要再次添加上次的 message。</div>
     </div>
   </div>
-<h3 id="push">push</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="push" class="heading-element">
+  <a href="#push" class="heading-mark"></a>push</h3><div class="highlight" id="id-3"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -568,14 +563,13 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git push origin branch-name
 </span></span><span class="line"><span class="cl">git push –u origin master
-</span></span><span class="line"><span class="cl">git push origin --delete branch-name     <span class="c1">## 删除远程分支</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git push origin --delete branch-name     <span class="c1">## 删除远程分支</span></span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p>把当前 master 分支推送到远程库；<code>-u</code>表示记住分支和地址，下次使用<code>git push</code>即可。</p>
 </blockquote>
-<h3 id="remote">remote</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="remote" class="heading-element">
+  <a href="#remote" class="heading-mark"></a>remote</h3><div class="highlight" id="id-4"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -584,72 +578,66 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git remote add origin reposityUrl     <span class="c1">## 关联一个远程库</span>
 </span></span><span class="line"><span class="cl">git remote                            <span class="c1">## 查看远程库的信息</span>
-</span></span><span class="line"><span class="cl">git remote –v                         <span class="c1">## 查看远程库的详细信息</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git remote –v                         <span class="c1">## 查看远程库的详细信息</span></span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="clone">clone</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="clone" class="heading-element">
+  <a href="#clone" class="heading-mark"></a>clone</h3><div class="highlight" id="id-5"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git clone reposityUrl                   <span class="c1">## 从远程库中克隆</span>
-</span></span><span class="line"><span class="cl">git clone -b branchName reposityUrl     <span class="c1">## 克隆指定分支</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git clone -b branchName reposityUrl     <span class="c1">## 克隆指定分支</span></span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="pull">pull</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="pull" class="heading-element">
+  <a href="#pull" class="heading-mark"></a>pull</h3><div class="highlight" id="id-6"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git pull
-</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git pull</span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p>从远程仓库拉下来到本地库然后合并相当于<code>git fetch</code>+<code>git merge</code>。<br>
 一般 push 前先拉去最新版本，避免代码冲突，如果有冲突需要解决了冲突才能提交。</p>
 </blockquote>
 <p><strong>import repositories 同步更新</strong></p>
-<div class="highlight"><div class="chroma">
+<div class="highlight" id="id-7"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git pull 原链接
-</span></span><span class="line"><span class="cl">git push origin master
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git push origin master</span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="fetch">fetch</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="fetch" class="heading-element">
+  <a href="#fetch" class="heading-mark"></a>fetch</h3><div class="highlight" id="id-8"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git fetch               <span class="c1">## 从远程库抓下最新版本，但是不合并</span>
-</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git fetch               <span class="c1">## 从远程库抓下最新版本，但是不合并</span></span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p>fetch 是从远程库到本地库，但是未在工作区，需要<code>git merge</code></p>
 </blockquote>
-<h3 id="merge">merge</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="merge" class="heading-element">
+  <a href="#merge" class="heading-mark"></a>merge</h3><div class="highlight" id="id-9"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git merge dev           <span class="c1">## 在当前的分支上合并 dev 分支</span>
-</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git merge dev           <span class="c1">## 在当前的分支上合并 dev 分支</span></span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p>分支合并也是在本地完成 (<strong>从本地库到工作区</strong>)，新的分支只有在合并后才允许被删除。<br>
 如果分支合并是出现冲突需要解决了冲突才能合并，使用<code>git status</code>查看冲突文件。</p>
 </blockquote>
-<p><img loading="lazy" src="images/delete-merge.png" srcset="/test/git/images/delete-merge.png, images/delete-merge.png 1.5x, /test/git/images/delete-merge.png 2x" sizes="auto" data-title="分支合并后删除" data-alt="分支合并后删除" width="1488" height="522" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></p>
-<h3 id="branchcheckout">branch,checkout</h3>
-<div class="highlight"><div class="chroma">
+<p><img loading="lazy" src="/test/git/images/delete-merge.png" alt="分支合并后删除" srcset="/test/git/images/delete-merge.png?size=small, /test/git/images/delete-merge.png?size=medium 1.5x, /test/git/images/delete-merge.png?size=large 2x" sizes="auto" data-title="分支合并后删除" style="--width: 1488px;--aspect-ratio: 1488 / 522;background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
+<h3 id="branchcheckout" class="heading-element">
+  <a href="#branchcheckout" class="heading-mark"></a>branch,checkout</h3><div class="highlight" id="id-10"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -668,22 +656,20 @@
 </span></span><span class="line"><span class="cl">git branch –d name    <span class="c1">## 删除分支</span>
 </span></span><span class="line"><span class="cl">git checkout name     <span class="c1">## 切换分支</span>
 </span></span><span class="line"><span class="cl">git checkout –b name  <span class="c1">## 创建并切换到 name 分支上</span>
-</span></span><span class="line"><span class="cl">git checkout -- file
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git checkout -- file</span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p><code>git checkout -- file</code>相当于取消对文档的修改，将最新的本地版本库的本文件复制覆盖它。（比较危险！）</p>
 </blockquote>
-<h3 id="refloglog">reflog,log</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="refloglog" class="heading-element">
+  <a href="#refloglog" class="heading-mark"></a>reflog,log</h3><div class="highlight" id="id-11"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git log               <span class="c1">## 显示所有提交过的版本信息：commit id，提交者，日期</span>
-</span></span><span class="line"><span class="cl">git reflog            <span class="c1">## 查看历史记录的 commit id</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git reflog            <span class="c1">## 查看历史记录的 commit id</span></span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition tip open">
     <div class="details-summary admonition-title">
@@ -698,8 +684,8 @@
 </ol></div>
     </div>
   </div>
-<h3 id="reset">reset</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="reset" class="heading-element">
+  <a href="#reset" class="heading-mark"></a>reset</h3><div class="highlight" id="id-12"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -714,8 +700,7 @@
 </span></span><span class="line"><span class="cl">git reset --hard HEAD~100     <span class="c1">## 回退到 100 个版本</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">git reset head -- file        <span class="c1">## 不加 file 则全部退回</span>
-</span></span><span class="line"><span class="cl">git reset file                <span class="c1">## 将本地仓库的当前版本退回至暂存区，相当于取消暂存</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git reset file                <span class="c1">## 将本地仓库的当前版本退回至暂存区，相当于取消暂存</span></span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p>版本退回是从本地仓库到暂存区，如果已经提交远程库，此时的版本是低于最新的版本的会拒绝提交，
@@ -736,28 +721,26 @@
 </div>
     </div>
   </div>
-<h3 id="status">status</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="status" class="heading-element">
+  <a href="#status" class="heading-mark"></a>status</h3><div class="highlight" id="id-13"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git status
-</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git status</span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p>查看你的文件在暂存区和工作目录的状态，默认是较为详细的显示，并提示你可以用何种命令完成你接下来可能要做的事情。</p>
 </blockquote>
-<div class="highlight"><div class="chroma">
+<div class="highlight" id="id-14"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git status -s
-</span></span></code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git status -s</span></span></code></pre></td></tr></table>
 </div>
 </div><p>较为简单的输出当前的状态，如：</p>
-<div class="highlight"><div class="chroma">
+<div class="highlight" id="id-15"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -768,8 +751,7 @@
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">$ git status -s
 </span></span><span class="line"><span class="cl">M  README.md
 </span></span><span class="line"><span class="cl"> D hello.rb
-</span></span><span class="line"><span class="cl">?? world.java
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">?? world.java</span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p>你可以看到，在简短输出中，有两栏。第一栏是暂存区的，第二栏则是工作目录的。这里表示：</p>
@@ -779,8 +761,8 @@
 <li><code>hello.rb</code> 在工作目录中的状态是 <code>delete</code></li>
 <li><code>world.java</code> 还未添加到版本控制。</li>
 </ul>
-<h3 id="diff">diff</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="diff" class="heading-element">
+  <a href="#diff" class="heading-mark"></a>diff</h3><div class="highlight" id="id-16"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -795,11 +777,10 @@
 </span></span><span class="line"><span class="cl">git diff            <span class="c1">## 工作目录和暂存区</span>
 </span></span><span class="line"><span class="cl">git diff --cached   <span class="c1">## 暂存区和本地仓库</span>
 </span></span><span class="line"><span class="cl">git diff HEAD       <span class="c1">## 工作目录和本地仓库</span>
-</span></span><span class="line"><span class="cl">git diff --stat     <span class="c1">## 显示信息摘要</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git diff --stat     <span class="c1">## 显示信息摘要</span></span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="rm-mv">rm, mv</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="rm-mv" class="heading-element">
+  <a href="#rm-mv" class="heading-mark"></a>rm, mv</h3><div class="highlight" id="id-17"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -812,14 +793,13 @@
 </span></span><span class="line"><span class="cl">git rm filename                  <span class="c1">## 删除文件</span>
 </span></span><span class="line"><span class="cl">git rm –r dirname                <span class="c1">## 删除文件夹 –r 表示递归所有子目录</span>
 </span></span><span class="line"><span class="cl">git rm --cached &lt;path&gt;           <span class="c1">## 将文件从暂存区中删除</span>
-</span></span><span class="line"><span class="cl">git mv &lt;old_path&gt; &lt;new_path&gt;
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git mv &lt;old_path&gt; &lt;new_path&gt;</span></span></code></pre></td></tr></table>
 </div>
 </div><blockquote>
 <p><code>git rm</code>用来删除文件、目录。<code>git mv</code>命令用于移动或重命名一个文件、目录。</p>
 </blockquote>
 <p>比如删除 photos 文件，本地删除后，远程仓库还会有，所以</p>
-<div class="highlight"><div class="chroma">
+<div class="highlight" id="id-18"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -828,11 +808,10 @@
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git rm -r photos
 </span></span><span class="line"><span class="cl">git commit -m <span class="s2">&#34;删除相册&#34;</span>
-</span></span><span class="line"><span class="cl">git push
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git push</span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="submodule">submodule</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="submodule" class="heading-element">
+  <a href="#submodule" class="heading-mark"></a>submodule</h3><div class="highlight" id="id-19"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -843,8 +822,7 @@
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git submodule add         <span class="c1">## 添加子模组</span>
 </span></span><span class="line"><span class="cl">git submodule init        <span class="c1">## 子模组初始化</span>
 </span></span><span class="line"><span class="cl">git submodule update      <span class="c1">## 子模组更新</span>
-</span></span><span class="line"><span class="cl">git submodule -help
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git submodule -help</span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition Note open">
     <div class="details-summary admonition-title">
@@ -856,8 +834,8 @@
 子模组更新后，父模组必须更新，因为需要更新 commit id。</div>
     </div>
   </div>
-<h3 id="tag">tag</h3>
-<div class="highlight"><div class="chroma">
+<h3 id="tag" class="heading-element">
+  <a href="#tag" class="heading-mark"></a>tag</h3><div class="highlight" id="id-20"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
@@ -878,8 +856,7 @@
 </span></span><span class="line"><span class="cl">git tag -d v1.0                   <span class="c1">## 删除本地标签</span>
 </span></span><span class="line"><span class="cl">git push origin :refs/tags/v1.0   <span class="c1">## 删除远程标签</span>
 </span></span><span class="line"><span class="cl">$ git push <span class="o">[</span>remote<span class="o">]</span> <span class="o">[</span>tag<span class="o">]</span>         <span class="c1">## 提交指定 tag</span>
-</span></span><span class="line"><span class="cl">$ git push <span class="o">[</span>remote<span class="o">]</span> --tags        <span class="c1">## 提交所有 tag</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">$ git push <span class="o">[</span>remote<span class="o">]</span> --tags        <span class="c1">## 提交所有 tag</span></span></span></code></pre></td></tr></table>
 </div>
 </div><div class="details admonition Success open">
     <div class="details-summary admonition-title">
@@ -891,7 +868,7 @@
     </div>
   </div>
 <p>例如，假设我们发布了提交 85fc7e7（最后一行），但是那时候忘了给它打标签。 我们现在也可以：</p>
-<div class="highlight"><div class="chroma">
+<div class="highlight" id="id-21"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
@@ -914,33 +891,30 @@
 </span></span><span class="line"><span class="cl"><span class="p">|</span>/
 </span></span><span class="line"><span class="cl">* c1501a2 removed test.txt、add runoob.php
 </span></span><span class="line"><span class="cl">* 3e92c19 add test.txt
-</span></span><span class="line"><span class="cl">* 3b58100 <span class="o">(</span>tag: v0.9<span class="o">)</span> 第一次版本提交
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">* 3b58100 <span class="o">(</span>tag: v0.9<span class="o">)</span> 第一次版本提交</span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="stash">stash</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="stash" class="heading-element">
+  <a href="#stash" class="heading-mark"></a>stash</h3><div class="highlight" id="id-22"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git stash               <span class="c1">## 把当前的工作隐藏起来，等以后恢复现场后继续工作</span>
-</span></span><span class="line"><span class="cl">git stash list          <span class="c1">## 查看所有被隐藏的文件列表</span>
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">git stash list          <span class="c1">## 查看所有被隐藏的文件列表</span></span></span></code></pre></td></tr></table>
 </div>
-</div><h3 id="gitk">gitk</h3>
-<div class="highlight"><div class="chroma">
+</div><h3 id="gitk" class="heading-element">
+  <a href="#gitk" class="heading-mark"></a>gitk</h3><div class="highlight" id="id-23"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">gitk                    <span class="c1">## git 自带 GUI</span>
-</span></span><span class="line"><span class="cl">gitk --all
-</span></span></code></pre></td></tr></table>
+</span></span><span class="line"><span class="cl">gitk --all</span></span></code></pre></td></tr></table>
 </div>
-</div><h2 id="githubgitea-等平台-issue-的常用标签">github,gitea 等平台 issue 的常用标签</h2>
-<ul>
+</div><h2 id="githubgitea-等平台-issue-的常用标签" class="heading-element">
+  <a href="#githubgitea-%e7%ad%89%e5%b9%b3%e5%8f%b0-issue-%e7%9a%84%e5%b8%b8%e7%94%a8%e6%a0%87%e7%ad%be" class="heading-mark"></a>github,gitea 等平台 issue 的常用标签</h2><ul>
 <li><code>bug</code> 描述的问题是一个 bug</li>
 <li><code>enhancement</code> 功能增强，没有 feature 也可以指 New feature or request</li>
 <li><code>feature</code> 新功能</li>
@@ -952,10 +926,10 @@
 <li><code>good first issue</code> Good for newcomers</li>
 <li><a href="https://www.jianshu.com/p/48b935e36000"target="_blank" rel="external nofollow noopener noreferrer">更多标签<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 </ul>
-<h2 id="license">license</h2>
-<p><img loading="lazy" src="images/license.jpg" srcset="/test/git/images/license.jpg, images/license.jpg 1.5x, /test/git/images/license.jpg 2x" sizes="auto" data-title="license" data-alt="license" width="1280" height="800" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/></p>
-<h2 id="其他">其他</h2>
-<ul>
+<h2 id="license" class="heading-element">
+  <a href="#license" class="heading-mark"></a>license</h2><p><img loading="lazy" src="/test/git/images/license.jpg" alt="license" srcset="/test/git/images/license.jpg?size=small, /test/git/images/license.jpg?size=medium 1.5x, /test/git/images/license.jpg?size=large 2x" sizes="auto" data-title="license" style="--width: 1280px;--aspect-ratio: 1280 / 800;background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></p>
+<h2 id="其他" class="heading-element">
+  <a href="#%e5%85%b6%e4%bb%96" class="heading-mark"></a>其他</h2><ul>
 <li><a href="http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html"target="_blank" rel="external nofollow noopener noreferrer">常用 Git 命令清单<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 <li><a href="https://blog.csdn.net/qq1332479771/article/details/56087333"target="_blank" rel="external nofollow noopener noreferrer">github 上 fork 了别人的项目后，再同步更新别人的提交<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
 <li><a href="https://learngitbranching.js.org/"target="_blank" rel="external nofollow noopener noreferrer">Gearn Git Branching<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></li>
@@ -963,53 +937,56 @@
   <div class="post-info">
     <div class="post-info-line">
       <div class="post-info-mod">
-        <span title="更新于 2024-01-13 13:19:18">更新于 2024-01-13&nbsp;</span>
+        <span title="更新于 2024-01-14 01:15:10">更新于 2024-01-14&nbsp;</span>
       </div><div class="post-info-license">
-          <span><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span>
-        </div></div>
-    <div class="post-info-line">
-      <div class="post-info-md"></div>
-      <div class="post-info-share">
-        <span><a href="javascript:void(0);" title="分享到 Twitter" data-sharer="twitter" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总" data-hashtags="Git"><i class="fa-brands fa-twitter fa-fw" aria-hidden="true"></i></a>
+            <span><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span>
+          </div></div><div class="post-info-line">
+        <div class="post-info-md"></div>
+        <div class="post-info-share">
+          <span><a href="javascript:void(0);" title="分享到 Twitter" data-sharer="twitter" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总" data-hashtags="Git"><i class="fa-brands fa-twitter fa-fw" aria-hidden="true"></i></a>
   <a href="javascript:void(0);" title="分享到 Facebook" data-sharer="facebook" data-url="https://blog.funvip.live/test/git/" data-hashtag="Git"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
   <a href="javascript:void(0);" title="分享到 WhatsApp" data-sharer="whatsapp" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总" data-web><i class="fa-brands fa-whatsapp fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Line" data-sharer="line" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总"><i data-svg-src="https://unpkg.com/simple-icons@7.12.0/icons/line.svg" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Line" data-sharer="line" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总"><i data-svg-src="https://unpkg.com/simple-icons@9.19.0/icons/line.svg" aria-hidden="true"></i></a>
   <a href="javascript:void(0);" title="分享到 微博" data-sharer="weibo" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总" data-image="/test/git/images/relation-1.png"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 Myspace" data-sharer="myspace" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总" data-description=""><i data-svg-src="https://unpkg.com/simple-icons@7.12.0/icons/myspace.svg" aria-hidden="true"></i></a>
-  <a href="javascript:void(0);" title="分享到 百度" data-sharer="baidu" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总"><i data-svg-src="https://unpkg.com/simple-icons@7.12.0/icons/baidu.svg" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Myspace" data-sharer="myspace" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总" data-description=""><i data-svg-src="https://unpkg.com/simple-icons@9.19.0/icons/myspace.svg" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 百度" data-sharer="baidu" data-url="https://blog.funvip.live/test/git/" data-title="Git 常用指令汇总"><i data-svg-src="https://unpkg.com/simple-icons@9.19.0/icons/baidu.svg" aria-hidden="true"></i></a>
   </span>
-      </div>
-    </div>
-  </div>
+        </div>
+      </div></div>
 
   <div class="post-info-more">
-    <section class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href='/tags/git/' class="post-tag">Git</a></section>
+    <section class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href="/tags/git/" class="post-tag" title="标签 - Git">Git</a></section>
     <section>
       <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
     </section>
   </div>
 
-  <div class="post-nav">
+  <div class="post-nav"><a href="/friends/" class="post-nav-item" rel="prev" title="友情链接"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>友情链接</a>
       <a href="/test/linux-permission/" class="post-nav-item" rel="next" title="linux 文件权限">linux 文件权限<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
 </div>
 <div class="post-reward">
     <div class="comment">给作者买杯卡布奇诺～</div>
     <input type="checkbox" class="reward-input" name="reward" id="fi-reward" hidden />
     <label class="reward-button" for="fi-reward">赞赏</label>
-    <div class="reward-ways" data-mode="static"><div><img loading="lazy" src="/images/alipay.jpg" srcset="/images/alipay.jpg, /images/alipay.jpg 1.5x, /images/alipay.jpg 2x" sizes="auto" data-title="聪 支付宝" data-alt="聪 支付宝" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span data-animation>支付宝</span>
-          </div><div><img loading="lazy" src="/images/wechatpay.jpg" srcset="/images/wechatpay.jpg, /images/wechatpay.jpg 1.5x, /images/wechatpay.jpg 2x" sizes="auto" data-title="聪 微信" data-alt="聪 微信" style="background: url(/svg/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;this.alt=this.dataset.alt;for(const a of ['style','data-title','data-alt','onerror','onload']){this.removeAttribute(a);}"/><span data-animation>微信</span>
+    <div class="reward-ways" data-mode="static"><div><img loading="lazy" src="/images/alipay.jpg" alt=" 支付宝" data-title=" 支付宝" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span data-animation>支付宝</span>
+          </div><div><img loading="lazy" src="/images/wechatpay.jpg" alt=" 微信" data-title=" 微信" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span data-animation>微信</span>
           </div></div>
   </div><div id="comments"><div id="waline" class="comment"></div><noscript>
         Please enable JavaScript to view the comments powered by <a href="https://waline.js.org/" rel="external nofollow noopener noreferrer">Waline</a>.
-      </noscript></div></article></main><footer class="footer">
-    <div class="footer-container"><div class="footer-line custom">落木无边江不尽，此身此日更须忙</div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
+      </noscript></div></article>
+
+  <aside class="toc" id="toc-auto" aria-label="目录"><h2 class="toc-title">目录&nbsp;<i class="toc-icon fa-solid fa-angle-down fa-fw" aria-hidden="true"></i></h2>
+      <div class="toc-content" id="toc-content-auto"></div></aside></main><footer class="footer">
+    <div class="footer-container"><div class="footer-line custom">落木无边江不尽，此身此日更须忙</div><div class="footer-line powered">由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.121.2"><img class="hugo-icon" src="/images/hugo.min.svg" alt="Hugo logo" /> Hugo</a> 强力驱动 | 主题 - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.3.1"><img class="fixit-icon" src="/images/fixit.min.svg" alt="FixIt logo" /> FixIt</a>
+        </div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
             <span itemprop="copyrightYear">2023 - 2024</span><span class="author" itemprop="copyrightHolder">
-              <a href="/about">聪</a></span><span class="license footer-divider"><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div><div class="footer-line statistics order-first"><span class="site-time" title='网站运行中……'><i class="fa-solid fa-heartbeat fa-fw animate-icon" aria-hidden="true"></i><span class="ms-1 d-none">博客已运行</span><span class="run-times ms-1">网站运行中……</span></span></div><div class="footer-line visitor">
+              <a href="/"></a></span><span class="license footer-divider"><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div><div class="footer-line statistics order-first"><span class="site-time" title='网站运行中……'><i class="fa-solid fa-heartbeat fa-fw animate-icon" aria-hidden="true"></i><span class="ms-1 d-none">博客已运行</span><span class="run-times ms-1">网站运行中……</span></span></div><div class="footer-line visitor">
           <span id="busuanzi_container_site_uv" title='总访客数'><i class="fa-regular fa-user fa-fw" aria-hidden="true"></i>&nbsp;<span id="busuanzi_value_site_uv"><i class="fa-solid fa-spinner fa-spin fa-fw" aria-hidden="true"></i></span></span><span id="busuanzi_container_site_pv" class="footer-divider" title='总访问量'><i class="fa-regular fa-eye fa-fw" aria-hidden="true"></i>&nbsp;<span id="busuanzi_value_site_pv"><i class="fa-solid fa-spinner fa-spin fa-fw" aria-hidden="true"></i></span></span>
         </div></div>
   </footer></div><div class="widgets"><div class="fixed-buttons animate__faster d-none"><div class="fixed-button back-to-top" role="button" aria-label="回到顶部"><i class="fa-solid fa-arrow-up fa-fw" aria-hidden="true"></i><span class="variant-numeric">0%</span>
         </div><div class="fixed-button view-comments d-none" role="button" aria-label="查看评论"><i class="fa-solid fa-comment fa-fw" aria-hidden="true"></i></div></div><div id="mask"></div><div class="reading-progress-bar" style="left: 0;top: 0;--bg-progress: #000;--bg-progress-dark: #fff;"></div><noscript>
     <div class="noscript-warning">FixIt 主题在启用 JavaScript 的情况下效果最佳。</div>
   </noscript>
-</div><link rel="stylesheet" href="https://unpkg.com/@waline/client@2.14.7/dist/waline.css"><link rel="stylesheet" href="https://unpkg.com/lightgallery@2.6.1/css/lightgallery-bundle.min.css"><link rel="stylesheet" href="https://unpkg.com/katex@0.16.2/dist/katex.min.css"><link rel="stylesheet" href="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://unpkg.com/pace-js@1.2.4/themes/blue/pace-theme-minimal.css"><script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="https://unpkg.com/object-fit-images@3.2.4/dist/ofi.min.js"></script><script src="https://unpkg.com/@waline/client@2.14.7/dist/waline.js" defer></script><script src="https://unpkg.com/autocomplete.js@0.38.1/dist/autocomplete.min.js" defer></script><script src="https://unpkg.com/lunr@2.3.9/lunr.min.js" defer></script><script src="/lib/lunr/lunr.stemmer.support.min.8127f0ca4cabc7246f3620f3ef3bf9b1db02805dfe03d6d4c57bc74bc0bf6eea.js" integrity="sha256-gSfwykyrxyRvNiDz7zv5sdsCgF3+A9bUxXvHS8C/buo=" defer></script><script src="/lib/lunr/lunr.zh.min.825fab54c26891370cbd3df4cdff5c9de31af8bb84474e6774573463d8708ae7.js" integrity="sha256-gl+rVMJokTcMvT30zf9cneMa+LuER05ndFc0Y9hwiuc=" defer></script><script src="https://unpkg.com/instant.page@5.1.1/instantpage.js" async defer type="module"></script><script src="https://unpkg.com/lightgallery@2.6.1/lightgallery.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.6.1/plugins/thumbnail/lg-thumbnail.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.6.1/plugins/zoom/lg-zoom.min.js" defer></script><script src="https://unpkg.com/sharer.js@0.5.1/sharer.min.js" async defer></script><script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js" defer></script><script src="https://unpkg.com/katex@0.16.2/dist/katex.min.js" defer></script><script src="https://unpkg.com/katex@0.16.2/dist/contrib/auto-render.min.js" defer></script><script src="https://unpkg.com/katex@0.16.2/dist/contrib/copy-tex.min.js" defer></script><script src="https://unpkg.com/katex@0.16.2/dist/contrib/mhchem.min.js" defer></script><script src="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script src="https://unpkg.com/pangu@4.0.7/dist/browser/pangu.min.js" defer></script><script src="https://unpkg.com/cell-watermark@1.0.3/src/watermark.min.js" defer></script><script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async defer></script><script src="https://unpkg.com/pace-js@1.2.4/pace.min.js" async defer></script><script>window.config={"autoBookmark":true,"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"comment":{"enable":true,"expired":false,"waline":{"comment":true,"copyright":true,"dark":"body[data-theme='dark']","el":"#waline","emoji":["//unpkg.com/@waline/emojis@1.1.0/weibo"],"highlighter":true,"imageUploader":true,"lang":"zh-cn","login":"enable","meta":["nick","mail","link"],"pageSize":10,"pageview":true,"reaction":true,"search":true,"serverURL":"https://waline.xcapp.live/","texRenderer":true}},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验。"},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"data":{"typeit-header-subtitle-desktop":"木槿昔年,浮生未歇","typeit-header-subtitle-mobile":"木槿昔年,浮生未歇"},"enablePWA":true,"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"pangu":{"enable":true,"selector":"article"},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"zh","lunrSegmentitURL":"/lib/lunr/lunr.segmentit.js","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"lunr"},"siteTime":"2023-02-28T20:01:01+08:00","typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"typeit-header-subtitle-desktop":["typeit-header-subtitle-desktop"],"typeit-header-subtitle-mobile":["typeit-header-subtitle-mobile"]},"duration":-1,"loop":false,"speed":100},"watermark":{"appendto":".wrapper\u003emain","colspacing":30,"content":"\u003cimg style=\"height: 0.85rem;\" src=\"/logo.png\" alt=\"logo\" /\u003e Fun","enable":true,"fontfamily":"MMT_LRH,沐目体","fontsize":0.85,"height":20,"opacity":0.0125,"rotate":15,"rowspacing":60,"width":150}};</script><script src="/js/theme.min.fc04becb3680c34e759515d0ca699f480672c0ded7e8bc19bedc57bb6439cd76.js" integrity="sha256-/AS+yzaAw051lRXQymmfSAZywN7X6LwZvtxXu2Q5zXY=" defer></script></body>
+</div><link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.8/dist/waline.css"><link rel="stylesheet" href="https://unpkg.com/lightgallery@2.7.2/css/lightgallery-bundle.min.css"><link rel="preload" href="https://unpkg.com/katex@0.16.9/dist/katex.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://unpkg.com/katex@0.16.9/dist/katex.min.css"></noscript><link rel="stylesheet" href="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://unpkg.com/pace-js@1.2.4/themes/blue/pace-theme-minimal.css"><script src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="https://unpkg.com/object-fit-images@3.2.4/dist/ofi.min.js"></script><script src="https://unpkg.com/@waline/client@2.15.8/dist/waline.js" defer></script><script src="https://unpkg.com/autocomplete.js@0.38.1/dist/autocomplete.min.js" defer></script><script src="https://unpkg.com/instant.page@5.2.0/instantpage.js" async defer type="module"></script><script src="https://unpkg.com/lightgallery@2.7.2/lightgallery.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.7.2/plugins/thumbnail/lg-thumbnail.min.js" defer></script><script src="https://unpkg.com/lightgallery@2.7.2/plugins/zoom/lg-zoom.min.js" defer></script><script src="https://unpkg.com/sharer.js@0.5.1/sharer.min.js" async defer></script><script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js" defer></script><script src="https://unpkg.com/katex@0.16.9/dist/katex.min.js" defer></script><script src="https://unpkg.com/katex@0.16.9/dist/contrib/auto-render.min.js" defer></script><script src="https://unpkg.com/katex@0.16.9/dist/contrib/copy-tex.min.js" defer></script><script src="https://unpkg.com/katex@0.16.9/dist/contrib/mhchem.min.js" defer></script><script src="https://unpkg.com/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script src="https://unpkg.com/pangu@4.0.7/dist/browser/pangu.min.js" defer></script><script src="https://unpkg.com/cell-watermark@1.0.3/src/watermark.min.js" defer></script><script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" async defer></script><script src="https://unpkg.com/pace-js@1.2.4/pace.min.js" async defer></script><script>window.config={"autoBookmark":true,"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"comment":{"enable":true,"expired":false,"waline":{"comment":true,"copyright":true,"dark":"body[data-theme='dark']","el":"#waline","emoji":["//unpkg.com/@waline/emojis@1.1.0/weibo"],"highlighter":true,"imageUploader":true,"lang":"zh-cn","login":"enable","meta":["nick","mail","link"],"pageSize":10,"pageview":true,"reaction":true,"search":true,"serverURL":"https://waline.xcapp.live/","texRenderer":true}},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验。"},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"data":{"typeit-header-subtitle-desktop":"木槿昔年,浮生未歇","typeit-header-subtitle-mobile":"木槿昔年,浮生未歇"},"enablePWA":true,"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"pangu":{"enable":true,"selector":"article"},"search":{"highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50},"siteTime":"2023-02-28T20:01:01+08:00","typeit":{"cursorChar":"|","cursorSpeed":1000,"data":{"typeit-header-subtitle-desktop":["typeit-header-subtitle-desktop"],"typeit-header-subtitle-mobile":["typeit-header-subtitle-mobile"]},"duration":-1,"loop":false,"speed":100},"watermark":{"appendto":".wrapper\u003emain","colspacing":30,"content":"\u003cimg style=\"height: 0.85rem;\" src=\"/logo.png\" alt=\"logo\" /\u003e Fun","enable":true,"fontfamily":"MMT_LRH,沐目体","fontsize":0.85,"height":20,"opacity":0.0125,"rotate":15,"rowspacing":60,"width":150}};</script><script src="/js/theme.min.fabe6a4efbda44bc04c14798876c270d856beac7d25e2be33f773fb26a3fbfd5.js" integrity="sha256-+r5qTvvaRLwEwUeYh2wnDYVr6sfSXivjP3c/smo/v9U=" defer></script></body>
 </html>
