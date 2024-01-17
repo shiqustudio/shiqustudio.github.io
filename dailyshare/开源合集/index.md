@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### Atuin
+
+{{< image src="https://bib0.com/xc/i/2024/01/17/image-20240117162153515.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🔨[Atuin](https://github.com/atuinsh/atuin) - 一款开源的 shell 加强工具 
+
+> 📄该工具通过 SQLite 数据库存储 shell 历史记录，能够显示更多的 shell 历史、命令运行时间、执行时间等信息，还支持选择、过滤、统计、同步/备份等操作（端到端加密）
+>
+> 👤开发者
+>
+> 开发者是一位来自德国的程序媛，可以看看开发者的这篇[博文](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)，讲述了她辞职之后全职做开源的历程
+
+🌐 资源地址：🧩 [开源地址](https://github.com/atuinsh/atuin) | 📖[中文教程](https://github.com/atuinsh/atuin/blob/main/docs/zh-CN/README.md)
+
 ### Amarok 
 
 {{< image src="https://bib0.com/xc/i/2024/01/10/amarok-169-poster.png" alt="-" title="Fun's images">}}  
