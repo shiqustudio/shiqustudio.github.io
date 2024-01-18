@@ -5,6 +5,29 @@
 
 <!--more-->
 
+### 资源搜索引擎
+
+| [yandex](https://yandex.de/search/) > [bing](https://www.bing.com/) >[backdata](https://backdata.net/)> [天工 AI](https://search.tiangong.cn/) | 国内好用的搜索引擎   |
+| ------------------------------------------------------------ | -------------------- |
+| [小云搜索](https://www.yunso.net/)、[秒搜](https://miaosou.fun/)、[皮卡](https://www.pikaso.top/)、[PanS](https://pansearch.long2ice.io/)、[小马](https://www.xiaomapan.com/) | 搜索多个主流网盘资源 |
+| [YaPan](https://yapan.io/)、[咔帕搜索](https://www.cuppaso.com/)、[猫狸盘搜](https://www.alipansou.com/) | 阿里云盘搜索         |
+| [tg 中文搜索](https://tgso.pro/)、[tg🐱](https://meow.tg/)、[搜油猴脚本](https://greasyfork.org/zh-CN) | 海量资源搜索         |
+| [视频啦](https://shipinla.com/)、[搜 1](https://xunso.fun/)/ [搜 2](https://qin520520.cn/app/index.html?id=shen)/ [搜 3](http://mx771.cn/app/index.html?id=test)/ [搜 4](http://www.9dups.com/app/index.html?id=test) | 影视聚合搜索         |
+| [辅助狗](https://www.fuzhugou.com/)、[软件搜](https://rjss.pages.dev/)、[漫搜](https://www.mansou.co/) | 软件漫画搜索引擎     |
+| [免版权图片](https://www.logosc.cn/so)、[淘声网](https://www.tosound.com/)、[无版权音效](https://taira-komori.jpn.org/freesoundcn.html)、[免版权音乐](https://pixabay.com/zh/music/)、[免抠 png](https://www.pngdirs.com/)、[🧐Emoji](https://searchemoji.app/zh-hans) | 一键搜索免版权资源   |
+| [知搜](https://zhiso.cc/)、[易书](https://search.zhelper.net/?[{"name":"Ylibrary","url":"https://api.ylibrary.org","type":"full","sensitive":false,"detail":true}])、[无名图书](https://www.book123.info/) | 电子书搜索下载       |
+| [iptv 搜索](/dailyshare/tvbox/)、[查小说名](https://www.boyunso.com/)、[PDF 文档搜索](https://www.tacoso.cc/)、[食谱搜索](https://www.supercook.com/) | 不同领域的搜索引擎   |
+| [查报告](http://report.seedsufe.com/) 、[企业查询](https://dingtalk.com/qidian/)、[论文查询](https://pubscholar.cn/)、[公共教育资源](https://www.smartedu.cn/) | 权威领域的查询工具   |
+
+### 网盘资源汇总
+
+| [小纸条](https://ali.gitcafe.ink/)                           | 小纸条是一个聚合阿里云盘资源的发布单页 |
+| ------------------------------------------------------------ | -------------------------------------- |
+| [皮皮虾](https://ppxzy.me)、[校长影视](https://xzys.fun/)    | 阿里云盘影视资源发布网站               |
+| [阿里在线书签](https://nav.xybin.top/#category-27)           | 整合了超多资源的在线书签               |
+| [阿里小站](https://pan666.net)、[网盘小站](https://wpxz.pro) | 发布阿里夸克迅雷的资源论坛             |
+| [123 网盘分享论坛](https://www.123panfx.com/)                | 发布 123 盘的资源论坛                  |
+
 ### 日常推荐
 
 > 🌐[WebYouTube](https://web.xn--xhqwov38c.com/)

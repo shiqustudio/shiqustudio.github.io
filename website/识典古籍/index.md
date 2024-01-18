@@ -41,6 +41,41 @@
 | **中华珍宝馆**                                               | 🌐[点击查看](https://g2.ltfc.net/home)                        |
 | **中国古籍保护网**                                           | 🌐[点击查看](http://www.nlc.cn/pcab/zy/zhgj_zyk/?utm_source=appinn.com) |
 
+### 日本藏古籍数据库
+
+🔗资源简介：[点击查看](http://www.ihns.cas.cn/njgsz/zcbm/lytsg/zydh/sjkdh/zwdj/202302/t20230223_6682521.html)
+
+1. 全国汉籍数据库-日本所藏中文古籍數據庫
+http://kanji.zinbun.kyoto-u.ac.jp/kanseki
+2. 日本国立公文书馆（日本内阁文库）古籍影像库
+https://www.digital.archives.go.jp/
+3. 日本国立国会图书馆古籍影像库
+https://dl.ndl.go.jp/
+4. 宫内厅书陵部收藏汉籍集览
+https://db2.sido.keio.ac.jp/kanseki/
+5. 早稻田大学图书馆古籍影像库
+https://www.wul.waseda.ac.jp/kotenseki/advanced_search.html
+6. 东京大学东洋文化研究所亚洲电子图书馆
+http://imglib.ioc.u-tokyo.ac.jp/
+7. 东京大学双红堂文库
+http://hong.ioc.u-tokyo.ac.jp/list.php?order=si_no
+8. 东洋文库图书馆古籍影像库（贵重书）
+http://dsr.nii.ac.jp/toyobunko/
+9. 东洋文库图书馆古籍影像库（“岩崎文库”善本资料库）
+http://124.33.215.236/zenpon/zenpon201009.php
+10. 京都大学人文科学研究所东方学数字图书馆
+http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/top.html
+11. 京都大学图书馆贵重资料影像库
+https://rmda.kulib.kyoto-u.ac.jp/
+12. 东京国立博物馆汉籍影像库
+https://webarchives.tnm.jp/
+13. 淑德大学中国石刻拓片数据库
+https://www.shukutoku.ac.jp/university/facilities/syogaku/takuhon/
+14. 日本国立天文台珍贵古籍库
+http://library.nao.ac.jp/kichou/wakan.html
+15. 长崎大学藏晚清汉译西书全文影像库
+http://www.lb.nagasaki-u.ac.jp/siryo-search/ecolle/dawnb/
+
 ### 名畫檔案
 
 {{< image src="https://bib0.com/xc/i/2023/08/25/c1d39816102f40beba858f493de5b572_2192261542853668864.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}   
