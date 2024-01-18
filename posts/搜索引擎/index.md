@@ -12,7 +12,7 @@
 | [yandex](https://yandex.de/search/) > [bing](https://www.bing.com/) >[backdata](https://backdata.net/)> [天工 AI](https://search.tiangong.cn/) | 国内好用的搜索引擎   |
 | [小云搜索](https://www.yunso.net/)、[秒搜](https://miaosou.fun/)、[皮卡](https://www.pikaso.top/)、[PanS](https://pansearch.long2ice.io/)、[小马](https://www.xiaomapan.com/) | 搜索多个主流网盘资源 |
 | [YaPan](https://yapan.io/)、[咔帕搜索](https://www.cuppaso.com/)、[猫狸盘搜](https://www.alipansou.com/) | 阿里云盘搜索         |
-| [tg 中文搜索](https://tgso.pro/)、[tg🐱](https://meow.tg/)、[搜油猴脚本](https://greasyfork.org/zh-CN) | 海量资源搜索         |
+| [tg 中文搜索](https://tgso.pro/)、[tg🐱](https://meow.tg/)、[搜油猴脚本](https://greasyfork.org/zh-CN)、[图欧学习资源导航](https://tuostudy.upnb.top/) | 海量资源搜索         |
 | [视频啦](https://shipinla.com/)、[搜 1](https://xunso.fun/)/ [搜 2](https://qin520520.cn/app/index.html?id=shen)/ [搜 3](http://mx771.cn/app/index.html?id=test)/ [搜 4](http://www.9dups.com/app/index.html?id=test) | 影视聚合搜索         |
 | [辅助狗](https://www.fuzhugou.com/)、[软件搜](https://rjss.pages.dev/)、[漫搜](https://www.mansou.co/) | 软件漫画搜索引擎     |
 | [免版权图片](https://www.logosc.cn/so)、[淘声网](https://www.tosound.com/)、[无版权音效](https://taira-komori.jpn.org/freesoundcn.html)、[免版权音乐](https://pixabay.com/zh/music/)、[免抠 png](https://www.pngdirs.com/)、[🧐Emoji](https://searchemoji.app/zh-hans) | 一键搜索免版权资源   |
