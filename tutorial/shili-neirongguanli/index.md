@@ -3,7 +3,7 @@
 
 了解如何在 **FixIt** 主题中快速，直观地创建和组织内容。
 
-<!--more-->
+&lt;!--more--&gt;
 
 ## 内容组织
 
@@ -13,7 +13,7 @@
 - 保持简单的静态页面存放在 `content` 目录，例如：`content/about.md`
 - 本地资源组织
 
-{{< admonition>}} 
+{{&lt; admonition&gt;}} 
 
 [![FixIt 0.2.10 | 新增](https://fixit.lruihao.cn/svg/version/0.2.10-new.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10)
 
@@ -29,17 +29,17 @@
 
 页面资源或者 **assets** 目录中的 [图片处理](https://gohugo.io/content-management/image-processing/) 会在未来的版本中得到支持。 非常酷的功能！
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## 前置参数
 
 **Hugo** 允许你在文章内容前面添加 `yaml`, `toml` 或者 `json` 格式的前置参数。
 
-{{< admonition>}} 
+{{&lt; admonition&gt;}} 
 
 **不是所有**的以下前置参数都必须在你的每篇文章中设置。 只有在文章的参数和你的 [主题配置](https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration) 中的 `page` 部分不一致时才有必要这么做。
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 - **title**: 文章标题
 - **subtitle**: [![FixIt 0.2.0 | 新增](https://fixit.lruihao.cn/svg/version/0.2.0-new.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0) 文章副标题
@@ -91,7 +91,7 @@
 - **reward**: [![FixIt 0.2.17 | 新增](https://fixit.lruihao.cn/svg/version/0.2.17-new.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.17) 和 [主题配置](https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration) 中的 `params.page.reward` 部分相同
 - **instantPage**: [![FixIt 0.2.18 | 新增](https://fixit.lruihao.cn/svg/version/0.2.18-new.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.18) 和 [主题配置](https://fixit.lruihao.cn/zh-cn/documentation/basics/#theme-configuration) 中的 `params.page.instantPage` 部分相同
 
-{{< admonition tip>}} 
+{{&lt; admonition tip&gt;}} 
 
 [![FixIt 0.2.10 | 新增](https://fixit.lruihao.cn/svg/version/0.2.10-new.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.10)
 
@@ -116,29 +116,29 @@ hugo new posts/foo.md
 hugo new --kind post-bundle posts/bar/
 ```
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 这是一个前置参数例子：
 
 ```yaml
 ---
-title: "我的第一篇文章"
-subtitle: ""
-date: 2020-03-04T15:58:26+08:00
-lastmod: 2020-03-04T15:58:26+08:00
+title: &#34;我的第一篇文章&#34;
+subtitle: &#34;&#34;
+date: 2020-03-04T15:58:26&#43;08:00
+lastmod: 2020-03-04T15:58:26&#43;08:00
 draft: true
-author: ""
-authorLink: ""
-authorEmail: ""
-description: ""
-keywords: ""
-license: ""
+author: &#34;&#34;
+authorLink: &#34;&#34;
+authorEmail: &#34;&#34;
+description: &#34;&#34;
+keywords: &#34;&#34;
+license: &#34;&#34;
 images: []
 
 tags: []
 categories: []
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: &#34;&#34;
+featuredImagePreview: &#34;&#34;
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -149,7 +149,7 @@ fraction: true
 fontawesome: true
 linkToMarkdown: true
 rssFullText: false
-pageStyle: "normal"
+pageStyle: &#34;normal&#34;
 
 toc:
   enable: true
@@ -167,7 +167,7 @@ math:
   enable: true
   # ...
 mapbox:
-  accessToken: ""
+  accessToken: &#34;&#34;
   # ...
 share:
   enable: true
@@ -177,15 +177,15 @@ comment:
   # ...
 library:
   css:
-    # someCSS = "some.css"
-    # 位于 "assets/"
+    # someCSS = &#34;some.css&#34;
+    # 位于 &#34;assets/&#34;
     # 或者
-    # someCSS = "https://cdn.example.com/some.css"
+    # someCSS = &#34;https://cdn.example.com/some.css&#34;
   js:
-    # someJS = "some.js"
-    # 位于 "assets/"
+    # someJS = &#34;some.js&#34;
+    # 位于 &#34;assets/&#34;
     # 或者
-    # someJS = "https://cdn.example.com/some.js"
+    # someJS = &#34;https://cdn.example.com/some.js&#34;
 seo:
   images: []
   # ...
@@ -208,15 +208,15 @@ seo:
 
 ### 手动摘要拆分
 
-另外，你也可以添加 `<!--more-->` 摘要分割符来拆分文章生成摘要。
+另外，你也可以添加 `&lt;!--more--&gt;` 摘要分割符来拆分文章生成摘要。
 
 摘要分隔符之前的内容将用作该文章的摘要。
 
-{{< admonition >}} 
+{{&lt; admonition &gt;}} 
 
-请小心输入 `<!--more-->` ; 即全部为小写且没有空格。
+请小心输入 `&lt;!--more--&gt;` ; 即全部为小写且没有空格。
 
- {{< /admonition >}}
+ {{&lt; /admonition &gt;}}
 
 ### 前置参数摘要
 
@@ -226,22 +226,22 @@ seo:
 
 你可能希望将文章前置参数中的 `description` 变量的内容作为摘要。
 
-你仍然需要在文章开头添加 `<!--more-->` 摘要分割符。将摘要分隔符之前的内容保留为空。然后 **FixIt** 主题会将你的文章描述作为摘要。
+你仍然需要在文章开头添加 `&lt;!--more--&gt;` 摘要分割符。将摘要分隔符之前的内容保留为空。然后 **FixIt** 主题会将你的文章描述作为摘要。
 
 ### 摘要选择的优先级顺序
 
 由于可以通过多种方式指定摘要，因此了解顺序很有用。如下：
 
-1. 如果文章中有 `<!--more-->` 摘要分隔符，但分隔符之前没有内容，则使用描述作为摘要。
-2. 如果文章中有 `<!--more-->` 摘要分隔符，则将按照手动摘要拆分的方法获得摘要。
+1. 如果文章中有 `&lt;!--more--&gt;` 摘要分隔符，但分隔符之前没有内容，则使用描述作为摘要。
+2. 如果文章中有 `&lt;!--more--&gt;` 摘要分隔符，则将按照手动摘要拆分的方法获得摘要。
 3. 如果文章前置参数中有摘要变量，那么将以该值作为摘要。
 4. 按照自动摘要拆分方法。
 
-{{< admonition >}} 
+{{&lt; admonition &gt;}} 
 
 不建议在摘要内容中包含富文本块元素，这会导致渲染错误。例如代码块，图片，表格等。
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## 页面模板
 
@@ -261,7 +261,7 @@ seo:
   description: 对朋友或其站点的说明
 ```
 
-{{< admonition tip>}}
+{{&lt; admonition tip&gt;}}
 
 你可以使用以下命令快速创建友情链接页面：
 
@@ -269,7 +269,7 @@ seo:
 hugo new friends/index.md
 ```
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ### 离线页面
 
@@ -284,7 +284,7 @@ hugo new friends/index.md
   enablePWA = true
 ```
 
-{{< admonition tip>}}
+{{&lt; admonition tip&gt;}}
 
 你可以使用以下命令快速创建离线页面：
 
@@ -292,7 +292,7 @@ hugo new friends/index.md
 hugo new offline/index.md
 ```
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 ## 内容加密
 
@@ -309,6 +309,6 @@ hugo new offline/index.md
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tutorial/shili-neirongguanli/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/

@@ -3,7 +3,7 @@
 
 💡 GitHub这几年国内普通用户越来越难以访问，github作为全球最大的开源平台，里面有用的内容很多，不管是对专业用户还是普通用户，无法访问都是很严重的问题，使用频率高的推荐使用科学方式，下面的方法适合应急或低频率使用。
 
-<!--more-->
+&lt;!--more--&gt;
 
 ## 推荐使用
 
@@ -36,16 +36,16 @@
 
 任意github的项目，如无法使用大概率使用的是国外IP访问，请使用国内ip访问。
 
-> ✨例如：**github.com/XIU2/UserScript** 将链接更换后
->
-> **521**github.com/XIU2/UserScript  
-> **kk**github.com/XIU2/UserScript
+&gt; ✨例如：**github.com/XIU2/UserScript** 将链接更换后
+&gt;
+&gt; **521**github.com/XIU2/UserScript  
+&gt; **kk**github.com/XIU2/UserScript
 
 🚩**github.hscsec.cn** 是一个国内加速项目，只需要把`github.com` 替换为 `github.hscsec.cn` 就可以解决访问问题。
 
-> ✨例如：**github.com/XIU2/UserScript** 将链接更换后
->
-> **github.hscsec.cn**/XIU2/UserScript
+&gt; ✨例如：**github.com/XIU2/UserScript** 将链接更换后
+&gt;
+&gt; **github.hscsec.cn**/XIU2/UserScript
 
 🔴**实时自动检测并更新github镜像及加速的可用网址链接**
 
@@ -111,7 +111,7 @@ Github520 的作者也长期在维护 Github 的优质IP地址，并且是动态
 
 ![](https://pic4.zhimg.com/v2-c62ec6753143bee0d987250767477b73_b.jpg)
 
-下载安装好SwitchHosts之后，点击左上角的+号，按下图这样简单添加即可
+下载安装好SwitchHosts之后，点击左上角的&#43;号，按下图这样简单添加即可
 
 标题随意取，URL地址填这个：[https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)
 
@@ -141,7 +141,7 @@ Github520 的作者也长期在维护 Github 的优质IP地址，并且是动态
 
 仔细想想每2周才需要点一次，其实还好（你还可以用火绒的弹窗拦截来自动屏蔽这个弹窗）
 
-> PS：以上3款工具都需要到Github上下载
+&gt; PS：以上3款工具都需要到Github上下载
 
 ## 反向代理
 
@@ -165,9 +165,9 @@ Github520 的作者也长期在维护 Github 的优质IP地址，并且是动态
 
 比较棘手的是可能会出现80／443端口被占用的情况，这个需要关闭对应监听端口的进程／服务来解决，具体教程可见羽翼城大佬在下载页面做出的说明
 
-### Steam++（WIN／Mac／Linux／Android）
+### Steam&#43;&#43;（WIN／Mac／Linux／Android）
 
-最后再推荐一个比较稳定的长期可用加速软件Steam++：[https://steampp.net/](https://steampp.net/)
+最后再推荐一个比较稳定的长期可用加速软件Steam&#43;&#43;：[https://steampp.net/](https://steampp.net/)
 
 这个原本主要是用于加速访问Steam相关网站、社区的
 
@@ -179,16 +179,16 @@ Github520 的作者也长期在维护 Github 的优质IP地址，并且是动态
 
 目前支持以下平台的加速：
 
-+   Steam
-+   Discord
-+   Twitch
-+   Origin
-+   Uplay
-+   国外验证码平台：Google Recaptcha、hCaptcha、Arkoselabs
-+   Github
-+   Microsoft Store
-+   网盘服务：OneDrive、MEGA、Dropbox
-+   其他网站：Nyaa、Pinteres、P站、V2EX等
+&#43;   Steam
+&#43;   Discord
+&#43;   Twitch
+&#43;   Origin
+&#43;   Uplay
+&#43;   国外验证码平台：Google Recaptcha、hCaptcha、Arkoselabs
+&#43;   Github
+&#43;   Microsoft Store
+&#43;   网盘服务：OneDrive、MEGA、Dropbox
+&#43;   其他网站：Nyaa、Pinteres、P站、V2EX等
 
 具体软件的使用也是非常无脑，勾选你需要加速的平台，再点击一键加速即可
 
@@ -214,7 +214,7 @@ Github520 的作者也长期在维护 Github 的优质IP地址，并且是动态
 
 ## 其它方法
 
-**Watt Toolkit**（原Steam++）是一个开源跨平台的多功能游戏工具箱。使 Steam 、epic 、Github 等国内难以访问的网页正常访问。
+**Watt Toolkit**（原Steam&#43;&#43;）是一个开源跨平台的多功能游戏工具箱。使 Steam 、epic 、Github 等国内难以访问的网页正常访问。
 
 Watt Toolkit 支持Windows 、macOS 、Android 版本上使用
 
@@ -224,8 +224,8 @@ Watt Toolkit 支持Windows 、macOS 、Android 版本上使用
 
 🌐 资源地址：[点击跳转](https://hosts.gitcdn.top/hosts.txt) ⭐️`每日自动更新Github Hosts`
 
-+   Linux / MacOS hosts路径：`/etc/hosts`
-+   Windows hosts路径：`C:\Windows\System32\drivers\etc\hosts`
+&#43;   Linux / MacOS hosts路径：`/etc/hosts`
+&#43;   Windows hosts路径：`C:\Windows\System32\drivers\etc\hosts`
 
 可以手动修改hosts，或用软件[SwitchHosts](https://www.123pan.com/s/V65A-3FlLd.html)修改，也可使用该服务官方提供的客户端。
 
@@ -248,6 +248,6 @@ Watt Toolkit 支持Windows 、macOS 、Android 版本上使用
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/github%E5%8A%A0%E9%80%9F/  
 
