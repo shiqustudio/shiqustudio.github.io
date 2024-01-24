@@ -3,7 +3,7 @@
 
 💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub等资源
 
-<!--more-->
+&lt;!--more--&gt;
 
 ## 搜索引擎
 
@@ -11,82 +11,82 @@
 
 `[ 百度，Google，必应，搜狗等 ]`
 
-> **🔎 搜索格式：**  
-> 文档关键词后加上格式等（ `pdf` / `epub` / `mobi` / `azw3` / `txt` ）  
->
-> **✅ 资料名 + 格式；**  
-> 例如：巴黎圣母院 pdf
->
-> **✅ 资料名 + filetype/inurl:格式 ；**  
-> 例如：格林童话 filetype:mobi ; 三个火枪手 inurl:pdf
->
-> **✅ 资料名 + 提取码 ；**  
-> 例如：三体 提取码
->
-> **✅ 资料名 + 下载站 ；**  
-> 例如：三体 百度云 ;三体 网盘下载
+&gt; **🔎 搜索格式：**  
+&gt; 文档关键词后加上格式等（ `pdf` / `epub` / `mobi` / `azw3` / `txt` ）  
+&gt;
+&gt; **✅ 资料名 &#43; 格式；**  
+&gt; 例如：巴黎圣母院 pdf
+&gt;
+&gt; **✅ 资料名 &#43; filetype/inurl:格式 ；**  
+&gt; 例如：格林童话 filetype:mobi ; 三个火枪手 inurl:pdf
+&gt;
+&gt; **✅ 资料名 &#43; 提取码 ；**  
+&gt; 例如：三体 提取码
+&gt;
+&gt; **✅ 资料名 &#43; 下载站 ；**  
+&gt; 例如：三体 百度云 ;三体 网盘下载
 
 有条件的可以用`谷歌搜索引擎`搜索相关内容，效果好于百度，国内用户访问`谷歌搜索引擎`需要代理，请自行解决，这边只提供谷歌搜索镜像，效果相当
 
 ### 🌏 谷歌镜像
 
-> **—— 随时更新，避免失效 ——**
->
-> 1.  🌐[Google.library](https://www.library.ac.cn/) `镜像网站合集`
-> 2.  🌐[Google.Schoalr](https://scholar.eu.org/) `镜像集合` |🧩[Github地址](https://github.com/librarycloud/list)`持续更新`
-> 3.  🌐[Google (ahnu.cf)](https://search.ahnu.cf/) ⭐`11-24`
-> 4.  🌐[Google (ecnu.cf)](https://search.ecnu.cf/) ⭐`11-24`
-> 5.  🌐[Google (ahau.cf)](https://search.ahau.cf/) ⭐`11-24`
-> 6.  🌐[Google (shisu.cf)](https://search.shisu.cf/) ⭐`11-24`
-> 7.  🌐[Google (aufe.cf)](https://search.aufe.cf/) ⭐`11-24`
-> 8.  🌐[Google (ahut.cf)](https://search.ahut.cf/) ⭐`11-24`
+&gt; **—— 随时更新，避免失效 ——**
+&gt;
+&gt; 1.  🌐[Google.library](https://www.library.ac.cn/) `镜像网站合集`
+&gt; 2.  🌐[Google.Schoalr](https://scholar.eu.org/) `镜像集合` |🧩[Github地址](https://github.com/librarycloud/list)`持续更新`
+&gt; 3.  🌐[Google (ahnu.cf)](https://search.ahnu.cf/) ⭐`11-24`
+&gt; 4.  🌐[Google (ecnu.cf)](https://search.ecnu.cf/) ⭐`11-24`
+&gt; 5.  🌐[Google (ahau.cf)](https://search.ahau.cf/) ⭐`11-24`
+&gt; 6.  🌐[Google (shisu.cf)](https://search.shisu.cf/) ⭐`11-24`
+&gt; 7.  🌐[Google (aufe.cf)](https://search.aufe.cf/) ⭐`11-24`
+&gt; 8.  🌐[Google (ahut.cf)](https://search.ahut.cf/) ⭐`11-24`
 
 ![image-20231128163341553](https://bib0.com/xc/i/2023/11/28/image-20231128163341553.png)
 
 ### 📝Google学术搜索
 
-> **—— 随时更新，避免失效 ——**
->
-> 1.  🌐[https://scholar.google.com/](https://scholar.google.com/) `官网`
-> 2.  🌐[https://www.library.ac.cn/](https://www.library.ac.cn/) `镜像网站合集`
-> 3.  🌐[https://ac.scmor.com/ ](https://ac.scmor.com/) `镜像网站合集`
-> 4.  🌐[https://xs.zidianzhan.net/](https://xs.zidianzhan.net/) ⭐`11-24`
-> 5.  🌐[https://scholar.lanfanshu.cn/](https://scholar.lanfanshu.cn/) ⭐`11-24`
-> 6.  🌐[https://xueshu.lanfanshu.cn/](https://xueshu.lanfanshu.cn/) ⭐`11-24`
-> 7.  🌐[https://scholar.lanfanshu.cn](https://scholar.lanfanshu.cn/)⭐`11-28`
-> 8.  🌐[https://sc.panda321.com](https://sc.panda321.com/)⭐`11-28`
-> 9.  🌐[https://xueshu.lanfanshu.cn](https://xueshu.lanfanshu.cn/)⭐`11-28`
-> 10.  🌐https://www.scidown.cn/go⭐`11-28`
-> 11.  🌐[http://zc14.add.pub](http://zc14.add.pub/)⭐`11-28`
-> 12.  🌐[https://c.aalib.net/tool/ggscholar/](https://c.aalib.net/tool/ggscholar/) ⭐`Google 谷歌学术合集`
+&gt; **—— 随时更新，避免失效 ——**
+&gt;
+&gt; 1.  🌐[https://scholar.google.com/](https://scholar.google.com/) `官网`
+&gt; 2.  🌐[https://www.library.ac.cn/](https://www.library.ac.cn/) `镜像网站合集`
+&gt; 3.  🌐[https://ac.scmor.com/ ](https://ac.scmor.com/) `镜像网站合集`
+&gt; 4.  🌐[https://xs.zidianzhan.net/](https://xs.zidianzhan.net/) ⭐`11-24`
+&gt; 5.  🌐[https://scholar.lanfanshu.cn/](https://scholar.lanfanshu.cn/) ⭐`11-24`
+&gt; 6.  🌐[https://xueshu.lanfanshu.cn/](https://xueshu.lanfanshu.cn/) ⭐`11-24`
+&gt; 7.  🌐[https://scholar.lanfanshu.cn](https://scholar.lanfanshu.cn/)⭐`11-28`
+&gt; 8.  🌐[https://sc.panda321.com](https://sc.panda321.com/)⭐`11-28`
+&gt; 9.  🌐[https://xueshu.lanfanshu.cn](https://xueshu.lanfanshu.cn/)⭐`11-28`
+&gt; 10.  🌐https://www.scidown.cn/go⭐`11-28`
+&gt; 11.  🌐[http://zc14.add.pub](http://zc14.add.pub/)⭐`11-28`
+&gt; 12.  🌐[https://c.aalib.net/tool/ggscholar/](https://c.aalib.net/tool/ggscholar/) ⭐`Google 谷歌学术合集`
 
 ![image-20231204161644318](https://bib0.com/xc/i/2023/12/04/image-20231204161644318.png)
 
 ### 📃**Wikipedia搜索**
 
->**—— 随时更新，避免失效 ——**
->
->1. 🌐[wikipedia.njuu](https://www.wikipedia.njuu.cf) ⭐`11-24`
->2. 🌐[wikipedia.ecnu](https://www.wikipedia.ecnu.cf) ⭐`11-24`
->3. 🌐[wikipedia.ahau-zh](https://www.wikipedia.ahau.cf) ⭐`11-24`
->4. 🌐[wikipedia.ahnu-zh ](https://www.wikipedia.ahnu.cf)⭐`11-24`
->5. 🌐[wikipedia.shisu-zh ](https://www.wikipedia.shisu.cf)⭐`11-24`
->6. 🌐[wikipedia.hfut-zh ](https://www.wikipedia.hfut.cf)⭐`11-24`
->7. 🌐[wikipedia.ahtcm](https://www.wikipedia.ahtcm.cf) ⭐`11-24`
->8. 🌐[wikipedia.cdutcm](https://www.wikipedia.cdutcm.cf) ⭐`11-24`
->9. 🌐[wikipedia.hbcnc](https://www.wikipedia.hbcnc.cf) ⭐`11-24`
+&gt;**—— 随时更新，避免失效 ——**
+&gt;
+&gt;1. 🌐[wikipedia.njuu](https://www.wikipedia.njuu.cf) ⭐`11-24`
+&gt;2. 🌐[wikipedia.ecnu](https://www.wikipedia.ecnu.cf) ⭐`11-24`
+&gt;3. 🌐[wikipedia.ahau-zh](https://www.wikipedia.ahau.cf) ⭐`11-24`
+&gt;4. 🌐[wikipedia.ahnu-zh ](https://www.wikipedia.ahnu.cf)⭐`11-24`
+&gt;5. 🌐[wikipedia.shisu-zh ](https://www.wikipedia.shisu.cf)⭐`11-24`
+&gt;6. 🌐[wikipedia.hfut-zh ](https://www.wikipedia.hfut.cf)⭐`11-24`
+&gt;7. 🌐[wikipedia.ahtcm](https://www.wikipedia.ahtcm.cf) ⭐`11-24`
+&gt;8. 🌐[wikipedia.cdutcm](https://www.wikipedia.cdutcm.cf) ⭐`11-24`
+&gt;9. 🌐[wikipedia.hbcnc](https://www.wikipedia.hbcnc.cf) ⭐`11-24`
 
 ![image-20231201163059130](https://bib0.com/xc/i/2023/12/01/image-20231201163059130.png)
 
 ## Z-Library
 
-{{< image src="https://bib0.com/xc/i/2024/01/09/image-20240109085209869.png" alt="-" title="Fun's images">}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/2024/01/09/image-20240109085209869.png&#34; alt=&#34;-&#34; title=&#34;Fun&#39;s images&#34;&gt;}}   
 
 🚩 简介
 
 🌐 官网：[点击跳转](https://z-lib.org/)
 
-> Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于某些关系，Z-Library 访问并不稳定，使用下方的方法可以得到解决。
+&gt; Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于某些关系，Z-Library 访问并不稳定，使用下方的方法可以得到解决。
 
 ### 🧶目前可用方法
 
@@ -131,7 +131,7 @@ Z-Library 自去年 9 月份上线了「[Z-Point](https://zh.zlibrary-global.se/
 Z-library 有很多入口，大致分为官方网站和民间镜像。官方自己做了个跳转站点，自动寻找可用入口。但有时所有官方入口可能显示为：找不到可用域名，此时请选择可用的民间镜像访问登录  
 `（在任何第三方登录账号密码时候，都要注意账号密码安全，可单独注册一个账号密码专门用于此类第三方登录）`
 
-> **—— 随时更新，避免失效 ——**
+&gt; **—— 随时更新，避免失效 ——**
 
 ## Library Genesis
 
@@ -139,26 +139,26 @@ Z-library 有很多入口，大致分为官方网站和民间镜像。官方自�
 
 🌐 官网：[点击跳转](https://libgen.unblockit.foo/)
 
-> 一个学术论文和电子书籍免费获取的网站，几乎每天都有更新。兼具论文、文献、书籍下载功能，爱看英文原版书建议收藏，全部免费
+&gt; 一个学术论文和电子书籍免费获取的网站，几乎每天都有更新。兼具论文、文献、书籍下载功能，爱看英文原版书建议收藏，全部免费
 
-{{< image src="https://bib0.com/xc/i/2023/11/28/image-20231128143839766.png" alt="-" title="Fun's images">}} 
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/11/28/image-20231128143839766.png&#34; alt=&#34;-&#34; title=&#34;Fun&#39;s images&#34;&gt;}} 
 
 ### 🌏 网站
 
-> **—— 随时更新，避免失效 ——**
->
-> 1.  [http://library.lol/](http://library.lol/) `Library Genesis图书馆地址发布页`
-> 2.  [https://c.aalib.net/tool/libgen/](https://c.aalib.net/tool/libgen/) `镜像合集`
-> 3.  [http://libgen.rs/](http://libgen.rs/)
-> 4.  [http://libgen.st/](http://libgen.st/)
-> 5.  [http://libgen.is/](http://libgen.is/)
-> 6.  [https://libgen.rocks/](https://libgen.rocks/)
-> 7.  [https://libgen.gs/](https://libgen.gs/)
-> 8.  [http://libgen.rs/search.php](http://libgen.rs/search.php)
-> 9.  [https://www.libgen.tw/](https://www.libgen.tw/)
-> 10.  [https://llhlf.com/](https://llhlf.com/) ⭐`11-28`
-> 11.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像收集`
-> 12.  [https://unblockit.foo/](https://unblockit.foo/) ⭐`11-28`
+&gt; **—— 随时更新，避免失效 ——**
+&gt;
+&gt; 1.  [http://library.lol/](http://library.lol/) `Library Genesis图书馆地址发布页`
+&gt; 2.  [https://c.aalib.net/tool/libgen/](https://c.aalib.net/tool/libgen/) `镜像合集`
+&gt; 3.  [http://libgen.rs/](http://libgen.rs/)
+&gt; 4.  [http://libgen.st/](http://libgen.st/)
+&gt; 5.  [http://libgen.is/](http://libgen.is/)
+&gt; 6.  [https://libgen.rocks/](https://libgen.rocks/)
+&gt; 7.  [https://libgen.gs/](https://libgen.gs/)
+&gt; 8.  [http://libgen.rs/search.php](http://libgen.rs/search.php)
+&gt; 9.  [https://www.libgen.tw/](https://www.libgen.tw/)
+&gt; 10.  [https://llhlf.com/](https://llhlf.com/) ⭐`11-28`
+&gt; 11.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像收集`
+&gt; 12.  [https://unblockit.foo/](https://unblockit.foo/) ⭐`11-28`
 
 ### ⏬ 下载
 
@@ -188,7 +188,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 🙍 `关于作者`： [点击跳转](https://sci-hub.ru/alexandra)   | 🐋`作者推特`： [点击跳转](https://twitter.com/ringo_ring)
 
-> 一个影子图书馆网站，通过以各种方式绕过出版商的付费墙，可以免费访问数百万篇研究论文和书籍，而无需考虑版权。 Sci-Hub 由 Alexandra Elbakyan 于 2011 年在哈萨克斯坦创立，以应对付费墙背后的高昂研究论文成本。
+&gt; 一个影子图书馆网站，通过以各种方式绕过出版商的付费墙，可以免费访问数百万篇研究论文和书籍，而无需考虑版权。 Sci-Hub 由 Alexandra Elbakyan 于 2011 年在哈萨克斯坦创立，以应对付费墙背后的高昂研究论文成本。
 
 ![image-20231201160201222](https://bib0.com/xc/i/2023/12/01/image-20231201160201222.png)
 
@@ -197,38 +197,38 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ### 🌏 网站
 
-> **—— 随时更新，避免失效 ——**
->
-> 1.  [https://tool.yovisun.com/scihub/](https://tool.yovisun.com/scihub/) #此网站实时更新Sci-Hub可用域名
-> 2.  [https://lovescihub.wordpress.com/](https://lovescihub.wordpress.com/) #此网站实时更新Sci-Hub可用域名
-> 3.  [https://www.ooopn.com/tool/scihub/](https://www.ooopn.com/tool/scihub/) #此网站实时更新Sci-Hub可用域名
-> 4.  [http://sci-hub.fan/](http://sci-hub.fan/) #输入地址自动跳转可用Sci-Hub域名
-> 6.  [https://sci-hub.mksa.top/](https://sci-hub.mksa.top/)
-> 8.  [https://sci-hub.shop/](https://sci-hub.shop/)
-> 9.  [https://sci-hub.st/](https://sci-hub.st/)
-> 10.  [http://sci-hub.is/](http://sci-hub.is/)
-> 11.  [https://sci-hub.ren/](https://sci-hub.ren/)
-> 12.  [https://sci-hub.ee/](https://sci-hub.ee/)
-> 13.  [https://sci-hub.cat/](https://sci-hub.cat/)
-> 15.  [https://sci-hub.mksa.top/](https://sci-hub.mksa.top/)
-> 18.  [https://sci-hub.wf/](https://sci-hub.wf/) ⭐
-> 19.  [https://sci-hub.se/](https://sci-hub.se/) ⭐
-> 20.  [https://sci-hub.yt/](https://sci-hub.yt/) ⭐
-> 21.  [https://sci-hub.ru/](https://sci-hub.ru/) ⭐
-> 22.  [https://sci-hub.org.cn/](https://sci-hub.org.cn/) ⭐
-> 23.  [https://sci-hub.hkvisa.net/](https://sci-hub.hkvisa.net/) ⭐
-> 24.  [https://sci-hub.3800808.com/](https://sci-hub.3800808.com/) ⭐
+&gt; **—— 随时更新，避免失效 ——**
+&gt;
+&gt; 1.  [https://tool.yovisun.com/scihub/](https://tool.yovisun.com/scihub/) #此网站实时更新Sci-Hub可用域名
+&gt; 2.  [https://lovescihub.wordpress.com/](https://lovescihub.wordpress.com/) #此网站实时更新Sci-Hub可用域名
+&gt; 3.  [https://www.ooopn.com/tool/scihub/](https://www.ooopn.com/tool/scihub/) #此网站实时更新Sci-Hub可用域名
+&gt; 4.  [http://sci-hub.fan/](http://sci-hub.fan/) #输入地址自动跳转可用Sci-Hub域名
+&gt; 6.  [https://sci-hub.mksa.top/](https://sci-hub.mksa.top/)
+&gt; 8.  [https://sci-hub.shop/](https://sci-hub.shop/)
+&gt; 9.  [https://sci-hub.st/](https://sci-hub.st/)
+&gt; 10.  [http://sci-hub.is/](http://sci-hub.is/)
+&gt; 11.  [https://sci-hub.ren/](https://sci-hub.ren/)
+&gt; 12.  [https://sci-hub.ee/](https://sci-hub.ee/)
+&gt; 13.  [https://sci-hub.cat/](https://sci-hub.cat/)
+&gt; 15.  [https://sci-hub.mksa.top/](https://sci-hub.mksa.top/)
+&gt; 18.  [https://sci-hub.wf/](https://sci-hub.wf/) ⭐
+&gt; 19.  [https://sci-hub.se/](https://sci-hub.se/) ⭐
+&gt; 20.  [https://sci-hub.yt/](https://sci-hub.yt/) ⭐
+&gt; 21.  [https://sci-hub.ru/](https://sci-hub.ru/) ⭐
+&gt; 22.  [https://sci-hub.org.cn/](https://sci-hub.org.cn/) ⭐
+&gt; 23.  [https://sci-hub.hkvisa.net/](https://sci-hub.hkvisa.net/) ⭐
+&gt; 24.  [https://sci-hub.3800808.com/](https://sci-hub.3800808.com/) ⭐
 
 ### ⏬ 网页下载
 
 1.  通过 URL、DOI、PMID 以及字符串进行检索
 
-> **🔎 文献检索网站**
->
-> 1.  [https://www.sciencedirect.com/](https://www.sciencedirect.com/)
-> 2.  [https://www.science.org/journal/stm](https://www.science.org/journal/stm)
-> 3.  [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
-> 4.  [https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
+&gt; **🔎 文献检索网站**
+&gt;
+&gt; 1.  [https://www.sciencedirect.com/](https://www.sciencedirect.com/)
+&gt; 2.  [https://www.science.org/journal/stm](https://www.science.org/journal/stm)
+&gt; 3.  [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
+&gt; 4.  [https://ieeexplore.ieee.org/Xplore/home.jsp](https://ieeexplore.ieee.org/Xplore/home.jsp)
 
 ![image-20231201161230564](https://bib0.com/xc/i/2023/12/01/image-20231201161230564.png)
 
@@ -242,19 +242,19 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 🌐 官网：[点击跳转](https://greasyfork.org/zh-CN/scripts/448015)
 
-> 访问文献网页时，显示 `unpaywall`、 `Libgen` 、 `Sci-Hub` 的图标供跳转下载
+&gt; 访问文献网页时，显示 `unpaywall`、 `Libgen` 、 `Sci-Hub` 的图标供跳转下载
 
 #### 🛠️ 插件功能
 
-+   访问文献网页时，在文献链接后面添加 Sci-hub, libgen 按钮，可以直接跳转到下载页面。
-+   插件支持各大期刊 WOS、Researchgate、Springer、ScienceDirect、Scopus和MDPI等近百种网站。
-+   插件支持谷歌学术、必应学术及百度学术等网站。
+&#43;   访问文献网页时，在文献链接后面添加 Sci-hub, libgen 按钮，可以直接跳转到下载页面。
+&#43;   插件支持各大期刊 WOS、Researchgate、Springer、ScienceDirect、Scopus和MDPI等近百种网站。
+&#43;   插件支持谷歌学术、必应学术及百度学术等网站。
 
 #### ⚓ 插件安装
 
 1.  先用浏览器安装油猴脚本管理器（ [Tampermonkey](https://www.tampermonkey.net/) ）
     
-    > 浏览器建议使用谷歌内核浏览器，或者任一支持油猴脚本管理器的浏览器均可.
+    &gt; 浏览器建议使用谷歌内核浏览器，或者任一支持油猴脚本管理器的浏览器均可.
     
 
 🌐 资源地址：[点击跳转](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
@@ -263,14 +263,14 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 🌐资源地址：[点击跳转](https://greasyfork.org/zh-CN/scripts/448015)  
 
-> 打开一个文献网页，比如 [Science](https://www.science.org/doi/full/10.1126/science.1171362)
+&gt; 打开一个文献网页，比如 [Science](https://www.science.org/doi/full/10.1126/science.1171362)
 
-> 插件配置可以选择 `Sci-Hub` 和 `Libgen` 的网站
+&gt; 插件配置可以选择 `Sci-Hub` 和 `Libgen` 的网站
 
-> 打开一个文献网页，比如 [https://www.science.org/doi/full/10.1126/science.1171362](https://www.science.org/doi/full/10.1126/science.1171362)  
-> 等待页面刷新完就会显示`unpaywall`、 `Libgen` 、 `Sci-Hub` 的图标
+&gt; 打开一个文献网页，比如 [https://www.science.org/doi/full/10.1126/science.1171362](https://www.science.org/doi/full/10.1126/science.1171362)  
+&gt; 等待页面刷新完就会显示`unpaywall`、 `Libgen` 、 `Sci-Hub` 的图标
 
-> 点击·`unpaywall`、`Sci-Hub` 、 `Libgen` 任一图标即可跳转下载页面
+&gt; 点击·`unpaywall`、`Sci-Hub` 、 `Libgen` 任一图标即可跳转下载页面
 
 #### ✔️ 新增文献网站
 
@@ -278,43 +278,43 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 但不是所有网站都支持识别跳转到`unpaywall`、 `Libgen` 、 `Sci-Hub`免费下载
 
-> 点击浏览器左上角 `油猴脚本管理器` —– `管理面板`
+&gt; 点击浏览器左上角 `油猴脚本管理器` —– `管理面板`
 
-> 点击 `编辑` 选项
+&gt; 点击 `编辑` 选项
 
-> 根据原有格式，把需要识别的文献网站输入进去就可以
+&gt; 根据原有格式，把需要识别的文献网站输入进去就可以
 
-> 最后，点击左上角文件保存即可
+&gt; 最后，点击左上角文件保存即可
 
 ### 二、EndNote Click插件
 
 🌐 官网：[点击跳转](https://kopernio.com/)
 
-+   一键获取数百万篇研究论文PDF全文
+&#43;   一键获取数百万篇研究论文PDF全文
 
 #### 🛠️ 插件功能
 
-> ●省去浏览付费专区（paywall）、登录和跳转的时间。EndNote Click可以帮助您更快地获取PDF全文  
-> ●EndNote Click在数千个学术网站上为您提供帮助， 助您获取所需的PDF全文  
-> ● 当您在使用不同的学术搜索引擎时，如 Web of Science、Pubmed和Google Scholar，EndNote Click都能帮您一键获取PDF全文
+&gt; ●省去浏览付费专区（paywall）、登录和跳转的时间。EndNote Click可以帮助您更快地获取PDF全文  
+&gt; ●EndNote Click在数千个学术网站上为您提供帮助， 助您获取所需的PDF全文  
+&gt; ● 当您在使用不同的学术搜索引擎时，如 Web of Science、Pubmed和Google Scholar，EndNote Click都能帮您一键获取PDF全文
 
 #### ⚓ 插件安装
 
-> 安装教程：[点击跳转](https://kopernio.com/install-manually)
->
-> 离线插件：[EndNote Clickk](https://wwc.lanzoul.com/iXiuU0bstpnc) #解压后把文件拖到浏览器自动安全即可
+&gt; 安装教程：[点击跳转](https://kopernio.com/install-manually)
+&gt;
+&gt; 离线插件：[EndNote Clickk](https://wwc.lanzoul.com/iXiuU0bstpnc) #解压后把文件拖到浏览器自动安全即可
 
 #### 💠 验证安装
 
-> 打开测试网站：[测试站点](https://elifesciences.org/articles/50527)
->
-> 左下角显示 `EndNote` 图标表示正常安装
+&gt; 打开测试网站：[测试站点](https://elifesciences.org/articles/50527)
+&gt;
+&gt; 左下角显示 `EndNote` 图标表示正常安装
 
 ### 三、SCI RIS下载助手
 
-+   一键下载带论文PDF链接的Refman(\*.ris)文件，快速导入EndNote并自动下载关联PDF文件，已适配WOS、Researchgate、Springer、ScienceDirect、Scopus和MDPI等80+种网站
+&#43;   一键下载带论文PDF链接的Refman(\*.ris)文件，快速导入EndNote并自动下载关联PDF文件，已适配WOS、Researchgate、Springer、ScienceDirect、Scopus和MDPI等80&#43;种网站
 
-🌐**资源地址**：🧩[开源地址](https://github.com/Doradx/CNKI-PDF-RIS-Helper "GitHub") | 🔽[SCI RIS下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-SCI-RIS-Helper-zh-CN.md "SCI RIS下载助手") | 📝[知网PDF+RIS下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-CNKI-RIS-PDF-Helper-zh-CN.md "知网PDF+RIS下载助手") | 🦸‍♂️[博客](https://blog.cuger.cn/p/63499/ "博客")
+🌐**资源地址**：🧩[开源地址](https://github.com/Doradx/CNKI-PDF-RIS-Helper &#34;GitHub&#34;) | 🔽[SCI RIS下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-SCI-RIS-Helper-zh-CN.md &#34;SCI RIS下载助手&#34;) | 📝[知网PDF&#43;RIS下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-CNKI-RIS-PDF-Helper-zh-CN.md &#34;知网PDF&#43;RIS下载助手&#34;) | 🦸‍♂️[博客](https://blog.cuger.cn/p/63499/ &#34;博客&#34;)
 
 #### 🟢 插件简介
 
@@ -324,25 +324,25 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 安装插件后，网页右下角将显示**圆角矩形图标**，三种颜色和文字代表三种不同状态，状态分别为：
 
-+   **RIS+**: 正常找到**Refman**和**PDF**信息，点击\*\*RIS+\*\*将下载RIS文件，双击即可导入EndNote并\*\*自动关联PDF\*\*。（最理想的工作状态）
-+   **RIS**: 找到了**Refman**，但未找到**PDF**，点击**RIS**将下载RIS文件，双击即可导入EndNote，但是不会关联PDF。
-+   **NONE**: 啥也没找到，不支持该页面，按钮禁用。
+&#43;   **RIS&#43;**: 正常找到**Refman**和**PDF**信息，点击\*\*RIS&#43;\*\*将下载RIS文件，双击即可导入EndNote并\*\*自动关联PDF\*\*。（最理想的工作状态）
+&#43;   **RIS**: 找到了**Refman**，但未找到**PDF**，点击**RIS**将下载RIS文件，双击即可导入EndNote，但是不会关联PDF。
+&#43;   **NONE**: 啥也没找到，不支持该页面，按钮禁用。
 
 如果在期刊页面未显示上面图标，则表明暂未适配该期刊。作者空闲时随缘更新
 
 #### 🛠️ 插件功能
 
-+   一键下载最全面的Refman(\*.ris)文件
-+   一键导入EndNote, 并自动下载关联pdf
-+   论文信息全面：URL、论文作者、DOI、期卷号、论文摘要。
-+   优先使用官方通道：优先使用出版商的接口获取Refman(\*.ris)数据和官方PDF链接，若未找到才会调用crosscite和sci-hub数据。
-+   目前已适配80+个网站，理论上只要出现DOI的网站都可进行适配
+&#43;   一键下载最全面的Refman(\*.ris)文件
+&#43;   一键导入EndNote, 并自动下载关联pdf
+&#43;   论文信息全面：URL、论文作者、DOI、期卷号、论文摘要。
+&#43;   优先使用官方通道：优先使用出版商的接口获取Refman(\*.ris)数据和官方PDF链接，若未找到才会调用crosscite和sci-hub数据。
+&#43;   目前已适配80&#43;个网站，理论上只要出现DOI的网站都可进行适配
 
 #### ⚓ 插件安装
 
 1.  先用浏览器安装油猴脚本管理器（ [Tampermonkey](https://www.tampermonkey.net/) ）
 
-> 浏览器建议使用谷歌内核浏览器，或者任一支持油猴脚本管理器的浏览器均可.
+&gt; 浏览器建议使用谷歌内核浏览器，或者任一支持油猴脚本管理器的浏览器均可.
 
 **打开：**[油猴脚本](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
 
@@ -352,13 +352,13 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 #### 💠 测试使用
 
-> 打开[期刊页面](https://nhess.copernicus.org/articles/13/299/2013/)，查看是否存在图标，下载RIS文件，测试是否能正常导入EndNote并自动关联PDF。
+&gt; 打开[期刊页面](https://nhess.copernicus.org/articles/13/299/2013/)，查看是否存在图标，下载RIS文件，测试是否能正常导入EndNote并自动关联PDF。
 
 **测试：**[点击跳转](https://nhess.copernicus.org/articles/13/299/2013/)
 
 ### 四、CAJ 转 PDF 转换器
 
-+   CAJ 转 PDF 转换器（GUI 版本）
+&#43;   CAJ 转 PDF 转换器（GUI 版本）
 
 🍽️ **支持：**`Windows`、`MacOS`  
 🌐 **官网：**[点击跳转](https://caj2pdf-qt.sainnhe.dev/)  |🚩 **项目：**[开源地址](https://github.com/sainnhe/caj2pdf-qt)  | ⏬ **下载：**[蓝奏云](https://silece.lanzouw.com/iRSIC1giij7a)  
@@ -384,18 +384,18 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ## 论文期刊文献
 
-| **网站**| {{< style "width:110px" >}}**网址**{{< /style >}}                                               | **简介**                                                     | **类型** |
+| **网站**| {{&lt; style &#34;width:110px&#34; &gt;}}**网址**{{&lt; /style &gt;}}                                               | **简介**                                                     | **类型** |
 | ---------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | -------- |
 | **英文 DOI检索网站**                           | 🌐[点击查看](https://www.doi.org/)                        | 全球最大的DOI注册机构                                        | **期刊** |
 | **中文 DOI检索网站**                           | 🌐[点击查看](http://www.chinadoi.cn/portal/index.htm)     | 亚洲唯一的DOI注册机构网站，中文论文都经此注册                | **期刊** |
 | **Internet Archive**                           | 🌐[点击查看](https://archive.org/details/GeneralIndex)    |                                                              |          |
 | **臺灣大學學術期刊資料庫**                     | 🌐[点击查看](http://ejournal.press.ntu.edu.tw/main.php)   |                                                              | **期刊** |
 | **CAMBRIDGE**                                  | 🌐[点击查看](https://www.cambridge.org/)                  | 剑桥大学出版社，超过350种期刊接受开放存取                    | **期刊** |
-| **Connected Papers**                           | 🌐[点击查看](https://www.connectedpapers.com/)            | 该免费的数据库囊括了1.8亿多篇学术论文，涉及计算机科学、分子生物学、微生物学和神经科学等多学科领域。[详情](https://xueshu.baidu.com/usercenter/papercheck/news?kind=3&site=wangpanpc) | **论文** |
+| **Connected Papers**                           | 🌐[点击查看](https://www.connectedpapers.com/)            | 该免费的数据库囊括了1.8亿多篇学术论文，涉及计算机科学、分子生物学、微生物学和神经科学等多学科领域。[详情](https://xueshu.baidu.com/usercenter/papercheck/news?kind=3&amp;site=wangpanpc) | **论文** |
 | **Sciencedirect**                              | 🌐[点击查看](https://www.sciencedirect.com/)              | 是荷兰一家全球著名的学术期刊出版商，每年出版大量的学术图书和期刊，大部分期刊被SCI、SSCI、EI收录，是世界上公认的高品位学术期刊。Sciencedirect （Elsevier）是医学与其他科学文献出版社之一。爱思唯尔出版2500余种期刊，包括《柳叶刀》 、《四面体》、《细胞》。39000多种电子书籍以及诸多经典参考书如《格雷氏解剖学》等。 | **期刊** |
 | **汉斯开源期刊投稿**                           | 🌐[点击查看](https://www.hanspub.org/)                    | 中文期刊的出版发行, 覆盖以下领域: 数学物理、生命科学、化学材料、地球环境、医药卫生、工程技术、信息通讯、人文社科、经济管理等。支持插件 | **期刊** |
 | **OA期刊**                                     | 🌐[点击查看](https://www.oalib.com/)                      | OALib提供的开源论文超过5,709,776篇，涵盖所有学科。所有文章均可免费下载。[详情](https://www.oalib.com/about.jsp) | **期刊** |
-| **Jurnal Sains & Teknologi Lingkungan (JSTL)** | 🌐[点击查看](https://journal.uii.ac.id/JSTL/index)        | 每年 1 月和 6 月出版两次，是一本发表与环境问题相关的科技领域的科学研究论文和想法的科学期刊。期刊涵盖环境科学与技术的典型学科，如：饮用水处理、废水处理、固废处理、固废管理、清洁生产、大气污染管理、资源回收、水污染、土壤污染等相关领域。 | **期刊** |
+| **Jurnal Sains &amp; Teknologi Lingkungan (JSTL)** | 🌐[点击查看](https://journal.uii.ac.id/JSTL/index)        | 每年 1 月和 6 月出版两次，是一本发表与环境问题相关的科技领域的科学研究论文和想法的科学期刊。期刊涵盖环境科学与技术的典型学科，如：饮用水处理、废水处理、固废处理、固废管理、清洁生产、大气污染管理、资源回收、水污染、土壤污染等相关领域。 | **期刊** |
 | **开放存取期刊目录（DOAJ）**                   | 🌐[点击查看](https://doaj.org/)                           | 由瑞典隆德大学创建的国际知名学术期刊数据库，也是目前世界上最大的仅收录开放获取期刊的数据库。[详情](https://zhuanlan.zhihu.com/p/491452831) | **期刊** |
 | **Crossref**                                   | 🌐[点击查看](https://www.crossref.org/)                   | 该数据库包含超过 1.2 亿条记录及 API，用户可以通过 torrents 下载。 [详情](https://zhuanlan.zhihu.com/p/379206844) | **期刊** |
 | **PLOS**                                       | 🌐[点击查看](https://plos.org/)                           | 生命科学与医学领域                                           | **论文** |
@@ -417,7 +417,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 | **National library of medicine**               | 🌐[点击查看](https://www.ncbi.nlm.nih.gov/)               | 美国国家医学图书馆                                           | **图书** |
 | **免费论文下载中心**                           | 🌐[点击查看](http://www.hi138.com/)                       | 为您提供各行业论文下载                                       | **论文** |
 | **云端学术资源**                               | 🌐[点击查看](https://www.academic-res.com/)               | `【付费网站】`9.9元使用中国知网、万方数据、维普资讯、读秀资源、超星图书、国研数据、龙源期刊、博看杂志等资源 30天 |          |
-| **80图书馆**                                   | 🌐[点击查看](http://www.80lib.com/)                       | `【付费网站】`80图书馆不仅仅集成了各类中文资源、Web of Science、ScienceDirect、SpringerLink、IEEE、Pubmed、Embase、Reaxys、OVID、Scopus、ProQuest、Wiley等数百个国内外顶级科研文献数据库，更集成了50+所国内外名校图书馆，包括多所世界TOP10名校 | **论文** |
+| **80图书馆**                                   | 🌐[点击查看](http://www.80lib.com/)                       | `【付费网站】`80图书馆不仅仅集成了各类中文资源、Web of Science、ScienceDirect、SpringerLink、IEEE、Pubmed、Embase、Reaxys、OVID、Scopus、ProQuest、Wiley等数百个国内外顶级科研文献数据库，更集成了50&#43;所国内外名校图书馆，包括多所世界TOP10名校 | **论文** |
 | **在线学术期刊免费全文库**                     | 🌐[点击查看](http://www.paper.edu.cn/journal/index.shtml) | 国内唯一免费全文期刊库，由中华人民共和国教育部主管，中国科技论文在线发起，期刊上网工程历时多年，得到广大学术期刊的支持，目前已收录近千家科技期刊、逾130万篇各领域科技论文全文，全部提供给广大科研工作者及爱好者进行免费下载 | **期刊** |
 | **浙江图书馆**                                 | 🌐[点击查看](https://www.zjlib.cn/)                       | 使用浙江图书馆可以下载知网/万方/维普等数                     |          |
 | **国家哲学社会科学文献中心**                   | 🌐[点击查看](http://www.ncpssd.org/index.aspx)            | 共2048种期刊，上线文献数据超过1000万条。最主要的是文献很多，而且也比较新，很多19年、20年的都可以免费下载。注册稍微繁琐了点，其它都非常好，如果要下载或者阅读全文是必须登录。成功登录以后，直接在首页检索文献 |          |
@@ -440,7 +440,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ## 中文 - 找书网站
 
-| **名称**                    | **简介**                                                     | {{< style "width:110px" >}}**网址**{{< /style >}}            | **免费下载** |
+| **名称**                    | **简介**                                                     | {{&lt; style &#34;width:110px&#34; &gt;}}**网址**{{&lt; /style &gt;}}            | **免费下载** |
 | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 | **中文马克思主义文库**      | 传播马克思主义和共产主义的文库                               | 🌐[点击查看](https://www.marxists.org/chinese/maozedong/index.htm) | ✅            |
 | **资源分享站**              | 各种电子书，比较杂乱                                         | 🌐[点击查看](https://94fbr.net/)                              | ✅            |
@@ -466,7 +466,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ## 外文 - 找书网站
 
-| **名称**                         | **简介**                                                     | **{{< style "width:110px" >}}**网址**{{< /style >}}**        |
+| **名称**                         | **简介**                                                     | **{{&lt; style &#34;width:110px&#34; &gt;}}**网址**{{&lt; /style &gt;}}**        |
 | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **PDF drive**                    | 国外免费的PDF电子书网站，有很多电子书。                      | 🌐[点击查看](https://www.pdfdrive.com/)                       |
 | **Internet Archive**             | 一个包含数百万免费书籍、电影、软件、音乐、网站等的非营利性图书馆 | 🌐[点击查看](https://archive.org/)                            |
@@ -515,7 +515,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ## 医学类
 
-| **名称**                  | **简介**                                                     | {{< style "width:110px" >}}**网址**{{< /style >}}            |
+| **名称**                  | **简介**                                                     | {{&lt; style &#34;width:110px&#34; &gt;}}**网址**{{&lt; /style &gt;}}            |
 | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **默克诊疗手册**          | 默沙东诊疗手册是一个涵盖了医学所有领域成千上万主题的广泛医学信息来源。它们作为免费的公众服务提供给医疗专业人士和普罗大众。 | 🌐[点击查看](https://www.msdmanuals.cn/)                      |
 | **医学百科**              | 一个开放的在线医学百科全书网站                               | 🌐[点击查看](http://www.a-hospital.com/)                      |
@@ -547,6 +547,6 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/  
 
