@@ -2,27 +2,22 @@
   <channel>
     <title>开源 - 分类 - 拾趣资源</title>
     <link>https://blog.funvip.live/categories/%E5%BC%80%E6%BA%90/</link>
-    <description>开源 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E5%BC%80%E6%BA%90/" rel="self" type="application/rss+xml" /><item>
+    <description>开源 - 分类 | 拾趣资源</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E5%BC%80%E6%BA%90/" rel="self" type="application/rss+xml" /><item>
   <title>🧩开源资源</title>
   <link>https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/</link>
   <pubDate>Mon, 21 Aug 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/dailyshare/%E5%BC%80%E6%BA%90%E5%90%88%E9%9B%86/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2021-10-05_00-02-53.jpg" referrerpolicy="no-referrer">
-      </div><p>💡 整理收集优质开源、自动化项目相关资源。<a href="/tools/github%e5%8a%a0%e9%80%9f/">Github 加速</a> 可优化访问速率</p>]]></description>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/06/10/photo_2021-10-05_00-02-53.jpg" alt="🧩开源资源" title="🧩开源资源" referrerpolicy="no-referrer"/></div><p>💡 整理收集优质开源、自动化项目相关资源。<a href="/tools/github%e5%8a%a0%e9%80%9f/">Github 加速</a> 可优化访问速率</p>]]></description>
 </item>
 <item>
   <title>🤖Ai知识集</title>
   <link>https://blog.funvip.live/posts/aisummary/</link>
   <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/posts/aisummary/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" referrerpolicy="no-referrer">
-      </div><blockquote>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" alt="🤖Ai知识集" title="🤖Ai知识集" referrerpolicy="no-referrer"/></div><blockquote>
 <p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。</p>
 </blockquote>]]></description>
 </item>
@@ -30,9 +25,9 @@
   <title>⚖️AI 法律助手</title>
   <link>https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</link>
   <pubDate>Thu, 22 Jun 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
+  <author>作者</author>
   <guid>https://blog.funvip.live/website/%E6%B3%95%E5%BE%8B%E6%8F%B4%E5%8A%A9/</guid>
-  <description><![CDATA[<blockquote>
+  <description><![CDATA[<div class="featured-image"><img loading="eager" src="https://bib0.com/xc/i/2023/11/29/49982da788198c042d1c7400d772d292.jfif" alt="⚖️AI 法律助手" title="⚖️AI 法律助手" referrerpolicy="no-referrer"/></div><blockquote>
 <p>AI 法律助手、法律知识学习</p>
 </blockquote>]]></description>
 </item>
