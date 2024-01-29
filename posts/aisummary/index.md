@@ -1,13 +1,13 @@
 # 🤖Ai知识集
 
 
-> ChatGPT 是一款先进的人工智慧语言模型，由[OpenAI](https://openai.com/)研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。
+&gt; ChatGPT 是一款先进的人工智慧语言模型，由[OpenAI](https://openai.com/)研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话。
 
-<!--more-->
+&lt;!--more--&gt;
 
 ### AwesomeGPTs.pro
 
-{{< image src="https://bib0.com/xc/i/2023/12/26/image-20231226161918151.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/12/26/image-20231226161918151.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 ⭐️  资源描述：一个关于GPTs的导航站和搜索引擎
 
@@ -15,18 +15,18 @@
 
 ### awesome-open-gpt
 
-{{< image src="https://bib0.com/xc/i/2023/12/20/gpt-header.jpeg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/12/20/gpt-header.jpeg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 ⭐️  资源描述：[awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - gpt相关开源项目合集
 
->- [**awesome-open-gpt**](https://github.com/EwingYangs/awesome-open-gpt)是关于GPT开源精选项目的合集（170+全网最全） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
->- awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
+&gt;- [**awesome-open-gpt**](https://github.com/EwingYangs/awesome-open-gpt)是关于GPT开源精选项目的合集（170&#43;全网最全） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
+&gt;- awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
 
 🌐 资源地址: 🧩[开源地址](https://github.com/EwingYangs/awesome-open-gpt)
 
 ### 通往 AGI 之路
 
-{{< image src="https://bib0.com/xc/i/2023/11/03/Rb1To8.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/11/03/Rb1To8.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 ⭐️  资源描述：发现一个梳理得挺全面、易于理解的 AI 学习路径，帮助你了解 AI 从概念到应用等各方面知识的，叫「[通往 AGI 之路](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)」飞书文档库，可以收藏慢慢来看了。
 
@@ -34,35 +34,35 @@
 
 ### Llama2 Chinese
 
-{{< image src="https://bib0.com/xc/i/2023/09/07/image-20230907080230010.png" alt="-" title="Fun's images">}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/09/07/image-20230907080230010.png&#34; alt=&#34;-&#34; title=&#34;Fun&#39;s images&#34;&gt;}}     
 
 ⭐️  资源描述：🤖[Llama2 Chinese](https://github.com/FlagAlpha/Llama2-Chinese) -号称是目前最好的中文 Llama 大模型
 
->📄根据个绍，[[Llama2-Chinese-13B](https://github.com/FlagAlpha/Llama2-Chinese)] 是基于 200B 中文语料从头训练的，所以它从模型底层实现了 Lama2 中文能力的优化和提升
->
->并且它的中文训练数据源非常广泛，比如经过筛选地互联网上公开的中文网络数据、中文维基百科、中文悟道开源的 200G 数据等等
->
->众所周知，Llama2 是目前最强的开源人模型，但是中文预训练数据的比例仅占 0.13%，所以对中文支持比较不友好。幸运的是因为其是开源的，所以 [[Llama2-Chinese-13B](https://github.com/FlagAlpha/Llama2-Chinese)] 应运而生
->🆚如有兴趣，你可以自行对比原版与中文版的差异
+&gt;📄根据个绍，[[Llama2-Chinese-13B](https://github.com/FlagAlpha/Llama2-Chinese)] 是基于 200B 中文语料从头训练的，所以它从模型底层实现了 Lama2 中文能力的优化和提升
+&gt;
+&gt;并且它的中文训练数据源非常广泛，比如经过筛选地互联网上公开的中文网络数据、中文维基百科、中文悟道开源的 200G 数据等等
+&gt;
+&gt;众所周知，Llama2 是目前最强的开源人模型，但是中文预训练数据的比例仅占 0.13%，所以对中文支持比较不友好。幸运的是因为其是开源的，所以 [[Llama2-Chinese-13B](https://github.com/FlagAlpha/Llama2-Chinese)] 应运而生
+&gt;🆚如有兴趣，你可以自行对比原版与中文版的差异
 
 🌐 资源地址: 🧩[开源地址](https://github.com/FlagAlpha/Llama2-Chinese) | ⏺[体验地址](https://chinese.llama.family/) 
 
 ### Llama 2
 
-{{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730171707014.png" alt="-" title="Fun's images">}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/07/30/image-20230730171707014.png&#34; alt=&#34;-&#34; title=&#34;Fun&#39;s images&#34;&gt;}}     
 
 ⭐️  资源描述：🤖[Meta开源「次世代」大模型 Llama 2，免费可商用](https://ai.meta.com/)
 
->📄说太深奥我怕大家看不懂，简单说就是暂时不如 ChatGPT3.5 但是可以吊打其他开源模型
->
->官方也明确表示，在编码能力方面 Llama2 和 GPT3.5 有「显著的差距」
->via [oran_ge](https://twitter.com/oran_ge/status/1681427421558636559?s=20)并且目前暂时不支持中文，具体能力怎么样，自行体验！
+&gt;📄说太深奥我怕大家看不懂，简单说就是暂时不如 ChatGPT3.5 但是可以吊打其他开源模型
+&gt;
+&gt;官方也明确表示，在编码能力方面 Llama2 和 GPT3.5 有「显著的差距」
+&gt;via [oran_ge](https://twitter.com/oran_ge/status/1681427421558636559?s=20)并且目前暂时不支持中文，具体能力怎么样，自行体验！
 
 🌐 资源地址: [点击跳转](https://ai.meta.com/) | ⏺[体验1](https://llama.perplexity.ai/) | [体验2](https://llama2.skirano.repl.co/) | [体验3](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI)
 
 ### chatgpt_academic
 
-{{< image src="https://bib0.com/xc/i/2023/06/24/230598842-1d7fcddd-815d-40ee-af60-baf488a199df.png" alt="-" title="Fun's images">}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/24/230598842-1d7fcddd-815d-40ee-af60-baf488a199df.png&#34; alt=&#34;-&#34; title=&#34;Fun&#39;s images&#34;&gt;}}     
 
 ⭐️  资源描述：科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能。
 
@@ -70,7 +70,7 @@
 
 ### GetInference AI Radar
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png" alt="-" title="Fun's images">}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/23/image-20230623155834880.png&#34; alt=&#34;-&#34; title=&#34;Fun&#39;s images&#34;&gt;}}     
 
 ⭐️  资源描述：用于创意和营销的AI工具
 
@@ -78,7 +78,7 @@
 
 ### AIGC知识库
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155727097.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/23/image-20230623155727097.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 ⭐️  资源描述：AI工具汇总及操作指南
 
@@ -86,7 +86,7 @@
 
 ### 一起用AI
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155519299.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/23/image-20230623155519299.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 ⭐️  资源描述：AI资讯教程工具合集
 
@@ -94,7 +94,7 @@
 
 ### chart-gpt
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155939384.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/23/image-20230623155939384.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 ⭐️  资源描述：基于文本输入构建图表的人工智能工具
 
@@ -102,7 +102,7 @@
 
 ### Flowgpt
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155641870.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/23/image-20230623155641870.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 ⭐️  资源描述：245个ChatGPT的应用
 
@@ -110,15 +110,15 @@
 
 ### ChatALL
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/23/image-20230623155326199.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
-⭐️  资源描述：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
+⭐️  资源描述：同时和 10&#43; 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
 
 🌐 资源地址: [Github地址](https://github.com/sunner/ChatALL)
 
 ### Limit-LAB Translator 
 
-{{< image src="https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/23/image-20230623133136497.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：❔[Limit-LAB Translator - 一个基于 ChatGPT 的 AI翻译工具](https://translate.limit.dev/)
 
@@ -128,7 +128,7 @@
 
 ### Code Translator
 
-{{< image src="https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/05/18/image-20230518215915134.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**Code Translator**
 
@@ -140,7 +140,7 @@
 
 ### ChatBox
 
-{{< image src="https://bib0.com/xc/i/2023/05/18/snapshot2.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/05/18/snapshot2.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**ChatBox**
 
@@ -150,7 +150,7 @@
 
 ### Ai-blog 
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223539753.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418223539753.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**2023年提高生产力的最佳AI工具**
 
@@ -160,32 +160,32 @@
 
 ### CodeWhisperer
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222544403.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418222544403.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：亚马逊开放的一款 AI 编程助手：[CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)，可集成到 VSCode 和 IntelliJ IDEA 等代码编辑器上使用，个人版对所有开发者免费开放。
 
 ⭐️  资源描述：
 
->主要特性如下：
->
->- 经过数十亿行代码的训练，可根据注释和代码，实时生成代码建议；
->- 自动标记、过滤类似于开源训练数据的代码建议；
->- 自动扫描与修复代码漏洞；
->- 支持 15 中主流编程语言，多种 IDE 工具。
->
->自去年预览版发布以来，CodeWhisperer 帮助不少开发者可以专注和高效地编写代码，避免因查找资料而中断工作流程。
->
->该工具可用于处理日常耗时的琐碎任务、处理不熟悉的 API 或 SDK、正确且有效地使用 AWS API，以及其他常见编码场景，如读写文件、图像处理、编写单元测试等。
->
->CodeWhisperer 有两个版本，个人版和专业版。
->
->个人版免费开放，使用 Email 即可注册使用，专业版增加了如 SSO 和 IAM 身份中心集成、引用代码建议的策略控制，以及安全扫描等管理功能。
+&gt;主要特性如下：
+&gt;
+&gt;- 经过数十亿行代码的训练，可根据注释和代码，实时生成代码建议；
+&gt;- 自动标记、过滤类似于开源训练数据的代码建议；
+&gt;- 自动扫描与修复代码漏洞；
+&gt;- 支持 15 中主流编程语言，多种 IDE 工具。
+&gt;
+&gt;自去年预览版发布以来，CodeWhisperer 帮助不少开发者可以专注和高效地编写代码，避免因查找资料而中断工作流程。
+&gt;
+&gt;该工具可用于处理日常耗时的琐碎任务、处理不熟悉的 API 或 SDK、正确且有效地使用 AWS API，以及其他常见编码场景，如读写文件、图像处理、编写单元测试等。
+&gt;
+&gt;CodeWhisperer 有两个版本，个人版和专业版。
+&gt;
+&gt;个人版免费开放，使用 Email 即可注册使用，专业版增加了如 SSO 和 IAM 身份中心集成、引用代码建议的策略控制，以及安全扫描等管理功能。
 
 🌐 资源地址: [点击跳转](https://aws.amazon.com/cn/codewhisperer/)
 
 ### AMYmind
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418222805693.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418222805693.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：AMYmind
 
@@ -195,15 +195,15 @@
 
 ### typeapi.org
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223216722.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418223216722.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223043585.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418223043585.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223311190.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418223311190.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223327413.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418223327413.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418223347579.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418223347579.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：typeapi.org
 
@@ -213,7 +213,7 @@
 
 ### Zotero的GPT增强插件
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/231054213-427056c2-35dd-48d4-8e0d-e334bb85a46f.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/231054213-427056c2-35dd-48d4-8e0d-e334bb85a46f.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Zotero的GPT增强插件
 
@@ -223,9 +223,9 @@
 
 ### AI Prompt
 
-{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413221344393.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/13/image-20230413221344393.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
-🆔  资源名称：AI Prompt Generators & Prompt Library 
+🆔  资源名称：AI Prompt Generators &amp; Prompt Library 
 
 ⭐️  资源描述：一个很全面的在线AI Prompt生成工具和Prompt库
 
@@ -233,7 +233,7 @@
 
 ### Chatbene
 
-{{< image src="https://bib0.com/xc/i/2023/04/19/image-20230419081919533.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/19/image-20230419081919533.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Chatbene
 
@@ -247,7 +247,7 @@
 
 ### OpenAI 术语备忘单
 
-{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413220439840.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/13/image-20230413220439840.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**OpenAI 术语备忘单**
 
@@ -259,33 +259,33 @@
 
 #### 🔎Perplexity AI
 
-{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412223746487.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/12/image-20230412223746487.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**号称全球第一个可以聊天的AI搜索引擎**
 
 ⭐️  资源描述： 
 
-> 💡搜索模式
->
-> 1️⃣默认是自由搜索模式，可以和往常一样输入搜索内容
->
-> 2️⃣另一个则是「Bird SQL」，此模式主要是对Twitter推文进行搜索，可以用对话的高效方式调用推特的信息池。（你可以问：列出粉丝量最多的Twitter博主）
->
-> 📃Perplexity AI将ChatGPT和必应搜索结合在一起，所以既有ChatGPT式的问答，又可以像普通搜索引擎那样列出链接
->
-> 目前支持中文搜索提问，大部分默认回复是英文结果，总的来说，对中文的支持不如ChatGPT
->
-> Perplexity AI是世界上第一个融合了对话和链接的搜索引擎，一定程度上弥补了ChatGPT的离线回答、证据难以验证以及更新数据慢的问题
->
-> 并解决了传统搜索引擎结果相关度低、难以查询专业知识以及回答问题不充分等问题
->
-> 但是凡事有个但是，与ChatGPT相比较，Perplexity AI似乎只是多了几条结果链接，而智能程度还不如它
+&gt; 💡搜索模式
+&gt;
+&gt; 1️⃣默认是自由搜索模式，可以和往常一样输入搜索内容
+&gt;
+&gt; 2️⃣另一个则是「Bird SQL」，此模式主要是对Twitter推文进行搜索，可以用对话的高效方式调用推特的信息池。（你可以问：列出粉丝量最多的Twitter博主）
+&gt;
+&gt; 📃Perplexity AI将ChatGPT和必应搜索结合在一起，所以既有ChatGPT式的问答，又可以像普通搜索引擎那样列出链接
+&gt;
+&gt; 目前支持中文搜索提问，大部分默认回复是英文结果，总的来说，对中文的支持不如ChatGPT
+&gt;
+&gt; Perplexity AI是世界上第一个融合了对话和链接的搜索引擎，一定程度上弥补了ChatGPT的离线回答、证据难以验证以及更新数据慢的问题
+&gt;
+&gt; 并解决了传统搜索引擎结果相关度低、难以查询专业知识以及回答问题不充分等问题
+&gt;
+&gt; 但是凡事有个但是，与ChatGPT相比较，Perplexity AI似乎只是多了几条结果链接，而智能程度还不如它
 
 🌐 资源地址: [点击跳转](https://www.perplexity.ai/)
 
 #### 🔎Phind
 
-{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412222737668.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/12/image-20230412222737668.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**一个专门为程序员开发的搜索引擎**
 
@@ -295,7 +295,7 @@
 
 #### 🔎YOU
 
-{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412223506614.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/12/image-20230412223506614.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**一个AI搜索引擎**
 
@@ -313,19 +313,19 @@
 
 #### 🔎Consensus
 
-{{< image src="https://bib0.com/xc/i/2023/04/12/image-20230412223318279.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/12/image-20230412223318279.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：**一个基于 AI，能在科学论文中为你找到答案的搜索引擎**
 
 ⭐️  资源描述： 
 
->📄你有没有想问的每个问题都用用科学论文回答会得到怎么样的答案？
->
->只要提出一个问题，Consensus 就会立即阅读数以百万计的研究论文并给出答案
->
->每条答案都有发表出处、时间、作者等信息，并且还可以筛选这些通过论文的发表时间
->
->点击左上角「Synthesize」，AI 甚至还可以帮你生成一条总结所有论文答案的简要回答
+&gt;📄你有没有想问的每个问题都用用科学论文回答会得到怎么样的答案？
+&gt;
+&gt;只要提出一个问题，Consensus 就会立即阅读数以百万计的研究论文并给出答案
+&gt;
+&gt;每条答案都有发表出处、时间、作者等信息，并且还可以筛选这些通过论文的发表时间
+&gt;
+&gt;点击左上角「Synthesize」，AI 甚至还可以帮你生成一条总结所有论文答案的简要回答
 
 💬**借用群友的话「现在问题没有工具多」**
 
@@ -333,23 +333,23 @@
 
 ### Cursor
 
-{{< image src="https://bib0.com/xc/i/2023/04/11/81fww.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/11/81fww.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Cursor
 
 ⭐️  资源描述： 一款集成了 GPT-4 的 AI 代码生成工具
 
-> 📄使用该工具你可以快速进行多种编程语言的编码，如Python、Java、C#、JavaScript等，它可以根据你的输入的需求自动生成代码片段，此外，它还可以帮助你重构、理解和优化代码，神器！
->
-> 📖简易教程
->
-> 0️⃣下载软件之后先汉化，在 cursor 中快捷键「Ctrl+Shift+x」，然后输入 「Chinese」，安装之后重启就可以了
->
-> 1️⃣主界面按「Ctrl+K」，输入需求，我的需求你们可以参考一下：「写一个图片转字符画的Python程序」
->
-> 2️⃣然后按下回车，顷刻间 cursor 便会为你生成代码，然后你在本地打开终端输入 「Python Test.py」便会出现图中的一幕
->
-> 3️⃣如果你一窍不通，没关系！按下「Ctrl+L」，告诉它，你该怎么运行这个程序，它会把每个步骤告诉你。如果报错也是一样可以直接问他是什么问题，AI 会一一解答
+&gt; 📄使用该工具你可以快速进行多种编程语言的编码，如Python、Java、C#、JavaScript等，它可以根据你的输入的需求自动生成代码片段，此外，它还可以帮助你重构、理解和优化代码，神器！
+&gt;
+&gt; 📖简易教程
+&gt;
+&gt; 0️⃣下载软件之后先汉化，在 cursor 中快捷键「Ctrl&#43;Shift&#43;x」，然后输入 「Chinese」，安装之后重启就可以了
+&gt;
+&gt; 1️⃣主界面按「Ctrl&#43;K」，输入需求，我的需求你们可以参考一下：「写一个图片转字符画的Python程序」
+&gt;
+&gt; 2️⃣然后按下回车，顷刻间 cursor 便会为你生成代码，然后你在本地打开终端输入 「Python Test.py」便会出现图中的一幕
+&gt;
+&gt; 3️⃣如果你一窍不通，没关系！按下「Ctrl&#43;L」，告诉它，你该怎么运行这个程序，它会把每个步骤告诉你。如果报错也是一样可以直接问他是什么问题，AI 会一一解答
 
 💡免费用户一个月可以用100次提问，需要无限使用要付20刀/月
 
@@ -359,7 +359,7 @@
 
 ### Free ChatGPT Site List
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405202635098.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230405202635098.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Free ChatGPT Site List
 
@@ -369,7 +369,7 @@
 
 ### ChatGPT Sites
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203936853.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230405203936853.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：ChatGPT Sites
 
@@ -381,7 +381,7 @@
 
 ### Teach Anything
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203655262.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230405203655262.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Teach Anything
 
@@ -393,7 +393,7 @@
 
 ###  Poe 网页版
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/poe-web-08.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/poe-web-08.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Poe 网页版
 
@@ -403,7 +403,7 @@
 
 ### ChatExcel
 
-{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413221043035.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/13/image-20230413221043035.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：numerous.ai
 
@@ -413,7 +413,7 @@
 
 ### ChatPPT
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203101048.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230405203101048.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：ChatPPT
 
@@ -423,7 +423,7 @@
 
 ### chatDoc
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230401194343668.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230401194343668.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： chatDoc
 
@@ -433,7 +433,7 @@
 
 ###  ChatPDF            
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/chatpdf-01.jpg" alt="-"  title="Fun's images" >}}                                                                                      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/chatpdf-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}                                                                                      
 
 🆔  资源名称： ChatPDF 将PDF 文件丢给AI，快速归纳并解答相关问题
 
@@ -445,47 +445,47 @@
 
 #### Magic Copy 
 
-{{< image src="https://bib0.com/xc/i/2023/04/13/image-20230413214519716.png" alt="-"  title="Fun's images" >}}       
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/13/image-20230413214519716.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}       
 
 🆔  资源名称： **一款可以在浏览器中直接对图片进行抠图的工具插件**
 
 ⭐️  资源描述：⏬[下载页面](https://github.com/kevmo314/magic-copy/releases)
 
-> 📄该插件最大的特色不是抠图，而是可以对网页中任意图片进行一键抠图
->
-> 只需对网页中的图片右击，然后选择「Magic Copy」即可完成抠图
->
-> 如果没有反应，则需要在新标签页中打开图片再进行操作
->
-> 它基于 Meta 旗下的 AI 抠图模型 Segment Anything
->
-> 图中是我用插件扣的效果，非常实用！
+&gt; 📄该插件最大的特色不是抠图，而是可以对网页中任意图片进行一键抠图
+&gt;
+&gt; 只需对网页中的图片右击，然后选择「Magic Copy」即可完成抠图
+&gt;
+&gt; 如果没有反应，则需要在新标签页中打开图片再进行操作
+&gt;
+&gt; 它基于 Meta 旗下的 AI 抠图模型 Segment Anything
+&gt;
+&gt; 图中是我用插件扣的效果，非常实用！
 
 🌐 资源地址： [点击跳转](https://github.com/kevmo314/magic-copy) 
 
 #### Segment Anything 
 
-{{< image src="https://bib0.com/xc/i/2023/04/11/masks1.png" alt="-"  title="Fun's images" >}}       
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/11/masks1.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}       
 
 🆔  资源名称： Segment Anything 
 
 ⭐️  资源描述：（划分万物） - Meta 旗下开源的 AI 抠图工具
 
-> 📄我尝试了用一张非常复杂的图片给它，它处理的效果简直逆天！
->
-> 亏我苦苦练习蒙板抠图通道抠图等各种绝技共两年半时间..
->
-> 📖使用教程
->
-> 0️⃣进入主页点击「Demo」，再点击「Upload an image」可以上传你自己的图片
->
-> 1️⃣然后进入编辑页，可以看到悬停&点击、框选、一键选中、输出四个功能区
->
-> 2️⃣点击「Add Mask」可以点击你想扣出来的部分，点击「Remove Area」可以去除不想扣的部分，点击之后 AI 马上会智能识别，准确度我觉得比大部分在线抠图工具都高
->
-> 3️⃣「Box」可以框选你想扣的部分，「Everything」则可以一键帮你智能识别出可以扣的部分
->
-> 4️⃣「Cut-Outs」则可以输出透明背景的抠图结果
+&gt; 📄我尝试了用一张非常复杂的图片给它，它处理的效果简直逆天！
+&gt;
+&gt; 亏我苦苦练习蒙板抠图通道抠图等各种绝技共两年半时间..
+&gt;
+&gt; 📖使用教程
+&gt;
+&gt; 0️⃣进入主页点击「Demo」，再点击「Upload an image」可以上传你自己的图片
+&gt;
+&gt; 1️⃣然后进入编辑页，可以看到悬停&amp;点击、框选、一键选中、输出四个功能区
+&gt;
+&gt; 2️⃣点击「Add Mask」可以点击你想扣出来的部分，点击「Remove Area」可以去除不想扣的部分，点击之后 AI 马上会智能识别，准确度我觉得比大部分在线抠图工具都高
+&gt;
+&gt; 3️⃣「Box」可以框选你想扣的部分，「Everything」则可以一键帮你智能识别出可以扣的部分
+&gt;
+&gt; 4️⃣「Cut-Outs」则可以输出透明背景的抠图结果
 
 🌐 资源地址： [点击跳转](https://segment-anything.com/)
 
@@ -493,7 +493,7 @@
 
 #### Inpaint
 
-{{< image src="https://bib0.com/xc/i/2023/04/11/7q6q8.png" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/11/7q6q8.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称： Inpaint
 
@@ -505,7 +505,7 @@
 
 #### CGFaces
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405205253498.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230405205253498.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： CGFaces
 
@@ -515,7 +515,7 @@
 
 #### Vega Ai
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230405203309660.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230405203309660.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Vega Ai
 
@@ -525,7 +525,7 @@
 
 #### AI Background Generator
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/d_1280.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/d_1280.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： AI Background Generator
 
@@ -535,7 +535,7 @@
 
 #### StockAI
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/1280.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/1280.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： StockAI
 
@@ -545,7 +545,7 @@
 
 #### Playground AI 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/6e26ec784fe9403a8f3d56e619725e74.jpeg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/6e26ec784fe9403a8f3d56e619725e74.jpeg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Playground AI
 
@@ -557,7 +557,7 @@
 
 ### AI万能图片编辑器
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230401202548135.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230401202548135.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：AI万能图片编辑器
 
@@ -575,7 +575,7 @@
 
 ### ZeroGPT
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/zerogpt-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/zerogpt-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： ZeroGPT
 
@@ -585,7 +585,7 @@
 
 ### Cleanvoice AI
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/cleanvoice-ai-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/cleanvoice-ai-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Cleanvoice AI
 
@@ -595,7 +595,7 @@
 
 ### Chat YouTube
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/chatyoutube-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/chatyoutube-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Chat YouTube
 
@@ -605,7 +605,7 @@
 
 ### AI 影像建立者
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/bing-ai-image-creator-02.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/bing-ai-image-creator-02.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： AI 影像建立者
 
@@ -615,7 +615,7 @@
 
 ### DALL·E
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/dall-e-2-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/dall-e-2-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： DALL·E
 
@@ -625,7 +625,7 @@
 
 ### Microsoft Edge
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/microsoft-edge-bing-ai-sidebar-02.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/microsoft-edge-bing-ai-sidebar-02.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Microsoft Edge
 
@@ -635,7 +635,7 @@
 
 ### Good Tape
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/good-tape-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/good-tape-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Good Tape 录音转逐字稿自动化工具，支援中文在内等多国语言
 
@@ -645,7 +645,7 @@
 
 ### ChatGPT 万能工具箱
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/chatgpt-toolkit-05.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/chatgpt-toolkit-05.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：ChatGPT 万能工具箱：强化ChatGPT 网站使用体验的Chrome 扩充功能
 
@@ -662,7 +662,7 @@
 
 ### ChatGPT 指令大全
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/explainthis-chatgpt-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/explainthis-chatgpt-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： ChatGPT 指令大全：透过这些语句让AI 成为你的生产力工具
 
@@ -672,7 +672,7 @@
 
 ### ChatGPT Writer
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/chatgpt-writer-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/chatgpt-writer-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： ChatGPT Writer 使用AI 帮你写Email 还能整合Gmail 一键回信
 
@@ -684,7 +684,7 @@
 
 ### ChatGPT for Google
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/chatgpt-for-google-01.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/chatgpt-for-google-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：ChatGPT for Google 在搜寻引擎结果页面显示聊天机器人回传结果
 
@@ -698,7 +698,7 @@
 
 ### ChatGPT Next
 
-{{< admonition  info 个人搭建 ChatGPT 可尝鲜>}}
+{{&lt; admonition  info 个人搭建 ChatGPT 可尝鲜&gt;}}
 
 🆔  资源名称： 自建ChatGPT
 
@@ -706,11 +706,11 @@
 
 🌐 资源地址： [点击跳转](https://chat.xcapp.live/ )     
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/posts/aisummary/  
 
