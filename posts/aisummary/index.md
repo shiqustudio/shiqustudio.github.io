@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Noi 
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/0fec7bb8c360.png" alt="-"  title="Fun's images" >}}     
+
+⭐️  资源描述：Noi - 一款聚合 AI + 工具插件社区等功能的聚合工具
+
+>支持WInmac linux 内置ChatGPT api Claude Bard Poe等丰富的api 还提供提示词等
+
+🌐 资源地址: 🧩[开源地址](https://github.com/lencx/Noi/releases)
+
 ### Ask AI Tools
 
 {{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129154719791.png" alt="-"  title="Fun's images" >}}     
