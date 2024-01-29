@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### Ask AI Tools
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129154719791.png" alt="-"  title="Fun's images" >}}     
+
+⭐️  资源描述：🌐[Ask AI Tools](https://askaitools.ai/) - 一个「AI 导航网站」的导航网站 
+
+>📄这个导航网站收集了 200 多个 AI 导航网站，可能对以下 3 类人有帮助
+>
+>▫️普通 AI 爱好者：可以从同质化的 AI 导航网站中筛选自己喜欢的使用
+>▫️独立开发者/ AI 创业者：需要将自己的产品提交到各个AI导航站上获取流量，可以按照这个列表手动提交
+>▫️导航站站长：分析 AI 导航站的市场行情和竞争对手
+
+🌐 资源地址: [点击跳转](https://askaitools.ai/)
+
 ### AwesomeGPTs.pro
 
 {{< image src="https://bib0.com/xc/i/2023/12/26/image-20231226161918151.png" alt="-"  title="Fun's images" >}}     

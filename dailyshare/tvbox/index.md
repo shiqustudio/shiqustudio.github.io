@@ -231,6 +231,8 @@ TVbox4 1.0.0：[城通](https://url67.ctfile.com/f/14869667-743599010-6bd195?p=k
 
 🌐直播源 3：🚀[海量 iptv 直播源搜索引擎-m3u8](https://epg.pw/test_channel_page.html)
 
+🌐直播源 4：🧩[开源地址](https://github.com/joevess/IPTV)
+
 # 网页直播相关
 
 ## 网页直播

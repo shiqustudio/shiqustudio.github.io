@@ -11,6 +11,18 @@
 
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
+### Awesome Hands - Control
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129154334392.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：🙌[Awesome Hands - Control](https://github.com/RylanBot/awesome-hands-control) - 用手势操控电脑 
+
+>该项目基于 Google 的「MediaPipe」模型识别手势，并实现手势操控电脑
+>
+>支持 Mac 和 Windows，开箱即用
+
+🌐 资源地址：[点击跳转](https://github.com/RylanBot/awesome-hands-control)
+
 ### Stable Diffusion XL
 
 {{< image src="https://bib0.com/xc/i/2024/01/24/image-20240124082658004.png" alt="-" title="Fun's images">}}

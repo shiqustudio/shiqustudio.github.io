@@ -17,6 +17,14 @@
 > 🌐[在线OCR8](https://www.onlineocr.net/)  
 > 🌐[在线OCR9](https://olocr.com/zh-CN)
 
+## WeOCR
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129154117564.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  资源描述：[WeOCR](https://ocr.plantree.me/) - 一个极简的OCR工具
+
+🌐**资源地址**：[点击查看](https://ocr.plantree.me/) | 🧩[开源地址](https://github.com/plantree/ocr-pwa)
+
 ## 飞浆PaddleOCR
 
 ⭐️  资源描述：基于飞桨的OCR工具库，包含总模型仅8.6M的超轻量级中文OCR，单模型支持中英文数字组合识别、竖排文本识别、长文本识别。同时支持多种文本检测、文本识别的训练算法

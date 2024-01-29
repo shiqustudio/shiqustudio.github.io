@@ -6,6 +6,14 @@
 
 <!--more-->
 
+### Screenshot Beautifier
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129153441923.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[截图美化在线](https://shoteasy.fun/screenshot-beautifier) - 免费在线照片编辑器
+
+🔗 资源链接：🌐[点击跳转](https://shoteasy.fun/screenshot-beautifier)
+
 ### TinyWow
 
 {{< image src="https://bib0.com/xc/i/2024/01/24/image-20240124083706439.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
