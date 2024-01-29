@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 奇趣网站收藏家
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129164423475.png" alt="-" title="Fun's images">}} 
+
+⭐️  资源描述：这个网站收集了很多有趣，冷门， 创意性的网站， 大家可以看看逛逛， 多了解些信息有助于开拓思维， 创业也更有点子
+
+🌐 资源地址：[点击跳转](https://fuun.fun/top)
+
 ### 皮影数字博物馆
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/toucha.png" alt="-" title="Fun's images">}} 
