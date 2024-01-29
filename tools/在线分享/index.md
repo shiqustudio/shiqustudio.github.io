@@ -7,9 +7,9 @@
 
 ### 国内快速分享
 
-{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218102631792.png" alt="-" title="Fun's images" width="800px">}}  
-
 #### 📦  FileCodeBox
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218102631792.png" alt="-" title="Fun's images" width="800px">}}  
 
 📁 网站简介：一个文件快递柜项目，旨在通过匿名口令分享文本和文件，使文件传输像拿快递一样简单方便。
 
@@ -31,9 +31,23 @@
 
 🔗 资源地址：[点击跳转 ](https://github.com/vastsa/FileCodeBox) |  🦸‍♂️[网站实例](http://share.lanol.cn/)
 
-{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218102729039.png" alt="-" title="Fun's images" width="800px">}}  
+#### 网络剪贴板
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129162330364.png" alt="-" title="Fun's images" width="800px">}}  
+
+{{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129162406526.png" alt="-" title="Fun's images" width="800px">}}  
+
+📁 网站简介：匿名网络剪贴板
+
+>临时笔记， 跨设备传输， 匿名分享， 有这些需求的朋友可以收藏使用起来
+>
+>可以将文本数据或全格式文件数据上传到剪贴板中，随时随地打开剪贴板取回数据， 让数据的传送不再依赖QQ文件助手等工具以及繁琐的U盘等，让数据的暂存和传送更加方便快捷。
+
+🔗 资源地址：[点击跳转](https://netcut.cn/)
 
 #### 🪐 new.space
+
+{{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218102729039.png" alt="-" title="Fun's images" width="800px">}}  
 
 📁 网站简介：一个美观的文件传输网站，无需登陆，选择文件即可获得共享链接，端对端加密，文件会在14天后自动清除。
 
