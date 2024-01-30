@@ -181,13 +181,13 @@
 
 📁 网站简介：创建一个动态的个人数字主页，展示你的创作、成就和独特的个性
 
-🔗 资源地址：[点击跳转](https://jingle.bio/zh-Hans/)
+🔗 资源地址：[点击跳转](https://jingle.bio/zh-Hans/) | [博主分享](https://jingle.bio/shiqu)
 
 #### link3
 
 📁 网站简介：聚合你的所有信息，到一个页面、永久链接、永久二维码，有统计功能，登陆需手机验证码。
 
-🔗 资源地址：[点击跳转](https://link3.cc/)
+🔗 资源地址：[点击跳转](https://link3.cc/) | [博主分享](https://link3.cc/shiqu)
 
 #### MuseLink
 
