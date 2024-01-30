@@ -11,6 +11,16 @@
 
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
+## Jan Desktop
+
+{{< image src="https://bib0.com/xc/i/2024/01/30/663daaad78e.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：Ai聊天开源工具 gpt替代品 可以手动导入自己的模型 简单方便
+
+>将人工智能带入 您的桌面 ，开源 ChatGPT 替代方案，可在您的计算机上 100% 离线运行。
+
+🌐 资源地址：[点击跳转](https://jan.ai/) | [开源地址](https://github.com/janhq/jan/releases)
+
 ### Awesome Hands - Control
 
 {{< image src="https://bib0.com/xc/i/2024/01/29/image-20240129154334392.png" alt="-" title="Fun's images">}}
