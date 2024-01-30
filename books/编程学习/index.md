@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 各知名科技公司技术博客合集
+
+{{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130144118729.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：一个个人博客，集合了一些优质的各知名科技公司技术博客合集(持续更新)
+
+🌐 资源地址：[点击跳转](https://www.luxiangdong.com/2023/07/20/techblog/)
+
 ### Everything
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/sssmall2.gif" alt="-" title="Fun's images">}}  
