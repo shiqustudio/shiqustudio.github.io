@@ -413,6 +413,16 @@
 
 ## 镜像资源
 
+### MirrorZ Help
+
+{{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130150842264.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+📁 网站简介：校园网联合镜像站
+
+>一个开源、开放、且持续更新的开源软件镜像的帮助文档整合站点，旨在帮助高校间推广开源软件的使用。
+
+🔗 资源地址：[点击跳转](https://help.mirrors.cernet.edu.cn/)
+
 ### 快点软件镜像站
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730192855374.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
@@ -424,8 +434,6 @@
 >适用场景为无法使用的代理的办公开发环境
 
 🔗 资源地址：[点击跳转](https://mirrors.quickso.cn/)
-
-📑相关阅读
 
 ### PortableApps 
 
