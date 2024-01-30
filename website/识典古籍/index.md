@@ -62,7 +62,7 @@ http://hong.ioc.u-tokyo.ac.jp/list.php?order=si_no
 8. 东洋文库图书馆古籍影像库（贵重书）
 http://dsr.nii.ac.jp/toyobunko/
 9. 东洋文库图书馆古籍影像库（“岩崎文库”善本资料库）
-http://124.33.215.236/zenpon/zenpon201009.php
+[http://124.33.215.236/zenpon/zenpon201009.php](http://124.33.215.236/zenpon/zenpon201009.php)
 10. 京都大学人文科学研究所东方学数字图书馆
 http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/top.html
 11. 京都大学图书馆贵重资料影像库
