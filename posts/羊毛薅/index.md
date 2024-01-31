@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### 域名注册商比价
+
+{{< image src="https://bib0.com/xc/i/2024/01/31/image-20240131082450310.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：一个域名比价网站，帮助您找到合适的域名后缀和域名注册商。
+
+> 一个可以查看和对比全网域名注册商的各项服务价格的网站，看看你的域名在哪续费最便宜。界面清新无广告。
+
+🌐 资源地址：[点击跳转](https://www.nazhumi.com/)
+
 ### Dynadot
 
 {{< image src="https://bib0.com/xc/i/2023/07/30/image-20230730164753680.png" alt="-"  title="Fun's images" >}}    

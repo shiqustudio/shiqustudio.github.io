@@ -16,7 +16,21 @@
 > 安装 [Tampermonkey](https://www.tampermonkey.net/) 后，点击[安装](https://greasyfork.org/zh-CN/scripts/435208-github-%E4%B8%AD%E6%96%87%E5%8C%96%E6%8F%92%E4%BB%B6)
 >
 
-🌐 资源地址：🧩 [开源地址](https://github.com/maboloshi/github-chinese) | 点击跳转](https://maboloshi.github.io/github-chinese/)
+🌐 资源地址：🧩 [开源地址](https://github.com/maboloshi/github-chinese) | [点击跳转](https://maboloshi.github.io/github-chinese/)
+
+### zbpack
+
+{{< image src="https://bib0.com/xc/i/2024/01/31/image-20240131082058207.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：zbpack - 自动代码打包工具
+
+> zbpack (Zeabur Pack) 可自动分析项目源码所使用的语言、版本、框架，将服务打包成静态资源、云函数或 Docker 容器，意图简化手动编写 Dockerfile 并打包的过程。
+>
+> 使用的方式也很简单：zbpack <项目目录> 。也可以使用 -i 参数来显示构建计划。
+>
+> zbpack 是自动化部署平台 [Zeabur](https://zeabur.com/) 的核心组件之一。
+
+🌐 资源地址：🧩 [开源地址](https://github.com/zeabur/zbpack)
 
 ### 文本隐水印
 
