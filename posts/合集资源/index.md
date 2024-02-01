@@ -1,11 +1,11 @@
 # 🈴合集资源
 
 
-💡 收集PDF处理、机器人、插件、文案、影视、音乐、插画等众多相同网站的集合
+💡 收集 PDF 处理、机器人、插件、文案、影视、音乐、插画等众多相同网站的集合
 
 <!--more-->
 
-👉 比如：收集`PDF转换器` 或者 `壁纸网站大全`的有关网站集合
+👉 比如：收集 `PDF转换器` 或者 `壁纸网站大全` 的有关网站集合
 
 {{< admonition info >}} {{< typeit >}}📢 内容不定期更新...... {{< /typeit >}}{{< /admonition >}}
 
@@ -14,11 +14,11 @@
 | 资源信息                                 | 资源信息                                | 资源信息                                    | 资源信息                              |
 | :--------------------------------------- | :-------------------------------------- | :------------------------------------------ | :------------------------------------ |
 | [影视大全](/dailyshare/影视资源/)        | [音乐大全](/dailyshare/音乐资源合集/)   | [办公软件资源](/tools/软件资源/)            | [在线工具](/tools/在线工具/)          |
-| [浏览器工具](/tools/浏览器工具/)         | [线上转档](/tools/freetoolsonline/)     | [OpenAI 汇总](/posts/aisummary/)            | [AI工具汇总](/dailyshare/ai资源合集/) |
+| [浏览器工具](/tools/浏览器工具/)         | [线上转档](/tools/freetoolsonline/)     | [OpenAI 汇总](/posts/aisummary/)            | [AI 工具汇总](/dailyshare/ai资源合集/) |
 | [GitHub 加速方法](/tools/github加速/)    | [资源搜索引擎](/posts/搜索引擎/)        | [隐私保护](/tools/隐私/)                    | [在线分享](/tools/在线分享/)          |
 | [图片编辑](/tools/图片编辑/)             | [图床大全](/tools/图片空间/)            | [文件存储](/tools/文件存储/)                | [短地址汇总](/tools/短链/)            |
 | [文献搜索](/books/书籍搜索/)             | [阅读大全](/books/zlibary/)             | [古籍查看](/website/识典古籍/)              | [网络安全](/tools/网络/)              |
-| [英语学习](/books/英语学习/)             | [英文翻译](/books/文档翻译/)            | [壁纸大全](/website/壁纸/)                  | [OCR识别](/tools/ocr识别/)            |
+| [英语学习](/books/英语学习/)             | [英文翻译](/books/文档翻译/)            | [壁纸大全](/website/壁纸/)                  | [OCR 识别](/tools/ocr识别/)            |
 | [精准云工具](https://tool.caoniang.com/) | [爱资料工具箱](https://www.toolnb.com/) | [在线 pdf 工具箱](https://tools.pdf24.org/) | [独特工具箱](https://www.dute.org/)   |
 
 ## ⚔️常用在线工具
@@ -54,7 +54,7 @@
 | [冷熊简历](https://cv.ftqq.com/)                         | [站长工具](https://ping.chinaz.com/)                         | [m3u8 下载](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) |
 | [相似词查询](https://kmcha.com/)                         | [宜家特价](https://ikea-lp.netlify.app/)                     | [免费 ocr 识别](https://pearocr.com/#/)                      |
 
-## 📕 PDF处理工具推荐
+## 📕 PDF 处理工具推荐
 
 > 集合了很多 PDF 处理工具，支持格式转换、PDF 编辑、合并、分割、加水印、OCR 识别、压缩、签名、加密/解密、旋转等，功能非常丰富
 
@@ -62,24 +62,24 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [smallPDF](https://smallpdf.com/)                            | [ALL TO ALL](https://www.alltoall.net/)                      |
 | [Online OCR](https://www.onlineocr.net/)                     | [inyWow](https://tinywow.com/)                               |
-| [PDF to Word Converter](https://www.pdftoword.com/)          | [PDF转换器](https://www.pdfwordconvert.com/zh/)              |
-| [加加PDF](https://www.addpdf.cn/pdf-to-word)                 | [PDF转换](https://www.onlinepdftoimage.com/zh/)              |
-| [ilovePDF](https://www.ilovepdf.com/)                        | [免费在线PDF分配器](https://www.splitapdf.com/zh/)           |
+| [PDF to Word Converter](https://www.pdftoword.com/)          | [PDF 转换器](https://www.pdfwordconvert.com/zh/)              |
+| [加加 PDF](https://www.addpdf.cn/pdf-to-word)                 | [PDF 转换](https://www.onlinepdftoimage.com/zh/)              |
+| [ilovePDF](https://www.ilovepdf.com/)                        | [免费在线 PDF 分配器](https://www.splitapdf.com/zh/)           |
 | [PDFconverter](https://www.pdfconverter.com/)                | [文件格式转换工具](https://www.aconvert.com/)                |
 | [PDFbao](http://www.pdfbao.com/)                             | [ZAMZAR](https://www.zamzar.com/)                            |
 | [LightPDF](https://lightpdf.com/zh/)                         | [CAJ 转 PDF 转换器](https://caj2pdf-qt.sainnhe.dev/)         |
 | [cloudconvert](https://cloudconvert.com/pdf-to-doc)          | [Web Apps by 123apps](https://123apps.com/)                  |
-| [迅捷PDF转换器](https://app.xunjiepdf.com/)                  | [立即翻译任何文档格式为任意语言](https://www.onlinedoctranslator.com/zh-CN/) |
-| [UPDF正文编辑](https://www.updf.cn/updf/)                    | [docsmall](https://docsmall.com/)                            |
-| [PDF2go](https://www.pdf2go.com/zh/)                         | [HiPDF让PDF变得简单高效](https://www.hipdf.cn/)              |
-| [ABBYY FineReader](https://ocr.abbyy.cn/)                    | [PDF派](https://www.pdfpai.com/)                             |
+| [迅捷 PDF 转换器](https://app.xunjiepdf.com/)                  | [立即翻译任何文档格式为任意语言](https://www.onlinedoctranslator.com/zh-CN/) |
+| [UPDF 正文编辑](https://www.updf.cn/updf/)                    | [docsmall](https://docsmall.com/)                            |
+| [PDF2go](https://www.pdf2go.com/zh/)                         | [HiPDF 让 PDF 变得简单高效](https://www.hipdf.cn/)              |
+| [ABBYY FineReader](https://ocr.abbyy.cn/)                    | [PDF 派](https://www.pdfpai.com/)                             |
 | [PDF.IO](https://pdf.io/tw/)                                 | [onlineocr](https://www.onlineocr.net/)                      |
 | [PDFtodoc](http://pdf2doc.com/zh/)                           | [rightpdf](https://online.rightpdf.com/cn/office-to-pdf)     |
-| [pdfcandy](https://pdfcandy.com/cn/)                         | [PDF格式转换](http://www.pdfbao.com/pdf2word.html)           |
-| [记灵工具](https://remeins.com/)                             | [将DOC/DOCX文档转换成PDF](https://doctopdf.com/zh/)          |
-| [超级PDF](https://xpdf.cn/)                                  | [PDF Burger](https://pdfburger.com/combine-to-pdf)           |
-| [PDF24 Tools](https://tools.pdf24.org/zh/)                   | [PDF转换器](https://pdf.to/)                                 |
-| [PDF文档转换合成为一张图片](https://github.com/yuanqimanong/imgconvert-tool) |                                                              |
+| [pdfcandy](https://pdfcandy.com/cn/)                         | [PDF 格式转换](http://www.pdfbao.com/pdf2word.html)           |
+| [记灵工具](https://remeins.com/)                             | [将 DOC/DOCX 文档转换成 PDF](https://doctopdf.com/zh/)          |
+| [超级 PDF](https://xpdf.cn/)                                  | [PDF Burger](https://pdfburger.com/combine-to-pdf)           |
+| [PDF24 Tools](https://tools.pdf24.org/zh/)                   | [PDF 转换器](https://pdf.to/)                                 |
+| [PDF 文档转换合成为一张图片](https://github.com/yuanqimanong/imgconvert-tool) |                                                              |
 
 * * *
 
@@ -95,54 +95,54 @@
 | [智能闲聊（腾讯）](https://ai.qq.com/)            | 申请使用，免费且无限量。大厂靠谱                             |
 | [天行机器人](https://www.tianapi.com/apiview/47)  | 认证后有 7 万条免费使用。之后收费：1 万条/1 块钱             |
 | [思知对话机器人](https://www.ownthink.com/)       | 免费，可不申请 appid                                         |
-| [小I机器人](https://www.xiaoi.com/)               | 功能很强大，场景丰富                                         |
-| [茉莉机器人](https://mlyai.com/)                  | 免费、开放、API服务为主，支持上下文场景对话，灵活配置知识库以及插件功能 |
+| [小 I 机器人](https://www.xiaoi.com/)               | 功能很强大，场景丰富                                         |
+| [茉莉机器人](https://mlyai.com/)                  | 免费、开放、API 服务为主，支持上下文场景对话，灵活配置知识库以及插件功能 |
 
 * * *
 
-## 🐧 微信QQ辅助工具
+## 🐧 微信 QQ 辅助工具
 
-> 微信 or QQ机器人、微信群管理、多开等辅助工具
+> 微信 or QQ 机器人、微信群管理、多开等辅助工具
 
 | 网站                       | 网址                                                         | 简介                                                         |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 茉莉QQ机器人               | [项目](https://github.com/xggz/mqr) 📍 [文档](http://mqr.molicloud.com/) | 采用mirai的Android协议实现的QQ机器人服务，通过web控制机器人的启停和配置 |
-| QQBotHub                   | [项目](https://github.com/yiyungent/QQBotHub) 📍 [文档](https://moeci.com/QQBotHub/#/) | QQ 机器人,基于 Konata.Core, 一键免费部署                     |
+| 茉莉 QQ 机器人               | [项目](https://github.com/xggz/mqr) 📍 [文档](http://mqr.molicloud.com/) | 采用 mirai 的 Android 协议实现的 QQ 机器人服务，通过 web 控制机器人的启停和配置 |
+| QQBotHub                   | [项目](https://github.com/yiyungent/QQBotHub) 📍 [文档](https://moeci.com/QQBotHub/#/) | QQ 机器人, 基于 Konata.Core, 一键免费部署                     |
 | 高效率 QQ 机器人支持库     | [项目](https://github.com/mamoe/mirai)                       | mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效率机器人库 |
-| 微信SDK                    | [项目](https://github.com/silenceper/wechat) 📍 [文档](https://silenceper.com/wechat/) | 使用Golang开发的微信SDK，简单、易用。                        |
-| 微信助手                   | [项目](https://github.com/sfyc23/EverydayWechat)             | 1.每日定时给好友（女友）发送定制消息。<br />2.机器人自动回复好友。<br />3.群助手功能<br />（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等） |
-| 微信每日说                 | [项目](https://github.com/leochen-g/wechatBot)               | 教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题 |
-| WxPusher (微信推送服务)    | [项目](https://github.com/wxpusher/wxpusher-sdk-java/) 📍 [文档](https://wxpusher.zjiecode.com/docs/#/) | 一个使用微信公众号作为通道的，实时信息推送平台，你可以通过调用API的方式，把信息推送到微信上，无需安装额外的软件，即可做到信息实时通知。你可以使用WxPusher来做服务器报警通知、抢课通知、抢票通知，信息更新提示等。 |
+| 微信 SDK                    | [项目](https://github.com/silenceper/wechat) 📍 [文档](https://silenceper.com/wechat/) | 使用 Golang 开发的微信 SDK，简单、易用。                        |
+| 微信助手                   | [项目](https://github.com/sfyc23/EverydayWechat)             | 1.每日定时给好友（女友）发送定制消息。<br /> 2.机器人自动回复好友。<br /> 3.群助手功能 <br />（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5 等） |
+| 微信每日说                 | [项目](https://github.com/leochen-g/wechatBot)               | 教你用 Node 做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题 |
+| WxPusher (微信推送服务)    | [项目](https://github.com/wxpusher/wxpusher-sdk-java/) 📍 [文档](https://wxpusher.zjiecode.com/docs/#/) | 一个使用微信公众号作为通道的，实时信息推送平台，你可以通过调用 API 的方式，把信息推送到微信上，无需安装额外的软件，即可做到信息实时通知。你可以使用 WxPusher 来做服务器报警通知、抢课通知、抢票通知，信息更新提示等。 |
 | 贴心小助手客户端           | [项目](https://github.com/lizhounet/wx-intimate-pro)         | 微信机器人, 群管理、头像处理、智能机器人对话、好友互动、定时任务，情侣每日说等功能的配置 |
-| itchat开源的微信个人号接口 | [项目](https://github.com/littlecodersh/ItChat) 📍 [文档](https://itchat.readthedocs.io/zh/latest/) | 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人 |
+| itchat 开源的微信个人号接口 | [项目](https://github.com/littlecodersh/ItChat) 📍 [文档](https://itchat.readthedocs.io/zh/latest/) | 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人 |
 | Wechaty                    | [项目](https://github.com/wechaty/wechaty) 📍 [文档](https://wechaty.gitbook.io/wechaty/v/zh/) | 一个开源的的对话机器人 SDK，支持 个人号 微信                 |
 
 ------
 
-## 📑微信/QQ聊天记录备份
+## 📑微信/QQ 聊天记录备份
 
 🔴  
-QQ聊天记录导出  
+QQ 聊天记录导出  
 https://github.com/Yiyiyimu/QQ-History-Backup  
-QQ/TIM聊天记录导出为 HTML，支持图片、语音  
+QQ/TIM 聊天记录导出为 HTML，支持图片、语音  
 https://github.com/QQBackup/QQ-History-Backup  
-提取QQ聊天记录的工具  
+提取 QQ 聊天记录的工具  
 https://github.com/hikariyo/qq-chat-history  
-一个让PC QQ 导出TXT聊天记录转Excel表格的工具  
+一个让 PC QQ 导出 TXT 聊天记录转 Excel 表格的工具  
 https://github.com/aoguai/QQtoExcel  
-记录并长期保存QQ聊天记录  
+记录并长期保存 QQ 聊天记录  
 https://github.com/NoNormalCreeper/QQ-chat-recorder  
-方便记录QQ聊天记录和设置对话框样式  
+方便记录 QQ 聊天记录和设置对话框样式  
 https://github.com/LincZero/obsidian-chat-view-qq  
-安卓QQ聊天记录导出  
+安卓 QQ 聊天记录导出  
 https://github.com/ctem049/qqmessageoutput  
 https://i.ctm49.com/diy/16.html  
 🟢  
 微信客户端取证，可获取用户个人信息  
 https://github.com/AdminTest0/SharpWxDump  
-PC微信数据库读取、解密脚本  
+PC 微信数据库读取、解密脚本  
 https://github.com/xaoyaoo/PyWxDump  
-提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存   
+提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存   
 https://github.com/LC044/WeChatMsg  
 微信图片自动备份为普通图片  
 https://github.com/kihlh/WxDatViewerAutoExportRust  
@@ -155,23 +155,23 @@ https://www.52pojie.cn/thread-1837539-1-1.html
 https://kiic.lanzouw.com/iVywr19jnfkd  
 分享一个微信图片下载排版小工具  
 https://www.52pojie.cn/thread-1820066-1-1.html  
-https://wwxt.lanzout.com/ivz3d1aoy4dc 密码:d71f  
-微信dat转图片（微信加密图片格式转换）  
+https://wwxt.lanzout.com/ivz3d1aoy4dc 密码: d71f  
+微信 dat 转图片（微信加密图片格式转换）  
 https://www.52pojie.cn/thread-1814271-1-1.html  
 https://wwbb.lanzout.com/i6t5w13oqbmd  
 🟣  
-Shmily-聊天记录归档 支持 QQ、Wechat、SMS、Email等  
+Shmily-聊天记录归档 支持 QQ、Wechat、SMS、Email 等  
 https://lqzh.me/Shmily/  
-Windows取证之导出微信&QQ聊天记录  
+Windows 取证之导出微信&QQ 聊天记录  
 https://saucer-man.com/information_security/1038.html 
 
 ## 🐤语雀 Markdown 个人文档、图片备份脚本
 
 > 备份语雀 Markdown 格式文档及图片
 
-🛠**使用方式**
+🛠 **使用方式**
 
-> 打开[这里](https://ghproxy.com/https://gist.githubusercontent.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b/raw/efb88bd835e05555823cd195eb5f9ed2f73fdf14/yuque-markdown-download)，全选里面的代码，登陆语雀网页端后访问 https://www.yuque.com/dashboard 按 F12 或审查元素打开开发者工具，粘贴代码到控制台运行。
+> 打开 [这里](https://ghproxy.com/https://gist.githubusercontent.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b/raw/efb88bd835e05555823cd195eb5f9ed2f73fdf14/yuque-markdown-download)，全选里面的代码，登陆语雀网页端后访问 https://www.yuque.com/dashboard 按 F12 或审查元素打开开发者工具，粘贴代码到控制台运行。
 > 下载过程中可能弹出提示：想要下载多个文件，请点击允许。
 
 📣代码地址：[点击查看](https://gist.github.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b)
@@ -217,43 +217,43 @@ https://saucer-man.com/information_security/1038.html
 
 ## 🧩 图片压缩工具合集
 
-**獨特且強悍的JavaScript演算法，能極速壓縮80%的圖片大小，而不損害其品質**  
+**獨特且強悍的 JavaScript 演算法，能極速壓縮 80%的圖片大小，而不損害其品質**  
 [https://www.picdiet.com/zh-tw](https://www.picdiet.com/zh-tw)
 
 **开源的在线压缩网页项目**  
 [https://github.com/twoabd/CompressioWeb](https://github.com/twoabd/CompressioWeb)  
 网站：[https://compressio.app/](https://compressio.app/)
 
-**Upscaler是一个免费的基于人工智能的工具，可以在短短几秒钟内自动缩放图像。**  
-可以将图像 “拉伸” 2倍或4倍而不降低其质量。  
+**Upscaler 是一个免费的基于人工智能的工具，可以在短短几秒钟内自动缩放图像。**  
+可以将图像 “拉伸” 2 倍或 4 倍而不降低其质量。  
 使用该工具只需上传或拖动图片，选择您想要的大小即可。所有这些都是完全免费的。支持的格式：.png, .jpeg, .jpg, .webp。  
 [https://www.upscale.media/](https://www.upscale.media/)
 
 **开源图片压缩客户端**  
-开源压缩工具客户端，支持Linux，Windows和MacOS  
+开源压缩工具客户端，支持 Linux，Windows 和 MacOS  
 [https://github.com/meowtec/Imagine](https://github.com/meowtec/Imagine)
 
-**Google开源的图片压缩网站/客户端**  
+**Google 开源的图片压缩网站/客户端**  
 在线：[https://squoosh.app/](https://squoosh.app/)  
 客户端：[https://squoosh-desktop.vercel.app/](https://squoosh-desktop.vercel.app/)
 
 **简单易用的图片压缩软件**  
 [https://tuya.xinxiao.tech/](https://tuya.xinxiao.tech/)
 
-**Real-ESRGAN v0.3.0图片视频变清晰**
+**Real-ESRGAN v0.3.0 图片视频变清晰**
 https://github.com/xinntao/Real-ESRGAN
 
 * * *
 
-## 🌐 Chrome谷歌浏览器
+## 🌐 Chrome 谷歌浏览器
 
 `历史版本下载`
 
-**Chrome浏览器最新离线版下载**  
+**Chrome 浏览器最新离线版下载**  
 [https://www.chromedownloads.net/](https://www.chromedownloads.net/)
 
 **Index of /chromedriver/**  
-[https://registry.npmmirror.com/binary.html?path=chromedriver/](https://registry.npmmirror.com/binary.html?path=chromedriver/)
+[https://registry.npmmirror.com/binary.html?path = chromedriver/](https://registry.npmmirror.com/binary.html?path=chromedriver/)
 
 **Chromium History Versions Download ↓**  
 [https://mrseawave.github.io/chromium-history-page/](https://mrseawave.github.io/chromium-history-page/)
@@ -294,39 +294,39 @@ https://github.com/xinntao/Real-ESRGAN
 
 ## 💾 一些软件对比网站
 
-**1️⃣ Product Hunt**  
+**1 ️⃣ Product Hunt**  
 每天会根据热度推荐各种平台冷门好用的工具，  
-这些平台包括但不限于Android、iOS。它的热度是由使用者投票决定，  
+这些平台包括但不限于 Android、iOS。它的热度是由使用者投票决定，  
 因此，通过投票数就可以直观的分辨这款工具是否好用  
 [https://www.producthunt.com/](https://www.producthunt.com/)
 
-**2️⃣ AlternativeTo**  
-一个用于搜索替代品的网站,可以给你找出相关的其他工具  
+**2 ️⃣ AlternativeTo**  
+一个用于搜索替代品的网站, 可以给你找出相关的其他工具  
 把每款推荐软件详细内容罗列出来  
 [https://alternativeto.net/](https://alternativeto.net/)
 
-**3️⃣ SaaSHub**  
-一个可以和AlternativeTo相媲美的网站  
+**3 ️⃣ SaaSHub**  
+一个可以和 AlternativeTo 相媲美的网站  
 简单的列出每款相关软件的名称、热度  
 [https://www.saashub.com/](https://www.saashub.com/)
 
-**4️⃣ Alternative**  
+**4 ️⃣ Alternative**  
 一个替代软件查找网站  
 [https://alternative.me/](https://alternative.me/)
 
-**5️⃣ Slant**  
+**5 ️⃣ Slant**  
 根据每一个专题去对比、选择相关方向最好的软件  
 [https://www.slant.co/](https://www.slant.co/)
 
-**6️⃣ SimilarSites**  
-一个相关网站查找网站,有插件版  
+**6 ️⃣ SimilarSites**  
+一个相关网站查找网站, 有插件版  
 [https://www.similarsites.com/](https://www.similarsites.com/)
 
-**7️⃣ StackShare**  
+**7 ️⃣ StackShare**  
 一个专注于开发类软件的网站，进行软件搜索、软件对比  
 [https://stackshare.io/](https://stackshare.io/)
 
-**8️⃣ FileHorse**  
+**8 ️⃣ FileHorse**  
 收集和整理了很多优质软件的最新版本和下载方式  
 [https://www.filehorse.com/](https://www.filehorse.com/)
 
@@ -375,7 +375,7 @@ https://img.ink/
 
 [http://www.yaersen.com/x.html](http://www.yaersen.com/x.html)  
 [https://item.guidebook.top/google/](https://item.guidebook.top/google/)  
-[https://www.library.ac.cn/?=njau](https://www.library.ac.cn/?=njau)  
+[https://www.library.ac.cn/?= njau](https://www.library.ac.cn/?=njau)  
 [https://search.ahnu.cf/](https://search.ahnu.cf/)  
 [https://g20.i-research.edu.eu.org/](https://g20.i-research.edu.eu.org/)  
 [https://search.ecnu.cf/](https://search.ecnu.cf/)  
@@ -476,41 +476,41 @@ https://img.ink/
 ## 🧲免费矢量插画下载网站:
 
 1.  [https://undraw.co/illustrations](https://undraw.co/illustrations)  
-    开源项目，免费使用。可自定义颜色，然后下载svg或者png适量插画素材。
+    开源项目，免费使用。可自定义颜色，然后下载 svg 或者 png 适量插画素材。
 2.  [https://icons8.com/illustrations](https://icons8.com/illustrations)  
-    十分全面的样式与分类，可免费下载png格式，svg格式为付费的。 免费版使用需要提及来源。
+    十分全面的样式与分类，可免费下载 png 格式，svg 格式为付费的。 免费版使用需要提及来源。
 3.  [https://absurd.design/](https://absurd.design/)  
     画风荒诞夸张的矢量插画素材，免费版使用需要链接来源。
 4.  [https://www.humaaans.com/](https://www.humaaans.com/)  
-    主要是矢量人物插画，肢体分离，各种颜色样式可随意组合，包括png、sketch和studio文件，可免费商用。无需标记。
+    主要是矢量人物插画，肢体分离，各种颜色样式可随意组合，包括 png、sketch 和 studio 文件，可免费商用。无需标记。
 5.  [https://gallery.manypixels.co/](https://gallery.manypixels.co/)  
     可以自定义颜色的免费矢量素材插画库，可免费商业使用。
 6.  [https://iradesign.io/](https://iradesign.io/)  
-    提供5种渐变色自定义矢量插画的各部位颜色，可免费商用。
-7.  [https://www.drawkit.io/?ref=lapaninja](https://www.drawkit.io/?ref=lapaninja)  
+    提供 5 种渐变色自定义矢量插画的各部位颜色，可免费商用。
+7.  [https://www.drawkit.io/?ref = lapaninja](https://www.drawkit.io/?ref=lapaninja)  
     提供免费版和付费版，免费版可商用。
 8.  [https://lukaszadam.com/illustrations](https://lukaszadam.com/illustrations)  
     开源矢量插画，可免费商用。
 9.  [https://react-kawaii.vercel.app/](https://react-kawaii.vercel.app/)  
-    开源插画图标，可以组合表情，包括react代码及sketch文件
+    开源插画图标，可以组合表情，包括 react 代码及 sketch 文件
 10.  [www.freevector.com/](http://www.freevector.com/)  
-    历史悠久的一个矢量图网站，文件一般有ai、png、svg格式个人免费使用，需要注明来源。
+    历史悠久的一个矢量图网站，文件一般有 ai、png、svg 格式个人免费使用，需要注明来源。
 11.  [https://www.glazestock.com/](https://www.glazestock.com/)  
     一个免费插画素材库，提供各种类型的图片素材
 12.  [https://www.opendoodles.com/](https://www.opendoodles.com/)  
-    可以下载非常漂亮、生动且有质感的手绘插图，包括PNG和SVG两种格式，这些素材使用CC0授权方式释出，可以自由复制、编辑、重新混合或共享这些图案，也能使用于个人或商业用途而不受版权限制
+    可以下载非常漂亮、生动且有质感的手绘插图，包括 PNG 和 SVG 两种格式，这些素材使用 CC0 授权方式释出，可以自由复制、编辑、重新混合或共享这些图案，也能使用于个人或商业用途而不受版权限制
 13.  [https://iconscout.com/free-illustrations](https://iconscout.com/free-illustrations)  
-    Iconscout旗下的FreeIllustrations分类中拥有330款免费插图，资源质量非常高，并且大部分都可商用，支持一键下载源文件，非常方便。
+    Iconscout 旗下的 FreeIllustrations 分类中拥有 330 款免费插图，资源质量非常高，并且大部分都可商用，支持一键下载源文件，非常方便。
 14.  [https://www.manypixels.co/gallery](https://www.manypixels.co/gallery)  
-    可一键下载svg和png两种格式。完全免费可商用。
+    可一键下载 svg 和 png 两种格式。完全免费可商用。
 15.  [https://mixkit.co/free-stock-art/](https://mixkit.co/free-stock-art/)  
     里面聚集了超多高质量的插画作品素材，全部免费可商用，而且还支持一键下载，而且分类详尽，插画质量也比较高。
 16.  [https://fresh-folk.com/](https://fresh-folk.com/)  
     完全免费且可商用
 17.  [https://delesign.com/free-designs/graphics/](https://delesign.com/free-designs/graphics/)  
-    是一款集合了很多设计分类的素材库，免费可商用，并且可以在线更换颜色，下载svg和png也更方便
+    是一款集合了很多设计分类的素材库，免费可商用，并且可以在线更换颜色，下载 svg 和 png 也更方便
 18.  [https://icons8.com/mega-creator](https://icons8.com/mega-creator)  
-    一款免费矢量插图设计工具，免费可商用，支持导出png格式.
+    一款免费矢量插图设计工具，免费可商用，支持导出 png 格式.
 
 * * *
 
@@ -541,13 +541,45 @@ https://img.ink/
 12.  在线打字练习  
     [https://dazi.91xjr.com](https://dazi.91xjr.com/)
 13.  专为程序员设计的打字练习  
-    [https://developer-typing-game.netlify.app/?ref=producthunt#/](https://developer-typing-game.netlify.app/?ref=producthunt#/)
+    [https://developer-typing-game.netlify.app/?ref = producthunt#/](https://developer-typing-game.netlify.app/?ref=producthunt#/)
 14.  Typing Practice for Programmers  
     [https://typing.io/](https://typing.io/)
 15.  一个不错的练习打字工具，提供了代码练习模式。  
     [https://codeflow.biaoyansu.com/](https://codeflow.biaoyansu.com/)
 
 * * *
+
+## 🔣字帖练字生成器
+
+1. 简明字帖练字算术算数笔画字帖
+https://www.babawar.com/index.html
+2. 字典练习自动生成
+https://wwf.lanzoul.com/iWLai1mnhp3c
+3. 田字格笔顺字帖生成器
+https://lab.feifanju.com/zitie/
+4. 國字練習簿生成器,標準楷書(標楷體)生字習字簿全高清列印,支援豎排直書
+https://zidian.odict.net/zh-tw/zitie/
+5. 田字格字帖生成器系列工具
+https://www.an2.net/
+6. 在线生成字帖、练字字帖、拼音、数学、英文字帖[Web/小程序]
+https://danmoshui.com/
+7. 习题打印生成器
+https://www.dayin.page/template/pinyin
+8. 兔小乖字帖
+https://www.tuxiaoguai.com/#/?tempId=1&tempCid=1
+9. 费田字格字帖生成器，米字格，字帖PDF下载-云字帖
+http://tools.yunzitie.cn/
+10. 图形方格纸  MyGraphPaper
+https://www.mygraphpaper.com/index.php?lang=zh-hans
+11. 字帖工具 - 在线工具
+https://tool.lu/copybook/
+12. 字帖神器：从此不必再买钢笔字帖
+https://www.chongbuluo.com/thread-5700-1-1.html
+https://share.weiyun.com/5s1gYIo
+13. 字帖生成器
+https://www.52pojie.cn/thread-1668197-1-1.html
+https://wws.lanzouv.com/ii6ih099xt1c
+密码:a5ao  丨  压缩包密码: 52pojie
 
 ## 🖼 免费壁纸网站大全
 
@@ -568,7 +600,7 @@ https://img.ink/
 [https://wallhere.com](https://wallhere.com/)  
 **Wallpaper abyss 是国外知名的壁纸下载网站，分享的壁纸数量很多。**  
 [https://wall.alphacoders.com](https://wall.alphacoders.com/)  
-**Wallhaven免费壁纸网站大全**  
+**Wallhaven 免费壁纸网站大全**  
 [https://wallhaven.cc](https://wallhaven.cc/)  
 **WallpaperCave 是国外知名的壁纸社区，分享的壁纸质量很高。**  
 [https://wallpapercave.com](https://wallpapercave.com/)  
@@ -578,7 +610,7 @@ https://img.ink/
 [https://www.piqsels.com/zh](https://www.piqsels.com/zh)  
 **wallroom 质量较高，壁纸分辨率从 1920 到 8k 不等。**  
 [https://wallroom.io](https://wallroom.io/)  
-**bing每日壁纸**  
+**bing 每日壁纸**  
 [https://www.bingimg.cn/list1](https://www.bingimg.cn/list1)  
 **干净简洁的下载必应壁纸每日一图**  
 [https://bing.xinac.net](https://bing.xinac.net/)  
@@ -604,13 +636,13 @@ https://img.ink/
 
 * * *
 
-## **💠 接口API服务商**
+## **💠 接口 API 服务商**
 
 京东云：[https://wx.jdcloud.com/api](https://wx.jdcloud.com/api)  
 APISpace：[https://www.apispace.com/](https://www.apispace.com/)  
 百度：[https://apis.baidu.com/](https://apis.baidu.com/)  
 微博：[https://open.weibo.com/wiki/API](https://open.weibo.com/wiki/API)  
-百度AI：[http://ai.baidu.com/](http://ai.baidu.com/)  
+百度 AI：[http://ai.baidu.com/](http://ai.baidu.com/)  
 聚合：[https://www.juhe.cn/](https://www.juhe.cn/)  
 旷视人脸：[https://www.faceplusplus.com.cn/](https://www.faceplusplus.com.cn/)  
 融云：[https://www.rongcloud.cn/](https://www.rongcloud.cn/)  
@@ -622,7 +654,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 ## 📝 论文、语法、写作、英语等纠错检查工具
 
 1.  秘塔写作猫  
-    写作猫是新一代AI写作伴侣，帮你推敲用语、斟酌文法、改写文风，还能实时同步翻译。  
+    写作猫是新一代 AI 写作伴侣，帮你推敲用语、斟酌文法、改写文风，还能实时同步翻译。  
     [https://xiezuocat.com/](https://xiezuocat.com/)
     
 2.  爱校对官网  
@@ -630,7 +662,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     [https://www.ijiaodui.com/home](https://www.ijiaodui.com/home)
     
 3.  Grammarly  
-    在线语法校对工具，能够对语法，标点和拼写错误的地方进行检测，同时也会给出修改意见，支持Windows、Mac、iOS和Android，还可以帮助查重  
+    在线语法校对工具，能够对语法，标点和拼写错误的地方进行检测，同时也会给出修改意见，支持 Windows、Mac、iOS 和 Android，还可以帮助查重  
     [https://www.grammarly.com/](https://www.grammarly.com/)
     
 4.  languagetool  
@@ -638,7 +670,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     [https://languagetool.org/](https://languagetool.org/)
     
 5.  QuillBot  
-    SCI论文改写神器  
+    SCI 论文改写神器  
     [https://quillbot.com/](https://quillbot.com/)
     
 6.  Textranch  
@@ -650,11 +682,11 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     [https://www.gingersoftware.com/](https://www.gingersoftware.com/)
     
 8.  1Checker  
-    能够即时检测并修改拼写、语法和样式错误，以不同颜色的Highlight出错误并修改意见，让文章句式更加准确。  
+    能够即时检测并修改拼写、语法和样式错误，以不同颜色的 Highlight 出错误并修改意见，让文章句式更加准确。  
     [http://www.1checker.com/](http://www.1checker.com/)
     
 9.  Scribbr  
-    可以纠正语法，有非常高的准确度，能准确检查出论文中存在的任何涉嫌抄袭和剽窃内容，还支持20种语言，最大的特点在于可以纠正措辞不当，优化模糊用词表达，检查句子中多余的单词， 不过修改有局限性，只能作为参考。  
+    可以纠正语法，有非常高的准确度，能准确检查出论文中存在的任何涉嫌抄袭和剽窃内容，还支持 20 种语言，最大的特点在于可以纠正措辞不当，优化模糊用词表达，检查句子中多余的单词， 不过修改有局限性，只能作为参考。  
     [https://www.scribbr.com/](https://www.scribbr.com/)
     
 10.  Wordtune  
@@ -674,11 +706,11 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     [https://wordvice.ai/cn](https://wordvice.ai/cn)
     
 14.  writeful  
-    能够自动从google的图书、学术、网页上搜集一个词组的搭配，并给出了每种搭配的百分比，还会配上例句， 很直观，很方便。现在也推出了word插件，类似grammarly的风格，兼具语法提示和修改功能  
+    能够自动从 google 的图书、学术、网页上搜集一个词组的搭配，并给出了每种搭配的百分比，还会配上例句， 很直观，很方便。现在也推出了 word 插件，类似 grammarly 的风格，兼具语法提示和修改功能  
     [https://www.writefull.com/](https://www.writefull.com/)
     
 15.  Netspeak  
-    用来查找你记不太清楚的词汇，比如congratulations，你不记得全部拼写了，你就可以在这个网站上来查一下。  
+    用来查找你记不太清楚的词汇，比如 congratulations，你不记得全部拼写了，你就可以在这个网站上来查一下。  
     [https://netspeak.org/](https://netspeak.org/)
     
 16.  Linggle  
@@ -690,13 +722,13 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     [https://tool.mingdawoo.com/](https://tool.mingdawoo.com/)
     
 18.  Microsoft office  
-    Word 有內建 Microsoft Editor拼写和语法纠错，365 訂戶可以解鎖使用
+    Word 有內建 Microsoft Editor 拼写和语法纠错，365 訂戶可以解鎖使用
     
 
 ## 🧾 Markdown 编辑器
 
 1.  Typora\[付费\]  
-    一款轻便简洁的Markdown编辑器，支持即时渲染技术  
+    一款轻便简洁的 Markdown 编辑器，支持即时渲染技术  
     网站：[https://typoraio.cn/](https://typoraio.cn/)  
     学习版：[https://wwc.lanzoul.com/i7bBz09yhk8j](https://wwc.lanzoul.com/i7bBz09yhk8j)
     
@@ -708,16 +740,16 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     项目：[https://github.com/nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
     
 3.  react-markdown-editor-lite  
-    一款轻量的基于React的markdown编辑器  
+    一款轻量的基于 React 的 markdown 编辑器  
     网站：[https://harrychen0506.github.io/react-markdown-editor-lite/](https://harrychen0506.github.io/react-markdown-editor-lite/)  
     项目：[https://github.com/HarryChen0506/react-markdown-editor-lite](https://github.com/HarryChen0506/react-markdown-editor-lite)
     
 4.  墨滴软件-mdnice\[付费\]  
-    跨平台Markdown排版、编辑软件  
+    跨平台 Markdown 排版、编辑软件  
     网站：[https://product.mdnice.com/](https://product.mdnice.com/)
     
 5.  妙言-Mac  
-    轻灵的 Markdown 笔记本伴你写出妙言~只有Mac版  
+    轻灵的 Markdown 笔记本伴你写出妙言~只有 Mac 版  
     网站：[https://miaoyan.app/](https://miaoyan.app/)  
     项目：[https://github.com/tw93/MiaoYan](https://github.com/tw93/MiaoYan)
     
@@ -755,8 +787,8 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     网站：[https://zh.mweb.im/](https://zh.mweb.im/)
     
 12.  MarkText  
-    开源免费，支持windows、苹果、linux系统平台，支持实时预览、数学表达式、代码高亮,可输出 HTML 和 PDF 文件,也可以直接从剪贴板粘贴图像  
-    网站：[https://marktext.app/](https://marktext.app/) \[目前打不开，去GitHub下载\]  
+    开源免费，支持 windows、苹果、linux 系统平台，支持实时预览、数学表达式、代码高亮, 可输出 HTML 和 PDF 文件, 也可以直接从剪贴板粘贴图像  
+    网站：[https://marktext.app/](https://marktext.app/) \[目前打不开，去 GitHub 下载\]  
     项目：[https://github.com/marktext/marktext](https://github.com/marktext/marktext)
     
 13.  Markdoc  
@@ -770,17 +802,17 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     项目：[https://github.com/Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com)
     
 15.  QOwnNotes  
-    开源记事本，具有针对GNU/Linux，macOS和Windows的markdown支持和待办事项列表管理器，可与Nextcloud Notes和ownCloud Notes一起使用  
+    开源记事本，具有针对 GNU/Linux，macOS 和 Windows 的 markdown 支持和待办事项列表管理器，可与 Nextcloud Notes 和 ownCloud Notes 一起使用  
     网站：[https://www.qownnotes.org/](https://www.qownnotes.org/)  
     项目：[https://github.com/pbek/QOwnNotes](https://github.com/pbek/QOwnNotes)
     
 16.  MDX Editor  
-    微信排版编辑器，使用MDX，可自定义组件、样式、生成二维码、代码 diff 高亮，可导出 markdown 和 PDF  
+    微信排版编辑器，使用 MDX，可自定义组件、样式、生成二维码、代码 diff 高亮，可导出 markdown 和 PDF  
     网站：[https://editor.runjs.cool/](https://editor.runjs.cool/)  
     项目：[https://github.com/maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor)
     
 17.  effie  
-    支持Markdown的极简写作应用，支持Windows和MacOS。  
+    支持 Markdown 的极简写作应用，支持 Windows 和 MacOS。  
     网站：[https://www.effie.co/](https://www.effie.co/)
     
 18.  md-editor-v3  
@@ -789,7 +821,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     项目：[https://github.com/imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3)
     
 19.  MarkPad  
-    一个Metro风格的轻量级开源Markdown编辑器  
+    一个 Metro 风格的轻量级开源 Markdown 编辑器  
     项目：[https://github.com/Code52/DownmarkerWPF](https://github.com/Code52/DownmarkerWPF)  
     网站：[http://code52.org/DownmarkerWPF/](http://code52.org/DownmarkerWPF/)
     
@@ -797,7 +829,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     网站：[https://knb.im/mp/](https://knb.im/mp/)
     
 21.  Md2ALL  
-    Markdown排版利器  
+    Markdown 排版利器  
     网站：[http://md.aclickall.com/](http://md.aclickall.com/)
     
 22.  mdfmt  
@@ -810,12 +842,12 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     项目：[https://github.com/Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
     
 24.  Notable  
-    开源免费的跨平台Markdown编辑器，适用于MacOS，Windows，Linux。还可以快速的将自己的笔记通过链接的方式分享出去  
+    开源免费的跨平台 Markdown 编辑器，适用于 MacOS，Windows，Linux。还可以快速的将自己的笔记通过链接的方式分享出去  
     网站：[https://notable.app/#](https://notable.app/#)  
     项目：[https://github.com/notable/notable](https://github.com/notable/notable)
     
 25.  Milkdown  
-    插件驱动的所见即所得的Markdown编辑器框架  
+    插件驱动的所见即所得的 Markdown 编辑器框架  
     网站：[https://milkdown.dev/](https://milkdown.dev/)  
     项目：[https://github.com/Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)
     
@@ -824,7 +856,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     项目：[https://github.com/hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
     
 27.  ShowDoc\[付费\]  
-    一个非常适合IT团队的在线API文档、技术文档工具  
+    一个非常适合 IT 团队的在线 API 文档、技术文档工具  
     网站：[https://www.showdoc.com.cn/](https://www.showdoc.com.cn/)  
     项目：[https://github.com/star7th/showdoc](https://github.com/star7th/showdoc)
     
@@ -849,15 +881,15 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     [www.paperday.cn](http://www.paperday.cn/)
 3.  论文狗（每日免费一次）：  
     [www.lunwengo.net](http://www.lunwengo.net/)
-4.  PaperYY（每日免费一次，11点多免费两次）：  
+4.  PaperYY（每日免费一次，11 点多免费两次）：  
     [www.paperyy.com](http://www.paperyy.com/)
 5.  FreeCheck（每日免费一次）：  
     [www.freecheck.cn](http://www.freecheck.cn/)
-6.  WritePass（每日1000个免费名额）：  
+6.  WritePass（每日 1000 个免费名额）：  
     [www.writepass.cn](http://www.writepass.cn/)
 7.  超星大雅（免费看相似度）：  
     [dsa.dayainfo.com](https://lin64850.github.io/posts/dsa.dayainfo.com)
-8.  百度学术（免费使用PaperTime一次）：  
+8.  百度学术（免费使用 PaperTime 一次）：  
     [xueshu.baidu.com/usercenter/papercheck](https://lin64850.github.io/posts/xueshu.baidu.com/usercenter/papercheck)
 9.  秘塔写作猫：写作改错和词语替换（需要注册）  
     [https://xiezuocat.com/#/](https://xiezuocat.com/#/)
@@ -875,7 +907,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 4.  [https://photoscissors.com/](https://photoscissors.com/)
 5.  [https://www.picup.shop/](https://www.picup.shop/)
 6.  [https://clippingmagic.com/](https://clippingmagic.com/)
-7.  [https://photokit.com/?lang=zh#cutout](https://photokit.com/?lang=zh#cutout)
+7.  [https://photokit.com/?lang = zh#cutout](https://photokit.com/?lang=zh#cutout)
 8.  [https://www.sukoutu.com/](https://www.sukoutu.com/)
 9.  [http://matting.deeplor.com/#/](http://matting.deeplor.com/#/)
 10.  [https://www.apowersoft.cn/remove-background-online](https://www.apowersoft.cn/remove-background-online)
@@ -889,7 +921,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 ## 🥡 在线学习、解题、搜题、答题网站及电报下载
 
 1.  slideshare  
-    世界最大演示文稿PPT分享平台  
+    世界最大演示文稿 PPT 分享平台  
     网站：[https://www.slideshare.net/](https://www.slideshare.net/)  
     电报下载：[https://t.me/slidesharebynx](https://t.me/slidesharebynx)
     
@@ -906,7 +938,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 4.  Academia  
     一个学术性社交网站，专门供科研人员使用，这些人员可以在网站上相互间免费分享和查看各自最新的科研论文，将研究成果惠及更多的人  
     网站：[https://www.academia.edu/](https://www.academia.edu/)  
-    电报下载1：[https://t.me/Academicbynx](https://t.me/Academicbynx)
+    电报下载 1：[https://t.me/Academicbynx](https://t.me/Academicbynx)
     
 5.  Bartleby  
     美国一个以收藏经典参考书、诗歌、小说为主的网站，提供大量免费的电子图书。  
@@ -917,7 +949,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     一个在线学习的平台。为学生和教育工作者提供特定课程的资源,  
     辅助做题，家庭作业答案和帮手  
     网站：[https://www.coursehero.com](https://www.coursehero.com/)  
-    电报下载:[https://t.me/Courseherovipbot](https://t.me/Courseherovipbot)
+    电报下载: [https://t.me/Courseherovipbot](https://t.me/Courseherovipbot)
     
 7.  Numerade  
     来自美国各地大学的 1700 多名博士和助教组成的团队为您的科学、数学和经济学问题提供分步解决方案  
@@ -932,7 +964,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     电报下载：[https://t.me/expertnxbot](https://t.me/expertnxbot)
     
 9.  Issuu  
-    有非常多的作品集案例，包括建筑的、室内的都有，实现在线PDF文档共享  
+    有非常多的作品集案例，包括建筑的、室内的都有，实现在线 PDF 文档共享  
     网站：[https://issuu.com/](https://issuu.com/)  
     电报下载：[https://t.me/nxexpro](https://t.me/nxexpro)  
     网站下载：[https://issuudownload.com/](https://issuudownload.com/)  
@@ -950,7 +982,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
     
 12.  Queseba  
     百万教科书解决方案  
-    网站:[https://www.quesba.com/](https://www.quesba.com/)  
+    网站: [https://www.quesba.com/](https://www.quesba.com/)  
     电报下载：[https://t.me/Quesbabynx](https://t.me/Quesbabynx)
     
 13.  Gauthmath  
@@ -1000,22 +1032,22 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 ## **🈲 违禁词查询工具合集**
 
 1.禁用词查询(综合)  
-2022年新广告法,违禁词查询,敏感词查询,禁用词查询,广告禁用词,淘宝违禁词,抖音禁用词,淘宝极限词,抖音违禁词,敏感词汇,在线检测 | 禁用词查询  
+2022 年新广告法, 违禁词查询, 敏感词查询, 禁用词查询, 广告禁用词, 淘宝违禁词, 抖音禁用词, 淘宝极限词, 抖音违禁词, 敏感词汇, 在线检测 | 禁用词查询  
 [https://www.jinyongci.com/](https://www.jinyongci.com/)
 
 2.零克查词(小红书)  
-专业的小红书、抖音、B站、小红书敏感词检测工具  
+专业的小红书、抖音、B 站、小红书敏感词检测工具  
 [http://ci.lingke.pro/](http://ci.lingke.pro/)
 
 3.句无忧(通用)  
-2022年广告法禁用违规词、网络铭敏感词、淘宝禁用词、抖音违禁词、查询检测工具  
+2022 年广告法禁用违规词、网络铭敏感词、淘宝禁用词、抖音违禁词、查询检测工具  
 [https://www.check51.com/](https://www.check51.com/)
 
-4.句易网(通用,新闻,美妆)  
-2022年最新广告法淘宝抖音违禁词敏感词在线查询检测工具  
+4.句易网(通用, 新闻, 美妆)  
+2022 年最新广告法淘宝抖音违禁词敏感词在线查询检测工具  
 [http://www.ju1.cn/](http://www.ju1.cn/)
 
-5.IT工具网(综合工具)  
+5.IT 工具网(综合工具)  
 违禁词在线检测\_敏感词在线查询  
 [https://www.coder.work/textcensoring](https://www.coder.work/textcensoring)
 
@@ -1023,7 +1055,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 免费禁用词查询\_违禁词查询\_电商敏感词\_新广告法禁用词查询工具  
 [https://www.cizhua.com/](https://www.cizhua.com/)
 
-7.轻抖(手机APP)  
+7.轻抖(手机 APP)  
 违禁词检测  
 [http://www.qingdou.vip/](http://www.qingdou.vip/)
 
@@ -1046,7 +1078,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 4.  [https://webgradients.com/](https://webgradients.com/)
 5.  [https://gradient.shapefactory.co/](https://gradient.shapefactory.co/)
 
-## 🎬 全球10大盗版片源BT网站
+## 🎬 全球 10 大盗版片源 BT 网站
 
 1. 海盗湾：[https://thepiratebay.org/](https://thepiratebay.org/)
 
@@ -1060,14 +1092,14 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 9.  magnetDL： [https://www.magnetdl.com/](https://www.magnetdl.com/)
 10.  Zooqle：[https://zooqle.com/](https://zooqle.com/)
 11.  ETTV： [https://www.ettv.be/](https://www.ettv.be/)  
-12.   GlotorRents:[http://glodls.to/](http://glodls.to/)  
-13.  Torlock:[https://Torlock2.com](https://torlock2.com/)  
+12.   GlotorRents: [http://glodls.to/](http://glodls.to/)  
+13.  Torlock: [https://Torlock2.com](https://torlock2.com/)  
 14.  ProxyBB：[http://proxybb.com/](http://proxybb.com/)  
 15.  Edvok: [https://edvok.com/](https://edvok.com/)  
 16.  动漫花园：[https://www.dmhy.org/](https://www.dmhy.org/)  
 17.   Pirateiro [https://pirateiro.eu/](https://pirateiro.eu/)
 
-## 🔔 文本语音AI
+## 🔔 文本语音 AI
 
 ◾️【腾讯】声咖-智能、快捷、高效的音视频创作平台  
 [https://shengka.ai.sogou.com/](https://shengka.ai.sogou.com/)
@@ -1078,7 +1110,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 ◾️【讯飞】开放平台-以语音交互为核心的人工智能开放平台  
 [https://www.xfyun.cn/](https://www.xfyun.cn/)
 
-◾️【阿里云】语音合成TTS\_智能客服\_文字转语音\_AI配音\_机器朗读  
+◾️【阿里云】语音合成 TTS\_智能客服\_文字转语音\_AI 配音\_机器朗读  
 [https://ai.aliyun.com/nls/tts](https://ai.aliyun.com/nls/tts)
 
 ◾️ 【网易工作台】AI 智能语音识别自动生成字幕  
@@ -1086,35 +1118,35 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 
 ## ❤焦虑自救小册
 
-✅[焦虑自救小册](https://github.com/chenyukang/anxiety-handbook)
+✅ [焦虑自救小册](https://github.com/chenyukang/anxiety-handbook)
 
-📢[查看更多](/website/急救/)
+📢 [查看更多](/website/急救/)
 
 ## 💥优质播客
 
-✅[技术周刊](https://weekly.fre123.com/)：🗞 FRE123 精选周刊信息流 - 汇聚30+优质精选技术周刊 
+✅ [技术周刊](https://weekly.fre123.com/)：🗞 FRE123 精选周刊信息流 - 汇聚 30+优质精选技术周刊 
 
-✅[Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)：播客 🎧 编程、设计、Vlog、音乐、访谈、博客... 
+✅ [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)：播客 🎧 编程、设计、Vlog、音乐、访谈、博客... 
 
-✅[科技爱好者周刊](https://github.com/ruanyf/weekly) ：记录每周值得分享的科技内容，周五发布。
+✅ [科技爱好者周刊](https://github.com/ruanyf/weekly) ：记录每周值得分享的科技内容，周五发布。
 
->P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3684)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+>P.S. 讨论区的 [《谁在招人》](https://github.com/ruanyf/weekly/issues/3684)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-✅[Chinese independent developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
+✅ [Chinese independent developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
 
-✅[老胡的周刊](https://weekly.howie6879.com/) - 记录有价值的信息，针对优秀项目、软件、教程资料、网站等
+✅ [老胡的周刊](https://weekly.howie6879.com/) - 记录有价值的信息，针对优秀项目、软件、教程资料、网站等
 
 ## 💯值得持续阅读的内容平台
 
 {{< image src="https://bib0.com/xc/i/2023/12/20/image-20231220082324210.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
 
-📚[2023 年值得持续阅读的内容平台](https://justgoidea.com/posts/2023-063/)
+📚 [2023 年值得持续阅读的内容平台](https://justgoidea.com/posts/2023-063/)
 
 ## 🧾各知名科技公司技术博客合集
 
 {{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130144118729.png" alt="-" title="Fun's images">}}  
 
-⭐️[一个个人博客，集合了一些优质的各知名科技公司技术博客合集(持续更新)](https://www.luxiangdong.com/2023/07/20/techblog/)
+⭐️ [一个个人博客，集合了一些优质的各知名科技公司技术博客合集(持续更新)](https://www.luxiangdong.com/2023/07/20/techblog/)
 
 
 ---
