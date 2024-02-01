@@ -3,7 +3,7 @@
 
 💡 使用用国内服务的可直接申请TrustAsia CA证书 如：宝塔、腾讯云、阿里云等，证书到期后重新申请即可。
 
-&lt;!--more--&gt;
+<!--more-->
 
 ## Cloudflare
 
@@ -15,7 +15,7 @@
 
 📁 网站简介：支持证书自动化更新、部署、监控的一体化 HTTPS 证书管理系统。
 
-&gt; 在 HTTPS 证书即将到期前，可对证书进行自动化更新，更新成功后支持证书自动化部署至阿里云、腾讯云、百度云加速、七牛云、宝塔面板、自定义 Docker 容器、Nginx 容器、Openresty 容器、SSH 远程命令、Webhook 、API 接口等等。
+> 在 HTTPS 证书即将到期前，可对证书进行自动化更新，更新成功后支持证书自动化部署至阿里云、腾讯云、百度云加速、七牛云、宝塔面板、自定义 Docker 容器、Nginx 容器、Openresty 容器、SSH 远程命令、Webhook 、API 接口等等。
 
 🔗 资源地址：[点击跳转](https://ohttps.com/)
 
@@ -27,7 +27,7 @@
 
 ## SSLforfree
 
-📁 网站简介：免费申请Let&#39;s Encrypt证书 可申请通配符 SSL 证书（即申请一个证书可用于所有该域名下所有子域名证书）
+📁 网站简介：免费申请Let's Encrypt证书 可申请通配符 SSL 证书（即申请一个证书可用于所有该域名下所有子域名证书）
 
 🔗 资源地址：[点击跳转](https://www.sslforfree.com/)
 
@@ -41,11 +41,11 @@
 
 🔗 资源地址：[点击跳转](https://freessl.cn/)  | [点击跳转](https://freessl.org/)
 
-📁 网站简介：可免费申请Let&#39;s Encrypt 与 TrustAsia 免费SSL证书，还提供有SSL工具，这两个网站功能上差不多。
+📁 网站简介：可免费申请Let's Encrypt 与 TrustAsia 免费SSL证书，还提供有SSL工具，这两个网站功能上差不多。
 
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/tools/ssl%E8%AF%81%E4%B9%A6/  
 

@@ -3,11 +3,11 @@
 
 💡 收集PDF处理、机器人、插件、文案、影视、音乐、插画等众多相同网站的集合
 
-&lt;!--more--&gt;
+<!--more-->
 
 👉 比如：收集`PDF转换器` 或者 `壁纸网站大全`的有关网站集合
 
-{{&lt; admonition info &gt;}} {{&lt; typeit &gt;}}📢 内容不定期更新...... {{&lt; /typeit &gt;}}{{&lt; /admonition &gt;}}
+{{< admonition info >}} {{< typeit >}}📢 内容不定期更新...... {{< /typeit >}}{{< /admonition >}}
 
 ## ⚙️工具合集
 
@@ -46,7 +46,7 @@
 | [行政区划查询](https://map.ruiduobao.com/)               | [艺术画作鉴赏](https://gallerix.asia/storeroom/306549019/N/1137642734/) | [网站分析](https://clarity.microsoft.com/)                   |
 | [打字练习](https://www.eletypes.com/)                    | [英文单词练习](https://qwerty.kaiyi.cool/gallery)            | [论文降重](https://www.xiegelunwen.com/)                     |
 | [课本教材](http://www.dzkbw.com/)                        | [密码生成](https://pass.fastmirror.net/)                     | [备胎书屋](https://beitai.cc/)                               |
-| [在线格式转换](https://convertio.co/zh/)                 | [阿里 ocr](https://duguang.aliyun.com/experience?type=universal&amp;subtype=general_text#intro) | [在线白板](https://tools.fastmirror.net/douBoard/)           |
+| [在线格式转换](https://convertio.co/zh/)                 | [阿里 ocr](https://duguang.aliyun.com/experience?type=universal&subtype=general_text#intro) | [在线白板](https://tools.fastmirror.net/douBoard/)           |
 | [视频 AI 转换文本](https://shihangbiji.com/)             | [写简历](https://www.polebrief.com/edit)                     | [表格转换工具](https://tableconvert.com/)                    |
 | [文案生成器](https://www.wenanabc.xyz/)                  | [音乐剪辑](https://vocalremover.org/ch/)                     | [跑马灯](https://tool.retiehe.com/marquee)                   |
 | [视频转 gif](https://dongci.kawo.com/)                   | [直播源转换](https://guihet.com/tvlistconvert.html)          | [图片转换器](https://renzhezhilu.gitee.io/webp2jpg-online/)  |
@@ -56,7 +56,7 @@
 
 ## 📕 PDF处理工具推荐
 
-&gt; 集合了很多 PDF 处理工具，支持格式转换、PDF 编辑、合并、分割、加水印、OCR 识别、压缩、签名、加密/解密、旋转等，功能非常丰富
+> 集合了很多 PDF 处理工具，支持格式转换、PDF 编辑、合并、分割、加水印、OCR 识别、压缩、签名、加密/解密、旋转等，功能非常丰富
 
 | 网址                                                         | 网址                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -85,7 +85,7 @@
 
 ## 🤖 机器人服务
 
-&gt; 一些机器人服务工具，免费付费的都有
+> 一些机器人服务工具，免费付费的都有
 
 | 网址                                              | 简介                                                         |
 | ------------------------------------------------- | ------------------------------------------------------------ |
@@ -102,7 +102,7 @@
 
 ## 🐧 微信QQ辅助工具
 
-&gt; 微信 or QQ机器人、微信群管理、多开等辅助工具
+> 微信 or QQ机器人、微信群管理、多开等辅助工具
 
 | 网站                       | 网址                                                         | 简介                                                         |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -110,7 +110,7 @@
 | QQBotHub                   | [项目](https://github.com/yiyungent/QQBotHub) 📍 [文档](https://moeci.com/QQBotHub/#/) | QQ 机器人,基于 Konata.Core, 一键免费部署                     |
 | 高效率 QQ 机器人支持库     | [项目](https://github.com/mamoe/mirai)                       | mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效率机器人库 |
 | 微信SDK                    | [项目](https://github.com/silenceper/wechat) 📍 [文档](https://silenceper.com/wechat/) | 使用Golang开发的微信SDK，简单、易用。                        |
-| 微信助手                   | [项目](https://github.com/sfyc23/EverydayWechat)             | 1.每日定时给好友（女友）发送定制消息。&lt;br /&gt;2.机器人自动回复好友。&lt;br /&gt;3.群助手功能&lt;br /&gt;（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等） |
+| 微信助手                   | [项目](https://github.com/sfyc23/EverydayWechat)             | 1.每日定时给好友（女友）发送定制消息。<br />2.机器人自动回复好友。<br />3.群助手功能<br />（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等） |
 | 微信每日说                 | [项目](https://github.com/leochen-g/wechatBot)               | 教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题 |
 | WxPusher (微信推送服务)    | [项目](https://github.com/wxpusher/wxpusher-sdk-java/) 📍 [文档](https://wxpusher.zjiecode.com/docs/#/) | 一个使用微信公众号作为通道的，实时信息推送平台，你可以通过调用API的方式，把信息推送到微信上，无需安装额外的软件，即可做到信息实时通知。你可以使用WxPusher来做服务器报警通知、抢课通知、抢票通知，信息更新提示等。 |
 | 贴心小助手客户端           | [项目](https://github.com/lizhounet/wx-intimate-pro)         | 微信机器人, 群管理、头像处理、智能机器人对话、好友互动、定时任务，情侣每日说等功能的配置 |
@@ -162,17 +162,17 @@ https://wwbb.lanzout.com/i6t5w13oqbmd
 🟣  
 Shmily-聊天记录归档 支持 QQ、Wechat、SMS、Email等  
 https://lqzh.me/Shmily/  
-Windows取证之导出微信&amp;QQ聊天记录  
+Windows取证之导出微信&QQ聊天记录  
 https://saucer-man.com/information_security/1038.html 
 
 ## 🐤语雀 Markdown 个人文档、图片备份脚本
 
-&gt; 备份语雀 Markdown 格式文档及图片
+> 备份语雀 Markdown 格式文档及图片
 
 🛠**使用方式**
 
-&gt; 打开[这里](https://ghproxy.com/https://gist.githubusercontent.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b/raw/efb88bd835e05555823cd195eb5f9ed2f73fdf14/yuque-markdown-download)，全选里面的代码，登陆语雀网页端后访问 https://www.yuque.com/dashboard 按 F12 或审查元素打开开发者工具，粘贴代码到控制台运行。
-&gt; 下载过程中可能弹出提示：想要下载多个文件，请点击允许。
+> 打开[这里](https://ghproxy.com/https://gist.githubusercontent.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b/raw/efb88bd835e05555823cd195eb5f9ed2f73fdf14/yuque-markdown-download)，全选里面的代码，登陆语雀网页端后访问 https://www.yuque.com/dashboard 按 F12 或审查元素打开开发者工具，粘贴代码到控制台运行。
+> 下载过程中可能弹出提示：想要下载多个文件，请点击允许。
 
 📣代码地址：[点击查看](https://gist.github.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b)
 
@@ -180,7 +180,7 @@ https://saucer-man.com/information_security/1038.html
 
 ## 🏖 解压网站
 
-&gt; 有趣的解压创意网站，在工作、生活中添加一些乐趣
+> 有趣的解压创意网站，在工作、生活中添加一些乐趣
 
 | 网址                                             | 简介                                                         |
 | ------------------------------------------------ | ------------------------------------------------------------ |
@@ -197,7 +197,7 @@ https://saucer-man.com/information_security/1038.html
 
 ## 🥨 高质量文案素材网站
 
-&gt; 一些新媒体人必备的文案素材网站，不论你是不会写文、没有题材还是缺乏灵感，看看这些都足以帮你解决问题，写出优秀的文案
+> 一些新媒体人必备的文案素材网站，不论你是不会写文、没有题材还是缺乏灵感，看看这些都足以帮你解决问题，写出优秀的文案
 
 | 网址                                   | 简介                               |
 | -------------------------------------- | ---------------------------------- |
@@ -268,7 +268,7 @@ https://github.com/xinntao/Real-ESRGAN
 **Chromium Portable Files**  
 [https://sourceforge.net/projects/crportable/files/](https://sourceforge.net/projects/crportable/files/)
 
-**Google Chrome Older Versions Download (Windows, Linux &amp; Mac)**  
+**Google Chrome Older Versions Download (Windows, Linux & Mac)**  
 [https://www.slimjet.com/chrome/google-chrome-old-version.php](https://www.slimjet.com/chrome/google-chrome-old-version.php)
 
 * * *
@@ -528,7 +528,7 @@ https://img.ink/
     [https://api.ihint.me/shuang/](https://api.ihint.me/shuang/)
 6.  双拼入门：Linci  
     [https://sp.linci.co/](https://sp.linci.co/)
-7.  一分钟速度测试：10FastFingers &amp; Typing-cn  
+7.  一分钟速度测试：10FastFingers & Typing-cn  
     [https://10fastfingers.com/](https://10fastfingers.com/)
 8.  一分钟打字测试模式的练习网站：typing-cn  
     [https://barneyzhao.gitee.io/typing-cn/#/](https://barneyzhao.gitee.io/typing-cn/#/)
@@ -1092,13 +1092,13 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 
 ## 💥优质播客
 
-✅[技术周刊](https://weekly.fre123.com/)：🗞 FRE123 精选周刊信息流 - 汇聚30&#43;优质精选技术周刊 
+✅[技术周刊](https://weekly.fre123.com/)：🗞 FRE123 精选周刊信息流 - 汇聚30+优质精选技术周刊 
 
 ✅[Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)：播客 🎧 编程、设计、Vlog、音乐、访谈、博客... 
 
 ✅[科技爱好者周刊](https://github.com/ruanyf/weekly) ：记录每周值得分享的科技内容，周五发布。
 
-&gt;P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3684)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
+>P.S. 讨论区的[《谁在招人》](https://github.com/ruanyf/weekly/issues/3684)，是一个免费的程序员招聘帖，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
 ✅[Chinese independent developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表
 
@@ -1106,19 +1106,19 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 
 ## 💯值得持续阅读的内容平台
 
-{{&lt; image src=&#34;https://bib0.com/xc/i/2023/12/20/image-20231220082324210.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}} 
+{{< image src="https://bib0.com/xc/i/2023/12/20/image-20231220082324210.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
 
 📚[2023 年值得持续阅读的内容平台](https://justgoidea.com/posts/2023-063/)
 
 ## 🧾各知名科技公司技术博客合集
 
-{{&lt; image src=&#34;https://bib0.com/xc/i/2024/01/30/image-20240130144118729.png&#34; alt=&#34;-&#34; title=&#34;Fun&#39;s images&#34;&gt;}}  
+{{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130144118729.png" alt="-" title="Fun's images">}}  
 
 ⭐️[一个个人博客，集合了一些优质的各知名科技公司技术博客合集(持续更新)](https://www.luxiangdong.com/2023/07/20/techblog/)
 
 
 ---
 
-> 作者:   
+> 作者: [聪](/about)  
 > URL: https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/  
 
