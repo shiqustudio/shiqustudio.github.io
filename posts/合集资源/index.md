@@ -1142,7 +1142,7 @@ APISpace：[https://www.apispace.com/](https://www.apispace.com/)
 
 📚 [2023 年值得持续阅读的内容平台](https://justgoidea.com/posts/2023-063/)
 
-## 🧾各知名科技公司技术博客合集
+## 📰各知名科技公司技术博客合集
 
 {{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130144118729.png" alt="-" title="Fun's images">}}  
 
