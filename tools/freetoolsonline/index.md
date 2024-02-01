@@ -1,100 +1,100 @@
 # 📚线上转档
 
 
-> 各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。
+&gt; 各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。
 
-<!--more-->
+&lt;!--more--&gt;
 
 ### FileConverter 
 
-{{< image src="https://bib0.com/xc/i/2024/01/30/file-converter-usage.gif" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/2024/01/30/file-converter-usage.gif&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： 集成于右键的文件格式转换器，只需要选中文件右键，就能快速实现目标格式的转换，转换后的文件会自动保存到源文件同一目录下，并且100%免费，支持批量操作
 
 ⭐️  资源描述： 
 
->**音频支持的输出格式**
->FLAC、AAC、OGG、MP3、WAV
->
->**音频兼容的输入格式**
->3GP、AIFF、APE、AVI、BIK、CDA、FLAC、FLV、M4A、MKV、MOV、MP3、MP4、OGA、OGG、WAV、WEBM、WMA、WMV
->
->**视频支持的输出格式**
->WEBM、MKV、MP4、OGV、AVI、GIF
->
->**视频兼容的输入格式**
->3GP、AVI、BIK、FLV、GIF、M4V、MKV、MP4、MPEG、MOV、OGV、WEBM、WMV
->
->**图像支持的输出格式**
->png、jpg、ico、webp
->
->**图像兼容的输入格式**
->BMP、EXR、ICO、JPG、JPEG、PNG、PSD、SVG、TIFF、TGA、WEBP、PDF、DOC*、DOCX*、ODT*、ODP*、ODS*、PPT*、PPTX*、XLS*、 xlsx*
->
->**公文支持的输出格式**
->PDF格式
->
->**公文兼容的输入格式**
->doc*、docx*、odt*、odp*、ods*、ppt*、pptx*、xls*、xlsx*、bmp、exr、ico、jpg、jpeg、png、psd、svg、tiff、tga
+&gt;**音频支持的输出格式**
+&gt;FLAC、AAC、OGG、MP3、WAV
+&gt;
+&gt;**音频兼容的输入格式**
+&gt;3GP、AIFF、APE、AVI、BIK、CDA、FLAC、FLV、M4A、MKV、MOV、MP3、MP4、OGA、OGG、WAV、WEBM、WMA、WMV
+&gt;
+&gt;**视频支持的输出格式**
+&gt;WEBM、MKV、MP4、OGV、AVI、GIF
+&gt;
+&gt;**视频兼容的输入格式**
+&gt;3GP、AVI、BIK、FLV、GIF、M4V、MKV、MP4、MPEG、MOV、OGV、WEBM、WMV
+&gt;
+&gt;**图像支持的输出格式**
+&gt;png、jpg、ico、webp
+&gt;
+&gt;**图像兼容的输入格式**
+&gt;BMP、EXR、ICO、JPG、JPEG、PNG、PSD、SVG、TIFF、TGA、WEBP、PDF、DOC*、DOCX*、ODT*、ODP*、ODS*、PPT*、PPTX*、XLS*、 xlsx*
+&gt;
+&gt;**公文支持的输出格式**
+&gt;PDF格式
+&gt;
+&gt;**公文兼容的输入格式**
+&gt;doc*、docx*、odt*、odp*、ods*、ppt*、pptx*、xls*、xlsx*、bmp、exr、ico、jpg、jpeg、png、psd、svg、tiff、tga
 
 🌐 资源地址: [点击跳转](https://file-converter.org/) | [开源地址](https://github.com/Tichau/FileConverter)
 
 ### Nero PDF Tools
 
-{{< image src="https://bib0.com/xc/i/2023/11/27/preview.gif" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/11/27/preview.gif&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： [Nero PDF Tools](https://pdf.nero.com) - 免费在线加密/解密/拆分/合并/压缩PDF文件
 
 ⭐️  资源描述： 
 
->**[Nero PDF Tools](https://pdf.nero.com)免费提供在线拆分、合并、压缩PDF文件服务，还可为你的PDF文件添加密码和解除PDF文件密码。**无需注册或下载软件，直接在Nero PDF Tools网站上即可免费使用这些功能，页面简洁无广告，而且**支持最大100MB的PDF文件，还不限制免费使用次数！**
->
->🛠**Nero PDF Tools功能介绍**
->
->- **免费在线合并PDF**：可将最多30个PDF文件合并成一个文件，单个文件限50MB。
->- **免费在线拆分PDF**：可将一个PDF文件拆分成两个文件，单个文件限50MB。
->- **免费在线压缩PDF**：可将一个PDF文件压缩成更小的尺寸，单个文件限100MB。
->- **免费在线解锁PDF**：可将加密的PDF文件密码解除，单个文件限100MB
->- **免费在线保护PDF**：可使用密码加密PDF文件，单个文件限50MB，可同时加密30个文件。
->- **为保证隐私，Nero PDF Tools不会保留你的文件，页面关闭后，所有上传的文件都将被删除。**
+&gt;**[Nero PDF Tools](https://pdf.nero.com)免费提供在线拆分、合并、压缩PDF文件服务，还可为你的PDF文件添加密码和解除PDF文件密码。**无需注册或下载软件，直接在Nero PDF Tools网站上即可免费使用这些功能，页面简洁无广告，而且**支持最大100MB的PDF文件，还不限制免费使用次数！**
+&gt;
+&gt;🛠**Nero PDF Tools功能介绍**
+&gt;
+&gt;- **免费在线合并PDF**：可将最多30个PDF文件合并成一个文件，单个文件限50MB。
+&gt;- **免费在线拆分PDF**：可将一个PDF文件拆分成两个文件，单个文件限50MB。
+&gt;- **免费在线压缩PDF**：可将一个PDF文件压缩成更小的尺寸，单个文件限100MB。
+&gt;- **免费在线解锁PDF**：可将加密的PDF文件密码解除，单个文件限100MB
+&gt;- **免费在线保护PDF**：可使用密码加密PDF文件，单个文件限50MB，可同时加密30个文件。
+&gt;- **为保证隐私，Nero PDF Tools不会保留你的文件，页面关闭后，所有上传的文件都将被删除。**
 
 🌐 资源地址: [点击跳转](https://pdf.nero.com/)
 
 ### PDFgear
 
-{{< image src="https://bib0.com/xc/i/2023/07/01/banner-img.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/07/01/banner-img.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： [PDFgear](https://www.pdfgear.com/) - 一款内置 AI 的 PDF 工具
 
 ⭐️  资源描述： 
 
->📄支持Windows/macOS/iOS ，并且都是免费的
->
->它支持数十种格式与 PDF 之间的转换，并且支持编辑、压缩、签名、文本提取、OCR文字识别等功能
->
->亮点就是接入了 AI 聊天机器人，没有聊天限制，我稍微使用下来感觉非常不错，再用一段时间看看能不能替代 Acrobat
+&gt;📄支持Windows/macOS/iOS ，并且都是免费的
+&gt;
+&gt;它支持数十种格式与 PDF 之间的转换，并且支持编辑、压缩、签名、文本提取、OCR文字识别等功能
+&gt;
+&gt;亮点就是接入了 AI 聊天机器人，没有聊天限制，我稍微使用下来感觉非常不错，再用一段时间看看能不能替代 Acrobat
 
 🌐 资源地址: [点击跳转](https://www.pdfgear.com/)
 
 ### ABCDPDF
 
-{{< image src="https://bib0.com/xc/i/2023/06/29/image-20230629233112795.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/29/image-20230629233112795.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： 🔃[ABCDPDF](https://abcdpdf.com/zh-cn/) - 一款免费的 PDF 在线转换工具
 
 ⭐️  资源描述： 
 
->📄上传一个 PDF 文件，你可以对其进行合并、拆分、压缩、添加水印、加密、解密以及转换成 word 等操作
->
->同时也可以通过它来对 word 、excel 还有 ppt 等各种格式的文件进行修改
->
->🗣同类型的网站下面收集的也比较多，这个还算比较丝滑，免费用户只是上传文件的大小限制，日常够用
+&gt;📄上传一个 PDF 文件，你可以对其进行合并、拆分、压缩、添加水印、加密、解密以及转换成 word 等操作
+&gt;
+&gt;同时也可以通过它来对 word 、excel 还有 ppt 等各种格式的文件进行修改
+&gt;
+&gt;🗣同类型的网站下面收集的也比较多，这个还算比较丝滑，免费用户只是上传文件的大小限制，日常够用
 
 🌐 资源地址: [点击跳转](https://abcdpdf.com/zh-cn/)
 
 ### office-converter
 
-{{< image src="https://bib0.com/xc/i/2023/04/18/image-20230418225201238.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/18/image-20230418225201238.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： office-converter
 
@@ -104,7 +104,7 @@
 
 ### Web2pdfconvert
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/web2pdfconvert-01.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/web2pdfconvert-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称： Web2pdfconvert 免费线上工具将网页快速转换为PDF 或图片格式
 
@@ -114,7 +114,7 @@
 
 ###  PDF Bob
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/pdf-bob-01.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/pdf-bob-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称： PDF Bob 线上文件编辑器，加入文字、注释、高亮或转档一应俱全
 
@@ -124,7 +124,7 @@
 
 ###  AvePDF          
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/avepdf-02.jpg" alt="-"  title="Fun's images" >}}                                                                            
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/avepdf-02.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}                                                                            
 
 🆔  资源名称： AvePDF 整合各种免费PDF 线上工具，基本转档编辑免安装软体
 
@@ -134,7 +134,7 @@
 
 ###  Webtopdf
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/webtopdf-02.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/webtopdf-02.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称： Webtopdf 线上将网页转换为PDF 或图片，可自订页面尺寸、加入浮水印
 
@@ -144,7 +144,7 @@
 
 ### MyEdit
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/myedit-online-audio-editor-01.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/myedit-online-audio-editor-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：MyEdit 免费线上图片、音乐编辑器，转档剪辑都免安装软体
 
@@ -154,7 +154,7 @@
 
 ### PDF2Go
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/pdf2go-02.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/pdf2go-02.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称： PDF2Go 免费线上PDF 转换器，整合编辑、转档等27 项功能
 
@@ -164,7 +164,7 @@
 
 ### ExtensionDock 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/extensiondock-01.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/extensiondock-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称：ExtensionDock 将Chrome 扩充功能商店外挂汇出CRX 档离线安装                           
 
@@ -174,7 +174,7 @@
 
 ###  AllinPDF 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/allinpdf-02.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/allinpdf-02.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： AllinPDF 整合各种PDF 工具，线上转档、编辑或安全功能免安装
 
@@ -184,7 +184,7 @@
 
 ### Mp3cut Audio Cutter 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/mp3cut-audio-cutter-01.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/mp3cut-audio-cutter-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： Mp3cut Audio Cutter 线上剪辑音乐还能调整音量、播放速度和升降key
 
@@ -194,7 +194,7 @@
 
 ### 67tool
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/67tool-8.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/67tool-8.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称：67tool 即时工具超过240 种线上工具，影片、音乐、图片、文件编辑转档
 
@@ -204,7 +204,7 @@
 
 ### All to all 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-09-08-14.11.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-09-08-14.11.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： All to all 免费线上转档工具，支援超过200 种格式转换
 
@@ -214,7 +214,7 @@
 
 ### Video2mp3
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-08-25-22.01.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-08-25-22.01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： Video2mp3 将影片下载为MP4、MP3 免安装软体
 
@@ -224,7 +224,7 @@
 
 ### pdfforge
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-05-15.07.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-05-15.07.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： pdfforge 免费线上PDF 工具集，整合转档、编辑和组织20 种功能
 
@@ -234,7 +234,7 @@
 
 ### Savemp3
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-07-20.22.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-07-20.22.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称：Savemp3 将网路影片下载为MP3 可选择不同画质或档案格式
 
@@ -244,7 +244,7 @@
 
 ### FreeConvert
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-06-19-14.26.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-06-19-14.26.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称：FreeConvert 免费线上转档工具，支援图片、影片、音讯、文件、电子书、压缩档等超过1500 种格式
 
@@ -254,7 +254,7 @@
 
 ###  SVG Converter
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-08-15.43.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-08-15.43.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： SVG Converter 免费转档工具PNG、JPG、EPS、PDF 和SVG 互转
 
@@ -264,7 +264,7 @@
 
 ### MP3 Cutter Online
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-07-19.58.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-07-19.58.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： MP3 Cutter Online 线上音乐剪辑工具，以拖曳保留或删除特定音讯段落
 
@@ -274,7 +274,7 @@
 
 ### HEICFile
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-24-14.45.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-24-14.45.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称：HEICFile 线上将HEIC 转档JPG、PNG 或GIF，支援批次转换免下载软体
 
@@ -284,7 +284,7 @@
 
 ###  Pixelied
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-20-11.40.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-20-11.40.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： Pixelied 线上批次图片转档，支援各种常用格式
 
@@ -294,7 +294,7 @@
 
 ### FileConverto
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-04-16.36.jpg" alt="-"  title="Fun's images" >}}      
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-04-16.36.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}      
 
 🆔  资源名称： FileConverto 免费线上转档编辑工具，整合影片、音乐、图片和PDF 转换
 
@@ -304,7 +304,7 @@
 
 ### FileZigZag
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-23-15.18.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-23-15.18.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： FileZigZag 免费线上转档工具支援各种文件、图片、电子书和影片音乐格式
 
@@ -314,7 +314,7 @@
 
 ### Video Converter
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-13-14.16.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-13-14.16.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： Video Converter 免费线上影片转档工具，支援40 多种格式免安装软体
 
@@ -329,7 +329,7 @@
 
 ### AnyConv
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-01-24-14.25.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-01-24-14.25.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： AnyConv 免费线上转档图片、文件、音讯、影片和电子书支援400 种格式
 
@@ -339,7 +339,7 @@
 
 ### TinyWow
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-01-15-11.58.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-01-15-11.58.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： TinyWow 数位时代的便利工具整合PDF、影片图片和各式档案转档功能
 
@@ -349,7 +349,7 @@
 
 ### cdkm
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230402115946578.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230402115946578.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称： cdkm 免费线上转档工具，支援各种文件、电子书、图片、影片和音乐格式
 
@@ -371,7 +371,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### PDF Unlocker Online
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-27-15.13.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-27-15.13.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：PDF Unlocker Online 破解PDF 无法列印、复制内容限制免费工具
 
@@ -381,7 +381,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Online converter
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230402120503315.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230402120503315.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Online converter 线上转档工具，可转多种影片、图片、音讯和文件格式
 
@@ -391,7 +391,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Speedpdf
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230402122207710.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230402122207710.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Speedpdf 线上进行PDF 转档、压缩、加密解密和合并分割免下载软体
 
@@ -401,7 +401,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Cut MP3 Online
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-10-21.10.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-10-21.10.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Cut MP3 Online 线上音乐铃声剪辑工具，拖曳裁切段落下载免安装
 
@@ -411,7 +411,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### EasePDF
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-15-14.51.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-15-14.51.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：EasePDF 免费PDF 线上工具整合转档、编辑、压缩等功能
 
@@ -421,7 +421,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Online Video Converter
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-12-21.00.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-12-21.00.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Online Video Converter 免费线上影片转档，支援超过300 种常见影音格式（MP4、AVI、MPEG、MP3
 
@@ -431,7 +431,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Iconscout File Converter
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-04-15.36.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-04-15.36.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Iconscout File Converter 线上SVG 转档PNG、JPG 和PDF 格式
 
@@ -441,7 +441,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### SVG Viewer
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-07-03-12.35.jpg" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-07-03-12.35.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：SVG Viewer 线上检视、最佳化SVG 图形，亦可转档PNG 或React 格式
 
@@ -451,7 +451,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Acrobat web
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-02-15-10.15.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-02-15-10.15.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Acrobat web 线上服务提供PDF 转档、编辑、压缩和签名等常用功能
 
@@ -461,7 +461,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### PDF Converter
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-02-01-13.50.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-02-01-13.50.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：PDF Converter 免费PDF 转档工具，支援Word、Excel 或PPT 文件互转
 
@@ -471,7 +471,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Aconvert
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-02-01-13.50.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-02-01-13.50.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Aconvert 线上转档工具可将WebP 转为JPG、PNG 图片格式
 
@@ -481,7 +481,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Zamzar
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2020-05-31-13.02.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2020-05-31-13.02.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Zamzar 整合文件、图片、影音全方位线上转档，支援超过1100 种格式
 
@@ -491,7 +491,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Word.to
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2020-05-09-12.22.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2020-05-09-12.22.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Word.to 专为Word 而生线上转档工具，可将档案转doc、docx 互转
 
@@ -501,17 +501,17 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### PrintFriendly
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2020-05-07-11.55.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2020-05-07-11.55.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：PrintFriendly 让网页适合列印或转PDF，移除侧边栏或广告更省纸张墨水
 
-⭐️  资源描述：「[PrintFriendly](https://www.printfriendly.com/)」是一个很实用的线上服务，**主要功能是让任何网页都更适合列印或输出为PDF 格式**，它的作法并不会太复杂，将你要转换的网址复制贴上，直接在线上预览最佳化的结果，**在列印前可先进行简单编辑，把不必要的图片、文字段落或任何不想输出的部分删除，最后得到一个更适合列印、转为PDF 格式的网页画面**。对于没有大量使用需求的用户，可以直接开启PrintFriendly 输入网址进行，若要频繁使用这项服务也可考虑免费下载[PrintFriendly 浏览器扩充功能](https://www.printfriendly.com/extensions/chrome)，就能够一键快速转换。比较特别的是如果你是开发者、部落客或网站管理员，PrintFriendly 提供「[友善列印按钮](https://www.printfriendly.com/button)」（Print Friendly & PDF button）也可自由加入网站，让其他人点选后产生更适合列印或输出为PDF 的内容。
+⭐️  资源描述：「[PrintFriendly](https://www.printfriendly.com/)」是一个很实用的线上服务，**主要功能是让任何网页都更适合列印或输出为PDF 格式**，它的作法并不会太复杂，将你要转换的网址复制贴上，直接在线上预览最佳化的结果，**在列印前可先进行简单编辑，把不必要的图片、文字段落或任何不想输出的部分删除，最后得到一个更适合列印、转为PDF 格式的网页画面**。对于没有大量使用需求的用户，可以直接开启PrintFriendly 输入网址进行，若要频繁使用这项服务也可考虑免费下载[PrintFriendly 浏览器扩充功能](https://www.printfriendly.com/extensions/chrome)，就能够一键快速转换。比较特别的是如果你是开发者、部落客或网站管理员，PrintFriendly 提供「[友善列印按钮](https://www.printfriendly.com/button)」（Print Friendly &amp; PDF button）也可自由加入网站，让其他人点选后产生更适合列印或输出为PDF 的内容。
 
 🌐 资源地址： [点击跳转](https://www.printfriendly.com/)    
 
 ### Sejda
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2019-12-16-12.43.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2019-12-16-12.43.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Sejda 帮你完成各项PDF 任务，整合常用编辑功能免安装软体
 
@@ -521,7 +521,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### PDF24 Tools 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2019-12-16-12.43.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2019-12-16-12.43.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：PDF24 Tools 免费易用的线上PDF 工具，集合转档、编辑等28 种功能
 
@@ -531,7 +531,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Pdf.to
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/image-20230402130014614.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/image-20230402130014614.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Pdf.to 线上PDF 转档集合Word、Excel、纯文字和图片等格式互转
 
@@ -541,7 +541,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Apowersoft 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2019-04-17_1225.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2019-04-17_1225.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Apowersoft 线上文件压缩工具，支援各种常见图片、影片格式和PDF
 
@@ -551,7 +551,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Mockdown 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/mockdown.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/mockdown.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Mockdown 线上将软体介面、网页或应用程式撷图转为Mockup 视觉稿
 
@@ -561,7 +561,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### MikuTools
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2019-04-06_1311.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2019-04-06_1311.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：MikuTools 免费工具集合，影片下载、汇率查询和产生器等一应俱全
 
@@ -571,7 +571,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### MikuTools
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/pdfyeah.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/pdfyeah.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：PDFYeah 多合一线上PDF 工具集合，转档、编辑等相关功能免安装
 
@@ -581,7 +581,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### EasyPDF
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2018-11-03_1156.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2018-11-03_1156.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：EasyPDF 免费线上PDF 转换器，转档编辑文件皆可快速完成免安装软体
 
@@ -591,7 +591,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Hipdf
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2018-09-16_1346.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2018-09-16_1346.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Hipdf：免费PDF 转档、压缩、合并、分割、编辑和图片处理工具
 
@@ -601,7 +601,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### YouCompress 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2018-07-27_1242.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2018-07-27_1242.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：YouCompress 免费线上压缩工具，针对各类型档案压缩以减少容量
 
@@ -611,7 +611,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### WordHTML
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/wordhtml.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/wordhtml.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：WordHTML 线上将Word 转为HTML，内建清理工具原始码更干净
 
@@ -621,7 +621,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### PDFConvertFree
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/pdf-convert-free.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/pdf-convert-free.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：PDFConvertFree 免费PDF 线上工具，可转档Word、Excel 也能合并分割
 
@@ -631,7 +631,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Smallpdf.com
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2014-07-04_0926.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2014-07-04_0926.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Smallpdf.com 线上PDF 转档、合并、分割、压缩工具，解决各种PDF 疑难杂症
 
@@ -641,7 +641,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Listly.io
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2018-01-13_1357.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2018-01-13_1357.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：Listly.io 最快的网页抓取工具，将网页内容自动整理为Excel 输出
 
@@ -651,7 +651,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### hilite.me
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/hilite-me.png" alt="-"  title="Fun's images" >}}     
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/hilite-me.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}     
 
 🆔  资源名称：hilite.me 線上將程式碼加上高亮效果，免載入 JavaScript、CSS
 
@@ -661,7 +661,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### 123Apps
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/123Apps123apps.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/123Apps123apps.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：123Apps 免费网路应用程式，整合影片、音讯转档及剪辑工具
 
@@ -675,7 +675,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### PDF.io 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/PDF.iopdf-io.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/PDF.iopdf-io.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：PDF.io 免费PDF 工具集，线上合并、转档、移除密码编辑文件免下载
 
@@ -685,7 +685,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### Smallpdf 免费eSign PDF 电子签署
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Smallpdf-eSign-PDF44295200_ml.jpg" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Smallpdf-eSign-PDF44295200_ml.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：Smallpdf 免费eSign PDF 电子签署功能，为PDF 文件签名加文字免装软体
 
@@ -695,7 +695,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### PDF Candy
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/PDF-Candy2017-01-08_1100.png" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/PDF-Candy2017-01-08_1100.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：PDF Candy 免费PDF 线上工具，整合转档、密码破解等各种常见功能
 
@@ -707,7 +707,7 @@ cdkm 支援以下格式（[完整列表](https://cdkm.com/format)）：
 
 ### iLovePDF 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/iLovePDF2016-10-24_2333.png" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/iLovePDF2016-10-24_2333.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：iLovePDF 线上PDF 工具整合转档、压缩、浮水印、解除密码等功能免安装
 
@@ -725,7 +725,7 @@ iLovePDF 跟我之前介绍过的「Smallpdf」有些类似，**值得一提的�
 
 ### Convertio 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Convertio2014-11-11_1457.png" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Convertio2014-11-11_1457.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：Convertio 免费线上转档服务，支援超过45 种常用格式
 
@@ -737,7 +737,7 @@ iLovePDF 跟我之前介绍过的「Smallpdf」有些类似，**值得一提的�
 
 ### ExtractPDF 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2014-08-17_0950.png" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2014-08-17_0950.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：ExtractPDF 将PDF 文件内的图档、文字完整撷取出来
 
@@ -749,7 +749,7 @@ iLovePDF 跟我之前介绍过的「Smallpdf」有些类似，**值得一提的�
 
 ### Nitro
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2014-08-04_1717.png" alt="-"  title="Fun's images" >}}   
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2014-08-04_1717.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}   
 
 🆔  资源名称：Nitro 提供线上PDF、Word、Excel、PowerPoint 转档工具
 
@@ -760,6 +760,6 @@ iLovePDF 跟我之前介绍过的「Smallpdf」有些类似，**值得一提的�
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tools/freetoolsonline/  
 
