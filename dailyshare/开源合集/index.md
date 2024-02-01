@@ -18,6 +18,14 @@
 
 🌐 资源地址：🧩 [开源地址](https://github.com/maboloshi/github-chinese) | [点击跳转](https://maboloshi.github.io/github-chinese/)
 
+### Telegraph-Image
+
+{{< image src="https://bib0.com/xc/i/2024/02/01/image-20240201110754807.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：Telegraph图床-免费图片托管解决方案
+
+🌐 资源地址：🧩 [开源地址](https://github.com/cf-pages/Telegraph-Image)
+
 ### zbpack
 
 {{< image src="https://bib0.com/xc/i/2024/01/31/image-20240131082058207.png" alt="-" title="Fun's images">}}  
