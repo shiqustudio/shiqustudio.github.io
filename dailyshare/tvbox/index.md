@@ -3,17 +3,17 @@
 
 💡 TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加 **源**，速度和资源量是根据添加的配置而决定的，只要添加的 **配置** 里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。  **想要简单省事且免费的 app，使用 TVBox 是最优选择**。
 
-<!--more-->
+&lt;!--more--&gt;
 
 # 安卓电视盒子应用
 
-> 支持 tv 盒子和手机应用免费观看影视。
+&gt; 支持 tv 盒子和手机应用免费观看影视。
 
 ## TVBox 空壳版
 
 🏠 TVBox（0HalfLife0o 版，基于 takagen99 版打包，UI 美化版）：[最新版 Github 下载地址](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
 
-> 如果你访问 Github 困难，建议了解 [《Github 加速访问教程》](/tools/github加速/)，安卓端可用 [瓦特加速器](https://steampp.net/)
+&gt; 如果你访问 Github 困难，建议了解 [《Github 加速访问教程》](/tools/github加速/)，安卓端可用 [瓦特加速器](https://steampp.net/)
 
 🔗 20231228 版下载：[美国](https://download.yzuu.cf/o0HalfLife0o/TVBoxOSC/releases/download/20231228-2255/TVBox_takagen99_20231228-2255.apk)、[美国](https://gh.ddlc.top/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231228-2255/TVBox_takagen99_20231228-2255.apk)、[美国](https://cors.isteed.cc/github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231228-2255/TVBox_takagen99_20231228-2255.apk)、[美国](https://hub.gitmirror.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231228-2255/TVBox_takagen99_20231228-2255.apk)、[韩国](https://ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231228-2255/TVBox_takagen99_20231228-2255.apk)
 
@@ -27,22 +27,22 @@
 
 🏠 TVBox（FongMi 版，能自动跳过失效线路）：[最新版 Github 下载地址](https://github.com/FongMi/Release/tree/main/apk/release)
 
-> 如果你访问 Github 困难，建议了解 [《Github 加速访问教程》](/tools/github加速/)，安卓端可用 [瓦特加速器](https://steampp.net/)
+&gt; 如果你访问 Github 困难，建议了解 [《Github 加速访问教程》](/tools/github加速/)，安卓端可用 [瓦特加速器](https://steampp.net/)
 
 arm64\_v8a = 64 位／ armabi\_v7a = 32 位
 
-> mobile = 手机版
-> leanback = 电视版
->
-> java = jar + js 爬蟲
-> python = jar + js + py 爬蟲
->
-> arm64_v8a = 64 位元
-> armeabi_v7a = 32 位元
->
-> dev = 内测版
-> kitkat = 4.x 版
-> release = 正式版
+&gt; mobile = 手机版
+&gt; leanback = 电视版
+&gt;
+&gt; java = jar &#43; js 爬蟲
+&gt; python = jar &#43; js &#43; py 爬蟲
+&gt;
+&gt; arm64_v8a = 64 位元
+&gt; armeabi_v7a = 32 位元
+&gt;
+&gt; dev = 内测版
+&gt; kitkat = 4.x 版
+&gt; release = 正式版
 
 🔗 TV 版下载：
 
@@ -80,7 +80,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 **一般不推荐使用替代品，替代品是内置了线路没错，但是这种一般更新 app 频率较高，总之根据自己需求使用。**
 
-`以下APP可能名字不同，但都是从开源的TVBox修改而来的，一般是点击APP的首页按钮即可切换视频源，不过内置源版容易失效，建议还是用空壳版+视频源`
+`以下APP可能名字不同，但都是从开源的TVBox修改而来的，一般是点击APP的首页按钮即可切换视频源，不过内置源版容易失效，建议还是用空壳版&#43;视频源`
 
 小苹果他爹 4.4：[蓝奏云](https://silece.lanzouw.com/iG7Ua1j9y1yj)、[118 网盘](https://kyon.118pan.com/b1125940)
 
@@ -92,7 +92,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 [可可影视](https://www.123pan.com/s/ZAzA-MPUwh.html) *安卓内置线路的影视 app* - `适合懒人使用，线路较多，目前无广告`。
 
-[龙门视频](https://www.looo.top/) *聚合全网影视的 APP* - `适合懒人使用，内置了 150+影视资源站点`。
+[龙门视频](https://www.looo.top/) *聚合全网影视的 APP* - `适合懒人使用，内置了 150&#43;影视资源站点`。
 
 [美益达影视 app](http://meiyida.tv/label/app.html) *安卓内置线路的影视 app* - `图省事的可以用内置海量线路，美益达影视 app`。
 
@@ -116,7 +116,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 蜂蜜影视支持自动更新 app，在设置中点击 **版本** 会自动检测更新，如没有弹出更新，可以反复点击，直至弹出更新即可，如安装闪退或无法使用，可安装支持安卓 4.1 的 [fongmi 老系统专用版](https://haosu.lanzoui.com/iwdQo0ww46kf)
 
-> 使用方法：点击 **设置** - **点播** - **复制并粘贴配置地址** `http://t.iao.su/tv` - **确定** - **切换线路点右侧房子**
+&gt; 使用方法：点击 **设置** - **点播** - **复制并粘贴配置地址** `http://t.iao.su/tv` - **确定** - **切换线路点右侧房子**
 
 **TVBox 影视 tv** *@takagen99 版*
 
@@ -124,7 +124,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 下载地址来自 GitHub，版本为 20231121 版，TVBox 只要能用可以不更新
 
-> 使用方法：右上角 **设置** - **配置地址**，在弹出的配置窗口里面，`http://t.iao.su/tv` **粘贴源地址**，确定。 首次加载可能需要一点时间，如果时间过长可以在 **设置** - **数据源** 切换其他的数据源，如首页没有加载内容，退出 app 重新进入。
+&gt; 使用方法：右上角 **设置** - **配置地址**，在弹出的配置窗口里面，`http://t.iao.su/tv` **粘贴源地址**，确定。 首次加载可能需要一点时间，如果时间过长可以在 **设置** - **数据源** 切换其他的数据源，如首页没有加载内容，退出 app 重新进入。
 
 **影视@fengmi** *安卓手机竖屏*
 
@@ -132,7 +132,7 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 UI 简洁，**自动切换失效源**。
 
-> 使用方法：点击 **设定** - **点播** - **复制配置地址** `http://t.iao.su/tv` - 粘贴在输入框中 - **确定**
+&gt; 使用方法：点击 **设定** - **点播** - **复制配置地址** `http://t.iao.su/tv` - 粘贴在输入框中 - **确定**
 
 **EasyBox 下载** *安卓手机竖屏*
 
@@ -140,8 +140,8 @@ UI 简洁，**自动切换失效源**。
 
 EasyBox 是 TVBox 的安卓竖屏版，app 无广告 UI 简洁，可当作安卓影视 app 使用，有电视直播功能。
 
-> 使用方法：点击 **我的** - **订阅管理** 右上角 **添加** 订阅名称随意，**订阅地址** `http://t.iao.su/tv` - 输入框中输入配置地址  
-> 点击确定 导入订阅后，如首页无法加载，可以点击左上角的文字（搜索框的左边），切换 **首页数据源**
+&gt; 使用方法：点击 **我的** - **订阅管理** 右上角 **添加** 订阅名称随意，**订阅地址** `http://t.iao.su/tv` - 输入框中输入配置地址  
+&gt; 点击确定 导入订阅后，如首页无法加载，可以点击左上角的文字（搜索框的左边），切换 **首页数据源**
 
 ## TVBox 老电视版
 
@@ -261,7 +261,7 @@ Simple Live 是一款支持 Windows/Mac/Android 等平台的热门直播平台�
 
 # PC 影视直播软件
 
-> 免费的电脑桌面平台影视直播神器
+&gt; 免费的电脑桌面平台影视直播神器
 
 直播源可通过 MXplayer-Android、IINA-Mac、PotPlayer-Win、[GoTV-iOS](https://apps.apple.com/cn/app/id1271283728) 等播放器，添加 url 链接。
 
@@ -278,19 +278,19 @@ IPv6 直播源 - [点击查看](http://tonkiang.us/)
 
 网友更新维护的直播源分享项目 - [点击查看](https://owen2000wy.github.io/)
 
-免费的 edge 浏览器 m3u8 播放器扩展，内置了 7000+ m3u8 直播频道 - [点击查看](https://microsoftedge.microsoft.com/addons/detail/iptv-hls-m3u8-player-/eacakocccifgomomoepgblandcbaiooj)
+免费的 edge 浏览器 m3u8 播放器扩展，内置了 7000&#43; m3u8 直播频道 - [点击查看](https://microsoftedge.microsoft.com/addons/detail/iptv-hls-m3u8-player-/eacakocccifgomomoepgblandcbaiooj)
 
 ## MX Player 安卓视频播放器
 
 作为安卓平台上最强悍的视频播放器，MX Player 以超强的解码性能以及兼容性闻名，以下版本直装免费享受无广告及解码增强支持！
 
-> MX Player 去广告版直装版下载地址
+&gt; MX Player 去广告版直装版下载地址
 
 [蓝奏云下载](https://lanzoup.com/b0cw9vjaj)
 
 MX Player 版本更新由 @[电脑系统吧](http://www.dnxitong.com/10763.html)提供
 
-> MX Player 去广告版 + MX Player pro 直装版下载地址
+&gt; MX Player 去广告版 &#43; MX Player pro 直装版下载地址
 
 [蓝奏云下载](https://wwz.lanzouv.com/b02pg30cj) 提取码：`clcf`
 
@@ -312,7 +312,7 @@ IINA 为现代 macOS 而生。从架构到界面，IINA 力求与系统 App 风�
 
 免费影音播放器 PotPlayer 是 Windows 平台知名的视频播放器。
 
-PotPlayer 美化精简增强版，由**分享迷**、**mefcl's** 提供，基于官方版本，美化图标、精简多余文件。
+PotPlayer 美化精简增强版，由**分享迷**、**mefcl&#39;s** 提供，基于官方版本，美化图标、精简多余文件。
 
 **天翼云**：[点击下载](https://cloud.189.cn/t/mQreueuuiM3u)
 
@@ -332,7 +332,7 @@ PotPlayer 美化精简增强版，由**分享迷**、**mefcl's** 提供，基于
 
 ![ZYPlayer开源影视播放器](https://i3.wp.com/img.fenxmi.com/zb_users/upload/2023/05/202305151684119592482865.png)
 
-> 导入步骤： **设置** - **其他** - **一键配置** - 点击**软件接口** 输入下方链接
+&gt; 导入步骤： **设置** - **其他** - **一键配置** - 点击**软件接口** 输入下方链接
 
 ```
 https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@main/zy_yuan.json
@@ -346,11 +346,11 @@ https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
 https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
 ```
 
-> ZYPlayer 支持 tvbox 接口，经过测试导入 tvbox 接口存在一些 bug，兼容性有点问题，期待后续版本解决该问题。目前导入上面链接可以正常的使用，搜索功能和电视直播功能均正常。
+&gt; ZYPlayer 支持 tvbox 接口，经过测试导入 tvbox 接口存在一些 bug，兼容性有点问题，期待后续版本解决该问题。目前导入上面链接可以正常的使用，搜索功能和电视直播功能均正常。
 
 # 更多视频源获取
 
-> 📄 TVBOX 使用方法+更多视频源获取方法，希望你以后都 **再也不用** 为影视 APP 这个问题犯愁！！
+&gt; 📄 TVBOX 使用方法&#43;更多视频源获取方法，希望你以后都 **再也不用** 为影视 APP 这个问题犯愁！！
 
 ### **TVBOX**
 
@@ -378,12 +378,12 @@ https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
 
 如果以上地址失效，你可以到原项目上找到 json 文件获取文件的 raw 地址进行添加，不过由于现在墙的存在，我们不能直接订阅 Github 原生文件地址，需要将链接稍作修改，改成经过 CDN 加速后的地址，才可以使用：
 
-> +   jsDelivr 加速地址：[https://gcore.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/meow.json](https://gcore.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/meow.json)
->
+&gt; &#43;   jsDelivr 加速地址：[https://gcore.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/meow.json](https://gcore.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/meow.json)
+&gt;
 
 jsDelivr 这个加速服务还是挺稳的，不过具体文件名可能以后会有变化，如果文件名变化了，自行修改上面两个链接末尾的 meow.json 就行了
 
-{{< image src="https://bib0.com/xc/i/2023/12/29/image-20231229092738147.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/12/29/image-20231229092738147.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}} 
 
 导入之后，返回一下首页，等待 jar 文件加载成功，再到 **设置 » 首页数据源**，就有很多可选项了～
 
@@ -507,7 +507,7 @@ APP 需要到 Github 上下载：[https://github.com/cuiocean/ZY-Player-APP](htt
 
 而 Github 的搜索功能其实是非常强的，作为一个代码托管平台，肯定是能根据代码来进行搜索的，那不就很简单咯
 
-试着用 **"status": "可用"** 作为关键词，在 Github 上进行搜索，并且切换查看代码 Code 的搜索结果，不过搜索筛选这里记得选 **最佳匹配 Best match**，你会发现一下就搜出了 9W+条结果
+试着用 **&#34;status&#34;: &#34;可用&#34;** 作为关键词，在 Github 上进行搜索，并且切换查看代码 Code 的搜索结果，不过搜索筛选这里记得选 **最佳匹配 Best match**，你会发现一下就搜出了 9W&#43;条结果
 
 不过观察最上面这条搜索结果的代码格式，显然不是 ZY-Player 视频源的格式，但没事，我们稍微耐心一点往下翻，就会发现不少显然是程序员自己维护自己使用的视频源
 
@@ -516,6 +516,6 @@ APP 需要到 Github 上下载：[https://github.com/cuiocean/ZY-Player-APP](htt
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/dailyshare/tvbox/  
 

@@ -3,13 +3,13 @@
 
 探索 Hugo - **FixIt** 主题的的进阶使用。
 
-<!--more-->
+&lt;!--more--&gt;
 
 ## 自定义样式
 
 [![FixIt 0.2.8 | 更改](https://fixit.lruihao.cn/svg/version/0.2.8-changed.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.8)
 
-{{< admonition >}} 
+{{&lt; admonition &gt;}} 
 
 Hugo **extended** 版本对于自定义样式是必需的。
 
@@ -19,12 +19,12 @@ Hugo **extended** 版本对于自定义样式是必需的。
 
 在 `assets/css/_override.scss` 中，你可以覆盖 `themes/FixIt/assets/css/_variables.scss` 中的变量以自定义样式。
 
- {{< /admonition >}}
+ {{&lt; /admonition &gt;}}
 
 这是一个例子：
 
 ```scss
-@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,700&display=swap&subset=latin-ext');
+@import url(&#39;https://fonts.googleapis.com/css?family=Fira&#43;Mono:400,700&amp;display=swap&amp;subset=latin-ext&#39;);
 $code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco, monospace;
 ```
 
@@ -36,17 +36,17 @@ $code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco, monospac
 
 FixIt 主题提供了页面宽度配置选项 `pageStyle` 并提供三种选项。
 
-- **narrow** 保留 `<v0.2.13` 页面目录宽度比
+- **narrow** 保留 `&lt;v0.2.13` 页面目录宽度比
 - **normal** 新的默认页面目录宽度比
 - **wide** 较大的页面目录宽度比
 
 另外，你还可以在 `assets/css/_custom.scss` 中，自定义 `pageStyle` 值
 
-例如： `pageStyle="custom"`
+例如： `pageStyle=&#34;custom&#34;`
 
 ```scss
 @media only screen and (min-width: 1441px) {
-  [data-page-style='custom'] {
+  [data-page-style=&#39;custom&#39;] {
     .page {
       width: 70%;
     }
@@ -58,7 +58,7 @@ FixIt 主题提供了页面宽度配置选项 `pageStyle` 并提供三种选项�
 }
 
 @media only screen and (max-width: 1440px) {
-  [data-page-style='custom'] {
+  [data-page-style=&#39;custom&#39;] {
     .page {
       width: 60%;
     }
@@ -70,7 +70,7 @@ FixIt 主题提供了页面宽度配置选项 `pageStyle` 并提供三种选项�
 }
 
 @media only screen and (max-width: 1200px) {
-  [data-page-style='custom'] {
+  [data-page-style=&#39;custom&#39;] {
     .page {
       width: 56%;
     }
@@ -95,11 +95,11 @@ FixIt 主题提供了页面宽度配置选项 `pageStyle` 并提供三种选项�
 下面是一个简单的例子：
 
 ```html
-<div class="page-break-before"></div>
-<div class="page-break-after"></div>
-<div class="print-d-none">
+&lt;div class=&#34;page-break-before&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;page-break-after&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;print-d-none&#34;&gt;
   您希望在打印视图中隐藏的某些内容写在此处。
-</div>
+&lt;/div&gt;
 ```
 
 如果设置 `goldmark.parser.attribute.block` 为 `true`，你也可以这样用：
@@ -134,7 +134,7 @@ Hugo 允许您通过覆盖主题模板来改造主题，例如：您可以创建
 
 ```toml
 [params.customFilePath]
-  profile = "custom/profile.html"
+  profile = &#34;custom/profile.html&#34;
 ```
 
 然后，自定义模板：
@@ -146,6 +146,6 @@ Hugo 允许您通过覆盖主题模板来改造主题，例如：您可以创建
 
 ---
 
-> 作者: [聪](/about)  
+> 作者:   
 > URL: https://blog.funvip.live/tutorial/shili-jinjiepian/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/advanced/
