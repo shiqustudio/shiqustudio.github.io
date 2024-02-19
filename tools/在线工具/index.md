@@ -83,6 +83,14 @@
 
 🔗 资源链接：🧩[开源地址](https://github.com/PKM-er/Blue-topaz-example) | 🌐[Obsidian官网](https://obsidian.md/) | 📝[Obsidian使用手册](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B)
 
+### LifeOS
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219160645441.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：基于 Obsidian 打造的人生管理系统
+
+🔗 资源链接：🌐[点击跳转](https://obsidian-life-os.netlify.app/)
+
 ### Snippet generator
 
 {{< image src="https://bib0.com/xc/i/2023/12/07/snippet-generator.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

@@ -5,7 +5,17 @@
 
 <!--more-->
 
+### 逆向工程师2023
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219150149712.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：逆向工程师2023
+
+🌐 资源地址：[点击跳转](https://www.ruike1.com/thread-68488-1-1.html) | ☁️[百度云 ](https://pan.baidu.com/s/1KI96zbPYHVU4m4zzB1CbcA) 提取码：015e
+
 ### 免费计算机书籍汇总
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219150046918.png" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：
 

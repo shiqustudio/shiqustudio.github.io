@@ -6,6 +6,24 @@
 
 <!--more-->
 
+### Sora 
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/4317aa6ecbe57cca9f25fbae1bd2d0cf.gif" alt="-"  title="Fun's images" >}}     
+
+⭐️  资源描述：Sora - 视频生成模型公布研发进展
+
+>2 月 15 日，OpenAI [公布](https://openai.com/sora)了视频生成模型 Sora 的研发进展，并向少量研究人员和设计、影视从业者开放以获取反馈。
+>
+>OpenAI 称，Sora 能够生成细节准确的复杂场景，理解用户要求的同时反映真实物理效果。Sora 生成的视频可长达一分钟，且可以包含多个镜头。除了从文本指令生成视频，Sora 也能从静态图像生成视频，以及在现有视频基础上做延伸和补帧。
+>
+>在介绍页面上，OpenAI 展示了一系列通过 Sora 模型从文本描述生成的视频片段，包括城市人文、历史复现、自然风光、野生动物以及艺术科幻等广泛题材，总体上表现出清晰逼真、细节丰富的特点。OpenAI CEO Sam Altman 还在 X 上发帖[邀请](https://sspai.com/link?target=https%3A%2F%2Fx.com%2Fsama%2Fstatus%2F1758193792778404192)用户提交想要测试的文本描述，并回复了生成结果。OpenAI 没有透露生成视频所需时间，仅表示更接近于外出就餐的等待时间，而非传统特效渲染以天计的耗时。
+>
+>在随附的[研究报告](https://openai.com/research/video-generation-models-as-world-simulators)中，OpenAI 称 Sora 是扩散模型和变换器模型的结合。在训练 Sora 时，素材视频先被统一处理为称为「贴片」（patch）的小单元，从而让时长、尺寸各异的视频都能用作素材。但是，与其近年的一贯做法类似，OpenAI 拒绝公布 Sora 的训练方法和模型参数等技术细节，仅对媒体表示训练素材来自「获得授权或公开的视频」。
+>
+>{{< image src="https://bib0.com/xc/i/2024/02/19/8585bf882b0b81ee8607f54f843a15a0.png" alt="-"  title="Fun's images" >}}   
+>
+>OpenAI 承认，Sora 目前可能难以模拟复杂的物理效果，混淆因果关系和空间位置，也可能被利用来制造虚假信息和仇恨内容。为此，OpenAI 表示将在 Sora 上线前采取一系列「安全措施」，包括邀请专家开展对抗性测试、开发检测工具、过滤不当内容，以及向政策制定者、教育工作者和艺术家开展调研等。  
+
 ### Noi 
 
 {{< image src="https://bib0.com/xc/i/2024/01/29/0fec7bb8c360.png" alt="-"  title="Fun's images" >}}     

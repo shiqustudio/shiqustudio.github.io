@@ -41,6 +41,32 @@
 | **中华珍宝馆**                                               | 🌐[点击查看](https://g2.ltfc.net/home)                        |
 | **中国古籍保护网**                                           | 🌐[点击查看](http://www.nlc.cn/pcab/zy/zhgj_zyk/?utm_source=appinn.com) |
 
+### 登樓古籍
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219160007203.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}   
+
+⭐️  资源描述：登樓古籍全文檢索
+
+🌐 资源地址：[资源预览](https://tio.freemdict.com/denglou)
+
+### 香港大学冯平山图书馆藏书
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219144709845.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}   
+
+⭐️  资源描述：香港大学冯平山图书馆藏书（已公布116种1025册）
+
+>冯平山图书馆藏善本古籍800馀种，包括宋刊本、元刋本、明刋本、明抄本、清刋本、清抄本及稿本、旧抄本、近代抄本等。2003年编制《香港大学冯平山图书馆藏善本书录》，其后亦增补书目资料，力求充实，以便检索。本馆同时将部份善本古籍数码化，与各界共享珍贵馆藏，让它们在互联网这浩瀚天地里更广为流传。本数据库为数码化第一阶段成果，开放共享善本古籍116种1025册。
+
+🌐 资源地址：🔗[点击查看](https://digitalrepository.lib.hku.hk/fpslrbo) | 🌐[点击查看](https://www.shuge.org/meet/topic/93539/) | ☁️[百度云盘](https://pan.baidu.com/s/1IT-18Enda7B5r2RCqOitjA?pwd=6666) | ☁️[阿里云盘](https://www.aliyundrive.com/s/Yx4jWH6wmT4)
+
+### 宮内庁書陵部収蔵漢籍集覧
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219144013843.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}   
+
+⭐️  资源描述：宮内庁書陵部収蔵漢籍集覧  
+
+🌐 资源地址：[资源预览](https://db2.sido.keio.ac.jp/kanseki/search_bib_result) | [资源地址](https://www.shuge.org/meet/topic/115979/)
+
 ### 日本藏古籍数据库
 
 🔗资源简介：[点击查看](http://www.ihns.cas.cn/njgsz/zcbm/lytsg/zydh/sjkdh/zwdj/202302/t20230223_6682521.html)

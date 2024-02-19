@@ -1,7 +1,7 @@
 # 🗺️书籍搜索
 
 
-💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub等资源
+💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub 等资源。其他更多相关资源[书籍在线查找](/books/xlibary/)、[古籍下载](/website/识典古籍/)。
 
 <!--more-->
 
@@ -17,64 +17,64 @@
 > **✅ 资料名 + 格式；**  
 > 例如：巴黎圣母院 pdf
 >
-> **✅ 资料名 + filetype/inurl:格式 ；**  
-> 例如：格林童话 filetype:mobi ; 三个火枪手 inurl:pdf
+> **✅ 资料名 + filetype/inurl: 格式 ；**  
+> 例如：格林童话 filetype: mobi ; 三个火枪手 inurl: pdf
 >
 > **✅ 资料名 + 提取码 ；**  
 > 例如：三体 提取码
 >
 > **✅ 资料名 + 下载站 ；**  
-> 例如：三体 百度云 ;三体 网盘下载
+> 例如：三体 百度云 ; 三体 网盘下载
 
-有条件的可以用`谷歌搜索引擎`搜索相关内容，效果好于百度，国内用户访问`谷歌搜索引擎`需要代理，请自行解决，这边只提供谷歌搜索镜像，效果相当
+有条件的可以用 `谷歌搜索引擎` 搜索相关内容，效果好于百度，国内用户访问 `谷歌搜索引擎` 需要代理，请自行解决，这边只提供谷歌搜索镜像，效果相当
 
 ### 🌏 谷歌镜像
 
 > **—— 随时更新，避免失效 ——**
 >
-> 1.  🌐[Google.library](https://www.library.ac.cn/) `镜像网站合集`
-> 2.  🌐[Google.Schoalr](https://scholar.eu.org/) `镜像集合` |🧩[Github地址](https://github.com/librarycloud/list)`持续更新`
-> 3.  🌐[Google (ahnu.cf)](https://search.ahnu.cf/) ⭐`11-24`
-> 4.  🌐[Google (ecnu.cf)](https://search.ecnu.cf/) ⭐`11-24`
-> 5.  🌐[Google (ahau.cf)](https://search.ahau.cf/) ⭐`11-24`
-> 6.  🌐[Google (shisu.cf)](https://search.shisu.cf/) ⭐`11-24`
-> 7.  🌐[Google (aufe.cf)](https://search.aufe.cf/) ⭐`11-24`
-> 8.  🌐[Google (ahut.cf)](https://search.ahut.cf/) ⭐`11-24`
+> 1.  🌐 [Google.library](https://www.library.ac.cn/) `镜像网站合集`
+> 2.  🌐 [Google.Schoalr](https://scholar.eu.org/) `镜像集合` |🧩 [Github 地址](https://github.com/librarycloud/list) `持续更新`
+> 3.  🌐 [Google (ahnu.cf)](https://search.ahnu.cf/) ⭐ `11-24`
+> 4.  🌐 [Google (ecnu.cf)](https://search.ecnu.cf/) ⭐ `11-24`
+> 5.  🌐 [Google (ahau.cf)](https://search.ahau.cf/) ⭐ `11-24`
+> 6.  🌐 [Google (shisu.cf)](https://search.shisu.cf/) ⭐ `11-24`
+> 7.  🌐 [Google (aufe.cf)](https://search.aufe.cf/) ⭐ `11-24`
+> 8.  🌐 [Google (ahut.cf)](https://search.ahut.cf/) ⭐ `11-24`
 
 ![image-20231128163341553](https://bib0.com/xc/i/2023/11/28/image-20231128163341553.png)
 
-### 📝Google学术搜索
+### 📝 Google 学术搜索
 
 > **—— 随时更新，避免失效 ——**
 >
-> 1.  🌐[https://scholar.google.com/](https://scholar.google.com/) `官网`
-> 2.  🌐[https://www.library.ac.cn/](https://www.library.ac.cn/) `镜像网站合集`
-> 3.  🌐[https://ac.scmor.com/ ](https://ac.scmor.com/) `镜像网站合集`
-> 4.  🌐[https://xs.zidianzhan.net/](https://xs.zidianzhan.net/) ⭐`11-24`
-> 5.  🌐[https://scholar.lanfanshu.cn/](https://scholar.lanfanshu.cn/) ⭐`11-24`
-> 6.  🌐[https://xueshu.lanfanshu.cn/](https://xueshu.lanfanshu.cn/) ⭐`11-24`
-> 7.  🌐[https://scholar.lanfanshu.cn](https://scholar.lanfanshu.cn/)⭐`11-28`
-> 8.  🌐[https://sc.panda321.com](https://sc.panda321.com/)⭐`11-28`
-> 9.  🌐[https://xueshu.lanfanshu.cn](https://xueshu.lanfanshu.cn/)⭐`11-28`
-> 10.  🌐https://www.scidown.cn/go⭐`11-28`
-> 11.  🌐[http://zc14.add.pub](http://zc14.add.pub/)⭐`11-28`
-> 12.  🌐[https://c.aalib.net/tool/ggscholar/](https://c.aalib.net/tool/ggscholar/) ⭐`Google 谷歌学术合集`
+> 1.  🌐 [https://scholar.google.com/](https://scholar.google.com/) `官网`
+> 2.  🌐 [https://www.library.ac.cn/](https://www.library.ac.cn/) `镜像网站合集`
+> 3.  🌐 [https://ac.scmor.com/ ](https://ac.scmor.com/) `镜像网站合集`
+> 4.  🌐 [https://xs.zidianzhan.net/](https://xs.zidianzhan.net/) ⭐ `11-24`
+> 5.  🌐 [https://scholar.lanfanshu.cn/](https://scholar.lanfanshu.cn/) ⭐ `11-24`
+> 6.  🌐 [https://xueshu.lanfanshu.cn/](https://xueshu.lanfanshu.cn/) ⭐ `11-24`
+> 7.  🌐 [https://scholar.lanfanshu.cn](https://scholar.lanfanshu.cn/) ⭐ `11-28`
+> 8.  🌐 [https://sc.panda321.com](https://sc.panda321.com/) ⭐ `11-28`
+> 9.  🌐 [https://xueshu.lanfanshu.cn](https://xueshu.lanfanshu.cn/) ⭐ `11-28`
+> 10.  🌐 https://www.scidown.cn/go ⭐ `11-28`
+> 11.  🌐 [http://zc14.add.pub](http://zc14.add.pub/) ⭐ `11-28`
+> 12.  🌐 [https://c.aalib.net/tool/ggscholar/](https://c.aalib.net/tool/ggscholar/) ⭐ `Google 谷歌学术合集`
 
 ![image-20231204161644318](https://bib0.com/xc/i/2023/12/04/image-20231204161644318.png)
 
-### 📃**Wikipedia搜索**
+### 📃 **Wikipedia 搜索**
 
 >**—— 随时更新，避免失效 ——**
 >
->1. 🌐[wikipedia.njuu](https://www.wikipedia.njuu.cf) ⭐`11-24`
->2. 🌐[wikipedia.ecnu](https://www.wikipedia.ecnu.cf) ⭐`11-24`
->3. 🌐[wikipedia.ahau-zh](https://www.wikipedia.ahau.cf) ⭐`11-24`
->4. 🌐[wikipedia.ahnu-zh ](https://www.wikipedia.ahnu.cf)⭐`11-24`
->5. 🌐[wikipedia.shisu-zh ](https://www.wikipedia.shisu.cf)⭐`11-24`
->6. 🌐[wikipedia.hfut-zh ](https://www.wikipedia.hfut.cf)⭐`11-24`
->7. 🌐[wikipedia.ahtcm](https://www.wikipedia.ahtcm.cf) ⭐`11-24`
->8. 🌐[wikipedia.cdutcm](https://www.wikipedia.cdutcm.cf) ⭐`11-24`
->9. 🌐[wikipedia.hbcnc](https://www.wikipedia.hbcnc.cf) ⭐`11-24`
+>1. 🌐 [wikipedia.njuu](https://www.wikipedia.njuu.cf) ⭐ `11-24`
+>2. 🌐 [wikipedia.ecnu](https://www.wikipedia.ecnu.cf) ⭐ `11-24`
+>3. 🌐 [wikipedia.ahau-zh](https://www.wikipedia.ahau.cf) ⭐ `11-24`
+>4. 🌐 [wikipedia.ahnu-zh ](https://www.wikipedia.ahnu.cf) ⭐ `11-24`
+>5. 🌐 [wikipedia.shisu-zh ](https://www.wikipedia.shisu.cf) ⭐ `11-24`
+>6. 🌐 [wikipedia.hfut-zh ](https://www.wikipedia.hfut.cf) ⭐ `11-24`
+>7. 🌐 [wikipedia.ahtcm](https://www.wikipedia.ahtcm.cf) ⭐ `11-24`
+>8. 🌐 [wikipedia.cdutcm](https://www.wikipedia.cdutcm.cf) ⭐ `11-24`
+>9. 🌐 [wikipedia.hbcnc](https://www.wikipedia.hbcnc.cf) ⭐ `11-24`
 
 ![image-20231201163059130](https://bib0.com/xc/i/2023/12/01/image-20231201163059130.png)
 
@@ -90,9 +90,9 @@
 
 ### 🧶目前可用方法
 
-#### **📕Zlibrary最新讯息**
+#### **📕 Zlibrary 最新讯息**
 
-6️⃣Z-Library 已开通微信公众号和哔哩哔哩账号
+6 ️⃣ Z-Library 已开通微信公众号和哔哩哔哩账号
 
 🌐公众号：zlibrary_official
 
@@ -102,31 +102,31 @@
 
 Z-Library 自去年 9 月份上线了「[Z-Point](https://zh.zlibrary-global.se/inter-library)」，最近又在国内地区开始搞小动作了🤩
 
-#### **📒Zlibrary下载**
+#### **📒 Zlibrary 下载**
 
 **Z-Library 目前国内可注册的地址**
 
-🌐[注册地址](http://zh.z-library.se/registration.php)
+🌐 [注册地址](http://zh.z-library.se/registration.php)
 
-首先注册账户，注册完毕后，登陆点击右上角的图标，在个人资料中会有两个**私有链接**，收藏任意私有链接到收藏夹即可国内长久访问。如无法访问，可向官方的邮箱 `blackbox@zlib.se` 发个任意邮件，等回复邮件中的官方域名。
+首先注册账户，注册完毕后，登陆点击右上角的图标，在个人资料中会有两个 **私有链接**，收藏任意私有链接到收藏夹即可国内长久访问。如无法访问，可向官方的邮箱 `blackbox@zlib.se` 发个任意邮件，等回复邮件中的官方域名。
 
-**Z-Library 官方客户端**  🎉[客户端地址](https://zh.z-library.se/z-access)
+**Z-Library 官方客户端**  🎉 [客户端地址](https://zh.z-library.se/z-access)
 
 该网址为官方客户端下载网址，里面有多平台的客户端下载，还有提供浏览器扩展插件 Z-Library Finder，可用来寻找 Z-Library 最新网址。
 
 **Z-Library 最新可用方法** *网页版 / 不用登陆账号 / 无每日下载限制*
 
-🌐[资源地址1](https://zbook.lol/) | 🌐[资源地址2](https://zbook.eu.org/) | 🌐[资源地址3](https://zlib.missuo.me/) |🌐[资源地址4](https://zlib.knat.network/) |🌐[资源地址5](https://ylibrary.org/) (zhelper 接口）| 🌐[资源地址6](https://tool.ssdown.org/) （zhelper 接口汇总）
+🌐 [资源地址 1](https://zbook.lol/) | 🌐 [资源地址 2](https://zbook.eu.org/) | 🌐 [资源地址 3](https://zlib.missuo.me/) |🌐 [资源地址 4](https://zlib.knat.network/) |🌐 [资源地址 5](https://ylibrary.org/) (zhelper 接口）| 🌐 [资源地址 6](https://tool.ssdown.org/) （zhelper 接口汇总）
 
 🔥 **需要关注的教程**
 
-✨[Zlibrary资讯汇总](https://ssdown.org/archives/1694769328287)（Zlibrary/Superlib 访问方式与资讯汇总 - 持续更新）⭐️
+✨ [Zlibrary 资讯汇总](https://ssdown.org/archives/1694769328287)（Zlibrary/Superlib 访问方式与资讯汇总 - 持续更新）⭐️
 
-✨[Z-library Pro](https://kf369.cn/sites/2731.html) （Z-library Pro 助手及最新网址 - 持续更新）⭐️
+✨ [Z-library Pro](https://kf369.cn/sites/2731.html) （Z-library Pro 助手及最新网址 - 持续更新）⭐️
 
-✨[Z-library 可行方法](https://anotherdayu.com/2022/3809/) （Z-library 现阶段可行的访问方法和替代方法 2023 - 持续更新）⭐️
+✨ [Z-library 可行方法](https://anotherdayu.com/2022/3809/) （Z-library 现阶段可行的访问方法和替代方法 2023 - 持续更新）⭐️
 
-### 🌏 Z-Library可用镜像网站
+### 🌏 Z-Library 可用镜像网站
 
 Z-library 有很多入口，大致分为官方网站和民间镜像。官方自己做了个跳转站点，自动寻找可用入口。但有时所有官方入口可能显示为：找不到可用域名，此时请选择可用的民间镜像访问登录  
 `（在任何第三方登录账号密码时候，都要注意账号密码安全，可单独注册一个账号密码专门用于此类第三方登录）`
@@ -156,21 +156,21 @@ Z-library 有很多入口，大致分为官方网站和民间镜像。官方自�
 > 7.  [https://libgen.gs/](https://libgen.gs/)
 > 8.  [http://libgen.rs/search.php](http://libgen.rs/search.php)
 > 9.  [https://www.libgen.tw/](https://www.libgen.tw/)
-> 10.  [https://llhlf.com/](https://llhlf.com/) ⭐`11-28`
-> 11.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐`镜像收集`
-> 12.  [https://unblockit.foo/](https://unblockit.foo/) ⭐`11-28`
+> 10.  [https://llhlf.com/](https://llhlf.com/) ⭐ `11-28`
+> 11.  [https://mirrors.zhelper.net/](https://mirrors.zhelper.net/) ⭐ `镜像收集`
+> 12.  [https://unblockit.foo/](https://unblockit.foo/) ⭐ `11-28`
 
 ### ⏬ 下载
 
-Library genesis默认`LibGen（Sci-Tech）`搜索
+Library genesis 默认 `LibGen（Sci-Tech）` 搜索
 
-也可根据个人需求选择`Fiction小说`**、**`Scientific Articles 科学论文`**、**`Magazines杂志`
+也可根据个人需求选择 `Fiction小说` **、** `Scientific Articles 科学论文` **、** `Magazines杂志`
 
 1. 进入网站在检索框输入 书名 或 作者 或 和所找书籍相关的 关键词进行检索
 
    ![image-20231201155649004](https://bib0.com/xc/i/2023/12/01/image-20231201155649004.png)
 
-2.  搜索后，在`Mirrors`下方就是下载地址，`Library genesis`没有直接显示下载地址
+2.  搜索后，在 `Mirrors` 下方就是下载地址，`Library genesis` 没有直接显示下载地址
     
     显示的是镜像下载地址，点击任意一个下载即可.
     
@@ -186,7 +186,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 🌐 `官网地址` ：[点击跳转 1](https://sci-hub.se/) | [点击跳转 2](https://sci-hub.ru/) |[点击跳转 3](https://sci-hub.st/)
 
-🙍 `关于作者`： [点击跳转](https://sci-hub.ru/alexandra)   | 🐋`作者推特`： [点击跳转](https://twitter.com/ringo_ring)
+🙍 `关于作者`： [点击跳转](https://sci-hub.ru/alexandra)   | 🐋 `作者推特`： [点击跳转](https://twitter.com/ringo_ring)
 
 > 一个影子图书馆网站，通过以各种方式绕过出版商的付费墙，可以免费访问数百万篇研究论文和书籍，而无需考虑版权。 Sci-Hub 由 Alexandra Elbakyan 于 2011 年在哈萨克斯坦创立，以应对付费墙背后的高昂研究论文成本。
 
@@ -199,10 +199,10 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 > **—— 随时更新，避免失效 ——**
 >
-> 1.  [https://tool.yovisun.com/scihub/](https://tool.yovisun.com/scihub/) #此网站实时更新Sci-Hub可用域名
-> 2.  [https://lovescihub.wordpress.com/](https://lovescihub.wordpress.com/) #此网站实时更新Sci-Hub可用域名
-> 3.  [https://www.ooopn.com/tool/scihub/](https://www.ooopn.com/tool/scihub/) #此网站实时更新Sci-Hub可用域名
-> 4.  [http://sci-hub.fan/](http://sci-hub.fan/) #输入地址自动跳转可用Sci-Hub域名
+> 1.  [https://tool.yovisun.com/scihub/](https://tool.yovisun.com/scihub/) #此网站实时更新 Sci-Hub 可用域名
+> 2.  [https://lovescihub.wordpress.com/](https://lovescihub.wordpress.com/) #此网站实时更新 Sci-Hub 可用域名
+> 3.  [https://www.ooopn.com/tool/scihub/](https://www.ooopn.com/tool/scihub/) #此网站实时更新 Sci-Hub 可用域名
+> 4.  [http://sci-hub.fan/](http://sci-hub.fan/) #输入地址自动跳转可用 Sci-Hub 域名
 > 6.  [https://sci-hub.mksa.top/](https://sci-hub.mksa.top/)
 > 8.  [https://sci-hub.shop/](https://sci-hub.shop/)
 > 9.  [https://sci-hub.st/](https://sci-hub.st/)
@@ -247,7 +247,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 #### 🛠️ 插件功能
 
 +   访问文献网页时，在文献链接后面添加 Sci-hub, libgen 按钮，可以直接跳转到下载页面。
-+   插件支持各大期刊 WOS、Researchgate、Springer、ScienceDirect、Scopus和MDPI等近百种网站。
++   插件支持各大期刊 WOS、Researchgate、Springer、ScienceDirect、Scopus 和 MDPI 等近百种网站。
 +   插件支持谷歌学术、必应学术及百度学术等网站。
 
 #### ⚓ 插件安装
@@ -259,7 +259,7 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 🌐 资源地址：[点击跳转](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
 
-2.  安装 文`献下载助手插件` 脚本
+2.  安装 文 `献下载助手插件` 脚本
 
 🌐资源地址：[点击跳转](https://greasyfork.org/zh-CN/scripts/448015)  
 
@@ -268,15 +268,15 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 > 插件配置可以选择 `Sci-Hub` 和 `Libgen` 的网站
 
 > 打开一个文献网页，比如 [https://www.science.org/doi/full/10.1126/science.1171362](https://www.science.org/doi/full/10.1126/science.1171362)  
-> 等待页面刷新完就会显示`unpaywall`、 `Libgen` 、 `Sci-Hub` 的图标
+> 等待页面刷新完就会显示 `unpaywall`、 `Libgen` 、 `Sci-Hub` 的图标
 
-> 点击·`unpaywall`、`Sci-Hub` 、 `Libgen` 任一图标即可跳转下载页面
+> 点击· `unpaywall`、`Sci-Hub` 、 `Libgen` 任一图标即可跳转下载页面
 
 #### ✔️ 新增文献网站
 
 若此插件没有某文献网站，可通过修改脚本内容来新增，
 
-但不是所有网站都支持识别跳转到`unpaywall`、 `Libgen` 、 `Sci-Hub`免费下载
+但不是所有网站都支持识别跳转到 `unpaywall`、 `Libgen` 、 `Sci-Hub` 免费下载
 
 > 点击浏览器左上角 `油猴脚本管理器` —– `管理面板`
 
@@ -286,17 +286,17 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 > 最后，点击左上角文件保存即可
 
-### 二、EndNote Click插件
+### 二、EndNote Click 插件
 
 🌐 官网：[点击跳转](https://kopernio.com/)
 
-+   一键获取数百万篇研究论文PDF全文
++   一键获取数百万篇研究论文 PDF 全文
 
 #### 🛠️ 插件功能
 
-> ●省去浏览付费专区（paywall）、登录和跳转的时间。EndNote Click可以帮助您更快地获取PDF全文  
-> ●EndNote Click在数千个学术网站上为您提供帮助， 助您获取所需的PDF全文  
-> ● 当您在使用不同的学术搜索引擎时，如 Web of Science、Pubmed和Google Scholar，EndNote Click都能帮您一键获取PDF全文
+> ●省去浏览付费专区（paywall）、登录和跳转的时间。EndNote Click 可以帮助您更快地获取 PDF 全文  
+> ● EndNote Click 在数千个学术网站上为您提供帮助， 助您获取所需的 PDF 全文  
+> ● 当您在使用不同的学术搜索引擎时，如 Web of Science、Pubmed 和 Google Scholar，EndNote Click 都能帮您一键获取 PDF 全文
 
 #### ⚓ 插件安装
 
@@ -310,33 +310,33 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 >
 > 左下角显示 `EndNote` 图标表示正常安装
 
-### 三、SCI RIS下载助手
+### 三、SCI RIS 下载助手
 
-+   一键下载带论文PDF链接的Refman(\*.ris)文件，快速导入EndNote并自动下载关联PDF文件，已适配WOS、Researchgate、Springer、ScienceDirect、Scopus和MDPI等80+种网站
++   一键下载带论文 PDF 链接的 Refman(\*.ris)文件，快速导入 EndNote 并自动下载关联 PDF 文件，已适配 WOS、Researchgate、Springer、ScienceDirect、Scopus 和 MDPI 等 80+种网站
 
-🌐**资源地址**：🧩[开源地址](https://github.com/Doradx/CNKI-PDF-RIS-Helper "GitHub") | 🔽[SCI RIS下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-SCI-RIS-Helper-zh-CN.md "SCI RIS下载助手") | 📝[知网PDF+RIS下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-CNKI-RIS-PDF-Helper-zh-CN.md "知网PDF+RIS下载助手") | 🦸‍♂️[博客](https://blog.cuger.cn/p/63499/ "博客")
+🌐 **资源地址**：🧩 [开源地址](https://github.com/Doradx/CNKI-PDF-RIS-Helper "GitHub") | 🔽 [SCI RIS 下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-SCI-RIS-Helper-zh-CN.md "SCI RIS下载助手") | 📝 [知网 PDF+RIS 下载助手](https://github.com/Doradx/CNKI-PDF-RIS-Helper/blob/master/doc/README-CNKI-RIS-PDF-Helper-zh-CN.md "知网PDF+RIS下载助手") | 🦸‍♂️ [博客](https://blog.cuger.cn/p/63499/ "博客")
 
 #### 🟢 插件简介
 
-本插件支持在下载\*\*\*.ris**文件时自动关联sci-hub中的**pdf**链接，双击**\*.ris**文件将**自动下载pdf并进行关联\*\*！
+本插件支持在下载\*\*\*.ris* *文件时自动关联 sci-hub 中的* *pdf* *链接，双击* *\*.ris **文件将** 自动下载 pdf 并进行关联\*\*！
 
-**再也不用手动将PDF拖进EndNote了！**
+**再也不用手动将 PDF 拖进 EndNote 了！**
 
-安装插件后，网页右下角将显示**圆角矩形图标**，三种颜色和文字代表三种不同状态，状态分别为：
+安装插件后，网页右下角将显示 **圆角矩形图标**，三种颜色和文字代表三种不同状态，状态分别为：
 
-+   **RIS+**: 正常找到**Refman**和**PDF**信息，点击\*\*RIS+\*\*将下载RIS文件，双击即可导入EndNote并\*\*自动关联PDF\*\*。（最理想的工作状态）
-+   **RIS**: 找到了**Refman**，但未找到**PDF**，点击**RIS**将下载RIS文件，双击即可导入EndNote，但是不会关联PDF。
++   **RIS+**: 正常找到 **Refman** 和 **PDF** 信息，点击\*\* RIS+\*\* 将下载 RIS 文件，双击即可导入 EndNote 并\*\* 自动关联 PDF\*\*。（最理想的工作状态）
++   **RIS**: 找到了 **Refman**，但未找到 **PDF**，点击 **RIS** 将下载 RIS 文件，双击即可导入 EndNote，但是不会关联 PDF。
 +   **NONE**: 啥也没找到，不支持该页面，按钮禁用。
 
 如果在期刊页面未显示上面图标，则表明暂未适配该期刊。作者空闲时随缘更新
 
 #### 🛠️ 插件功能
 
-+   一键下载最全面的Refman(\*.ris)文件
-+   一键导入EndNote, 并自动下载关联pdf
++   一键下载最全面的 Refman(\*.ris)文件
++   一键导入 EndNote, 并自动下载关联 pdf
 +   论文信息全面：URL、论文作者、DOI、期卷号、论文摘要。
-+   优先使用官方通道：优先使用出版商的接口获取Refman(\*.ris)数据和官方PDF链接，若未找到才会调用crosscite和sci-hub数据。
-+   目前已适配80+个网站，理论上只要出现DOI的网站都可进行适配
++   优先使用官方通道：优先使用出版商的接口获取 Refman(\*.ris)数据和官方 PDF 链接，若未找到才会调用 crosscite 和 sci-hub 数据。
++   目前已适配 80+个网站，理论上只要出现 DOI 的网站都可进行适配
 
 #### ⚓ 插件安装
 
@@ -344,24 +344,24 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 > 浏览器建议使用谷歌内核浏览器，或者任一支持油猴脚本管理器的浏览器均可.
 
-**打开：**[油猴脚本](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
+**打开：** [油猴脚本](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
 
-2.  安装`SCI RIS下载助手`插件脚本
+2.  安装 `SCI RIS下载助手` 插件脚本
 
-**打开：**[油猴脚本](https://greasyfork.org/en/scripts/434310-sci-ris-helper-endnote-scihub)
+**打开：** [油猴脚本](https://greasyfork.org/en/scripts/434310-sci-ris-helper-endnote-scihub)
 
 #### 💠 测试使用
 
-> 打开[期刊页面](https://nhess.copernicus.org/articles/13/299/2013/)，查看是否存在图标，下载RIS文件，测试是否能正常导入EndNote并自动关联PDF。
+> 打开 [期刊页面](https://nhess.copernicus.org/articles/13/299/2013/)，查看是否存在图标，下载 RIS 文件，测试是否能正常导入 EndNote 并自动关联 PDF。
 
-**测试：**[点击跳转](https://nhess.copernicus.org/articles/13/299/2013/)
+**测试：** [点击跳转](https://nhess.copernicus.org/articles/13/299/2013/)
 
 ### 四、CAJ 转 PDF 转换器
 
 +   CAJ 转 PDF 转换器（GUI 版本）
 
-🍽️ **支持：**`Windows`、`MacOS`  
-🌐 **官网：**[点击跳转](https://caj2pdf-qt.sainnhe.dev/)  |🚩 **项目：**[开源地址](https://github.com/sainnhe/caj2pdf-qt)  | ⏬ **下载：**[蓝奏云](https://silece.lanzouw.com/iRSIC1giij7a)  
+🍽️ **支持：** `Windows`、`MacOS`  
+🌐 **官网：** [点击跳转](https://caj2pdf-qt.sainnhe.dev/)  |🚩 **项目：** [开源地址](https://github.com/sainnhe/caj2pdf-qt)  | ⏬ **下载：** [蓝奏云](https://silece.lanzouw.com/iRSIC1giij7a)  
 
 ![](https://bib0.com/xc/i/2023/12/04/caj2pdf-qt.png)
 
@@ -369,170 +369,170 @@ Library genesis默认`LibGen（Sci-Tech）`搜索
 
 | **网站**               | **网址**                                     | **简介**                                                   |
 | ---------------------- | -------------------------------------------- | ---------------------------------------------------------- |
-| **谷歌学术**           | 🌐[点击查看](http://www.yaersen.com/x.html)   | 镜像网站导航                                               |
-| **虫部落学术搜索导航** | 🌐[点击查看](https://scholar.chongbuluo.com/) | 虫部落学术搜索导航                                         |
-| **学术资源搜索**       | 🌐[点击查看](https://xueshu.lanfanshu.cn/)    | 学术资源搜索                                               |
-| **熊猫学术**           | 🌐[点击查看](https://sc.panda321.com/)        | 搜索后可直接一键下载                                       |
-| **深度学术搜索**       | 🌐[点击查看](https://xs.dailyheadlines.cc/)   |                                                            |
-| **学术屋导航**         | 🌐[点击查看](http://sci.xueshuwu.cn/)         | 提供google搜索、sci-hub、以及google学术等常用学术网址      |
-| **科塔学术导航**       | 🌐[点击查看](https://site.sciping.com/)       | 最专业、准确、及时和全面的科研与学术资源导航平台           |
-| **大木虫学术导航**     | 🌐[点击查看](http://www.4243.net/)            | `[需要关注公众号才能访问]` Google学术搜索镜像\_sci-hub网址 |
-| **谷粉学术**           | 🌐[点击查看](https://gfsoso.99lb.net/)        |                                                            |
-| **Google学术搜索**     | 🌐[点击查看](https://ac.scmor.com/)           |                                                            |
-| **文献小镇**           | 🌐[点击查看](http://sci-hub.ac.cn/)           | `[需要关注公众号才能访问]`sci-hub网址\_SCIHUB\_文献小镇    |
-| **文献部落**           | 🌐[点击查看](http://459.org/)                 | `[需要关注公众号才能访问]`一站搞定文献下载 - 谷歌学术      |
+| **谷歌学术**           | 🌐 [点击查看](http://www.yaersen.com/x.html)   | 镜像网站导航                                               |
+| **虫部落学术搜索导航** | 🌐 [点击查看](https://scholar.chongbuluo.com/) | 虫部落学术搜索导航                                         |
+| **学术资源搜索**       | 🌐 [点击查看](https://xueshu.lanfanshu.cn/)    | 学术资源搜索                                               |
+| **熊猫学术**           | 🌐 [点击查看](https://sc.panda321.com/)        | 搜索后可直接一键下载                                       |
+| **深度学术搜索**       | 🌐 [点击查看](https://xs.dailyheadlines.cc/)   |                                                            |
+| **学术屋导航**         | 🌐 [点击查看](http://sci.xueshuwu.cn/)         | 提供 google 搜索、sci-hub、以及 google 学术等常用学术网址      |
+| **科塔学术导航**       | 🌐 [点击查看](https://site.sciping.com/)       | 最专业、准确、及时和全面的科研与学术资源导航平台           |
+| **大木虫学术导航**     | 🌐 [点击查看](http://www.4243.net/)            | `[需要关注公众号才能访问]` Google 学术搜索镜像\_sci-hub 网址 |
+| **谷粉学术**           | 🌐 [点击查看](https://gfsoso.99lb.net/)        |                                                            |
+| **Google 学术搜索**     | 🌐 [点击查看](https://ac.scmor.com/)           |                                                            |
+| **文献小镇**           | 🌐 [点击查看](http://sci-hub.ac.cn/)           | `[需要关注公众号才能访问]` sci-hub 网址\_SCIHUB\_文献小镇    |
+| **文献部落**           | 🌐 [点击查看](http://459.org/)                 | `[需要关注公众号才能访问]` 一站搞定文献下载 - 谷歌学术      |
 
 ## 论文期刊文献
 
 | **网站**| {{< style "width:110px" >}}**网址**{{< /style >}}                                               | **简介**                                                     | **类型** |
 | ---------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | -------- |
-| **英文 DOI检索网站**                           | 🌐[点击查看](https://www.doi.org/)                        | 全球最大的DOI注册机构                                        | **期刊** |
-| **中文 DOI检索网站**                           | 🌐[点击查看](http://www.chinadoi.cn/portal/index.htm)     | 亚洲唯一的DOI注册机构网站，中文论文都经此注册                | **期刊** |
-| **Internet Archive**                           | 🌐[点击查看](https://archive.org/details/GeneralIndex)    |                                                              |          |
-| **臺灣大學學術期刊資料庫**                     | 🌐[点击查看](http://ejournal.press.ntu.edu.tw/main.php)   |                                                              | **期刊** |
-| **CAMBRIDGE**                                  | 🌐[点击查看](https://www.cambridge.org/)                  | 剑桥大学出版社，超过350种期刊接受开放存取                    | **期刊** |
-| **Connected Papers**                           | 🌐[点击查看](https://www.connectedpapers.com/)            | 该免费的数据库囊括了1.8亿多篇学术论文，涉及计算机科学、分子生物学、微生物学和神经科学等多学科领域。[详情](https://xueshu.baidu.com/usercenter/papercheck/news?kind=3&site=wangpanpc) | **论文** |
-| **Sciencedirect**                              | 🌐[点击查看](https://www.sciencedirect.com/)              | 是荷兰一家全球著名的学术期刊出版商，每年出版大量的学术图书和期刊，大部分期刊被SCI、SSCI、EI收录，是世界上公认的高品位学术期刊。Sciencedirect （Elsevier）是医学与其他科学文献出版社之一。爱思唯尔出版2500余种期刊，包括《柳叶刀》 、《四面体》、《细胞》。39000多种电子书籍以及诸多经典参考书如《格雷氏解剖学》等。 | **期刊** |
-| **汉斯开源期刊投稿**                           | 🌐[点击查看](https://www.hanspub.org/)                    | 中文期刊的出版发行, 覆盖以下领域: 数学物理、生命科学、化学材料、地球环境、医药卫生、工程技术、信息通讯、人文社科、经济管理等。支持插件 | **期刊** |
-| **OA期刊**                                     | 🌐[点击查看](https://www.oalib.com/)                      | OALib提供的开源论文超过5,709,776篇，涵盖所有学科。所有文章均可免费下载。[详情](https://www.oalib.com/about.jsp) | **期刊** |
-| **Jurnal Sains & Teknologi Lingkungan (JSTL)** | 🌐[点击查看](https://journal.uii.ac.id/JSTL/index)        | 每年 1 月和 6 月出版两次，是一本发表与环境问题相关的科技领域的科学研究论文和想法的科学期刊。期刊涵盖环境科学与技术的典型学科，如：饮用水处理、废水处理、固废处理、固废管理、清洁生产、大气污染管理、资源回收、水污染、土壤污染等相关领域。 | **期刊** |
-| **开放存取期刊目录（DOAJ）**                   | 🌐[点击查看](https://doaj.org/)                           | 由瑞典隆德大学创建的国际知名学术期刊数据库，也是目前世界上最大的仅收录开放获取期刊的数据库。[详情](https://zhuanlan.zhihu.com/p/491452831) | **期刊** |
-| **Crossref**                                   | 🌐[点击查看](https://www.crossref.org/)                   | 该数据库包含超过 1.2 亿条记录及 API，用户可以通过 torrents 下载。 [详情](https://zhuanlan.zhihu.com/p/379206844) | **期刊** |
-| **PLOS**                                       | 🌐[点击查看](https://plos.org/)                           | 生命科学与医学领域                                           | **论文** |
-| **Engineering Village**                        | 🌐[点击查看](https://www.engineeringvillage.com/)         | 工程为主                                                     | **论文** |
-| **MIT Open Access Articles**                   | 🌐[点击查看](http://dspace.mit.edu/)                      | 麻省理工学院MIT论文                                          | **论文** |
-| **Hindawi出版公司**                            | 🌐[点击查看](https://www.hindawi.com/)                    | 科学、技术和医学                                             | **论文** |
-| **Scientific Research Publishing科研出版社**   | 🌐[点击查看](https://www.scirp.org/)                      | 开源学术期刊                                                 | **期刊** |
-| **日本科学技术信息集成系统**                   | 🌐[点击查看](https://www.jstage.jst.go.jp/)               | 大部分可免费浏览全文                                         | **论文** |
-| **巴西网上科技电子图书馆**                     | 🌐[点击查看](https://scielo.org/)                         | 农业、植物学、动物学、医学等                                 | **图书** |
-| **Open J-Gate**                                | 🌐[点击查看](https://www.openj-gate.com/)                 | 英语OA期刊                                                   | **期刊** |
-| **The MaxPlanck Society德国马普学会**          | 🌐[点击查看](https://www.mpg.de/en)                       | 材料科学                                                     | **论文** |
-| **BioMedCenter**                               | 🌐[点击查看](https://www.biomedcentral.com/)              | 生物医学                                                     | **论文** |
-| **JSTOR**                                      | 🌐[点击查看](https://www.jstor.org/)                      | 人文社会科学                                                 | **论文** |
-| **OpenCitations**                              | 🌐[点击查看](https://opencitations.net/corpus)            | 这个免费开放的数据库提供了互引论文的相关信息                 | **论文** |
-| **SciMagojr**                                  | 🌐[点击查看](https://www.scimagojr.com/)                  | 这是一个免费访问的数据库，提供了科学期刊论文相关的内容       | **期刊** |
-| **Scopus**                                     | 🌐[点击查看](https://www.scopus.com/sources)              | 数据库虽然不是免费的，但有免费访问的科学期刊信息表，用户在注册后可以下载 | **论文** |
-| **Science Translational Medicine**             | 🌐[点击查看](https://www.science.org/journal/stm)         | 每周在线期刊，发表科学、工程和医学交叉领域的转化研究         | **期刊** |
-| **IEEE Xplore**                                | 🌐[点击查看](https://ieeexplore.ieee.org/Xplore/home.jsp) | 一个学术文献数据库，主要提供计算机科学、电机工程学和电子学等相关领域文献的索引、摘要以及全文下载服务 | **论文** |
-| **National library of medicine**               | 🌐[点击查看](https://www.ncbi.nlm.nih.gov/)               | 美国国家医学图书馆                                           | **图书** |
-| **免费论文下载中心**                           | 🌐[点击查看](http://www.hi138.com/)                       | 为您提供各行业论文下载                                       | **论文** |
-| **云端学术资源**                               | 🌐[点击查看](https://www.academic-res.com/)               | `【付费网站】`9.9元使用中国知网、万方数据、维普资讯、读秀资源、超星图书、国研数据、龙源期刊、博看杂志等资源 30天 |          |
-| **80图书馆**                                   | 🌐[点击查看](http://www.80lib.com/)                       | `【付费网站】`80图书馆不仅仅集成了各类中文资源、Web of Science、ScienceDirect、SpringerLink、IEEE、Pubmed、Embase、Reaxys、OVID、Scopus、ProQuest、Wiley等数百个国内外顶级科研文献数据库，更集成了50+所国内外名校图书馆，包括多所世界TOP10名校 | **论文** |
-| **在线学术期刊免费全文库**                     | 🌐[点击查看](http://www.paper.edu.cn/journal/index.shtml) | 国内唯一免费全文期刊库，由中华人民共和国教育部主管，中国科技论文在线发起，期刊上网工程历时多年，得到广大学术期刊的支持，目前已收录近千家科技期刊、逾130万篇各领域科技论文全文，全部提供给广大科研工作者及爱好者进行免费下载 | **期刊** |
-| **浙江图书馆**                                 | 🌐[点击查看](https://www.zjlib.cn/)                       | 使用浙江图书馆可以下载知网/万方/维普等数                     |          |
-| **国家哲学社会科学文献中心**                   | 🌐[点击查看](http://www.ncpssd.org/index.aspx)            | 共2048种期刊，上线文献数据超过1000万条。最主要的是文献很多，而且也比较新，很多19年、20年的都可以免费下载。注册稍微繁琐了点，其它都非常好，如果要下载或者阅读全文是必须登录。成功登录以后，直接在首页检索文献 |          |
-| **国家自然科学基金基础研究知识库**             | 🌐[点击查看](https://ir.nsfc.gov.cn/)                     | 中英文都有                                                   | **期刊** |
-| **cnpLINKer中国图书进出口(集团)总公司**        | 🌐[点击查看](http://cnplinker.cnpeak.com/)                | Cnpiec LINK service一个方便快捷的查阅国外各类期刊文献的综合网络平台， | **期刊** |
-| **NSTL国家科技图书文献中心**                   | 🌐[点击查看](http://oar.nstl.gov.cn/)                     |                                                              | **期刊** |
-| **国家哲学社会科学学术期刊数据库**             | 🌐[点击查看](http://www.nssd.org/)                        | 实名注册，免费下载。每天有下载上限                           | **期刊** |
-| **idata**                                      | 🌐[点击查看](https://www.cn-ki.net/)                      | 注册账号，每天免费下载2-5篇知网论文                          | **论文** |
+| **英文 DOI 检索网站**                           | 🌐 [点击查看](https://www.doi.org/)                        | 全球最大的 DOI 注册机构                                        | **期刊** |
+| **中文 DOI 检索网站**                           | 🌐 [点击查看](http://www.chinadoi.cn/portal/index.htm)     | 亚洲唯一的 DOI 注册机构网站，中文论文都经此注册                | **期刊** |
+| **Internet Archive**                           | 🌐 [点击查看](https://archive.org/details/GeneralIndex)    |                                                              |          |
+| **臺灣大學學術期刊資料庫**                     | 🌐 [点击查看](http://ejournal.press.ntu.edu.tw/main.php)   |                                                              | **期刊** |
+| **CAMBRIDGE**                                  | 🌐 [点击查看](https://www.cambridge.org/)                  | 剑桥大学出版社，超过 350 种期刊接受开放存取                    | **期刊** |
+| **Connected Papers**                           | 🌐 [点击查看](https://www.connectedpapers.com/)            | 该免费的数据库囊括了 1.8 亿多篇学术论文，涉及计算机科学、分子生物学、微生物学和神经科学等多学科领域。[详情](https://xueshu.baidu.com/usercenter/papercheck/news?kind=3&site=wangpanpc) | **论文** |
+| **Sciencedirect**                              | 🌐 [点击查看](https://www.sciencedirect.com/)              | 是荷兰一家全球著名的学术期刊出版商，每年出版大量的学术图书和期刊，大部分期刊被 SCI、SSCI、EI 收录，是世界上公认的高品位学术期刊。Sciencedirect （Elsevier）是医学与其他科学文献出版社之一。爱思唯尔出版 2500 余种期刊，包括《柳叶刀》 、《四面体》、《细胞》。39000 多种电子书籍以及诸多经典参考书如《格雷氏解剖学》等。 | **期刊** |
+| **汉斯开源期刊投稿**                           | 🌐 [点击查看](https://www.hanspub.org/)                    | 中文期刊的出版发行, 覆盖以下领域: 数学物理、生命科学、化学材料、地球环境、医药卫生、工程技术、信息通讯、人文社科、经济管理等。支持插件 | **期刊** |
+| **OA 期刊**                                     | 🌐 [点击查看](https://www.oalib.com/)                      | OALib 提供的开源论文超过 5,709,776 篇，涵盖所有学科。所有文章均可免费下载。[详情](https://www.oalib.com/about.jsp) | **期刊** |
+| **Jurnal Sains & Teknologi Lingkungan (JSTL)** | 🌐 [点击查看](https://journal.uii.ac.id/JSTL/index)        | 每年 1 月和 6 月出版两次，是一本发表与环境问题相关的科技领域的科学研究论文和想法的科学期刊。期刊涵盖环境科学与技术的典型学科，如：饮用水处理、废水处理、固废处理、固废管理、清洁生产、大气污染管理、资源回收、水污染、土壤污染等相关领域。 | **期刊** |
+| **开放存取期刊目录（DOAJ）**                   | 🌐 [点击查看](https://doaj.org/)                           | 由瑞典隆德大学创建的国际知名学术期刊数据库，也是目前世界上最大的仅收录开放获取期刊的数据库。[详情](https://zhuanlan.zhihu.com/p/491452831) | **期刊** |
+| **Crossref**                                   | 🌐 [点击查看](https://www.crossref.org/)                   | 该数据库包含超过 1.2 亿条记录及 API，用户可以通过 torrents 下载。 [详情](https://zhuanlan.zhihu.com/p/379206844) | **期刊** |
+| **PLOS**                                       | 🌐 [点击查看](https://plos.org/)                           | 生命科学与医学领域                                           | **论文** |
+| **Engineering Village**                        | 🌐 [点击查看](https://www.engineeringvillage.com/)         | 工程为主                                                     | **论文** |
+| **MIT Open Access Articles**                   | 🌐 [点击查看](http://dspace.mit.edu/)                      | 麻省理工学院 MIT 论文                                          | **论文** |
+| **Hindawi 出版公司**                            | 🌐 [点击查看](https://www.hindawi.com/)                    | 科学、技术和医学                                             | **论文** |
+| **Scientific Research Publishing 科研出版社**   | 🌐 [点击查看](https://www.scirp.org/)                      | 开源学术期刊                                                 | **期刊** |
+| **日本科学技术信息集成系统**                   | 🌐 [点击查看](https://www.jstage.jst.go.jp/)               | 大部分可免费浏览全文                                         | **论文** |
+| **巴西网上科技电子图书馆**                     | 🌐 [点击查看](https://scielo.org/)                         | 农业、植物学、动物学、医学等                                 | **图书** |
+| **Open J-Gate**                                | 🌐 [点击查看](https://www.openj-gate.com/)                 | 英语 OA 期刊                                                   | **期刊** |
+| **The MaxPlanck Society 德国马普学会**          | 🌐 [点击查看](https://www.mpg.de/en)                       | 材料科学                                                     | **论文** |
+| **BioMedCenter**                               | 🌐 [点击查看](https://www.biomedcentral.com/)              | 生物医学                                                     | **论文** |
+| **JSTOR**                                      | 🌐 [点击查看](https://www.jstor.org/)                      | 人文社会科学                                                 | **论文** |
+| **OpenCitations**                              | 🌐 [点击查看](https://opencitations.net/corpus)            | 这个免费开放的数据库提供了互引论文的相关信息                 | **论文** |
+| **SciMagojr**                                  | 🌐 [点击查看](https://www.scimagojr.com/)                  | 这是一个免费访问的数据库，提供了科学期刊论文相关的内容       | **期刊** |
+| **Scopus**                                     | 🌐 [点击查看](https://www.scopus.com/sources)              | 数据库虽然不是免费的，但有免费访问的科学期刊信息表，用户在注册后可以下载 | **论文** |
+| **Science Translational Medicine**             | 🌐 [点击查看](https://www.science.org/journal/stm)         | 每周在线期刊，发表科学、工程和医学交叉领域的转化研究         | **期刊** |
+| **IEEE Xplore**                                | 🌐 [点击查看](https://ieeexplore.ieee.org/Xplore/home.jsp) | 一个学术文献数据库，主要提供计算机科学、电机工程学和电子学等相关领域文献的索引、摘要以及全文下载服务 | **论文** |
+| **National library of medicine**               | 🌐 [点击查看](https://www.ncbi.nlm.nih.gov/)               | 美国国家医学图书馆                                           | **图书** |
+| **免费论文下载中心**                           | 🌐 [点击查看](http://www.hi138.com/)                       | 为您提供各行业论文下载                                       | **论文** |
+| **云端学术资源**                               | 🌐 [点击查看](https://www.academic-res.com/)               | `【付费网站】` 9.9 元使用中国知网、万方数据、维普资讯、读秀资源、超星图书、国研数据、龙源期刊、博看杂志等资源 30 天 |          |
+| **80 图书馆**                                   | 🌐 [点击查看](http://www.80lib.com/)                       | `【付费网站】` 80 图书馆不仅仅集成了各类中文资源、Web of Science、ScienceDirect、SpringerLink、IEEE、Pubmed、Embase、Reaxys、OVID、Scopus、ProQuest、Wiley 等数百个国内外顶级科研文献数据库，更集成了 50+所国内外名校图书馆，包括多所世界 TOP10 名校 | **论文** |
+| **在线学术期刊免费全文库**                     | 🌐 [点击查看](http://www.paper.edu.cn/journal/index.shtml) | 国内唯一免费全文期刊库，由中华人民共和国教育部主管，中国科技论文在线发起，期刊上网工程历时多年，得到广大学术期刊的支持，目前已收录近千家科技期刊、逾 130 万篇各领域科技论文全文，全部提供给广大科研工作者及爱好者进行免费下载 | **期刊** |
+| **浙江图书馆**                                 | 🌐 [点击查看](https://www.zjlib.cn/)                       | 使用浙江图书馆可以下载知网/万方/维普等数                     |          |
+| **国家哲学社会科学文献中心**                   | 🌐 [点击查看](http://www.ncpssd.org/index.aspx)            | 共 2048 种期刊，上线文献数据超过 1000 万条。最主要的是文献很多，而且也比较新，很多 19 年、20 年的都可以免费下载。注册稍微繁琐了点，其它都非常好，如果要下载或者阅读全文是必须登录。成功登录以后，直接在首页检索文献 |          |
+| **国家自然科学基金基础研究知识库**             | 🌐 [点击查看](https://ir.nsfc.gov.cn/)                     | 中英文都有                                                   | **期刊** |
+| **cnpLINKer 中国图书进出口(集团)总公司**        | 🌐 [点击查看](http://cnplinker.cnpeak.com/)                | Cnpiec LINK service 一个方便快捷的查阅国外各类期刊文献的综合网络平台， | **期刊** |
+| **NSTL 国家科技图书文献中心**                   | 🌐 [点击查看](http://oar.nstl.gov.cn/)                     |                                                              | **期刊** |
+| **国家哲学社会科学学术期刊数据库**             | 🌐 [点击查看](http://www.nssd.org/)                        | 实名注册，免费下载。每天有下载上限                           | **期刊** |
+| **idata**                                      | 🌐 [点击查看](https://www.cn-ki.net/)                      | 注册账号，每天免费下载 2-5 篇知网论文                          | **论文** |
 
 ## 电子书搜索导航
 
 | **网站**                   | **网址**                                      |
 | -------------------------- | --------------------------------------------- |
-| **虫部落电子书搜索导航**   | 🌐[点击查看](https://www.giffox.com/)          |
-| **小鲸鱼搜书**             | 🌐[点击查看](http://www.9871.org/)             |
-| **书易电子书下载阅读导航** | 🌐[点击查看](https://shuyi.shenmezhidedu.com/) |
-| **熊猫搜书**               | 🌐[点击查看](https://xmsoushu.com/#/)          |
-| **资源帝电子书导航**       | 🌐[点击查看](http://shu.ziyuandi.cn/)          |
-| **鸠摩搜索文档搜索引擎**   | 🌐[点击查看](https://www.jiumodiary.com/)      |
+| **虫部落电子书搜索导航**   | 🌐 [点击查看](https://www.giffox.com/)          |
+| **小鲸鱼搜书**             | 🌐 [点击查看](http://www.9871.org/)             |
+| **书易电子书下载阅读导航** | 🌐 [点击查看](https://shuyi.shenmezhidedu.com/) |
+| **熊猫搜书**               | 🌐 [点击查看](https://xmsoushu.com/#/)          |
+| **资源帝电子书导航**       | 🌐 [点击查看](http://shu.ziyuandi.cn/)          |
+| **鸠摩搜索文档搜索引擎**   | 🌐 [点击查看](https://www.jiumodiary.com/)      |
 
 ## 中文 - 找书网站
 
 | **名称**                    | **简介**                                                     | {{< style "width:110px" >}}**网址**{{< /style >}}            | **免费下载** |
 | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
-| **中文马克思主义文库**      | 传播马克思主义和共产主义的文库                               | 🌐[点击查看](https://www.marxists.org/chinese/maozedong/index.htm) | ✅            |
-| **资源分享站**              | 各种电子书，比较杂乱                                         | 🌐[点击查看](https://94fbr.net/)                              | ✅            |
-| **台大学术期刊数据库**      | 台大学术期刊数据库                                           | 🌐[点击查看](http://ejournal.press.ntu.edu.tw/main.php)       | ✅            |
-| **搬书匠**                  | 提供计算机书籍为主                                           | 🌐[点击查看](http://www.banshujiang.cn/)                      | ✅            |
-| **Kindle 字典下载**         | 英汉，英英，汉语，小语种，等字典下载                         | 🌐[点击查看](https://bookfere.com/dict#KDict2_1)              | ✅            |
-| **码农书籍网**              | 计算机编程书籍下载                                           | 🌐[点击查看](https://www.manongbook.com/)                     | ✅            |
-| **力哥爱英语**              | 英语书籍，需要先关注公众号回复关键词获取下载地址             | 🌐[点击查看](https://ienglish521.com/)                        | ⛔            |
-| **SaltTiger**               | 每天一本编程书                                               | 🌐[点击查看](https://salttiger.com/)                          | ✅            |
-| **中国哲学书电子化计划**    | 一个线上开放电子图书馆，为中外学者提供中国历代传世文献       | 🌐[点击查看](https://ctext.org/zhs)                           | ✅            |
-| **高教书苑**                | 高等教育出版社3000册教材在线浏览                             | 🌐[点击查看](https://ebook.hep.com.cn/ebooks/index.html#/)    | ✅            |
-| **53BK报刊网**              | 电子报大全和期刊杂志电子版在线阅读                           | 🌐[点击查看](http://www.53bk.com/baokan/)                     | ✅            |
-| **LoreFree**                | 免费电子书共享社区                                           | 🌐[点击查看](https://ebook2.lorefree.com/)                    | ✅            |
-| **淘链客**                  | 会跳转到第三方网站下载，注意识别正确下载地址                 | 🌐[点击查看](https://www.toplinks.cc/s/)                      | 🔰            |
-| **慧眼看**                  | PDF电子书下载                                                | 🌐[点击查看](http://www.huiyankan.com/)                       | ✅            |
-| **PDF之家**                 | 免费高清PDF电子书下载                                        | 🌐[点击查看](http://pdfzj.cn/)                                | ✅            |
-| **书栈网**                  | 程序员IT互联网开源编程书籍，下载需要注册并且有限制           | 🌐[点击查看](https://www.bookstack.cn/)                       | ⛔            |
-| **脚本之家**                | 计算机免费书籍，注意识别正确下载地址                         | 🌐[点击查看](https://www.jb51.net/books/)                     | 🔰            |
-| **srtsg.com**               | 优质的kindle电子书资源免费下载网站                           | 🌐[点击查看](http://srtsg.com/)                               | ✅            |
-| **中国古籍保护网**          | “中华古籍资源库”是“中华古籍保护计划”的重要成果。2016年9月28日，“中华古籍资源库”正式开通运行，陆续发布国家图书馆藏善本和普通古籍、法国国家图书馆藏敦煌遗书、天津图书馆藏普通古籍、日本永青文库捐赠汉籍、云南省图书馆善本古籍、芷兰斋藏稿抄校本等古籍影像资源，总量超过3.3万部。 | 🌐[点击查看](http://www.nlc.cn/pcab/zy/zhgj_zyk/?utm_source=appinn.com) | ✅            |
-| **国立公文書館 / 内阁文库** | 内阁文库是日本一所收藏汉、 日文古籍的专门图书馆。藏书总量为54万册，其中日文书31万多册、汉籍18万多册、西文书4.5万多册。详见内阁文库。`注：`均可免费下载，且高清，值得推荐 | 🌐[点击查看](https://www.digital.archives.go.jp/)             | ✅            |
-| **bk.hallowlib**            | 下载中文书籍                                                 | 🌐[点击查看](https://bk.hallowlib.org/)                       | ✅            |
+| **中文马克思主义文库**      | 传播马克思主义和共产主义的文库                               | 🌐 [点击查看](https://www.marxists.org/chinese/maozedong/index.htm) | ✅            |
+| **资源分享站**              | 各种电子书，比较杂乱                                         | 🌐 [点击查看](https://94fbr.net/)                              | ✅            |
+| **台大学术期刊数据库**      | 台大学术期刊数据库                                           | 🌐 [点击查看](http://ejournal.press.ntu.edu.tw/main.php)       | ✅            |
+| **搬书匠**                  | 提供计算机书籍为主                                           | 🌐 [点击查看](http://www.banshujiang.cn/)                      | ✅            |
+| **Kindle 字典下载**         | 英汉，英英，汉语，小语种，等字典下载                         | 🌐 [点击查看](https://bookfere.com/dict#KDict2_1)              | ✅            |
+| **码农书籍网**              | 计算机编程书籍下载                                           | 🌐 [点击查看](https://www.manongbook.com/)                     | ✅            |
+| **力哥爱英语**              | 英语书籍，需要先关注公众号回复关键词获取下载地址             | 🌐 [点击查看](https://ienglish521.com/)                        | ⛔            |
+| **SaltTiger**               | 每天一本编程书                                               | 🌐 [点击查看](https://salttiger.com/)                          | ✅            |
+| **中国哲学书电子化计划**    | 一个线上开放电子图书馆，为中外学者提供中国历代传世文献       | 🌐 [点击查看](https://ctext.org/zhs)                           | ✅            |
+| **高教书苑**                | 高等教育出版社 3000 册教材在线浏览                             | 🌐 [点击查看](https://ebook.hep.com.cn/ebooks/index.html#/)    | ✅            |
+| **53BK 报刊网**              | 电子报大全和期刊杂志电子版在线阅读                           | 🌐 [点击查看](http://www.53bk.com/baokan/)                     | ✅            |
+| **LoreFree**                | 免费电子书共享社区                                           | 🌐 [点击查看](https://ebook2.lorefree.com/)                    | ✅            |
+| **淘链客**                  | 会跳转到第三方网站下载，注意识别正确下载地址                 | 🌐 [点击查看](https://www.toplinks.cc/s/)                      | 🔰            |
+| **慧眼看**                  | PDF 电子书下载                                                | 🌐 [点击查看](http://www.huiyankan.com/)                       | ✅            |
+| **PDF 之家**                 | 免费高清 PDF 电子书下载                                        | 🌐 [点击查看](http://pdfzj.cn/)                                | ✅            |
+| **书栈网**                  | 程序员 IT 互联网开源编程书籍，下载需要注册并且有限制           | 🌐 [点击查看](https://www.bookstack.cn/)                       | ⛔            |
+| **脚本之家**                | 计算机免费书籍，注意识别正确下载地址                         | 🌐 [点击查看](https://www.jb51.net/books/)                     | 🔰            |
+| **srtsg.com**               | 优质的 kindle 电子书资源免费下载网站                           | 🌐 [点击查看](http://srtsg.com/)                               | ✅            |
+| **中国古籍保护网**          | “中华古籍资源库”是“中华古籍保护计划”的重要成果。2016 年 9 月 28 日，“中华古籍资源库”正式开通运行，陆续发布国家图书馆藏善本和普通古籍、法国国家图书馆藏敦煌遗书、天津图书馆藏普通古籍、日本永青文库捐赠汉籍、云南省图书馆善本古籍、芷兰斋藏稿抄校本等古籍影像资源，总量超过 3.3 万部。 | 🌐 [点击查看](http://www.nlc.cn/pcab/zy/zhgj_zyk/?utm_source=appinn.com) | ✅            |
+| **国立公文書館 / 内阁文库** | 内阁文库是日本一所收藏汉、 日文古籍的专门图书馆。藏书总量为 54 万册，其中日文书 31 万多册、汉籍 18 万多册、西文书 4.5 万多册。详见内阁文库。`注：` 均可免费下载，且高清，值得推荐 | 🌐 [点击查看](https://www.digital.archives.go.jp/)             | ✅            |
+| **bk.hallowlib**            | 下载中文书籍                                                 | 🌐 [点击查看](https://bk.hallowlib.org/)                       | ✅            |
 
 ## 外文 - 找书网站
 
-| **名称**                         | **简介**                                                     | **{{< style "width:110px" >}}**网址**{{< /style >}}**        |
+| **名称**                         | **简介**                                                     | **{{< style "width:110px" >}}** 网址 **{{< /style >}}**        |
 | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **PDF drive**                    | 国外免费的PDF电子书网站，有很多电子书。                      | 🌐[点击查看](https://www.pdfdrive.com/)                       |
-| **Internet Archive**             | 一个包含数百万免费书籍、电影、软件、音乐、网站等的非营利性图书馆 | 🌐[点击查看](https://archive.org/)                            |
-| **Project Gutenberg**            | 古登堡计划一个以自由的和电子化的形式，基于互联网，大量提供版权过期而进入公有领域书籍的一项协作计划 | 🌐[点击查看](http://www.gutenberg.org/)                       |
-| **magazinelib**                  | 无需注册下载全球上万本杂志期刊                               | 🌐[点击查看](https://magazinelib.com/)                        |
-| **OAPEN**                        | 一项由阿姆斯特丹大学搭建的庞大数据库，主要收集的是欧陆资料   | 🌐[点击查看](https://oapen.org/)                              |
-| **British Library blogs**        | 不列颠图书馆搭建的共享资料网站                               | 🌐[点击查看](http://www.bl.uk/blogs)                          |
-| **epdf**                         | 名副其实的国际性图书馆，英文、法文、俄文、西班牙文……一应俱全。号称提供了世界上最多的电子文档 | 🌐[点击查看](https://epdf.pub/)                               |
-| **forgottenbooks**               | 一个外文电子书网站，目前有1271515本书可供在线阅读            | 🌐[点击查看](https://www.forgottenbooks.com/en)               |
-| **The Met**                      | 可在线阅读或下载艺术、文化、历史等书籍，目前有600多册，大多为pdf格式。 | 🌐[点击查看](https://www.metmuseum.org/art/metpublications/)  |
-| **freebookcentre**               | 免费下载技术类书籍，包括计算机科学、编程、移动技术、物理学、医学等类型。 | 🌐[点击查看](http://www.freebookcentre.net/CompuScience/compscCategory.html) |
-| **digilibraries**                | 免费下载，下载时候会有弹窗广告，关闭即可                     | 🌐[点击查看](https://digilibraries.com/)                      |
-| **pdfcookie**                    |                                                              | 🌐[点击查看](https://pdfcookie.com/)                          |
-| **D-PDF**                        |                                                              | 🌐[点击查看](https://d-pdf.com/)                              |
-| **YesPDF**                       |                                                              | 🌐[点击查看](https://yes-pdf.com/)                            |
-| **Z-ePub**                       |                                                              | 🌐[点击查看](https://www.z-epub.com/)                         |
-| **OiiPDF**                       |                                                              | 🌐[点击查看](https://oiipdf.com/)                             |
-| **VODC**                         |                                                              | 🌐[点击查看](https://vdoc.pub/)                               |
-| **National library of medicine** | 美国国家医学图书馆                                           | 🌐[点击查看](https://www.ncbi.nlm.nih.gov/)                   |
-| **dirzon**                       | 免费下载文档和有声读物                                       | 🌐[点击查看](https://www.dirzon.com/)                         |
-| **Docero.tips**                  | PDF和电子书共享社区                                          | 🌐[点击查看](https://docero.tips/)                            |
-| **PDFCOFFEE**                    | 我们的网站使您可以轻松找到有助于备考的书籍、完整的报告和研究论文，以及各个领域的自学书籍。Web 资源的教育图书馆包含数以千计的各种学术科目的培训手册、文章和书籍。 | 🌐[点击查看](https://pdfcoffee.com/)                          |
-| **Academia**                     | 一个分享学术研究的平台。学术界已上传 4000 万篇论文，每月有 9500 万学者、专业人士和学生阅读学术界的论文 | 🌐[点击查看](https://www.academia.edu/)                       |
-| **DocerArgentina**               | 访问数以千万计的免费文档                                     | 🌐[点击查看](https://docer.com.ar/)                           |
-| **PDFSLIDE**                     | 通过演示文稿、信息图表、文档等分享您所了解和喜爱的内容       | 🌐[点击查看](https://pdfslide.net/)                           |
-| **a2zstudiovn**                  | 法语教科书教材文档-下载前可看链接里面的视频下载教程          | 🌐[点击查看](https://a2zstudiovn.com/category/chia-se-tai-nguyen/tai-lieu-tieng-phap/) |
-| **ac-fle.ru**                    | 学习和教授法语的资源                                         | 🌐[点击查看](https://www.ac-fle.ru/ru/)                       |
+| **PDF drive**                    | 国外免费的 PDF 电子书网站，有很多电子书。                      | 🌐 [点击查看](https://www.pdfdrive.com/)                       |
+| **Internet Archive**             | 一个包含数百万免费书籍、电影、软件、音乐、网站等的非营利性图书馆 | 🌐 [点击查看](https://archive.org/)                            |
+| **Project Gutenberg**            | 古登堡计划一个以自由的和电子化的形式，基于互联网，大量提供版权过期而进入公有领域书籍的一项协作计划 | 🌐 [点击查看](http://www.gutenberg.org/)                       |
+| **magazinelib**                  | 无需注册下载全球上万本杂志期刊                               | 🌐 [点击查看](https://magazinelib.com/)                        |
+| **OAPEN**                        | 一项由阿姆斯特丹大学搭建的庞大数据库，主要收集的是欧陆资料   | 🌐 [点击查看](https://oapen.org/)                              |
+| **British Library blogs**        | 不列颠图书馆搭建的共享资料网站                               | 🌐 [点击查看](http://www.bl.uk/blogs)                          |
+| **epdf**                         | 名副其实的国际性图书馆，英文、法文、俄文、西班牙文……一应俱全。号称提供了世界上最多的电子文档 | 🌐 [点击查看](https://epdf.pub/)                               |
+| **forgottenbooks**               | 一个外文电子书网站，目前有 1271515 本书可供在线阅读            | 🌐 [点击查看](https://www.forgottenbooks.com/en)               |
+| **The Met**                      | 可在线阅读或下载艺术、文化、历史等书籍，目前有 600 多册，大多为 pdf 格式。 | 🌐 [点击查看](https://www.metmuseum.org/art/metpublications/)  |
+| **freebookcentre**               | 免费下载技术类书籍，包括计算机科学、编程、移动技术、物理学、医学等类型。 | 🌐 [点击查看](http://www.freebookcentre.net/CompuScience/compscCategory.html) |
+| **digilibraries**                | 免费下载，下载时候会有弹窗广告，关闭即可                     | 🌐 [点击查看](https://digilibraries.com/)                      |
+| **pdfcookie**                    |                                                              | 🌐 [点击查看](https://pdfcookie.com/)                          |
+| **D-PDF**                        |                                                              | 🌐 [点击查看](https://d-pdf.com/)                              |
+| **YesPDF**                       |                                                              | 🌐 [点击查看](https://yes-pdf.com/)                            |
+| **Z-ePub**                       |                                                              | 🌐 [点击查看](https://www.z-epub.com/)                         |
+| **OiiPDF**                       |                                                              | 🌐 [点击查看](https://oiipdf.com/)                             |
+| **VODC**                         |                                                              | 🌐 [点击查看](https://vdoc.pub/)                               |
+| **National library of medicine** | 美国国家医学图书馆                                           | 🌐 [点击查看](https://www.ncbi.nlm.nih.gov/)                   |
+| **dirzon**                       | 免费下载文档和有声读物                                       | 🌐 [点击查看](https://www.dirzon.com/)                         |
+| **Docero.tips**                  | PDF 和电子书共享社区                                          | 🌐 [点击查看](https://docero.tips/)                            |
+| **PDFCOFFEE**                    | 我们的网站使您可以轻松找到有助于备考的书籍、完整的报告和研究论文，以及各个领域的自学书籍。Web 资源的教育图书馆包含数以千计的各种学术科目的培训手册、文章和书籍。 | 🌐 [点击查看](https://pdfcoffee.com/)                          |
+| **Academia**                     | 一个分享学术研究的平台。学术界已上传 4000 万篇论文，每月有 9500 万学者、专业人士和学生阅读学术界的论文 | 🌐 [点击查看](https://www.academia.edu/)                       |
+| **DocerArgentina**               | 访问数以千万计的免费文档                                     | 🌐 [点击查看](https://docer.com.ar/)                           |
+| **PDFSLIDE**                     | 通过演示文稿、信息图表、文档等分享您所了解和喜爱的内容       | 🌐 [点击查看](https://pdfslide.net/)                           |
+| **a2zstudiovn**                  | 法语教科书教材文档-下载前可看链接里面的视频下载教程          | 🌐 [点击查看](https://a2zstudiovn.com/category/chia-se-tai-nguyen/tai-lieu-tieng-phap/) |
+| **ac-fle.ru**                    | 学习和教授法语的资源                                         | 🌐 [点击查看](https://www.ac-fle.ru/ru/)                       |
 
 ## 小说网站
 
 | **名称**             | **网址**                                     | **备注**                 |
 | -------------------- | -------------------------------------------- | ------------------------ |
-| **网络小说搜索引擎** | 🌐[点击查看](https://www.owlook.com.cn/)      |                          |
-| **可阅文学网**       | 🌐[点击查看](https://kepub.net/)              |                          |
-| **liulangcat**       | 🌐[点击查看](http://liulangcat.com/index.php) |                          |
-| **知轩藏书**         | 🌐[点击查看](http://www.zxcs.me/)             |                          |
-| **sf-encyclopedia**  | 🌐[点击查看](https://sf-encyclopedia.com/)    | 科幻小说的百科全书式网站 |
-| **渣渣小说网**       | 🌐[点击查看](https://www.zztxt.net/)          |                          |
-| **2k小说**           | 🌐[点击查看](https://www.2kxs.org/)           |                          |
-| **亲亲小说网**       | 🌐[点击查看](https://www.qinqinxiaoshuo.com/) |                          |
-| **贼吧网**           | 🌐[点击查看](https://www.zei8.vip/)           |                          |
-| **精校全本**         | 🌐[点击查看](https://noveless.com/)           |                          |
-| **免费小说网**       | 🌐[点击查看](http://www.12z.cn/index.html)    |                          |
-| **精校吧**           | 🌐[点击查看](https://www.jingjiaoba.com/)     |                          |
-| **虚阁上**           | 🌐[点击查看](https://www.xuges.com/)          |                          |
+| **网络小说搜索引擎** | 🌐 [点击查看](https://www.owlook.com.cn/)      |                          |
+| **可阅文学网**       | 🌐 [点击查看](https://kepub.net/)              |                          |
+| **liulangcat**       | 🌐 [点击查看](http://liulangcat.com/index.php) |                          |
+| **知轩藏书**         | 🌐 [点击查看](http://www.zxcs.me/)             |                          |
+| **sf-encyclopedia**  | 🌐 [点击查看](https://sf-encyclopedia.com/)    | 科幻小说的百科全书式网站 |
+| **渣渣小说网**       | 🌐 [点击查看](https://www.zztxt.net/)          |                          |
+| **2k 小说**           | 🌐 [点击查看](https://www.2kxs.org/)           |                          |
+| **亲亲小说网**       | 🌐 [点击查看](https://www.qinqinxiaoshuo.com/) |                          |
+| **贼吧网**           | 🌐 [点击查看](https://www.zei8.vip/)           |                          |
+| **精校全本**         | 🌐 [点击查看](https://noveless.com/)           |                          |
+| **免费小说网**       | 🌐 [点击查看](http://www.12z.cn/index.html)    |                          |
+| **精校吧**           | 🌐 [点击查看](https://www.jingjiaoba.com/)     |                          |
+| **虚阁上**           | 🌐 [点击查看](https://www.xuges.com/)          |                          |
 
 ## 医学类
 
 | **名称**                  | **简介**                                                     | {{< style "width:110px" >}}**网址**{{< /style >}}            |
 | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **默克诊疗手册**          | 默沙东诊疗手册是一个涵盖了医学所有领域成千上万主题的广泛医学信息来源。它们作为免费的公众服务提供给医疗专业人士和普罗大众。 | 🌐[点击查看](https://www.msdmanuals.cn/)                      |
-| **医学百科**              | 一个开放的在线医学百科全书网站                               | 🌐[点击查看](http://www.a-hospital.com/)                      |
-| **FreeBooks4Doctors**     | 拥有369册医学电子书                                          | 🌐[点击查看](http://freebooks4doctors.com/)                   |
-| **Library Genesis**       | 可搜到海量英语医学图书                                       | 🌐[点击查看](http://libgen.io/)                               |
-| **NCBI-Pubmed**           | 很有用的一个医学网站，SCI论文集中地                          | 🌐[点击查看](https://pubmed.ncbi.nlm.nih.gov/)                |
-| **Radiology Masterclass** | 提供专业的医学影像入门知识                                   | 🌐[点击查看](https://www.radiologymasterclass.co.uk/)         |
-| **A Hospital**            | A Hospital 非常系统的中文在线医学网站，涵盖疾病百科、症状百科、药品百科、急救百科等医学和保健知识； | 🌐[点击查看](http://www.a-hospital.com/)                      |
-| **Medical Dictionary**    | 在线医学 #辞典 ，提供非常丰富的专业术语定义，其术语包括医学、生物化学及植物学 | 🌐[点击查看](http://medical-dictionary.thefreedictionary.com/) |
+| **默克诊疗手册**          | 默沙东诊疗手册是一个涵盖了医学所有领域成千上万主题的广泛医学信息来源。它们作为免费的公众服务提供给医疗专业人士和普罗大众。 | 🌐 [点击查看](https://www.msdmanuals.cn/)                      |
+| **医学百科**              | 一个开放的在线医学百科全书网站                               | 🌐 [点击查看](http://www.a-hospital.com/)                      |
+| **FreeBooks4Doctors**     | 拥有 369 册医学电子书                                          | 🌐 [点击查看](http://freebooks4doctors.com/)                   |
+| **Library Genesis**       | 可搜到海量英语医学图书                                       | 🌐 [点击查看](http://libgen.io/)                               |
+| **NCBI-Pubmed**           | 很有用的一个医学网站，SCI 论文集中地                          | 🌐 [点击查看](https://pubmed.ncbi.nlm.nih.gov/)                |
+| **Radiology Masterclass** | 提供专业的医学影像入门知识                                   | 🌐 [点击查看](https://www.radiologymasterclass.co.uk/)         |
+| **A Hospital**            | A Hospital 非常系统的中文在线医学网站，涵盖疾病百科、症状百科、药品百科、急救百科等医学和保健知识； | 🌐 [点击查看](http://www.a-hospital.com/)                      |
+| **Medical Dictionary**    | 在线医学 #辞典 ，提供非常丰富的专业术语定义，其术语包括医学、生物化学及植物学 | 🌐 [点击查看](http://medical-dictionary.thefreedictionary.com/) |
 
-## 玩转PDF系列
+## 玩转 PDF 系列
 
-📃[**pdf资源怎么找**](https://www.pdfdrive.com/)
+📃 [**pdf 资源怎么找**](https://www.pdfdrive.com/)
 
 🌐 资源地址: [点击跳转](https://www.pdfdrive.com/) 
 
-**🀄[中文教材怎么找](https://zj1123581321.com/post/2019-03-25129/)**
+**🀄 [中文教材怎么找](https://zj1123581321.com/post/2019-03-25129/)**
 
 🌐 资源地址: [点击跳转](https://zj1123581321.com/post/2019-03-25129/)
 

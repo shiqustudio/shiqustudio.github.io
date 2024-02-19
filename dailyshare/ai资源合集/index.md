@@ -11,6 +11,45 @@
 
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
+### Chenyme-AAVT
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219161647756.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：一个全自动视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译好的带字幕的视频.
+
+> **项目亮点**
+>
+> - 支持 `faster-whisper` 后端
+> - 支持 `GPU` 加速
+> - 支持 `VAD` 辅助识别
+> - 支持 `ChatGPT`、`KIMI` 翻译
+> - 支持多种语言识别、翻译
+> - 支持多种字幕格式输出
+> - 支持字幕、视频预览
+> - 支持AI总结、问答
+
+🌐 资源地址：📎[开源地址](https://github.com/Chenyme/Chenyme-AAVT?tab=readme-ov-file)
+
+### Glarity
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219161348542.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：Glarity - 用AI总结视频及翻译网页
+
+>适用于总结YouTube视频、Google、Twitter和任何网页的ChatGPT扩展；提供跨语言摘要，轻松总结视频、总结谷歌搜索、总结PDF、总结电子邮件等内容。支持免费的沉浸式翻译，电子邮件写作辅助，AI问答等功能。
+
+🌐 资源地址：📎[官网](https://glarity.app/zh-CN)
+
+### MemoAI
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219161454075.png" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：
+
+>YouTube、播客、本地音频视频轻松转文本、字幕并翻译、合成新的语音，还可以由多种 AI 模型提炼内容精华。
+
+🌐 资源地址：📎[开源地址](https://github.com/Makememo/MemoAI) | 📎[官网](https://memo.ac/zh/)
+
 ### AI 红包封面生成器
 
 {{< image src="https://bib0.com/xc/i/2024/02/01/image-20240201083650253.png" alt="-" title="Fun's images">}}

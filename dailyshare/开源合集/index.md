@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 即时通讯(IM)系统
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/25_im_admin.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：野火IM - 即时通讯(IM)系统
+
+🌐 资源地址：🧩 [开源地址](https://github.com/wildfirechat/im-server)
+
 ### dashdot 
 
 {{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219111744497.png" alt="-" title="Fun's images">}}  

@@ -186,7 +186,14 @@ ZzzFun动漫 [点击查看](http://www.zzzfun.com/)
 樱花动漫 [点击查看](http://www.yinghuacd.com/)  
 AGE动漫 [点击查看](https://www.agefans.vip/)  
 動畫線上看 [点击查看](https://anime1.me/)   
-哈哩哈哩 [点击查看](http://halihali8.xyz/)
+哈哩哈哩 [点击查看](http://halihali8.xyz/)  
+動漫花園資源網 [点击查看](https://share.dmhy.org/)  
+萌番组 [点击查看](https://bangumi.moe/)  
+末日動漫資源庫 [点击查看](https://share.acgnx.se/)  
+Project AcgnX Torrent Global [点击查看](https://www.acgnx.se/)  
+动漫Browse :: Nyaa [点击查看](https://nyaa.si/)
+
+Anime字幕论坛 [点击查看](https://bbs.acgrip.com/)
 
 ### 韩剧网站
 
