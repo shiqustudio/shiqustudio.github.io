@@ -670,6 +670,16 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 
 {{< image src="https://bib0.com/xc/i/2023/11/22/c3123b72eb062d7fdee13e5c9d8866e7770f8698.png" alt="-" title="Fun's images" width="800px">}}
 
+## 其他相关
+
+### 白噪音机
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219113112368.png" alt="-" title="Fun's images" width="800px">}}
+
+👉资源描述：[白噪音机](https://thewhitenoisemachine.com/) --- The White Noise Machine
+
+🌐 资源地址：🌐[点击跳转](https://thewhitenoisemachine.com/)
+
 ### 华丽的 MP3 伴侣
 
 👉自动批量添加『音乐』专辑封面和完整的专辑信息\[Win\]

@@ -9,6 +9,14 @@
 
 {{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130085847582.png" alt="-" title="Fun's images">}} 
 
+⭐️  资源描述：[随机动画](https://bleuje.com/randomanimations/) --- Random Animations
+
+🌐 资源地址：[点击跳转](https://bleuje.com/randomanimations/)
+
+### Snow effect
+
+{{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130085847582.png" alt="-" title="Fun's images">}} 
+
 ⭐️  资源描述：一行代码就可以给你的网站嵌入雪景效果
 
 > `<script src="https://app.embed.im/snow.js" defer></script>`
