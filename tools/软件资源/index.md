@@ -249,7 +249,7 @@
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225110555132.png" alt="-" title="Fun's images">}}  
 
-## 系统在线体验
+## 在线系统
 
 ### Windows 系统
 
@@ -286,6 +286,18 @@
 🔗 资源地址：▶️[在线体验](https://www.onworks.net/os-distributions)
 
 ## 💻操作系统
+
+### XOS
+
+{{< image src="https://bib0.com/xc/i/2023/02/19/image-20240219105851424.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：✖️[XOS](https://github.com/imribiy) - 一个适合日常使用的精简版 Windows 系统 
+
+>📄看了油管上的一些测评，好评还挺多的，其 Discord 频道有一万多人，数量已经算非常庞大了
+>
+>这种精简版的系统一般用于老电脑，我就装了一个此前介绍过的 X-Lite ，体验比原版好很多
+
+🌐 资源地址：[点击跳转](https://github.com/imribiy) | 官方原版：[Windows11](https://drive.google.com/file/d/1f1aGE4TAlQQ7ukb3ZZCZkwKGw-drXcsR) | [Windows10](https://drive.google.com/drive/folders/1sqy8ZDCbh8Uqc-PDHQYm0G17zimp7Ig2) | [「XL镜像ST」汉化修复版](https://www.123pan.com/s/wtY9-4h83A)（提取码:XLST） 
 
 ### Pear OS
 
@@ -410,6 +422,32 @@
 >包括任务栏、右键菜单和文件管理器命令栏等，让你轻松开倒车
 
 🌐 资源地址：🔽[下载地址 ](https://github.com/valinet/ExplorerPatcher/releases) | 📝[说明文档](https://github.com/valinet/ExplorerPatcher/wiki)
+
+## NAS 系统
+
+### Zimaos
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219112113212.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：6️⃣[ZimaOS](https://github.com/IceWhaleTech/zimaos-rauc) - 一个轻量美观的 NAS 系统
+
+>📄[Zimaos](https://github.com/IceWhaleTech/zimaos-rauc) 其实是之前介绍过的 CasaOS 的升级版，新增了远程访问、自动备份，以及磁盘 RAID 功能（支持中文）
+>
+>安装的话可以直接用 Rufus 将镜像写入 U 盘
+
+🌐 资源地址：🧩[开源地址](https://github.com/IceWhaleTech/zimaos-rauc)
+
+### CasaOS
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219112113212.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🫥[CasaOS](https://www.casaos.io/) - 一个基于 Docker 生态的开源个人云系统
+
+>📄 [CasaOS](https://www.casaos.io/) 最大的特色是内置了很多 Docker 应用，并且安装部署也仅需要一条命令，非常适合 NAS 玩家入门；同时它几乎支持所有 Linux 系统、甲骨文 ARM 等
+>
+>界面也美观，足够小白
+
+🌐 资源地址：🧩[开源地址](https://github.com/IceWhaleTech/CasaOS) | 🌐[演示](http://demo.casaos.io/#/)（账密casaos）
 
 ## 镜像资源
 

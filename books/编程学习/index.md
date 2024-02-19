@@ -1,9 +1,24 @@
 # 🐵编程学习
 
 
-💡 整理收集编程相关资源。
+💡 整理收集计算机编程学习等相关资源。
 
 <!--more-->
+
+### 免费计算机书籍汇总
+
+⭐️  资源描述：
+
+>- [一、Web 开发](https://github.com/lTbgykio/Books-Free-Books#一web-开发)
+>- [二、系统管理](https://github.com/lTbgykio/Books-Free-Books#二系统管理)
+>- [三、编程语言](https://github.com/lTbgykio/Books-Free-Books#三编程语言)
+>- [四、数据库](https://github.com/lTbgykio/Books-Free-Books#四数据库)
+>- [五、软件开发](https://github.com/lTbgykio/Books-Free-Books#五软件开发)
+>- [六、人工智能](https://github.com/lTbgykio/Books-Free-Books#六人工智能)
+>- [七、数学理论](https://github.com/lTbgykio/Books-Free-Books#七数学理论)
+>- [八、其他](https://github.com/lTbgykio/Books-Free-Books#八其他)
+
+🌐 资源地址：[点击跳转](https://github.com/lTbgykio/Books-Free-Books)
 
 ### 各知名科技公司技术博客合集
 

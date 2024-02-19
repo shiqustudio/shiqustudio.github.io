@@ -1,9 +1,19 @@
 # 🧩开源资源
 
 
-💡 整理收集优质开源、自动化项目相关资源。[Github 加速](/tools/github加速/) 可优化访问速率
+💡 整理收集优质开源、自动化项目相关资源。[Github 加速](/tools/github加速/) 可优化访问速率，[Github汉化](https://github.com/maboloshi/github-chinese)可方便使用
 
 <!--more-->
+
+### dashdot 
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219111744497.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🎛[dashdot](https://getdashdot.com/) - 一个漂亮的服务器仪表盘 
+
+>📄[dashdot](https://getdashdot.com/) 主要是监控服务器的操作系统、进程、存储、内存、网络状况，支持 Docker 快速部署
+
+🌐 资源地址：🧩 [开源地址](https://github.com/MauriceNino/dashdot) 🌐[演示](https://dash.mauz.dev/) | [官网](https://getdashdot.com/)
 
 ### github-chinese
 
