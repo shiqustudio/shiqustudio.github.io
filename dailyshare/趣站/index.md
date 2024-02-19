@@ -5,9 +5,9 @@
 
 <!--more-->
 
-### Snow effect
+### 随机动画
 
-{{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130085847582.png" alt="-" title="Fun's images">}} 
+{{< image src="https://bib0.com/xc/i/2024/02/19/ezgif-5-76adbc1d11.gif" alt="-" title="Fun's images">}} 
 
 ⭐️  资源描述：[随机动画](https://bleuje.com/randomanimations/) --- Random Animations
 

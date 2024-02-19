@@ -5,6 +5,16 @@
 
 <!--more-->
 
+### Ezgif
+
+{{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219124010196.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  描述：[Ezgif.com](https://ezgif.com/) 是一个简单、免费的在线 GIF 制作工具和用于基本动画图像编辑的工具集。
+
+> 在这里您可以创建、编辑和转换 GIF、APNG、WebP、MNG 和 AVIF 动画。
+
+🌐 资源地址：[点击跳转](https://ezgif.com/)
+
 ### Upscayl
 
 {{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130100902875.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
