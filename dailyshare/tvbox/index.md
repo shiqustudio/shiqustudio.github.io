@@ -236,6 +236,8 @@ TVbox4 1.0.0：[城通](https://url67.ctfile.com/f/14869667-743599010-6bd195?p=k
 📺IPTV电视直播，IPv6源[全网可用]，完善的台标，几近完美的EPG节目预告🎈[强迫症福音]  
 🌐直播源 5：🧩[开源地址](https://github.com/Meroser/IPTV)
 
+📣**IOS推荐搭配软件**：[APTV](https://apps.apple.com/app/id1630403500) | [zFuse](https://apps.apple.com/app/id1009747025) | [Fileball](https://apps.apple.com/app/id1558391784) | [ntPalyer](https://apps.apple.com/app/id1613758141) 
+
 # 网页直播相关
 
 ## 网页直播
