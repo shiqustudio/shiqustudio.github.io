@@ -5,6 +5,20 @@
 
 <!--more-->
 
+### Wave
+
+{{< image src="https://bib0.com/xc/i/2024/02/21/image-20240221083041485.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⌨[Wave](https://github.com/wavetermdev/waveterm) -  一款开源、跨平台的高颜值现代化终端 
+
+>**[Wave](https://github.com/wavetermdev/waveterm)是一个为不习惯使用命令行的人设计的终端**
+>
+>📄[Wave](https://github.com/wavetermdev/waveterm) 最大的特点便是无需离开终端即可预览图片、markdown、CSV 以及 JSON 等文件。还支持保存历史记录、持久会话，随时从断连中恢复
+>
+>在终端输入 /chat 还可以跟 ChatGPT 对话（同时支持 Linux、MacOS）
+
+🌐 资源地址：🧩 [开源地址](https://github.com/wavetermdev/waveterm) | 🌐[官网](https://www.waveterm.dev/) | 📖[文档](https://docs.waveterm.dev/introduction)
+
 ### 即时通讯(IM)系统
 
 {{< image src="https://bib0.com/xc/i/2024/02/19/25_im_admin.png" alt="-" title="Fun's images">}}  

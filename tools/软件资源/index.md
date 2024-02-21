@@ -236,6 +236,20 @@
 >
 > 被屏蔽就换浏览器，打不开就开代理。
 
+#### MIUIROMS
+
+{{< image src="https://bib0.com/xc/i/2024/02/20/image-20240220111631415.png" alt="-" title="Fun's images">}} 
+
+⭐️  资源描述：❤️[MIUIROMS](https://roms.miuier.com/) - 一个非官方的官方 MIUI ROM 下载网站 
+
+>📄MIUIROMS 提供小米全机型的 ROM 下载，新老版本都有。还提供刷机工具下载
+>
+>⚠️刷机有变砖风险！我的猴米K40刷了EU版，感觉还行
+>
+>**🌐 [澎湃OS ROM](https://www.hyperos.fans/)（同开发者）**
+
+🌐 资源地址：[点击跳转](https://roms.miuier.com/)
+
 ### 🟠其他资源
 
 🔵APKTurbo： [点击跳转](https://www.apkturbo.com/)  
@@ -449,6 +463,22 @@
 
 🌐 资源地址：🧩[开源地址](https://github.com/IceWhaleTech/CasaOS) | 🌐[演示](http://demo.casaos.io/#/)（账密casaos）
 
+## 系统美化
+
+### Rectify11
+
+{{< image src="https://bib0.com/xc/i/2024/02/21/image-20240221083309613.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[Rectify11](https://rectify11.net/) - 一个 Windows 11 的 UI 美化工具 
+
+>📄Rectify11 旨在重新设计和修复微软最新操作系统中的 UI 不一致问题，以保持与 Fluent Design 一致
+>
+>整体效果就是更改了一些图标和外观，以及可以添加一些小组件，让 Windows 11 更加好用
+>
+>**下载使用前请先关闭杀毒软件**
+
+🌐 资源地址：🧩 [开源地址](https://github.com/Rectify11/Installer) | ⬇️[下载页面](https://github.com/Rectify11/Installer/releases)
+
 ## 镜像资源
 
 ### MirrorZ Help
@@ -561,8 +591,6 @@
 >🌐 资源地址：[点击跳转](https://www.ventoy.net)  
 >⭐️  资源描述：Rufus - `简洁，开源`  
 >🌐 资源地址：[点击跳转](https://rufus.ie/zh/)
->
->
 
 ### WinPenPack
 
