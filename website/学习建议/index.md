@@ -1,17 +1,9 @@
 # 👨‍🎓学习建议
 
 
-💡 汇集学习建议、考研学习、面试押题、公务员备考等相关资源信息。
+💡 汇集学习建议、考研学习、面试押题等相关资源信息
 
 <!--more-->
-
-### 程序员海外工作/英文面试手册
-
-{{< image src="https://bib0.com/xc/i/2024/02/21/Banner.png" alt="-" title="Fun's images">}}  
-
-⭐️  资源描述：🏂🏻程序员海外工作/英文面试手册，涵盖职位搜索，简历制作，面试准备以及学习资源推荐。
-
-🌐 资源地址：[点击跳转](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
 
 ### LingoHut
 

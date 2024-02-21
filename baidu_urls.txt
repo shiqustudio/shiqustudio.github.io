@@ -74,9 +74,7 @@ https://blog.funvip.live/test/linux-permission/
 https://blog.funvip.live/test/git/
 https://blog.funvip.live/friends/
 https://blog.funvip.live/guestbook/
-https://blog.funvip.live/projects/cos-album/
 https://blog.funvip.live/referto/emoji-support/
 https://blog.funvip.live/referto/%E7%95%99%E5%AD%98%E6%9F%A5%E9%98%85/
 https://blog.funvip.live/referto/about-fixit/
-https://blog.funvip.live/projects/font-mmt/
 https://blog.funvip.live/offline/
