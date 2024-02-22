@@ -82,6 +82,8 @@ mobile-python-armeabi\_v7a.apk：[香港](https://raw.fgit.cf/FongMi/Release/mai
 
 `以下APP可能名字不同，但都是从开源的TVBox修改而来的，一般是点击APP的首页按钮即可切换视频源，不过内置源版容易失效，建议还是用空壳版+视频源`
 
+📌[收集各大AndroidTV的apk应用，可免费看vip和国外电影电视](https://github.com/Archmage83/tvapk)
+
 小苹果他爹 4.4：[蓝奏云](https://silece.lanzouw.com/iG7Ua1j9y1yj)、[118 网盘](https://kyon.118pan.com/b1125940)
 
 毒苹果 BOX 20230601：[蓝奏云](https://silece.lanzouw.com/idQv41j9xura)、[118 网盘](https://kyon.118pan.com/b1125941)
