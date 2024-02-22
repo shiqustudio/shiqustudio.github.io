@@ -1,9 +1,17 @@
 # 🧩开源资源
 
 
-💡 整理收集优质开源、自动化项目相关资源。[Github 加速](/tools/github加速/) 可优化访问速率，[Github汉化](https://github.com/maboloshi/github-chinese)可方便使用
+💡 整理收集优质开源、自动化项目相关资源。[Github 加速](/tools/github加速/) 可优化访问速率，[Github汉化](https://github.com/maboloshi/github-chinese)、[Github排行榜](https://gitstar-ranking.com/)可方便查看使用。
 
 <!--more-->
+
+### GitHub排行榜
+
+{{< image src="https://bib0.com/xc/i/2024/02/22/image-20240222164732502.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：GitHub排行榜
+
+🌐 资源地址：[点击跳转](https://gitstar-ranking.com/)
 
 ### Wave
 
