@@ -167,7 +167,7 @@ https://saucer-man.com/information_security/1038.html
 
 ## 🐤语雀 Markdown 个人文档、图片备份脚本
 
-🧰备份语雀 Markdown 格式文档及图片
+🧰资源名称：备份语雀 Markdown 格式文档及图片
 
 🛠 **使用方式**
 
@@ -176,7 +176,7 @@ https://saucer-man.com/information_security/1038.html
 
 📣代码地址：[点击查看](https://gist.github.com/Aaron-Bird/30a16c162218db4315dfd2d11f5c2f0b)
 
-🧰语雀批量导出/备份工具
+🧰资源名称：语雀批量导出/备份工具
 
 📣代码地址：[点击查看](https://github.com/vannvan/yuque-tools)
 
