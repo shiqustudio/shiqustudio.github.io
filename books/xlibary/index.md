@@ -53,7 +53,7 @@
 >
 >📑相关阅读
 >
->[书籍搜索](/books/书籍搜索/)
+>📚[书籍搜索](/books/书籍搜索/)
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
