@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 简历生成器
+
+{{< image src="https://bib0.com/xc/i/2024/02/23/image-20240223104501176.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：免费开源简历生成器
+
+🌐 资源地址：[点击跳转](https://rxresu.me/)
+
 ### 程序员海外工作/英文面试手册
 
 {{< image src="https://bib0.com/xc/i/2024/02/21/Banner.png" alt="-" title="Fun's images">}}  
