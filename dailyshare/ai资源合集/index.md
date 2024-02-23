@@ -12,6 +12,14 @@
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
 
+### paper-ai
+
+{{< image src="https://bib0.com/xc/i/2024/02/23/photo_2024-02-23_10-58-52.jpg" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：paper-ai使用真实文献让AI完成论文
+
+🌐 资源地址：📎[官网](https://www.paperai.life/zh-CN) |🧩[开源地址](https://github.com/14790897/paper-ai)
+
 ### Chenyme-AAVT
 
 {{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219161647756.png" alt="-" title="Fun's images">}}
@@ -83,7 +91,7 @@
 
 >将人工智能带入 您的桌面 ，开源 ChatGPT 替代方案，可在您的计算机上 100% 离线运行。
 
-🌐 资源地址：[点击跳转](https://jan.ai/) | [开源地址](https://github.com/janhq/jan/releases)
+🌐 资源地址：[点击跳转](https://jan.ai/) | 🧩[开源地址](https://github.com/janhq/jan/releases)
 
 ### Awesome Hands - Control
 
@@ -115,7 +123,7 @@
 >
 >⏺你现在可以用更简单的提示词生成图像了，并且模型对提示词的理解更加智能，甚至可以分清红场（俄罗斯红场）和红场（红色的广场）之间的区别
 
-🌐 资源地址：[点击跳转](https://stability.ai/blog/stable-diffusion-sdxl-1-announcement) | 👉[体验1](https://clipdrop.co/stable-diffusion) | 👉[体验2](https://dreamstudio.ai/) | 🌐[开源地址](https://github.com/Stability-AI/generative-models)
+🌐 资源地址：[点击跳转](https://stability.ai/blog/stable-diffusion-sdxl-1-announcement) | 👉[体验1](https://clipdrop.co/stable-diffusion) | 👉[体验2](https://dreamstudio.ai/) | 🧩[开源地址](https://github.com/Stability-AI/generative-models)
 
 ### Amazing AI
 
