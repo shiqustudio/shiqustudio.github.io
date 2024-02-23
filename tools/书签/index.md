@@ -45,6 +45,16 @@
 
 🌐 资源地址：[书签地球](https://www.bookmarkearth.com/) | [书签地球APP](https://www.bookmarkearth.com/download/app)| [书签助手](https://www.bookmarkearth.com/plugin/index)
 
+### linkhut
+
+{{< image src="https://bib0.com/xc/i/2024/02/23/image-20240223085249958.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}} 
+
+⭐️  描述：🔗[linkhut](https://ln.ht) - 一个社交化的书签网站 
+
+>**你还可以自己部署这个网站** [详情查看](https://docs.linkhut.org/introduction.html)
+
+🌐资源地址：[点击跳转](https://ln.ht/)
+
 ### Raindrop
 
 {{< image src="https://bib0.com/xc/i/2023/07/04/devices-1077-e9a19500f234042e1e09a9fbc730ff3c.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  
