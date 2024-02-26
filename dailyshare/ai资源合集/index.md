@@ -12,6 +12,16 @@
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
 
+### OOTDiffusion
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-50-56.jpg" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：👕[OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - 一个高度可控的 AI 试衣工具
+
+>📄它可以自定义上传服饰和模特形象，Demo 的试穿效果非常好，但是对自己上传的素材要求比较高，所以尽量选择和 Demo 相近的素材去尝试
+
+🌐 资源地址：📎[点击跳转](https://github.com/levihsu/OOTDiffusion) |▶️[在线体验](https://ootd.ibot.cn/)
+
 ### paper-ai
 
 {{< image src="https://bib0.com/xc/i/2024/02/23/photo_2024-02-23_10-58-52.jpg" alt="-" title="Fun's images">}}

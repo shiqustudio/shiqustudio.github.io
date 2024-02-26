@@ -1,6 +1,18 @@
 # 💿文件存储
 
 
+### Raptor
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-54-24.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：☁️[Raptor（猛禽）](https://github.com/InfpPointPlus/Raptor) - 一款开源的第三方阿里云网盘 PC 客户端 
+
+> 📄Raptor 提供了许多官方客户端没有的的功能如秒传、跨网盘文件复制、唤起第三方下载器下载等
+>
+> 界面体验不错，基于 Qt5 开发，所以占用内存较小，遗憾的是目前仅支持 Windows 系统
+
+🌐 资源地址：[点击跳转](https://github.com/InfpPointPlus/Raptor) | ⬇️[下载地址](https://github.com/InfpPointPlus/Raptor/releases)
+
 ### ACdata
 
 {{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218103352730.png" alt="-" title="Fun's images">}}  

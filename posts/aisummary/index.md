@@ -26,6 +26,18 @@
 
 🌐 资源地址：☁️夸克云：「[Sora从入门到精通完整版课程](https://pan.quark.cn/s/699b185d4533)」
 
+### Quicklisting
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-52-37.jpg" alt="-"  title="Fun's images" >}}     
+
+⭐️  资源描述：⚡️[Quicklisting](https://quicklist.ing/) - 快速提交产品至 150+ AI 平台 
+
+>📄AI 创业浪潮之下，AI 产品层出不穷，前期想要获得流量少不了四处提交自己的产品
+>
+>在 Quicklisting 填写你的产品链接之后，它便会辅助你提交至 150+ AI 平台，目标受众超过 1000 万，节约至少 40 个小时
+
+🌐 资源地址: [点击跳转](https://quicklist.ing/)
+
 ### Noi 
 
 {{< image src="https://bib0.com/xc/i/2024/01/29/0fec7bb8c360.png" alt="-"  title="Fun's images" >}}     

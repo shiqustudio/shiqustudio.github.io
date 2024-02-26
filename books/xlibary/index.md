@@ -57,6 +57,14 @@
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
+### 电子书下载
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-43-44.jpg" alt="-" title="Fun's images">}}     
+
+🆔  资源名称：电子书下载
+
+🌐 资源地址：[点击跳转](https://libcats.org/)
+
 ### 臺灣學術期刊開放取用平台
 
 {{< image src="https://bib0.com/xc/i/2024/02/22/image-20240222083909573.png" alt="-" title="Fun's images">}}     

@@ -602,6 +602,14 @@ NCM格式转换为MP3格式 🧩[开源地址](https://github.com/kpali/ncmdumpG
 
 ## 歌词工具
 
+### NovaMSS
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-32-52.jpg" alt="-" title="Fun's images" width="800px">}}
+
+⭐资源描述：最强音乐源分离工具，基于最顶级的AI模型调优后的新一代音乐源分离工具，可一键提取伴奏、提取人声、分离音轨.。
+
+🌐 资源地址：🌐[资源地址](https://novamss.com/) 
+
 ### Lyricify
 
 ⭐Lyricify滚动歌词 - 一款功能强大滚动歌词的软件，可以为多个音乐播放器提供滚动歌词，并支持多种显示方式、本地歌词导入、歌词搜索和翻译等功能。

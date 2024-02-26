@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 独立开发者出海技术栈和工具
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-30-20.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：收录独立开发者出海技术栈和工具
+
+🌐 资源地址：🧩[点击跳转](https://github.com/weijunext/indie-hacker-tools)
+
 ### 逆向工程师2023
 
 {{< image src="https://bib0.com/xc/i/2024/02/19/image-20240219150149712.png" alt="-" title="Fun's images">}}  

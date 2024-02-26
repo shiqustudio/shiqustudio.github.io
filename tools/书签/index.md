@@ -1,6 +1,14 @@
 # 🏷️书签工具
 
 
+### 书签管理器
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-39-26.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}} 
+
+⭐️  描述：最佳网页书签管理器
+
+🌐资源地址： [原文](https://denshub.com/en/best-bookmark-manager-2023/) | [翻译](https://xlrocket.blog/2024/02/14/)
+
 ### 书签地球
 
 {{< image src="https://bib0.com/xc/i/2023/07/08/image-20230708134804458.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" width="800px">}}  

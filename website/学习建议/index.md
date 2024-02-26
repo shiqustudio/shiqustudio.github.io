@@ -5,6 +5,22 @@
 
 <!--more-->
 
+### 1000小时
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-35-21.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：用你的注意力填满一千小时就能练成任何你所需要的技能……
+
+🌐 资源地址：[点击跳转](https://1000h.org/)
+
+### 全国大学生电子设计竞赛
+
+{{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-36-27.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：全国大学生电子设计竞赛 - 历届试题
+
+🌐 资源地址：[点击跳转](https://nuedc.org/problems/)
+
 ### 简历生成器
 
 {{< image src="https://bib0.com/xc/i/2024/02/23/image-20240223104501176.png" alt="-" title="Fun's images">}}  
