@@ -1,9 +1,17 @@
 # 🐸趣味站点
 
 
-💡 有趣的解压创意网站，在工作、生活中添加一些乐趣
+💡 有趣的解压创意网站，在工作、生活中添加一些乐趣。
 
 <!--more-->
+
+### 折纸模拟器
+
+{{< image src="https://bib0.com/xc/i/2024/02/27/photo_2024-02-27_08-47-09.jpg" alt="-" title="Fun's images">}} 
+
+⭐️  资源描述：[折纸模拟器](https://origamisimulator.org/) --- Origami Simulator
+
+🌐 资源地址：[点击跳转](https://origamisimulator.org/)
 
 ### 随机动画
 
