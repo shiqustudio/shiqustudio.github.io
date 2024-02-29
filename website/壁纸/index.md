@@ -6,6 +6,52 @@
 
 <!--more-->
 
+## Screenmusing
+
+{{< image src="https://bib0.com/xc/i/2024/02/29/photo_2024-02-29_08-29-27.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  资源描述：🎬[Screenmusing](https://screenmusings.org/) - 一个电影截图网站
+
+> 📄网站收录了超过 300 部电影，几乎为每部电影截取了上百张截图。有趣的是站长还做了一个颜色分类截图，你可以根据颜色查看不同风格的电影截图
+
+🌐 资源地址：[点击跳转](https://screenmusings.org/)
+
+## FilmGrab
+
+{{< image src="https://bib0.com/xc/i/2024/02/29/photo_2024-02-29_08-31-19.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  资源描述：🎞[FilmGrab](https://film-grab.com/) - 一个收录了 100w+ 电影截图的网站
+
+> 📄这个网站更加专注于电影截图数据库的扩充，所以并非每张都是大图
+>
+> 你可以根据电影摄影师、服装制作师进行筛选，还可以根据国家、年份、类型进行截图筛选
+
+🌐 资源地址：[点击跳转](https://film-grab.com/)
+
+## Movie-Screencaps
+
+{{< image src="https://bib0.com/xc/i/2024/02/29/image-20240229083524090.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+⭐️  资源描述：🎬[Movie-Screencaps](https://movie-screencaps.com/) - 一个专业的电影截图网站 
+
+> 📄网站收录的每部电影截图数量可能达到 10000 张之多，量大管饱！
+>
+> 支持通过演员、风格、分辨率、首字母等筛选截图，还支持批量下载截图，可按需付费快速下载或者免费慢速下载
+
+🌐 资源地址：[点击跳转](https://movie-screencaps.com/)
+
+<!--MOVIEMANIA-->
+
+<!--{{< image src="https://bib0.com/xc/i/2024/02/29/photo_2024-02-29_08-31-19.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}--> 
+
+<!--⭐️  资源描述：[MOVIEMANIA](https://www.moviemania.io/) - 一个收集了全球电影高清海报的壁纸网站-->
+
+> <!--📄它号称是互联网上最大高分辨率电影壁纸数据库，目前已收录 17303 张并持续增长中-->
+>
+> <!--点击右上角还可以在手机和桌面壁纸之间来回切换-->
+
+<!--🌐 资源地址：[点击跳转](https://www.moviemania.io/)--> 
+
 ## Nbfox
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/1634395834-ziyuanku-toutu-800px.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
