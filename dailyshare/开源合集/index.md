@@ -112,7 +112,7 @@
 
 ### Miru 
 
-{{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130095256393.png" alt="-" title="Fun's images">}}  
+{{< image src="https://bib0.com/xc/i/2024/03/04/screenshot.fd234b92_Zf4dr4.webp" alt="-" title="Fun's images">}}  
 
 ⭐️  资源描述：
 
