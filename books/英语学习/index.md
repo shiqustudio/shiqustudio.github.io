@@ -781,6 +781,16 @@
 
 🌐 资源地址：[点击跳转](https://www.babelabc.com/)
 
+## 法语学习
+
+{{< image src="https://bib0.com/xc/i/2024/03/04/photo_2024-03-04_08-45-06.jpg" alt="-" title="Fun's images">}}     
+
+⭐️  资源描述："小而美" 的法语辅助学习工具
+
+>AI助力，初学法语的必备工具,句子分析,单词本
+
+🌐 资源地址：[点击跳转](https://bon-french.com/)
+
 
 ---
 

@@ -5,6 +5,26 @@
 
 <!--more-->
 
+### Zed
+
+{{< image src="https://bib0.com/xc/i/2024/03/04/photo_2024-03-04_08-57-55.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🖥[Zed](https://zed.dev/) - 一款高性能的多人代码编辑器
+
+> 官方提供的性能测试显示，Zed 的启动速度远超基于 Electron 的 VS Code，以及 Sublime Text，且内存占用也是最低的，主打的就是「高性能、高颜值」
+>
+> 亮点功能是可以直接从内置联系人面板呼叫其他 Zed 用户
+
+🌐 资源地址：🌐[开源地址](https://github.com/zed-industries/zed)
+
+### 速查表
+
+{{< image src="https://bib0.com/xc/i/2024/03/04/photo_2024-03-04_08-46-44.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：Cheat Sheet | 速查表 - 编程，软件快捷键速查表
+
+🌐 资源地址：[点击跳转](https://www.cheat-sheet.cn/)
+
 ### 独立开发者出海技术栈和工具
 
 {{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-30-20.jpg" alt="-" title="Fun's images">}}  

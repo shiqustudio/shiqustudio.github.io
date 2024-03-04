@@ -208,11 +208,17 @@
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225110937772.png" alt="-" title="Fun's images">}}  
 
-⭐️  资源描述：一套轻量级紫微斗数排盘工具库
+{{< image src="https://bib0.com/xc/i/2024/03/04/astrolabe@2x.5039cc7c.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⚪️[iztro](https://github.com/SylarLong/iztro) - 一套轻量级的紫微斗数排盘工具库
 
 > 轻量级紫微斗数排盘工具库 iztro 的文档以及紫微斗数相关知识科普。
+>
+> 📄搭建好之后你可以获得如图展示的效果，如果想知道这些数据代表什么意思，可以查看文档
+>
+> 紫微斗数是中国古代的一种算命术数，通常认为可用于性格推演、子女教育、职业规划、社交谈资、择偶等
 
-🌐 资源地址：🧩 [开源地址](https://github.com/SylarLong/iztro) | [官网地址](https://iztro.com/)
+🌐 资源地址：🧩 [开源地址](https://github.com/SylarLong/iztro) | [官网地址](https://iztro.com/) | 📖[文档](https://iztro.com/) | 🌐[体验](https://ziwei.pub/)
 
 ### Rime auto deploy
 

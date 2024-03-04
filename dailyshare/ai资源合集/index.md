@@ -12,6 +12,28 @@
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
 
+### Flair.ai
+
+{{< image src="https://bib0.com/xc/i/2024/03/04/photo_2024-03-04_08-50-39.jpg" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：📸[Flair.ai](https://flair.ai/) - 一款专注于电商产品配图的工具 
+
+>📄上传一张透明产品图片，它能迅速根据你的需求生成指定环境下的电商产品图
+>
+>我在淘宝找了个可乐，它还会给你自动扣掉背景，说实话效果超出预期了，非常适合电商个体商家使用
+>
+>💲所有免费用户都有 30 次使用机会，耗尽之后继续注册四舍五入相当于不要钱
+
+🌐 资源地址：📎[官网](https://flair.ai/)
+
+### DeWatermark
+
+{{< image src="https://bib0.com/xc/i/2024/03/04/photo_2024-03-04_08-48-06.jpg" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：使用 AI 免费在线去除照片水印
+
+🌐 资源地址：📎[官网](https://dewatermark.ai/)
+
 ### OOTDiffusion
 
 {{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-50-56.jpg" alt="-" title="Fun's images">}}
