@@ -54,6 +54,31 @@
 | [冷熊简历](https://cv.ftqq.com/)                         | [站长工具](https://ping.chinaz.com/)                         | [m3u8 下载](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html) |
 | [相似词查询](https://kmcha.com/)                         | [宜家特价](https://ikea-lp.netlify.app/)                     | [免费 ocr 识别](https://pearocr.com/#/)                      |
 
+## 🍱PPT网站
+
+| 序号 | 网站          | 简介                                                | 地址                                                         |
+| ---- | ------------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | HiPPTE        | PPT导航                                             | [http://www.hippter.com](http://www.hippter.com/)            |
+| 2    | PPT宝藏       | 免费ppt模板、素材、课件等                           | [http://pptbz.com](http://pptbz.com/)                        |
+| 3    | 51PPT模板网   | 免费ppt模板、素材、特效等                           | [http://51pptmoban.com](http://51pptmoban.com/)              |
+| 4    | 优品PPT       | 免费ppt模板、图标、背景图片等                       | [http://ypppt.com](http://ypppt.com/)                        |
+| 5    | 比格PPT       | 免费ppt模板、教程、素材等                           | [http://tretars.com](http://tretars.com/)                    |
+| 6    | PPT超市       | 免费ppt下载，支持定制ppt模板                        | [http://pptsupermarket.com](http://pptsupermarket.com/)      |
+| 7    | OneKeyTools   | ppt插件下载、教程、交流                             | [http://oktools.xyz](http://oktools.xyz/)                    |
+| 8    | Microft       | 微软官方Office免费模板                              | [http://templates.office.com](http://templates.office.com/)  |
+| 9    | OfficePLUS    | 微软office官方在线模板网站                          | [http://officeplus.cn](http://officeplus.cn/)                |
+| 10   | 第1PPT        | 免费ppt课件下载，海量小学到大学的学科课件           | [http://1ppt.com](http://1ppt.com/)                          |
+| 11   | PPT课件网     | 从小学到大学各大专业PPT课件                         | [http://pptkj.net](http://pptkj.net/)                        |
+| 12   | 吾道PPT       | PPT创作平台，免版权素材库                           | [http://woodo.cn](http://woodo.cn/)                          |
+| 13   | 演界网        | 付费PPT模板及矢量素材                               | [http://yanj.cn](http://yanj.cn/)                            |
+| 14   | 叮当设计      | 免费优质的ppt模板                                   | [http://dingdangsheji.com](http://dingdangsheji.com/)        |
+| 15   | PPT之家       | 免费丰富的ppt模板                                   | [http://52ppt.com](http://52ppt.com/)                        |
+| 16   | PPTBOSS       | 模板质量高，分类细致，部分免费                      | [http://pptboss.com](http://pptboss.com/)                    |
+| 17   | Justfreeslide | 国外站点免费提供上百个高质量模板                    | [http://justfreeslide.com](http://justfreeslide.com/)        |
+| 18   | PPTSTORE      | 国内高质量原创模板，部分免费                        | [http://pptstore.net](http://pptstore.net/)                  |
+| 19   | 演示星球      | 目前数量不是很丰富，但质量极高，每天可免费下载3次。 | [www.pop-ppt.com](https://www.yuque.com/eureka9527/0007/www.pop-ppt.com) |
+| 20   | slidesgo      | 国外的一家高质量PPT模板网站，有免费和付费的模板。   | [www.slidesgo.com](https://www.slidesgo.com/)                |
+
 ## 📕 PDF 处理工具推荐
 
 > 集合了很多 PDF 处理工具，支持格式转换、PDF 编辑、合并、分割、加水印、OCR 识别、压缩、签名、加密/解密、旋转等，功能非常丰富
