@@ -657,6 +657,22 @@
 
 🌐 资源地址：[点击跳转](https://www.52pojie.cn/thread-1888984-1-1.html) | ☁️[百度云](https://wwp.lanzn.com/iT8881nr5ruj) 密码:6666  
 
+## 系统优化
+
+### BoosterX
+
+{{< image src="https://bib0.com/xc/i/2024/03/05/photo_2024-03-05_08-42-12.jpg" alt="-" title="Fun's images">}}
+
+{{< bilibili BV1dw4m1f7JP>}}
+
+⭐️  资源描述：🔟[BoosterX](https://boosterx.org/en/) - 一款强大的 Windows 系统优化工具 
+
+> 📄该工具内置了大量优化选项，第一次使用千万别盲点，最好先去B站看看别人怎么设置
+>
+> 看了一圈，免费版功能已经很强大了，没必要开 Pro
+
+🌐 资源地址：📎[官网](https://boosterx.org/en/)
+
 
 ---
 
