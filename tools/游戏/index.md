@@ -1,6 +1,18 @@
 # 🎮游戏工具
 
 
+### 老游戏在线玩
+
+{{< image src="https://bib0.com/xc/i/2024/03/08/image-20240308103602417.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🕹️[老游戏在线玩](https://zaixianwan.app/)
+
+> 没什么好介绍的，点进去直接玩就是了，支持连接手柄玩
+>
+> 大部分游戏资源来源于老男人游戏网
+
+🌐 资源地址：[点击跳转](https://zaixianwan.app/)
+
 ### GODOT
 
 {{< image src="https://bib0.com/xc/i/2023/12/18/image-20231218143850302.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
