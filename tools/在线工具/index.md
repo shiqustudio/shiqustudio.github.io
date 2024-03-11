@@ -6,6 +6,23 @@
 
 <!--more-->
 
+### 在线生成头像
+
+{{< image src="https://bib0.com/xc/i/2024/03/11/photo_2024-03-11_08-25-13.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：👤一些可以在线生成头像的网站
+
+> ▫️[Color Avatar](https://vue-color-avatar.vercel.app/)   
+> ▫️[Personas](https://personas.draftbit.com/)  
+> ▫️[无聊头像](https://boringavatars.com/)  
+> ▫️[Big Heads](https://bigheads.io/)  
+> ▫️[avataaars generator](https://getavataaars.com/)  
+> ▫️[Notion Svg Avatar Maker](https://cvbox.org/avatar)  
+> ▫️[Notion Avatar Maker](https://notion-avatar.vercel.app/zh)  
+> ▫️[Notion风格头像生成](https://cvbox.org/avatar)
+> ▫️[Wave头像生成器](https://avatar.gaoxiazhitu.com/)  
+> ▫️[icon-z - 一个在线的头像图标生成工具](https://icon-z.com/)
+
 ### 节日头像制作 
 
 {{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130101417044.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

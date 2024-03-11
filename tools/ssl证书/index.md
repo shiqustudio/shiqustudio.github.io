@@ -5,6 +5,16 @@
 
 <!--more-->
 
+## httpsok
+
+{{< image src="https://bib0.com/xc/i/2024/03/11/photo_2024-03-11_08-27-32.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+📁 网站简介：🛡[httpsok](https://github.com/httpsok/httpsok) - 一个便捷的 HTTPS 证书自动续签工具 
+
+>📄通过一行命令，一分钟轻松搞定 SSL 证书自动续签
+
+🔗 资源地址：[点击跳转](https://github.com/httpsok/httpsok)
+
 ## Cloudflare
 
 📁 网站简介：全球知名网站，只要将域名解析cf上，并开启cloudflare的cdn就可以直接使用免费证书，无需做其他设置。

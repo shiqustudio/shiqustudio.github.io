@@ -40,9 +40,21 @@
 
 {{< image src="https://bib0.com/xc/i/2024/02/01/4_0.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
 
-⭐️  描述：视频号下载利器 video server 1.0.6含教程【20240112最新发布】
+⭐️  描述：视频号下载利器 video server 1.0.6含教程
 
 🌐 资源地址：[52破解](https://www.52pojie.cn/thread-1884465-1-1.html) | [开源地址](https://github.com/592767809/video_server) | ☁️[百度云](https://pan.baidu.com/s/1ln7cXOGUVWaH4sUxtRNDYA) 提取码: hynp 
+
+### Seal
+
+{{< image src="https://bib0.com/xc/i/2024/03/11/photo_2024-03-11_08-35-04.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}  
+
+⭐️  描述：🦭[Seal](https://sealapk.net/) - 一款开源的安卓视频下载工具 
+
+> 📄该工具内置了知名开源下载工具「yt-dlp」，支持下载数千个视频平台，还可提取媒体元数据与专辑封面
+>
+> 缺点是不能解析下载最高画质
+
+🌐 资源地址：[点击跳转](https://sealapk.net/)| [开源地址](https://github.com/JunkFood02/Seal)
 
 ### FetchV
 

@@ -12,6 +12,21 @@
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
 
+### Pi
+
+{{< image src="https://bib0.com/xc/i/2024/03/11/photo_2024-03-11_08-38-02.jpg" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：🤖[AI 聊天助手「Pi」](https://inflection.ai/inflection-2-5)迎来史诗级增强，全面提升智商、情商 
+
+>nflection 正式发布 「Inflection-2.5」 大语言模型，让 Pi 聊天机器人更聪明，也更富有同情心
+>
+>现在 Pi 不仅拥有强大的基础能力，可与 GPT-4、Gemini 等 LLM 相媲美，且还融入了个性化特点和独特的同理心微调，换言之更加像一个「人」
+>
+>📈Pi 每天有超过一百万活跃用户，用户平均对话时长为 33 分钟，而每天有十分之一的用户与 Pi 的对话时长超过一小时，可见其粘性之高！
+>
+
+🌐 资源地址：📎[官网](https://inflection.ai/inflection-2-5) | [体验](https://pi.ai/)
+
 ### Flair.ai
 
 {{< image src="https://bib0.com/xc/i/2024/03/04/photo_2024-03-04_08-50-39.jpg" alt="-" title="Fun's images">}}
