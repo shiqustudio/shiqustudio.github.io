@@ -13,6 +13,20 @@
 
 🌐 资源地址：[点击跳转](https://gitstar-ranking.com/)
 
+### Mocreak
+
+{{< image src="https://bib0.com/xc/i/2024/03/12/photo_2024-03-12_17-33-12.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：💻[Mocreak](https://www.mocreak.com/) - 一款免费开源的 Office 部署工具
+
+> 📄Mocreak 可以一键快速下载、安装、激活最新版 Microsoft Office 软件，还支持一键卸载
+>
+> 其中可选 Outlook、OneNote、Access、Visio、Project、Publisher、Teams、OneDrive、Lync/Skype
+>
+> **实际体验非常好，一键式安装**
+
+🌐 资源地址：🧩[开源地址](https://github.com/OdysseusYuan/LKY_OfficeTools) | [官网](https://www.mocreak.com/)
+
 ### Wave
 
 {{< image src="https://bib0.com/xc/i/2024/02/21/image-20240221083041485.png" alt="-" title="Fun's images">}}  

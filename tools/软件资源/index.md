@@ -299,6 +299,18 @@
 
 🔗 资源地址：▶️[在线体验](https://www.onworks.net/os-distributions)
 
+### Puter
+
+{{< image src="https://bib0.com/xc/i/2024/03/12/photo_2024-03-12_17-36-31.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🌐[Puter](https://github.com/HeyPuter/puter) - 一个在浏览器中运行的操作系统 
+
+>📄简单来说，你在服务器中安装了 Puter 之后，你可以在浏览器中打开页面把服务器当操作系统用，可以直接使用 vscode 和命令行等，速度极快！
+>
+>值得一提的是该项目已经开发了 3 年之久，本月才宣布开源，所以各项功能非常完善了
+
+🔗 资源地址：🧩[开源地址](https://github.com/HeyPuter/puter)
+
 ## 💻操作系统
 
 ### XOS
