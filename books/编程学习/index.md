@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### 编程中文书籍索引
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-55-38.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：免费的编程中文书籍索引
+
+🌐 资源地址：[开源地址](https://github.com/justjavac/free-programming-books-zh_CN)
+
 ### Zed
 
 {{< image src="https://bib0.com/xc/i/2024/03/04/photo_2024-03-04_08-57-55.jpg" alt="-" title="Fun's images">}}  
@@ -16,6 +24,14 @@
 > 亮点功能是可以直接从内置联系人面板呼叫其他 Zed 用户
 
 🌐 资源地址：🌐[开源地址](https://github.com/zed-industries/zed)
+
+### Linux学习
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-53-56.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：Linux学习教程
+
+🌐 资源地址：[点击跳转](https://linuxjourney.com/)
 
 ### 速查表
 

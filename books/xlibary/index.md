@@ -57,6 +57,14 @@
 
 🌐 资源地址：[Windows](https://1lib.sk/soft/zlibrary-setup-latest.exe) | [MacOS](https://1lib.sk/soft/zlibrary-setup-latest.dmg) | [安卓](https://1lib.sk/soft/zlibrary-app-latest.apk)
 
+### Douban Book+
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-52-51.jpg" alt="-" title="Fun's images">}}     
+
+🆔  资源名称：多种电子书资源插件
+
+🌐 资源地址：[点击跳转](https://doubanbook.plus/)
+
 ### 电子书下载
 
 {{< image src="https://bib0.com/xc/i/2024/02/26/photo_2024-02-26_09-43-44.jpg" alt="-" title="Fun's images">}}     

@@ -6,6 +6,30 @@
 
 <!--more-->
 
+### markdown编辑器
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_17-08-41.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：一款开源桌面端markdown编辑器
+
+🔗 资源链接：🧩[开源地址](https://github.com/nlbwqmz/wj-markdown-editor)
+
+### ookxNote
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-51-35.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：ookxNote电子学习笔记软件
+
+🔗 资源链接：🌐[点击跳转](http://www.bookxnote.com/)
+
+### Web思维导图
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-50-19.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：思绪思维导图一个还算强大的Web思维导图
+
+🔗 资源链接：🌐[点击跳转](https://wanglin2.github.io/mind-map/#/index) | 🧩[开源地址](https://github.com/wanglin2/mind-map)
+
 ### 在线生成头像
 
 {{< image src="https://bib0.com/xc/i/2024/03/11/photo_2024-03-11_08-25-13.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 

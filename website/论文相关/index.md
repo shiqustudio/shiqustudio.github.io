@@ -6,6 +6,16 @@
 
 <!--more-->
 
+### 一译
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-58-13.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：一译，看论文神器，上传论文，帮你翻译，并且可以左右两栏中英对照查看
+
+🌐 资源地址：[点击跳转](https://yiyibooks.cn/)
+
+### 其他相关
+
 {{< image src="https://bib0.com/xc/i/2023/06/11/image-20230611210818019.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
 
 ➤ 论文写作相关：

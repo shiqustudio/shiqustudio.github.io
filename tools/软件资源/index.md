@@ -616,6 +616,24 @@
 >⭐️  资源描述：Rufus - `简洁，开源`  
 >🌐 资源地址：[点击跳转](https://rufus.ie/zh/)
 
+### 蜂鸟PE
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_17-07-22.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：蜂鸟PE-小而强悍的WinPE维护系统
+
+> 支持：笔记本电量显示、Bitlocker、Linux分区、VHD虚拟磁盘 等功能
+
+🌐 资源地址：[点击跳转](https://www.fengpe.top/)
+
+### RoguePE
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_17-05-35.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：RoguePE -可能是迄今为止最适合年轻人的WinPE
+
+🌐 资源地址：[点击跳转](https://www.roguepe.cn/index.html)
+
 ### WinPenPack
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225110341914.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
