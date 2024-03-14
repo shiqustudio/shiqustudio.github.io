@@ -13,6 +13,18 @@
 
 🌐 资源地址：[点击跳转](https://gitstar-ranking.com/)
 
+### tsParticles
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-32-50.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：🌐[tsParticles](https://github.com/tsparticles/tsparticles) - 一个开源的网页粒子特效前端库 
+
+> 📄通过该项目，你可以创建高度可自定义的粒子动画，并将其用作网站的动画背景
+>
+> 该库同时托管在 jsDelivr 和 cdnjs ，便于引用
+
+🌐 资源地址：[官网](https://github.com/tsparticles/tsparticles) | [演示地址](https://particles.js.org/)
+
 ### Mocreak
 
 {{< image src="https://bib0.com/xc/i/2024/03/12/photo_2024-03-12_17-33-12.jpg" alt="-" title="Fun's images">}}  

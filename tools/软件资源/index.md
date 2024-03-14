@@ -313,6 +313,18 @@
 
 ## 💻操作系统
 
+### 在 Docker 中运行 Windows
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-27-57.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：⏸[在 Docker 中运行 Windows](https://github.com/dockur/windows)
+
+>📄该项目支持在 Docker 中安装 Windows xp/7/8.1/10/11 以及 Windows Server  2008/2012/2016/2019/2022 等系统
+>
+>由于是套娃，所以肯定比不过原生体验，所以适合轻度使用，如跑脚本或程序什么的
+
+🔗 资源地址：🧩[开源地址](https://github.com/dockur/windows) | [参考案例](https://zhuanlan.zhihu.com/p/686351917)
+
 ### XOS
 
 {{< image src="https://bib0.com/xc/i/2023/02/19/image-20240219105851424.png" alt="-" title="Fun's images">}}  

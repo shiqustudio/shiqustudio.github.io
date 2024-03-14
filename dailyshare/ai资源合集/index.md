@@ -12,6 +12,18 @@
 ⭐️  资源描述：🗣️ AI副业赚钱资讯合集 - 教你如何利用ai做一些副业项目
 
 
+### Comflowyspace
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-30-07.jpg" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：🖼[Comflowyspace](https://www.comflowy.com/zh-CN/space) - 一款更易用、更有用的 AI 图像、视频生成工具 
+
+>📄Comflowyspace 由 Comflowy 社区出品，此前向大家介绍过
+>
+>开发者认为开源 AI 图像、视频生成工具值得有更好的交互体验设计，而不是 WebUI 和 ComfyUI 那样原生的样子，故此开发之
+
+🌐 资源地址：📎[官网](https://www.comflowy.com/zh-CN/space) | [开源地址](https://github.com/6174/comflowyspace)
+
 ### Pi
 
 {{< image src="https://bib0.com/xc/i/2024/03/11/photo_2024-03-11_08-38-02.jpg" alt="-" title="Fun's images">}}

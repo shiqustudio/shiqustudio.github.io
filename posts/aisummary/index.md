@@ -6,6 +6,20 @@
 
 <!--more-->
 
+### Copilot
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-37-47.jpg" alt="-"  title="Fun's images" >}}     
+
+⭐️  资源描述：💻[微软 Copilot 现已可以免费使用 GPT-4 Turbo](https://x.com/MParakhin/status/1767607331637137596?s=20)
+
+> 此前在 Copilot 中使用 GPT-4 Turbo 需要付费订阅
+>
+> 直到昨日微软发言人在 X 称，GPT-4 Turbo 已经取代了免费套餐中的  GPT-4 ，并且用户仍然可以选择旧版本
+>
+> 目前 Copilot 提供 Copilot for Windows 版、网页版以及集成在 Microsoft Edge 浏览器中，对于受支持的国家或地区，用户可以通过任意一种方式免费使用 GPT-4 Turbo
+
+🌐 资源地址: [点击跳转](https://copilot.microsoft.com/)
+
 ### Sora 
 
 {{< image src="https://bib0.com/xc/i/2024/02/19/4317aa6ecbe57cca9f25fbae1bd2d0cf.gif" alt="-"  title="Fun's images" >}}     

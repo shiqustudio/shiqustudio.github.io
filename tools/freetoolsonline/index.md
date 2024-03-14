@@ -5,6 +5,24 @@
 
 <!--more-->
 
+### Stirling PDF
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-34-51.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
+
+🆔  资源名称： ⚙️[Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) - 一款开源的 PDF 在线处理工具 
+
+⭐️  资源描述： 
+
+>📄该工具可以实现对 PDF 文件包括拆分、合并、转换、重新排列、添加图片、旋转、压缩等多种处理
+>
+>所有操作都在客户端或者服务器内存中处理，服务器不存储用户文件
+>
+>支持 Docker 部署，支持中文
+>
+>🤖**该项目的初版程序是 100% 由 ChatGPT 完成的**
+
+🌐 资源地址: [开源地址](https://github.com/Stirling-Tools/Stirling-PDF)
+
 ### FileConverter 
 
 {{< image src="https://bib0.com/xc/i/2024/01/30/file-converter-usage.gif" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}      
