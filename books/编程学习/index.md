@@ -5,6 +5,14 @@
 
 <!--more-->
 
+### IT 人员必备工具箱
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_17-40-18.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：IT 人员必备工具箱
+
+🌐 资源地址：[点击查看](https://666666.dev/#/)
+
 ### 编程中文书籍索引
 
 {{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-55-38.jpg" alt="-" title="Fun's images">}}  

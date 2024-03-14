@@ -6,6 +6,24 @@
 
 <!--more-->
 
+### allinone
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/illu.svg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：[多合一](https://allinone.tools/) - 一个目的地可满足您的所有需求！
+
+> 您只需使用一个工具就可以执行从社交媒体到转换、转换 pdf 和图像等任何操作。
+
+🔗 资源链接：[点击查看](https://allinone.tools/)
+
+### 封面图制作
+
+{{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_17-38-13.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
+
+📁 网站简介：视频、文章封面图制作工具，纯前端无数据交互
+
+🔗 资源链接：🧩[开源地址](https://github.com/zobor/photo-relay) | [点击查看](https://www.duelpeak.com/pages/poster)
+
 ### markdown编辑器
 
 {{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_17-08-41.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
