@@ -6,6 +6,14 @@
 
 <!--more-->
 
+### 全国消协“智慧315”平台
+
+{{< image src="https://bib0.com/xc/i/2024/03/18/photo_2024-03-18_17-27-54.jpg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
+
+⭐️  资源描述：☎全国消协“智慧315”平台
+
+🌐 资源地址：[点击跳转](https://315.cca.org.cn/#/home)
+
 ### Generative AI Global Interest Report 2023
 
 {{< image src="https://bib0.com/xc/i/2023/12/25/image-20231225091233168.png" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}}    
