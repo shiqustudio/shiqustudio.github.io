@@ -6,7 +6,7 @@
 
 <!--more-->
 
-### allinone
+### AllInOne
 
 {{< image src="https://bib0.com/xc/i/2024/03/14/illu.svg" alt="-"  title="Fun's images" alt="-"  title="Fun's images" >}} 
 

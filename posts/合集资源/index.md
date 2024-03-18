@@ -9,6 +9,119 @@
 
 {{< admonition info >}} {{< typeit >}}📢 内容不定期更新...... {{< /typeit >}}{{< /admonition >}}
 
+## 🧠AI工具合集
+
+| 类型            | AI工具名称                             | 入口                                                         | 功能                                                         |
+| --------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 聊天/内容生成   | 文心一言                               | [https://yiyan.baidu.com](https://yiyan.baidu.com/)          | 综合型AI：内容生成、文档分析、图像分析、图表制作、脑图……     |
+| 聊天/内容生成   | 通义千问                               | [https://tongyi.aliyun.com](https://tongyi.aliyun.com/)      | 综合型AI：内容生成、文档分析、图像分析……                     |
+| 聊天/内容生成   | Kimi(月之暗面)                         | [https://kimi.moonshot.cn](https://kimi.moonshot.cn/)        | 综合型AI：内容生成、文档分析、互联网搜索……                   |
+| 聊天/内容生成   | 腾讯混元                               | https://hunyuan.tencent.com/bot/chat                         | 综合型AI：内容生成、文档分析、灵感推荐……                     |
+| 聊天/内容生成   | 讯飞星火                               | [https://xinghuo.xfyun.cn](https://xinghuo.xfyun.cn/)        | 综合型AI：内容生成……                                         |
+| 聊天/内容生成   | 抖音豆包                               | [https://www.doubao.com](https://www.doubao.com/)            | 综合型AI：内容生成，偏互联网运营方向……                       |
+| 聊天/内容生成   | 智谱AI                                 | [https://open.bigmodel.cn](https://open.bigmodel.cn/)        | 综合型AI：内容生成、知识问答……                               |
+| 聊天/内容生成   | 百川智能                               | https://www.baichuan-ai.com/chat                             | 综合型AI：内容生成、文档分析、互联网搜索……                   |
+| 聊天/内容生成   | 360智脑                                | [https://ai.360.com](https://ai.360.com/)                    | 综合型AI：360智脑全家桶……                                    |
+| 聊天/内容生成   | 字节小悟空                             | https://wukong.com/tool                                      | 综合型AI：字节跳动内容生成工具集                             |
+| 聊天/内容生成   | 达观数据曹植                           | http://www.datagrand.com/                                    | 行业垂域大模型                                               |
+| AI办公-综合     | 360数字员工                            | [https://ai.360.com](https://ai.360.com/)                    | 团队协作共享，企业知识库、AI文档分析、AI营销文案、AI文书写作等智能工具 |
+| AI办公-综合     | 有道AI                                 | [https://ai.youdao.com](https://ai.youdao.com/)              | 文档、翻译、视觉、语音、教育……                               |
+| AI办公-Office   | AiPPT                                  | [https://www.aippt.cn](https://www.aippt.cn/)                | 自动生成PPT大纲、模板、Word-PPT……                            |
+| AI办公-Office   | iSlide                                 | [https://www.islide.cc](https://www.islide.cc/)              | AI 一键设计 PPT                                              |
+| AI办公-Office   | WPS AI                                 | [https://ai.wps.cn](https://ai.wps.cn/)                      | WPS的AI插件（智能PPT、表格、文档整理……）                     |
+| AI办公-Office   | ChatPPT                                | [http://www.chat-ppt.com](http://www.chat-ppt.com/)          | AI插件，支持Office、WPS，自动文档生成                        |
+| AI办公-Office   | 360苏打办公                            | [https://bangong.360.cn](https://bangong.360.cn/)            | AI办公工具集：文档、视频、设计、开发……                       |
+| AI办公-Office   | 酷表ChatExcel                          | [https://chatexcel.com](https://chatexcel.com/)              | 智能Excel公式                                                |
+| AI办公-Office   | 商汤办公小浣熊                         | [https://raccoon.sensetime.com](https://raccoon.sensetime.com/) | 智能图表                                                     |
+| AI办公-会议纪要 | 讯飞听见                               | [https://www.iflyrec.com](https://www.iflyrec.com/)          | 音视频转文字，实时录音转文字，同传，翻译……                   |
+| AI办公-会议纪要 | 阿里通义听悟                           | [https://tingwu.aliyun.com](https://tingwu.aliyun.com/)      | 实时转录，音视频转文字，互联网内容提炼……                     |
+| AI办公-会议纪要 | 飞书妙记                               | https://www.feishu.cn/product/minutes?from=thosefree.com     | 飞书文档中的会议纪要工具，实时转录，音视频转文字             |
+| AI办公-会议纪要 | 腾讯会议AI                             | https://meeting.tencent.com/ai/index.html                    | 腾讯会议录制后会议纪要整理                                   |
+| AI办公-脑图     | ProcessOn                              | [https://www.processon.com](https://www.processon.com/)      | AI思维导图                                                   |
+| AI办公-脑图     | 亿图脑图                               | https://www.edrawsoft.cn/mindmaster                          | AI思维导图                                                   |
+| AI办公-脑图     | GitMind思乎                            | https://gitmind.cn/                                          | AI思维导图                                                   |
+| AI办公-脑图     | boardmix 博思白板                      | https://boardmix.cn/ai-whiteboard                            | 实时协作的智慧白板上，一键生成PPT、用AI协助创作思维导图、AI绘画、AI写作，共享资源素材 |
+| AI办公-脑图     | 妙办画板                               | [https://imiaoban.com](https://imiaoban.com/)                | 生成流程图、思维导图                                         |
+| AI办公-文档     | 司马阅AI文档                           | https://smartread.cc/                                        | 每天免费100次提问，AI文档阅读分析工具，通过聊天互动形式，精准地从复杂文档提取并分析信息 |
+| AI办公-文档     | 360AI浏览器                            | [https://ai.360.com](https://ai.360.com/)                    | 智能摘要、文章脉络、思维导图等                               |
+| AI写作          | 有道云笔记AI                           | [https://note.youdao.com](https://note.youdao.com/)          | 有道云笔记写作插件，改写扩写润色……                           |
+| AI写作          | 腾讯 Effidit                           | [https://effidit.qq.com](https://effidit.qq.com/)            | 智能纠错、文本补全、文本改写、文本扩写、词语推荐、句子推荐与生成等功能 |
+| AI写作          | 讯飞写作                               | [https://huixie.iflyrec.com](https://huixie.iflyrec.com/)    | AI对话写作、模板写作、素材、润色……                           |
+| AI写作          | 深言达意                               | [https://www.shenyandayi.com](https://www.shenyandayi.com/)  | 根据模糊描述，找词找句的智能写作工具                         |
+| AI写作          | 阿里悉语                               | [https://login.taobao.com](https://login.taobao.com/)        | 淘宝专用的商品文案生成，输入商品的淘宝链接即可获得文案       |
+| AI写作          | 字节火山写作                           | [https://www.writingo.net](https://www.writingo.net/)        | 全文润色的AI智能写作                                         |
+| AI写作          | 秘塔写作猫                             | [https://xiezuocat.com](https://xiezuocat.com/)              | AI写作模板，AI写作工具，指令扩写润色……                       |
+| AI写作          | 光速写作                               | [https://guangsuxie.com](https://guangsuxie.com/)            | 作业帮旗下：全文生成、PPT生成、问答助手、写作助手            |
+| AI写作          | WriteWise                              | https://www.ximalaya.com/gatekeeper/write-wise-web?ref=ai-bot.cn | 喜马拉雅小说创作工具                                         |
+| AI写作          | 笔灵AI                                 | [https://ibiling.cn](https://ibiling.cn/)                    | 一键生成工作计划、文案方案……                                 |
+| AI写作          | 易撰                                   | [https://www.yizhuan5.com](https://www.yizhuan5.com/)        | 自媒体内容                                                   |
+| AI写作          | Giiso写作机器人                        | [https://www.giiso.com](https://www.giiso.com/)              | 写作、文配图、风格转换、文生图……                             |
+| AI写作          | 5118 SEO优化精灵                       | https://www.5118.com/seometa                                 | 快速生成高质量SEO标题、Meta描述和关键字，轻松提升网站搜索引擎排名 |
+| AI翻译          | 沉浸式翻译                             | [https://immersivetranslate.com](https://immersivetranslate.com/) | 翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译等    |
+| AI翻译          | 彩云小译                               | [https://fanyi.caiyunapp.com](https://fanyi.caiyunapp.com/)  | 多种格式文档的翻译、同声传译、文档翻译和网页翻译             |
+| AI翻译          | 网易见外                               | [https://sight.youdao.com](https://sight.youdao.com/)        | 字幕、音频转写、同传、文档翻译……                             |
+| AI搜索引擎      | 天工AI搜索(昆仑万维)                   | [https://search.tiangong.cn](https://search.tiangong.cn/)    | 找资料、查信息、搜答案、搜文件,还会对海量搜索结果做AI智能聚合 |
+| AI搜索引擎      | 360AI搜索                              | [https://ai.360.com](https://ai.360.com/)                    | AI搜索能够从海量的网站中主动寻找、提炼精准答案               |
+| AI搜索引擎      | 秘塔AI搜索                             | [https://metaso.cn](https://metaso.cn/)                      | 没有广告，直达结果                                           |
+| AI搜索引擎      | perplexity.ai                          | [www.perplexity.ai](http://www.perplexity.ai/)               | 黄仁勋带货的AI搜索引擎                                       |
+| AI搜索引擎      | sciphi.ai                              | [https://search.sciphi.ai](https://search.sciphi.ai/)        | AI搜索引擎                                                   |
+| AI搜索引擎      | devv.ai                                | [https://devv.ai](https://devv.ai/)                          | 为开发人员打造的人工智能驱动的搜索引擎                       |
+| 图像生成/编辑   | 通义万相                               | [https://tongyi.aliyun.com](https://tongyi.aliyun.com/)      | AI生成图片，人工智能艺术创作大模型                           |
+| 图像生成/编辑   | 文心一格                               | [https://yige.baidu.com](https://yige.baidu.com/)            | 文生图像                                                     |
+| 图像生成/编辑   | 剪映AI                                 | [https://www.capcut.cn](https://www.capcut.cn/)              | 剪映一键生成AI绘画                                           |
+| 图像生成/编辑   | 腾讯ARC                                | [https://arc.tencent.com](https://arc.tencent.com/)          | 人像修复、人像抠图、动漫增强                                 |
+| 图像生成/编辑   | 360智绘                                | [https://ai.360.com](https://ai.360.com/)                    | 风格化AI绘画、Lora训练                                       |
+| 图像生成/编辑   | 无限画                                 | https://588ku.com/ai/wuxianhua/Home                          | 智能图像设计，整合千库网的设计行业知识经验、资源数据         |
+| 图像生成/编辑   | 美图设计室                             | [https://www.x-design.com](https://www.x-design.com/)        | 图像智能处理，海报设计……                                     |
+| 图像生成/编辑   | liblib.ai                              | [https://www.liblib.ai](https://www.liblib.ai/)              | AI 模型分享平台-各种风格的图像微调模型                       |
+| 图像生成/编辑   | Tusi.Art                               | [https://tusiart.com](https://tusiart.com/)                  | AI 模型分享平台                                              |
+| 图像生成/编辑   | 标小智Logo生成                         | [https://www.logosc.cn](https://www.logosc.cn/)              | 在线LOGO设计，生成企业VI                                     |
+| 图像生成/编辑   | 佐糖                                   | [https://picwish.cn](https://picwish.cn/)                    | 丰富的图像处理工具                                           |
+| 图像生成/编辑   | Vega AI                                | [https://vegaai.net](https://vegaai.net/)                    | 文生图，图生图，姿态生图，文生视频，图生视频……               |
+| 图像生成/编辑   | 美图WHEE                               | [https://www.whee.com](https://www.whee.com/)                | 文生图，图生图，文生视频，扩图改图超清……                     |
+| 图像生成/编辑   | 无界AI                                 | [https://www.wujieai.com](https://www.wujieai.com/)          | 文生图                                                       |
+| 图像生成/编辑   | BgSub                                  | [https://bgsub.cn](https://bgsub.cn/)                        | 抠图                                                         |
+| 图像生成/编辑   | 阿里PicCopilot                         | [https://www.piccopilot.com](https://www.piccopilot.com/)    | 阿里巴巴国际，AI驱动图片优化工具，专门为电商领域提供服务     |
+| 图像生成/编辑   | 搜狐简单AI                             | [https://ai.sohu.com](https://ai.sohu.com/)                  | 智能图片生成平台和社区                                       |
+| 图像生成/编辑   | 6pen                                   | [https://6pen.art](https://6pen.art/)                        | 文本描述生成绘画艺术作品                                     |
+| AI设计          | 阿里堆友                               | [https://d.design](https://d.design/)                        | 面向设计师群体的AI设计社区                                   |
+| AI设计          | 稿定AI                                 | [https://www.gaoding.com](https://www.gaoding.com/)          | 图像设计                                                     |
+| AI设计          | 墨刀AI                                 | [https://modao.cc](https://modao.cc/)                        | 产品设计协作平台                                             |
+| AI设计          | 莫高设计MasterGo AI                    | [https://mastergo.com](https://mastergo.com/)                | AI 时代的企业级产品设计平台，界面设计、交互设计……            |
+| AI设计          | 创客贴AI                               | [https://www.chuangkit.com](https://www.chuangkit.com/)      | 图形图像设计                                                 |
+| AI设计          | 即时AI                                 | https://js.design/ai                                         | 文生UI，文生图，图生UI……                                     |
+| AI设计          | PixsO AI                               | [https://pixso.cn](https://pixso.cn/)                        | 新生代UI设计工具                                             |
+| AI设计          | 抖音即创                               | [https://aic.oceanengine.com](https://aic.oceanengine.com/)  | 抖音电商智能创作平台,提供AI视频创作、图文创作和直播创作      |
+| AI设计          | 腾讯 AIDesign                          | [https://ailogo.qq.com](https://ailogo.qq.com/)              | 腾讯的logo设计                                               |
+| AI设计          | 美间                                   | [https://www.meijian.com](https://www.meijian.com/)          | AI软装设计、海报和提案生成工具                               |
+| AI音频          | 度加创作工具                           | [https://aigc.baidu.com](https://aigc.baidu.com/)            | 热搜一键成稿，文稿一键成片                                   |
+| AI音频          | 魔音工坊                               | [https://www.moyin.com](https://www.moyin.com/)              | AI配音工具                                                   |
+| AI音频          | 网易天音                               | [https://tianyin.music.163.com](https://tianyin.music.163.com/) | 智能编曲，海量风格                                           |
+| AI音频          | TME Studio                             | https://y.qq.com/tme_studio                                  | 腾讯音乐智能音乐生成工具                                     |
+| AI音频          | 讯飞智作                               | [https://www.xfzhizuo.cn](https://www.xfzhizuo.cn/)          | 配音、声音定制、虚拟主播、音视频处理……                       |
+| AI视频          | PixVerse                               | [https://pixverse.ai](https://pixverse.ai/)                  | 文生视频                                                     |
+| AI视频          | 绘影字幕                               | [https://huiyingzimu.com](https://huiyingzimu.com/)          | AI字幕，翻译、配音……                                         |
+| AI视频          | 万彩微影                               | https://www.animiz.cn/microvideo                             | 真人手绘视频、翻转文字视频、文章转视频、相册视频工具……       |
+| AI视频          | 芦笋AI提词器                           | [https://tcq.lusun.com](https://tcq.lusun.com/)              | 持AI写稿、隐形提词效果、支持智能跟读                         |
+| AI视频          | 360快剪辑                              | https://kuai.360.cn                                          | 专业视频剪辑                                                 |
+| AI视频          | 万彩AI                                 | https://ai.kezhan365.com                                     | 高效、好用的AI写作和短视频创作平台                           |
+| 数字人          | 腾讯智影                               | [https://zenvideo.qq.com](https://zenvideo.qq.com/)          | 数字人、文本配音、文章转视频……                               |
+| 数字人          | 来画                                   | [https://www.laihua.com](https://www.laihua.com/)            | 动画、数字人智能制作                                         |
+| 数字人          | 一帧秒创                               | [https://aigc.yizhentv.com](https://aigc.yizhentv.com/)      | AI视频，数字人、AI作画……                                     |
+| 数字人          | 万兴播爆                               | [https://virbo.wondershare.cn](https://virbo.wondershare.cn/) | 数字人，真人营销视频                                         |
+| AI写代码        | 昇思MindSpore                          | [https://www.mindspore.cn](https://www.mindspore.cn/)        | 面向开发者的一站式AI开发平台，提供海量数据预处理及半自动化标注、大规模分布式Training、自动化模型生成 |
+| AI写代码        | 百度飞桨PaddlePaddle AI Code assistant | [https://www.paddlepaddle.org.cn](https://www.paddlepaddle.org.cn/) | 在线编程，海量数据集                                         |
+| AI写代码        | ZelinAI                                | [https://www.zelinai.com](https://www.zelinai.com/)          | 零代码构建AI应用                                             |
+| AI写代码        | aiXcoder                               | [https://www.aixcoder.com](https://www.aixcoder.com/)        | 基于深度学习代码生成技术的智能编程机器人                     |
+| AI写代码        | 商汤代码小浣熊                         | https://raccoon.sensetime.com/code                           | 代码生成补全翻译重构……                                       |
+| AI写代码        | CodeArts Snap                          | https://www.huaweicloud.com/product/codeartside/snap.html    | 覆盖代码生成、研发知识问答、单元测试用例生成、代码解释、代码注释、代码翻译、代码调试、代码检查等八大研发场景 |
+| AI写代码        | 天工智码                               | https://sky-code.singularity-ai.com/index.html#/             | 基于昆仑天工模型的AI代码工具                                 |
+| 模型训练/部署   | 火山方舟                               | https://www.volcengine.com/product/ark                       | 模型训练、推理、评测、精调等全方位功能与服务                 |
+| 模型训练/部署   | 魔搭社区                               | [https://modelscope.cn](https://modelscope.cn/)              | 阿里达摩院，提供模型探索体验、推理、训练、部署和应用的一站式服务 |
+| 模型训练/部署   | 文心大模型                             | [https://wenxin.baidu.com](https://wenxin.baidu.com/)        | 产业级知识增强大模型                                         |
+| AI提示词        | 提示工程指南                           | [www.promptingguide.ai](http://www.promptingguide.ai/)       | 如何使用提示词来完成不同的任务                               |
+| AI提示词        | 词魂                                   | https://icihun.com/                                          | AIGC精品提示词库                                             |
+
 ## ⚙️工具合集
 
 | 资源信息                                 | 资源信息                                | 资源信息                                    | 资源信息                              |
