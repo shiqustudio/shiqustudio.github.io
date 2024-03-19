@@ -13,6 +13,16 @@
 
 🌐 资源地址：[点击跳转](https://gitstar-ranking.com/)
 
+### Vmail
+
+{{< image src="https://bib0.com/xc/i/2024/03/19/6965772e706e67.png" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：📨[Vmail](https://github.com/yesmore/vmail/tree/main) - 一个开源的临时邮件服务 
+
+> 📄该项目基于 Cloudflare worker + turso sqlite + Vercel ，全程免费实现，轻松拥有专属的临时邮件网站
+
+🌐 资源地址：🧩 [开源地址](https://github.com/yesmore/vmail/tree/main)
+
 ### tsParticles
 
 {{< image src="https://bib0.com/xc/i/2024/03/14/photo_2024-03-14_16-32-50.jpg" alt="-" title="Fun's images">}}  
