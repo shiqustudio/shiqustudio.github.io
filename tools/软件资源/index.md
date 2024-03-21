@@ -666,6 +666,17 @@
 🟡资源名称：修复MacOS的AirDrop 不顶用、蓝牙掉线、音频断断续续、输入法卡死、搜索框卡死、统统修好  
 🌐 资源地址：[点击跳转](https://github.com/Lakr233/FixTim)
 
+## CNBYDJ PE-Arm设备维护系统
+
+{{< image src="https://bib0.com/xc/i/2024/03/21/photo_2024-03-21_08-34-07.jpg" alt="-" title="Fun's images">}}
+
+⭐️  资源描述：CNBYDJ PE-Arm设备维护系统 
+
+> 📄CNBYDJ PE不完全使用WimBuilder2批处理构建。是一个以维护为目的的PE。励志做一个安全、臃肿、稳定、缓慢、可靠的WinPE。  
+> 原汁原味的文件内核与注册表，增加对内存的占用。全面的维护工具。透明无加密的系统文件。不接受任何形式的软件捆绑。干净清晰的维护体验。
+
+🌐 资源地址：📎[官网](https://bydjpe.winos.me/)
+
 ## 辅助工具
 
 ### MSEdgeRedirect

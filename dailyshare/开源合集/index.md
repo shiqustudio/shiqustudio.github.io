@@ -13,6 +13,16 @@
 
 🌐 资源地址：[点击跳转](https://gitstar-ranking.com/)
 
+### SearchSearchGo
+
+{{< image src="https://bib0.com/xc/i/2024/03/21/photo_2024-03-21_08-28-36.jpg" alt="-" title="Fun's images">}}  
+
+⭐️  资源描述：[SearchSearchGo](https://ssgo.app/) - 新一代阿里云盘搜索引擎 
+
+> 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
+
+🌐 资源地址：🧩 [开源地址](https://github.com/Justin3go/SearchSearchGo) | [体验地址](https://ssgo.app/)
+
 ### Vmail
 
 {{< image src="https://bib0.com/xc/i/2024/03/19/6965772e706e67.png" alt="-" title="Fun's images">}}  

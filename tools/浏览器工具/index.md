@@ -21,6 +21,20 @@
 | ✅    | [极简插件](https://chrome.zzzmh.cn/)      | **`可用`** |
 | ✅    | [插件迷](https://www.chajianmi.com/)      | **`可用`** |
 
+### Weibo archiver
+
+{{< image src="https://bib0.com/xc/i/2024/03/21/photo_2024-03-21_08-37-33.jpg" alt="-" title="Fun's images" width="800px">}}  
+
+⭐️  资源描述：🌐[Weibo archiver](https://github.com/Chilfish/Weibo-archiver) - 一个可以为微博存档备份的油猴脚本 
+
+>📄使用很简单，先安装脚本（前提是已安装油猴插件），然后进入用户个人主页即可导出数据
+>
+>最后进入「在线预览」导入数据即可查看，界面是仿微博形式的简约版
+>
+>作者坦言目前正在开发桌面版应用，届时可以直接在本地打开查看
+
+🌐 资源地址：[点击跳转](https://github.com/Chilfish/Weibo-archiver) | ⚙[安装脚本](https://raw.githubusercontent.com/Chilfish/Weibo-archiver/monkey/weibo-archiver.user.js) | 🌐[在线预览](https://weibo.chilfish.top/post)
+
 ### SessionPaw: OneTab Outliner
 
 {{< image src="https://bib0.com/xc/i/2024/01/30/image-20240130083746257.png" alt="-" title="Fun's images" width="800px">}}  
