@@ -21,6 +21,14 @@
 | ✅    | [极简插件](https://chrome.zzzmh.cn/)      | **`可用`** |
 | ✅    | [插件迷](https://www.chajianmi.com/)      | **`可用`** |
 
+### MyBrowserAddon
+
+{{< image src="https://bib0.com/xc/i/2024/04/07/photo_2024-04-07_17-35-29.jpg" alt="-" title="Fun's images" width="800px">}}  
+
+⭐️  资源描述：📌MyBrowserAddon 实用的浏览器插件开源项目社区
+
+🌐 资源地址：[点击跳转](https://mybrowseraddon.com/)
+
 ### Weibo archiver
 
 {{< image src="https://bib0.com/xc/i/2024/03/21/photo_2024-03-21_08-37-33.jpg" alt="-" title="Fun's images" width="800px">}}  
