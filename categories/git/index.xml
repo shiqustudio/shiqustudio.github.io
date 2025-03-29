@@ -1,22 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git - 分类 - 拾趣资源</title>
-    <link>https://blog.funvip.live/categories/git/</link>
-    <description>Git - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</lastBuildDate><atom:link href="https://blog.funvip.live/categories/git/" rel="self" type="application/rss+xml" /><item>
-  <title>Git 常用指令汇总</title>
-  <link>https://blog.funvip.live/test/git/</link>
-  <pubDate>Mon, 20 Feb 2023 08:59:56 &#43;0800</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/test/git/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="/test/git/images/relation-1.png" referrerpolicy="no-referrer">
-      </div><ul>
-<li><strong>工作区</strong>：就是你在电脑里能看到的目录。</li>
-<li><strong>暂存区</strong>：英文叫 stage, 或 index。一般存放在 &ldquo;.git 目录下&rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。</li>
-<li><strong>版本库</strong>：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。</li>
-</ul>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/categories/git/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git 常用指令汇总</title>
+      <link>http://localhost:1313/test/git/</link>
+      <pubDate>Mon, 20 Feb 2023 08:59:56 +0800</pubDate>
+      <guid>http://localhost:1313/test/git/</guid>
+      <category domain="http://localhost:1313/categories/git/">Git</category>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;工作区&lt;/strong&gt;：就是你在电脑里能看到的目录。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;暂存区&lt;/strong&gt;：英文叫 stage, 或 index。一般存放在 &amp;ldquo;.git 目录下&amp;rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;版本库&lt;/strong&gt;：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
 </rss>

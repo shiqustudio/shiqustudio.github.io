@@ -1,110 +1,76 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>所有文章 - 拾趣资源</title>
-    <link>https://blog.funvip.live/posts/</link>
-    <description>所有文章 | 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 04 Dec 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>🔎搜索引擎</title>
-  <link>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
-  <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
-  <description><![CDATA[<blockquote>
-<p>全能搜索引擎 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🈴合集资源</title>
-  <link>https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/</link>
-  <pubDate>Mon, 04 Dec 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/</guid>
-  <description><![CDATA[<p>💡 收集 PDF 处理、机器人、插件、文案、影视、音乐、插画等众多相同网站的集合</p>]]></description>
-</item>
-<item>
-  <title>🤖Ai知识集</title>
-  <link>https://blog.funvip.live/posts/aisummary/</link>
-  <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/aisummary/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话，更多模型可在<a href="https://www.appgptstore.ai/"target="_blank" rel="external nofollow noopener noreferrer">ChatGPT应用商店<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看。</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🈴合集资源</title>
-  <link>https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/</link>
-  <pubDate>Mon, 04 Dec 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/</guid>
-  <description><![CDATA[<p>💡 收集 PDF 处理、机器人、插件、文案、影视、音乐、插画等众多相同网站的集合</p>]]></description>
-</item>
-<item>
-  <title>🤖Ai知识集</title>
-  <link>https://blog.funvip.live/posts/aisummary/</link>
-  <pubDate>Sat, 22 Jul 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/aisummary/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/10/photo_2023-06-07_00-53-19.jpg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>ChatGPT 是一款先进的人工智慧语言模型，由<a href="https://openai.com/"target="_blank" rel="external nofollow noopener noreferrer">OpenAI<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话，更多模型可在<a href="https://www.appgptstore.ai/"target="_blank" rel="external nofollow noopener noreferrer">ChatGPT应用商店<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看。</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🔎搜索引擎</title>
-  <link>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
-  <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
-  <description><![CDATA[<blockquote>
-<p>全能搜索引擎 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🐏羊毛·薅</title>
-  <link>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</link>
-  <pubDate>Thu, 29 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</guid>
-  <description><![CDATA[<blockquote>
-<p>羊毛·薅 🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🌏Web Ui</title>
-  <link>https://blog.funvip.live/posts/webui/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/webui/</guid>
-  <description><![CDATA[<blockquote>
-<p>Web Ui设计资源导航 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-<item>
-  <title>🔮LOGO设计</title>
-  <link>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/29/4c851204e79563e71f2a2051d884d66b.jfif" referrerpolicy="no-referrer">
-      </div><p>LOGO设计灵感收集网站 🌟</p>]]></description>
-</item>
-<item>
-  <title>🖌️设计工具集</title>
-  <link>https://blog.funvip.live/posts/uitoolsz/</link>
-  <pubDate>Mon, 19 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/uitoolsz/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/20/Group-109.svg" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>设计资源网址导航 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/posts/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🈴合集资源</title>
+      <link>http://localhost:1313/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Mon, 04 Dec 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E5%90%88%E9%9B%86%E8%B5%84%E6%BA%90/</guid>
+      <category domain="http://localhost:1313/categories/%E5%90%88%E9%9B%86/">合集</category>
+      <description>&lt;p&gt;💡 收集 PDF 处理、机器人、插件、文案、影视、音乐、插画等众多相同网站的集合&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤖Ai知识集</title>
+      <link>http://localhost:1313/posts/aisummary/</link>
+      <pubDate>Sat, 22 Jul 2023 21:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aisummary/</guid>
+      <category domain="http://localhost:1313/categories/%E7%AB%99%E7%82%B9/">站点</category>
+      <category domain="http://localhost:1313/categories/ai/">AI</category>
+      <category domain="http://localhost:1313/categories/%E5%BC%80%E6%BA%90/">开源</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;ChatGPT 是一款先进的人工智慧语言模型，由&lt;a href=&#34;https://openai.com/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;OpenAI&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;研发并基于GPT-4 架构。该模型能够理解和生成自然语言，提供各种用途，例如回答问题、撰写文章、编辑文本和参与对话，更多模型可在&lt;a href=&#34;https://www.appgptstore.ai/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;ChatGPT应用商店&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;查看。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>🔎搜索引擎</title>
+      <link>http://localhost:1313/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
+      <pubDate>Fri, 07 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
+      <category domain="http://localhost:1313/categories/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/">搜索引擎</category>
+      <category domain="http://localhost:1313/categories/%E8%B5%84%E6%BA%90/">资源</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;全能搜索引擎 🌟🌟&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>🐏羊毛·薅</title>
+      <link>http://localhost:1313/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</link>
+      <pubDate>Thu, 29 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E7%BE%8A%E6%AF%9B%E8%96%85/</guid>
+      <category domain="http://localhost:1313/categories/%E7%BE%8A%E6%AF%9B/">羊毛</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;羊毛·薅 🌟&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>🌏Web Ui</title>
+      <link>http://localhost:1313/posts/webui/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/webui/</guid>
+      <category domain="http://localhost:1313/categories/ui/">Ui</category>
+      <category domain="http://localhost:1313/categories/%E8%AE%BE%E8%AE%A1/">设计</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Web Ui设计资源导航 🌟🌟&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>🔮LOGO设计</title>
+      <link>http://localhost:1313/posts/logo%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/logo%E8%AE%BE%E8%AE%A1/</guid>
+      <category domain="http://localhost:1313/categories/%E7%81%B5%E6%84%9F/">灵感</category>
+      <category domain="http://localhost:1313/categories/%E8%AE%BE%E8%AE%A1/">设计</category>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E7%AB%99/">网站</category>
+      <description>&lt;p&gt;LOGO设计灵感收集网站 🌟&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🖌️设计工具集</title>
+      <link>http://localhost:1313/posts/uitoolsz/</link>
+      <pubDate>Mon, 19 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uitoolsz/</guid>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E7%AB%99/">网站</category>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/">网址导航</category>
+      <category domain="http://localhost:1313/categories/%E8%AE%BE%E8%AE%A1/">设计</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;设计资源网址导航 🌟🌟&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
 </rss>

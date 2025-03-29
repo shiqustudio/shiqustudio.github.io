@@ -1,20 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>问题 - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/%E9%97%AE%E9%A2%98/</link>
-    <description>问题 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Thu, 06 Jul 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/%E9%97%AE%E9%A2%98/" rel="self" type="application/rss+xml" /><item>
-  <title>📐5W2H分析法</title>
-  <link>https://blog.funvip.live/personal/5w2h%E5%88%86%E6%9E%90%E6%B3%95/</link>
-  <pubDate>Thu, 06 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/personal/5w2h%E5%88%86%E6%9E%90%E6%B3%95/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/12/06/035d23b4cc0ca1d6e86db0de58a99fbc.jfif" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>平时遇到问题，如何应用一些分析方法来帮助我们系统性思考呢？5W2H分析法。</p>
-</blockquote>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/tags/%E9%97%AE%E9%A2%98/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%97%AE%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📐5W2H分析法</title>
+      <link>http://localhost:1313/personal/5w2h%E5%88%86%E6%9E%90%E6%B3%95/</link>
+      <pubDate>Thu, 06 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/personal/5w2h%E5%88%86%E6%9E%90%E6%B3%95/</guid>
+      <category domain="http://localhost:1313/categories/%E6%9D%82%E8%B0%88/">杂谈</category>
+      <category domain="http://localhost:1313/categories/%E5%88%86%E6%9E%90/">分析</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;平时遇到问题，如何应用一些分析方法来帮助我们系统性思考呢？5W2H分析法。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
 </rss>

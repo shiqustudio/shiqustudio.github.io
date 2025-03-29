@@ -1,18 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>播放器 - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</link>
-    <description>播放器 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Wed, 27 Dec 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/%E6%92%AD%E6%94%BE%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
-  <title>📺TVBox</title>
-  <link>https://blog.funvip.live/dailyshare/tvbox/</link>
-  <pubDate>Wed, 27 Dec 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/dailyshare/tvbox/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/12/29/9dc2f050cd4e438a557bdee8e2756eaf.jpg" referrerpolicy="no-referrer">
-      </div><p>💡 TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加 <strong>源</strong>，速度和资源量是根据添加的配置而决定的，只要添加的 <strong>配置</strong> 里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。  <strong>想要简单省事且免费的 app，使用 TVBox 是最优选择</strong>。</p>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%92%AD%E6%94%BE%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📺TVBox</title>
+      <link>http://localhost:1313/dailyshare/tvbox/</link>
+      <pubDate>Wed, 27 Dec 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/dailyshare/tvbox/</guid>
+      <category domain="http://localhost:1313/categories/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/">电视盒子</category>
+      <category domain="http://localhost:1313/categories/%E6%92%AD%E6%94%BE%E5%99%A8/">播放器</category>
+      <category domain="http://localhost:1313/categories/tv/">TV</category>
+      <description>&lt;p&gt;💡 TVBox 是一款电视盒子播放器，开源免费，简洁无广告，可以添加 &lt;strong&gt;源&lt;/strong&gt;，速度和资源量是根据添加的配置而决定的，只要添加的 &lt;strong&gt;配置&lt;/strong&gt; 里的线路给力，就可以做到流畅观看电视直播、电视剧、电影等。  &lt;strong&gt;想要简单省事且免费的 app，使用 TVBox 是最优选择&lt;/strong&gt;。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

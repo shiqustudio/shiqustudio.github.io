@@ -1,20 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>线上转档 - 分类 - 拾趣资源</title>
-    <link>https://blog.funvip.live/categories/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
-    <description>线上转档 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/" rel="self" type="application/rss+xml" /><item>
-  <title>📚线上转档</title>
-  <link>https://blog.funvip.live/tools/freetoolsonline/</link>
-  <pubDate>Wed, 28 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/freetoolsonline/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/hugoBlog/pdfyeah.png" referrerpolicy="no-referrer">
-      </div><blockquote>
-<p>各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。</p>
-</blockquote>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/categories/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📚线上转档</title>
+      <link>http://localhost:1313/tools/freetoolsonline/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tools/freetoolsonline/</guid>
+      <category domain="http://localhost:1313/categories/%E7%AB%99%E7%82%B9/">站点</category>
+      <category domain="http://localhost:1313/categories/%E7%BA%BF%E4%B8%8A%E8%BD%AC%E6%A1%A3/">线上转档</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;各种线上转换服务，包括档案转档、格式转换、单位换算、汇率计算。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
 </rss>

@@ -1,13 +1,13 @@
 # 友情链接
 
 
-<!--
+&lt;!--
 
-> 暂时不接受友链！
-> Warn: 超过两年未更新或长期挂掉的站点将被取消！
--->
+&gt; 暂时不接受友链！
+&gt; Warn: 超过两年未更新或长期挂掉的站点将被取消！
+--&gt;
 
-{{< link href="/friends/opml.xml" content=":(far fa-star fa-fw): Subscribe ours" download="opml.xml" card=true >}}
+{{&lt; link href=&#34;/friends/opml.xml&#34; content=&#34;:(far fa-star fa-fw): Subscribe ours&#34; download=&#34;opml.xml&#34; card=true &gt;}}
 
 ## 基本资讯
 
@@ -18,21 +18,21 @@
   description: Keep doing, keep loving.❤
 ```
 
-<!--description不怕千万人阻挡，只怕自己投降。-->
+&lt;!--description不怕千万人阻挡，只怕自己投降。--&gt;
 
 ## 友情提醒
 
-{{< admonition info "提醒" true >}}
+{{&lt; admonition info &#34;提醒&#34; true &gt;}}
 
-1. 🎉互换友链请按以上格式在评论区留言。（<font color = red>仅限个人非商业部落格/网站</font>）
+1. 🎉互换友链请按以上格式在评论区留言。（&lt;font color = red&gt;仅限个人非商业部落格/网站&lt;/font&gt;）
 2. ⚠️网站失效、停止维护、內容不当都可能被取消连接！
 3. 😈那些不尊重他人劳动成果，转载不加出处的，或恶意行为的网站，还请您不要来这里交换了。
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 
 ---
 
-> 作者: [聪](/about)  
-> URL: https://blog.funvip.live/friends/  
+> 作者:   
+> URL: http://localhost:1313/friends/  
 

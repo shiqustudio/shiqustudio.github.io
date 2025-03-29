@@ -1,34 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>测试文章 on 拾趣资源</title>
-    <link>https://blog.funvip.live/test/</link>
-    <description>Recent content in 测试文章 on 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>测试文章 - 拾趣资源</title>
+    <link>http://localhost:1313/test/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
     <language>zh-CN</language>
-    <managingEditor>43144966@qq.com (聪)</managingEditor>
-    <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>linux 文件权限</title>
-      <link>https://blog.funvip.live/test/linux-permission/</link>
+      <link>http://localhost:1313/test/linux-permission/</link>
       <pubDate>Mon, 20 Feb 2023 17:15:44 +0800</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/test/linux-permission/</guid>
+      <guid>http://localhost:1313/test/linux-permission/</guid>
+      <category domain="http://localhost:1313/categories/%E6%96%87%E6%A1%A3/">文档</category>
+      <category domain="http://localhost:1313/categories/%E7%A4%BA%E4%BE%8B/">示例</category>
       <description>&lt;p&gt;记录 linux 系统下文件权限相关的内容，Mac OS 下类似。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Git 常用指令汇总</title>
-      <link>https://blog.funvip.live/test/git/</link>
+      <link>http://localhost:1313/test/git/</link>
       <pubDate>Mon, 20 Feb 2023 08:59:56 +0800</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/test/git/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;工作区&lt;/strong&gt;：就是你在电脑里能看到的目录。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;暂存区&lt;/strong&gt;：英文叫 stage, 或 index。一般存放在 &amp;ldquo;.git 目录下&amp;rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;版本库&lt;/strong&gt;：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/test/git/</guid>
+      <category domain="http://localhost:1313/categories/git/">Git</category>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;工作区&lt;/strong&gt;：就是你在电脑里能看到的目录。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;暂存区&lt;/strong&gt;：英文叫 stage, 或 index。一般存放在 &amp;ldquo;.git 目录下&amp;rdquo; 下的 index 文件（.git/index）中，所以我们把暂存区有时也叫作索引（index）。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;版本库&lt;/strong&gt;：工作区有一个隐藏目录。git，这个不算工作区，而是 Git 的版本库。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

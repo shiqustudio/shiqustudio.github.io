@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>标签 - 标签 - 拾趣资源</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 17:44:37 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TV</title>
+      <link>http://localhost:1313/tags/tv/</link>
+      <pubDate>Wed, 27 Dec 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tv/</guid>
+      <description>TV</description>
+    </item>
+    <item>
+      <title>播放器</title>
+      <link>http://localhost:1313/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</link>
+      <pubDate>Wed, 27 Dec 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</guid>
+      <description>播放器</description>
+    </item>
+    <item>
+      <title>电视盒子</title>
+      <link>http://localhost:1313/tags/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/</link>
+      <pubDate>Wed, 27 Dec 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90/</guid>
+      <description>电视盒子</description>
+    </item>
+    <item>
+      <title>急救</title>
+      <link>http://localhost:1313/tags/%E6%80%A5%E6%95%91/</link>
+      <pubDate>Sun, 17 Dec 2023 20:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%80%A5%E6%95%91/</guid>
+      <description>急救</description>
+    </item>
+    <item>
+      <title>健康</title>
+      <link>http://localhost:1313/tags/%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Sun, 17 Dec 2023 20:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%81%A5%E5%BA%B7/</guid>
+      <description>健康</description>
+    </item>
+    <item>
+      <title>合集</title>
+      <link>http://localhost:1313/tags/%E5%90%88%E9%9B%86/</link>
+      <pubDate>Mon, 04 Dec 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%90%88%E9%9B%86/</guid>
+      <description>合集</description>
+    </item>
+    <item>
+      <title>工具</title>
+      <link>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 04 Dec 2023 11:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</guid>
+      <description>工具</description>
+    </item>
+    <item>
+      <title>音乐</title>
+      <link>http://localhost:1313/tags/%E9%9F%B3%E4%B9%90/</link>
+      <pubDate>Mon, 04 Dec 2023 11:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E9%9F%B3%E4%B9%90/</guid>
+      <description>音乐</description>
+    </item>
+    <item>
+      <title>视频</title>
+      <link>http://localhost:1313/tags/%E8%A7%86%E9%A2%91/</link>
+      <pubDate>Wed, 29 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%A7%86%E9%A2%91/</guid>
+      <description>视频</description>
+    </item>
+    <item>
+      <title>下载</title>
+      <link>http://localhost:1313/tags/%E4%B8%8B%E8%BD%BD/</link>
+      <pubDate>Wed, 29 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%B8%8B%E8%BD%BD/</guid>
+      <description>下载</description>
+    </item>
+    <item>
+      <title>影视</title>
+      <link>http://localhost:1313/tags/%E5%BD%B1%E8%A7%86/</link>
+      <pubDate>Wed, 29 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%BD%B1%E8%A7%86/</guid>
+      <description>影视</description>
+    </item>
+    <item>
+      <title>压缩</title>
+      <link>http://localhost:1313/tags/%E5%8E%8B%E7%BC%A9/</link>
+      <pubDate>Tue, 28 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8E%8B%E7%BC%A9/</guid>
+      <description>压缩</description>
+    </item>
+    <item>
+      <title>电子书</title>
+      <link>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</link>
+      <pubDate>Tue, 28 Nov 2023 12:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</guid>
+      <description>电子书</description>
+    </item>
+    <item>
+      <title>论文</title>
+      <link>http://localhost:1313/tags/%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Tue, 28 Nov 2023 12:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%AE%BA%E6%96%87/</guid>
+      <description>论文</description>
+    </item>
+    <item>
+      <title>搜索</title>
+      <link>http://localhost:1313/tags/%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Tue, 28 Nov 2023 12:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%90%9C%E7%B4%A2/</guid>
+      <description>搜索</description>
+    </item>
+    <item>
+      <title>文献</title>
+      <link>http://localhost:1313/tags/%E6%96%87%E7%8C%AE/</link>
+      <pubDate>Tue, 28 Nov 2023 12:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%96%87%E7%8C%AE/</guid>
+      <description>文献</description>
+    </item>
+    <item>
+      <title>阅读</title>
+      <link>http://localhost:1313/tags/%E9%98%85%E8%AF%BB/</link>
+      <pubDate>Tue, 28 Nov 2023 12:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E9%98%85%E8%AF%BB/</guid>
+      <description>阅读</description>
+    </item>
+    <item>
+      <title>OCR</title>
+      <link>http://localhost:1313/tags/ocr/</link>
+      <pubDate>Tue, 28 Nov 2023 11:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ocr/</guid>
+      <description>OCR</description>
+    </item>
+    <item>
+      <title>CDN</title>
+      <link>http://localhost:1313/tags/cdn/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cdn/</guid>
+      <description>CDN</description>
+    </item>
+    <item>
+      <title>DoH</title>
+      <link>http://localhost:1313/tags/doh/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/doh/</guid>
+      <description>DoH</description>
+    </item>
+    <item>
+      <title>SSL</title>
+      <link>http://localhost:1313/tags/ssl/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ssl/</guid>
+      <description>SSL</description>
+    </item>
+    <item>
+      <title>防盗链</title>
+      <link>http://localhost:1313/tags/%E9%98%B2%E7%9B%97%E9%93%BE/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E9%98%B2%E7%9B%97%E9%93%BE/</guid>
+      <description>防盗链</description>
+    </item>
+    <item>
+      <title>分享</title>
+      <link>http://localhost:1313/tags/%E5%88%86%E4%BA%AB/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%88%86%E4%BA%AB/</guid>
+      <description>分享</description>
+    </item>
+    <item>
+      <title>免费</title>
+      <link>http://localhost:1313/tags/%E5%85%8D%E8%B4%B9/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%85%8D%E8%B4%B9/</guid>
+      <description>免费</description>
+    </item>
+    <item>
+      <title>图片</title>
+      <link>http://localhost:1313/tags/%E5%9B%BE%E7%89%87/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%9B%BE%E7%89%87/</guid>
+      <description>图片</description>
+    </item>
+    <item>
+      <title>网站</title>
+      <link>http://localhost:1313/tags/%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BD%91%E7%AB%99/</guid>
+      <description>网站</description>
+    </item>
+    <item>
+      <title>在线</title>
+      <link>http://localhost:1313/tags/%E5%9C%A8%E7%BA%BF/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%9C%A8%E7%BA%BF/</guid>
+      <description>在线</description>
+    </item>
+    <item>
+      <title>资源</title>
+      <link>http://localhost:1313/tags/%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B5%84%E6%BA%90/</guid>
+      <description>资源</description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Thu, 23 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/github/</guid>
+      <description>Github</description>
+    </item>
+    <item>
+      <title>传输</title>
+      <link>http://localhost:1313/tags/%E4%BC%A0%E8%BE%93/</link>
+      <pubDate>Thu, 23 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%BC%A0%E8%BE%93/</guid>
+      <description>传输</description>
+    </item>
+    <item>
+      <title>存储</title>
+      <link>http://localhost:1313/tags/%E5%AD%98%E5%82%A8/</link>
+      <pubDate>Thu, 23 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%AD%98%E5%82%A8/</guid>
+      <description>存储</description>
+    </item>
+    <item>
+      <title>加速</title>
+      <link>http://localhost:1313/tags/%E5%8A%A0%E9%80%9F/</link>
+      <pubDate>Thu, 23 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8A%A0%E9%80%9F/</guid>
+      <description>加速</description>
+    </item>
+    <item>
+      <title>中转</title>
+      <link>http://localhost:1313/tags/%E4%B8%AD%E8%BD%AC/</link>
+      <pubDate>Thu, 23 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%B8%AD%E8%BD%AC/</guid>
+      <description>中转</description>
+    </item>
+    <item>
+      <title>翻译</title>
+      <link>http://localhost:1313/tags/%E7%BF%BB%E8%AF%91/</link>
+      <pubDate>Tue, 21 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BF%BB%E8%AF%91/</guid>
+      <description>翻译</description>
+    </item>
+    <item>
+      <title>英语</title>
+      <link>http://localhost:1313/tags/%E8%8B%B1%E8%AF%AD/</link>
+      <pubDate>Tue, 21 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%8B%B1%E8%AF%AD/</guid>
+      <description>英语</description>
+    </item>
+    <item>
+      <title>开源</title>
+      <link>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Mon, 21 Aug 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%BC%80%E6%BA%90/</guid>
+      <description>开源</description>
+    </item>
+    <item>
+      <title>自动化</title>
+      <link>http://localhost:1313/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+      <pubDate>Mon, 21 Aug 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+      <description>自动化</description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Wed, 09 Aug 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description>AI</description>
+    </item>
+    <item>
+      <title>ChatGpt</title>
+      <link>http://localhost:1313/tags/chatgpt/</link>
+      <pubDate>Sat, 22 Jul 2023 21:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chatgpt/</guid>
+      <description>ChatGpt</description>
+    </item>
+    <item>
+      <title>编程</title>
+      <link>http://localhost:1313/tags/%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Sat, 22 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BC%96%E7%A8%8B/</guid>
+      <description>编程</description>
+    </item>
+    <item>
+      <title>软件</title>
+      <link>http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Tue, 11 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6/</guid>
+      <description>软件</description>
+    </item>
+    <item>
+      <title>网络</title>
+      <link>http://localhost:1313/tags/%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Tue, 11 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BD%91%E7%BB%9C/</guid>
+      <description>网络</description>
+    </item>
+    <item>
+      <title>搜索引擎</title>
+      <link>http://localhost:1313/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
+      <pubDate>Fri, 07 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
+      <description>搜索引擎</description>
+    </item>
+    <item>
+      <title>分析</title>
+      <link>http://localhost:1313/tags/%E5%88%86%E6%9E%90/</link>
+      <pubDate>Thu, 06 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%88%86%E6%9E%90/</guid>
+      <description>分析</description>
+    </item>
+    <item>
+      <title>提问</title>
+      <link>http://localhost:1313/tags/%E6%8F%90%E9%97%AE/</link>
+      <pubDate>Thu, 06 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%8F%90%E9%97%AE/</guid>
+      <description>提问</description>
+    </item>
+    <item>
+      <title>问题</title>
+      <link>http://localhost:1313/tags/%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Thu, 06 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E9%97%AE%E9%A2%98/</guid>
+      <description>问题</description>
+    </item>
+    <item>
+      <title>职场</title>
+      <link>http://localhost:1313/tags/%E8%81%8C%E5%9C%BA/</link>
+      <pubDate>Thu, 06 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%81%8C%E5%9C%BA/</guid>
+      <description>职场</description>
+    </item>
+    <item>
+      <title>书签</title>
+      <link>http://localhost:1313/tags/%E4%B9%A6%E7%AD%BE/</link>
+      <pubDate>Sat, 01 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%B9%A6%E7%AD%BE/</guid>
+      <description>书签</description>
+    </item>
+    <item>
+      <title>羊毛</title>
+      <link>http://localhost:1313/tags/%E7%BE%8A%E6%AF%9B/</link>
+      <pubDate>Thu, 29 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BE%8A%E6%AF%9B/</guid>
+      <description>羊毛</description>
+    </item>
+    <item>
+      <title>Ui</title>
+      <link>http://localhost:1313/tags/ui/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ui/</guid>
+      <description>Ui</description>
+    </item>
+    <item>
+      <title>考研</title>
+      <link>http://localhost:1313/tags/%E8%80%83%E7%A0%94/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%80%83%E7%A0%94/</guid>
+      <description>考研</description>
+    </item>
+    <item>
+      <title>灵感</title>
+      <link>http://localhost:1313/tags/%E7%81%B5%E6%84%9F/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%81%B5%E6%84%9F/</guid>
+      <description>灵感</description>
+    </item>
+    <item>
+      <title>设计</title>
+      <link>http://localhost:1313/tags/%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%AE%BE%E8%AE%A1/</guid>
+      <description>设计</description>
+    </item>
+    <item>
+      <title>线上</title>
+      <link>http://localhost:1313/tags/%E7%BA%BF%E4%B8%8A/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BA%BF%E4%B8%8A/</guid>
+      <description>线上</description>
+    </item>
+    <item>
+      <title>域名</title>
+      <link>http://localhost:1313/tags/%E5%9F%9F%E5%90%8D/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%9F%9F%E5%90%8D/</guid>
+      <description>域名</description>
+    </item>
+    <item>
+      <title>转档</title>
+      <link>http://localhost:1313/tags/%E8%BD%AC%E6%A1%A3/</link>
+      <pubDate>Wed, 28 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%BD%AC%E6%A1%A3/</guid>
+      <description>转档</description>
+    </item>
+    <item>
+      <title>隐私</title>
+      <link>http://localhost:1313/tags/%E9%9A%90%E7%A7%81/</link>
+      <pubDate>Sun, 25 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E9%9A%90%E7%A7%81/</guid>
+      <description>隐私</description>
+    </item>
+    <item>
+      <title>比对</title>
+      <link>http://localhost:1313/tags/%E6%AF%94%E5%AF%B9/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%AF%94%E5%AF%B9/</guid>
+      <description>比对</description>
+    </item>
+    <item>
+      <title>壁纸</title>
+      <link>http://localhost:1313/tags/%E5%A3%81%E7%BA%B8/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%A3%81%E7%BA%B8/</guid>
+      <description>壁纸</description>
+    </item>
+    <item>
+      <title>公益</title>
+      <link>http://localhost:1313/tags/%E5%85%AC%E7%9B%8A/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%85%AC%E7%9B%8A/</guid>
+      <description>公益</description>
+    </item>
+    <item>
+      <title>微软</title>
+      <link>http://localhost:1313/tags/%E5%BE%AE%E8%BD%AF/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%BE%AE%E8%BD%AF/</guid>
+      <description>微软</description>
+    </item>
+    <item>
+      <title>网址导航</title>
+      <link>http://localhost:1313/tags/%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</link>
+      <pubDate>Mon, 19 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/</guid>
+      <description>网址导航</description>
+    </item>
+    <item>
+      <title>游戏</title>
+      <link>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Mon, 19 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</guid>
+      <description>游戏</description>
+    </item>
+    <item>
+      <title>Win</title>
+      <link>http://localhost:1313/tags/win/</link>
+      <pubDate>Fri, 09 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/win/</guid>
+      <description>Win</description>
+    </item>
+    <item>
+      <title>浏览器</title>
+      <link>http://localhost:1313/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
+      <pubDate>Fri, 09 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid>
+      <description>浏览器</description>
+    </item>
+    <item>
+      <title>油猴</title>
+      <link>http://localhost:1313/tags/%E6%B2%B9%E7%8C%B4/</link>
+      <pubDate>Fri, 09 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B2%B9%E7%8C%B4/</guid>
+      <description>油猴</description>
+    </item>
+    <item>
+      <title>Vercel</title>
+      <link>http://localhost:1313/tags/vercel/</link>
+      <pubDate>Sun, 04 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vercel/</guid>
+      <description>Vercel</description>
+    </item>
+    <item>
+      <title>古籍</title>
+      <link>http://localhost:1313/tags/%E5%8F%A4%E7%B1%8D/</link>
+      <pubDate>Tue, 04 Apr 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8F%A4%E7%B1%8D/</guid>
+      <description>古籍</description>
+    </item>
+    <item>
+      <title>写作</title>
+      <link>http://localhost:1313/tags/%E5%86%99%E4%BD%9C/</link>
+      <pubDate>Tue, 04 Apr 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%86%99%E4%BD%9C/</guid>
+      <description>写作</description>
+    </item>
+    <item>
+      <title>费曼学习法实践</title>
+      <link>http://localhost:1313/tags/%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95%E5%AE%9E%E8%B7%B5/</link>
+      <pubDate>Sun, 02 Apr 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95%E5%AE%9E%E8%B7%B5/</guid>
+      <description>费曼学习法实践</description>
+    </item>
+    <item>
+      <title>知识管理</title>
+      <link>http://localhost:1313/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Sun, 02 Apr 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</guid>
+      <description>知识管理</description>
+    </item>
+    <item>
+      <title>专注力</title>
+      <link>http://localhost:1313/tags/%E4%B8%93%E6%B3%A8%E5%8A%9B/</link>
+      <pubDate>Sun, 02 Apr 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%B8%93%E6%B3%A8%E5%8A%9B/</guid>
+      <description>专注力</description>
+    </item>
+    <item>
+      <title>图片空间</title>
+      <link>http://localhost:1313/tags/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</link>
+      <pubDate>Sat, 01 Apr 2023 19:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/</guid>
+      <description>图片空间</description>
+    </item>
+    <item>
+      <title>短链</title>
+      <link>http://localhost:1313/tags/%E7%9F%AD%E9%93%BE/</link>
+      <pubDate>Sat, 01 Apr 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%9F%AD%E9%93%BE/</guid>
+      <description>短链</description>
+    </item>
+    <item>
+      <title>问答</title>
+      <link>http://localhost:1313/tags/%E9%97%AE%E7%AD%94/</link>
+      <pubDate>Mon, 20 Mar 2023 17:15:44 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E9%97%AE%E7%AD%94/</guid>
+      <description>问答</description>
+    </item>
+    <item>
+      <title>安装</title>
+      <link>http://localhost:1313/tags/%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%AE%89%E8%A3%85/</guid>
+      <description>安装</description>
+    </item>
+    <item>
+      <title>基础</title>
+      <link>http://localhost:1313/tags/%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%9F%BA%E7%A1%80/</guid>
+      <description>基础</description>
+    </item>
+    <item>
+      <title>拓展</title>
+      <link>http://localhost:1313/tags/%E6%8B%93%E5%B1%95/</link>
+      <pubDate>Thu, 16 Mar 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%8B%93%E5%B1%95/</guid>
+      <description>拓展</description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Mon, 20 Feb 2023 08:59:56 +0800</pubDate>
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description>Git</description>
+    </item>
+    <item>
+      <title>CosAlbum</title>
+      <link>http://localhost:1313/tags/cosalbum/</link>
+      <pubDate>Sun, 24 Nov 2019 10:52:34 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cosalbum/</guid>
+      <description>CosAlbum</description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Sun, 24 Nov 2019 10:52:34 +0000</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description>JavaScript</description>
+    </item>
+    <item>
+      <title>腾讯云 Cos 桶</title>
+      <link>http://localhost:1313/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-cos-%E6%A1%B6/</link>
+      <pubDate>Sun, 24 Nov 2019 10:52:34 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-cos-%E6%A1%B6/</guid>
+      <description>腾讯云 Cos 桶</description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>http://localhost:1313/tags/content/</link>
+      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
+      <guid>http://localhost:1313/tags/content/</guid>
+      <description>Content</description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>http://localhost:1313/tags/emoji/</link>
+      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
+      <guid>http://localhost:1313/tags/emoji/</guid>
+      <description>Emoji</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/tags/markdown/</link>
+      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
+      <guid>http://localhost:1313/tags/markdown/</guid>
+      <description>Markdown</description>
+    </item>
+    <item>
+      <title>沐目体</title>
+      <link>http://localhost:1313/tags/%E6%B2%90%E7%9B%AE%E4%BD%93/</link>
+      <pubDate>Fri, 12 Oct 2018 19:39:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%B2%90%E7%9B%AE%E4%BD%93/</guid>
+      <description>沐目体</description>
+    </item>
+  </channel>
+</rss>

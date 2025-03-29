@@ -1,16 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/emoji/</link>
-    <description>emoji - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</lastBuildDate><atom:link href="https://blog.funvip.live/tags/emoji/" rel="self" type="application/rss+xml" /><item>
-  <title>Emoji 支持</title>
-  <link>https://blog.funvip.live/referto/emoji-support/</link>
-  <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/referto/emoji-support/</guid>
-  <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用。</p>]]></description>
-</item>
-</channel>
+    <title>Emoji - 标签 - 拾趣资源</title>
+    <link>http://localhost:1313/tags/emoji/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

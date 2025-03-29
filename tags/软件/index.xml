@@ -1,24 +1,31 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>软件 - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/%E8%BD%AF%E4%BB%B6/</link>
-    <description>软件 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/%E8%BD%AF%E4%BB%B6/" rel="self" type="application/rss+xml" /><item>
-  <title>🛡️网络工具</title>
-  <link>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C/</link>
-  <pubDate>Tue, 11 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E7%BD%91%E7%BB%9C/</guid>
-  <description><![CDATA[<p>💡 收集有关网络安全的辅助工具。例如：<a href="https://ip.skk.moe/"target="_blank" rel="external nofollow noopener noreferrer">IP查询<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、<a href="https://ip.im/"target="_blank" rel="external nofollow noopener noreferrer">IP聚合查询<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、 <a href="https://blog.tanglu.me/blogcdn/"target="_blank" rel="external nofollow noopener noreferrer">免费CDN<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>、 <a href="https://nstool.netease.com/"target="_blank" rel="external nofollow noopener noreferrer">IP和DNS查询<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a></p>]]></description>
-</item>
-<item>
-  <title>💻软件资源</title>
-  <link>https://blog.funvip.live/tools/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/</link>
-  <pubDate>Fri, 09 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/</guid>
-  <description><![CDATA[<p>💡 安卓、苹果MAC、adobe、office、办公、系统等一些常用软件资源</p>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛡️网络工具</title>
+      <link>http://localhost:1313/tools/%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Tue, 11 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tools/%E7%BD%91%E7%BB%9C/</guid>
+      <category domain="http://localhost:1313/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E7%BB%9C/">网络</category>
+      <description>&lt;p&gt;💡 收集有关网络安全的辅助工具。例如：&lt;a href=&#34;https://ip.skk.moe/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;IP查询&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;、&lt;a href=&#34;https://ip.im/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;IP聚合查询&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;、 &lt;a href=&#34;https://blog.tanglu.me/blogcdn/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;免费CDN&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;、 &lt;a href=&#34;https://nstool.netease.com/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;IP和DNS查询&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💻软件资源</title>
+      <link>http://localhost:1313/tools/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Fri, 09 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tools/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/</guid>
+      <category domain="http://localhost:1313/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E7%AB%99/">网站</category>
+      <category domain="http://localhost:1313/categories/win/">Win</category>
+      <description>&lt;p&gt;💡 安卓、苹果MAC、adobe、office、办公、系统等一些常用软件资源&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

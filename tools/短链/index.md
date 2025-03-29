@@ -1,58 +1,58 @@
 # 🔗缩短链接
 
 
-> 缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面
+&gt; 缩网址（URL shortening）又被称为缩址、短网址或是缩短网址，主要功能是将冗长的超连结转为更短、更容易被记住的短链结，只要点选缩网址，一样会被转址、重新导向至目标页面
 
-<!--more-->
+&lt;!--more--&gt;
 
-> 缩网址的好处一来大幅减少网址的字元数，二来可让网址看起来更干净简洁，在社群网站经常被用到（尤其是撰写长篇内容），不会因为过长的网址而产生被截断、无法顺利打开的问题。
->
-> 现今缩网址服务也整合各种附加功能，最常见的像是点击统计、密码保护、流量追踪（加入UTM、Google 分析或Facebook Pixel 代码）或是依照不同作业系统、装置或浏览器分别设定不同的目标网址，甚至能在付费后设定自己的网域名称，将网址打造为个性化的短网址。
->
-> 👉**国内临时可用**：[wz.my](https://wz.my/)、[dlj.li](https://dlj.li/)、[aad.tw](http://aad.tw/)、[zo.cm](https://zo.cm/)
+&gt; 缩网址的好处一来大幅减少网址的字元数，二来可让网址看起来更干净简洁，在社群网站经常被用到（尤其是撰写长篇内容），不会因为过长的网址而产生被截断、无法顺利打开的问题。
+&gt;
+&gt; 现今缩网址服务也整合各种附加功能，最常见的像是点击统计、密码保护、流量追踪（加入UTM、Google 分析或Facebook Pixel 代码）或是依照不同作业系统、装置或浏览器分别设定不同的目标网址，甚至能在付费后设定自己的网域名称，将网址打造为个性化的短网址。
+&gt;
+&gt; 👉**国内临时可用**：[wz.my](https://wz.my/)、[dlj.li](https://dlj.li/)、[aad.tw](http://aad.tw/)、[zo.cm](https://zo.cm/)
 
 ### GG.gg
 
-{{< image src="https://bib0.com/xc/i/2023/11/24/image-20231124153723925.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/11/24/image-20231124153723925.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：老牌国外短地址服务，快速、高效短链生成
 
 ⭐️  资源描述：
 
-> GG.gg 是分享、保存、跟踪链接的最快、最简单的方法。您可以通过我们的网站使用 GG.gg，也可以下载 GG.gg 浏览器扩展。如果您想获得易于记忆的 url，您还可以创建自定义短 url。GG.gg 使用强大的网络服务器，因此您的所有链接都运行得非常快。
->
-> **优点**
->
-> - 无广告
-> - 301重定向（更适合您的SEO）
-> - 能够选择自定义缩短的 URL
-> - Twitter、Facebook 和 FriendFeed 的快速“分享”链接
-> - 能够跟踪访客
-> - URL 缩短器镶边扩展
-> - URL 缩短器 firefox 扩展
-> - Opera 扩展
+&gt; GG.gg 是分享、保存、跟踪链接的最快、最简单的方法。您可以通过我们的网站使用 GG.gg，也可以下载 GG.gg 浏览器扩展。如果您想获得易于记忆的 url，您还可以创建自定义短 url。GG.gg 使用强大的网络服务器，因此您的所有链接都运行得非常快。
+&gt;
+&gt; **优点**
+&gt;
+&gt; - 无广告
+&gt; - 301重定向（更适合您的SEO）
+&gt; - 能够选择自定义缩短的 URL
+&gt; - Twitter、Facebook 和 FriendFeed 的快速“分享”链接
+&gt; - 能够跟踪访客
+&gt; - URL 缩短器镶边扩展
+&gt; - URL 缩短器 firefox 扩展
+&gt; - Opera 扩展
 
 🌐 资源地址： [点击跳转](https://gg.gg/) 
 
 ###  短链还原
 
-{{< image src="https://bib0.com/xc/i/2023/07/10/image-20230710212832844.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/07/10/image-20230710212832844.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：短网址还原
 
 ⭐️  资源描述：
 
->🔘 短网址会把真实网址压缩，我们却不知道这个网址到底会跳转到哪里，如果是坏人发的，那么短网址就会变得危险。还原网址可有效杜绝网络钓鱼、诈骗、病毒等等。
->
->🔘要解决这问题，最好的办法是建立一个预览，比如本服务，可以把压缩的网址还原成原来的网址。
->
->🔘 本短网址还原支持至少三百多种短网址的还原!
+&gt;🔘 短网址会把真实网址压缩，我们却不知道这个网址到底会跳转到哪里，如果是坏人发的，那么短网址就会变得危险。还原网址可有效杜绝网络钓鱼、诈骗、病毒等等。
+&gt;
+&gt;🔘要解决这问题，最好的办法是建立一个预览，比如本服务，可以把压缩的网址还原成原来的网址。
+&gt;
+&gt;🔘 本短网址还原支持至少三百多种短网址的还原!
 
 🌐 资源地址： [点击跳转](https://duanwangzhihuanyuan.bmcx.com/) 
 
 ### Too Short
 
-{{< image src="https://bib0.com/xc/i/2023/06/25/image-20230625213658525.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/06/25/image-20230625213658525.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：短链接生成器
 
@@ -62,7 +62,7 @@
 
 ### LURL
 
-{{< image src="https://bib0.com/xc/i/2023/04/15/lurl-1.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/2023/04/15/lurl-1.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：LURL 免费缩短图片与影片分享工具，附密码保护和有效期限设定
 
@@ -72,7 +72,7 @@
 
 ### Short io
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/short-io-01.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/short-io-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称： Short io 可自订网域名称的免费缩网址服务
 
@@ -82,7 +82,7 @@
 
 ###  Cuttly 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/cuttly-01.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/cuttly-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称： Cuttly 免费缩网址服务，提供自订网域名称和连结后缀功能
 
@@ -96,7 +96,7 @@
 
 ###  Bitly         
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/bitly-custom-domain.png" alt="-"  title="Fun's images" >}}        
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/bitly-custom-domain.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}        
 
 🆔  资源名称：Bitly 免费缩网址自订网域名称教学，让短网址也具有品牌风格
 
@@ -106,7 +106,7 @@
 
 ###  Url Shortener
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/url-shortener-chrome-07.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/url-shortener-chrome-07.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称： Url Shortener 一键缩短连结、产生QR code，支援六种缩网址服务
 
@@ -129,7 +129,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ###  MyPPT          
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/myppt-01.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/myppt-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：MyPPT 缩网址上传影片、照片转连结，设定浏览密码和过期时间
 
@@ -141,17 +141,17 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### LinkSafe 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/linksafe-01.jpg" alt="-"  title="Fun's images" >}}        
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/linksafe-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}        
 
 🆔  资源名称：LinkSafe 在缩网址加入reCAPTCHA 验证机制，阻止自动点击程式
 
-⭐️  资源描述：[LinkSafe](https://linksafe.ly/)是一个免费缩短网址服务，和其他缩网址不同的是会在产生转址时自动加入[reCAPTCHA](https://zh.wikipedia.org/zh-cn/ReCAPTCHA)验证机制，也就是大家在浏览某些网站时会跳出「**我不是机器人**」选项，按下后可能会跳出要求选择特定图片的问答题，通过验证才会跳转目标网址，**加上验证机制的短网址可有效阻止自动化程式或恶意流量**，因为大部分机器人无法通过reCAPTCHA 验证（2009 年Google 宣布收购reCAPTCHA，不断改良后现在只需勾选I'm not a robot 就会判定是否为真人）。
+⭐️  资源描述：[LinkSafe](https://linksafe.ly/)是一个免费缩短网址服务，和其他缩网址不同的是会在产生转址时自动加入[reCAPTCHA](https://zh.wikipedia.org/zh-cn/ReCAPTCHA)验证机制，也就是大家在浏览某些网站时会跳出「**我不是机器人**」选项，按下后可能会跳出要求选择特定图片的问答题，通过验证才会跳转目标网址，**加上验证机制的短网址可有效阻止自动化程式或恶意流量**，因为大部分机器人无法通过reCAPTCHA 验证（2009 年Google 宣布收购reCAPTCHA，不断改良后现在只需勾选I&#39;m not a robot 就会判定是否为真人）。
 
 🌐 资源地址： [点击跳转](https://linksafe.ly/)    
 
 ### Sudopad 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-13-12.44.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-07-13-12.44.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Sudopad 将多个网址加入单一页面分享，支援多人协作收集网址很好用
 
@@ -163,7 +163,7 @@ Url Shortener 是一个开放原始码专案，可以在[GitHub](https://github.
 
 ### TinyURL
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-10-23-12.48.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-10-23-12.48.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：TinyURL 提供rotf.lol、tiny.one 缩网址选项，登入还能编辑或删除连结
 
@@ -175,7 +175,7 @@ TinyURL 和Bitly 一样都提供付费升级、可自订网域名称的功能，
 
 ### Emojied
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-11-11.33.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-05-11-11.33.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Emojied 免费缩网址工具，让短网址带有个性化表情符号😂
 
@@ -187,7 +187,7 @@ Emojied 还有简单的统计功能，用来查看某个短网址被点击的次
 
 ### Zero Width Shortener 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2019-07-22_1340.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2019-07-22_1340.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：消失的短网址？Zero Width Shortener 让网址缩短到几乎没有长度
 
@@ -199,7 +199,7 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ### Make My Link Longer
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/2019-05-12_1339.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/2019-05-12_1339.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：这是恶搞吗？Make My Link Longer 让网址变超长的「缩网址」服务
 
@@ -212,6 +212,6 @@ Zero Width Shortener 是一个开放原始码服务，如果有兴趣的话可�
 
 ---
 
-> 作者: [聪](/about)  
-> URL: https://blog.funvip.live/tools/%E7%9F%AD%E9%93%BE/  
+> 作者:   
+> URL: http://localhost:1313/tools/%E7%9F%AD%E9%93%BE/  
 

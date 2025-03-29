@@ -1,48 +1,48 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>资源 - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/%E8%B5%84%E6%BA%90/</link>
-    <description>资源 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/%E8%B5%84%E6%BA%90/" rel="self" type="application/rss+xml" /><item>
-  <title>⬇️下载工具</title>
-  <link>https://blog.funvip.live/tools/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/</link>
-  <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/28/7ce0d2238e20d6cc88c191e6a43dab1c.png" referrerpolicy="no-referrer">
-      </div><p>💡 资源下载工具汇总</p>]]></description>
-</item>
-<item>
-  <title>🎯公共DoH</title>
-  <link>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</link>
-  <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/28/DNS20231128171059.jpg" referrerpolicy="no-referrer">
-      </div><p>💡 DoH 对于普通用户的用处主要体现了防止运营商对内容进行HTTP劫持，可以一定程度减少广告弹窗与内容篡改。更多可通过<a href="https://remeins.com/index/app/dns"target="_blank" rel="external nofollow noopener noreferrer">地址列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看。</p>]]></description>
-</item>
-<item>
-  <title>🛬CDN资源库</title>
-  <link>https://blog.funvip.live/tools/cdn/</link>
-  <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/cdn/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/28/192a17c745c30d541eea0ebb9056dac1.jfif" referrerpolicy="no-referrer">
-      </div><p>💡 CDN公共库是指将常用的JS库存放在CDN节点，以方便广大开发者直接调用。</p>]]></description>
-</item>
-<item>
-  <title>🔎搜索引擎</title>
-  <link>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
-  <pubDate>Fri, 07 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
-  <description><![CDATA[<blockquote>
-<p>全能搜索引擎 🌟🌟</p>
-</blockquote>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/tags/%E8%B5%84%E6%BA%90/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%B5%84%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⬇️下载工具</title>
+      <link>http://localhost:1313/tools/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tools/%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/</guid>
+      <category domain="http://localhost:1313/categories/%E4%B8%8B%E8%BD%BD/">下载</category>
+      <category domain="http://localhost:1313/categories/%E8%B5%84%E6%BA%90/">资源</category>
+      <description>&lt;p&gt;💡 资源下载工具汇总&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎯公共DoH</title>
+      <link>http://localhost:1313/tools/%E5%85%AC%E5%85%B1doh/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tools/%E5%85%AC%E5%85%B1doh/</guid>
+      <category domain="http://localhost:1313/categories/doh/">DoH</category>
+      <category domain="http://localhost:1313/categories/%E8%B5%84%E6%BA%90/">资源</category>
+      <description>&lt;p&gt;💡 DoH 对于普通用户的用处主要体现了防止运营商对内容进行HTTP劫持，可以一定程度减少广告弹窗与内容篡改。更多可通过&lt;a href=&#34;https://remeins.com/index/app/dns&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;地址列表&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;查看。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🛬CDN资源库</title>
+      <link>http://localhost:1313/tools/cdn/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tools/cdn/</guid>
+      <category domain="http://localhost:1313/categories/cdn/">CDN</category>
+      <category domain="http://localhost:1313/categories/%E8%B5%84%E6%BA%90/">资源</category>
+      <description>&lt;p&gt;💡 CDN公共库是指将常用的JS库存放在CDN节点，以方便广大开发者直接调用。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🔎搜索引擎</title>
+      <link>http://localhost:1313/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</link>
+      <pubDate>Fri, 07 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</guid>
+      <category domain="http://localhost:1313/categories/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/">搜索引擎</category>
+      <category domain="http://localhost:1313/categories/%E8%B5%84%E6%BA%90/">资源</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;全能搜索引擎 🌟🌟&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
 </rss>

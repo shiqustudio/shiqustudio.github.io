@@ -1,10 +1,10 @@
 # ⚜️Vercel
 
 
-> 🤖整理并分享一些基于「OpenAI + Vercel」的开源AI工具全部都是开源的，并且都可以一键部署到Vercel供私人使用
->
+&gt; 🤖整理并分享一些基于「OpenAI &#43; Vercel」的开源AI工具全部都是开源的，并且都可以一键部署到Vercel供私人使用
+&gt;
 
-<!--more-->
+&lt;!--more--&gt;
 
 1️⃣ [周报生成器](https://weeklyreport.avemaria.fun/zh)：简单描述工作内容帮你生成完整周报
 
@@ -35,6 +35,6 @@
 
 ---
 
-> 作者: [聪](/about)  
-> URL: https://blog.funvip.live/dailyshare/vercel/  
+> 作者:   
+> URL: http://localhost:1313/dailyshare/vercel/  
 

@@ -1,18 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DoH - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/doh/</link>
-    <description>DoH - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/tags/doh/" rel="self" type="application/rss+xml" /><item>
-  <title>🎯公共DoH</title>
-  <link>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</link>
-  <pubDate>Sun, 26 Nov 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E5%85%AC%E5%85%B1doh/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/28/DNS20231128171059.jpg" referrerpolicy="no-referrer">
-      </div><p>💡 DoH 对于普通用户的用处主要体现了防止运营商对内容进行HTTP劫持，可以一定程度减少广告弹窗与内容篡改。更多可通过<a href="https://remeins.com/index/app/dns"target="_blank" rel="external nofollow noopener noreferrer">地址列表<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>查看。</p>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/tags/doh/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/doh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎯公共DoH</title>
+      <link>http://localhost:1313/tools/%E5%85%AC%E5%85%B1doh/</link>
+      <pubDate>Sun, 26 Nov 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/tools/%E5%85%AC%E5%85%B1doh/</guid>
+      <category domain="http://localhost:1313/categories/doh/">DoH</category>
+      <category domain="http://localhost:1313/categories/%E8%B5%84%E6%BA%90/">资源</category>
+      <description>&lt;p&gt;💡 DoH 对于普通用户的用处主要体现了防止运营商对内容进行HTTP劫持，可以一定程度减少广告弹窗与内容篡改。更多可通过&lt;a href=&#34;https://remeins.com/index/app/dns&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;地址列表&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;查看。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

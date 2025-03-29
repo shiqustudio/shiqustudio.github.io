@@ -1,4 +1,4 @@
-# 扩展 Shortcode - mapbox
+# 扩展 Shortcode - Mapbox
 
 
 [![FixIt 0.2.0 | 新增](https://fixit.lruihao.cn/svg/version/0.2.0-new.zh-cn.min.svg)](https://github.com/hugo-fixit/FixIt/releases/tag/v0.2.0)
@@ -60,30 +60,30 @@
 一个简单的 `mapbox` 示例：
 
 ```go-html-template
-{{< mapbox 113.953277 22.559102 11 >}}
+{{&lt; mapbox 113.953277 22.559102 11 &gt;}}
 或者
-{{< mapbox lng=113.953277 lat=22.559102 zoom=11 >}}
+{{&lt; mapbox lng=113.953277 lat=22.559102 zoom=11 &gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< mapbox 113.953277 22.559102 11 >}}
+{{&lt; mapbox 113.953277 22.559102 11 &gt;}}
 
 一个带有自定义样式的 `mapbox` 示例：
 
 ```go-html-template
-{{< mapbox -122.252 37.453 10 false "mapbox://styles/mapbox/streets-zh-v1" >}}
+{{&lt; mapbox -122.252 37.453 10 false &#34;mapbox://styles/mapbox/streets-zh-v1&#34; &gt;}}
 或者
-{{< mapbox lng=-122.252 lat=37.453 zoom=10 marked=false light-style="mapbox://styles/mapbox/streets-zh-v1" >}}
+{{&lt; mapbox lng=-122.252 lat=37.453 zoom=10 marked=false light-style=&#34;mapbox://styles/mapbox/streets-zh-v1&#34; &gt;}}
 ```
 
 呈现的输出效果如下：
 
-{{< mapbox -122.252 37.453 10 false "mapbox://styles/mapbox/streets-zh-v1" >}}
+{{&lt; mapbox -122.252 37.453 10 false &#34;mapbox://styles/mapbox/streets-zh-v1&#34; &gt;}}
 
 
 ---
 
-> 作者: [聪](/about)  
-> URL: https://blog.funvip.live/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/  
+> 作者:   
+> URL: http://localhost:1313/tutorial/shili-tuozhanpian/%E6%89%A9%E5%B1%95-shortcode-mapbox/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/content-management/shortcodes/extended/mapbox/

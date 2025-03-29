@@ -1,18 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>隐私 - 分类 - 拾趣资源</title>
-    <link>https://blog.funvip.live/categories/%E9%9A%90%E7%A7%81/</link>
-    <description>隐私 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sun, 25 Jun 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E9%9A%90%E7%A7%81/" rel="self" type="application/rss+xml" /><item>
-  <title>🔐隐私保护</title>
-  <link>https://blog.funvip.live/tools/%E9%9A%90%E7%A7%81/</link>
-  <pubDate>Sun, 25 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/tools/%E9%9A%90%E7%A7%81/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/23/20231123113790.jfif" referrerpolicy="no-referrer">
-      </div>隐私保护]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/categories/%E9%9A%90%E7%A7%81/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%9A%90%E7%A7%81/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

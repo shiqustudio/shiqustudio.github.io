@@ -1,28 +1,32 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>阅读 - 分类 - 拾趣资源</title>
-    <link>https://blog.funvip.live/categories/%E9%98%85%E8%AF%BB/</link>
-    <description>阅读 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Tue, 28 Nov 2023 12:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E9%98%85%E8%AF%BB/" rel="self" type="application/rss+xml" /><item>
-  <title>🗺️书籍搜索</title>
-  <link>https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</link>
-  <pubDate>Tue, 28 Nov 2023 12:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/12/01/f388b315cac078a6ed0cb1fab824901c.jfif" referrerpolicy="no-referrer">
-      </div><p>💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub 等资源。其他更多相关资源<a href="/books/xlibary/">书籍在线查找</a>、<a href="/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/">古籍下载</a>。</p>]]></description>
-</item>
-<item>
-  <title>📖X-Library</title>
-  <link>https://blog.funvip.live/books/xlibary/</link>
-  <pubDate>Thu, 22 Jun 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/books/xlibary/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/11/29/library-bg1.jpg" referrerpolicy="no-referrer">
-      </div><p>💡整理收集书籍下载、读书工具、辅助读书工具、书籍管理、新闻阅读等相关资源。其他更多相关资源<a href="/books/%e4%b9%a6%e7%b1%8d%e6%90%9c%e7%b4%a2/">电子书籍下载</a>、<a href="/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/">古籍下载</a>。</p>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/categories/%E9%98%85%E8%AF%BB/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🗺️书籍搜索</title>
+      <link>http://localhost:1313/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Tue, 28 Nov 2023 12:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</guid>
+      <category domain="http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/">电子书</category>
+      <category domain="http://localhost:1313/categories/%E8%AE%BA%E6%96%87/">论文</category>
+      <category domain="http://localhost:1313/categories/%E6%96%87%E7%8C%AE/">文献</category>
+      <category domain="http://localhost:1313/categories/%E9%98%85%E8%AF%BB/">阅读</category>
+      <description>&lt;p&gt;💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub 等资源。其他更多相关资源&lt;a href=&#34;http://localhost:1313/books/xlibary/&#34;&gt;书籍在线查找&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/&#34;&gt;古籍下载&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📖X-Library</title>
+      <link>http://localhost:1313/books/xlibary/</link>
+      <pubDate>Thu, 22 Jun 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/books/xlibary/</guid>
+      <category domain="http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/">电子书</category>
+      <category domain="http://localhost:1313/categories/%E9%98%85%E8%AF%BB/">阅读</category>
+      <description>&lt;p&gt;💡整理收集书籍下载、读书工具、辅助读书工具、书籍管理、新闻阅读等相关资源。其他更多相关资源&lt;a href=&#34;http://localhost:1313/books/%e4%b9%a6%e7%b1%8d%e6%90%9c%e7%b4%a2/&#34;&gt;电子书籍下载&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/&#34;&gt;古籍下载&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

@@ -3,7 +3,7 @@
 
 学习在几分钟内创建一个 Hugo **FixIt** 站点。
 
-<!--more-->
+&lt;!--more--&gt;
 
 以下步骤可帮助您初始化新网站。如果您根本不了解 Hugo，我们强烈建议您通过阅读此 [快速入门文档](https://gohugo.io/getting-started/) 进一步了解它。或者如果你已经了解 Hugo，你也可以从一个模板直接开始：
 
@@ -14,7 +14,7 @@
 
 由于 Hugo 提供的便利性，[Hugo](https://gohugo.io/) 本身是这个主题唯一的依赖。
 
-只需为您的机器（**macOS**、**Linux**、**Windows**、**BSD**，以及任何可以运行 Go 编译器工具链的机器）安装最新版本的 [ Hugo 扩展版 (>=0.89.0)](https://gohugo.io/getting-started/installing/) 即可。
+只需为您的机器（**macOS**、**Linux**、**Windows**、**BSD**，以及任何可以运行 Go 编译器工具链的机器）安装最新版本的 [ Hugo 扩展版 (&gt;=0.89.0)](https://gohugo.io/getting-started/installing/) 即可。
 
 ## 创建网站
 
@@ -27,7 +27,7 @@ cd my_website
 
 ## 安装主题
 
-{{< link "https://github.com/hugo-fixit/FixIt" "FixIt 主题的仓库" "source of FixIt Theme" true >}}
+{{&lt; link &#34;https://github.com/hugo-fixit/FixIt&#34; &#34;FixIt 主题的仓库&#34; &#34;source of FixIt Theme&#34; true &gt;}}
 
 在当前目录中初始化一个空的 Git 存储库。
 
@@ -49,38 +49,38 @@ git submodule update --remote --merge
 以下是 FixIt 主题的基本配置：
 
 ```toml
-title = "我的 Hugo FixIt 网站"
-baseURL = "http://example.org/"
-# 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
-defaultContentLanguage = "zh-cn"
-# 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "zh-CN"
+title = &#34;我的 Hugo FixIt 网站&#34;
+baseURL = &#34;http://example.org/&#34;
+# 设置默认的语言 [&#34;en&#34;, &#34;zh-cn&#34;, &#34;fr&#34;, &#34;pl&#34;, ...]
+defaultContentLanguage = &#34;zh-cn&#34;
+# 网站语言, 仅在这里 CN 大写 [&#34;en&#34;, &#34;zh-CN&#34;, &#34;fr&#34;, &#34;pl&#34;, ...]
+languageCode = &#34;zh-CN&#34;
 # 是否包括中日韩文字
 hasCJKLanguage = true
 
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = "FixIt"
+theme = &#34;FixIt&#34;
 
 [params]
   # FixIt 主题版本
-  version = "0.2.X"
+  version = &#34;0.2.X&#34;
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "文章"
-    url = "/posts/"
+    identifier = &#34;posts&#34;
+    name = &#34;文章&#34;
+    url = &#34;/posts/&#34;
     weight = 1
   [[menu.main]]
-    identifier = "categories"
-    name = "分类"
-    url = "/categories/"
-    title = ""
+    identifier = &#34;categories&#34;
+    name = &#34;分类&#34;
+    url = &#34;/categories/&#34;
+    title = &#34;&#34;
     weight = 2
   [[menu.main]]
-    identifier = "tags"
-    name = "标签"
-    url = "/tags/"
+    identifier = &#34;tags&#34;
+    name = &#34;标签&#34;
+    url = &#34;/tags/&#34;
     weight = 3
 
 # Hugo 解析文档的配置
@@ -108,36 +108,36 @@ Hugo 在 `content/posts` 目录中创建了文章文件。
 ```markdown
 ---
 title: 我的第一篇文章
-date: 2023-02-20T20:14:22+08:00
+date: 2023-02-20T20:14:22&#43;08:00
 draft: true
 ---
 
 博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以倒序方式由新到旧排列。
 ```
 
-{{< admonition tip "This is a tip" false>}}一个 **技巧** 横幅{{< /admonition >}}
+{{&lt; admonition tip &#34;This is a tip&#34; false&gt;}}一个 **技巧** 横幅{{&lt; /admonition &gt;}}
 
-{{< admonition >}} 一个 **注意** 横幅 {{< /admonition >}}
+{{&lt; admonition &gt;}} 一个 **注意** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition abstract>}} 一个 **摘要** 横幅 {{< /admonition >}}
+{{&lt; admonition abstract&gt;}} 一个 **摘要** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition info >}} 一个 **信息** 横幅 {{< /admonition >}}
+{{&lt; admonition info &gt;}} 一个 **信息** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition success >}} 一个 **成功** 横幅 {{< /admonition >}}
+{{&lt; admonition success &gt;}} 一个 **成功** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition question >}} 一个 **问题** 横幅 {{< /admonition >}}
+{{&lt; admonition question &gt;}} 一个 **问题** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition warning >}} 一个 **警告** 横幅 {{< /admonition >}}
+{{&lt; admonition warning &gt;}} 一个 **警告** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition failure >}} 一个 **失败** 横幅 {{< /admonition >}}
+{{&lt; admonition failure &gt;}} 一个 **失败** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition danger >}} 一个 **危险** 横幅 {{< /admonition >}}
+{{&lt; admonition danger &gt;}} 一个 **危险** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition bug >}} 一个 **Bug** 横幅 {{< /admonition >}}
+{{&lt; admonition bug &gt;}} 一个 **Bug** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition example >}} 一个 **示例** 横幅 {{< /admonition >}}
+{{&lt; admonition example &gt;}} 一个 **示例** 横幅 {{&lt; /admonition &gt;}}
 
-{{< admonition quote >}} 一个 **引用** 横幅 {{< /admonition >}}
+{{&lt; admonition quote &gt;}} 一个 **引用** 横幅 {{&lt; /admonition &gt;}}
 
 注意
 
@@ -151,15 +151,15 @@ draft: true
 hugo server
 ```
 
-{{< admonition info >}} 当你运行 `hugo server` 时，当文件内容更改时，页面会随着更改自动刷新。 {{< /admonition >}}
+{{&lt; admonition info &gt;}} 当你运行 `hugo server` 时，当文件内容更改时，页面会随着更改自动刷新。 {{&lt; /admonition &gt;}}
 
-{{< admonition >}} 由于本主题使用了 Hugo 中的 `.Scratch` 来实现一些特性， 非常建议你为 `hugo server` 命令添加 `--disableFastRender` 参数来实时预览你正在编辑的文章页面。 
+{{&lt; admonition &gt;}} 由于本主题使用了 Hugo 中的 `.Scratch` 来实现一些特性， 非常建议你为 `hugo server` 命令添加 `--disableFastRender` 参数来实时预览你正在编辑的文章页面。 
 
 ```bash
 hugo server --disableFastRender
 ```
 
-{{< /admonition >}}
+{{&lt; /admonition &gt;}}
 
 去查看 `http://localhost:1313`。
 
@@ -196,6 +196,6 @@ hugo
 
 ---
 
-> 作者: [聪](/about)  
-> URL: https://blog.funvip.live/tutorial/shili-kuaisushangshou/  
+> 作者:   
+> URL: http://localhost:1313/tutorial/shili-kuaisushangshou/  
 > 转载 URL: https://fixit.lruihao.cn/zh-cn/documentation/getting-started/

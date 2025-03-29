@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+    <meta name="robots" content="noodp" />
+    <title>利用腾讯云为静态页面添加“动态”相册 - 拾趣资源</title><meta name="author" content="">
+<meta name="description" content="信息cos 桶相册，终于！！终于来了！！，idea 来自 [兰州小红鸡 - 给 hexo 静态博客添加动态相册功能]，
+功能虽好，但是还是先友情提示！
+开放 API 是一个很危险的操作，意味着你的 cos 桶里面的所有资源包括目录结构都暴露的整个世界中，所以建议不要放一些比较私密的照片，保护自己的隐私，提防不良用心之人。下面就开始吧！"><meta name="keywords" content='CosAlbum, 腾讯云 cos 桶, JavaScript'>
+  <meta itemprop="name" content="利用腾讯云为静态页面添加“动态”相册">
+  <meta itemprop="description" content="信息cos 桶相册，终于！！终于来了！！，idea 来自 [兰州小红鸡 - 给 hexo 静态博客添加动态相册功能]，
+功能虽好，但是还是先友情提示！
+开放 API 是一个很危险的操作，意味着你的 cos 桶里面的所有资源包括目录结构都暴露的整个世界中，所以建议不要放一些比较私密的照片，保护自己的隐私，提防不良用心之人。下面就开始吧！">
+  <meta itemprop="datePublished" content="2019-11-24T10:52:34+00:00">
+  <meta itemprop="dateModified" content="2019-11-24T10:52:34+00:00">
+  <meta itemprop="wordCount" content="776">
+  <meta itemprop="image" content="http://localhost:1313/images/avatar.png">
+  <meta itemprop="keywords" content="CosAlbum,腾讯云 Cos 桶,JavaScript"><meta property="og:url" content="http://localhost:1313/projects/cos-album/">
+  <meta property="og:site_name" content="拾趣资源">
+  <meta property="og:title" content="利用腾讯云为静态页面添加“动态”相册">
+  <meta property="og:description" content="信息cos 桶相册，终于！！终于来了！！，idea 来自 [兰州小红鸡 - 给 hexo 静态博客添加动态相册功能]，
+功能虽好，但是还是先友情提示！
+开放 API 是一个很危险的操作，意味着你的 cos 桶里面的所有资源包括目录结构都暴露的整个世界中，所以建议不要放一些比较私密的照片，保护自己的隐私，提防不良用心之人。下面就开始吧！">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:published_time" content="2019-11-24T10:52:34+00:00">
+    <meta property="article:modified_time" content="2019-11-24T10:52:34+00:00">
+    <meta property="article:tag" content="CosAlbum">
+    <meta property="article:tag" content="腾讯云 Cos 桶">
+    <meta property="article:tag" content="JavaScript">
+    <meta property="og:image" content="http://localhost:1313/images/avatar.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/images/avatar.png">
+  <meta name="twitter:title" content="利用腾讯云为静态页面添加“动态”相册">
+  <meta name="twitter:description" content="信息cos 桶相册，终于！！终于来了！！，idea 来自 [兰州小红鸡 - 给 hexo 静态博客添加动态相册功能]，
+功能虽好，但是还是先友情提示！
+开放 API 是一个很危险的操作，意味着你的 cos 桶里面的所有资源包括目录结构都暴露的整个世界中，所以建议不要放一些比较私密的照片，保护自己的隐私，提防不良用心之人。下面就开始吧！">
+<meta name="application-name" content="Fun">
+<meta name="apple-mobile-web-app-title" content="Fun"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" type="text/html" href="http://localhost:1313/projects/cos-album/" title="利用腾讯云为静态页面添加“动态”相册 - 拾趣资源" /><link rel="prev" type="text/html" href="http://localhost:1313/referto/emoji-support/" title="Emoji 支持" /><link rel="next" type="text/html" href="http://localhost:1313/guestbook/" title="留言" /><link rel="alternate" type="text/markdown" href="http://localhost:1313/projects/cos-album/index.md" title="利用腾讯云为静态页面添加“动态”相册 - 拾趣资源"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/all.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"></noscript><link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "利用腾讯云为静态页面添加“动态”相册",
+    "inLanguage": "zh-CN",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "http:\/\/localhost:1313\/projects\/cos-album\/"
+    },"image": ["http:\/\/localhost:1313\/site-meta.jpg"],"genre": "posts","keywords": "CosAlbum, 腾讯云 cos 桶, JavaScript","wordcount":  776 ,
+    "url": "http:\/\/localhost:1313\/projects\/cos-album\/","datePublished": "2019-11-24T10:52:34+00:00","dateModified": "2019-11-24T10:52:34+00:00","publisher": {
+      "@type": "Organization",
+      "name": "Fun","logo": "http:\/\/localhost:1313\/images\/avatar.jpg"},"author": {
+        "@type": "Person",
+        "name": "作者"
+      },"description": ""
+  }
+  </script><script src="/js/head/color-scheme.min.js"></script></head>
+  <body data-header-desktop="sticky" data-header-mobile="auto"><div class="wrapper" data-page-style="normal"><header class="desktop animate__faster" id="header-desktop">
+  <div class="header-wrapper">
+    <div class="header-title">
+      <a href="/" title="拾趣资源"><img loading="lazy" src="/images/avatar.png" alt="拾趣资源" data-title="拾趣资源" width="26" height="26" class="logo" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span class="header-title-text">Fun</span></a><span class="typeit header-subtitle"><template>木槿昔年,浮生未歇</template></span></div>
+    <nav>
+      <ul class="menu"><li class="menu-item">
+              <a class="menu-link" href="https://home.funvip.live" title="导航页" rel="noopener noreferrer" target="_blank"><i class="fa-solid fa-house-user text-info fa-fw fa-sm" aria-hidden="true"></i> 主页</a></li><li class="menu-item has-children">
+              <a class="menu-link" href="/posts/" title="资源"><i class="fa-solid fa-fire fa-bounce text-danger fa-fw fa-sm" aria-hidden="true"></i> 资源</a><i class="dropdown-icon fa-solid fa-chevron-down" aria-hidden="true"></i>
+                <ul class="sub-menu"><li class="menu-item">
+                        <a class="menu-link" href="/dailyshare/" title="热门"><i class="fa-solid fa-bullhorn fa-shake text-danger fa-fw fa-sm" aria-hidden="true"></i> 热门主题</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/tools/" title="工具"><i class="fa-solid fa-screwdriver-wrench fa-fw fa-sm" aria-hidden="true"></i> 工具合集</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/website/" title="站点"><i class="fa-solid fa-thumbs-up text-danger fa-fw fa-sm" aria-hidden="true"></i> 优质站点</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/books/" title="书籍合集"><i class="fa-solid fa-book text-info fa-fw fa-sm" aria-hidden="true"></i> 书籍资料</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/personal/" title="个人随笔"><i class="fa-solid fa-pen-to-square fa-beat fa-fw fa-sm" aria-hidden="true"></i> 杂谈随笔</a>
+                      </li></ul></li><li class="menu-item">
+              <a class="menu-link" href="/guestbook/" title="留言"><i class="fa-solid fa-comments fa-beat text-success fa-fw fa-sm" aria-hidden="true"></i> 留言</a></li><li class="menu-item has-children">
+              <a class="menu-link" href="/about/" title="关于"><i class="fa-solid fa-info-circle fa-spin text-warning fa-fw fa-sm" aria-hidden="true"></i> 关于</a><i class="dropdown-icon fa-solid fa-chevron-down" aria-hidden="true"></i>
+                <ul class="sub-menu"><li class="menu-item">
+                        <a class="menu-link" href="/friends/" title="友情链接"><i class="fa-solid fa-users text-primary fa-fw fa-sm" aria-hidden="true"></i> 友链</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/categories/" title="分类"><i class="fa-solid fa-th text-success fa-fw fa-sm" aria-hidden="true"></i> 分类</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/tags/" title="标签"><i class="fa-solid fa-tags text-info fa-fw fa-sm" aria-hidden="true"></i> 标签</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/tutorial/" title="相关教程"><i class="fa-solid fa-layer-group fa-fw fa-sm" aria-hidden="true"></i> 教程</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/referto/" title="相关参考"><i class="fa-solid fa-microchip text-warning fa-fw fa-sm" aria-hidden="true"></i> 参考</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/question/" title="常见问答"><i class="fa-solid fa-circle-question fa-spin text-danger fa-fw fa-sm" aria-hidden="true"></i> 问答</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/test/" title="测试文章"><i class="fa-solid fa-flask fa-shake text-success fa-fw fa-sm" aria-hidden="true"></i> 测试</a>
+                      </li></ul></li><li class="menu-item delimiter"></li><li class="menu-item search" id="search-desktop">
+            <input type="text" placeholder="搜索文章标题或内容……" id="search-input-desktop">
+            <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+              <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+            </a>
+            <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+              <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+            </a>
+            <span class="search-button search-loading" id="search-loading-desktop">
+              <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+            </span>
+          </li><li class="menu-item theme-switch" title="切换主题">
+          <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+        </li></ul>
+    </nav>
+  </div>
+</header><header class="mobile animate__faster" id="header-mobile">
+  <div class="header-container">
+    <div class="header-wrapper">
+      <div class="header-title">
+        <a href="/" title="拾趣资源"><img loading="lazy" src="/images/avatar.png" alt="拾趣资源" data-title="拾趣资源" width="26" height="26" class="logo" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span class="header-title-text">Fun</span></a><span class="typeit header-subtitle"><template>木槿昔年,浮生未歇</template></span></div>
+      <div class="menu-toggle" id="menu-toggle-mobile">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+    <nav>
+      <ul class="menu" id="menu-mobile"><li class="search-wrapper">
+            <div class="search mobile" id="search-mobile">
+              <input type="text" placeholder="搜索文章标题或内容……" id="search-input-mobile">
+              <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                <i class="fa-solid fa-search fa-fw" aria-hidden="true"></i>
+              </a>
+              <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                <i class="fa-solid fa-times-circle fa-fw" aria-hidden="true"></i>
+              </a>
+              <span class="search-button search-loading" id="search-loading-mobile">
+                <i class="fa-solid fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+              </span>
+            </div>
+            <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+              取消
+            </a>
+          </li><li class="menu-item"><a class="menu-link" href="https://home.funvip.live" title="导航页" rel="noopener noreferrer" target="_blank"><i class="fa-solid fa-house-user text-info fa-fw fa-sm" aria-hidden="true"></i> 主页</a></li><li class="menu-item"><span class="nested-item">
+                  <a class="menu-link" href="/posts/" title="资源"><i class="fa-solid fa-fire fa-bounce text-danger fa-fw fa-sm" aria-hidden="true"></i> 资源</a>
+                  <i class="dropdown-icon fa-solid fa-chevron-right" aria-hidden="true"></i>
+                </span>
+                <ul class="sub-menu"><li class="menu-item">
+                        <a class="menu-link" href="/dailyshare/" title="热门"><i class="fa-solid fa-bullhorn fa-shake text-danger fa-fw fa-sm" aria-hidden="true"></i> 热门主题</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/tools/" title="工具"><i class="fa-solid fa-screwdriver-wrench fa-fw fa-sm" aria-hidden="true"></i> 工具合集</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/website/" title="站点"><i class="fa-solid fa-thumbs-up text-danger fa-fw fa-sm" aria-hidden="true"></i> 优质站点</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/books/" title="书籍合集"><i class="fa-solid fa-book text-info fa-fw fa-sm" aria-hidden="true"></i> 书籍资料</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/personal/" title="个人随笔"><i class="fa-solid fa-pen-to-square fa-beat fa-fw fa-sm" aria-hidden="true"></i> 杂谈随笔</a>
+                      </li></ul></li><li class="menu-item"><a class="menu-link" href="/guestbook/" title="留言"><i class="fa-solid fa-comments fa-beat text-success fa-fw fa-sm" aria-hidden="true"></i> 留言</a></li><li class="menu-item"><span class="nested-item">
+                  <a class="menu-link" href="/about/" title="关于"><i class="fa-solid fa-info-circle fa-spin text-warning fa-fw fa-sm" aria-hidden="true"></i> 关于</a>
+                  <i class="dropdown-icon fa-solid fa-chevron-right" aria-hidden="true"></i>
+                </span>
+                <ul class="sub-menu"><li class="menu-item">
+                        <a class="menu-link" href="/friends/" title="友情链接"><i class="fa-solid fa-users text-primary fa-fw fa-sm" aria-hidden="true"></i> 友链</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/categories/" title="分类"><i class="fa-solid fa-th text-success fa-fw fa-sm" aria-hidden="true"></i> 分类</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/tags/" title="标签"><i class="fa-solid fa-tags text-info fa-fw fa-sm" aria-hidden="true"></i> 标签</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/tutorial/" title="相关教程"><i class="fa-solid fa-layer-group fa-fw fa-sm" aria-hidden="true"></i> 教程</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/referto/" title="相关参考"><i class="fa-solid fa-microchip text-warning fa-fw fa-sm" aria-hidden="true"></i> 参考</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/question/" title="常见问答"><i class="fa-solid fa-circle-question fa-spin text-danger fa-fw fa-sm" aria-hidden="true"></i> 问答</a>
+                      </li><li class="menu-item">
+                        <a class="menu-link" href="/test/" title="测试文章"><i class="fa-solid fa-flask fa-shake text-success fa-fw fa-sm" aria-hidden="true"></i> 测试</a>
+                      </li></ul></li><li class="menu-item menu-system">
+          <span class="menu-system-item theme-switch" title="切换主题"><i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i></span></li>
+      </ul>
+    </nav>
+  </div>
+</header><div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+  </div>
+  <div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+  </div><nav aria-label="breadcrumb" class="breadcrumb-container sticky">
+    <ol class="breadcrumb"><li class="breadcrumb-item" data-separator="/"><a href="/" title="拾趣资源">主页</a></li><li class="breadcrumb-item" data-separator="/"><a href="" title="项目">项目</a></li><li class="breadcrumb-item active" data-separator="/" aria-current="page">利用腾讯云为静态页面添加“动态”相册</li>
+    </ol>
+  </nav><main class="container"><aside class="aside-collection animate__animated animate__fadeIn animate__faster" aria-label="合集"></aside>
+
+  <article class="page single">
+    <div class="header"><h1 class="single-title animate__animated animate__flipInX"><span>利用腾讯云为静态页面添加“动态”相册</span>
+      </h1></div><div class="post-meta">
+      <div class="post-meta-line"><span class="post-author"><span class="author"><i class="fa-solid fa-user-circle" aria-hidden="true"></i>
+      Anonymous</span></span><span class="post-included-in">&nbsp;收录于 <a href="/categories/projects/" class="post-category" title="分类 - Projects"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> Projects</a>&ensp;<a href="/categories/javascript/" class="post-category" title="分类 - JavaScript"><i class="fa-regular fa-folder fa-fw" aria-hidden="true"></i> JavaScript</a></span></div><div class="post-meta-line"><span title="发布于 2019-11-24 10:52:34"><i class="fa-solid fa-calendar-days fa-fw me-1" aria-hidden="true"></i><time datetime="2019-11-24">2019-11-24</time></span>&nbsp;<span title="776 字"><i class="fa-solid fa-pencil-alt fa-fw me-1" aria-hidden="true"></i>约 800 字</span>&nbsp;<span><i class="fa-regular fa-clock fa-fw me-1" aria-hidden="true"></i>预计阅读 2 分钟</span>&nbsp;</div>
+    </div><div class="featured-image"><img loading="lazy" src="/projects/cos-album/images/view.png" alt="/projects/cos-album/images/view.png" data-title="/projects/cos-album/images/view.png" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></div><div class="details toc" id="toc-static" data-kept="false">
+        <div class="details-summary toc-title">
+          <span>目录</span>
+          <span><i class="details-icon fa-solid fa-angle-right" aria-hidden="true"></i></span>
+        </div>
+        <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#创建腾讯云-cos-存储桶">创建腾讯云 cos 存储桶</a></li>
+    <li><a href="#上传照片">上传照片</a>
+      <ul>
+        <li><a href="#上传工具">上传工具</a></li>
+      </ul>
+    </li>
+    <li><a href="#食用方式">食用方式</a>
+      <ul>
+        <li><a href="#step1">Step1</a></li>
+        <li><a href="#step2">Step2</a></li>
+        <li><a href="#params">Params</a></li>
+      </ul>
+    </li>
+    <li><a href="#changelog">changelog</a></li>
+  </ul>
+</nav></div>
+      </div><div class="content" id="content" data-end-flag="（完）"><div class="expiration-reminder details admonition warning open">
+      <div class="details-summary admonition-title">
+        <i class="icon fa-solid fa-exclamation-triangle fa-fw" aria-hidden="true"></i>警告<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i>
+      </div>
+      <div class="details-content">
+        <div class="admonition-content">本文最后更新于 2019-11-24，文中内容可能已过时。</div>
+      </div>
+    </div><div class="details admonition info open">
+  <div class="details-summary admonition-title"><i class="icon fa-fw fa-solid fa-circle-info" aria-hidden="true"></i>信息<i class="details-icon fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></div>
+  <div class="details-content">
+    <div class="admonition-content">cos 桶相册，终于！！终于来了！！，idea 来自 [兰州小红鸡 - 给 hexo 静态博客添加动态相册功能]，<br>
+<strong><span style="color: #428bca;">功能虽好，但是还是先友情提示！</span></strong><br>
+开放 API 是一个<strong>很危险</strong>的操作，意味着你的 cos 桶里面的所有资源包括目录结构都暴露的整个世界中，所以建议不要放一些比较私密的照片，保护自己的隐私，提防不良用心之人。下面就开始吧！</div>
+  </div>
+</div>
+<h2 id="创建腾讯云-cos-存储桶" class="heading-element"><span>创建腾讯云 cos 存储桶</span>
+  <a href="#%e5%88%9b%e5%bb%ba%e8%85%be%e8%ae%af%e4%ba%91-cos-%e5%ad%98%e5%82%a8%e6%a1%b6" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>就创建一个 COS 就好了！有几点注意事项：</p>
+<ol>
+<li>权限设置为共有读私有写</li>
+<li>policy 权限设置整个桶的读操作</li>
+<li>跨域访问 CORS 设置，自己随意</li>
+</ol>
+<h2 id="上传照片" class="heading-element"><span>上传照片</span>
+  <a href="#%e4%b8%8a%e4%bc%a0%e7%85%a7%e7%89%87" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>首先我这个 cos 相册，相册分类就是文件夹分类，所以 cos 桶里面先新建不同的文件夹，<strong>文件夹名称就是相册名称</strong>，
+每个相册里面需要放置一张名称为**“封面.jpg”**的图片作为该相册的封面。</p>
+<h3 id="上传工具" class="heading-element"><span>上传工具</span>
+  <a href="#%e4%b8%8a%e4%bc%a0%e5%b7%a5%e5%85%b7" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><ul>
+<li><strong>COSBrowser</strong> GUI 工具，桌面/移动版 【官方、推荐】</li>
+<li><strong>COSCMD</strong> 命令行工具 【官方】</li>
+<li><strong>PicGo</strong> 图床上传工具 【第三方、推荐】</li>
+</ul>
+<h2 id="食用方式" class="heading-element"><span>食用方式</span>
+  <a href="#%e9%a3%9f%e7%94%a8%e6%96%b9%e5%bc%8f" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><a href="http://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer" class="card-link"><span class="cl-backdrop" style="--cl-bg-url: url(/images/fixit.min.svg);"></span>
+    <span class="cl-content">
+      <span class="cl-text">
+        <span class="cl-title">cos album 相册源码下载地址，别忘点赞哈</span>
+        <span class="cl-meta">
+          <svg class="cl-icon-link" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M574 665.4c-3.1-3.1-8.2-3.1-11.3 0L446.5 781.6c-53.8 53.8-144.6 59.5-204 0-59.5-59.5-53.8-150.2 0-204l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3l-39.8-39.8c-3.1-3.1-8.2-3.1-11.3 0L191.4 526.5c-84.6 84.6-84.6 221.5 0 306s221.5 84.6 306 0l116.2-116.2c3.1-3.1 3.1-8.2 0-11.3L574 665.4zM832.6 191.4c-84.6-84.6-221.5-84.6-306 0L410.3 307.6c-3.1 3.1-3.1 8.2 0 11.3l39.7 39.7c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c53.8-53.8 144.6-59.5 204 0 59.5 59.5 53.8 150.2 0 204L665.3 562.6c-3.1 3.1-3.1 8.2 0 11.3l39.8 39.8c3.1 3.1 8.2 3.1 11.3 0l116.2-116.2c84.5-84.6 84.5-221.5 0-306.1z" fill="#a9a9b3"></path><path d="M610.1 372.3c-3.1-3.1-8.2-3.1-11.3 0L372.3 598.7c-3.1 3.1-3.1 8.2 0 11.3l39.6 39.6c3.1 3.1 8.2 3.1 11.3 0l226.4-226.4c3.1-3.1 3.1-8.2 0-11.3l-39.5-39.6z" fill="#a9a9b3"></path></svg>
+          <span class="cl-url">http://github.com/Lruihao/cos-album</span>
+        </span>
+      </span><svg class="cl-shortcut-icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M960 512c0 249.408-203.2 448-448 448-244.778667 0-448-198.592-448-448S262.592 64 512 64s448 198.592 448 448" fill="#2196F3"></path><path d="M507.52 718.08c0-8.96-4.48-13.44-13.44-17.92-26.88-8.96-53.76-8.96-76.16-31.381333-4.48-8.96-4.48-17.92-8.96-26.88-8.96-8.96-31.36-13.44-44.8-17.92h-89.6c-13.44-4.48-22.4-22.4-31.36-35.84 0-4.48 0-13.461333-8.96-13.461334-8.96-4.458667-17.92 4.501333-26.88 0-4.48-4.458667-4.48-8.96-4.48-13.418666 0-13.461333 8.96-26.901333 17.92-35.861334 13.44-8.96 26.88 4.48 40.32 4.48 4.48 0 4.48 0 8.96 4.48 13.44 4.48 17.92 22.4 17.92 35.861334v8.96c0 4.48 4.48 4.48 8.96 4.48 4.48-22.4 4.48-44.821333 8.96-67.2 0-26.88 26.88-53.781333 49.28-62.72 8.96-4.458667 13.44 4.501333 22.4 0 26.88-8.96 94.08-35.84 80.64-71.658667-8.96-31.381333-35.84-62.698667-71.68-58.24-8.96 4.501333-13.44 8.96-22.4 13.461333-13.44 8.96-40.32 35.84-53.76 35.84-22.4-4.48-22.4-35.84-17.92-49.301333 4.48-17.92 44.8-76.138667 71.68-67.178667l17.92 17.92c8.96 4.48 22.4 4.48 35.84 4.48 4.48 0 8.96 0 13.44-4.48 4.48-4.48 4.48-4.48 4.48-8.96 0-13.44-13.44-26.901333-22.4-35.861333s-22.4-17.92-35.84-22.378667c-44.8-13.461333-116.48 4.458667-152.32 35.84-35.84 31.36-62.72 85.12-80.64 129.92-8.96 26.88-17.92 62.698667-22.4 94.08-4.48 22.4-8.96 40.32 4.48 62.698667 13.44 26.88 40.32 53.781333 67.2 71.68 17.92 13.44 53.76 13.44 71.68 35.84 13.44 17.941333 8.96 40.32 8.96 62.72 0 26.88 17.92 49.28 26.88 71.658667 4.48 13.461333 8.96 31.381333 13.44 44.821333 0 4.48 4.48 31.36 4.48 35.84 26.88 13.44 49.28 26.901333 80.64 35.861333 4.48 0 22.4-26.901333 22.4-31.381333 13.44-13.44 22.4-31.36 35.84-40.32 8.96-4.48 17.92-8.96 26.88-17.941333 8.96-8.96 13.44-26.88 17.92-40.32 4.48-8.938667 8.96-26.858667 4.48-40.298667M516.48 305.92c4.48 0 8.96-4.48 17.92-8.96 13.44-8.96 26.901333-22.4 40.32-31.36 13.461333-8.96 26.901333-22.4 35.861333-31.36 13.44-8.96 22.4-26.88 26.88-40.341333 4.48-8.96 17.941333-26.88 13.44-40.32-4.48-8.96-26.88-13.44-35.84-17.92C579.2 126.698667 547.84 122.24 512 122.24c-13.44 0-31.36 4.458667-35.84 17.92-4.48 22.4 13.44 17.92 31.36 22.4 0 0 4.48 35.84 4.48 40.32 4.48 22.421333-8.96 35.84-8.96 58.24 0 13.44 0 35.84 8.96 44.8h4.48zM892.8 619.52c4.501333-8.96 4.501333-22.4 8.96-31.36 4.501333-22.421333 4.501333-44.8 4.501333-67.2 0-44.8-4.501333-89.578667-17.92-129.92-8.96-13.44-13.461333-26.88-17.941333-40.341333-8.96-22.378667-22.4-44.8-40.32-62.698667-17.92-22.4-40.341333-85.12-80.64-67.2-13.44 4.501333-22.4 22.421333-31.36 31.381333l-26.88 40.32c-4.501333 4.48-8.96 13.44-4.501333 17.92 0 4.48 4.501333 4.48 8.96 4.48 8.96 4.501333 13.461333 4.501333 22.421333 8.96 4.48 0 8.96 4.501333 4.48 8.96 0 0 0 4.501333-4.48 4.501334-22.421333 22.4-44.8 40.32-67.2 62.698666-4.48 4.48-8.96 13.44-8.96 17.92s4.48 4.48 4.48 8.96c0 4.501333-4.48 4.501333-8.96 8.96-8.96 4.501333-17.92 8.96-22.4 13.461334-4.48 8.96 0 22.4-4.48 31.36-4.48 22.4-17.941333 40.32-26.901333 62.72-8.96 13.418667-13.418667 26.88-22.378667 40.32 0 17.92-4.501333 31.36 4.458667 44.8 22.421333 31.36 62.72 13.44 94.08 26.901333 8.96 4.458667 17.92 4.458667 22.421333 13.418667 13.418667 13.461333 13.418667 35.861333 17.92 49.301333 4.458667 17.92 8.96 35.84 17.92 53.76 4.48 22.421333 13.44 44.821333 17.92 62.72 40.341333-31.36 76.16-67.178667 103.04-112 26.88-31.424 40.341333-67.242667 53.76-103.104" fill="#CDDC39"></path></svg></span></a>
+<ol>
+<li>首先，下载源码，引入 <code>cos-album.css</code> 和 <code>cos-album.js</code></li>
+<li>然后，在你的 js 中 new 一个 Cosalbum 对象 ( xmlLink 后不需要添加<code>/</code>)</li>
+</ol>
+<h3 id="step1" class="heading-element"><span>Step1</span>
+  <a href="#step1" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="nx">link</span> <span class="nx">rel</span><span class="o">=</span><span class="s2">&#34;stylesheet&#34;</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&#34;text/css&#34;</span> <span class="nx">href</span><span class="o">=</span><span class="s2">&#34;cos-album.min.css?v=1.1.2&#34;</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&#34;text/javascript&#34;</span> <span class="nx">src</span><span class="o">=</span><span class="s2">&#34;cos-album.min.js?v=1.1.2&#34;</span><span class="o">&gt;&lt;</span><span class="err">/script&gt;</span></span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="step2" class="heading-element"><span>Step2</span>
+  <a href="#step2" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="o">&lt;</span><span class="nx">script</span> <span class="nx">type</span><span class="o">=</span><span class="s2">&#34;text/javascript&#34;</span><span class="o">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">new</span> <span class="nx">Cosalbum</span><span class="p">({</span>
+</span></span><span class="line"><span class="cl">    <span class="s1">&#39;xmlLink&#39;</span><span class="o">:</span> <span class="s1">&#39;https://img-xxxxxxxxxx.cos.ap-chengdu.myqcloud.com&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="s1">&#39;prependTo&#39;</span><span class="o">:</span> <span class="s1">&#39;.cos-album&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="s1">&#39;viewNum&#39;</span><span class="o">:</span> <span class="mi">8</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="s1">&#39;imgUrl&#39;</span><span class="o">:</span> <span class="s1">&#39;//img.lruihao.cn&#39;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">});</span>
+</span></span><span class="line"><span class="cl"><span class="o">&lt;</span><span class="err">/script&gt;</span></span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="params" class="heading-element"><span>Params</span>
+  <a href="#params" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h3><table>
+  <thead>
+      <tr>
+          <th style="text-align: left">param</th>
+          <th style="text-align: left">type</th>
+          <th style="text-align: left">default</th>
+          <th style="text-align: left">description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">xmlLink</td>
+          <td style="text-align: left">String</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">需要解析的騰訊云 COS 桶 XML 鏈接</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">prependTo</td>
+          <td style="text-align: left">String</td>
+          <td style="text-align: left">&lsquo;body&rsquo;</td>
+          <td style="text-align: left">可選解析相冊到某個節點</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">viewNum</td>
+          <td style="text-align: left">Number</td>
+          <td style="text-align: left">4</td>
+          <td style="text-align: left">每個相冊顯示的照片數目</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">copyUrl</td>
+          <td style="text-align: left">String</td>
+          <td style="text-align: left">href</td>
+          <td style="text-align: left">CDN 链接，雙擊複製 URL Since: 1.1.6</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">imgType</td>
+          <td style="text-align: left">String</td>
+          <td style="text-align: left">[&lsquo;jpg&rsquo;, &lsquo;jpeg&rsquo;, &lsquo;png&rsquo;, &lsquo;gif&rsquo;, &lsquo;svg&rsquo;]</td>
+          <td style="text-align: left">图片類型 Since: 1.1.6</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">videoType</td>
+          <td style="text-align: left">String</td>
+          <td style="text-align: left">[&lsquo;mp4&rsquo;, &lsquo;mp3&rsquo;, &lsquo;avi&rsquo;, &lsquo;mov&rsquo;, &lsquo;qt&rsquo;]</td>
+          <td style="text-align: left">視頻類型 Since: 1.1.6</td>
+      </tr>
+  </tbody>
+</table>
+<p><code>viewport</code> 视个人情况添加。<br>
+hexo 中使用时 css 和 js 都需要做适当调整，配合加密功能使用等等，这里不再展开。<br>
+<strong><em>注：代码设定不加载根目录文件，所以可以利用静态服务把源码部署在根目录，配合 PicGo、COSBrowser 上传来搭建个人图床。</em></strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">html</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&#34;UTF-8&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>cos-album<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="c">&lt;!-- &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt; --&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">link</span> <span class="na">rel</span><span class="o">=</span><span class="s">&#34;stylesheet&#34;</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;text/css&#34;</span> <span class="na">href</span><span class="o">=</span><span class="s">&#34;cos-album.css&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;text/javascript&#34;</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;cos-album.js&#34;</span> <span class="na">defer</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&#34;text/javascript&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="k">new</span> <span class="nx">Cosalbum</span><span class="p">({</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">xmlLink</span><span class="o">:</span> <span class="s1">&#39;https://img-xxxxxxxxxx.cos.ap-chengdu.myqcloud.com&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">prependTo</span><span class="o">:</span> <span class="s1">&#39;.cos-album&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">viewNum</span><span class="o">:</span> <span class="mi">8</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">copyUrl</span><span class="o">:</span> <span class="s1">&#39;//img.lruihao.cn&#39;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">});</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="c">&lt;!-- 你的其他内容，如评论等 --&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span></span></span></code></pre></td></tr></table>
+</div>
+</div><p><a href="https://img.lruihao.cn" target="_blank" class="LinkCard">cos-album demo</a></p>
+<p><img loading="lazy" src="/projects/cos-album/images/view.png" alt="大屏显示" srcset="/projects/cos-album/images/view.png?size=small, /projects/cos-album/images/view.png?size=medium 1.5x, /projects/cos-album/images/view.png?size=large 2x" data-title="大屏显示" style="--width: 1898px;--aspect-ratio: 1898 / 900;background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/>
+<div id="id-1"><img loading="lazy" src="/projects/cos-album/images/mobile.png" alt="手机显示" srcset="/projects/cos-album/images/mobile.png?size=small, /projects/cos-album/images/mobile.png?size=medium 1.5x, /projects/cos-album/images/mobile.png?size=large 2x" data-title="手机显示" style="--width: 438px;--aspect-ratio: 438 / 776;background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/></div></p>
+<h2 id="changelog" class="heading-element"><span>changelog</span>
+  <a href="#changelog" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><ul>
+<li>2020-9-28 22:46
+<ol>
+<li>升級：相冊封裝成類，可以更方便 new 出來</li>
+<li>優化：相冊圖片樣式優化</li>
+</ol>
+</li>
+<li>2019-11-24 10:52:34
+修改整理了一下代码，分割功能为函数，并写了注释，更加方便 <a href="https://github.com/Lruihao/cos-album"target="_blank" rel="external nofollow noopener noreferrer">伸手党<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a>!</li>
+</ul></div><div class="post-footer" id="post-footer">
+  <div class="post-info">
+    <div class="post-info-line">
+      <div class="post-info-mod">
+        <span title="更新于 2019-11-24 10:52:34">更新于 2019-11-24&nbsp;</span>
+      </div><div class="post-info-license">
+            <span><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span>
+          </div></div><div class="post-info-line">
+        <div class="post-info-md"></div>
+        <div class="post-info-share">
+          <span><a href="javascript:void(0);" title="分享到 X" data-sharer="twitter" data-url="http://localhost:1313/projects/cos-album/" data-title="利用腾讯云为静态页面添加“动态”相册" data-hashtags="CosAlbum,腾讯云 cos 桶,JavaScript"><i class="fa-brands fa-x-twitter fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Facebook" data-sharer="facebook" data-url="http://localhost:1313/projects/cos-album/" data-hashtag="CosAlbum"><i class="fa-brands fa-facebook-square fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 WhatsApp" data-sharer="whatsapp" data-url="http://localhost:1313/projects/cos-album/" data-title="利用腾讯云为静态页面添加“动态”相册" data-web><i class="fa-brands fa-whatsapp fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Line" data-sharer="line" data-url="http://localhost:1313/projects/cos-album/" data-title="利用腾讯云为静态页面添加“动态”相册"><svg class="icon" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LINE</title><path d="M19.365 9.863c.349.0.63.285.63.631.0.345-.281.63-.63.63H17.61v1.125h1.755c.349.0.63.283.63.63.0.344-.281.629-.63.629h-2.386c-.345.0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346.0.627.285.627.63.0.349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211.0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346.0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195.0.375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345.0.63.285.63.63v4.771zm-5.741.0c0 .344-.282.629-.631.629-.345.0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346.0.628.285.628.63v4.771zm-2.466.629H4.917c-.345.0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348.0.63.285.63.63v4.141h1.756c.348.0.629.283.629.63.0.344-.282.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943.0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg></a>
+  <a href="javascript:void(0);" title="分享到 微博" data-sharer="weibo" data-url="http://localhost:1313/projects/cos-album/" data-title="利用腾讯云为静态页面添加“动态”相册" data-image="/projects/cos-album/images/view.png"><i class="fa-brands fa-weibo fa-fw" aria-hidden="true"></i></a>
+  <a href="javascript:void(0);" title="分享到 Myspace" data-sharer="myspace" data-url="http://localhost:1313/projects/cos-album/" data-title="利用腾讯云为静态页面添加“动态”相册" data-description=""><svg class="icon" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Myspace</title><path d="M19.802 12.274A3.811 3.811.0 0023.62 8.47c0-2.101-1.71-3.795-3.818-3.795a3.816 3.816.0 00-3.818 3.81 3.817 3.817.0 003.818 3.811zm-8.602.705a3.43 3.43.0 003.435-3.424A3.43 3.43.0 0011.2 6.13 3.44 3.44.0 007.764 9.566 3.436 3.436.0 0011.2 13zm-7.8.635c1.71.0 3.093-1.38 3.093-3.081.0-1.704-1.395-3.084-3.105-3.084A3.086 3.086.0 00.3 10.539c0 1.7 1.387 3.078 3.095 3.078zm0 .705c-1.96.0-3.4 1.717-3.4 3.495v1.196c0 .17.138.31.31.31h6.18a.31.31.0 00.309-.31v-1.196c0-1.779-1.437-3.5-3.398-3.5zm7.8-.56c-2.18.0-3.78 1.915-3.78 3.891v1.331c0 .188.156.344.345.344h6.87a.344.344.0 00.342-.344V17.65c0-1.976-1.598-3.891-3.777-3.891zm8.602-.617c-2.422.0-4.197 2.126-4.197 4.323v1.477c0 .21.172.381.382.381h7.63c.21.0.383-.171.383-.381v-1.477c-.001-2.197-1.776-4.323-4.198-4.323z"/></svg></a>
+  <a href="javascript:void(0);" title="分享到 百度" data-sharer="baidu" data-url="http://localhost:1313/projects/cos-album/" data-title="利用腾讯云为静态页面添加“动态”相册"><svg class="icon" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Baidu</title><path d="M9.154.0C7.71.0 6.54 1.658 6.54 3.707c0 2.051 1.171 3.71 2.615 3.71 1.446.0 2.614-1.659 2.614-3.71C11.768 1.658 10.6.0 9.154.0zm7.025.594C14.86.58 13.347 2.589 13.2 3.927c-.187 1.745.25 3.487 2.179 3.735 1.933.25 3.175-1.806 3.422-3.364.252-1.555-.995-3.364-2.362-3.674a1.218 1.218.0 00-.261-.03zM3.582 5.535a2.811 2.811.0 00-.156.008c-2.118.19-2.428 3.24-2.428 3.24-.287 1.41.686 4.425 3.297 3.864 2.617-.561 2.262-3.68 2.183-4.362-.125-1.018-1.292-2.773-2.896-2.75zm16.534 1.753c-2.308.0-2.617 2.119-2.617 3.616.0 1.43.121 3.425 2.988 3.362s2.553-3.238 2.553-3.988c0-.745-.62-2.99-2.924-2.99zm-8.264 2.478c-1.424.014-2.708.925-3.323 1.947-1.118 1.868-2.863 3.05-3.112 3.363-.25.309-3.61 2.116-2.864 5.42.746 3.301 3.365 3.237 3.365 3.237s1.93.19 4.171-.31c2.24-.495 4.17.123 4.17.123s5.233 1.748 6.665-1.616c1.43-3.364-.808-5.109-.808-5.109s-2.99-2.306-4.736-4.798c-1.072-1.665-2.348-2.268-3.528-2.257zm-2.234 3.84 1.542.024v8.197H7.758c-1.47-.291-2.055-1.292-2.13-1.462-.072-.173-.488-.976-.268-2.343.635-2.049 2.447-2.196 2.447-2.196h1.81zm3.964 2.39v3.881c.096.413.612.488.612.488h1.614v-4.343h1.689v5.782h-3.915c-1.517-.39-1.59-1.465-1.59-1.465v-4.317zm-5.458 1.147c-.66.197-.978.708-1.05.928-.076.22-.247.78-.1 1.269.294 1.095 1.248 1.144 1.248 1.144h1.37v-3.34z"/></svg></a>
+  </span>
+        </div>
+      </div></div>
+
+  <div class="post-info-more">
+    <section class="post-tags"><i class="fa-solid fa-tags fa-fw me-1" aria-hidden="true"></i><a href="/tags/cosalbum/" class="post-tag" title="标签 - CosAlbum">CosAlbum</a><a href="/tags/%E8%85%BE%E8%AE%AF%E4%BA%91-cos-%E6%A1%B6/" class="post-tag" title="标签 - 腾讯云 Cos 桶">腾讯云 Cos 桶</a><a href="/tags/javascript/" class="post-tag" title="标签 - JavaScript">JavaScript</a></section>
+    <section>
+      <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
+    </section>
+  </div><div class="post-nav"><a href="/referto/emoji-support/" class="post-nav-item" rel="prev" title="Emoji 支持"><i class="fa-solid fa-angle-left fa-fw" aria-hidden="true"></i>Emoji 支持</a><a href="/test/git/" class="post-nav-item" rel="next" title="Git 常用指令汇总">Git 常用指令汇总<i class="fa-solid fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+<div class="post-reward">
+    <div class="comment">给作者买杯卡布奇诺～</div>
+    <input type="checkbox" class="reward-input" name="reward" id="fi-reward" hidden />
+    <label class="reward-button" for="fi-reward"><i class="fa-solid fa-qrcode fa-fw" aria-hidden="true"></i>赞赏</label>
+    <div class="reward-ways" data-mode="static"><div><img loading="lazy" src="/images/alipay.jpg" alt="支付宝" data-title="支付宝" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span data-animation>支付宝</span>
+          </div><div><img loading="lazy" src="/images/wechatpay.jpg" alt="微信" data-title="微信" style="background: url(/images/loading.min.svg) no-repeat center;" onload="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}this.dataset.lazyloaded='';" onerror="this.title=this.dataset.title;for(const i of ['style', 'data-title','onerror','onload']){this.removeAttribute(i);}"/><span data-animation>微信</span>
+          </div></div>
+  </div></article>
+
+  <aside class="toc" id="toc-auto" aria-label="目录"><h2 class="toc-title">目录&nbsp;<i class="toc-icon fa-solid fa-angle-down fa-fw" aria-hidden="true"></i></h2>
+      <div class="toc-content" id="toc-content-auto"></div></aside></main><footer class="footer">
+    <div class="footer-container"><div class="footer-line powered">由 <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.145.0"><img class="hugo-icon" src="/images/hugo.min.svg" alt="Hugo logo" /> Hugo</a> 强力驱动 | 主题 - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.3.17-015610b7"><img class="fixit-icon" src="/images/fixit.min.svg" alt="FixIt logo" /> FixIt</a>
+        </div><div class="footer-line copyright" itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-regular fa-copyright fa-fw" aria-hidden="true"></i>
+            <span itemprop="copyrightYear">2023 - 2025</span><span class="author" itemprop="copyrightHolder">
+              <a href="/"></a></span><span class="license footer-divider"><a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div><div class="footer-line statistics order-first"><span class="site-time" title='网站运行中……'><i class="fa-solid fa-heartbeat fa-fw animate-icon" aria-hidden="true"></i><span class="ms-1 d-none">博客已运行</span><span class="run-times ms-1">网站运行中……</span></span></div></div>
+  </footer></div><div class="widgets"><div class="fixed-buttons animate__faster d-none"><div class="fixed-button back-to-top" role="button" aria-label="回到顶部"><i class="fa-solid fa-arrow-up fa-fw" aria-hidden="true"></i><span class="variant-numeric">0%</span>
+        </div></div><div id="mask"></div><div class="reading-progress-bar" style="left: 0;top: 0;--bg-progress: #000;--bg-progress-dark: #fff;"></div><noscript>
+    <div class="noscript-warning">该网站在启用 JavaScript 的情况下效果最佳。</div>
+  </noscript>
+</div><link rel="stylesheet" href="/lib/lightgallery/css/lightgallery-bundle.min.css"><link rel="preload" href="/lib/katex/katex.min.css" as="style" onload="this.removeAttribute('onload');this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/lib/katex/katex.min.css"></noscript><link rel="stylesheet" href="/lib/cookieconsent/cookieconsent.min.css"><link rel="stylesheet" href="/lib/pace/themes/blue/pace-theme-minimal.css"><link rel="stylesheet" href="/css/51879e54.min.css"><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.js?features=Array.prototype.fill%2CArray.prototype.find%2CArray.from%2CIntersectionObserver%2CMath.sign%2CObject.assign%2CPromise%2CObject.entries%2Chtml5shiv%2CObject.values%2Cfetch%2CElement.prototype.after"></script><script src="/lib/object-fit-images/ofi.min.js"></script><script src="/lib/autocomplete/autocomplete.min.js" defer></script><script src="/lib/instant-page/instantpage.min.js" async defer type="module"></script><script src="/lib/lightgallery/lightgallery.min.js" defer></script><script src="/lib/lightgallery/plugins/thumbnail/lg-thumbnail.min.js" defer></script><script src="/lib/lightgallery/plugins/zoom/lg-zoom.min.js" defer></script><script src="/lib/sharer/sharer.min.js" async defer></script><script src="/lib/typeit/index.umd.js" defer></script><script src="/lib/katex/katex.min.js" defer></script><script src="/lib/katex/auto-render.min.js" defer></script><script src="/lib/katex/copy-tex.min.js" defer></script><script src="/lib/katex/mhchem.min.js" defer></script><script src="/lib/cookieconsent/cookieconsent.min.js" defer></script><script src="/lib/pangu/pangu.min.js" defer></script><script src="/lib/cell-watermark/watermark.min.js" defer></script><script src="/lib/pace/pace.min.js" async defer></script><script>window.config={"autoBookmark":true,"code":{"copyTitle":"复制到剪贴板","editLockTitle":"锁定可编辑代码块","editUnLockTitle":"解锁可编辑代码块","editable":true,"maxShownLines":10},"comment":{"enable":false},"cookieconsent":{"content":{"dismiss":"同意","link":"了解更多","message":"本网站使用 Cookies 来改善您的浏览体验。"},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"lightgallery":true,"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"pangu":{"enable":true,"selector":"article"},"search":{"highlightTag":"em","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50},"siteTime":"2023-02-28T20:01:01+08:00","typeit":{"cursorChar":"|","cursorSpeed":1000,"duration":-1,"loop":false,"speed":100},"version":"v0.3.17-015610b7","watermark":{"appendto":".wrapper\u003emain","colspacing":30,"content":"\u003cimg style=\"height: 0.85rem;\" src=\"/logo.png\" alt=\"logo\" /\u003e Fun","enable":true,"fontfamily":"MMT_LRH,沐目体","fontsize":0.85,"height":20,"opacity":0.0125,"rotate":15,"rowspacing":60,"width":150}};console.log('Page config:', window.config);</script><script src="/js/theme.min.js" defer></script></body>
+</html>

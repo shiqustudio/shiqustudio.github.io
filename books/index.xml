@@ -1,66 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>书籍合集 on 拾趣资源</title>
-    <link>https://blog.funvip.live/books/</link>
-    <description>Recent content in 书籍合集 on 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>书籍合集 - 拾趣资源</title>
+    <link>http://localhost:1313/books/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
     <language>zh-CN</language>
-    <managingEditor>43144966@qq.com (聪)</managingEditor>
-    <webMaster>43144966@qq.com (聪)</webMaster><atom:link href="https://blog.funvip.live/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Sep 2024 17:44:37 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🗺️书籍搜索</title>
-      <link>https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</link>
+      <link>http://localhost:1313/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</link>
       <pubDate>Tue, 28 Nov 2023 12:27:11 +0000</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</guid>
-      <description>&lt;p&gt;💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub 等资源。其他更多相关资源&lt;a href=&#34;https://blog.funvip.live/books/xlibary/&#34;&gt;书籍在线查找&lt;/a&gt;、&lt;a href=&#34;https://blog.funvip.live/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/&#34;&gt;古籍下载&lt;/a&gt;。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/books/%E4%B9%A6%E7%B1%8D%E6%90%9C%E7%B4%A2/</guid>
+      <category domain="http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/">电子书</category>
+      <category domain="http://localhost:1313/categories/%E8%AE%BA%E6%96%87/">论文</category>
+      <category domain="http://localhost:1313/categories/%E6%96%87%E7%8C%AE/">文献</category>
+      <category domain="http://localhost:1313/categories/%E9%98%85%E8%AF%BB/">阅读</category>
+      <description>&lt;p&gt;💡 收集学术、论文、电子书、Z-Library、Library Genesis、Sci-Hub 等资源。其他更多相关资源&lt;a href=&#34;http://localhost:1313/books/xlibary/&#34;&gt;书籍在线查找&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/&#34;&gt;古籍下载&lt;/a&gt;。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>📰英文翻译</title>
-      <link>https://blog.funvip.live/books/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/</link>
+      <link>http://localhost:1313/books/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/</link>
       <pubDate>Tue, 21 Nov 2023 17:27:11 +0000</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/books/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/</guid>
+      <guid>http://localhost:1313/books/%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/</guid>
+      <category domain="http://localhost:1313/categories/%E7%BF%BB%E8%AF%91/">翻译</category>
+      <category domain="http://localhost:1313/categories/%E8%8B%B1%E8%AF%AD/">英语</category>
       <description>&lt;p&gt;💡 有了这些PDF翻译软件，再也不愁看英文文献了&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>✍️英语学习</title>
-      <link>https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</link>
+      <link>http://localhost:1313/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Sat, 22 Jul 2023 17:27:11 +0000</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>http://localhost:1313/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</guid>
+      <category domain="http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/">学习</category>
+      <category domain="http://localhost:1313/categories/%E8%8B%B1%E8%AF%AD/">英语</category>
       <description>&lt;p&gt;&lt;strong&gt;💡 收集汇总英语学习方面的插件，文档，经验等资源&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>🐵编程学习</title>
-      <link>https://blog.funvip.live/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</link>
+      <link>http://localhost:1313/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Sat, 22 Jul 2023 17:27:11 +0000</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>http://localhost:1313/books/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/</guid>
+      <category domain="http://localhost:1313/categories/%E7%BC%96%E7%A8%8B/">编程</category>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E7%AB%99/">网站</category>
       <description>&lt;p&gt;💡 整理收集计算机编程学习等相关资源。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>📩时光邮局</title>
-      <link>https://blog.funvip.live/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</link>
+      <link>http://localhost:1313/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</link>
       <pubDate>Mon, 26 Jun 2023 17:27:11 +0000</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</guid>
+      <guid>http://localhost:1313/books/%E6%97%B6%E5%85%89%E9%82%AE%E5%B1%80/</guid>
+      <category domain="http://localhost:1313/categories/%E7%BD%91%E7%AB%99/">网站</category>
       <description>&lt;p&gt;写一封信，透过时光，留给未来自己的阅读&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>📖X-Library</title>
-      <link>https://blog.funvip.live/books/xlibary/</link>
+      <link>http://localhost:1313/books/xlibary/</link>
       <pubDate>Thu, 22 Jun 2023 17:27:11 +0000</pubDate>
-      <author>43144966@qq.com (聪)</author>
-      <guid>https://blog.funvip.live/books/xlibary/</guid>
-      <description>&lt;p&gt;💡整理收集书籍下载、读书工具、辅助读书工具、书籍管理、新闻阅读等相关资源。其他更多相关资源&lt;a href=&#34;https://blog.funvip.live/books/%e4%b9%a6%e7%b1%8d%e6%90%9c%e7%b4%a2/&#34;&gt;电子书籍下载&lt;/a&gt;、&lt;a href=&#34;https://blog.funvip.live/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/&#34;&gt;古籍下载&lt;/a&gt;。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/books/xlibary/</guid>
+      <category domain="http://localhost:1313/categories/%E7%94%B5%E5%AD%90%E4%B9%A6/">电子书</category>
+      <category domain="http://localhost:1313/categories/%E9%98%85%E8%AF%BB/">阅读</category>
+      <description>&lt;p&gt;💡整理收集书籍下载、读书工具、辅助读书工具、书籍管理、新闻阅读等相关资源。其他更多相关资源&lt;a href=&#34;http://localhost:1313/books/%e4%b9%a6%e7%b1%8d%e6%90%9c%e7%b4%a2/&#34;&gt;电子书籍下载&lt;/a&gt;、&lt;a href=&#34;http://localhost:1313/website/%e8%af%86%e5%85%b8%e5%8f%a4%e7%b1%8d/&#34;&gt;古籍下载&lt;/a&gt;。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

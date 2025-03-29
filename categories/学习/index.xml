@@ -1,18 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学习 - 分类 - 拾趣资源</title>
-    <link>https://blog.funvip.live/categories/%E5%AD%A6%E4%B9%A0/</link>
-    <description>学习 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E5%AD%A6%E4%B9%A0/" rel="self" type="application/rss+xml" /><item>
-  <title>✍️英语学习</title>
-  <link>https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</link>
-  <pubDate>Sat, 22 Jul 2023 17:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</guid>
-  <description><![CDATA[<div class="featured-image">
-        <img src="https://bib0.com/xc/i/2023/06/26/image-20230626213913396.png" referrerpolicy="no-referrer">
-      </div><p><strong>💡 收集汇总英语学习方面的插件，文档，经验等资源</strong></p>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>✍️英语学习</title>
+      <link>http://localhost:1313/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sat, 22 Jul 2023 17:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/books/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</guid>
+      <category domain="http://localhost:1313/categories/%E5%AD%A6%E4%B9%A0/">学习</category>
+      <category domain="http://localhost:1313/categories/%E8%8B%B1%E8%AF%AD/">英语</category>
+      <description>&lt;p&gt;&lt;strong&gt;💡 收集汇总英语学习方面的插件，文档，经验等资源&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

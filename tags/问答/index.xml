@@ -1,18 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>问答 - 标签 - 拾趣资源</title>
-    <link>https://blog.funvip.live/tags/%E9%97%AE%E7%AD%94/</link>
-    <description>问答 - 标签 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</lastBuildDate><atom:link href="https://blog.funvip.live/tags/%E9%97%AE%E7%AD%94/" rel="self" type="application/rss+xml" /><item>
-  <title>常见问答</title>
-  <link>https://blog.funvip.live/question/</link>
-  <pubDate>Mon, 20 Mar 2023 17:15:44 &#43;0800</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/question/</guid>
-  <description><![CDATA[<blockquote>
-<p>本文档记录一些常见的问答，主要来自 <a href="https://github.com/shiqustudio/giscus/discussions"target="_blank" rel="external nofollow noopener noreferrer">GitHub Discussions<i class="fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary" aria-hidden="true"></i></a> 和 QQ 群：<code>864217652</code>。</p>
-</blockquote>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/tags/%E9%97%AE%E7%AD%94/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%97%AE%E7%AD%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常见问答</title>
+      <link>http://localhost:1313/question/</link>
+      <pubDate>Mon, 20 Mar 2023 17:15:44 +0800</pubDate>
+      <guid>http://localhost:1313/question/</guid>
+      <category domain="http://localhost:1313/categories/%E9%97%AE%E7%AD%94/">问答</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;本文档记录一些常见的问答，主要来自 &lt;a href=&#34;https://github.com/shiqustudio/giscus/discussions&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;GitHub Discussions&lt;i class=&#34;fa-solid fa-external-link-alt fa-fw fa-xs ms-1 text-secondary&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt; 和 QQ 群：&lt;code&gt;864217652&lt;/code&gt;。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
 </rss>

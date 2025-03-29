@@ -1,18 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>微软 - 分类 - 拾趣资源</title>
-    <link>https://blog.funvip.live/categories/%E5%BE%AE%E8%BD%AF/</link>
-    <description>微软 - 分类 - 拾趣资源</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>43144966@qq.com (聪)</managingEditor>
-      <webMaster>43144966@qq.com (聪)</webMaster><lastBuildDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</lastBuildDate><atom:link href="https://blog.funvip.live/categories/%E5%BE%AE%E8%BD%AF/" rel="self" type="application/rss+xml" /><item>
-  <title>🏜️壁纸资源</title>
-  <link>https://blog.funvip.live/website/%E5%A3%81%E7%BA%B8/</link>
-  <pubDate>Mon, 19 Jun 2023 21:27:11 &#43;0000</pubDate>
-  <author>聪</author>
-  <guid>https://blog.funvip.live/website/%E5%A3%81%E7%BA%B8/</guid>
-  <description><![CDATA[<blockquote>
-<p>🤖整理并分享一些优质壁纸资源，排名不分先后，排序根据国内到国外排序。</p>
-</blockquote>]]></description>
-</item>
-</channel>
+    <link>http://localhost:1313/categories/%E5%BE%AE%E8%BD%AF/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%BE%AE%E8%BD%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🏜️壁纸资源</title>
+      <link>http://localhost:1313/website/%E5%A3%81%E7%BA%B8/</link>
+      <pubDate>Mon, 19 Jun 2023 21:27:11 +0000</pubDate>
+      <guid>http://localhost:1313/website/%E5%A3%81%E7%BA%B8/</guid>
+      <category domain="http://localhost:1313/categories/%E5%A3%81%E7%BA%B8/">壁纸</category>
+      <category domain="http://localhost:1313/categories/%E5%BE%AE%E8%BD%AF/">微软</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;🤖整理并分享一些优质壁纸资源，排名不分先后，排序根据国内到国外排序。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
 </rss>

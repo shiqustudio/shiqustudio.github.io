@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects - 分类 - 拾趣资源</title>
+    <link>http://localhost:1313/categories/projects/</link>
+    <description>世界在下沉，我们在狂欢</description>
+    <generator>Hugo 0.145.0 &amp; FixIt v0.3.17-015610b7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2024 16:31:25 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用腾讯云为静态页面添加“动态”相册</title>
+      <link>http://localhost:1313/projects/cos-album/</link>
+      <pubDate>Sun, 24 Nov 2019 10:52:34 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cos-album/</guid>
+      <category domain="http://localhost:1313/categories/projects/">Projects</category>
+      <category domain="http://localhost:1313/categories/javascript/">JavaScript</category>
+      <description>&lt;div class=&#34;details admonition info open&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-solid fa-circle-info&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;信息&lt;i class=&#34;details-icon fa-solid fa-angle-right fa-fw&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;cos 桶相册，终于！！终于来了！！，idea 来自 [兰州小红鸡 - 给 hexo 静态博客添加动态相册功能]，&lt;br&gt;&#xA;&lt;strong&gt;&lt;span style=&#34;color: #428bca;&#34;&gt;功能虽好，但是还是先友情提示！&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;&#xA;开放 API 是一个&lt;strong&gt;很危险&lt;/strong&gt;的操作，意味着你的 cos 桶里面的所有资源包括目录结构都暴露的整个世界中，所以建议不要放一些比较私密的照片，保护自己的隐私，提防不良用心之人。下面就开始吧！&lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>沐目体</title>
+      <link>http://localhost:1313/projects/font-mmt/</link>
+      <pubDate>Fri, 12 Oct 2018 19:39:19 +0000</pubDate>
+      <guid>http://localhost:1313/projects/font-mmt/</guid>
+      <category domain="http://localhost:1313/categories/projects/">Projects</category>
+      <description>&lt;iframe class=&#34;manuscript&#34; src=&#34;https://hw.xiezixiansheng.com/mobile.php?c=Grzkreader&amp;a=fontshowPics&amp;u=qbfRl8gPF2s-&amp;z=Kqz%2FRroVGYc-&#34; style=&#34;width: 100%;height: 370px;margin-top: .25rem;&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>

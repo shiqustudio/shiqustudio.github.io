@@ -1,158 +1,158 @@
 # 🖼️图片空间
 
 
-> ✅图片空间列表、介绍，再也不怕上传图片找不到空间啰！[图床使用和工具选择经验](https://zj1123581321.com/post/2019-04-28154/)
+&gt; ✅图片空间列表、介绍，再也不怕上传图片找不到空间啰！[图床使用和工具选择经验](https://zj1123581321.com/post/2019-04-28154/)
 
-<!--more-->
+&lt;!--more--&gt;
 
->✅图片外链（图床）可以用于论坛、网站、评论、聊天等；免费稳定好用的永久图片外链图床
->
->⁉️图片外链因为 xxx 原因、国内无法访问，且图片无法显示无法打开或者防盗链问题可以看：[图片防盗链最终解决方案](/tools/防盗链/)
->
->👉如果上面的都不能解决问题，更多的免费图片外链网站可以看：[免费图床导航](http://imgdh.com/)
->
->⁉️怎么找到本页？如果你不幸丢失了本页，那么可以在谷歌中搜索：`免费图片外链`，`免费图床`，`免费外链`
+&gt;✅图片外链（图床）可以用于论坛、网站、评论、聊天等；免费稳定好用的永久图片外链图床
+&gt;
+&gt;⁉️图片外链因为 xxx 原因、国内无法访问，且图片无法显示无法打开或者防盗链问题可以看：[图片防盗链最终解决方案](/tools/防盗链/)
+&gt;
+&gt;👉如果上面的都不能解决问题，更多的免费图片外链网站可以看：[免费图床导航](http://imgdh.com/)
+&gt;
+&gt;⁉️怎么找到本页？如果你不幸丢失了本页，那么可以在谷歌中搜索：`免费图片外链`，`免费图床`，`免费外链`
 
 ### 临时图床
 
-<table>
-  <tbody>
-     <tr>
-      <td> 网址 </td>
-      <td> 服务器 </td>
-      <td> 图片限制 </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://png.cm/"> 简单图床 </a>
-      </td>
-      <td> 国内 cdn </td>
-      <td> 50M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://img.ink/"> 水墨图床 </a>
-      </td>
-      <td> 国内 cdn </td>
-      <td> 50M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://img.xwyue.com/"> 星跃图床 </a>
-      </td>
-      <td> 香港 cdn </td>
-      <td> 50M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://img.chkaja.com/"> 爱上传 </a>
-      </td>
-      <td> 香港 cdn </td>
-      <td> 10M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://locimg.com/"> LOC </a>
-      </td>
-      <td> 美国 </td>
-      <td> 100M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://imger.nl/"> Imger </a>
-      </td>
-      <td> 亚太 cdn </td>
-      <td> 5M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://moeyy.cn/blog"> Moeyy </a>
-      </td>
-      <td> 亚太 cdn </td>
-      <td> 5M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://dd.ci/"> DD 图床 </a>
-      </td>
-      <td> 香港腾讯云 </td>
-      <td> 5M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://aisb.top/"> Aisb </a>
-      </td>
-      <td> 亚马逊云 </td>
-      <td> 5M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://rmimg.com/"> Rmimg </a>
-      </td>
-      <td> 香港腾讯云 </td>
-      <td> 10M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://img.lu/"> img.lu </a>
-      </td>
-      <td> cfcdn </td>
-      <td> 5M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://imgfg.com/"> imgfg </a>
-      </td>
-      <td> cfcdn </td>
-      <td> 100M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.uhsea.com/"> 屋舍 </a>
-      </td>
-      <td> cfcdn </td>
-      <td> 100M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://imgur.la/"> imgur.la </a>
-      </td>
-      <td> cfcdn </td>
-      <td> 10M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.yopngs.com/"> Yopngs </a>
-      </td>
-      <td> cfcdn </td>
-      <td> 10M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://38.382222.xyz/"> 38.382222 </a>
-      </td>
-      <td> 印度 </td>
-      <td> 10M </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://VRimg.com/"> vrimg </a>
-      </td>
-      <td> 美国 </td>
-      <td> 5M </td>
-    </tr>
-  </tbody>
-  </table
+&lt;table&gt;
+  &lt;tbody&gt;
+     &lt;tr&gt;
+      &lt;td&gt; 网址 &lt;/td&gt;
+      &lt;td&gt; 服务器 &lt;/td&gt;
+      &lt;td&gt; 图片限制 &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://png.cm/&#34;&gt; 简单图床 &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 国内 cdn &lt;/td&gt;
+      &lt;td&gt; 50M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://img.ink/&#34;&gt; 水墨图床 &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 国内 cdn &lt;/td&gt;
+      &lt;td&gt; 50M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://img.xwyue.com/&#34;&gt; 星跃图床 &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 香港 cdn &lt;/td&gt;
+      &lt;td&gt; 50M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://img.chkaja.com/&#34;&gt; 爱上传 &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 香港 cdn &lt;/td&gt;
+      &lt;td&gt; 10M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://locimg.com/&#34;&gt; LOC &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 美国 &lt;/td&gt;
+      &lt;td&gt; 100M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://imger.nl/&#34;&gt; Imger &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 亚太 cdn &lt;/td&gt;
+      &lt;td&gt; 5M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://moeyy.cn/blog&#34;&gt; Moeyy &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 亚太 cdn &lt;/td&gt;
+      &lt;td&gt; 5M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://dd.ci/&#34;&gt; DD 图床 &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 香港腾讯云 &lt;/td&gt;
+      &lt;td&gt; 5M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://aisb.top/&#34;&gt; Aisb &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 亚马逊云 &lt;/td&gt;
+      &lt;td&gt; 5M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://rmimg.com/&#34;&gt; Rmimg &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 香港腾讯云 &lt;/td&gt;
+      &lt;td&gt; 10M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://img.lu/&#34;&gt; img.lu &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; cfcdn &lt;/td&gt;
+      &lt;td&gt; 5M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://imgfg.com/&#34;&gt; imgfg &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; cfcdn &lt;/td&gt;
+      &lt;td&gt; 100M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://www.uhsea.com/&#34;&gt; 屋舍 &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; cfcdn &lt;/td&gt;
+      &lt;td&gt; 100M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://imgur.la/&#34;&gt; imgur.la &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; cfcdn &lt;/td&gt;
+      &lt;td&gt; 10M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://www.yopngs.com/&#34;&gt; Yopngs &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; cfcdn &lt;/td&gt;
+      &lt;td&gt; 10M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://38.382222.xyz/&#34;&gt; 38.382222 &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 印度 &lt;/td&gt;
+      &lt;td&gt; 10M &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://VRimg.com/&#34;&gt; vrimg &lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt; 美国 &lt;/td&gt;
+      &lt;td&gt; 5M &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;/table
 
-> 👆上方图床不用注册，国内速度尚可，推荐临时使用。更多的可以看：[免费图床速度比拼](https://fileup.dev/imgtest) 
->
-> 👉如果用于商业用途或用于个人网站还是自己搭建比较靠谱，图片存储在别人服务器，不存在稳定的说法。
+&gt; 👆上方图床不用注册，国内速度尚可，推荐临时使用。更多的可以看：[免费图床速度比拼](https://fileup.dev/imgtest) 
+&gt;
+&gt; 👉如果用于商业用途或用于个人网站还是自己搭建比较靠谱，图片存储在别人服务器，不存在稳定的说法。
 
 ### Dooong 公益图床 
 
-⭐️  资源描述： ▫️ 无需登录即可上传 ▫️ 免费上传图片，无水印 ▫️ CloudFlare+SaaS回源，优选IP ▫️ 新加坡服务器，全时段全球高速访问
+⭐️  资源描述： ▫️ 无需登录即可上传 ▫️ 免费上传图片，无水印 ▫️ CloudFlare&#43;SaaS回源，优选IP ▫️ 新加坡服务器，全时段全球高速访问
 
-![如显示该文字说明图片已挂](https://image.dooo.ng/i/2024/02/22/65d6942a97e8c.webp "如显示该文字说明图片已挂")
+![如显示该文字说明图片已挂](https://image.dooo.ng/i/2024/02/22/65d6942a97e8c.webp &#34;如显示该文字说明图片已挂&#34;)
 
 🌐 资源地址: 🚩 [首页](https://image.dooo.ng/)  
 
@@ -160,13 +160,13 @@
 
 ⭐️  资源描述： ▫️ 无需登录即可上传  ▫️ 免费上传图片，无水印  ▫️ 国内CDN加速，图片秒开  ▫️ 单文件≤10M，单次上传≤30张
 
-![如显示该文字说明图片已挂](https://img.gsimg.top/2024/02/21/slql3j.jpg "如显示该文字说明图片已挂")
+![如显示该文字说明图片已挂](https://img.gsimg.top/2024/02/21/slql3j.jpg &#34;如显示该文字说明图片已挂&#34;)
 
 🌐 资源地址: 🚩 [首页](https://www.gsimg.com/index.php) 
 
 ### hostloc 图床
 
-![如显示该文字说明图片已挂](https://3o.hk/images/2023/11/27/home_cover_1594834731811_56bfe8.jpg "如显示该文字说明图片已挂")
+![如显示该文字说明图片已挂](https://3o.hk/images/2023/11/27/home_cover_1594834731811_56bfe8.jpg &#34;如显示该文字说明图片已挂&#34;)
 
 ⭐️  资源描述： hostloc 论坛的一些大佬提供的图床，需要注册，稳定性尚可。
 
@@ -174,7 +174,7 @@
 
 ### 路过图床
 
-![路过图床图片外链，如显示该文字说明图片已挂](https://s1.ax1x.com/2020/05/11/YYMh1P.jpg "路过图床图片外链，如显示该文字说明图片已挂")
+![路过图床图片外链，如显示该文字说明图片已挂](https://s1.ax1x.com/2020/05/11/YYMh1P.jpg &#34;路过图床图片外链，如显示该文字说明图片已挂&#34;)
 
 ⭐️  资源描述：2011 年提供的知名免费图床，以托管千万图片，免注册，支持 HTTPS 速度一般，最大支持 10M 的图片
 
@@ -184,53 +184,53 @@
 
 ### sm.ms
 
-![SM.MS 外链，如显示该文字说明图片已挂](https://ooo.0o0.ooo/2017/02/13/58a1ad6ac4363.jpg "SM.MS外链，如显示该文字说明图片已挂")
+![SM.MS 外链，如显示该文字说明图片已挂](https://ooo.0o0.ooo/2017/02/13/58a1ad6ac4363.jpg &#34;SM.MS外链，如显示该文字说明图片已挂&#34;)
 
-> 🚩 图片外链展示 图片上传日期：2017 年 2 月 13 日
+&gt; 🚩 图片外链展示 图片上传日期：2017 年 2 月 13 日
 
 ⭐️  资源描述：15 年成立的免费图片外链网站。上传下载速度尚可。
 
-> - 需要注册，默认原图上传，支持 https
->
-> - 速度：国外服务器 ❤ ❤
->
-> - [smms.app](https://smms.app/) 支持的图片格式包括 JPG、JPEG、GIF、PNG 及 BMP，单档不超过 5 MB，单次可上传图片最大 10 张。图片永久保存，请勿上传非法图片，需要注册
+&gt; - 需要注册，默认原图上传，支持 https
+&gt;
+&gt; - 速度：国外服务器 ❤ ❤
+&gt;
+&gt; - [smms.app](https://smms.app/) 支持的图片格式包括 JPG、JPEG、GIF、PNG 及 BMP，单档不超过 5 MB，单次可上传图片最大 10 张。图片永久保存，请勿上传非法图片，需要注册
 
 🌐 资源地址: [点击跳转](https://smms.app/)
 
 ### z4a 图床
 
-![z4a.net 如显示该文字说明图片已挂](https://www.z4a.net/images/2017/07/20/myles-tan-91630.jpg "z4a.net如显示该文字说明图片已挂")
+![z4a.net 如显示该文字说明图片已挂](https://www.z4a.net/images/2017/07/20/myles-tan-91630.jpg &#34;z4a.net如显示该文字说明图片已挂&#34;)
 
-> 🚩 图片外链展示 图片上传日期：2017 年 7 月 02 日
+&gt; 🚩 图片外链展示 图片上传日期：2017 年 7 月 02 日
 
 ⭐️  资源描述：
 
-> 🟢需要注册，支持 HTTPS 速度一般
->
-> 👉速度：海外服务器 ❤ ❤ ❤
->
-> 🟠 [z4a.net](https://www.z4a.net/) 由于成立时间较短，稳定性未知。
+&gt; 🟢需要注册，支持 HTTPS 速度一般
+&gt;
+&gt; 👉速度：海外服务器 ❤ ❤ ❤
+&gt;
+&gt; 🟠 [z4a.net](https://www.z4a.net/) 由于成立时间较短，稳定性未知。
 
 🌐 资源地址: [点击跳转](https://www.z4a.net/)
 
 ###  Imgur      
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/imgur2013-07-04_1201.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/imgur2013-07-04_1201.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：[Imgur](https://imgur.com/) 免费图片空间使用教学，免注册上传分享图片❤ ❤ ❤
 
 ⭐️  资源描述：[imgur](https://imgur.com/) 是一个老牌的图片上传空间，从 2009 年开始提供服务，因为它很稳定、操作介面简单，加上使用限制少，所以深受用户喜爱，目前已经有相当庞大的使用族群，也和一些第三方服务结合，更方便将图片上传到 imgur 后产生分享链结。
 
-> [imgur](https://imgur.com/) 支援 JPEG, PNG, GIF, APNG, TIFF, BMP, PDF, XCF (GIMP) 等图片格式，TIFF, BMP, PDF 和 XCF (GIMP) 会自动被转为 PNG 上传。图片大小限制为 10 MB（非动态图），当图片超过 1 MB 时，会被强制压缩到 1 MB 以获得最佳的浏览品质，最大的动态图档大小为 2 MB（例如 GIF 和 PNG）。
->
-> [imgur](https://imgur.com/) 不会对图片流量进行限制，也就是说无论连结到 imgur 浏览图片，或是使用直接连结，都是无限流量。当图片在 6 个月内都没有任何人检视，就会自动从系统中移除。
+&gt; [imgur](https://imgur.com/) 支援 JPEG, PNG, GIF, APNG, TIFF, BMP, PDF, XCF (GIMP) 等图片格式，TIFF, BMP, PDF 和 XCF (GIMP) 会自动被转为 PNG 上传。图片大小限制为 10 MB（非动态图），当图片超过 1 MB 时，会被强制压缩到 1 MB 以获得最佳的浏览品质，最大的动态图档大小为 2 MB（例如 GIF 和 PNG）。
+&gt;
+&gt; [imgur](https://imgur.com/) 不会对图片流量进行限制，也就是说无论连结到 imgur 浏览图片，或是使用直接连结，都是无限流量。当图片在 6 个月内都没有任何人检视，就会自动从系统中移除。
 
 🌐 资源地址： [点击跳转](https://imgur.com/)    
 
 ### LinkPicture
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/linkpicture-01.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/linkpicture-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称： LinkPicture 免费图片托管服务，上传后产生可直连的超连结
 
@@ -242,7 +242,7 @@ LinkPicture 在上传图片后会产生各种网址格式，包括 HTML、BBcode
 
 ### imghut
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/imghut-01.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/imghut-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称： imghut 免费图片分享空间，支援五种格式图片可直连显示
 
@@ -254,7 +254,7 @@ Imghut 比较像是「网路相簿」运作方式，每个使用者都有自己�
 
 ### ZoomHub
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/zoomhub-01.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/zoomhub-01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称： ZoomHub 不同于一般图片空间，上传高解析度相片还能局部放大
 
@@ -268,7 +268,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ###  imgus         
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-08-01-14.29.41-redacted_dot_app.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-08-01-14.29.41-redacted_dot_app.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：imgus 免费图片、影片上传分享，可自订有效期限和浏览密码
 
@@ -278,7 +278,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ### Uploadee 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-30-14.26.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-30-14.26.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Uploadee 免费档案上传空间，单档 100 MB 提供图片直接连结
 
@@ -288,7 +288,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ### 薄荷图床
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-13-13.59.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-04-13-13.59.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：薄荷图床：免费图片转网址服务，中国模式可将图片上传香港伺服器
 
@@ -298,7 +298,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ### IM GE
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-20-16.10.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2022-03-20-16.10.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：IM GE 无限容量免费图片空间，支援各种格式可自订过期时间
 
@@ -312,7 +312,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ### Cloudflare Images
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-29-13.47.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-11-29-13.47.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Cloudflare Images 云端图片储存、尺寸调整，每月 5 美元可存 10 万张
 
@@ -328,7 +328,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ### Folio.ink
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-25-13.42.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-25-13.42.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Folio.ink 为创作者提供免费图片空间，批次上传以幻灯片模式浏览相簿
 
@@ -340,7 +340,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ### Decentrafile 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-14-14.01.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-09-14-14.01.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Decentrafile 免费、匿名去中心化云端空间，上传档案永不过期
 
@@ -354,7 +354,7 @@ ZoomHub 也提供把相片嵌入网页功能（Embed），如果需要可产生 
 
 ### Pasteboard 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-14-12.55.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-14-12.55.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Pasteboard 免费图片上传空间，支援单档 10 MB 永久保存无流量限制
 
@@ -370,7 +370,7 @@ Pasteboard 提供付费升级为 Premium 帐户功能，升级后可以登入、
 
 ### Postimages 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-24-20.38.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2021-08-24-20.38.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Postimages 老牌免费图片空间，可批次裁切尺寸、设定自动过期时间
 
@@ -382,7 +382,7 @@ Pasteboard 提供付费升级为 Premium 帐户功能，升级后可以登入、
 
 ### ImgBB
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/MacBook-Air-on-table.jpg" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/MacBook-Air-on-table.jpg&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：ImgBB 免费图片空间，支援多种常见格式可设定自动删除时间
 
@@ -394,13 +394,13 @@ Pasteboard 提供付费升级为 Premium 帐户功能，升级后可以登入、
 
 ### Control V 
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Screenshot-2020-03-14-13.49.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Screenshot-2020-03-14-13.49.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Control V 复制贴上图片免空，可线上编辑或产生分享链结
 
-⭐️  资源描述：「[Control V](https://ctrl.vi/)」就是非常有趣的工具，**Control V 是一个免费图片空间，整合基本的图片编辑工具，操作方法非常直觉，直接复制你要分享的图片，开启网站后使用快速键 Ctrl+V 贴上就能开始使用。**
+⭐️  资源描述：「[Control V](https://ctrl.vi/)」就是非常有趣的工具，**Control V 是一个免费图片空间，整合基本的图片编辑工具，操作方法非常直觉，直接复制你要分享的图片，开启网站后使用快速键 Ctrl&#43;V 贴上就能开始使用。**
 
-要使用 Control V 前必须将图片复制到你的剪贴簿（简单来说，就是对本机电脑上的图片按下复制），然后开启 Control V 网站后以快速键 `Ctrl+V` 贴上（如果 macOS 的话则是使用 `Command+V`），图片就会出现在网页中，使用者可以透过内建的编辑工具来裁切、翻转、突显特定范围、加入箭头或框线、插入文字、画笔、模糊等等，再将编辑后的图片下载、列印或是产生分享链结。
+要使用 Control V 前必须将图片复制到你的剪贴簿（简单来说，就是对本机电脑上的图片按下复制），然后开启 Control V 网站后以快速键 `Ctrl&#43;V` 贴上（如果 macOS 的话则是使用 `Command&#43;V`），图片就会出现在网页中，使用者可以透过内建的编辑工具来裁切、翻转、突显特定范围、加入箭头或框线、插入文字、画笔、模糊等等，再将编辑后的图片下载、列印或是产生分享链结。
 
 Control V 其实也是一个免空的概念，产生图片链结可以永久保存，依照开发者说明若图片没有违反规定，链结将会被永久保存下来，应该也没有流量方面的限制。
 
@@ -408,7 +408,7 @@ Control V 其实也是一个免空的概念，产生图片链结可以永久保�
 
 ### img.onl
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/img-onl.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/img-onl.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：img.onl 免费图片上传空间，支援单档 128 MB 可显示原图无广告
 
@@ -420,7 +420,7 @@ Control V 其实也是一个免空的概念，产生图片链结可以永久保�
 
 ### Imgbox
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/imgbox.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/imgbox.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Imgbox 老牌免费图片空间，支援常见格式无容量流量限制
 
@@ -434,7 +434,7 @@ Imgbox 无须注册就能使用，不过如果登入将可管理上传过的相�
 
 ### Upload.cc
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/Upload.cc2016-12-04_1146.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/Upload.cc2016-12-04_1146.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Upload.cc 免费图片空间，单档 5 MB 永久保存
 
@@ -448,7 +448,7 @@ Imgbox 无须注册就能使用，不过如果登入将可管理上传过的相�
 
 ### Miu Pix
 
-{{< image src="https://bib0.com/xc/i/hugoBlog/9adc9023b9ebb1adfec677738c4463bc.png" alt="-"  title="Fun's images" >}}    
+{{&lt; image src=&#34;https://bib0.com/xc/i/hugoBlog/9adc9023b9ebb1adfec677738c4463bc.png&#34; alt=&#34;-&#34;  title=&#34;Fun&#39;s images&#34; &gt;}}    
 
 🆔  资源名称：Miu Pix 免费贴图上传、分享空间（中文版）
 
@@ -461,6 +461,6 @@ Imgbox 无须注册就能使用，不过如果登入将可管理上传过的相�
 
 ---
 
-> 作者: [聪](/about)  
-> URL: https://blog.funvip.live/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/  
+> 作者:   
+> URL: http://localhost:1313/tools/%E5%9B%BE%E7%89%87%E7%A9%BA%E9%97%B4/  
 
